@@ -25,7 +25,8 @@ const esc = (s) => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</
 }
 
 const urls = [];
-const add = (u, date) => urls.push({ loc: SITE_URL + "/" + u, lastmod: date || TODAY });
+const seen = new Set();
+const add = (u, date) => { if (seen.has(u)) return; seen.add(u); urls.push({ loc: SITE_URL + "/" + u, lastmod: date || TODAY }); };
 
 add("", DATA_DATE);
 add("about.html", TODAY);

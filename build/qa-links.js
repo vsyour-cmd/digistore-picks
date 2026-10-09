@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-/** qa-links.js — 双站 QA:内部死链 + 中文字符泄漏 + sitemap 覆盖检查(本地全量) */
+/** qa-links.js — 双站 QA:内部死链 + 中文字符泄漏 + 模板${}泄漏 + sitemap 覆盖(本地全量) */
 const fs = require("fs");
 const path = require("path");
 
@@ -20,6 +20,7 @@ function qaSite(root, label, dirs) {
   const exists = new Set(files);
   const cjk = [];
   const dead = [];
+  const leaks = [];
   let cjkChecked = 0;
   for (const file of files) {
     const html = fs.readFileSync(path.join(root, file), "utf8");
@@ -28,6 +29,9 @@ function qaSite(root, label, dirs) {
       if (m) cjk.push(`${file}: ${m.slice(0, 3).join(",")}`);
       cjkChecked++;
     }
+    // 模板泄漏门禁:构建产物不允许出现未插值的 ${...}
+    const lm = html.match(/\$\{[^}]{1,80}\}/g);
+    if (lm) leaks.push(`${file}: ${[...new Set(lm)].slice(0, 3).join(" | ")}`);
     const links = [...html.matchAll(/href="([^"]*\.html)(?:[?#][^"]*)?"/g)].map((m) => m[1]);
     const base = path.posix.dirname(file);
     for (let l of links) {
@@ -35,25 +39,25 @@ function qaSite(root, label, dirs) {
       const resolvedRaw = path.posix.normalize(path.posix.join(base === "." ? "" : base, l)).replace(/\\/g, "/");
       if (resolvedRaw.startsWith("../")) continue;
       if (exists.has(resolvedRaw)) continue;
-      // 容错:同文件名存在任意子目录(构建目录语义等价)
       const tail = resolvedRaw.split("/").pop();
       if ([...exists].some((e) => e === tail || e.endsWith("/" + tail))) continue;
       dead.push(`${file} → ${l}`);
     }
   }
-  return { files: files.length, cjk, dead };
+  return { files: files.length, cjk, dead, leaks };
+}
+
+function report(r, label) {
+  console.log(`${label}: ${r.files} pages | CJK泄漏页面: ${r.cjk.length} | 死链: ${r.dead.length} | 模板泄漏: ${r.leaks.length}`);
+  r.cjk.slice(0, 3).forEach((x) => console.log(`  ${label} CJK`, x));
+  r.dead.slice(0, 5).forEach((x) => console.log(`  ${label} DEAD`, x));
+  r.leaks.slice(0, 3).forEach((x) => console.log(`  ${label} LEAK`, x));
 }
 
 const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog"]);
 const de = qaSite("G:/Digistore24/site-de", "DE", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]);
-
-console.log(`EN: ${en.files} pages | CJK泄漏页面: ${en.cjk.length} | 死链: ${en.dead.length}`);
-en.cjk.slice(0, 5).forEach((x) => console.log("  CJK", x));
-en.dead.slice(0, 8).forEach((x) => console.log("  DEAD", x));
-
-console.log(`DE: ${de.files} pages | CJK泄漏页面: ${de.cjk.length} | 死链: ${de.dead.length}`);
-de.cjk.slice(0, 5).forEach((x) => console.log("  CJK", x));
-de.dead.slice(0, 8).forEach((x) => console.log("  DEAD", x));
+report(en, "EN");
+report(de, "DE");
 
 // sitemap 覆盖检查
 for (const [root, sm, dirs] of [
@@ -61,18 +65,15 @@ for (const [root, sm, dirs] of [
   ["G:/Digistore24/site-de", "sitemap.xml", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]],
 ]) {
   const smContent = fs.readFileSync(path.join(root, sm), "utf8");
-  const smUrls = new Set([...smContent.matchAll(/<loc>[^<]+\/([^<]+)<\/loc>/g)].map((m) => m[1]));
+  const smUrls = new Set([...smContent.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace(/^https:\/\/vsyour-cmd\.github\.io\/digistore-picks(-de)?\//, "")));
   const files = collect(root, dirs);
-  const notInSitemap = files.filter((f) => !smUrls.has(f));
-  const smMissing = [...smUrls].filter((u) => !existsFile(root, u));
-  console.log(`${path.basename(root)}: sitemap ${smUrls.size} 条 | 页面未入sitemap: ${notInSitemap.length} | sitemap指向不存在文件: ${smMissing.length}`);
+  const notInSitemap = files.filter((f) => !smUrls.has(f) && !smUrls.has("") && f !== "404.html" && !/^google[0-9a-f]+.html$/.test(f) && !/^[0-9a-f]{32}\.txt$/.test(f));
+  console.log(`${path.basename(root)}: sitemap ${smUrls.size} 条 | 应入未入: ${notInSitemap.length}`);
   notInSitemap.slice(0, 3).forEach((x) => console.log("  未入:", x));
-  smMissing.slice(0, 3).forEach((x) => console.log("  空指:", x));
-}
-function existsFile(root, rel) {
-  return fs.existsSync(path.join(root, rel));
 }
 
 // DE "correction" 残留检查
-const deIndex = fs.readFileSync("G:/Digistore24/site-de/blog/guide-gesundheit-fitness.html", "utf8");
-console.log("DE correction残留:", deIndex.includes("correction:") ? "有!" : "无");
+if (fs.existsSync("G:/Digistore24/site-de/blog/guide-gesundheit-fitness.html")) {
+  const deIndex = fs.readFileSync("G:/Digistore24/site-de/blog/guide-gesundheit-fitness.html", "utf8");
+  console.log("DE correction残留:", deIndex.includes("correction:") ? "有!" : "无");
+}

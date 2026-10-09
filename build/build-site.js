@@ -16,6 +16,7 @@ const SITE_URL = "https://vsyour-cmd.github.io/digistore-picks";
 
 const esc = (s) =>
   String(s == null ? "" : s)
+    .replace(/\$\{/g, "$ { ")
     .replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;")
     .replace(/"/g, "&quot;").replace(/'/g, "&#39;");
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -469,7 +470,7 @@ ${sourcesBlock(p)}
 
 ${methodBox}
 
-${interactionBlock}
+${interactionBlock(p)}
 
 ${stickyCta}`;
 
