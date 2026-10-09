@@ -110,11 +110,11 @@ const capDesc = (s, max = 158) => {
   return (sp > 80 ? cut.slice(0, sp) : cut).replace(/[\s,;]+$/g, "").replace(/[\s,;]+$/, "") + "…";
 };
 
-function layout({ title, desc, body, rel = ".", path = "", ogType = "website", ogImage = null, jsonLd = [], crumb = null }) {
+function layout({ title, desc, body, rel = ".", path = "", ogType = "website", ogImage = null, jsonLd = [], crumb = null, hreflangLinks = "" }) {
   const canonical = SITE_URL + "/" + path;
   const ogImg = ogImage
     ? (ogImage.startsWith("http") ? ogImage : SITE_URL + "/" + ogImage.replace(/^(\.\.\/)+/, ""))
-    : null;
+    : SITE_URL + "/assets/og-default.png";
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -132,9 +132,7 @@ ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitt
 <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1">
 <link rel="alternate" type="application/atom+xml" title="Blog feed" href="${rel}/feed.xml">
 <link rel="stylesheet" href="${rel}/assets/style.css">
-<link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/">
-<link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">
-${VERIFY_META}
+${hreflangLinks}${VERIFY_META}
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
@@ -153,7 +151,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website: 4271 Digistore24-Produkte</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website: 4271 Digistore24-Produkte</a> · <a href="${rel}/changelog.html">What's new</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -215,6 +213,21 @@ function tldr(p) {
 </div>`;
 }
 
+const HREF_HOME = '<link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/"><link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">';
+function deCatHref(catId) {
+  if (!DE_DATA) return null;
+  const c2 = DE_DATA.categories.find((c) => String(c.catId) === String(catId));
+  const c1 = DATA.categories.find((c) => String(c.catId) === String(catId));
+  if (!c2 || !c1) return null;
+  const mk = (cats) => {
+    const cnt = {};
+    for (const c of cats) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; }
+    return (c) => (cnt[slug(c.label)] > 1 ? slug(c.section) + "-" + slug(c.label) : slug(c.label));
+  };
+  const deFile = mk(DE_DATA.categories)(c2);
+  const enFile = mk(DATA.categories)(c1);
+  return '<link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/kategorie/' + deFile + '.html"><link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/category/' + enFile + '.html">';
+}
 // ---------- 首页 ----------
 function homePage() {
   const top = products.slice(0, 12);
@@ -243,6 +256,7 @@ ${uncategorized ? `\n<a href="category/uncategorized.html"><span>Uncategorized</
     publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL + "/about.html" },
   }];
   fs.writeFileSync(outPath("index.html"), layout({
+    hreflangLinks: HREF_HOME,
     title: `${SITE_NAME} — all ${DATA.total} Digistore24 products: prices, commissions & research`,
     desc: `Directory of ${DATA.total} Digistore24 products with official price, commission and conversion data plus sales-page research on every offer. ${DATA.categories.length} categories, updated ${datemark(DATA.scrapedAt)}.`,
     body, path: "", jsonLd,
@@ -306,7 +320,7 @@ ${pager(idx)}
       fs.writeFileSync(path.join(dir, file), layout({
         title: `${c.label} — ${items.length} Digistore24 products: prices & commissions${pages.length > 1 ? ` (page ${idx + 1})` : ""}`,
         desc: `${items.length} Digistore24 products in ${c.label}: official prices, commissions (avg ${money(avg, "USD")}), conversion and cancel rates. Updated ${datemark(DATA.scrapedAt)}.`,
-        body, rel: "..", path: `category/${file}`, jsonLd,
+        body, rel: "..", path: `category/${file}`, jsonLd, hreflangLinks: deCatHref(c.catId) || "",
         crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${file}` }],
       }));
     });
@@ -926,6 +940,18 @@ function aboutPage() {
   }));
 }
 
+function changelogPage() {
+  const f = path.join(ROOT, "build", "changelog.json");
+  if (!fs.existsSync(f)) return;
+  const entries = JSON.parse(fs.readFileSync(f, "utf8")).entries || [];
+  const body = `<h1>What's new on ${SITE_NAME}</h1>
+<p class="sub">Every improvement, logged daily. Marketplace data refreshes automatically each morning; the numbers across the site update with it.</p>
+${entries.map((e) => `<h2>${datemark(e.date)}</h2>
+<p>${esc(e.summary)}</p>
+<ul>${(e.changes || []).map((c) => `<li>${esc(c)}</li>`).join("")}</ul>`).join("\n")}`;
+  fs.writeFileSync(outPath("changelog.html"), layout({ title: `What's new — ${SITE_NAME}`, desc: `Daily changelog of ${SITE_NAME}: data refreshes, new reviews and improvements — ${DATA.total} Digistore24 products tracked.`, body, path: "changelog.html", hreflangLinks: HREF_HOME }));
+}
+
 const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
@@ -933,5 +959,6 @@ profilePages(altSlugs);
 const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 aboutPage();
+changelogPage();
 notFoundPage();
 console.log(`Built: index, about, 404, categories (paginated), ${products.length} product profiles, ${altCount} alternatives pages, ${bestCount} best-of pages. Articles protected: ${articleIds.size}`);

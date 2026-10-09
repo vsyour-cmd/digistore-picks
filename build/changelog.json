@@ -1,0 +1,18 @@
+{
+  "site": "en",
+  "entries": [
+    {
+      "date": "2026-10-09",
+      "summary": "Launch day: full site build with 1243 product profiles, 45+1 categories, 60 alternatives, 36 best-picks, sales-page research (1204/1243), local WebP images, FAQ on every product, dark mode, mobile sticky CTA.",
+      "changes": [
+        "1243 product profiles with marketplace data + verbatim sales-page research",
+        "45+1 category pages (paginated), 60 alternatives comparisons, 36 best-of picks",
+        "FAQ (6 Q&A) + FAQPage JSON-LD on every product page",
+        "Sales-page research coverage: 1204/1243 (97%), unreachable pages labeled",
+        "Images localized to WebP (35 MB), galleries on top offers",
+        "SEO: titles ≤68 chars, canonical, hreflang to German site, FAQPage/Product/Article JSON-LD, sitemap 1426 URLs, llms.txt",
+        "Affiliate links on all text CTAs and every product image"
+      ]
+    }
+  ]
+}

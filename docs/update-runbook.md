@@ -116,3 +116,10 @@ node build/ping-indexnow.js       # 德语目录名版(kategorie/empfehlungen/al
 - 研究覆盖率约86%,余为死链德语域名(如实标注,勿强行补)
 - 仓库: vsyour-cmd/digistore-picks-de;GSC/Bing 提交: https://vsyour-cmd.github.io/digistore-picks-de/sitemap.xml
 - 双站互链与 hreflang 已内置(页脚语言切换),构建时自动生成
+
+
+## 每日改进轮换与总结(自动任务第6/8步)
+
+- 改进清单: G:/Digistore24/improvements-backlog.json(每项 {id, site: both/en/de, title, done, doneDate})。每日取第一个未完成且匹配的项执行,完成标记 done+doneDate;失败的标记 done+note 并顺延下一项。
+- 每日总结: 两站 build/changelog.json 顶部插入今日条目 {date, summary, changes[]},保留≤60条;build-site 渲染为公开页 /changelog.html(What's new / Neuigkeiten),页脚有入口,sitemap 收录。
+- QA 门禁(qa-links.js): 死链=0、模板泄漏=0、标题>70=0、DE无correction残留。不过不提交。
