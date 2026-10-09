@@ -2,6 +2,15 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-10",
+      "summary": "Image galleries extended to the top 2000 offers by earnings: 475 products now show real sales-page imagery (up from 431). German site: 620 products (up from 385).",
+      "changes": [
+        "Galleries added to 44 more EN offers and 235 more DE offers (fetched from vendor sales pages, compressed to WebP)",
+        "Usage paragraphs from vendor pages now on 243 EN / 412 DE products",
+        "Backlog item gallery-2000 completed (improvements-backlog.json)"
+      ]
+    },
+    {
       "date": "2026-10-09",
       "summary": "Launch day: full site build with 1243 product profiles, 45+1 categories, 60 alternatives, 36 best-picks, sales-page research (1204/1243), local WebP images, FAQ on every product, dark mode, mobile sticky CTA.",
       "changes": [
