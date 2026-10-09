@@ -45,7 +45,10 @@ node build/build-blog.js            # 数据驱动博客
 
 数据文件结构(dataset.json):`{affiliateId:'adminstore', scrapedAt, researchedAt, total, withResearch, categories:[{catId,section,label,count}], products:[{id,productId,label,type,price,currency,commission,conversionRate,cancelRate,earningsPerSale,earningsPerClick,vendorName,description,imageUrl,salesPageUrl,promoLink,affiliateSupportPageUrl,autoAccept,billingTypes,createdAt,categories,categoryIds,research?}]}`
 
-推广链接规律:`promoLink = salesPageUrl + '#aff=adminstore'`;URL 含 `#`/`[占位符]` 的用 `https://www.digistore24.com/redir/{productId}/adminstore`。
+推广链接规律(三档):
+1. **Digistore24 自家域名**(digistore24.com/product、checkout-ds24.com/product):`销售页 + ('?'或'&') + 'aff=adminstore'`(查询参数,官方追踪格式,如 `?voucher=X&aff=adminstore`)
+2. **vendor 域名**:`销售页 + ('?'或'&') + 'aff=adminstore' + '#aff=adminstore'`(查询+锚点双保险:DS24 嵌入 JS 读锚点,funnel 工具读查询参数)
+3. **坏URL**(含 `#`、`[占位符]`、无销售页):规范重定向 `https://www.digistore24.com/redir/{productId}/adminstore`
 
 ## 阶段 5:发布
 

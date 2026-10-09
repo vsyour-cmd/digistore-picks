@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vsyour-cmd.github.io/digistore-picks/sitemap.xml

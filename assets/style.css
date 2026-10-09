@@ -86,3 +86,20 @@ footer.site { background: var(--card); border-top: 1px solid var(--line); paddin
 .cat-index a:hover { border-color: var(--accent); text-decoration: none; }
 .cat-index .n { color: var(--ink-soft); font-size: 0.85rem; }
 .pill-top { display: flex; gap: 8px; flex-wrap: wrap; margin: 8px 0 0; }
+
+/* SEO/GEO additions */
+.crumbs { font-size: 0.85rem; color: var(--ink-soft); margin: 0 0 18px; }
+.crumbs .sep { margin: 0 6px; color: #b6c0cd; }
+.tldr {
+  background: var(--accent-soft);
+  border: 1px solid #cfe5dd;
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  margin: 20px 0;
+  font-size: 0.95rem;
+}
+.tldr ul { margin: 8px 0 2px; padding-left: 20px; }
+.tldr li { margin: 4px 0; }
+p.lead { font-size: 1.05rem; max-width: 780px; }
+ul.az li { break-inside: avoid; }
+@media (max-width: 640px) { ul.az { columns: 1 !important; } }

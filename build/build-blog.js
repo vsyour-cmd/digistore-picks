@@ -10,7 +10,9 @@ const path = require("path");
 const ROOT = path.join(__dirname, "..");
 const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "dataset.json"), "utf8"));
 const SITE_NAME = "DigistorePicks";
+const SITE_URL = "https://vsyour-cmd.github.io/digistore-picks";
 const UPDATED = DATA.scrapedAt.slice(0, 10);
+const jsonSafe = (o) => JSON.stringify(o).replace(/</g, "\\u003c");
 
 const esc = (s) => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;").replace(/"/g, "&quot;");
 const slug = (s) => String(s).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
@@ -25,7 +27,19 @@ const catSlugMap = {};
 
 const products = DATA.products.map((p) => ({ ...p, slug: slug(p.label) + "-" + p.id }));
 
-function layout({ title, desc, body, rel = ".." }) {
+function layout({ title, desc, body, rel = "..", file = "", jsonLd = [] }) {
+  const canonical = SITE_URL + "/blog/" + file;
+  const article = {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    headline: title.replace(` — ${SITE_NAME}`, ""),
+    description: desc,
+    datePublished: UPDATED,
+    dateModified: UPDATED,
+    author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL + "/about.html" },
+    publisher: { "@type": "Organization", name: SITE_NAME, url: SITE_URL + "/" },
+    mainEntityOfPage: canonical,
+  };
   return `<!doctype html>
 <html lang="en">
 <head>
@@ -33,18 +47,29 @@ function layout({ title, desc, body, rel = ".." }) {
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>${esc(title)}</title>
 <meta name="description" content="${esc(desc)}">
+<link rel="canonical" href="${canonical}">
+<meta property="og:site_name" content="${SITE_NAME}">
+<meta property="og:type" content="article">
+<meta property="og:title" content="${esc(title)}">
+<meta property="og:description" content="${esc(desc)}">
+<meta property="og:url" content="${canonical}">
+<meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="${rel}/assets/style.css">
+<script type="application/ld+json">${jsonSafe(article)}</script>
+${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
 <header class="site"><div class="wrap">
   <a class="brand" href="${rel}/index.html">${SITE_NAME}<span>.com</span></a>
   <nav class="cats">
     <a href="${rel}/index.html">All categories</a>
-    <a href="../index.html">Blog</a>
+    <a href="${rel}/reviews/index.html">All products</a>
+    <a href="index.html">Blog</a>
     <a href="${rel}/about.html">About &amp; disclosure</a>
   </nav>
 </div></header>
 <main class="wrap">
+<nav class="crumbs"><a href="../index.html">Home</a> <span class="sep">›</span> <a href="index.html">Blog</a> <span class="sep">›</span> <span>${esc(title.replace(` — ${SITE_NAME}`, "").slice(0, 60))}</span></nav>
 ${body}
 </main>
 <footer class="site"><div class="wrap">
@@ -82,6 +107,14 @@ function top20() {
 
 <div class="notice"><b>How this list was built:</b> we ranked all ${DATA.total} English-language offers in the Digistore24 marketplace by <b>earnings per sale</b> — the commission a vendor pays per average order, as reported by the official marketplace. No opinions, no sponsored placements. Earnings figures describe the vendor's overall traffic, not a promise of yours.</div>
 
+<div class="tldr"><b>Key takeaways</b> (data as of ${UPDATED}):
+<ul>
+<li>Highest earnings/sale on the marketplace right now: <b>${esc(list[0].label)}</b> at <b>${money(list[0].earningsPerSale, list[0].currency)}</b> per sale (${pct(list[0].commission)} commission on ${money(list[0].price, list[0].currency)}).</li>
+<li>Top 3 by earnings/sale: ${list.slice(0, 3).map((p, i) => `<b>${i + 1}. ${esc(p.label)}</b> (${money(p.earningsPerSale, p.currency)})`).join(", ")}.</li>
+<li>Median cart conversion across the top 20: <b>${pct([...list].sort((a, b) => (a.conversionRate || 0) - (b.conversionRate || 0))[Math.floor(list.length / 2)].conversionRate)}</b> — these are vendor-side numbers, not forecasts.</li>
+</ul>
+</div>
+
 <p>Digistore24's affiliate marketplace lists ${DATA.total} English-language products across ${DATA.categories.length} categories, from e-books and video courses to supplements and software. If you're an affiliate choosing what to promote — or a buyer cross-checking an offer — the fastest honest filter is the marketplace's own numbers: price, commission rate, cart conversion and cancel rate.</p>
 
 <p>Here are the current top 20 by earnings per sale.</p>
@@ -105,7 +138,7 @@ ${tableRows(list)}
 <p>Each product name above links to our data profile with its full marketplace record. You can also verify any figure directly in the <a href="https://www.digistore24.com" rel="noopener nofollow">Digistore24 marketplace</a> — the same numbers we publish are shown to any registered affiliate.</p>
 <p><a class="cta" href="../index.html">Browse all ${DATA.categories.length} categories</a></p>
 </article>`;
-  fs.writeFileSync(path.join(ROOT, "blog", "top-20-highest-earning-digistore24-products.html"), layout({ title: "The 20 highest-earning Digistore24 products (data-driven) — " + SITE_NAME, desc: "All " + DATA.total + " English Digistore24 products ranked by official earnings-per-sale data. Updated " + UPDATED + ".", body, rel: ".." }));
+  fs.writeFileSync(path.join(ROOT, "blog", "top-20-highest-earning-digistore24-products.html"), layout({ title: "The 20 highest-earning Digistore24 products (data-driven) — " + SITE_NAME, desc: "All " + DATA.total + " English Digistore24 products ranked by official earnings-per-sale data. Updated " + UPDATED + ".", body, rel: "..", file: "top-20-highest-earning-digistore24-products.html" }));
 }
 
 // ---------- 文章2: 大分类指南 ----------
@@ -128,6 +161,14 @@ function categoryGuides() {
 
 <div class="notice"><b>Research method:</b> this guide is computed from the official Digistore24 marketplace record of every English-language offer in this category — prices, commissions, conversion and cancel rates as reported to affiliates. No hands-on product claims.</div>
 
+<div class="tldr"><b>Key takeaways</b> (data as of ${UPDATED}):
+<ul>
+<li>${esc(label)} holds <b>${items.length} English-language offers</b> on the Digistore24 marketplace; average list price <b>${money(avgPrice, "USD")}</b>.</li>
+<li>Top offer by earnings/sale: <b>${esc(top[0].label)}</b> — <b>${money(top[0].earningsPerSale, top[0].currency)}</b> per sale at ${pct(top[0].commission)} commission.</li>
+<li>Commissions in this category range from <b>${pct(Math.min(...items.map((p) => p.commission || 0)))}</b> to <b>${pct(Math.max(...items.map((p) => p.commission || 0)))}</b> (vendor-side data).</li>
+</ul>
+</div>
+
 <p>The <b>${esc(label.toLowerCase())}</b> shelf of the Digistore24 marketplace currently holds <b>${items.length} English-language offers</b> (part of ${esc(cat.section)}). Average list price: <b>${money(avgPrice, "USD")}</b>. The most common product types: ${topTypes}.</p>
 
 <h2>The 15 biggest offers by earnings/sale</h2>
@@ -146,7 +187,7 @@ ${tableRows(top)}
 
 <p>Every product links to a full data profile with cancel rate, vendor and listing age. Want the whole category? <a href="../category/${cat.file}.html">Browse all ${items.length} ${esc(label.toLowerCase())} offers</a>.</p>
 </article>`;
-    fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(label)}.html`), layout({ title: `${label} on Digistore24: ${items.length} offers analyzed — ${SITE_NAME}`, desc: `Data guide to ${items.length} ${label} products on Digistore24: prices, commissions, conversion. Updated ${UPDATED}.`, body, rel: ".." }));
+    fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(label)}.html`), layout({ title: `${label} on Digistore24: ${items.length} offers analyzed — ${SITE_NAME}`, desc: `Data guide to ${items.length} ${label} products on Digistore24: prices, commissions, conversion. Updated ${UPDATED}.`, body, rel: "..", file: `guide-${slug(label)}.html` }));
   }
 }
 
@@ -181,7 +222,7 @@ function checklist() {
 <p><b>Earnings/sale ÷ cancel-rate skepticism × funnel fit — checked against the official page before any claim.</b> That's how every page here is built.</p>
 <p><a class="cta" href="../index.html">Start with the full product directory</a></p>
 </article>`;
-  fs.writeFileSync(path.join(ROOT, "blog", "digistore24-numbers-checklist.html"), layout({ title: "Before you buy or promote a Digistore24 product: the 6-point check — " + SITE_NAME, desc: "How to evaluate Digistore24 offers using official marketplace numbers: earnings, conversion, cancel rate, vendor age, guarantee.", body, rel: ".." }));
+  fs.writeFileSync(path.join(ROOT, "blog", "digistore24-numbers-checklist.html"), layout({ title: "Before you buy or promote a Digistore24 product: the 6-point check — " + SITE_NAME, desc: "How to evaluate Digistore24 offers using official marketplace numbers: earnings, conversion, cancel rate, vendor age, guarantee.", body, rel: "..", file: "digistore24-numbers-checklist.html" }));
 }
 
 // ---------- blog index ----------
@@ -203,7 +244,7 @@ function blogIndex() {
 <ul style="line-height:2.1;max-width:760px">
 ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span class="sub">${esc(d)}</span></li>`).join("\n")}
 </ul>`;
-  fs.writeFileSync(path.join(ROOT, "blog", "index.html"), layout({ title: `Blog — ${SITE_NAME}`, desc: "Data-driven guides to Digistore24 products and marketplace statistics.", body, rel: ".." }));
+  fs.writeFileSync(path.join(ROOT, "blog", "index.html"), layout({ title: `Blog — ${SITE_NAME}`, desc: "Data-driven guides to Digistore24 products and marketplace statistics.", body, rel: "..", file: "index.html" }));
 }
 
 fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
