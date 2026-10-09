@@ -1,3 +1,24 @@
+---
+product_id: "58117"
+digistore24_product_id: 715772
+title: "Youth Swimmer Nutrition Guide"
+vendor: "PharmaNutrition_glow"
+product_type: "E-books"
+price: 19.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://brilliant-platypus-7e2007.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://brilliant-platypus-7e2007.netlify.app/"
+language: "en"
+---
 # Youth Swimmer Nutrition Guide
 
 > Product ID `58117` · Digistore24 productId `715772` · [HTML profile page](../../reviews/youth-swimmer-nutrition-guide-58117.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58280"
+digistore24_product_id: 714876
+title: "High-Converting Relationship Offer"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/714876?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/714876"
+language: "en"
+---
 # High-Converting Relationship Offer
 
 > Product ID `58280` · Digistore24 productId `714876` · [HTML profile page](../../reviews/high-converting-relationship-offer-58280.html)

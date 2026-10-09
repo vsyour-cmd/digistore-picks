@@ -1,3 +1,24 @@
+---
+product_id: "54731"
+digistore24_product_id: 643090
+title: "NEW Grounding Sheets and more!"
+vendor: "Abundancegrounding"
+product_type: "Deliverable"
+price: 221.48
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 88.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Skin Care"]
+listed_since: "2025-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://abundancegrounding.com/vsl1-pillowcase/landing?aff=adminstore#aff=adminstore"
+sales_page: "https://abundancegrounding.com/vsl1-pillowcase/landing"
+language: "en"
+---
 # NEW Grounding Sheets and more!
 
 > Product ID `54731` · Digistore24 productId `643090` · [HTML profile page](../../reviews/new-grounding-sheets-and-more-54731.html)

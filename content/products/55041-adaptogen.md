@@ -1,3 +1,24 @@
+---
+product_id: "55041"
+digistore24_product_id: 646969
+title: "AdaptoGen"
+vendor: "SvetDimitrov"
+product_type: "Supplements - for slimming"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 43.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://suppting.com/adaptogen-4-0-2025/?aff=adminstore#aff=adminstore"
+sales_page: "https://suppting.com/adaptogen-4-0-2025/"
+language: "en"
+---
 # AdaptoGen
 
 > Product ID `55041` · Digistore24 productId `646969` · [HTML profile page](../../reviews/adaptogen-55041.html)

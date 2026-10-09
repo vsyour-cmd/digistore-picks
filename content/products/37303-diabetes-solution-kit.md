@@ -1,3 +1,24 @@
+---
+product_id: "37303"
+digistore24_product_id: 386253
+title: "DIABETES SOLUTION KIT"
+vendor: "BartonPublishing"
+product_type: "E-books"
+price: 22.34
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 16.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2021-04-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore"
+sales_page: "https://fixbloodsugar.com/ptn/digi/1"
+language: "en"
+---
 # DIABETES SOLUTION KIT
 
 > Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](../../reviews/diabetes-solution-kit-37303.html)

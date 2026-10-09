@@ -1,3 +1,24 @@
+---
+product_id: "51709"
+digistore24_product_id: 593957
+title: "SynaBoost"
+vendor: "synaboost"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 197.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-02-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://synaboost.com/d/?aff=adminstore#aff=adminstore"
+sales_page: "https://synaboost.com/d/"
+language: "en"
+---
 # SynaBoost
 
 > Product ID `51709` · Digistore24 productId `593957` · [HTML profile page](../../reviews/synaboost-51709.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50878"
+digistore24_product_id: 491495
+title: "7-Figure ELITE Partnership"
+vendor: "Perpincome"
+product_type: "Member area and video courses"
+price: 1030.44
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 419.86
+cart_conversion_pct: 5
+cancel_rate_pct: 12.05
+categories: ["Email Marketing"]
+listed_since: "2023-03-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration?aff=adminstore#aff=adminstore"
+sales_page: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration"
+language: "en"
+---
 # 7-Figure ELITE Partnership
 
 > Product ID `50878` · Digistore24 productId `491495` · [HTML profile page](../../reviews/7-figure-elite-partnership-50878.html)

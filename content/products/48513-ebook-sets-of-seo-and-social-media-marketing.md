@@ -1,3 +1,24 @@
+---
+product_id: "48513"
+digistore24_product_id: 558692
+title: "Ebook sets of seo and social media marketing"
+vendor: "aaravom"
+product_type: "E-books"
+price: 44.74
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 22.37
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://41ebookset3.neoseotools.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://41ebookset3.neoseotools.com/"
+language: "en"
+---
 # Ebook sets of seo and social media marketing
 
 > Product ID `48513` · Digistore24 productId `558692` · [HTML profile page](../../reviews/ebook-sets-of-seo-and-social-media-marketing-48513.html)

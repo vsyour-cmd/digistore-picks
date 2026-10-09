@@ -1,3 +1,24 @@
+---
+product_id: "59069"
+digistore24_product_id: 731621
+title: "Spiritual lifting"
+vendor: "kimrindahl961b8f4"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 12.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://spirituallifting-vo8.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://spirituallifting-vo8.plannerpack.co"
+language: "en"
+---
 # Spiritual lifting
 
 > Product ID `59069` · Digistore24 productId `731621` · [HTML profile page](../../reviews/spiritual-lifting-59069.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45462"
+digistore24_product_id: 516991
+title: "EndoPeak"
+vendor: "I868696"
+product_type: "Supplements - health"
+price: 79
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 105.81
+cart_conversion_pct: 6
+cancel_rate_pct: 10.3
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2023-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://endopeak24.com/d/order-now.php?aff=adminstore#aff=adminstore"
+sales_page: "https://endopeak24.com/d/order-now.php"
+language: "en"
+---
 # EndoPeak
 
 > Product ID `45462` · Digistore24 productId `516991` · [HTML profile page](../../reviews/endopeak-45462.html)

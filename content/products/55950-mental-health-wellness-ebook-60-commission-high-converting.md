@@ -1,3 +1,24 @@
+---
+product_id: "55950"
+digistore24_product_id: 676503
+title: "Mental Health  Wellness eBook 60%Commission High-Converting"
+vendor: "wellnesswithsher"
+product_type: "E-books"
+price: 21.92
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 13.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Personal Development"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wellnesswithsher.neocities.org/mental-health-wellness?aff=adminstore#aff=adminstore"
+sales_page: "https://wellnesswithsher.neocities.org/mental-health-wellness"
+language: "en"
+---
 # Mental Health  Wellness eBook 60%Commission High-Converting
 
 > Product ID `55950` · Digistore24 productId `676503` · [HTML profile page](../../reviews/mental-health-wellness-ebook-60-commission-high-converting-55950.html)

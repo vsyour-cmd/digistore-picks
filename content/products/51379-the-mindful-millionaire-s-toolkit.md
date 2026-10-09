@@ -1,3 +1,24 @@
+---
+product_id: "51379"
+digistore24_product_id: 596862
+title: "The Mindful Millionaire’s Toolkit"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Personal Development"]
+listed_since: "2025-02-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/596862?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/596862"
+language: "en"
+---
 # The Mindful Millionaire’s Toolkit
 
 > Product ID `51379` · Digistore24 productId `596862` · [HTML profile page](../../reviews/the-mindful-millionaire-s-toolkit-51379.html)

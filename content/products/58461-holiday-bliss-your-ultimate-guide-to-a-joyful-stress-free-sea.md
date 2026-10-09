@@ -1,3 +1,24 @@
+---
+product_id: "58461"
+digistore24_product_id: 723869
+title: "Holiday Bliss: Your Ultimate Guide to a Joyful, Stress-Free Sea"
+vendor: "livingthelalalife"
+product_type: "Member area and video courses"
+price: 20
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://holidaybliss-6uo.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://holidaybliss-6uo.plannerpack.co"
+language: "en"
+---
 # Holiday Bliss: Your Ultimate Guide to a Joyful, Stress-Free Sea
 
 > Product ID `58461` · Digistore24 productId `723869` · [HTML profile page](../../reviews/holiday-bliss-your-ultimate-guide-to-a-joyful-stress-free-sea-58461.html)

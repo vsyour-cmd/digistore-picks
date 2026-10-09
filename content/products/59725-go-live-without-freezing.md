@@ -1,3 +1,24 @@
+---
+product_id: "59725"
+digistore24_product_id: 723623
+title: "Go Live Without Freezing"
+vendor: "livingthelalalife"
+product_type: "Member area and video courses"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 33.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://golivewithoutfreezing-na9.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://golivewithoutfreezing-na9.plannerpack.co"
+language: "en"
+---
 # Go Live Without Freezing
 
 > Product ID `59725` · Digistore24 productId `723623` · [HTML profile page](../../reviews/go-live-without-freezing-59725.html)

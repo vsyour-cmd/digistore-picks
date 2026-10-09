@@ -1,3 +1,24 @@
+---
+product_id: "58828"
+digistore24_product_id: 728381
+title: "Test Test"
+vendor: "team24-mmichalowski"
+product_type: "Member area and video courses"
+price: 124.16
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 43.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://testtest-t2s.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://testtest-t2s.plannerpack.co"
+language: "en"
+---
 # Test Test
 
 > Product ID `58828` · Digistore24 productId `728381` · [HTML profile page](../../reviews/test-test-58828.html)

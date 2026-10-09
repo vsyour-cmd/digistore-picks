@@ -1,3 +1,24 @@
+---
+product_id: "55937"
+digistore24_product_id: 630880
+title: "15 Delicious Keto Meal Plans to Simplify Your Weight Loss"
+vendor: "fkcproject"
+product_type: "Downloads"
+price: 8.94
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 9.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2025-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/630880?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/630880"
+language: "en"
+---
 # 15 Delicious Keto Meal Plans to Simplify Your Weight Loss
 
 > Product ID `55937` · Digistore24 productId `630880` · [HTML profile page](../../reviews/15-delicious-keto-meal-plans-to-simplify-your-weight-loss-55937.html)

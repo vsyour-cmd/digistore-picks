@@ -1,3 +1,24 @@
+---
+product_id: "34351"
+digistore24_product_id: 349591
+title: "LinkedIN Success"
+vendor: "familiensparplan"
+product_type: "E-books"
+price: 1.12
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 1.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job"]
+listed_since: "2020-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852?aff=adminstore#aff=adminstore"
+sales_page: "https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852"
+language: "en"
+---
 # LinkedIN Success
 
 > Product ID `34351` · Digistore24 productId `349591` · [HTML profile page](../../reviews/linkedin-success-34351.html)

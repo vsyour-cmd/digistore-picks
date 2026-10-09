@@ -1,3 +1,24 @@
+---
+product_id: "57386"
+digistore24_product_id: 708124
+title: "The Comfort Attachment Guide"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/The-Comfort-Attachment-Guide/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/The-Comfort-Attachment-Guide/Sales-page.html"
+language: "en"
+---
 # The Comfort Attachment Guide
 
 > Product ID `57386` · Digistore24 productId `708124` · [HTML profile page](../../reviews/the-comfort-attachment-guide-57386.html)

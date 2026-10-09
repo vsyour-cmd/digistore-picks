@@ -1,3 +1,24 @@
+---
+product_id: "50160"
+digistore24_product_id: 576191
+title: "Your Guide to Affiliate Marketing"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 11.15
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-10-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/guide-to-affiliate-marketing?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/guide-to-affiliate-marketing"
+language: "en"
+---
 # Your Guide to Affiliate Marketing
 
 > Product ID `50160` · Digistore24 productId `576191` · [HTML profile page](../../reviews/your-guide-to-affiliate-marketing-50160.html)

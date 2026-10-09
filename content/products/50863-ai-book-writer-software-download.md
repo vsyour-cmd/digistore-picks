@@ -1,3 +1,24 @@
+---
+product_id: "50863"
+digistore24_product_id: 588740
+title: "AI Book Writer - Software Download"
+vendor: "buerger"
+product_type: "Software"
+price: 33.55
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-01-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.aibookwriter.de/en?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aibookwriter.de/en"
+language: "en"
+---
 # AI Book Writer - Software Download
 
 > Product ID `50863` · Digistore24 productId `588740` · [HTML profile page](../../reviews/ai-book-writer-software-download-50863.html)

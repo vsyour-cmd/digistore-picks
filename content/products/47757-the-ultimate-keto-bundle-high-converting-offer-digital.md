@@ -1,3 +1,24 @@
+---
+product_id: "47757"
+digistore24_product_id: 547184
+title: "⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital"
+vendor: "hart89"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2024-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.free-ketorecipe.com/"
+language: "en"
+---
 # ⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital
 
 > Product ID `47757` · Digistore24 productId `547184` · [HTML profile page](../../reviews/the-ultimate-keto-bundle-high-converting-offer-digital-47757.html)

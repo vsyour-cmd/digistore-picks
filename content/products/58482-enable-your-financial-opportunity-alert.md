@@ -1,3 +1,24 @@
+---
+product_id: "58482"
+digistore24_product_id: 724348
+title: "Enable your financial opportunity alert"
+vendor: "miraclesofluv878c"
+product_type: "Member area and video courses"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://financialopportunityalert-fv4.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://financialopportunityalert-fv4.plannerpack.co"
+language: "en"
+---
 # Enable your financial opportunity alert
 
 > Product ID `58482` · Digistore24 productId `724348` · [HTML profile page](../../reviews/enable-your-financial-opportunity-alert-58482.html)

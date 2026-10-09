@@ -1,3 +1,24 @@
+---
+product_id: "9545"
+digistore24_product_id: 42173
+title: "100% RAW LOVE - the ultimate recipe collection"
+vendor: "Rohtopia"
+product_type: "Downloads"
+price: 22.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2015-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/"
+language: "en"
+---
 # 100% RAW LOVE - the ultimate recipe collection
 
 > Product ID `9545` · Digistore24 productId `42173` · [HTML profile page](../../reviews/100-raw-love-the-ultimate-recipe-collection-9545.html)

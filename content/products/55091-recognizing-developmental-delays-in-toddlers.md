@@ -1,3 +1,24 @@
+---
+product_id: "55091"
+digistore24_product_id: 656071
+title: "Recognizing developmental delays in toddlers"
+vendor: "TheHealthyLivingHub"
+product_type: "E-books"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 16.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
+sales_page: "https://thehealthyliving.lovable.app"
+language: "en"
+---
 # Recognizing developmental delays in toddlers
 
 > Product ID `55091` · Digistore24 productId `656071` · [HTML profile page](../../reviews/recognizing-developmental-delays-in-toddlers-55091.html)

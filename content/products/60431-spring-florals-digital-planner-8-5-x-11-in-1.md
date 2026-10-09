@@ -1,3 +1,24 @@
+---
+product_id: "60431"
+digistore24_product_id: 743937
+title: "Spring Florals Digital Planner (8.5 X 11 In) (1)"
+vendor: "gsent1601"
+product_type: "Member area and video courses"
+price: 10
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://springfloralsplanner-0yr.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://springfloralsplanner-0yr.plannerpack.co"
+language: "en"
+---
 # Spring Florals Digital Planner (8.5 X 11 In) (1)
 
 > Product ID `60431` · Digistore24 productId `743937` · [HTML profile page](../../reviews/spring-florals-digital-planner-8-5-x-11-in-1-60431.html)

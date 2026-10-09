@@ -1,3 +1,24 @@
+---
+product_id: "42817"
+digistore24_product_id: 382793
+title: "Lost Frontier Handbook"
+vendor: "frontbook"
+product_type: "Book (printed)"
+price: 47.53
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 24.46
+cart_conversion_pct: 3
+cancel_rate_pct: 1.5
+categories: ["Survival"]
+listed_since: "2021-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.lostfrontierhandbook.net/vsl/index_ds24.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lostfrontierhandbook.net/vsl/index_ds24.php"
+language: "en"
+---
 # Lost Frontier Handbook
 
 > Product ID `42817` · Digistore24 productId `382793` · [HTML profile page](../../reviews/lost-frontier-handbook-42817.html)

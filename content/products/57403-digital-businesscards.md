@@ -1,3 +1,24 @@
+---
+product_id: "57403"
+digistore24_product_id: 708499
+title: "Digital Businesscards"
+vendor: "digital-railways"
+product_type: "Software"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Profession & Job"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://cards.digital-railways.com?aff=adminstore#aff=adminstore"
+sales_page: "http://cards.digital-railways.com"
+language: "en"
+---
 # Digital Businesscards
 
 > Product ID `57403` · Digistore24 productId `708499` · [HTML profile page](../../reviews/digital-businesscards-57403.html)

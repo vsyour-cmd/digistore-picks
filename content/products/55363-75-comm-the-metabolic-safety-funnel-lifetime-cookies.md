@@ -1,3 +1,24 @@
+---
+product_id: "55363"
+digistore24_product_id: 661304
+title: "75% Comm | The \"Metabolic Safety\" Funnel | Lifetime Cookies"
+vendor: "PlanetaVida"
+product_type: "Member area and video courses"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 15.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.pv-en.com/front-end-offers-metabolic-reset-d24-usa?aff=adminstore#aff=adminstore"
+sales_page: "https://www.pv-en.com/front-end-offers-metabolic-reset-d24-usa"
+language: "en"
+---
 # 75% Comm | The "Metabolic Safety" Funnel | Lifetime Cookies
 
 > Product ID `55363` · Digistore24 productId `661304` · [HTML profile page](../../reviews/75-comm-the-metabolic-safety-funnel-lifetime-cookies-55363.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54356"
+digistore24_product_id: 639910
+title: "How to Control Emotions"
+vendor: "jabbusiness"
+product_type: "Downloads"
+price: 14.54
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.82
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Services","Social Media"]
+listed_since: "2025-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/639910?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/639910"
+language: "en"
+---
 # How to Control Emotions
 
 > Product ID `54356` · Digistore24 productId `639910` · [HTML profile page](../../reviews/how-to-control-emotions-54356.html)

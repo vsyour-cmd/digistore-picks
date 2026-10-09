@@ -1,3 +1,24 @@
+---
+product_id: "59465"
+digistore24_product_id: 735583
+title: "platonis cave"
+vendor: "tornikeinjgiaaa87"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://platoniscave-p3j.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://platoniscave-p3j.plannerpack.fun"
+language: "en"
+---
 # platonis cave
 
 > Product ID `59465` · Digistore24 productId `735583` · [HTML profile page](../../reviews/platonis-cave-59465.html)

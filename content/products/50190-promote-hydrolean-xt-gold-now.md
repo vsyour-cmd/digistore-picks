@@ -1,3 +1,24 @@
+---
+product_id: "50190"
+digistore24_product_id: 571423
+title: "Promote HydroLean XT Gold Now!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 258.17
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 83.35
+cart_conversion_pct: 9
+cancel_rate_pct: 5.56
+categories: ["Food Supplements"]
+listed_since: "2024-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hydroleanxt.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://hydroleanxt.com/ds/go/indexvs.php"
+language: "en"
+---
 # Promote HydroLean XT Gold Now!
 
 > Product ID `50190` · Digistore24 productId `571423` · [HTML profile page](../../reviews/promote-hydrolean-xt-gold-now-50190.html)

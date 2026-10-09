@@ -1,3 +1,24 @@
+---
+product_id: "57166"
+digistore24_product_id: 706739
+title: "Ebook - The Courage System"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/706739?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706739"
+language: "en"
+---
 # Ebook - The Courage System
 
 > Product ID `57166` · Digistore24 productId `706739` · [HTML profile page](../../reviews/ebook-the-courage-system-57166.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59218"
+digistore24_product_id: 564751
+title: "Earn 55% Recurring Sales Commission. ($730+)"
+vendor: "themanz"
+product_type: "Member area and video courses"
+price: 1264.48
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 698.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://manzbeltd.com?aff=adminstore#aff=adminstore"
+sales_page: "https://manzbeltd.com"
+language: "en"
+---
 # Earn 55% Recurring Sales Commission. ($730+)
 
 > Product ID `59218` · Digistore24 productId `564751` · [HTML profile page](../../reviews/earn-55-recurring-sales-commission-730-59218.html)

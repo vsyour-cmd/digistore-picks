@@ -1,3 +1,24 @@
+---
+product_id: "33678"
+digistore24_product_id: 338690
+title: "The SUPP UP. Complete Nutrition and Fitness Travel System"
+vendor: "MBM007"
+product_type: "E-books"
+price: 247
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 135.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Travel & Culture"]
+listed_since: "2020-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://supp-up.com/ds24-complete-travel-system?aff=adminstore#aff=adminstore"
+sales_page: "https://supp-up.com/ds24-complete-travel-system"
+language: "en"
+---
 # The SUPP UP. Complete Nutrition and Fitness Travel System
 
 > Product ID `33678` · Digistore24 productId `338690` · [HTML profile page](../../reviews/the-supp-up-complete-nutrition-and-fitness-travel-system-33678.html)

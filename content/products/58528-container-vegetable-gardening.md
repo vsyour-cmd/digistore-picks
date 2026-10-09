@@ -1,3 +1,24 @@
+---
+product_id: "58528"
+digistore24_product_id: 725086
+title: "Container Vegetable Gardening"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/725086?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725086"
+language: "en"
+---
 # Container Vegetable Gardening
 
 > Product ID `58528` · Digistore24 productId `725086` · [HTML profile page](../../reviews/container-vegetable-gardening-58528.html)

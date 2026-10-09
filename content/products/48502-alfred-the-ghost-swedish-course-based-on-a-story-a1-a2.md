@@ -1,3 +1,24 @@
+---
+product_id: "48502"
+digistore24_product_id: 546416
+title: "Alfred the Ghost - Swedish course based on a story (A1/A2)"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 83.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Travel & Culture"]
+listed_since: "2024-04-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://courses.skapago.eu/lp/swedish-course-beginners-alfred?aff=adminstore#aff=adminstore"
+sales_page: "https://courses.skapago.eu/lp/swedish-course-beginners-alfred"
+language: "en"
+---
 # Alfred the Ghost - Swedish course based on a story (A1/A2)
 
 > Product ID `48502` · Digistore24 productId `546416` · [HTML profile page](../../reviews/alfred-the-ghost-swedish-course-based-on-a-story-a1-a2-48502.html)

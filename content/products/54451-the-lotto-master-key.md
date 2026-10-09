@@ -1,3 +1,24 @@
+---
+product_id: "54451"
+digistore24_product_id: 637648
+title: "The Lotto Master Key"
+vendor: "lottokey"
+product_type: "Member area and video courses"
+price: 197.99
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 128.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://getlottomasterkey.cc/welcome/?aff=adminstore#aff=adminstore"
+sales_page: "http://getlottomasterkey.cc/welcome/"
+language: "en"
+---
 # The Lotto Master Key
 
 > Product ID `54451` · Digistore24 productId `637648` · [HTML profile page](../../reviews/the-lotto-master-key-54451.html)

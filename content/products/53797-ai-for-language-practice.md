@@ -1,3 +1,24 @@
+---
+product_id: "53797"
+digistore24_product_id: 633495
+title: "AI for Language Practice"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 14.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Languages"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633495?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633495"
+language: "en"
+---
 # AI for Language Practice
 
 > Product ID `53797` · Digistore24 productId `633495` · [HTML profile page](../../reviews/ai-for-language-practice-53797.html)

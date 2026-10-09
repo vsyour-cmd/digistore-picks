@@ -1,3 +1,24 @@
+---
+product_id: "34077"
+digistore24_product_id: 333733
+title: "Perpetual Income 365"
+vendor: "Perpincome"
+product_type: "Member area and video courses"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2020-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.perpetualincome365.vip/go/d/watch/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.perpetualincome365.vip/go/d/watch/index.php"
+language: "en"
+---
 # Perpetual Income 365
 
 > Product ID `34077` · Digistore24 productId `333733` · [HTML profile page](../../reviews/perpetual-income-365-34077.html)

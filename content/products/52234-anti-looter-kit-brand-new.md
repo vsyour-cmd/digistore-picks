@@ -1,3 +1,24 @@
+---
+product_id: "52234"
+digistore24_product_id: 592999
+title: "Anti-Looter Kit - BRAND NEW!"
+vendor: "antilooterkit"
+product_type: "Deliverable"
+price: 192.43
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 50.68
+cart_conversion_pct: 18
+cancel_rate_pct: 3.55
+categories: ["Survival"]
+listed_since: "2025-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.antilooter-kit.com/main?aff=adminstore#aff=adminstore"
+sales_page: "https://www.antilooter-kit.com/main"
+language: "en"
+---
 # Anti-Looter Kit - BRAND NEW!
 
 > Product ID `52234` · Digistore24 productId `592999` · [HTML profile page](../../reviews/anti-looter-kit-brand-new-52234.html)

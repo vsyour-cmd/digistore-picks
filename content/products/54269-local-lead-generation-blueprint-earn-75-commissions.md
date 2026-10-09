@@ -1,3 +1,24 @@
+---
+product_id: "54269"
+digistore24_product_id: 639579
+title: "Local Lead Generation Blueprint | Earn 75% Commissions"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 168.91
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 126.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint"
+language: "en"
+---
 # Local Lead Generation Blueprint | Earn 75% Commissions
 
 > Product ID `54269` · Digistore24 productId `639579` · [HTML profile page](../../reviews/local-lead-generation-blueprint-earn-75-commissions-54269.html)

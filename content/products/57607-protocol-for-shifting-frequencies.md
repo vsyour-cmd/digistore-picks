@@ -1,3 +1,24 @@
+---
+product_id: "57607"
+digistore24_product_id: 713190
+title: "Protocol for shifting frequencies."
+vendor: "promptpresence"
+product_type: "Member area and video courses"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 16.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://protocolforshiftingfrequencies-bw1.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://protocolforshiftingfrequencies-bw1.plannerpack.co"
+language: "en"
+---
 # Protocol for shifting frequencies.
 
 > Product ID `57607` · Digistore24 productId `713190` · [HTML profile page](../../reviews/protocol-for-shifting-frequencies-57607.html)

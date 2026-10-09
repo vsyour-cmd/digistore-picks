@@ -1,3 +1,24 @@
+---
+product_id: "51972"
+digistore24_product_id: 605910
+title: "1 Month Vegan Challenge"
+vendor: "plantbasedresource"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Green Products & Environmental Protection","Health & Fitness"]
+listed_since: "2025-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.1monthvegan.com/ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.1monthvegan.com/ds/"
+language: "en"
+---
 # 1 Month Vegan Challenge
 
 > Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](../../reviews/1-month-vegan-challenge-51972.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48527"
+digistore24_product_id: 557533
+title: "Dog Trainer Bible (The Ultimate eBook collection)"
+vendor: "TopCourseCreator"
+product_type: "Downloads"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Family & Children","Home & Garden"]
+listed_since: "2024-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/dog-trainer-bible/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/dog-trainer-bible/"
+language: "en"
+---
 # Dog Trainer Bible (The Ultimate eBook collection)
 
 > Product ID `48527` · Digistore24 productId `557533` · [HTML profile page](../../reviews/dog-trainer-bible-the-ultimate-ebook-collection-48527.html)

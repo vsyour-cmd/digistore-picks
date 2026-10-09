@@ -1,3 +1,24 @@
+---
+product_id: "48700"
+digistore24_product_id: 560807
+title: "The Money Wave"
+vendor: "Themoneywave"
+product_type: "Downloads"
+price: 40.3
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 24.26
+cart_conversion_pct: 17
+cancel_rate_pct: 12.69
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Finances"]
+listed_since: "2024-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://getmoneywave.com/DS/vsl/?aff=adminstore#aff=adminstore"
+sales_page: "https://getmoneywave.com/DS/vsl/"
+language: "en"
+---
 # The Money Wave
 
 > Product ID `48700` · Digistore24 productId `560807` · [HTML profile page](../../reviews/the-money-wave-48700.html)

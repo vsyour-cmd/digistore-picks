@@ -1,3 +1,24 @@
+---
+product_id: "38367"
+digistore24_product_id: 394659
+title: "Home Doctor – BRAND NEW!"
+vendor: "homedoctor"
+product_type: "Book (printed)"
+price: 47.47
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 25.65
+cart_conversion_pct: 12
+cancel_rate_pct: 2.81
+categories: ["Survival"]
+listed_since: "2021-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://homedoctorbook.com/book/?aff=adminstore#aff=adminstore"
+sales_page: "https://homedoctorbook.com/book/"
+language: "en"
+---
 # Home Doctor – BRAND NEW!
 
 > Product ID `38367` · Digistore24 productId `394659` · [HTML profile page](../../reviews/home-doctor-brand-new-38367.html)

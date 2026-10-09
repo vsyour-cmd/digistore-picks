@@ -1,3 +1,24 @@
+---
+product_id: "54953"
+digistore24_product_id: 656128
+title: "AI Prompt Generator"
+vendor: "DaveCrypto"
+product_type: "Downloads"
+price: 10.07
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/656128?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/656128"
+language: "en"
+---
 # AI Prompt Generator
 
 > Product ID `54953` · Digistore24 productId `656128` · [HTML profile page](../../reviews/ai-prompt-generator-54953.html)

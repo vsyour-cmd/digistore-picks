@@ -1,3 +1,24 @@
+---
+product_id: "45897"
+digistore24_product_id: 524279
+title: "The Billionaire Brainwave"
+vendor: "Attractbr"
+product_type: "Downloads"
+price: 47.54
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 38.99
+cart_conversion_pct: 17
+cancel_rate_pct: 11.02
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thebillionairebrainwave.com/DSvsl/?aff=adminstore#aff=adminstore"
+sales_page: "https://thebillionairebrainwave.com/DSvsl/"
+language: "en"
+---
 # The Billionaire Brainwave
 
 > Product ID `45897` · Digistore24 productId `524279` · [HTML profile page](../../reviews/the-billionaire-brainwave-45897.html)

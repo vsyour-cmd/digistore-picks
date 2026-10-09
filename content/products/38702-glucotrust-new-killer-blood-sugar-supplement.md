@@ -1,3 +1,24 @@
+---
+product_id: "38702"
+digistore24_product_id: 419540
+title: "Glucotrust: New Killer Blood Sugar Supplement"
+vendor: "edelixir"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 57.89
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2021-12-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getglucotrust.co/?aff=adminstore#aff=adminstore"
+sales_page: "https://getglucotrust.co/"
+language: "en"
+---
 # Glucotrust: New Killer Blood Sugar Supplement
 
 > Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](../../reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)

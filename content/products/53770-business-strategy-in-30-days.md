@@ -1,3 +1,24 @@
+---
+product_id: "53770"
+digistore24_product_id: 633262
+title: "Business Strategy in 30 Days"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633262?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633262"
+language: "en"
+---
 # Business Strategy in 30 Days
 
 > Product ID `53770` · Digistore24 productId `633262` · [HTML profile page](../../reviews/business-strategy-in-30-days-53770.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55808"
+digistore24_product_id: 673151
+title: "How to start making money on Amazon FBA"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-03-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/673151?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/673151"
+language: "en"
+---
 # How to start making money on Amazon FBA
 
 > Product ID `55808` · Digistore24 productId `673151` · [HTML profile page](../../reviews/how-to-start-making-money-on-amazon-fba-55808.html)

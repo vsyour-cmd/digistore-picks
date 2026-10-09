@@ -1,3 +1,24 @@
+---
+product_id: "59211"
+digistore24_product_id: 733077
+title: "Remote Ratgeber"
+vendor: "noirandselc015"
+product_type: "Member area and video courses"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://remoteratgeber-m7r.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://remoteratgeber-m7r.plannerpack.co"
+language: "en"
+---
 # Remote Ratgeber
 
 > Product ID `59211` · Digistore24 productId `733077` · [HTML profile page](../../reviews/remote-ratgeber-59211.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59243"
+digistore24_product_id: 732620
+title: "NEW: Lost Power - Blockbuster Offer From Top Diamond Vendor"
+vendor: "energy4oren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://feelbetter-today.com/free-energy/?aff=adminstore#aff=adminstore"
+sales_page: "https://feelbetter-today.com/free-energy/"
+language: "en"
+---
 # NEW: Lost Power - Blockbuster Offer From Top Diamond Vendor
 
 > Product ID `59243` · Digistore24 productId `732620` · [HTML profile page](../../reviews/new-lost-power-blockbuster-offer-from-top-diamond-vendor-59243.html)

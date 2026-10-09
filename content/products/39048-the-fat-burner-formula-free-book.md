@@ -1,3 +1,24 @@
+---
+product_id: "39048"
+digistore24_product_id: 428288
+title: "The Fat Burner Formula Free Book"
+vendor: "produktmanagerin"
+product_type: "E-books"
+price: 2.15
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.16
+cart_conversion_pct: 12
+cancel_rate_pct: 30.52
+categories: ["Food & Drink"]
+listed_since: "2022-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://makeyouslim.info/the-fat-burner-formula/?aff=adminstore#aff=adminstore"
+sales_page: "https://makeyouslim.info/the-fat-burner-formula/"
+language: "en"
+---
 # The Fat Burner Formula Free Book
 
 > Product ID `39048` · Digistore24 productId `428288` · [HTML profile page](../../reviews/the-fat-burner-formula-free-book-39048.html)

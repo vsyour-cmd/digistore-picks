@@ -1,3 +1,24 @@
+---
+product_id: "59192"
+digistore24_product_id: 593593
+title: "Architecture VIZ Graphics – Ground Textures for 3D Rendering"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 33.19
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 8.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/ground-collection-texture-cd/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/ground-collection-texture-cd/"
+language: "en"
+---
 # Architecture VIZ Graphics – Ground Textures for 3D Rendering
 
 > Product ID `59192` · Digistore24 productId `593593` · [HTML profile page](../../reviews/architecture-viz-graphics-ground-textures-for-3d-rendering-59192.html)

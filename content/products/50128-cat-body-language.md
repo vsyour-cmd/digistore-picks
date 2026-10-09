@@ -1,3 +1,24 @@
+---
+product_id: "50128"
+digistore24_product_id: 571905
+title: "Cat Body Language"
+vendor: "MyoWinKyaw"
+product_type: "E-books"
+price: 22.37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2024-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/571905?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/571905"
+language: "en"
+---
 # Cat Body Language
 
 > Product ID `50128` · Digistore24 productId `571905` · [HTML profile page](../../reviews/cat-body-language-50128.html)

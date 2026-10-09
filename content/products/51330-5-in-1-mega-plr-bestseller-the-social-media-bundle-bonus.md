@@ -1,3 +1,24 @@
+---
+product_id: "51330"
+digistore24_product_id: 595434
+title: "5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 9.41
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2025-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/595434?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/595434"
+language: "en"
+---
 # 5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS
 
 > Product ID `51330` · Digistore24 productId `595434` · [HTML profile page](../../reviews/5-in-1-mega-plr-bestseller-the-social-media-bundle-bonus-51330.html)

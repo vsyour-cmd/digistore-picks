@@ -1,3 +1,24 @@
+---
+product_id: "56777"
+digistore24_product_id: 697389
+title: "Ebook - The Unlived Live Series"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/697389?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/697389"
+language: "en"
+---
 # Ebook - The Unlived Live Series
 
 > Product ID `56777` · Digistore24 productId `697389` · [HTML profile page](../../reviews/ebook-the-unlived-live-series-56777.html)

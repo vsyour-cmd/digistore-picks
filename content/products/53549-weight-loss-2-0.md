@@ -1,3 +1,24 @@
+---
+product_id: "53549"
+digistore24_product_id: 629054
+title: "Weight Loss 2.0"
+vendor: "DS123456789"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 41.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-08-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://weightlosssoft.com/ds.html?aff=adminstore#aff=adminstore"
+sales_page: "https://weightlosssoft.com/ds.html"
+language: "en"
+---
 # Weight Loss 2.0
 
 > Product ID `53549` · Digistore24 productId `629054` · [HTML profile page](../../reviews/weight-loss-2-0-53549.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54318"
+digistore24_product_id: 639906
+title: "Next Level Reels - 8000 The Ultimate Guide"
+vendor: "jabbusiness"
+product_type: "Downloads"
+price: 12.3
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Marketing Services"]
+listed_since: "2025-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/639906?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/639906"
+language: "en"
+---
 # Next Level Reels - 8000 The Ultimate Guide
 
 > Product ID `54318` · Digistore24 productId `639906` · [HTML profile page](../../reviews/next-level-reels-8000-the-ultimate-guide-54318.html)

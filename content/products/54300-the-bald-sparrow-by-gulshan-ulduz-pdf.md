@@ -1,3 +1,24 @@
+---
+product_id: "54300"
+digistore24_product_id: 638754
+title: "THE BALD SPARROW by Gulshan Ulduz PDF"
+vendor: "DECLARATIONPLUS"
+product_type: "E-books"
+price: 13.42
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/638754?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/638754"
+language: "en"
+---
 # THE BALD SPARROW by Gulshan Ulduz PDF
 
 > Product ID `54300` · Digistore24 productId `638754` · [HTML profile page](../../reviews/the-bald-sparrow-by-gulshan-ulduz-pdf-54300.html)

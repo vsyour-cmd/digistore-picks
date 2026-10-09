@@ -1,3 +1,24 @@
+---
+product_id: "49857"
+digistore24_product_id: 571673
+title: "Make Huge Profits with Gluco Guard! "
+vendor: "nutrateam"
+product_type: "Supplements - health"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://glucoguardpro24.com/ancient-secret-6975-2350?aff=adminstore#aff=adminstore"
+sales_page: "https://glucoguardpro24.com/ancient-secret-6975-2350"
+language: "en"
+---
 # Make Huge Profits with Gluco Guard! 
 
 > Product ID `49857` · Digistore24 productId `571673` · [HTML profile page](../../reviews/make-huge-profits-with-gluco-guard-49857.html)

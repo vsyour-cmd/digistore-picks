@@ -1,3 +1,24 @@
+---
+product_id: "51173"
+digistore24_product_id: 495080
+title: "Self-guided scavenger hunt Cologne | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2023-04-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.hint-caching.com/scavenger-hunt-cologne/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hint-caching.com/scavenger-hunt-cologne/"
+language: "en"
+---
 # Self-guided scavenger hunt Cologne | Hint-Caching
 
 > Product ID `51173` · Digistore24 productId `495080` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-cologne-hint-caching-51173.html)

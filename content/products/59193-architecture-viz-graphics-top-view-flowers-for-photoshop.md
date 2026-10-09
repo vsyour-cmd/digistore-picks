@@ -1,3 +1,24 @@
+---
+product_id: "59193"
+digistore24_product_id: 593598
+title: "Architecture VIZ Graphics – Top View Flowers for Photoshop…"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 33.19
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 8.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/top-view-flowers-cutout-plan-view-images-png-for-garden-and-landscape-planners/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/top-view-flowers-cutout-plan-view-images-png-for-garden-and-landscape-planners/"
+language: "en"
+---
 # Architecture VIZ Graphics – Top View Flowers for Photoshop…
 
 > Product ID `59193` · Digistore24 productId `593598` · [HTML profile page](../../reviews/architecture-viz-graphics-top-view-flowers-for-photoshop-59193.html)

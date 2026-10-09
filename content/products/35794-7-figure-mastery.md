@@ -1,3 +1,24 @@
+---
+product_id: "35794"
+digistore24_product_id: 373677
+title: "7 Figure Mastery"
+vendor: "masterycourses"
+product_type: "E-books"
+price: 167.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 83.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://legacy.groovepages.com/7-figure-mastery/index?aff=adminstore#aff=adminstore"
+sales_page: "https://legacy.groovepages.com/7-figure-mastery/index"
+language: "en"
+---
 # 7 Figure Mastery
 
 > Product ID `35794` · Digistore24 productId `373677` · [HTML profile page](../../reviews/7-figure-mastery-35794.html)

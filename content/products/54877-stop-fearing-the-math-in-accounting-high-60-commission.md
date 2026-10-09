@@ -1,3 +1,24 @@
+---
+product_id: "54877"
+digistore24_product_id: 652629
+title: "Stop Fearing the Math in Accounting | High 60% Commission"
+vendor: "patricia_sekael"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 18.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2025-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sekael.com/sing-and-solve-accounting-master-the-4-basic-operations/?aff=adminstore#aff=adminstore"
+sales_page: "https://sekael.com/sing-and-solve-accounting-master-the-4-basic-operations/"
+language: "en"
+---
 # Stop Fearing the Math in Accounting | High 60% Commission
 
 > Product ID `54877` · Digistore24 productId `652629` · [HTML profile page](../../reviews/stop-fearing-the-math-in-accounting-high-60-commission-54877.html)

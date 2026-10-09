@@ -1,3 +1,24 @@
+---
+product_id: "59624"
+digistore24_product_id: 736755
+title: "weight loss program"
+vendor: "litvipenkoadfc"
+product_type: "Member area and video courses"
+price: 12.3
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://weightlossprogram-0ok.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://weightlossprogram-0ok.plannerpack.fun"
+language: "en"
+---
 # weight loss program
 
 > Product ID `59624` · Digistore24 productId `736755` · [HTML profile page](../../reviews/weight-loss-program-59624.html)

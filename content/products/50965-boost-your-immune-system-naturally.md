@@ -1,3 +1,24 @@
+---
+product_id: "50965"
+digistore24_product_id: 589747
+title: "Boost Your Immune System Naturally"
+vendor: "emrkts"
+product_type: "E-books"
+price: 27.97
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 19.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-01-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://prohealthly.com/immunity-booster/?aff=adminstore#aff=adminstore"
+sales_page: "https://prohealthly.com/immunity-booster/"
+language: "en"
+---
 # Boost Your Immune System Naturally
 
 > Product ID `50965` · Digistore24 productId `589747` · [HTML profile page](../../reviews/boost-your-immune-system-naturally-50965.html)

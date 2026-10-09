@@ -1,3 +1,24 @@
+---
+product_id: "58326"
+digistore24_product_id: 721465
+title: "Her Hidden Hustle: The Guide For Women Who Want To Earn Online"
+vendor: "ultimatepdfguidec76c"
+product_type: "E-books"
+price: 19.99
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://herhiddenhustletheguideforwomenwhowanttoearnonlinewithou-6xn.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://herhiddenhustletheguideforwomenwhowanttoearnonlinewithou-6xn.plannerpack.co"
+language: "en"
+---
 # Her Hidden Hustle: The Guide For Women Who Want To Earn Online
 
 > Product ID `58326` · Digistore24 productId `721465` · [HTML profile page](../../reviews/her-hidden-hustle-the-guide-for-women-who-want-to-earn-online-58326.html)

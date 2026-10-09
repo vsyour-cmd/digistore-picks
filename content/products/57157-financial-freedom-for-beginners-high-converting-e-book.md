@@ -1,3 +1,24 @@
+---
+product_id: "57157"
+digistore24_product_id: 666642
+title: "Financial Freedom for Beginners - High Converting E-book"
+vendor: "cutee86"
+product_type: "E-books"
+price: 10
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Finances","Personal Development"]
+listed_since: "2026-06-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://my-website-1febf5.webnode.page/?aff=adminstore#aff=adminstore"
+sales_page: "https://my-website-1febf5.webnode.page/"
+language: "en"
+---
 # Financial Freedom for Beginners - High Converting E-book
 
 > Product ID `57157` · Digistore24 productId `666642` · [HTML profile page](../../reviews/financial-freedom-for-beginners-high-converting-e-book-57157.html)

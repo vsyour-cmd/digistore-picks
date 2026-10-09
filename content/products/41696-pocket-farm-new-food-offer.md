@@ -1,3 +1,24 @@
+---
+product_id: "41696"
+digistore24_product_id: 463884
+title: "Pocket Farm! New Food Offer."
+vendor: "BackyardLiberty"
+product_type: "E-books"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 32.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2022-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.mypocketfarm.com/pf/vsl/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mypocketfarm.com/pf/vsl/index.php"
+language: "en"
+---
 # Pocket Farm! New Food Offer.
 
 > Product ID `41696` · Digistore24 productId `463884` · [HTML profile page](../../reviews/pocket-farm-new-food-offer-41696.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47066"
+digistore24_product_id: 535461
+title: "AeroSlim"
+vendor: "AeroSlim"
+product_type: "Supplements - for slimming"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 180.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-01-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aeroslim24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://aeroslim24.com/text.php"
+language: "en"
+---
 # AeroSlim
 
 > Product ID `47066` · Digistore24 productId `535461` · [HTML profile page](../../reviews/aeroslim-47066.html)

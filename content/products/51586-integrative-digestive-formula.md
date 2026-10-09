@@ -1,3 +1,24 @@
+---
+product_id: "51586"
+digistore24_product_id: 599474
+title: "Integrative Digestive Formula"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 44.69
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 26.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-03-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm"
+language: "en"
+---
 # Integrative Digestive Formula
 
 > Product ID `51586` · Digistore24 productId `599474` · [HTML profile page](../../reviews/integrative-digestive-formula-51586.html)

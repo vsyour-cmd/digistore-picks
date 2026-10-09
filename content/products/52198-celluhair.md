@@ -1,3 +1,24 @@
+---
+product_id: "52198"
+digistore24_product_id: 600196
+title: "CelluHair"
+vendor: "amashen"
+product_type: "Deliverable"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 38.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Skin Care"]
+listed_since: "2025-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0&aff=adminstore#aff=adminstore"
+sales_page: "https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0"
+language: "en"
+---
 # CelluHair
 
 > Product ID `52198` · Digistore24 productId `600196` · [HTML profile page](../../reviews/celluhair-52198.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58142"
+digistore24_product_id: 718312
+title: "Calm Through the Storm – A Comforting Guide Through Anxiety"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Leadership & Management"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/718312?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718312"
+language: "en"
+---
 # Calm Through the Storm – A Comforting Guide Through Anxiety
 
 > Product ID `58142` · Digistore24 productId `718312` · [HTML profile page](../../reviews/calm-through-the-storm-a-comforting-guide-through-anxiety-58142.html)

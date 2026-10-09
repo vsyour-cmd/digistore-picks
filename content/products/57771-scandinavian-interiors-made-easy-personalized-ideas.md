@@ -1,3 +1,24 @@
+---
+product_id: "57771"
+digistore24_product_id: 713119
+title: "Scandinavian Interiors made easy Personalized Ideas"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713119?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713119"
+language: "en"
+---
 # Scandinavian Interiors made easy Personalized Ideas
 
 > Product ID `57771` · Digistore24 productId `713119` · [HTML profile page](../../reviews/scandinavian-interiors-made-easy-personalized-ideas-57771.html)

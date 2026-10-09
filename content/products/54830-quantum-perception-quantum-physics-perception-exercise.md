@@ -1,3 +1,24 @@
+---
+product_id: "54830"
+digistore24_product_id: 651061
+title: "Quantum Perception | Quantum Physics Perception Exercise"
+vendor: "Matrixreport"
+product_type: "Downloads"
+price: 11.07
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-11-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kevinmanke.com/quantum-perception/?aff=adminstore#aff=adminstore"
+sales_page: "https://kevinmanke.com/quantum-perception/"
+language: "en"
+---
 # Quantum Perception | Quantum Physics Perception Exercise
 
 > Product ID `54830` · Digistore24 productId `651061` · [HTML profile page](../../reviews/quantum-perception-quantum-physics-perception-exercise-54830.html)

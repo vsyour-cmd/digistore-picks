@@ -1,3 +1,24 @@
+---
+product_id: "47081"
+digistore24_product_id: 536868
+title: "Sugar Defender"
+vendor: "I868696"
+product_type: "Supplements - health"
+price: 177.89
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 107.7
+cart_conversion_pct: 4
+cancel_rate_pct: 11.15
+categories: ["Food Supplements"]
+listed_since: "2024-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore"
+sales_page: "https://sugardefender24.com/d/order-now.php"
+language: "en"
+---
 # Sugar Defender
 
 > Product ID `47081` · Digistore24 productId `536868` · [HTML profile page](../../reviews/sugar-defender-47081.html)

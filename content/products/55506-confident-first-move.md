@@ -1,3 +1,24 @@
+---
+product_id: "55506"
+digistore24_product_id: 665648
+title: "Confident First Move"
+vendor: "cleitonpaulino"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://elevenmarketingdigital.com/confident-first-move?aff=adminstore#aff=adminstore"
+sales_page: "https://elevenmarketingdigital.com/confident-first-move"
+language: "en"
+---
 # Confident First Move
 
 > Product ID `55506` · Digistore24 productId `665648` · [HTML profile page](../../reviews/confident-first-move-55506.html)

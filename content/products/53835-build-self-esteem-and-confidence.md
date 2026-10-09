@@ -1,3 +1,24 @@
+---
+product_id: "53835"
+digistore24_product_id: 633822
+title: "Build Self-Esteem and Confidence"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633822?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633822"
+language: "en"
+---
 # Build Self-Esteem and Confidence
 
 > Product ID `53835` · Digistore24 productId `633822` · [HTML profile page](../../reviews/build-self-esteem-and-confidence-53835.html)

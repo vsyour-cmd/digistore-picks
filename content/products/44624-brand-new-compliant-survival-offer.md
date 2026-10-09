@@ -1,3 +1,24 @@
+---
+product_id: "44624"
+digistore24_product_id: 502394
+title: "Brand NEW Compliant Survival Offer"
+vendor: "savstash"
+product_type: "E-books"
+price: 74.95
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 56.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2023-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.thestockpilesavior.com/vsl/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thestockpilesavior.com/vsl/index.php"
+language: "en"
+---
 # Brand NEW Compliant Survival Offer
 
 > Product ID `44624` · Digistore24 productId `502394` · [HTML profile page](../../reviews/brand-new-compliant-survival-offer-44624.html)

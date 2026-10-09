@@ -1,3 +1,24 @@
+---
+product_id: "45830"
+digistore24_product_id: 520212
+title: "Unlock Earnings! Promote PinealXT!"
+vendor: "Nutraville"
+product_type: "Supplements - health"
+price: 201.84
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 151.89
+cart_conversion_pct: 13
+cancel_rate_pct: 9.97
+categories: ["Food Supplements"]
+listed_since: "2023-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pxt.pinealxt.com/ds/presentation/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://pxt.pinealxt.com/ds/presentation/index.php"
+language: "en"
+---
 # Unlock Earnings! Promote PinealXT!
 
 > Product ID `45830` · Digistore24 productId `520212` · [HTML profile page](../../reviews/unlock-earnings-promote-pinealxt-45830.html)

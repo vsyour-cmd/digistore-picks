@@ -1,3 +1,24 @@
+---
+product_id: "40804"
+digistore24_product_id: 454227
+title: "NEW: Backyard Healing Herbs PHYSICAL BOOK"
+vendor: "BackyardHealingHerbs"
+product_type: "Book (printed)"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2022-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.healingbackyard.net/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.healingbackyard.net/index.php"
+language: "en"
+---
 # NEW: Backyard Healing Herbs PHYSICAL BOOK
 
 > Product ID `40804` · Digistore24 productId `454227` · [HTML profile page](../../reviews/new-backyard-healing-herbs-physical-book-40804.html)

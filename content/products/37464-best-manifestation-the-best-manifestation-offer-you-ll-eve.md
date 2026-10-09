@@ -1,3 +1,24 @@
+---
+product_id: "37464"
+digistore24_product_id: 399213
+title: "Best Manifestation – The Best Manifestation Offer You’ll Eve"
+vendor: "Winarrow"
+product_type: "Audio book (download)"
+price: 42.51
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 27.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2021-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.bestmanifestation.com/best-manifestation-ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.bestmanifestation.com/best-manifestation-ds/"
+language: "en"
+---
 # Best Manifestation – The Best Manifestation Offer You’ll Eve
 
 > Product ID `37464` · Digistore24 productId `399213` · [HTML profile page](../../reviews/best-manifestation-the-best-manifestation-offer-you-ll-eve-37464.html)

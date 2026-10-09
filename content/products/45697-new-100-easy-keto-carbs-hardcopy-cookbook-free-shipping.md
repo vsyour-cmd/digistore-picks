@@ -1,3 +1,24 @@
+---
+product_id: "45697"
+digistore24_product_id: 449971
+title: "NEW! 100 Easy Keto Carbs Hardcopy Cookbook (Free+Shipping)"
+vendor: "phdaily"
+product_type: "Book (printed)"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2022-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php"
+language: "en"
+---
 # NEW! 100 Easy Keto Carbs Hardcopy Cookbook (Free+Shipping)
 
 > Product ID `45697` · Digistore24 productId `449971` · [HTML profile page](../../reviews/new-100-easy-keto-carbs-hardcopy-cookbook-free-shipping-45697.html)

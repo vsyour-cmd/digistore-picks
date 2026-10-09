@@ -1,3 +1,24 @@
+---
+product_id: "58900"
+digistore24_product_id: 729520
+title: "The Quiet Money Methode"
+vendor: "heavoradigital9d89"
+product_type: "Member area and video courses"
+price: 57.99
+currency: "USD"
+affiliate_commission_pct: 12
+earnings_per_sale: 6.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thequietmoneymethode-wg6.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thequietmoneymethode-wg6.plannerpack.co"
+language: "en"
+---
 # The Quiet Money Methode
 
 > Product ID `58900` · Digistore24 productId `729520` · [HTML profile page](../../reviews/the-quiet-money-methode-58900.html)

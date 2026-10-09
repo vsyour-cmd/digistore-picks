@@ -1,3 +1,24 @@
+---
+product_id: "47507"
+digistore24_product_id: 541623
+title: "Eternum Prostate Health"
+vendor: "eternumbrands"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 164.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.prostatehealth.pro/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.prostatehealth.pro/"
+language: "en"
+---
 # Eternum Prostate Health
 
 > Product ID `47507` · Digistore24 productId `541623` · [HTML profile page](../../reviews/eternum-prostate-health-47507.html)

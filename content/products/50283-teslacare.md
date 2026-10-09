@@ -1,3 +1,24 @@
+---
+product_id: "50283"
+digistore24_product_id: 577873
+title: "TeslaCare"
+vendor: "Tesla14"
+product_type: "Deliverable"
+price: 558.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 334.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2024-10-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://teslacare.net/home-page-digi/?aff=adminstore#aff=adminstore"
+sales_page: "https://teslacare.net/home-page-digi/"
+language: "en"
+---
 # TeslaCare
 
 > Product ID `50283` · Digistore24 productId `577873` · [HTML profile page](../../reviews/teslacare-50283.html)

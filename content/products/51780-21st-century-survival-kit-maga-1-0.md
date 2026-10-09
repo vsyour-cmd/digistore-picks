@@ -1,3 +1,24 @@
+---
+product_id: "51780"
+digistore24_product_id: 601972
+title: "21st Century Survival Kit - MAGA 1.0"
+vendor: "Survival777"
+product_type: "Member area and video courses"
+price: 1118.6
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 447.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Survival"]
+listed_since: "2025-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://survivalkit.maga123.com?aff=adminstore#aff=adminstore"
+sales_page: "http://survivalkit.maga123.com"
+language: "en"
+---
 # 21st Century Survival Kit - MAGA 1.0
 
 > Product ID `51780` · Digistore24 productId `601972` · [HTML profile page](../../reviews/21st-century-survival-kit-maga-1-0-51780.html)

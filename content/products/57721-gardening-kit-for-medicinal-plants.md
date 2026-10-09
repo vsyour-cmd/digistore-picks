@@ -1,3 +1,24 @@
+---
+product_id: "57721"
+digistore24_product_id: 714974
+title: "Gardening kit for medicinal plants"
+vendor: "Yummymummy11"
+product_type: "Member area and video courses"
+price: 55.82
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 19.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://gardeningkitformedicinalplants-5zp.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://gardeningkitformedicinalplants-5zp.plannerpack.co"
+language: "en"
+---
 # Gardening kit for medicinal plants
 
 > Product ID `57721` · Digistore24 productId `714974` · [HTML profile page](../../reviews/gardening-kit-for-medicinal-plants-57721.html)

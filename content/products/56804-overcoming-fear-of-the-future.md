@@ -1,3 +1,24 @@
+---
+product_id: "56804"
+digistore24_product_id: 697560
+title: "Overcoming Fear of the Future"
+vendor: "mars86"
+product_type: "E-books"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/697560?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/697560"
+language: "en"
+---
 # Overcoming Fear of the Future
 
 > Product ID `56804` · Digistore24 productId `697560` · [HTML profile page](../../reviews/overcoming-fear-of-the-future-56804.html)

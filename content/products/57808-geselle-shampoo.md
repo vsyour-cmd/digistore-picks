@@ -1,3 +1,24 @@
+---
+product_id: "57808"
+digistore24_product_id: 717003
+title: "GESELLE SHAMPOO"
+vendor: "brigittesneki1969813c"
+product_type: "Member area and video courses"
+price: 24
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 8.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://geselleshampoo-5lj.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://geselleshampoo-5lj.plannerpack.co"
+language: "en"
+---
 # GESELLE SHAMPOO
 
 > Product ID `57808` · Digistore24 productId `717003` · [HTML profile page](../../reviews/geselle-shampoo-57808.html)

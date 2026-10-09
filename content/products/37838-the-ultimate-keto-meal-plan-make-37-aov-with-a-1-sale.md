@@ -1,3 +1,24 @@
+---
+product_id: "37838"
+digistore24_product_id: 283755
+title: "⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale"
+vendor: "durchstartenonline"
+product_type: "Downloads"
+price: 440.35
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 121.7
+cart_conversion_pct: 2
+cancel_rate_pct: 14.13
+categories: ["Health & Fitness"]
+listed_since: "2019-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control&aff=adminstore#aff=adminstore"
+sales_page: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control"
+language: "en"
+---
 # ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale
 
 > Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](../../reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)

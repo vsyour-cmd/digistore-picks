@@ -1,3 +1,24 @@
+---
+product_id: "56661"
+digistore24_product_id: 694934
+title: "Affiliate Invitation – Promote 7‑Day Balanced Meal Plan"
+vendor: "Nancy021"
+product_type: "E-books"
+price: 16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/694934?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/694934"
+language: "en"
+---
 # Affiliate Invitation – Promote 7‑Day Balanced Meal Plan
 
 > Product ID `56661` · Digistore24 productId `694934` · [HTML profile page](../../reviews/affiliate-invitation-promote-7-day-balanced-meal-plan-56661.html)

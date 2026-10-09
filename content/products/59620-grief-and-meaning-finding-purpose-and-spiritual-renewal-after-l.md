@@ -1,3 +1,24 @@
+---
+product_id: "59620"
+digistore24_product_id: 736738
+title: "Grief And Meaning Finding Purpose And Spiritual Renewal After L"
+vendor: "professionalconfidence"
+product_type: "Member area and video courses"
+price: 21.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://griefmeaningpurpose-r3k.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://griefmeaningpurpose-r3k.plannerpack.co"
+language: "en"
+---
 # Grief And Meaning Finding Purpose And Spiritual Renewal After L
 
 > Product ID `59620` · Digistore24 productId `736738` · [HTML profile page](../../reviews/grief-and-meaning-finding-purpose-and-spiritual-renewal-after-l-59620.html)

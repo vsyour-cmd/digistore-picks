@@ -1,3 +1,24 @@
+---
+product_id: "59994"
+digistore24_product_id: 738142
+title: "NEW: The Genius Brain Switch - Absolute Media Monster 2026"
+vendor: "geniusofren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://feelbetter-today.com/brain-power?aff=adminstore#aff=adminstore"
+sales_page: "http://feelbetter-today.com/brain-power"
+language: "en"
+---
 # NEW: The Genius Brain Switch - Absolute Media Monster 2026
 
 > Product ID `59994` · Digistore24 productId `738142` · [HTML profile page](../../reviews/new-the-genius-brain-switch-absolute-media-monster-2026-59994.html)

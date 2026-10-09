@@ -1,3 +1,24 @@
+---
+product_id: "55364"
+digistore24_product_id: 661305
+title: "75% Comm | The \"Systemic Balance\" Funnel | Holistic Health |"
+vendor: "PlanetaVida"
+product_type: "Member area and video courses"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 15.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness"]
+listed_since: "2026-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.pv-en.com/front-end-offers-getting-back-on-track-d24-usa?aff=adminstore#aff=adminstore"
+sales_page: "https://www.pv-en.com/front-end-offers-getting-back-on-track-d24-usa"
+language: "en"
+---
 # 75% Comm | The "Systemic Balance" Funnel | Holistic Health |
 
 > Product ID `55364` · Digistore24 productId `661305` · [HTML profile page](../../reviews/75-comm-the-systemic-balance-funnel-holistic-health-55364.html)

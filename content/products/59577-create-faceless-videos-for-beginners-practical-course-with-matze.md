@@ -1,3 +1,24 @@
+---
+product_id: "59577"
+digistore24_product_id: 736401
+title: "Create Faceless Videos for Beginners – Practical Course with Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 35.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736401?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736401"
+language: "en"
+---
 # Create Faceless Videos for Beginners – Practical Course with Matze
 
 > Product ID `59577` · Digistore24 productId `736401` · [HTML profile page](../../reviews/create-faceless-videos-for-beginners-practical-course-with-matze-59577.html)

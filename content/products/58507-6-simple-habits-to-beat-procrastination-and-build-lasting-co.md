@@ -1,3 +1,24 @@
+---
+product_id: "58507"
+digistore24_product_id: 717852
+title: "6 Simple Habits to Beat Procrastination and Build Lasting Co"
+vendor: "humaspace54e4f9"
+product_type: "E-books"
+price: 14.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/717852?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/717852"
+language: "en"
+---
 # 6 Simple Habits to Beat Procrastination and Build Lasting Co
 
 > Product ID `58507` · Digistore24 productId `717852` · [HTML profile page](../../reviews/6-simple-habits-to-beat-procrastination-and-build-lasting-co-58507.html)

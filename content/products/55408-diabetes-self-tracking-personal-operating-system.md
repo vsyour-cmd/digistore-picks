@@ -1,3 +1,24 @@
+---
+product_id: "55408"
+digistore24_product_id: 665557
+title: "Diabetes Self-Tracking Personal Operating System"
+vendor: "MohammedAsif_k"
+product_type: "Downloads"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Food & Drink","Health & Fitness"]
+listed_since: "2026-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665557?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665557"
+language: "en"
+---
 # Diabetes Self-Tracking Personal Operating System
 
 > Product ID `55408` · Digistore24 productId `665557` · [HTML profile page](../../reviews/diabetes-self-tracking-personal-operating-system-55408.html)

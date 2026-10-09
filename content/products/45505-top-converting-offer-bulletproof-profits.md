@@ -1,3 +1,24 @@
+---
+product_id: "45505"
+digistore24_product_id: 508127
+title: "Top converting offer: Bulletproof Profits"
+vendor: "bp2000metric"
+product_type: "Member area and video courses"
+price: 40.85
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.64
+cart_conversion_pct: 7
+cancel_rate_pct: 20.03
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://launch.yourbulletproofprofits.com/dg-vip/?aff=adminstore#aff=adminstore"
+sales_page: "https://launch.yourbulletproofprofits.com/dg-vip/"
+language: "en"
+---
 # Top converting offer: Bulletproof Profits
 
 > Product ID `45505` · Digistore24 productId `508127` · [HTML profile page](../../reviews/top-converting-offer-bulletproof-profits-45505.html)

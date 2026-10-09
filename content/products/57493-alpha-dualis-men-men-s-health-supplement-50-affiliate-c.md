@@ -1,3 +1,24 @@
+---
+product_id: "57493"
+digistore24_product_id: 709652
+title: "Alpha Dualis Men - Men's Health Supplement - 50% Affiliate C"
+vendor: "65187541348b1"
+product_type: "Supplements - health"
+price: 77
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/709652/adminstore"
+sales_page: "https://alphadualis.com/#price"
+language: "en"
+---
 # Alpha Dualis Men - Men's Health Supplement - 50% Affiliate C
 
 > Product ID `57493` · Digistore24 productId `709652` · [HTML profile page](../../reviews/alpha-dualis-men-men-s-health-supplement-50-affiliate-c-57493.html)

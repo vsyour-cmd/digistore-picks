@@ -1,3 +1,24 @@
+---
+product_id: "55097"
+digistore24_product_id: 656081
+title: "Simple Mindfulness Techniques to Reduce Stress"
+vendor: "TheHealthyLivingHub"
+product_type: "E-books"
+price: 15.65
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
+sales_page: "https://thehealthyliving.lovable.app"
+language: "en"
+---
 # Simple Mindfulness Techniques to Reduce Stress
 
 > Product ID `55097` · Digistore24 productId `656081` · [HTML profile page](../../reviews/simple-mindfulness-techniques-to-reduce-stress-55097.html)

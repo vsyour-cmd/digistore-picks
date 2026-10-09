@@ -1,3 +1,24 @@
+---
+product_id: "40892"
+digistore24_product_id: 456090
+title: "ExpertSlides - The secret weapon for your presentations!"
+vendor: "expertslides"
+product_type: "Software"
+price: 255.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 127.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2022-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://expertslides.com/expertslides-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://expertslides.com/expertslides-digistore24/"
+language: "en"
+---
 # ExpertSlides - The secret weapon for your presentations!
 
 > Product ID `40892` · Digistore24 productId `456090` · [HTML profile page](../../reviews/expertslides-the-secret-weapon-for-your-presentations-40892.html)

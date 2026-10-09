@@ -1,3 +1,24 @@
+---
+product_id: "57456"
+digistore24_product_id: 709524
+title: "Earn $30 Per Sale Promoting a Bitcoin / Ethereum AI Signals"
+vendor: "btcbeep"
+product_type: "Software"
+price: 69
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 30
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Trading Products","Finances"]
+listed_since: "2026-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://btcbeep.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://btcbeep.com/"
+language: "en"
+---
 # Earn $30 Per Sale Promoting a Bitcoin / Ethereum AI Signals
 
 > Product ID `57456` · Digistore24 productId `709524` · [HTML profile page](../../reviews/earn-30-per-sale-promoting-a-bitcoin-ethereum-ai-signals-57456.html)

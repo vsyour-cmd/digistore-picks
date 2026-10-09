@@ -1,3 +1,24 @@
+---
+product_id: "30806"
+digistore24_product_id: 299617
+title: "Popular Project Management Template Set"
+vendor: "arneckem"
+product_type: "Downloads"
+price: 89.48
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 44.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2019-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://worldofpm.com/recommended-project-management-profi-templates/?aff=adminstore#aff=adminstore"
+sales_page: "https://worldofpm.com/recommended-project-management-profi-templates/"
+language: "en"
+---
 # Popular Project Management Template Set
 
 > Product ID `30806` · Digistore24 productId `299617` · [HTML profile page](../../reviews/popular-project-management-template-set-30806.html)

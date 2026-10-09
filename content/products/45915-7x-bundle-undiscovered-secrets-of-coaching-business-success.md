@@ -1,3 +1,24 @@
+---
+product_id: "45915"
+digistore24_product_id: 523814
+title: "7X| Bundle Undiscovered Secrets of Coaching Business Success"
+vendor: "ykarabacak"
+product_type: "E-books"
+price: 5.58
+currency: "USD"
+affiliate_commission_pct: 67
+earnings_per_sale: 3.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Email Marketing"]
+listed_since: "2023-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/523814/?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/523814/"
+language: "en"
+---
 # 7X| Bundle Undiscovered Secrets of Coaching Business Success
 
 > Product ID `45915` · Digistore24 productId `523814` · [HTML profile page](../../reviews/7x-bundle-undiscovered-secrets-of-coaching-business-success-45915.html)

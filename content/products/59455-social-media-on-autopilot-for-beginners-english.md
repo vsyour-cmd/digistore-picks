@@ -1,3 +1,24 @@
+---
+product_id: "59455"
+digistore24_product_id: 735497
+title: "Social Media on Autopilot for Beginners (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 129
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 64.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735497?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735497"
+language: "en"
+---
 # Social Media on Autopilot for Beginners (English)
 
 > Product ID `59455` · Digistore24 productId `735497` · [HTML profile page](../../reviews/social-media-on-autopilot-for-beginners-english-59455.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59995"
+digistore24_product_id: 738155
+title: "NEW: The Brain Song - Killer NEW Memory Offer - 90% Comms"
+vendor: "geniusofren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://puredaily-health.com/stronger-memory?aff=adminstore#aff=adminstore"
+sales_page: "http://puredaily-health.com/stronger-memory"
+language: "en"
+---
 # NEW: The Brain Song - Killer NEW Memory Offer - 90% Comms
 
 > Product ID `59995` · Digistore24 productId `738155` · [HTML profile page](../../reviews/new-the-brain-song-killer-new-memory-offer-90-comms-59995.html)

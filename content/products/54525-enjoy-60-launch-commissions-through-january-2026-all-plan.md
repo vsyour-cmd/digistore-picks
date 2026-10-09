@@ -1,3 +1,24 @@
+---
+product_id: "54525"
+digistore24_product_id: 644279
+title: "“Enjoy 60% launch commissions through January 2026! All plan"
+vendor: "earnwithease"
+product_type: "Software"
+price: 78.19
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Fun & Games"]
+listed_since: "2025-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://soultribe.digital/sales?aff=adminstore#aff=adminstore"
+sales_page: "https://soultribe.digital/sales"
+language: "en"
+---
 # “Enjoy 60% launch commissions through January 2026! All plan
 
 > Product ID `54525` · Digistore24 productId `644279` · [HTML profile page](../../reviews/enjoy-60-launch-commissions-through-january-2026-all-plan-54525.html)

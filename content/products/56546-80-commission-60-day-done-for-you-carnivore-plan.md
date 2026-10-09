@@ -1,3 +1,24 @@
+---
+product_id: "56546"
+digistore24_product_id: 693519
+title: "80% Commission · 60-Day Done-For-You Carnivore Plan"
+vendor: "goldinline"
+product_type: "E-books"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 33.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Survival"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://healthhealing.net/carnivore-diet/aff?aff=adminstore#aff=adminstore"
+sales_page: "https://healthhealing.net/carnivore-diet/aff"
+language: "en"
+---
 # 80% Commission · 60-Day Done-For-You Carnivore Plan
 
 > Product ID `56546` · Digistore24 productId `693519` · [HTML profile page](../../reviews/80-commission-60-day-done-for-you-carnivore-plan-56546.html)

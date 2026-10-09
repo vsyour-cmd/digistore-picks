@@ -1,3 +1,24 @@
+---
+product_id: "54886"
+digistore24_product_id: 654316
+title: "Crypto Breakout Predictor"
+vendor: "DaveCrypto"
+product_type: "Software"
+price: 16.78
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2025-12-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/654316?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/654316"
+language: "en"
+---
 # Crypto Breakout Predictor
 
 > Product ID `54886` · Digistore24 productId `654316` · [HTML profile page](../../reviews/crypto-breakout-predictor-54886.html)

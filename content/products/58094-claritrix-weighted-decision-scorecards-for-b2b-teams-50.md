@@ -1,3 +1,24 @@
+---
+product_id: "58094"
+digistore24_product_id: 717714
+title: "Claritrix — Weighted Decision Scorecards for B2B Teams | 50%"
+vendor: "claritrix"
+product_type: "Software"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Software"]
+listed_since: "2026-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://claritrix.io/ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://claritrix.io/ds24"
+language: "en"
+---
 # Claritrix — Weighted Decision Scorecards for B2B Teams | 50%
 
 > Product ID `58094` · Digistore24 productId `717714` · [HTML profile page](../../reviews/claritrix-weighted-decision-scorecards-for-b2b-teams-50-58094.html)

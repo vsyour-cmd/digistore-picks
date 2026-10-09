@@ -1,3 +1,24 @@
+---
+product_id: "57794"
+digistore24_product_id: 708855
+title: "Personal Astro Travel Reading — $65 PDF Dossier, 10% Commiss"
+vendor: "kowalewski1988sonia1a14"
+product_type: "Remote service provided electronically"
+price: 65
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 6.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism","Travel & Culture"]
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://when-and-where.com?aff=adminstore#aff=adminstore"
+sales_page: "https://when-and-where.com"
+language: "en"
+---
 # Personal Astro Travel Reading — $65 PDF Dossier, 10% Commiss
 
 > Product ID `57794` · Digistore24 productId `708855` · [HTML profile page](../../reviews/personal-astro-travel-reading-65-pdf-dossier-10-commiss-57794.html)

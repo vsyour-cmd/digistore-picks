@@ -1,3 +1,24 @@
+---
+product_id: "49191"
+digistore24_product_id: 552204
+title: "Eliminate Everything Negative"
+vendor: "Santttos"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2024-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/552204?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/552204"
+language: "en"
+---
 # Eliminate Everything Negative
 
 > Product ID `49191` · Digistore24 productId `552204` · [HTML profile page](../../reviews/eliminate-everything-negative-49191.html)

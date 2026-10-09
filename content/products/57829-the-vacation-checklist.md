@@ -1,3 +1,24 @@
+---
+product_id: "57829"
+digistore24_product_id: 717472
+title: "The Vacation Checklist"
+vendor: "stillasere"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thevacationchecklist-5td.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thevacationchecklist-5td.plannerpack.co"
+language: "en"
+---
 # The Vacation Checklist
 
 > Product ID `57829` · Digistore24 productId `717472` · [HTML profile page](../../reviews/the-vacation-checklist-57829.html)

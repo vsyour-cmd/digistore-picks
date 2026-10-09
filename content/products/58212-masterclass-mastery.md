@@ -1,3 +1,24 @@
+---
+product_id: "58212"
+digistore24_product_id: 497855
+title: "MASTERCLASS MASTERY"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/masterclass-mastery/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/masterclass-mastery/"
+language: "en"
+---
 # MASTERCLASS MASTERY
 
 > Product ID `58212` · Digistore24 productId `497855` · [HTML profile page](../../reviews/masterclass-mastery-58212.html)

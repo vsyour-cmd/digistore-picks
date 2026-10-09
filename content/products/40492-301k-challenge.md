@@ -1,3 +1,24 @@
+---
+product_id: "40492"
+digistore24_product_id: 449013
+title: "301K Challenge"
+vendor: "igorkheifets"
+product_type: "Member area and video courses"
+price: 1055.22
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 176.73
+cart_conversion_pct: 2
+cancel_rate_pct: 16.72
+categories: ["Online Marketing"]
+listed_since: "2022-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://igor.watch/digi/301k/vsl.html?aff=adminstore#aff=adminstore"
+sales_page: "https://igor.watch/digi/301k/vsl.html"
+language: "en"
+---
 # 301K Challenge
 
 > Product ID `40492` · Digistore24 productId `449013` · [HTML profile page](../../reviews/301k-challenge-40492.html)

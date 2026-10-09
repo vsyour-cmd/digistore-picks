@@ -1,3 +1,24 @@
+---
+product_id: "55817"
+digistore24_product_id: 658149
+title: "California and Southwest USA Travel Guide (English)"
+vendor: "sarahvisita"
+product_type: "Downloads"
+price: 26.85
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658149?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658149"
+language: "en"
+---
 # California and Southwest USA Travel Guide (English)
 
 > Product ID `55817` · Digistore24 productId `658149` · [HTML profile page](../../reviews/california-and-southwest-usa-travel-guide-english-55817.html)

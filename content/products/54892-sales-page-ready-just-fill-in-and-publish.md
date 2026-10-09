@@ -1,3 +1,24 @@
+---
+product_id: "54892"
+digistore24_product_id: 650825
+title: "Sales Page Ready Just Fill In and Publish"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 447
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 312.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Online Marketing","Marketing Services"]
+listed_since: "2025-11-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/650825?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/650825"
+language: "en"
+---
 # Sales Page Ready Just Fill In and Publish
 
 > Product ID `54892` · Digistore24 productId `650825` · [HTML profile page](../../reviews/sales-page-ready-just-fill-in-and-publish-54892.html)

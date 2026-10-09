@@ -1,3 +1,24 @@
+---
+product_id: "54274"
+digistore24_product_id: 639592
+title: "The Beginner's Guide to Woodworking with Hand Tools"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 127.52
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 95.64
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/the-beginners-guide-to-woodworking?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/the-beginners-guide-to-woodworking"
+language: "en"
+---
 # The Beginner's Guide to Woodworking with Hand Tools
 
 > Product ID `54274` · Digistore24 productId `639592` · [HTML profile page](../../reviews/the-beginner-s-guide-to-woodworking-with-hand-tools-54274.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59454"
+digistore24_product_id: 735496
+title: "UGC Creator for Beginners  Practical Course (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 129
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 64.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Photography & Film","Social Media"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/735496?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735496"
+language: "en"
+---
 # UGC Creator for Beginners  Practical Course (English)
 
 > Product ID `59454` · Digistore24 productId `735496` · [HTML profile page](../../reviews/ugc-creator-for-beginners-practical-course-english-59454.html)

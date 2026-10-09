@@ -1,3 +1,24 @@
+---
+product_id: "47710"
+digistore24_product_id: 543689
+title: "The Premium Prompt Library for Smarter Affiliate Execution"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.83
+cart_conversion_pct: 8
+cancel_rate_pct: 5.19
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/1000-prompts-for-affiliate-marketing?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/1000-prompts-for-affiliate-marketing"
+language: "en"
+---
 # The Premium Prompt Library for Smarter Affiliate Execution
 
 > Product ID `47710` · Digistore24 productId `543689` · [HTML profile page](../../reviews/the-premium-prompt-library-for-smarter-affiliate-execution-47710.html)

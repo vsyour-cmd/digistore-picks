@@ -1,3 +1,24 @@
+---
+product_id: "47273"
+digistore24_product_id: 540224
+title: "Lottery Whiz /US /English"
+vendor: "lottowhiz"
+product_type: "Member area and video courses"
+price: 423.95
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 275.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems","Business & Investment","Fun & Games"]
+listed_since: "2024-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lotterywhiz.com?aff=adminstore#aff=adminstore"
+sales_page: "https://lotterywhiz.com"
+language: "en"
+---
 # Lottery Whiz /US /English
 
 > Product ID `47273` · Digistore24 productId `540224` · [HTML profile page](../../reviews/lottery-whiz-us-english-47273.html)

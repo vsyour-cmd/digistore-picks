@@ -1,3 +1,24 @@
+---
+product_id: "58967"
+digistore24_product_id: 715707
+title: "Progressing Backward and Rising to the Bottom | 40% Affiliat"
+vendor: "elbossilybooks"
+product_type: "E-books"
+price: 12.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/715707?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/715707"
+language: "en"
+---
 # Progressing Backward and Rising to the Bottom | 40% Affiliat
 
 > Product ID `58967` · Digistore24 productId `715707` · [HTML profile page](../../reviews/progressing-backward-and-rising-to-the-bottom-40-affiliat-58967.html)

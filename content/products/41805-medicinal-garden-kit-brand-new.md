@@ -1,3 +1,24 @@
+---
+product_id: "41805"
+digistore24_product_id: 379812
+title: "Medicinal Garden Kit – BRAND NEW!"
+vendor: "bookofren"
+product_type: "Deliverable"
+price: 70.83
+currency: "USD"
+affiliate_commission_pct: 72
+earnings_per_sale: 43.69
+cart_conversion_pct: 18
+cancel_rate_pct: 2.07
+categories: ["Home & Garden"]
+listed_since: "2021-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://medicinalseedkit.com/kit/?aff=adminstore#aff=adminstore"
+sales_page: "https://medicinalseedkit.com/kit/"
+language: "en"
+---
 # Medicinal Garden Kit – BRAND NEW!
 
 > Product ID `41805` · Digistore24 productId `379812` · [HTML profile page](../../reviews/medicinal-garden-kit-brand-new-41805.html)

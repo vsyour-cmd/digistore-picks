@@ -1,3 +1,24 @@
+---
+product_id: "59589"
+digistore24_product_id: 736416
+title: "Amazon FBA for Beginners – Costs and Risks with Matze"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 166.67
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 66.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736416?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736416"
+language: "en"
+---
 # Amazon FBA for Beginners – Costs and Risks with Matze
 
 > Product ID `59589` · Digistore24 productId `736416` · [HTML profile page](../../reviews/amazon-fba-for-beginners-costs-and-risks-with-matze-59589.html)

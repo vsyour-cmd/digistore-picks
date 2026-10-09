@@ -1,3 +1,24 @@
+---
+product_id: "47713"
+digistore24_product_id: 540559
+title: "Start Affiliate Marketing like a Pro"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 6.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.65
+cart_conversion_pct: 8
+cancel_rate_pct: 5.19
+categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/start-am-like-a-pro/?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/start-am-like-a-pro/"
+language: "en"
+---
 # Start Affiliate Marketing like a Pro
 
 > Product ID `47713` · Digistore24 productId `540559` · [HTML profile page](../../reviews/start-affiliate-marketing-like-a-pro-47713.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54350"
+digistore24_product_id: 640403
+title: "The Connection Blueprint: 3 Ebooks to Stronger Relationships"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/640403?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640403"
+language: "en"
+---
 # The Connection Blueprint: 3 Ebooks to Stronger Relationships
 
 > Product ID `54350` · Digistore24 productId `640403` · [HTML profile page](../../reviews/the-connection-blueprint-3-ebooks-to-stronger-relationships-54350.html)

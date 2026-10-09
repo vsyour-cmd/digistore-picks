@@ -1,3 +1,24 @@
+---
+product_id: "54873"
+digistore24_product_id: 652730
+title: "From Chaos to Calm: How to Control Anxiety."
+vendor: "tatyinvest"
+product_type: "E-books"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/652730?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/652730"
+language: "en"
+---
 # From Chaos to Calm: How to Control Anxiety.
 
 > Product ID `54873` · Digistore24 productId `652730` · [HTML profile page](../../reviews/from-chaos-to-calm-how-to-control-anxiety-54873.html)

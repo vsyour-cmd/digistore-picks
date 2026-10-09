@@ -1,3 +1,24 @@
+---
+product_id: "58675"
+digistore24_product_id: 726234
+title: "Guide to US blue-chip stocks"
+vendor: "support1227"
+product_type: "Member area and video courses"
+price: 230
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 80.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bluewaveg.shop?aff=adminstore#aff=adminstore"
+sales_page: "https://bluewaveg.shop"
+language: "en"
+---
 # Guide to US blue-chip stocks
 
 > Product ID `58675` · Digistore24 productId `726234` · [HTML profile page](../../reviews/guide-to-us-blue-chip-stocks-58675.html)

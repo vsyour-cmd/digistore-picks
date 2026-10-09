@@ -1,3 +1,24 @@
+---
+product_id: "53957"
+digistore24_product_id: 635389
+title: "Negotiation Ninja–Deal Winning Art"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job","Personal Development"]
+listed_since: "2025-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635389?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635389"
+language: "en"
+---
 # Negotiation Ninja–Deal Winning Art
 
 > Product ID `53957` · Digistore24 productId `635389` · [HTML profile page](../../reviews/negotiation-ninja-deal-winning-art-53957.html)

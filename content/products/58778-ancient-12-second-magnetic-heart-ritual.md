@@ -1,3 +1,24 @@
+---
+product_id: "58778"
+digistore24_product_id: 727720
+title: "Ancient 12-Second Magnetic Heart Ritual"
+vendor: "linalifeuk2026"
+product_type: "Member area and video courses"
+price: 23.58
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 8.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ancient12sheart-1pp.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://ancient12sheart-1pp.plannerpack.co"
+language: "en"
+---
 # Ancient 12-Second Magnetic Heart Ritual
 
 > Product ID `58778` · Digistore24 productId `727720` · [HTML profile page](../../reviews/ancient-12-second-magnetic-heart-ritual-58778.html)

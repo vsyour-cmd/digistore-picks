@@ -1,3 +1,24 @@
+---
+product_id: "21751"
+digistore24_product_id: 176307
+title: "Bitcoin ve Kripto paraları ile trading eğitimi"
+vendor: "Positivemind"
+product_type: "Member area and video courses"
+price: 1113.01
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 389.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2017-11-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://milyoner.de/?aff=adminstore#aff=adminstore"
+sales_page: "https://milyoner.de/"
+language: "en"
+---
 # Bitcoin ve Kripto paraları ile trading eğitimi
 
 > Product ID `21751` · Digistore24 productId `176307` · [HTML profile page](../../reviews/bitcoin-ve-kripto-paralar-ile-trading-e-itimi-21751.html)

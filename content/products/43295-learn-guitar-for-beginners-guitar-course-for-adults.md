@@ -1,3 +1,24 @@
+---
+product_id: "43295"
+digistore24_product_id: 487519
+title: "Learn Guitar For Beginners - Guitar Course For Adults"
+vendor: "Guitarschool24"
+product_type: "Member area and video courses"
+price: 107.39
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 32.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2023-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.guitarschool24.com/learn-guitar-for-beginners/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.guitarschool24.com/learn-guitar-for-beginners/"
+language: "en"
+---
 # Learn Guitar For Beginners - Guitar Course For Adults
 
 > Product ID `43295` · Digistore24 productId `487519` · [HTML profile page](../../reviews/learn-guitar-for-beginners-guitar-course-for-adults-43295.html)

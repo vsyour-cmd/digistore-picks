@@ -1,3 +1,24 @@
+---
+product_id: "30484"
+digistore24_product_id: 275723
+title: "Make Him Worship You - Women's Relationship Monster"
+vendor: "digitalromance"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2019-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://heworshipsyou.com?aff=adminstore#aff=adminstore"
+sales_page: "https://heworshipsyou.com"
+language: "en"
+---
 # Make Him Worship You - Women's Relationship Monster
 
 > Product ID `30484` · Digistore24 productId `275723` · [HTML profile page](../../reviews/make-him-worship-you-women-s-relationship-monster-30484.html)

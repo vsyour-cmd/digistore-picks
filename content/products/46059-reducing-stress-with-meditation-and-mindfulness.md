@@ -1,3 +1,24 @@
+---
+product_id: "46059"
+digistore24_product_id: 525965
+title: "Reducing Stress with Meditation and Mindfulness"
+vendor: "ykarabacak"
+product_type: "E-books"
+price: 4.46
+currency: "USD"
+affiliate_commission_pct: 77
+earnings_per_sale: 3.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2023-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/525965?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/525965"
+language: "en"
+---
 # Reducing Stress with Meditation and Mindfulness
 
 > Product ID `46059` · Digistore24 productId `525965` · [HTML profile page](../../reviews/reducing-stress-with-meditation-and-mindfulness-46059.html)

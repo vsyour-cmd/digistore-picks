@@ -1,3 +1,24 @@
+---
+product_id: "59382"
+digistore24_product_id: 735008
+title: "Pinterest for Beginners – Practical Course (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735008?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735008"
+language: "en"
+---
 # Pinterest for Beginners – Practical Course (English)
 
 > Product ID `59382` · Digistore24 productId `735008` · [HTML profile page](../../reviews/pinterest-for-beginners-practical-course-english-59382.html)

@@ -1,3 +1,24 @@
+---
+product_id: "35972"
+digistore24_product_id: 370248
+title: "Call of Destiny - Weekly Recurring 75% Commission"
+vendor: "serimon"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 5.87
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2021-01-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://reading.callofdestiny.org?aff=adminstore#aff=adminstore"
+sales_page: "http://reading.callofdestiny.org"
+language: "en"
+---
 # Call of Destiny - Weekly Recurring 75% Commission
 
 > Product ID `35972` · Digistore24 productId `370248` · [HTML profile page](../../reviews/call-of-destiny-weekly-recurring-75-commission-35972.html)

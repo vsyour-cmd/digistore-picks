@@ -1,3 +1,24 @@
+---
+product_id: "50317"
+digistore24_product_id: 578541
+title: "Instagram Marketing Mastery – The Ultimate PLR Bundle!"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/Effective-Insta-Marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/Effective-Insta-Marketing/"
+language: "en"
+---
 # Instagram Marketing Mastery – The Ultimate PLR Bundle!
 
 > Product ID `50317` · Digistore24 productId `578541` · [HTML profile page](../../reviews/instagram-marketing-mastery-the-ultimate-plr-bundle-50317.html)

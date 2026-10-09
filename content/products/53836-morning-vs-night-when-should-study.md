@@ -1,3 +1,24 @@
+---
+product_id: "53836"
+digistore24_product_id: 633821
+title: "Morning vs. Night_When Should Study"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633821?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633821"
+language: "en"
+---
 # Morning vs. Night_When Should Study
 
 > Product ID `53836` · Digistore24 productId `633821` · [HTML profile page](../../reviews/morning-vs-night-when-should-study-53836.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54296"
+digistore24_product_id: 638897
+title: "THE MICE IN THE HOUSE by Gulshan Ulduz and her Father PDF"
+vendor: "DECLARATIONPLUS"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/638897?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/638897"
+language: "en"
+---
 # THE MICE IN THE HOUSE by Gulshan Ulduz and her Father PDF
 
 > Product ID `54296` · Digistore24 productId `638897` · [HTML profile page](../../reviews/the-mice-in-the-house-by-gulshan-ulduz-and-her-father-pdf-54296.html)

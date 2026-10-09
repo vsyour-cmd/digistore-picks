@@ -1,3 +1,24 @@
+---
+product_id: "53030"
+digistore24_product_id: 621048
+title: "Synaptigen"
+vendor: "Synaptigen"
+product_type: "Supplements - health"
+price: 246.11
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 190.92
+cart_conversion_pct: 5
+cancel_rate_pct: 13
+categories: ["Food Supplements"]
+listed_since: "2025-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://synaptigen24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://synaptigen24.com/text.php"
+language: "en"
+---
 # Synaptigen
 
 > Product ID `53030` · Digistore24 productId `621048` · [HTML profile page](../../reviews/synaptigen-53030.html)

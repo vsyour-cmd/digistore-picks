@@ -1,3 +1,24 @@
+---
+product_id: "51887"
+digistore24_product_id: 603909
+title: "The Quantum Brain System - eBook"
+vendor: "AAnchorBiz"
+product_type: "E-books"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2025-03-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aanchorbiz.com/the-quantum-brain-system-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://aanchorbiz.com/the-quantum-brain-system-frontend/"
+language: "en"
+---
 # The Quantum Brain System - eBook
 
 > Product ID `51887` · Digistore24 productId `603909` · [HTML profile page](../../reviews/the-quantum-brain-system-ebook-51887.html)

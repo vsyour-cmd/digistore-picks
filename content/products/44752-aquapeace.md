@@ -1,3 +1,24 @@
+---
+product_id: "44752"
+digistore24_product_id: 505326
+title: "AquaPeace"
+vendor: "AquaPeace"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2023-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aquapeace24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://aquapeace24.com/text.php"
+language: "en"
+---
 # AquaPeace
 
 > Product ID `44752` · Digistore24 productId `505326` · [HTML profile page](../../reviews/aquapeace-44752.html)

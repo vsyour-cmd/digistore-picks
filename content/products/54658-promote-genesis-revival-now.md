@@ -1,3 +1,24 @@
+---
+product_id: "54658"
+digistore24_product_id: 647913
+title: "Promote Genesis Revival Now!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 154.37
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 100.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-11-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://genesisrevival.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://genesisrevival.com/ds/go/indexvs.php"
+language: "en"
+---
 # Promote Genesis Revival Now!
 
 > Product ID `54658` · Digistore24 productId `647913` · [HTML profile page](../../reviews/promote-genesis-revival-now-54658.html)

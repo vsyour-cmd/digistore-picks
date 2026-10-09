@@ -1,3 +1,24 @@
+---
+product_id: "57503"
+digistore24_product_id: 702447
+title: "Louis: the boy from barrancas - All languages edition"
+vendor: "arcems12211834"
+product_type: "E-books"
+price: 14.99
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-07-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore"
+sales_page: "https://theboyfrombarrancas.com/digistore24"
+language: "en"
+---
 # Louis: the boy from barrancas - All languages edition
 
 > Product ID `57503` · Digistore24 productId `702447` · [HTML profile page](../../reviews/louis-the-boy-from-barrancas-all-languages-edition-57503.html)

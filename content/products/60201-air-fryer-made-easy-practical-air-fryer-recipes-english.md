@@ -1,3 +1,24 @@
+---
+product_id: "60201"
+digistore24_product_id: 740280
+title: "Air Fryer Made Easy | Practical air fryer recipes (English)"
+vendor: "clickapps"
+product_type: "E-books"
+price: 19.9
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 7.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Hotels & Gastronomy"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en&aff=adminstore#aff=adminstore"
+sales_page: "https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en"
+language: "en"
+---
 # Air Fryer Made Easy | Practical air fryer recipes (English)
 
 > Product ID `60201` · Digistore24 productId `740280` · [HTML profile page](../../reviews/air-fryer-made-easy-practical-air-fryer-recipes-english-60201.html)

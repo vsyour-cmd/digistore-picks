@@ -1,3 +1,24 @@
+---
+product_id: "57561"
+digistore24_product_id: 712369
+title: "Marketing Made Simple"
+vendor: "AprilBrumm"
+product_type: "Member area and video courses"
+price: 147
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 73.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marketingmadesimple-ez6.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://marketingmadesimple-ez6.plannerpack.co"
+language: "en"
+---
 # Marketing Made Simple
 
 > Product ID `57561` · Digistore24 productId `712369` · [HTML profile page](../../reviews/marketing-made-simple-57561.html)

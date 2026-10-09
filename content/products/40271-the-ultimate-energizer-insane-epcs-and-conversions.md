@@ -1,3 +1,24 @@
+---
+product_id: "40271"
+digistore24_product_id: 446475
+title: "The Ultimate Energizer - Insane EPCs and Conversions !"
+vendor: "tuenergizer"
+product_type: "E-books"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 49.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2022-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.greenenergyfreedom.net/index_tue.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.greenenergyfreedom.net/index_tue.html"
+language: "en"
+---
 # The Ultimate Energizer - Insane EPCs and Conversions !
 
 > Product ID `40271` · Digistore24 productId `446475` · [HTML profile page](../../reviews/the-ultimate-energizer-insane-epcs-and-conversions-40271.html)

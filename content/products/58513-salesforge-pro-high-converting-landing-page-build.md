@@ -1,3 +1,24 @@
+---
+product_id: "58513"
+digistore24_product_id: 723073
+title: "SalesForge Pro – High-Converting Landing Page Build"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 447
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 312.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software","Online Marketing"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://salesforgepro.netlify.app/#aff=adminstore"
+sales_page: "https://salesforgepro.netlify.app/"
+language: "en"
+---
 # SalesForge Pro – High-Converting Landing Page Build
 
 > Product ID `58513` · Digistore24 productId `723073` · [HTML profile page](../../reviews/salesforge-pro-high-converting-landing-page-build-58513.html)

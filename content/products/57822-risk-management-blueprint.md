@@ -1,3 +1,24 @@
+---
+product_id: "57822"
+digistore24_product_id: 589118
+title: "Risk Management Blueprint"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Project Management"]
+listed_since: "2026-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/risk-management-course/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/risk-management-course/"
+language: "en"
+---
 # Risk Management Blueprint
 
 > Product ID `57822` · Digistore24 productId `589118` · [HTML profile page](../../reviews/risk-management-blueprint-57822.html)

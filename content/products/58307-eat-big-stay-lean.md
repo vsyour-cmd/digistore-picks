@@ -1,3 +1,24 @@
+---
+product_id: "58307"
+digistore24_product_id: 720590
+title: "Eat Big, Stay Lean"
+vendor: "krisig02156e2b"
+product_type: "E-books"
+price: 30.09
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/720590?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/720590"
+language: "en"
+---
 # Eat Big, Stay Lean
 
 > Product ID `58307` · Digistore24 productId `720590` · [HTML profile page](../../reviews/eat-big-stay-lean-58307.html)

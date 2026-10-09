@@ -1,3 +1,24 @@
+---
+product_id: "47082"
+digistore24_product_id: 472943
+title: "Earn 60% Commission Promoting Advanced Amino Formula"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 119.06
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 67.17
+cart_conversion_pct: 7
+cancel_rate_pct: 6.66
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2022-12-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm"
+language: "en"
+---
 # Earn 60% Commission Promoting Advanced Amino Formula
 
 > Product ID `47082` · Digistore24 productId `472943` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-amino-formula-47082.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50253"
+digistore24_product_id: 577507
+title: "No. 1 Social Media Profit Package on Digistore24"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/social-marketing-school?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/social-marketing-school"
+language: "en"
+---
 # No. 1 Social Media Profit Package on Digistore24
 
 > Product ID `50253` · Digistore24 productId `577507` · [HTML profile page](../../reviews/no-1-social-media-profit-package-on-digistore24-50253.html)

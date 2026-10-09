@@ -1,3 +1,24 @@
+---
+product_id: "54513"
+digistore24_product_id: 642084
+title: "Computer Literacy for Seniors | 4% CVR | $44.50/Sale"
+vendor: "MasterYourMachineIn90Days"
+product_type: "Member area and video courses"
+price: 99.56
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 74.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Personal Development"]
+listed_since: "2025-10-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://masteryourmachinein90days.com/offer/video-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://masteryourmachinein90days.com/offer/video-ds24"
+language: "en"
+---
 # Computer Literacy for Seniors | 4% CVR | $44.50/Sale
 
 > Product ID `54513` · Digistore24 productId `642084` · [HTML profile page](../../reviews/computer-literacy-for-seniors-4-cvr-44-50-sale-54513.html)

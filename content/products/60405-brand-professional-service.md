@@ -1,3 +1,24 @@
+---
+product_id: "60405"
+digistore24_product_id: 743400
+title: "Brand Professional Service"
+vendor: "xarutacom"
+product_type: "Downloads"
+price: 513.44
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 128.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore"
+sales_page: "https://xaruta4.wordpress.com/brand-pro/"
+language: "en"
+---
 # Brand Professional Service
 
 > Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](../../reviews/brand-professional-service-60405.html)

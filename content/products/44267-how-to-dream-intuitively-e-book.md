@@ -1,3 +1,24 @@
+---
+product_id: "44267"
+digistore24_product_id: 487392
+title: "How to Dream Intuitively (E-Book)"
+vendor: "BeHappyNow"
+product_type: "E-books"
+price: 11
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 1.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2023-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/487392?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/487392"
+language: "en"
+---
 # How to Dream Intuitively (E-Book)
 
 > Product ID `44267` · Digistore24 productId `487392` · [HTML profile page](../../reviews/how-to-dream-intuitively-e-book-44267.html)

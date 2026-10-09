@@ -1,3 +1,24 @@
+---
+product_id: "53043"
+digistore24_product_id: 619963
+title: "Master AI in 30Days with This Plug-Play Productivity Toolkit"
+vendor: "El_patronship"
+product_type: "Downloads"
+price: 33.55
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 13.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Software"]
+listed_since: "2025-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nexora-boost.xyz/?aff=adminstore#aff=adminstore"
+sales_page: "https://nexora-boost.xyz/"
+language: "en"
+---
 # Master AI in 30Days with This Plug-Play Productivity Toolkit
 
 > Product ID `53043` · Digistore24 productId `619963` · [HTML profile page](../../reviews/master-ai-in-30days-with-this-plug-play-productivity-toolkit-53043.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56792"
+digistore24_product_id: 697824
+title: "Ebook - The Inner Life Series"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/697824?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/697824"
+language: "en"
+---
 # Ebook - The Inner Life Series
 
 > Product ID `56792` · Digistore24 productId `697824` · [HTML profile page](../../reviews/ebook-the-inner-life-series-56792.html)

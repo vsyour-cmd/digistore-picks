@@ -1,3 +1,24 @@
+---
+product_id: "54360"
+digistore24_product_id: 640866
+title: "Manifestation Mastery - Rewrite your mind for desired life"
+vendor: "AspireVerse"
+product_type: "E-books"
+price: 5.58
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 4.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Spiri­tua­lity & Esotericism","Personal Development"]
+listed_since: "2025-10-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://manifestationmastery.aspireonecs.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://manifestationmastery.aspireonecs.com/"
+language: "en"
+---
 # Manifestation Mastery - Rewrite your mind for desired life
 
 > Product ID `54360` · Digistore24 productId `640866` · [HTML profile page](../../reviews/manifestation-mastery-rewrite-your-mind-for-desired-life-54360.html)

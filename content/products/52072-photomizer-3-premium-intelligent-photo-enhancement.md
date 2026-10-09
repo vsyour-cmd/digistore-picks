@@ -1,3 +1,24 @@
+---
+product_id: "52072"
+digistore24_product_id: 518666
+title: "Photomizer 3 Premium – Intelligent Photo Enhancement"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 37.6
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Photography & Film","Software"]
+listed_since: "2023-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/518666?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/518666"
+language: "en"
+---
 # Photomizer 3 Premium – Intelligent Photo Enhancement
 
 > Product ID `52072` · Digistore24 productId `518666` · [HTML profile page](../../reviews/photomizer-3-premium-intelligent-photo-enhancement-52072.html)

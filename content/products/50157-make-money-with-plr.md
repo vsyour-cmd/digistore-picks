@@ -1,3 +1,24 @@
+---
+product_id: "50157"
+digistore24_product_id: 576568
+title: "Make Money with PLR"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 31.21
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/how-to-make-money-with-plr?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/how-to-make-money-with-plr"
+language: "en"
+---
 # Make Money with PLR
 
 > Product ID `50157` · Digistore24 productId `576568` · [HTML profile page](../../reviews/make-money-with-plr-50157.html)

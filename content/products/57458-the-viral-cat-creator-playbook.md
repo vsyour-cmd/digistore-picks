@@ -1,3 +1,24 @@
+---
+product_id: "57458"
+digistore24_product_id: 708884
+title: "The Viral Cat Creator Playbook"
+vendor: "monimarketstudio4664"
+product_type: "Downloads"
+price: 25.38
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://catcreatorplaybook.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://catcreatorplaybook.netlify.app/"
+language: "en"
+---
 # The Viral Cat Creator Playbook
 
 > Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](../../reviews/the-viral-cat-creator-playbook-57458.html)

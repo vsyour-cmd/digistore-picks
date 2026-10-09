@@ -1,3 +1,24 @@
+---
+product_id: "55018"
+digistore24_product_id: 654839
+title: "Baby Cat and Puppy Mandala Coloring Book"
+vendor: "manuelcosta"
+product_type: "E-books"
+price: 10.06
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-12-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://mandalaebook.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://mandalaebook.netlify.app/"
+language: "en"
+---
 # Baby Cat and Puppy Mandala Coloring Book
 
 > Product ID `55018` · Digistore24 productId `654839` · [HTML profile page](../../reviews/baby-cat-and-puppy-mandala-coloring-book-55018.html)

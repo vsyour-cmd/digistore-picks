@@ -1,3 +1,24 @@
+---
+product_id: "58266"
+digistore24_product_id: 719382
+title: "Automotive and Motorsport Gear Engineering – Volumе 2"
+vendor: "krisig02156e2b"
+product_type: "E-books"
+price: 50.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Hobby & Craft"]
+listed_since: "2026-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/719382?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719382"
+language: "en"
+---
 # Automotive and Motorsport Gear Engineering – Volumе 2
 
 > Product ID `58266` · Digistore24 productId `719382` · [HTML profile page](../../reviews/automotive-and-motorsport-gear-engineering-volum-2-58266.html)

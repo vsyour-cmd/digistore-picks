@@ -1,3 +1,24 @@
+---
+product_id: "59552"
+digistore24_product_id: 736202
+title: "Colored Full Page Monthly Blank Calendar"
+vendor: "litvipenkoadfc"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://coloredcalendar-o3m.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://coloredcalendar-o3m.plannerpack.fun"
+language: "en"
+---
 # Colored Full Page Monthly Blank Calendar
 
 > Product ID `59552` · Digistore24 productId `736202` · [HTML profile page](../../reviews/colored-full-page-monthly-blank-calendar-59552.html)

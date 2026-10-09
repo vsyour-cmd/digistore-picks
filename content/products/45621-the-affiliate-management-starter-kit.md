@@ -1,3 +1,24 @@
+---
+product_id: "45621"
+digistore24_product_id: 520627
+title: "The Affiliate Management Starter Kit"
+vendor: "Affpal"
+product_type: "E-books"
+price: 22.32
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2023-10-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.affpal.net/the-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.affpal.net/the-book/"
+language: "en"
+---
 # The Affiliate Management Starter Kit
 
 > Product ID `45621` · Digistore24 productId `520627` · [HTML profile page](../../reviews/the-affiliate-management-starter-kit-45621.html)

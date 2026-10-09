@@ -1,3 +1,24 @@
+---
+product_id: "55399"
+digistore24_product_id: 665305
+title: "Detachment Without Disappearing"
+vendor: "MohammedAsif_k"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Family & Children"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665305?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665305"
+language: "en"
+---
 # Detachment Without Disappearing
 
 > Product ID `55399` · Digistore24 productId `665305` · [HTML profile page](../../reviews/detachment-without-disappearing-55399.html)

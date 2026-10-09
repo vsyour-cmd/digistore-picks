@@ -1,3 +1,24 @@
+---
+product_id: "57640"
+digistore24_product_id: 691501
+title: "Gold Tea Detox Is A Conversion Monster! Monthly Contest Live"
+vendor: "goldteadetox"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 22.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-07-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://goldteadetox.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://goldteadetox.com/"
+language: "en"
+---
 # Gold Tea Detox Is A Conversion Monster! Monthly Contest Live
 
 > Product ID `57640` · Digistore24 productId `691501` · [HTML profile page](../../reviews/gold-tea-detox-is-a-conversion-monster-monthly-contest-live-57640.html)

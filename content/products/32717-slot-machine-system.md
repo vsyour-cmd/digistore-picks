@@ -1,3 +1,24 @@
+---
+product_id: "32717"
+digistore24_product_id: 319147
+title: "Slot Machine System"
+vendor: "SlotMachineSystem"
+product_type: "Downloads"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 81.38
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems"]
+listed_since: "2020-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://slotmachinesystem.com/?aff=adminstore#aff=adminstore"
+sales_page: "http://slotmachinesystem.com/"
+language: "en"
+---
 # Slot Machine System
 
 > Product ID `32717` · Digistore24 productId `319147` · [HTML profile page](../../reviews/slot-machine-system-32717.html)

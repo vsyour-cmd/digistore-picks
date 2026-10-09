@@ -1,3 +1,24 @@
+---
+product_id: "51883"
+digistore24_product_id: 604288
+title: "Pinterest Mastery: Unlock the Secrets to Passive Income"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 16.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
+listed_since: "2025-03-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/604288?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/604288"
+language: "en"
+---
 # Pinterest Mastery: Unlock the Secrets to Passive Income
 
 > Product ID `51883` · Digistore24 productId `604288` · [HTML profile page](../../reviews/pinterest-mastery-unlock-the-secrets-to-passive-income-51883.html)

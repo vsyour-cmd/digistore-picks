@@ -1,3 +1,24 @@
+---
+product_id: "50316"
+digistore24_product_id: 578528
+title: "Your Gateway to the Crypto World – Cryptocurrency Secrets!"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Trading Products"]
+listed_since: "2024-11-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/the-cryptocurrency-secrets?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/the-cryptocurrency-secrets"
+language: "en"
+---
 # Your Gateway to the Crypto World – Cryptocurrency Secrets!
 
 > Product ID `50316` · Digistore24 productId `578528` · [HTML profile page](../../reviews/your-gateway-to-the-crypto-world-cryptocurrency-secrets-50316.html)

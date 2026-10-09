@@ -1,3 +1,24 @@
+---
+product_id: "53066"
+digistore24_product_id: 616827
+title: "Traffic Genius | 50% Commissions | $997 Offer"
+vendor: "viddeosai"
+product_type: "Software"
+price: 1497
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 278.93
+cart_conversion_pct: 1
+cancel_rate_pct: 21.41
+categories: ["Software"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://viddeos.ai/start/?aff=adminstore#aff=adminstore"
+sales_page: "https://viddeos.ai/start/"
+language: "en"
+---
 # Traffic Genius | 50% Commissions | $997 Offer
 
 > Product ID `53066` · Digistore24 productId `616827` · [HTML profile page](../../reviews/traffic-genius-50-commissions-997-offer-53066.html)

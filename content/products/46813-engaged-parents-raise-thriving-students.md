@@ -1,3 +1,24 @@
+---
+product_id: "46813"
+digistore24_product_id: 530901
+title: "Engaged parents raise thriving students!"
+vendor: "togetr4success"
+product_type: "Member area and video courses"
+price: 195.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 97.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2023-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://togetr4success.thinkific.com/courses/TG4S-100?aff=adminstore#aff=adminstore"
+sales_page: "https://togetr4success.thinkific.com/courses/TG4S-100"
+language: "en"
+---
 # Engaged parents raise thriving students!
 
 > Product ID `46813` · Digistore24 productId `530901` · [HTML profile page](../../reviews/engaged-parents-raise-thriving-students-46813.html)

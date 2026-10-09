@@ -1,3 +1,24 @@
+---
+product_id: "42182"
+digistore24_product_id: 475168
+title: "Norwegian course for beginners based on a story (Nils)"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 178.37
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 72.71
+cart_conversion_pct: 5
+cancel_rate_pct: 3.74
+categories: ["Languages"]
+listed_since: "2022-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://courses.skapago.eu/lp/norwegian-course-beginners-nils-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://courses.skapago.eu/lp/norwegian-course-beginners-nils-ds"
+language: "en"
+---
 # Norwegian course for beginners based on a story (Nils)
 
 > Product ID `42182` · Digistore24 productId `475168` · [HTML profile page](../../reviews/norwegian-course-for-beginners-based-on-a-story-nils-42182.html)

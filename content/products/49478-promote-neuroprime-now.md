@@ -1,3 +1,24 @@
+---
+product_id: "49478"
+digistore24_product_id: 570703
+title: "Promote NeuroPrime Now!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 274.63
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 76
+cart_conversion_pct: 8
+cancel_rate_pct: 5.55
+categories: ["Food Supplements"]
+listed_since: "2024-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://theneuroprime.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://theneuroprime.com/ds/go/indexvs.php"
+language: "en"
+---
 # Promote NeuroPrime Now!
 
 > Product ID `49478` · Digistore24 productId `570703` · [HTML profile page](../../reviews/promote-neuroprime-now-49478.html)

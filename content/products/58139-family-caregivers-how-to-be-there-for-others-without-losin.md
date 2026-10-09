@@ -1,3 +1,24 @@
+---
+product_id: "58139"
+digistore24_product_id: 718326
+title: "Family Caregivers – How to Be There for Others Without Losin"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Leadership & Management"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/718326?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718326"
+language: "en"
+---
 # Family Caregivers – How to Be There for Others Without Losin
 
 > Product ID `58139` · Digistore24 productId `718326` · [HTML profile page](../../reviews/family-caregivers-how-to-be-there-for-others-without-losin-58139.html)

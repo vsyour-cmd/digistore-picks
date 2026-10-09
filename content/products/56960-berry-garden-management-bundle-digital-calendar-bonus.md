@@ -1,3 +1,24 @@
+---
+product_id: "56960"
+digistore24_product_id: 699183
+title: "Berry Garden Management bundle + Digital Calendar Bonus"
+vendor: "BerryOS"
+product_type: "Downloads"
+price: 8.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://berryoperatingsystems.my.canva.site/garden-management-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://berryoperatingsystems.my.canva.site/garden-management-bundle"
+language: "en"
+---
 # Berry Garden Management bundle + Digital Calendar Bonus
 
 > Product ID `56960` · Digistore24 productId `699183` · [HTML profile page](../../reviews/berry-garden-management-bundle-digital-calendar-bonus-56960.html)

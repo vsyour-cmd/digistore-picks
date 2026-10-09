@@ -1,3 +1,24 @@
+---
+product_id: "50900"
+digistore24_product_id: 570969
+title: "MADEIRA BY BUS - Interactive Travel Guide For Madeira"
+vendor: "madeira-bus"
+product_type: "E-books"
+price: 21.19
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4.82
+cart_conversion_pct: 2
+cancel_rate_pct: 0
+categories: ["Travel & Culture"]
+listed_since: "2024-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.madeira-by-bus.com/read?aff=adminstore#aff=adminstore"
+sales_page: "https://www.madeira-by-bus.com/read"
+language: "en"
+---
 # MADEIRA BY BUS - Interactive Travel Guide For Madeira
 
 > Product ID `50900` · Digistore24 productId `570969` · [HTML profile page](../../reviews/madeira-by-bus-interactive-travel-guide-for-madeira-50900.html)

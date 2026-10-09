@@ -1,3 +1,24 @@
+---
+product_id: "43141"
+digistore24_product_id: 484747
+title: "TonicGreens"
+vendor: "tonicgreens"
+product_type: "Supplements - health"
+price: 181.17
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 80.91
+cart_conversion_pct: 5
+cancel_rate_pct: 7.83
+categories: ["Food Supplements"]
+listed_since: "2023-02-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tonicgreens.cc/vsl1/?aff=adminstore#aff=adminstore"
+sales_page: "https://tonicgreens.cc/vsl1/"
+language: "en"
+---
 # TonicGreens
 
 > Product ID `43141` · Digistore24 productId `484747` · [HTML profile page](../../reviews/tonicgreens-43141.html)

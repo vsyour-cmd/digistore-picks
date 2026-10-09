@@ -1,3 +1,24 @@
+---
+product_id: "57588"
+digistore24_product_id: 712937
+title: "Games and Puzzles for Creatives - Activity eBook"
+vendor: "KeepCreatingFun"
+product_type: "E-books"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 7.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Hobby & Craft"]
+listed_since: "2026-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co"
+language: "en"
+---
 # Games and Puzzles for Creatives - Activity eBook
 
 > Product ID `57588` · Digistore24 productId `712937` · [HTML profile page](../../reviews/games-and-puzzles-for-creatives-activity-ebook-57588.html)

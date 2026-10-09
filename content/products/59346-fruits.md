@@ -1,3 +1,24 @@
+---
+product_id: "59346"
+digistore24_product_id: 734686
+title: "Fruits"
+vendor: "team24-jwintberg"
+product_type: "Software"
+price: 40
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Hobby & Craft"]
+listed_since: "2026-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/734686?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734686"
+language: "en"
+---
 # Fruits
 
 > Product ID `59346` · Digistore24 productId `734686` · [HTML profile page](../../reviews/fruits-59346.html)

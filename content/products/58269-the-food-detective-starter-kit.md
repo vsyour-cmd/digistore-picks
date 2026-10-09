@@ -1,3 +1,24 @@
+---
+product_id: "58269"
+digistore24_product_id: 716360
+title: "The Food Detective Starter Kit"
+vendor: "bedmontson442fbd8"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thefooddetectivestarterkit-l0g.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thefooddetectivestarterkit-l0g.plannerpack.co"
+language: "en"
+---
 # The Food Detective Starter Kit
 
 > Product ID `58269` · Digistore24 productId `716360` · [HTML profile page](../../reviews/the-food-detective-starter-kit-58269.html)

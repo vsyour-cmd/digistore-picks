@@ -1,3 +1,24 @@
+---
+product_id: "58131"
+digistore24_product_id: 718022
+title: "Safe your Relationship in 30 days"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Leadership & Management"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/718022?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718022"
+language: "en"
+---
 # Safe your Relationship in 30 days
 
 > Product ID `58131` · Digistore24 productId `718022` · [HTML profile page](../../reviews/safe-your-relationship-in-30-days-58131.html)

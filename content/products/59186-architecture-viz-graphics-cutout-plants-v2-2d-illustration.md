@@ -1,3 +1,24 @@
+---
+product_id: "59186"
+digistore24_product_id: 593585
+title: "Architecture VIZ Graphics – Cutout Plants V2 2D Illustration"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 159
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 39.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/cutout-plants-v02-plants-entourage-for-architecture-illustrations/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/cutout-plants-v02-plants-entourage-for-architecture-illustrations/"
+language: "en"
+---
 # Architecture VIZ Graphics – Cutout Plants V2 2D Illustration
 
 > Product ID `59186` · Digistore24 productId `593585` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-plants-v2-2d-illustration-59186.html)

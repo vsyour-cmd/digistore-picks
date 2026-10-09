@@ -1,3 +1,24 @@
+---
+product_id: "58691"
+digistore24_product_id: 724592
+title: "Business Continuity and Disaster Recovery Toolkit for Small"
+vendor: "IoTSystemsGrowthSolutions"
+product_type: "Software"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Software"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marketplace.iotsystemsgrowth.com/business-continuity-disaster-recovery-toolkit-digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://marketplace.iotsystemsgrowth.com/business-continuity-disaster-recovery-toolkit-digistore/"
+language: "en"
+---
 # Business Continuity and Disaster Recovery Toolkit for Small
 
 > Product ID `58691` · Digistore24 productId `724592` · [HTML profile page](../../reviews/business-continuity-and-disaster-recovery-toolkit-for-small-58691.html)

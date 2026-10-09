@@ -1,3 +1,24 @@
+---
+product_id: "51881"
+digistore24_product_id: 603764
+title: "Advanced Joint Support"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 78.25
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm"
+language: "en"
+---
 # Advanced Joint Support
 
 > Product ID `51881` · Digistore24 productId `603764` · [HTML profile page](../../reviews/advanced-joint-support-51881.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60000"
+digistore24_product_id: 735350
+title: "Pharmacology Made Easy and Unforgettable"
+vendor: "PharmaNutrition_glow"
+product_type: "E-books"
+price: 29.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aquamarine-torte-2985d3.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://aquamarine-torte-2985d3.netlify.app/"
+language: "en"
+---
 # Pharmacology Made Easy and Unforgettable
 
 > Product ID `60000` · Digistore24 productId `735350` · [HTML profile page](../../reviews/pharmacology-made-easy-and-unforgettable-60000.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55588"
+digistore24_product_id: 667057
+title: "50% Commission – Pet Owners PAY for This 24h Dog Food Label"
+vendor: "goldinline"
+product_type: "Remote service provided electronically"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://foodreports.go-pets.net/digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://foodreports.go-pets.net/digistore"
+language: "en"
+---
 # 50% Commission – Pet Owners PAY for This 24h Dog Food Label
 
 > Product ID `55588` · Digistore24 productId `667057` · [HTML profile page](../../reviews/50-commission-pet-owners-pay-for-this-24h-dog-food-label-55588.html)

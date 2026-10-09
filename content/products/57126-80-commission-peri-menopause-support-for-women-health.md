@@ -1,3 +1,24 @@
+---
+product_id: "57126"
+digistore24_product_id: 692610
+title: "80% COMMISSION – Peri-menopause Support for Women Health"
+vendor: "IsMaria"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 21.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2026-06-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.publishmint.site/funnels/peri/sales/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.publishmint.site/funnels/peri/sales/"
+language: "en"
+---
 # 80% COMMISSION – Peri-menopause Support for Women Health
 
 > Product ID `57126` · Digistore24 productId `692610` · [HTML profile page](../../reviews/80-commission-peri-menopause-support-for-women-health-57126.html)

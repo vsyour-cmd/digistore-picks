@@ -1,3 +1,24 @@
+---
+product_id: "53789"
+digistore24_product_id: 631229
+title: "Transform Your Life: The Ultimate Self-Mastery System"
+vendor: "tom_cruise"
+product_type: "Downloads"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 11.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2025-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/sale-page?aff=adminstore#aff=adminstore"
+sales_page: "https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/sale-page"
+language: "en"
+---
 # Transform Your Life: The Ultimate Self-Mastery System
 
 > Product ID `53789` · Digistore24 productId `631229` · [HTML profile page](../../reviews/transform-your-life-the-ultimate-self-mastery-system-53789.html)

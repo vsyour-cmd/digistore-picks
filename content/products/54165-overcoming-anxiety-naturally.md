@@ -1,3 +1,24 @@
+---
+product_id: "54165"
+digistore24_product_id: 637572
+title: "Overcoming Anxiety Naturally"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/637572?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/637572"
+language: "en"
+---
 # Overcoming Anxiety Naturally
 
 > Product ID `54165` · Digistore24 productId `637572` · [HTML profile page](../../reviews/overcoming-anxiety-naturally-54165.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60087"
+digistore24_product_id: 736919
+title: "The Small Business AI Video System | Practical PDF"
+vendor: "floxflow"
+product_type: "E-books"
+price: 79
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 43.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "http://www.floxflow.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.floxflow.com"
+language: "en"
+---
 # The Small Business AI Video System | Practical PDF
 
 > Product ID `60087` · Digistore24 productId `736919` · [HTML profile page](../../reviews/the-small-business-ai-video-system-practical-pdf-60087.html)

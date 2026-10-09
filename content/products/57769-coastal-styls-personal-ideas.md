@@ -1,3 +1,24 @@
+---
+product_id: "57769"
+digistore24_product_id: 714281
+title: "Coastal styls Personal ideas"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/714281?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/714281"
+language: "en"
+---
 # Coastal styls Personal ideas
 
 > Product ID `57769` · Digistore24 productId `714281` · [HTML profile page](../../reviews/coastal-styls-personal-ideas-57769.html)

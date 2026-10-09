@@ -1,3 +1,24 @@
+---
+product_id: "59705"
+digistore24_product_id: 736035
+title: "Scrum Career Accelerator"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Software"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/scrum-career-accelerator?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/scrum-career-accelerator"
+language: "en"
+---
 # Scrum Career Accelerator
 
 > Product ID `59705` · Digistore24 productId `736035` · [HTML profile page](../../reviews/scrum-career-accelerator-59705.html)

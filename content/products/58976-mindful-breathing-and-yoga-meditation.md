@@ -1,3 +1,24 @@
+---
+product_id: "58976"
+digistore24_product_id: 730658
+title: "Mindful breathing and yoga meditation"
+vendor: "christiemartin1985ck80b4"
+product_type: "Member area and video courses"
+price: 11
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 3.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mindfulbreathingyoga-qc2.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://mindfulbreathingyoga-qc2.plannerpack.co"
+language: "en"
+---
 # Mindful breathing and yoga meditation
 
 > Product ID `58976` · Digistore24 productId `730658` · [HTML profile page](../../reviews/mindful-breathing-and-yoga-meditation-58976.html)

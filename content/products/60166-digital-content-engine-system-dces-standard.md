@@ -1,3 +1,24 @@
+---
+product_id: "60166"
+digistore24_product_id: 741537
+title: "Digital Content Engine System (DCES)™ – Standard"
+vendor: "xarutacom"
+product_type: "Downloads"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 8.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/?aff=adminstore#aff=adminstore"
+sales_page: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/"
+language: "en"
+---
 # Digital Content Engine System (DCES)™ – Standard
 
 > Product ID `60166` · Digistore24 productId `741537` · [HTML profile page](../../reviews/digital-content-engine-system-dces-standard-60166.html)

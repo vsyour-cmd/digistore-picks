@@ -1,3 +1,24 @@
+---
+product_id: "58978"
+digistore24_product_id: 730713
+title: "30 ready to use gratitude posts"
+vendor: "AprilBrumm"
+product_type: "Member area and video courses"
+price: 3
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 1.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://30gratitudeposts-h7i.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://30gratitudeposts-h7i.plannerpack.co"
+language: "en"
+---
 # 30 ready to use gratitude posts
 
 > Product ID `58978` · Digistore24 productId `730713` · [HTML profile page](../../reviews/30-ready-to-use-gratitude-posts-58978.html)

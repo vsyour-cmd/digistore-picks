@@ -1,3 +1,24 @@
+---
+product_id: "47378"
+digistore24_product_id: 542152
+title: "Promote Pineal Guard Now!"
+vendor: "Nutraville"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-03-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pinealguard.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://pinealguard.com/ds/go/indexvs.php"
+language: "en"
+---
 # Promote Pineal Guard Now!
 
 > Product ID `47378` · Digistore24 productId `542152` · [HTML profile page](../../reviews/promote-pineal-guard-now-47378.html)

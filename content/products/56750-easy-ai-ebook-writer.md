@@ -1,3 +1,24 @@
+---
+product_id: "56750"
+digistore24_product_id: 696560
+title: "Easy AI eBook Writer"
+vendor: "oraclefx"
+product_type: "Software"
+price: 29.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Software"]
+listed_since: "2026-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html"
+language: "en"
+---
 # Easy AI eBook Writer
 
 > Product ID `56750` · Digistore24 productId `696560` · [HTML profile page](../../reviews/easy-ai-ebook-writer-56750.html)

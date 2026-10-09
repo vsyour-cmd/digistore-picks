@@ -1,3 +1,24 @@
+---
+product_id: "58740"
+digistore24_product_id: 725666
+title: "The Three Friends and the Golden Berry Tree – Story and Colo"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/725666?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725666"
+language: "en"
+---
 # The Three Friends and the Golden Berry Tree – Story and Colo
 
 > Product ID `58740` · Digistore24 productId `725666` · [HTML profile page](../../reviews/the-three-friends-and-the-golden-berry-tree-story-and-colo-58740.html)

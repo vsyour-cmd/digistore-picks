@@ -1,3 +1,24 @@
+---
+product_id: "60012"
+digistore24_product_id: 719349
+title: "Elixolve Sleep Oral Strips – Fast-Dissolving Nighttime Welln"
+vendor: "rayadvertising"
+product_type: "Supplements - health"
+price: 179.99
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sleep-strips.elixolve.com?aff=adminstore#aff=adminstore"
+sales_page: "https://sleep-strips.elixolve.com"
+language: "en"
+---
 # Elixolve Sleep Oral Strips – Fast-Dissolving Nighttime Welln
 
 > Product ID `60012` · Digistore24 productId `719349` · [HTML profile page](../../reviews/elixolve-sleep-oral-strips-fast-dissolving-nighttime-welln-60012.html)

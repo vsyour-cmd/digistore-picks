@@ -1,3 +1,24 @@
+---
+product_id: "58438"
+digistore24_product_id: 723287
+title: "Community Calendar"
+vendor: "jkbredrnr09bb"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 58
+earnings_per_sale: 21.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://communitycalendar-m1l.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://communitycalendar-m1l.plannerpack.co"
+language: "en"
+---
 # Community Calendar
 
 > Product ID `58438` · Digistore24 productId `723287` · [HTML profile page](../../reviews/community-calendar-58438.html)

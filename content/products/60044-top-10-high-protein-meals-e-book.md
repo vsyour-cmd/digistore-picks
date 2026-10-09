@@ -1,3 +1,24 @@
+---
+product_id: "60044"
+digistore24_product_id: 734663
+title: "Top 10 High Protein Meals (E-Book)"
+vendor: "worldxpb"
+product_type: "E-books"
+price: 16.77
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/734663?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/734663"
+language: "en"
+---
 # Top 10 High Protein Meals (E-Book)
 
 > Product ID `60044` · Digistore24 productId `734663` · [HTML profile page](../../reviews/top-10-high-protein-meals-e-book-60044.html)

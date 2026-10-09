@@ -1,3 +1,24 @@
+---
+product_id: "55359"
+digistore24_product_id: 661247
+title: "Turn Data Into Strategy via Music | High 60% Commission"
+vendor: "patricia_sekael"
+product_type: "Member area and video courses"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 18.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sekael.com/sing-and-solve-accounting-turn-data-into-strategy/?aff=adminstore#aff=adminstore"
+sales_page: "https://sekael.com/sing-and-solve-accounting-turn-data-into-strategy/"
+language: "en"
+---
 # Turn Data Into Strategy via Music | High 60% Commission
 
 > Product ID `55359` · Digistore24 productId `661247` · [HTML profile page](../../reviews/turn-data-into-strategy-via-music-high-60-commission-55359.html)

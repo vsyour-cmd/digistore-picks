@@ -1,3 +1,24 @@
+---
+product_id: "59480"
+digistore24_product_id: 733871
+title: "Notary Hub: All-in-One Notary Business App"
+vendor: "BerryOS"
+product_type: "Software"
+price: 10.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Services","Office Organization"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://berryoperatingsystems.my.canva.site/notary-hub?aff=adminstore#aff=adminstore"
+sales_page: "https://berryoperatingsystems.my.canva.site/notary-hub"
+language: "en"
+---
 # Notary Hub: All-in-One Notary Business App
 
 > Product ID `59480` · Digistore24 productId `733871` · [HTML profile page](../../reviews/notary-hub-all-in-one-notary-business-app-59480.html)

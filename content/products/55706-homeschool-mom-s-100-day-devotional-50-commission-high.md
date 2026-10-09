@@ -1,3 +1,24 @@
+---
+product_id: "55706"
+digistore24_product_id: 669825
+title: "Homeschool Mom’s 100-Day Devotional - 50% Commission - High-"
+vendor: "BookCaperSelfPublishing"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/669825?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/669825"
+language: "en"
+---
 # Homeschool Mom’s 100-Day Devotional - 50% Commission - High-
 
 > Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](../../reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)

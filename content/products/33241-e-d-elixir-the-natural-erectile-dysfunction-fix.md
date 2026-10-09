@@ -1,3 +1,24 @@
+---
+product_id: "33241"
+digistore24_product_id: 323364
+title: "E.D. Elixir: The Natural Erectile Dysfunction Fix"
+vendor: "edelixir"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2020-04-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ed-elixir.com/vsl/?aff=adminstore#aff=adminstore"
+sales_page: "https://ed-elixir.com/vsl/"
+language: "en"
+---
 # E.D. Elixir: The Natural Erectile Dysfunction Fix
 
 > Product ID `33241` · Digistore24 productId `323364` · [HTML profile page](../../reviews/e-d-elixir-the-natural-erectile-dysfunction-fix-33241.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57423"
+digistore24_product_id: 708480
+title: "Parents Guide To Sex Education"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Parents-Guide-To-Sex-Education/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Parents-Guide-To-Sex-Education/Sales-page.html"
+language: "en"
+---
 # Parents Guide To Sex Education
 
 > Product ID `57423` · Digistore24 productId `708480` · [HTML profile page](../../reviews/parents-guide-to-sex-education-57423.html)

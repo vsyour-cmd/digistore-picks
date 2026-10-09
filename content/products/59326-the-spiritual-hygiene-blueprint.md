@@ -1,3 +1,24 @@
+---
+product_id: "59326"
+digistore24_product_id: 715951
+title: "The Spiritual Hygiene Blueprint"
+vendor: "Shannon_Michaele"
+product_type: "Member area and video courses"
+price: 19.99
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thespiritualhygieneblueprint-2fq.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thespiritualhygieneblueprint-2fq.plannerpack.co"
+language: "en"
+---
 # The Spiritual Hygiene Blueprint
 
 > Product ID `59326` · Digistore24 productId `715951` · [HTML profile page](../../reviews/the-spiritual-hygiene-blueprint-59326.html)

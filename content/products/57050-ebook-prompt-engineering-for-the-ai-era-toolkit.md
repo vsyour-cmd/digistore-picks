@@ -1,3 +1,24 @@
+---
+product_id: "57050"
+digistore24_product_id: 701082
+title: "EBOOK Prompt Engineering for the AI Era + Toolkit"
+vendor: "inpherotecheee1"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Software"]
+listed_since: "2026-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/701082?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/701082"
+language: "en"
+---
 # EBOOK Prompt Engineering for the AI Era + Toolkit
 
 > Product ID `57050` · Digistore24 productId `701082` · [HTML profile page](../../reviews/ebook-prompt-engineering-for-the-ai-era-toolkit-57050.html)

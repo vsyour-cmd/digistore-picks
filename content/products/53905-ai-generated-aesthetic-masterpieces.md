@@ -1,3 +1,24 @@
+---
+product_id: "53905"
+digistore24_product_id: 634368
+title: "AI-Generated Aesthetic Masterpieces"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 7.52
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+listed_since: "2025-09-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/634368?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/634368"
+language: "en"
+---
 # AI-Generated Aesthetic Masterpieces
 
 > Product ID `53905` · Digistore24 productId `634368` · [HTML profile page](../../reviews/ai-generated-aesthetic-masterpieces-53905.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53714"
+digistore24_product_id: 629810
+title: "Idrotherapy *GET PAID ON REBILLS EACH MONTH*"
+vendor: "koshea76"
+product_type: "Deliverable"
+price: 114.72
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 92.93
+cart_conversion_pct: 2
+cancel_rate_pct: 1.97
+categories: ["Health & Fitness","Skin Care"]
+listed_since: "2025-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://e-idrotherapylove.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://e-idrotherapylove.com/"
+language: "en"
+---
 # Idrotherapy *GET PAID ON REBILLS EACH MONTH*
 
 > Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](../../reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)

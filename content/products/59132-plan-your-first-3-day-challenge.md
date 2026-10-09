@@ -1,3 +1,24 @@
+---
+product_id: "59132"
+digistore24_product_id: 731793
+title: "Plan Your First 3-Day Challenge"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Trading Products"]
+listed_since: "2026-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/"
+language: "en"
+---
 # Plan Your First 3-Day Challenge
 
 > Product ID `59132` · Digistore24 productId `731793` · [HTML profile page](../../reviews/plan-your-first-3-day-challenge-59132.html)

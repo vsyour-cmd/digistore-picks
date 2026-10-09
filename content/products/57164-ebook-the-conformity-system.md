@@ -1,3 +1,24 @@
+---
+product_id: "57164"
+digistore24_product_id: 706732
+title: "Ebook - The Conformity System"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/706732?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706732"
+language: "en"
+---
 # Ebook - The Conformity System
 
 > Product ID `57164` · Digistore24 productId `706732` · [HTML profile page](../../reviews/ebook-the-conformity-system-57164.html)

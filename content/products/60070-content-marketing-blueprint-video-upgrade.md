@@ -1,3 +1,24 @@
+---
+product_id: "60070"
+digistore24_product_id: 735838
+title: "Content Marketing Blueprint Video Upgrade"
+vendor: "Hamzaali036"
+product_type: "Downloads"
+price: 160
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 104
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735838?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735838"
+language: "en"
+---
 # Content Marketing Blueprint Video Upgrade
 
 > Product ID `60070` · Digistore24 productId `735838` · [HTML profile page](../../reviews/content-marketing-blueprint-video-upgrade-60070.html)

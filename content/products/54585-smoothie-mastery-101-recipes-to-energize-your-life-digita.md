@@ -1,3 +1,24 @@
+---
+product_id: "54585"
+digistore24_product_id: 644621
+title: "Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA"
+vendor: "aiseli"
+product_type: "E-books"
+price: 16.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/644621?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/644621"
+language: "en"
+---
 # Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA
 
 > Product ID `54585` · Digistore24 productId `644621` · [HTML profile page](../../reviews/smoothie-mastery-101-recipes-to-energize-your-life-digita-54585.html)

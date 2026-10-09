@@ -1,3 +1,24 @@
+---
+product_id: "54577"
+digistore24_product_id: 645055
+title: "Building Your Legal Journey to the USA"
+vendor: "manuelcosta"
+product_type: "E-books"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 34.5
+earnings_per_sale: 11.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Finances"]
+listed_since: "2025-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://immigrationebook.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://immigrationebook.netlify.app/"
+language: "en"
+---
 # Building Your Legal Journey to the USA
 
 > Product ID `54577` · Digistore24 productId `645055` · [HTML profile page](../../reviews/building-your-legal-journey-to-the-usa-54577.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54221"
+digistore24_product_id: 637145
+title: "Thyrafemme Balance - New Japanese-Inspired Thyroid Offer"
+vendor: "thyrafemme"
+product_type: "Supplements - health"
+price: 141.31
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 128.34
+cart_conversion_pct: 3
+cancel_rate_pct: 11.79
+categories: ["Animals & Pets","Skin Care","Food Supplements"]
+listed_since: "2025-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getthyrafemme.cc/dtc/?aff=adminstore#aff=adminstore"
+sales_page: "https://getthyrafemme.cc/dtc/"
+language: "en"
+---
 # Thyrafemme Balance - New Japanese-Inspired Thyroid Offer
 
 > Product ID `54221` · Digistore24 productId `637145` · [HTML profile page](../../reviews/thyrafemme-balance-new-japanese-inspired-thyroid-offer-54221.html)

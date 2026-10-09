@@ -1,3 +1,24 @@
+---
+product_id: "53796"
+digistore24_product_id: 633496
+title: "How to Analyze Past Papers"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Family & Children"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633496?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633496"
+language: "en"
+---
 # How to Analyze Past Papers
 
 > Product ID `53796` · Digistore24 productId `633496` · [HTML profile page](../../reviews/how-to-analyze-past-papers-53796.html)

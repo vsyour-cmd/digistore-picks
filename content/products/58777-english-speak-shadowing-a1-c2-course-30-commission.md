@@ -1,3 +1,24 @@
+---
+product_id: "58777"
+digistore24_product_id: 727591
+title: "English Speak Shadowing | A1–C2 Course | 30% Commission"
+vendor: "alexscheglov2016d530"
+product_type: "Member area and video courses"
+price: 78.3
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 23.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages"]
+listed_since: "2026-08-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://englishspeakshadowing.pl/course?aff=adminstore#aff=adminstore"
+sales_page: "https://englishspeakshadowing.pl/course"
+language: "en"
+---
 # English Speak Shadowing | A1–C2 Course | 30% Commission
 
 > Product ID `58777` · Digistore24 productId `727591` · [HTML profile page](../../reviews/english-speak-shadowing-a1-c2-course-30-commission-58777.html)

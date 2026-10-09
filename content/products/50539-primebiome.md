@@ -1,3 +1,24 @@
+---
+product_id: "50539"
+digistore24_product_id: 583054
+title: "PrimeBiome"
+vendor: "PrimeBiome"
+product_type: "Supplements - health"
+price: 250
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 154.62
+cart_conversion_pct: 1
+cancel_rate_pct: 19.36
+categories: ["Food Supplements"]
+listed_since: "2024-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://primebiome24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://primebiome24.com/text.php"
+language: "en"
+---
 # PrimeBiome
 
 > Product ID `50539` · Digistore24 productId `583054` · [HTML profile page](../../reviews/primebiome-50539.html)

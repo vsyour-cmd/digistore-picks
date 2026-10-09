@@ -1,3 +1,24 @@
+---
+product_id: "59964"
+digistore24_product_id: 738110
+title: "Keep them coming back ebook"
+vendor: "sophiehall97"
+product_type: "E-books"
+price: 12.68
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/738110?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738110"
+language: "en"
+---
 # Keep them coming back ebook
 
 > Product ID `59964` · Digistore24 productId `738110` · [HTML profile page](../../reviews/keep-them-coming-back-ebook-59964.html)

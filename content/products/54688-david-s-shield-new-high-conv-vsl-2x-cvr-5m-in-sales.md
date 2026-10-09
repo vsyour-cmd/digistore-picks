@@ -1,3 +1,24 @@
+---
+product_id: "54688"
+digistore24_product_id: 631625
+title: "David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales"
+vendor: "blackoutusa"
+product_type: "Book (printed)"
+price: 79.58
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 42.75
+cart_conversion_pct: 20
+cancel_rate_pct: 9.89
+categories: ["Survival"]
+listed_since: "2025-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://thedavidsshield.com/d/daff/?aff=adminstore#aff=adminstore"
+sales_page: "https://thedavidsshield.com/d/daff/"
+language: "en"
+---
 # David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales
 
 > Product ID `54688` · Digistore24 productId `631625` · [HTML profile page](../../reviews/david-s-shield-new-high-conv-vsl-2x-cvr-5m-in-sales-54688.html)

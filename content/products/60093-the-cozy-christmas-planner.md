@@ -1,3 +1,24 @@
+---
+product_id: "60093"
+digistore24_product_id: 739892
+title: "The Cozy Christmas Planner"
+vendor: "green001"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thecozychristmasplanner-3rh.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thecozychristmasplanner-3rh.plannerpack.co"
+language: "en"
+---
 # The Cozy Christmas Planner
 
 > Product ID `60093` · Digistore24 productId `739892` · [HTML profile page](../../reviews/the-cozy-christmas-planner-60093.html)

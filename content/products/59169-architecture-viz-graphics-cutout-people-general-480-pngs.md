@@ -1,3 +1,24 @@
+---
+product_id: "59169"
+digistore24_product_id: 725184
+title: "Architecture VIZ Graphics – Cutout People General, 480 PNGs"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 159
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 39.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/"
+language: "en"
+---
 # Architecture VIZ Graphics – Cutout People General, 480 PNGs
 
 > Product ID `59169` · Digistore24 productId `725184` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-people-general-480-pngs-59169.html)

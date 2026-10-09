@@ -1,3 +1,24 @@
+---
+product_id: "53977"
+digistore24_product_id: 635592
+title: "From Fatigue to Fit"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Health & Fitness"]
+listed_since: "2025-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635592?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635592"
+language: "en"
+---
 # From Fatigue to Fit
 
 > Product ID `53977` · Digistore24 productId `635592` · [HTML profile page](../../reviews/from-fatigue-to-fit-53977.html)

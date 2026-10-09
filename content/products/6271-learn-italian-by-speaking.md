@@ -1,3 +1,24 @@
+---
+product_id: "6271"
+digistore24_product_id: 39541
+title: "Learn Italian by speaking!"
+vendor: "Natural-Learning"
+product_type: "Downloads"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 17.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2014-12-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.natural-language-system.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.natural-language-system.com"
+language: "en"
+---
 # Learn Italian by speaking!
 
 > Product ID `6271` · Digistore24 productId `39541` · [HTML profile page](../../reviews/learn-italian-by-speaking-6271.html)

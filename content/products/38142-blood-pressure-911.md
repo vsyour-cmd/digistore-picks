@@ -1,3 +1,24 @@
+---
+product_id: "38142"
+digistore24_product_id: 365097
+title: "Blood Pressure 911"
+vendor: "Phytage"
+product_type: "Supplements - health"
+price: 78.25
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2020-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://ds.bloodpressure911.com/bp911slowv2/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://ds.bloodpressure911.com/bp911slowv2/index.php"
+language: "en"
+---
 # Blood Pressure 911
 
 > Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](../../reviews/blood-pressure-911-38142.html)

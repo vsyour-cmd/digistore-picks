@@ -1,3 +1,24 @@
+---
+product_id: "56030"
+digistore24_product_id: 676273
+title: "AI Fitness System | 5-Product Funnel | 50% Commission"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/ai-workout-generator-freebie?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/ai-workout-generator-freebie"
+language: "en"
+---
 # AI Fitness System | 5-Product Funnel | 50% Commission
 
 > Product ID `56030` · Digistore24 productId `676273` · [HTML profile page](../../reviews/ai-fitness-system-5-product-funnel-50-commission-56030.html)

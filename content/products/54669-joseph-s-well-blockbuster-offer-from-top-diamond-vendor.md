@@ -1,3 +1,24 @@
+---
+product_id: "54669"
+digistore24_product_id: 630453
+title: "Joseph’s Well – Blockbuster Offer From Top Diamond Vendor"
+vendor: "megadrought"
+product_type: "Book (printed)"
+price: 81.06
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 73.01
+cart_conversion_pct: 16
+cancel_rate_pct: 5.41
+categories: ["Survival"]
+listed_since: "2025-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://uswaterrevolution.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://uswaterrevolution.com/"
+language: "en"
+---
 # Joseph’s Well – Blockbuster Offer From Top Diamond Vendor
 
 > Product ID `54669` · Digistore24 productId `630453` · [HTML profile page](../../reviews/joseph-s-well-blockbuster-offer-from-top-diamond-vendor-54669.html)

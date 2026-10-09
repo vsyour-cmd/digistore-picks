@@ -1,3 +1,24 @@
+---
+product_id: "54990"
+digistore24_product_id: 653447
+title: "Genius Brain Signal"
+vendor: "astral43"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 33.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2025-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://astralhq.com/ds-genius-brain-signal/?aff=adminstore#aff=adminstore"
+sales_page: "https://astralhq.com/ds-genius-brain-signal/"
+language: "en"
+---
 # Genius Brain Signal
 
 > Product ID `54990` · Digistore24 productId `653447` · [HTML profile page](../../reviews/genius-brain-signal-54990.html)

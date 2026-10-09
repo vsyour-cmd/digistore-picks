@@ -1,3 +1,24 @@
+---
+product_id: "58379"
+digistore24_product_id: 722616
+title: "Time-efficient workouts for mothers"
+vendor: "Yummymummy11"
+product_type: "Member area and video courses"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 6.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://workoutsformoms-8af.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://workoutsformoms-8af.plannerpack.co"
+language: "en"
+---
 # Time-efficient workouts for mothers
 
 > Product ID `58379` · Digistore24 productId `722616` · [HTML profile page](../../reviews/time-efficient-workouts-for-mothers-58379.html)

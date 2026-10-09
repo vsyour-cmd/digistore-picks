@@ -1,3 +1,24 @@
+---
+product_id: "53065"
+digistore24_product_id: 586248
+title: "The Ultimate Viddeos A.I. System | 50% Recurring Commissions"
+vendor: "viddeosai"
+product_type: "Software"
+price: 1003.38
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 501.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2024-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://viddeos.ai/yes/?aff=adminstore#aff=adminstore"
+sales_page: "https://viddeos.ai/yes/"
+language: "en"
+---
 # The Ultimate Viddeos A.I. System | 50% Recurring Commissions
 
 > Product ID `53065` · Digistore24 productId `586248` · [HTML profile page](../../reviews/the-ultimate-viddeos-a-i-system-50-recurring-commissions-53065.html)

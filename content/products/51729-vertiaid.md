@@ -1,3 +1,24 @@
+---
+product_id: "51729"
+digistore24_product_id: 601639
+title: "Vertiaid"
+vendor: "Vertiaid"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://thevertiaid24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://thevertiaid24.com/text.php"
+language: "en"
+---
 # Vertiaid
 
 > Product ID `51729` · Digistore24 productId `601639` · [HTML profile page](../../reviews/vertiaid-51729.html)

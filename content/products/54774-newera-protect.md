@@ -1,3 +1,24 @@
+---
+product_id: "54774"
+digistore24_product_id: 644676
+title: "NewEra Protect"
+vendor: "NewEraDGS"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 77
+earnings_per_sale: 253.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Skin Care","Food Supplements"]
+listed_since: "2025-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://neweraprotect.com/dgs?aff=adminstore#aff=adminstore"
+sales_page: "https://neweraprotect.com/dgs"
+language: "en"
+---
 # NewEra Protect
 
 > Product ID `54774` · Digistore24 productId `644676` · [HTML profile page](../../reviews/newera-protect-54774.html)

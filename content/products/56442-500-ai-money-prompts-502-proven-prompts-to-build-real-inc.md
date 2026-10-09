@@ -1,3 +1,24 @@
+---
+product_id: "56442"
+digistore24_product_id: 689417
+title: "500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc"
+vendor: "sayservices"
+product_type: "Downloads"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 28.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/689417?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/689417"
+language: "en"
+---
 # 500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc
 
 > Product ID `56442` · Digistore24 productId `689417` · [HTML profile page](../../reviews/500-ai-money-prompts-502-proven-prompts-to-build-real-inc-56442.html)

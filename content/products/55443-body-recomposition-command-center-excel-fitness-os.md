@@ -1,3 +1,24 @@
+---
+product_id: "55443"
+digistore24_product_id: 665651
+title: "Body_Recomposition_Command_Center_Excel_Fitness_OS"
+vendor: "MohammedAsif_k"
+product_type: "Downloads"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 6.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Food & Drink","Health & Fitness"]
+listed_since: "2026-02-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665651?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665651"
+language: "en"
+---
 # Body_Recomposition_Command_Center_Excel_Fitness_OS
 
 > Product ID `55443` · Digistore24 productId `665651` · [HTML profile page](../../reviews/body-recomposition-command-center-excel-fitness-os-55443.html)

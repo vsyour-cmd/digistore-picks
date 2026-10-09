@@ -1,3 +1,24 @@
+---
+product_id: "55508"
+digistore24_product_id: 667670
+title: "Unlock Healthcare Automation with n8n"
+vendor: "MohammedAsif_k"
+product_type: "E-books"
+price: 8.95
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Software"]
+listed_since: "2026-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/667670?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/667670"
+language: "en"
+---
 # Unlock Healthcare Automation with n8n
 
 > Product ID `55508` · Digistore24 productId `667670` · [HTML profile page](../../reviews/unlock-healthcare-automation-with-n8n-55508.html)

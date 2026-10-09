@@ -1,3 +1,24 @@
+---
+product_id: "33696"
+digistore24_product_id: 363385
+title: "Intelligent Cryptocurrency VIP"
+vendor: "IC2020"
+product_type: "Member area and video courses"
+price: 2233.84
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1116.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2020-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://intelligentcryptocurrency.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://intelligentcryptocurrency.com/"
+language: "en"
+---
 # Intelligent Cryptocurrency VIP
 
 > Product ID `33696` · Digistore24 productId `363385` · [HTML profile page](../../reviews/intelligent-cryptocurrency-vip-33696.html)

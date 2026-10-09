@@ -1,3 +1,24 @@
+---
+product_id: "39260"
+digistore24_product_id: 412895
+title: "Find Weird \"Goldmine\" Domains In Seconds"
+vendor: "jamielewis"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2021-10-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://goldmineseeker.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://goldmineseeker.com/"
+language: "en"
+---
 # Find Weird "Goldmine" Domains In Seconds
 
 > Product ID `39260` · Digistore24 productId `412895` · [HTML profile page](../../reviews/find-weird-goldmine-domains-in-seconds-39260.html)

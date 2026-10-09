@@ -1,3 +1,24 @@
+---
+product_id: "58662"
+digistore24_product_id: 725802
+title: "UK Foraging For Beginners"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 37.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 26.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Survival"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/725802?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/725802"
+language: "en"
+---
 # UK Foraging For Beginners
 
 > Product ID `58662` · Digistore24 productId `725802` · [HTML profile page](../../reviews/uk-foraging-for-beginners-58662.html)

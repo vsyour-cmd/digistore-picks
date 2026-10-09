@@ -1,3 +1,24 @@
+---
+product_id: "55113"
+digistore24_product_id: 658074
+title: "Cognitive OS — Stop Overthinking. Decide Fast. - Notion"
+vendor: "MohammedAsif_k"
+product_type: "E-books"
+price: 7
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management","Project Management"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658074?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658074"
+language: "en"
+---
 # Cognitive OS — Stop Overthinking. Decide Fast. - Notion
 
 > Product ID `55113` · Digistore24 productId `658074` · [HTML profile page](../../reviews/cognitive-os-stop-overthinking-decide-fast-notion-55113.html)

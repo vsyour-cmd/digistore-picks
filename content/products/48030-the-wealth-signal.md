@@ -1,3 +1,24 @@
+---
+product_id: "48030"
+digistore24_product_id: 550119
+title: "The Wealth Signal"
+vendor: "thewealthsignal"
+product_type: "Downloads"
+price: 49.86
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 36.2
+cart_conversion_pct: 15
+cancel_rate_pct: 10.69
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2024-04-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://wealthsignaloriginal.com/DS/vsl/?aff=adminstore#aff=adminstore"
+sales_page: "https://wealthsignaloriginal.com/DS/vsl/"
+language: "en"
+---
 # The Wealth Signal
 
 > Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](../../reviews/the-wealth-signal-48030.html)

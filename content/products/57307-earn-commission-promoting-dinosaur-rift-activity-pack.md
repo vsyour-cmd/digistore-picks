@@ -1,3 +1,24 @@
+---
+product_id: "57307"
+digistore24_product_id: 706782
+title: "Earn Commission Promoting Dinosaur Rift Activity Pack"
+vendor: "Kidora_Stories"
+product_type: "Downloads"
+price: 7.99
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack&aff=adminstore#aff=adminstore"
+sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack"
+language: "en"
+---
 # Earn Commission Promoting Dinosaur Rift Activity Pack
 
 > Product ID `57307` · Digistore24 productId `706782` · [HTML profile page](../../reviews/earn-commission-promoting-dinosaur-rift-activity-pack-57307.html)

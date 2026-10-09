@@ -1,3 +1,24 @@
+---
+product_id: "60272"
+digistore24_product_id: 742845
+title: "The Beginner's Healthy Weight-Loss Blueprint - 30-Day Progra"
+vendor: "craftydigitalstudio"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/742845?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/742845"
+language: "en"
+---
 # The Beginner's Healthy Weight-Loss Blueprint - 30-Day Progra
 
 > Product ID `60272` · Digistore24 productId `742845` · [HTML profile page](../../reviews/the-beginner-s-healthy-weight-loss-blueprint-30-day-progra-60272.html)

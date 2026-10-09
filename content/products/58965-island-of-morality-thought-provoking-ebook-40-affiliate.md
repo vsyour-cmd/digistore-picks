@@ -1,3 +1,24 @@
+---
+product_id: "58965"
+digistore24_product_id: 719791
+title: "Island of Morality – Thought-Provoking eBook | 40% Affiliate"
+vendor: "elbossilybooks"
+product_type: "E-books"
+price: 12.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/719791?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719791"
+language: "en"
+---
 # Island of Morality – Thought-Provoking eBook | 40% Affiliate
 
 > Product ID `58965` · Digistore24 productId `719791` · [HTML profile page](../../reviews/island-of-morality-thought-provoking-ebook-40-affiliate-58965.html)

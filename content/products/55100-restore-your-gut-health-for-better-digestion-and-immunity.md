@@ -1,3 +1,24 @@
+---
+product_id: "55100"
+digistore24_product_id: 656114
+title: "Restore Your Gut Health for better Digestion and Immunity"
+vendor: "TheHealthyLivingHub"
+product_type: "E-books"
+price: 15.65
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
+sales_page: "https://thehealthyliving.lovable.app"
+language: "en"
+---
 # Restore Your Gut Health for better Digestion and Immunity
 
 > Product ID `55100` · Digistore24 productId `656114` · [HTML profile page](../../reviews/restore-your-gut-health-for-better-digestion-and-immunity-55100.html)

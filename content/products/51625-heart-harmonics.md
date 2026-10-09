@@ -1,3 +1,24 @@
+---
+product_id: "51625"
+digistore24_product_id: 598530
+title: "Heart Harmonics"
+vendor: "astral43"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 22.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2025-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://astralhq.com/ds-heartharmonics/?aff=adminstore#aff=adminstore"
+sales_page: "https://astralhq.com/ds-heartharmonics/"
+language: "en"
+---
 # Heart Harmonics
 
 > Product ID `51625` · Digistore24 productId `598530` · [HTML profile page](../../reviews/heart-harmonics-51625.html)

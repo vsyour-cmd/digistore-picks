@@ -1,3 +1,24 @@
+---
+product_id: "58386"
+digistore24_product_id: 692713
+title: "EZNaturals Moringa Leaf Complex | 70% Affiliate Commission"
+vendor: "eznaturals"
+product_type: "Supplements - health"
+price: 249
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 174.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2026-08-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://eznaturals.co/moringa-digistore24/?aff=adminstore#aff=adminstore"
+sales_page: "https://eznaturals.co/moringa-digistore24/"
+language: "en"
+---
 # EZNaturals Moringa Leaf Complex | 70% Affiliate Commission
 
 > Product ID `58386` · Digistore24 productId `692713` · [HTML profile page](../../reviews/eznaturals-moringa-leaf-complex-70-affiliate-commission-58386.html)

@@ -1,3 +1,24 @@
+---
+product_id: "45545"
+digistore24_product_id: 518494
+title: "FlowForce Max"
+vendor: "FlowForceMax"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2023-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://flowforcemax24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://flowforcemax24.com/text.php"
+language: "en"
+---
 # FlowForce Max
 
 > Product ID `45545` · Digistore24 productId `518494` · [HTML profile page](../../reviews/flowforce-max-45545.html)

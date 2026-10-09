@@ -1,3 +1,24 @@
+---
+product_id: "48283"
+digistore24_product_id: 553703
+title: "SonoVive"
+vendor: "SonoVive"
+product_type: "Supplements - health"
+price: 193.15
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 71.71
+cart_conversion_pct: 10
+cancel_rate_pct: 10.7
+categories: ["Food Supplements"]
+listed_since: "2024-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sonovive24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://sonovive24.com/text.php"
+language: "en"
+---
 # SonoVive
 
 > Product ID `48283` · Digistore24 productId `553703` · [HTML profile page](../../reviews/sonovive-48283.html)

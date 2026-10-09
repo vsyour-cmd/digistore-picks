@@ -1,3 +1,24 @@
+---
+product_id: "59819"
+digistore24_product_id: 738002
+title: "Goal Model Canvas™ Trainer License"
+vendor: "mbahareth"
+product_type: "Downloads"
+price: 1986
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 993
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Project Management","Sales Training"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/738002?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/738002"
+language: "en"
+---
 # Goal Model Canvas™ Trainer License
 
 > Product ID `59819` · Digistore24 productId `738002` · [HTML profile page](../../reviews/goal-model-canvas-trainer-license-59819.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51792"
+digistore24_product_id: 602787
+title: "Promote the Etsy Profits Playbook with Commission"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 16.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Social Media"]
+listed_since: "2025-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/602787?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/602787"
+language: "en"
+---
 # Promote the Etsy Profits Playbook with Commission
 
 > Product ID `51792` · Digistore24 productId `602787` · [HTML profile page](../../reviews/promote-the-etsy-profits-playbook-with-commission-51792.html)

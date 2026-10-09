@@ -1,3 +1,24 @@
+---
+product_id: "59723"
+digistore24_product_id: 737441
+title: "First Steps Gentle Guide"
+vendor: "professionalconfidence"
+product_type: "Member area and video courses"
+price: 21.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://firststepsgentleguide-4md.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://firststepsgentleguide-4md.plannerpack.co"
+language: "en"
+---
 # First Steps Gentle Guide
 
 > Product ID `59723` · Digistore24 productId `737441` · [HTML profile page](../../reviews/first-steps-gentle-guide-59723.html)

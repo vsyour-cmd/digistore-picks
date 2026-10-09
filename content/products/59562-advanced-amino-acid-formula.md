@@ -1,3 +1,24 @@
+---
+product_id: "59562"
+digistore24_product_id: 736302
+title: "Advanced Amino Acid Formula"
+vendor: "aleem604"
+product_type: "Member area and video courses"
+price: 39.95
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 13.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://advancedaminoacidformula-8gn.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://advancedaminoacidformula-8gn.plannerpack.co"
+language: "en"
+---
 # Advanced Amino Acid Formula
 
 > Product ID `59562` · Digistore24 productId `736302` · [HTML profile page](../../reviews/advanced-amino-acid-formula-59562.html)

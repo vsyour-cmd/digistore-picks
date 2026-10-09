@@ -1,3 +1,24 @@
+---
+product_id: "50254"
+digistore24_product_id: 489398
+title: "Project Mobilization Plan Template"
+vendor: "arneckem"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2023-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://worldofpm.com/project-mobilization-plan-template/?aff=adminstore#aff=adminstore"
+sales_page: "https://worldofpm.com/project-mobilization-plan-template/"
+language: "en"
+---
 # Project Mobilization Plan Template
 
 > Product ID `50254` · Digistore24 productId `489398` · [HTML profile page](../../reviews/project-mobilization-plan-template-50254.html)

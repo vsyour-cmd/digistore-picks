@@ -1,3 +1,24 @@
+---
+product_id: "54172"
+digistore24_product_id: 637565
+title: "Women in Business"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Family & Children","Personal Development"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/637565?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/637565"
+language: "en"
+---
 # Women in Business
 
 > Product ID `54172` · Digistore24 productId `637565` · [HTML profile page](../../reviews/women-in-business-54172.html)

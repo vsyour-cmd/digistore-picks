@@ -1,3 +1,24 @@
+---
+product_id: "27536"
+digistore24_product_id: 428276
+title: "55 Delicious Breakfast Recipes Free Book Cookbook"
+vendor: "produktmanagerin"
+product_type: "E-books"
+price: 1.4
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0.26
+cart_conversion_pct: 8
+cancel_rate_pct: 20.22
+categories: ["Food & Drink"]
+listed_since: "2022-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://makeyouslim.info/55-delicious-breakfast-recipes/?aff=adminstore#aff=adminstore"
+sales_page: "https://makeyouslim.info/55-delicious-breakfast-recipes/"
+language: "en"
+---
 # 55 Delicious Breakfast Recipes Free Book Cookbook
 
 > Product ID `27536` · Digistore24 productId `428276` · [HTML profile page](../../reviews/55-delicious-breakfast-recipes-free-book-cookbook-27536.html)

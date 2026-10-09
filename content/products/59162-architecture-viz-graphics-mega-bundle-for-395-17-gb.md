@@ -1,3 +1,24 @@
+---
+product_id: "59162"
+digistore24_product_id: 593605
+title: "Architecture VIZ Graphics – MEGA BUNDLE for $395, 17+ GB"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 331.93
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 82.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/"
+language: "en"
+---
 # Architecture VIZ Graphics – MEGA BUNDLE for $395, 17+ GB
 
 > Product ID `59162` · Digistore24 productId `593605` · [HTML profile page](../../reviews/architecture-viz-graphics-mega-bundle-for-395-17-gb-59162.html)

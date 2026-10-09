@@ -1,3 +1,24 @@
+---
+product_id: "55913"
+digistore24_product_id: 676250
+title: "The Focus Code"
+vendor: "ZeroToCommission"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.brainwavehaven.site/the-focus-code?aff=adminstore#aff=adminstore"
+sales_page: "https://www.brainwavehaven.site/the-focus-code"
+language: "en"
+---
 # The Focus Code
 
 > Product ID `55913` · Digistore24 productId `676250` · [HTML profile page](../../reviews/the-focus-code-55913.html)

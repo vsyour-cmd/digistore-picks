@@ -1,3 +1,24 @@
+---
+product_id: "53834"
+digistore24_product_id: 633823
+title: "Weekly Planning for Busy Students"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Hobby & Craft"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633823?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633823"
+language: "en"
+---
 # Weekly Planning for Busy Students
 
 > Product ID `53834` · Digistore24 productId `633823` · [HTML profile page](../../reviews/weekly-planning-for-busy-students-53834.html)

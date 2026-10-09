@@ -1,3 +1,24 @@
+---
+product_id: "55486"
+digistore24_product_id: 666971
+title: "2026 Manifestation Mood Board Printable Vision Kit Dream"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 15.65
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Spiri­tua­lity & Esotericism","Marketing Services"]
+listed_since: "2026-02-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/666971?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/666971"
+language: "en"
+---
 # 2026 Manifestation Mood Board Printable Vision Kit Dream
 
 > Product ID `55486` · Digistore24 productId `666971` · [HTML profile page](../../reviews/2026-manifestation-mood-board-printable-vision-kit-dream-55486.html)

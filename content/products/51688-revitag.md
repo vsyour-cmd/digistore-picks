@@ -1,3 +1,24 @@
+---
+product_id: "51688"
+digistore24_product_id: 600141
+title: "ReviTag"
+vendor: "ReviTag"
+product_type: "Deliverable"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://therevitag24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://therevitag24.com/text.php"
+language: "en"
+---
 # ReviTag
 
 > Product ID `51688` · Digistore24 productId `600141` · [HTML profile page](../../reviews/revitag-51688.html)

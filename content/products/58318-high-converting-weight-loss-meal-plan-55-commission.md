@@ -1,3 +1,24 @@
+---
+product_id: "58318"
+digistore24_product_id: 711407
+title: "High Converting Weight Loss Meal Plan (55% Commission)"
+vendor: "supporte3b1"
+product_type: "Downloads"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 10.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://dietora.fit/meal-plan?aff=adminstore#aff=adminstore"
+sales_page: "https://dietora.fit/meal-plan"
+language: "en"
+---
 # High Converting Weight Loss Meal Plan (55% Commission)
 
 > Product ID `58318` · Digistore24 productId `711407` · [HTML profile page](../../reviews/high-converting-weight-loss-meal-plan-55-commission-58318.html)

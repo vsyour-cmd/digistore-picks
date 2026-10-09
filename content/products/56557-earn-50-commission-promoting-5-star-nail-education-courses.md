@@ -1,3 +1,24 @@
+---
+product_id: "56557"
+digistore24_product_id: 691507
+title: "Earn 50% Commission Promoting 5-Star Nail Education Courses"
+vendor: "info5a25"
+product_type: "Member area and video courses"
+price: 311.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 156
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fashion","Health & Fitness","Home & Garden"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vel.academy/course-bundle-d24?aff=adminstore#aff=adminstore"
+sales_page: "https://vel.academy/course-bundle-d24"
+language: "en"
+---
 # Earn 50% Commission Promoting 5-Star Nail Education Courses
 
 > Product ID `56557` · Digistore24 productId `691507` · [HTML profile page](../../reviews/earn-50-commission-promoting-5-star-nail-education-courses-56557.html)

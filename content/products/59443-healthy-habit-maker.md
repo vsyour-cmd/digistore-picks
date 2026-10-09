@@ -1,3 +1,24 @@
+---
+product_id: "59443"
+digistore24_product_id: 735484
+title: "Healthy Habit Maker"
+vendor: "wendymwashington1910"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://healthyhabitmaker-mq7.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://healthyhabitmaker-mq7.plannerpack.co"
+language: "en"
+---
 # Healthy Habit Maker
 
 > Product ID `59443` · Digistore24 productId `735484` · [HTML profile page](../../reviews/healthy-habit-maker-59443.html)

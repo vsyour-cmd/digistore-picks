@@ -1,3 +1,24 @@
+---
+product_id: "51902"
+digistore24_product_id: 580186
+title: "Clearing Academy"
+vendor: "Statbrook"
+product_type: "Member area and video courses"
+price: 52.42
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 28.41
+cart_conversion_pct: 5
+cancel_rate_pct: 6.94
+categories: ["Personal Development"]
+listed_since: "2024-11-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.clearingacademy.com/ds24-ritual?aff=adminstore#aff=adminstore"
+sales_page: "https://www.clearingacademy.com/ds24-ritual"
+language: "en"
+---
 # Clearing Academy
 
 > Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](../../reviews/clearing-academy-51902.html)

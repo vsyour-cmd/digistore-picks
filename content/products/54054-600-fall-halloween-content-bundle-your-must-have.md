@@ -1,3 +1,24 @@
+---
+product_id: "54054"
+digistore24_product_id: 635878
+title: "600+ Fall Halloween Content Bundle- Your MUST HAVE"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 9.4
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635878?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635878"
+language: "en"
+---
 # 600+ Fall Halloween Content Bundle- Your MUST HAVE
 
 > Product ID `54054` · Digistore24 productId `635878` · [HTML profile page](../../reviews/600-fall-halloween-content-bundle-your-must-have-54054.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48893"
+digistore24_product_id: 544733
+title: "Keskara"
+vendor: "biofraga"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 213.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://keskara.online/dtc/?aff=adminstore#aff=adminstore"
+sales_page: "https://keskara.online/dtc/"
+language: "en"
+---
 # Keskara
 
 > Product ID `48893` · Digistore24 productId `544733` · [HTML profile page](../../reviews/keskara-48893.html)

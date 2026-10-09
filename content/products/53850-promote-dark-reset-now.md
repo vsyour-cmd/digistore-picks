@@ -1,3 +1,24 @@
+---
+product_id: "53850"
+digistore24_product_id: 633510
+title: "Promote Dark Reset Now!"
+vendor: "Dark-Reset"
+product_type: "E-books"
+price: 39.6
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 26.3
+cart_conversion_pct: 16
+cancel_rate_pct: 15.11
+categories: ["Survival"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://dark-reset.com/index_dg24?aff=adminstore#aff=adminstore"
+sales_page: "https://dark-reset.com/index_dg24"
+language: "en"
+---
 # Promote Dark Reset Now!
 
 > Product ID `53850` · Digistore24 productId `633510` · [HTML profile page](../../reviews/promote-dark-reset-now-53850.html)

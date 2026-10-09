@@ -1,3 +1,24 @@
+---
+product_id: "56051"
+digistore24_product_id: 644649
+title: "Leptozan"
+vendor: "leptozan"
+product_type: "Supplements - for slimming"
+price: 176.74
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 114.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.leptozan.com/ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.leptozan.com/ds/"
+language: "en"
+---
 # Leptozan
 
 > Product ID `56051` · Digistore24 productId `644649` · [HTML profile page](../../reviews/leptozan-56051.html)

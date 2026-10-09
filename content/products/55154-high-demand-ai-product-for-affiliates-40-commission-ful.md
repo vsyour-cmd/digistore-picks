@@ -1,3 +1,24 @@
+---
+product_id: "55154"
+digistore24_product_id: 627444
+title: "High-Demand AI Product for Affiliates – 40% Commission + Ful"
+vendor: "El_patronship"
+product_type: "Downloads"
+price: 11.13
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 4.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://lighthearted-blancmange-a74dd8.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://lighthearted-blancmange-a74dd8.netlify.app/"
+language: "en"
+---
 # High-Demand AI Product for Affiliates – 40% Commission + Ful
 
 > Product ID `55154` · Digistore24 productId `627444` · [HTML profile page](../../reviews/high-demand-ai-product-for-affiliates-40-commission-ful-55154.html)

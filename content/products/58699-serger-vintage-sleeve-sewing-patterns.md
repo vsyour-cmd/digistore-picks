@@ -1,3 +1,24 @@
+---
+product_id: "58699"
+digistore24_product_id: 726662
+title: "Serger| Vintage Sleeve Sewing Patterns"
+vendor: "Book2Book"
+product_type: "Downloads"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fashion","Hobby & Craft"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726662?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726662"
+language: "en"
+---
 # Serger| Vintage Sleeve Sewing Patterns
 
 > Product ID `58699` · Digistore24 productId `726662` · [HTML profile page](../../reviews/serger-vintage-sleeve-sewing-patterns-58699.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54999"
+digistore24_product_id: 653506
+title: "Pagewheel: AI Product and Funnel Builder | SAAS + Training"
+vendor: "Pagewheel"
+product_type: "Member area and video courses"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 14.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://experience.digistore24.com/pagewheel?aff=adminstore"
+sales_page: "https://experience.digistore24.com/pagewheel"
+language: "en"
+---
 # Pagewheel: AI Product and Funnel Builder | SAAS + Training
 
 > Product ID `54999` · Digistore24 productId `653506` · [HTML profile page](../../reviews/pagewheel-ai-product-and-funnel-builder-saas-training-54999.html)

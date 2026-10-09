@@ -1,3 +1,24 @@
+---
+product_id: "52762"
+digistore24_product_id: 616627
+title: "24 Menus from Madeira - A Culinary Journey"
+vendor: "madeira-bus"
+product_type: "E-books"
+price: 22.15
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 5.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Travel & Culture"]
+listed_since: "2025-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.madeira.cc/cookbook?aff=adminstore#aff=adminstore"
+sales_page: "https://www.madeira.cc/cookbook"
+language: "en"
+---
 # 24 Menus from Madeira - A Culinary Journey
 
 > Product ID `52762` · Digistore24 productId `616627` · [HTML profile page](../../reviews/24-menus-from-madeira-a-culinary-journey-52762.html)

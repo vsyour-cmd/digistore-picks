@@ -1,3 +1,24 @@
+---
+product_id: "58677"
+digistore24_product_id: 726225
+title: "Spanish Guide Deluxe"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 11.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Leadership & Management"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726225?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726225"
+language: "en"
+---
 # Spanish Guide Deluxe
 
 > Product ID `58677` · Digistore24 productId `726225` · [HTML profile page](../../reviews/spanish-guide-deluxe-58677.html)

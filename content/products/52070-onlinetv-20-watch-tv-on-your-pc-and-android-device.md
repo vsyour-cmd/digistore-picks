@@ -1,3 +1,24 @@
+---
+product_id: "52070"
+digistore24_product_id: 600405
+title: "OnlineTV 20 – Watch TV on Your PC and Android Device"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Photography & Film","Software"]
+listed_since: "2025-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/600405?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/600405"
+language: "en"
+---
 # OnlineTV 20 – Watch TV on Your PC and Android Device
 
 > Product ID `52070` · Digistore24 productId `600405` · [HTML profile page](../../reviews/onlinetv-20-watch-tv-on-your-pc-and-android-device-52070.html)

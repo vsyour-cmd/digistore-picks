@@ -1,3 +1,24 @@
+---
+product_id: "57440"
+digistore24_product_id: 701222
+title: "AI FOR DUMMIES"
+vendor: "yordix"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aifordummies-e8k.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://aifordummies-e8k.plannerpack.fun"
+language: "en"
+---
 # AI FOR DUMMIES
 
 > Product ID `57440` · Digistore24 productId `701222` · [HTML profile page](../../reviews/ai-for-dummies-57440.html)

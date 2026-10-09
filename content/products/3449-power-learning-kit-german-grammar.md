@@ -1,3 +1,24 @@
+---
+product_id: "3449"
+digistore24_product_id: 19083
+title: "POWER-Learning-Kit German Grammar"
+vendor: "easydaf"
+product_type: "E-books"
+price: 41.5
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 16.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2014-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/"
+language: "en"
+---
 # POWER-Learning-Kit German Grammar
 
 > Product ID `3449` · Digistore24 productId `19083` · [HTML profile page](../../reviews/power-learning-kit-german-grammar-3449.html)

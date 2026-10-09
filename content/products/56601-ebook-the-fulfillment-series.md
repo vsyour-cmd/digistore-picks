@@ -1,3 +1,24 @@
+---
+product_id: "56601"
+digistore24_product_id: 693992
+title: "Ebook - The Fulfillment Series"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/693992?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/693992"
+language: "en"
+---
 # Ebook - The Fulfillment Series
 
 > Product ID `56601` · Digistore24 productId `693992` · [HTML profile page](../../reviews/ebook-the-fulfillment-series-56601.html)

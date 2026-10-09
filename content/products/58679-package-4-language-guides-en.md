@@ -1,3 +1,24 @@
+---
+product_id: "58679"
+digistore24_product_id: 726129
+title: "package_4_language_guides_en"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Leadership & Management"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726129?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726129"
+language: "en"
+---
 # package_4_language_guides_en
 
 > Product ID `58679` · Digistore24 productId `726129` · [HTML profile page](../../reviews/package-4-language-guides-en-58679.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56667"
+digistore24_product_id: 690896
+title: "ClaimReady Home Loss Organizer – Windows Software"
+vendor: "EnricoLanciani"
+product_type: "Software"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nexilolab.com/usa/claimready-home-loss-organizer/?aff=adminstore#aff=adminstore"
+sales_page: "https://nexilolab.com/usa/claimready-home-loss-organizer/"
+language: "en"
+---
 # ClaimReady Home Loss Organizer – Windows Software
 
 > Product ID `56667` · Digistore24 productId `690896` · [HTML profile page](../../reviews/claimready-home-loss-organizer-windows-software-56667.html)

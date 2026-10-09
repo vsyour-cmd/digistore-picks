@@ -1,3 +1,24 @@
+---
+product_id: "59380"
+digistore24_product_id: 735006
+title: "30 UGC Scripts – Hooks, Shot Lists and Voiceovers (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 19.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735006?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735006"
+language: "en"
+---
 # 30 UGC Scripts – Hooks, Shot Lists and Voiceovers (English)
 
 > Product ID `59380` · Digistore24 productId `735006` · [HTML profile page](../../reviews/30-ugc-scripts-hooks-shot-lists-and-voiceovers-english-59380.html)

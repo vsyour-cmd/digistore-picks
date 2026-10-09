@@ -1,3 +1,24 @@
+---
+product_id: "56725"
+digistore24_product_id: 694679
+title: "Mastery Course - Forex Market Structure and Price Action"
+vendor: "oraclefx"
+product_type: "Member area and video courses"
+price: 150
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oraclefx.org/courses/the-market-structure/?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/courses/the-market-structure/"
+language: "en"
+---
 # Mastery Course - Forex Market Structure and Price Action
 
 > Product ID `56725` · Digistore24 productId `694679` · [HTML profile page](../../reviews/mastery-course-forex-market-structure-and-price-action-56725.html)

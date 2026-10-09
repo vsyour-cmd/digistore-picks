@@ -1,3 +1,24 @@
+---
+product_id: "57560"
+digistore24_product_id: 708127
+title: "Nail Refresh"
+vendor: "premvitality"
+product_type: "Deliverable"
+price: 138
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 96.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://secure.nailrefresh.com/index-bp-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://secure.nailrefresh.com/index-bp-ds"
+language: "en"
+---
 # Nail Refresh
 
 > Product ID `57560` · Digistore24 productId `708127` · [HTML profile page](../../reviews/nail-refresh-57560.html)

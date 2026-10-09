@@ -1,3 +1,24 @@
+---
+product_id: "45056"
+digistore24_product_id: 510562
+title: "Unlock Your Body [Online Course]"
+vendor: "timboettner"
+product_type: "Member area and video courses"
+price: 99.56
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 19.91
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2023-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/510562?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/510562"
+language: "en"
+---
 # Unlock Your Body [Online Course]
 
 > Product ID `45056` · Digistore24 productId `510562` · [HTML profile page](../../reviews/unlock-your-body-online-course-45056.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60273"
+digistore24_product_id: 742863
+title: "Skin care"
+vendor: "quickclicks261e29"
+product_type: "Member area and video courses"
+price: 205.1
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 71.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://skincare-8ow.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://skincare-8ow.plannerpack.co"
+language: "en"
+---
 # Skin care
 
 > Product ID `60273` · Digistore24 productId `742863` · [HTML profile page](../../reviews/skin-care-60273.html)

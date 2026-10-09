@@ -1,3 +1,24 @@
+---
+product_id: "58335"
+digistore24_product_id: 714868
+title: "Resistance Band Workouts"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/714868?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/714868"
+language: "en"
+---
 # Resistance Band Workouts
 
 > Product ID `58335` · Digistore24 productId `714868` · [HTML profile page](../../reviews/resistance-band-workouts-58335.html)

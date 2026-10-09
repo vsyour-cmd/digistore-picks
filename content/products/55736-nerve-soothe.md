@@ -1,3 +1,24 @@
+---
+product_id: "55736"
+digistore24_product_id: 651685
+title: "Nerve Soothe"
+vendor: "premvitality"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 54.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://secure.getnervesoothe.com/index-bp-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://secure.getnervesoothe.com/index-bp-ds"
+language: "en"
+---
 # Nerve Soothe
 
 > Product ID `55736` · Digistore24 productId `651685` · [HTML profile page](../../reviews/nerve-soothe-55736.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58313"
+digistore24_product_id: 720574
+title: "The Meal Prep Cheat Book"
+vendor: "krisig02156e2b"
+product_type: "E-books"
+price: 25.62
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/720574?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/720574"
+language: "en"
+---
 # The Meal Prep Cheat Book
 
 > Product ID `58313` · Digistore24 productId `720574` · [HTML profile page](../../reviews/the-meal-prep-cheat-book-58313.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54280"
+digistore24_product_id: 639607
+title: "Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 117.45
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 88.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/sleep-hacking?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/sleep-hacking"
+language: "en"
+---
 # Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions
 
 > Product ID `54280` · Digistore24 productId `639607` · [HTML profile page](../../reviews/sleep-hacking-fall-asleep-in-10-minutes-75-commissions-54280.html)

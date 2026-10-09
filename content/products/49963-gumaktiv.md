@@ -1,3 +1,24 @@
+---
+product_id: "49963"
+digistore24_product_id: 573314
+title: "GumAktiv"
+vendor: "GumAktiv"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://mygumaktiv24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://mygumaktiv24.com/text.php"
+language: "en"
+---
 # GumAktiv
 
 > Product ID `49963` · Digistore24 productId `573314` · [HTML profile page](../../reviews/gumaktiv-49963.html)

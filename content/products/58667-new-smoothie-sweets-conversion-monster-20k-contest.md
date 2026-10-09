@@ -1,3 +1,24 @@
+---
+product_id: "58667"
+digistore24_product_id: 723590
+title: "NEW: Smoothie Sweets - Conversion Monster! $20K Contest!"
+vendor: "energy4oren"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 22.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://feelbetter-today.com/sweets/?aff=adminstore#aff=adminstore"
+sales_page: "https://feelbetter-today.com/sweets/"
+language: "en"
+---
 # NEW: Smoothie Sweets - Conversion Monster! $20K Contest!
 
 > Product ID `58667` · Digistore24 productId `723590` · [HTML profile page](../../reviews/new-smoothie-sweets-conversion-monster-20k-contest-58667.html)

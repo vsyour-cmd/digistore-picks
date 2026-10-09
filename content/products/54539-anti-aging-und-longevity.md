@@ -1,3 +1,24 @@
+---
+product_id: "54539"
+digistore24_product_id: 645305
+title: "Anti-Aging und Longevity"
+vendor: "Hei-Mel"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2025-10-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marilia.de/guides-coaching/ebook-anti-aging-longevity/?aff=adminstore#aff=adminstore"
+sales_page: "https://marilia.de/guides-coaching/ebook-anti-aging-longevity/"
+language: "en"
+---
 # Anti-Aging und Longevity
 
 > Product ID `54539` · Digistore24 productId `645305` · [HTML profile page](../../reviews/anti-aging-und-longevity-54539.html)

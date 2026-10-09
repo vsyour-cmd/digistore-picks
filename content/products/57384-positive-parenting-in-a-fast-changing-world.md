@@ -1,3 +1,24 @@
+---
+product_id: "57384"
+digistore24_product_id: 708122
+title: "Positive Parenting in a Fast-Changing World"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html"
+language: "en"
+---
 # Positive Parenting in a Fast-Changing World
 
 > Product ID `57384` · Digistore24 productId `708122` · [HTML profile page](../../reviews/positive-parenting-in-a-fast-changing-world-57384.html)

@@ -1,3 +1,24 @@
+---
+product_id: "60216"
+digistore24_product_id: 740956
+title: "Cozy Fall  Winter Life Planner - High Converting Printable"
+vendor: "craftydigitalstudio"
+product_type: "Downloads"
+price: 7.99
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740956?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740956"
+language: "en"
+---
 # Cozy Fall  Winter Life Planner - High Converting Printable
 
 > Product ID `60216` · Digistore24 productId `740956` · [HTML profile page](../../reviews/cozy-fall-winter-life-planner-high-converting-printable-60216.html)

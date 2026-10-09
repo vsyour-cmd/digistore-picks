@@ -1,3 +1,24 @@
+---
+product_id: "58334"
+digistore24_product_id: 713233
+title: "NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 117
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 81.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-08-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://cognifortplus.com/ds/indexts.php?aff=adminstore#aff=adminstore"
+sales_page: "https://cognifortplus.com/ds/indexts.php"
+language: "en"
+---
 # NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+
 
 > Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](../../reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)

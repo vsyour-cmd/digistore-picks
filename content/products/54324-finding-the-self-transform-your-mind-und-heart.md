@@ -1,3 +1,24 @@
+---
+product_id: "54324"
+digistore24_product_id: 639763
+title: "Finding the Self– Transform Your Mind und Heart"
+vendor: "jabbusiness"
+product_type: "Downloads"
+price: 14.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Social Media","Personal Development"]
+listed_since: "2025-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/639763?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/639763"
+language: "en"
+---
 # Finding the Self– Transform Your Mind und Heart
 
 > Product ID `54324` · Digistore24 productId `639763` · [HTML profile page](../../reviews/finding-the-self-transform-your-mind-und-heart-54324.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59581"
+digistore24_product_id: 736406
+title: "Build an Affiliate Website for Beginners – Matze Course"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 44.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736406?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736406"
+language: "en"
+---
 # Build an Affiliate Website for Beginners – Matze Course
 
 > Product ID `59581` · Digistore24 productId `736406` · [HTML profile page](../../reviews/build-an-affiliate-website-for-beginners-matze-course-59581.html)

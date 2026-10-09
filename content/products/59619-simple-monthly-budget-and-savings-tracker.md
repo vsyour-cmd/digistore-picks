@@ -1,3 +1,24 @@
+---
+product_id: "59619"
+digistore24_product_id: 735259
+title: "Simple Monthly Budget and Savings Tracker"
+vendor: "kovacevicmilos19883727"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://monthlybudgettrack-l9y.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://monthlybudgettrack-l9y.plannerpack.co"
+language: "en"
+---
 # Simple Monthly Budget and Savings Tracker
 
 > Product ID `59619` · Digistore24 productId `735259` · [HTML profile page](../../reviews/simple-monthly-budget-and-savings-tracker-59619.html)

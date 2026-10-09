@@ -1,3 +1,24 @@
+---
+product_id: "56746"
+digistore24_product_id: 691171
+title: "Icebreak – The No-Cringe Approach To Talking With Women"
+vendor: "markopavisic9281"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 18.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education"]
+listed_since: "2026-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://icebreak.date/secrets?aff=adminstore#aff=adminstore"
+sales_page: "https://icebreak.date/secrets"
+language: "en"
+---
 # Icebreak – The No-Cringe Approach To Talking With Women
 
 > Product ID `56746` · Digistore24 productId `691171` · [HTML profile page](../../reviews/icebreak-the-no-cringe-approach-to-talking-with-women-56746.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48892"
+digistore24_product_id: 561883
+title: "Promote the Ultimate Digital Marketing Guide eBook now!"
+vendor: "Fitlifesolutions"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 21.59
+cart_conversion_pct: 16
+cancel_rate_pct: 11.29
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-07-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pages.fitlifesolutions.site/sales/?id=561883&aff=adminstore#aff=adminstore"
+sales_page: "https://pages.fitlifesolutions.site/sales/?id=561883"
+language: "en"
+---
 # Promote the Ultimate Digital Marketing Guide eBook now!
 
 > Product ID `48892` · Digistore24 productId `561883` · [HTML profile page](../../reviews/promote-the-ultimate-digital-marketing-guide-ebook-now-48892.html)

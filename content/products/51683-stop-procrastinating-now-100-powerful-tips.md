@@ -1,3 +1,24 @@
+---
+product_id: "51683"
+digistore24_product_id: 600748
+title: "Stop Procrastinating Now – 100 Powerful Tips"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 10.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2025-03-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://heikoboos.com/stop-procrastinating-now?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/stop-procrastinating-now"
+language: "en"
+---
 # Stop Procrastinating Now – 100 Powerful Tips
 
 > Product ID `51683` · Digistore24 productId `600748` · [HTML profile page](../../reviews/stop-procrastinating-now-100-powerful-tips-51683.html)

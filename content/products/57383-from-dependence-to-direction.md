@@ -1,3 +1,24 @@
+---
+product_id: "57383"
+digistore24_product_id: 708121
+title: "From Dependence to Direction"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-07-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/From-Dependence-to-Direction/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/From-Dependence-to-Direction/Sales-page.html"
+language: "en"
+---
 # From Dependence to Direction
 
 > Product ID `57383` · Digistore24 productId `708121` · [HTML profile page](../../reviews/from-dependence-to-direction-57383.html)

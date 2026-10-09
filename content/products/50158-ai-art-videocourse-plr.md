@@ -1,3 +1,24 @@
+---
+product_id: "50158"
+digistore24_product_id: 576535
+title: "AI Art VideoCourse PLR"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-10-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/ai-art-videocourse-plr/?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/ai-art-videocourse-plr/"
+language: "en"
+---
 # AI Art VideoCourse PLR
 
 > Product ID `50158` · Digistore24 productId `576535` · [HTML profile page](../../reviews/ai-art-videocourse-plr-50158.html)

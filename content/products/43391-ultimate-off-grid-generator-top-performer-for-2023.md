@@ -1,3 +1,24 @@
+---
+product_id: "43391"
+digistore24_product_id: 491275
+title: "Ultimate OFF-GRID Generator - Top Performer for 2023"
+vendor: "infiniteensys"
+product_type: "E-books"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 41.11
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2023-03-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html?aff=adminstore#aff=adminstore"
+sales_page: "https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html"
+language: "en"
+---
 # Ultimate OFF-GRID Generator - Top Performer for 2023
 
 > Product ID `43391` · Digistore24 productId `491275` · [HTML profile page](../../reviews/ultimate-off-grid-generator-top-performer-for-2023-43391.html)

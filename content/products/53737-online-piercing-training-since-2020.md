@@ -1,3 +1,24 @@
+---
+product_id: "53737"
+digistore24_product_id: 607649
+title: "Online Piercing Training since 2020"
+vendor: "MfL-Academy"
+product_type: "Member area and video courses"
+price: 986.77
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 148.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job"]
+listed_since: "2025-04-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mfl.academy/?dig=607649&aff=adminstore#aff=adminstore"
+sales_page: "https://mfl.academy/?dig=607649"
+language: "en"
+---
 # Online Piercing Training since 2020
 
 > Product ID `53737` · Digistore24 productId `607649` · [HTML profile page](../../reviews/online-piercing-training-since-2020-53737.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59479"
+digistore24_product_id: 732702
+title: "Real Estate Hub: All-in-One Real Estate Agent App"
+vendor: "BerryOS"
+product_type: "Software"
+price: 10.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Software","Real Estate"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://berryoperatingsystems.my.canva.site/real-estate-hub?aff=adminstore#aff=adminstore"
+sales_page: "https://berryoperatingsystems.my.canva.site/real-estate-hub"
+language: "en"
+---
 # Real Estate Hub: All-in-One Real Estate Agent App
 
 > Product ID `59479` · Digistore24 productId `732702` · [HTML profile page](../../reviews/real-estate-hub-all-in-one-real-estate-agent-app-59479.html)

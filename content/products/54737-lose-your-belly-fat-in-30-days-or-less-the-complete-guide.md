@@ -1,3 +1,24 @@
+---
+product_id: "54737"
+digistore24_product_id: 650092
+title: "Lose Your Belly Fat in 30 Days or Less – The Complete Guide"
+vendor: "manuelcosta"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 81
+earnings_per_sale: 15.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2025-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fitebook.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://fitebook.netlify.app/"
+language: "en"
+---
 # Lose Your Belly Fat in 30 Days or Less – The Complete Guide
 
 > Product ID `54737` · Digistore24 productId `650092` · [HTML profile page](../../reviews/lose-your-belly-fat-in-30-days-or-less-the-complete-guide-54737.html)

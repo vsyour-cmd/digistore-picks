@@ -1,3 +1,24 @@
+---
+product_id: "56262"
+digistore24_product_id: 684563
+title: "Setting Boundaries with Family"
+vendor: "solvehera"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/684563?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684563"
+language: "en"
+---
 # Setting Boundaries with Family
 
 > Product ID `56262` · Digistore24 productId `684563` · [HTML profile page](../../reviews/setting-boundaries-with-family-56262.html)

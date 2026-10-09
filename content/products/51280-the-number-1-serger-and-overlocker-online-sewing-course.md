@@ -1,3 +1,24 @@
+---
+product_id: "51280"
+digistore24_product_id: 561361
+title: "The Number 1 Serger and Overlocker Online Sewing Course"
+vendor: "creatory"
+product_type: "Member area and video courses"
+price: 75.91
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 19.28
+cart_conversion_pct: 45
+cancel_rate_pct: 3.3
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2024-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/"
+language: "en"
+---
 # The Number 1 Serger and Overlocker Online Sewing Course
 
 > Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](../../reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)

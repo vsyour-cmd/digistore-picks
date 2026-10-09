@@ -1,3 +1,24 @@
+---
+product_id: "54322"
+digistore24_product_id: 639914
+title: "Luxus Reels Ideen 400+ PLR – Erstelle, Verkaufe"
+vendor: "jabbusiness"
+product_type: "Downloads"
+price: 7.11
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 2.14
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Online Marketing","Marketing Services"]
+listed_since: "2025-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/639914?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/639914"
+language: "en"
+---
 # Luxus Reels Ideen 400+ PLR – Erstelle, Verkaufe
 
 > Product ID `54322` · Digistore24 productId `639914` · [HTML profile page](../../reviews/luxus-reels-ideen-400-plr-erstelle-verkaufe-54322.html)

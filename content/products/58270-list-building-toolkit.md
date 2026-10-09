@@ -1,3 +1,24 @@
+---
+product_id: "58270"
+digistore24_product_id: 720621
+title: "List Building Toolkit"
+vendor: "nimollc"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.growthclubforcoachesandconsultants.com/buildyourlist-687?aff=adminstore#aff=adminstore"
+sales_page: "https://www.growthclubforcoachesandconsultants.com/buildyourlist-687"
+language: "en"
+---
 # List Building Toolkit
 
 > Product ID `58270` · Digistore24 productId `720621` · [HTML profile page](../../reviews/list-building-toolkit-58270.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57778"
+digistore24_product_id: 712276
+title: "Peaceful Sleep: Bible Stories for Bedtime - Vol.1"
+vendor: "atstudiowebae46"
+product_type: "E-books"
+price: 10
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/712276?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/712276"
+language: "en"
+---
 # Peaceful Sleep: Bible Stories for Bedtime - Vol.1
 
 > Product ID `57778` · Digistore24 productId `712276` · [HTML profile page](../../reviews/peaceful-sleep-bible-stories-for-bedtime-vol-1-57778.html)

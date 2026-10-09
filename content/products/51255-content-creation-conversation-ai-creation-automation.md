@@ -1,3 +1,24 @@
+---
+product_id: "51255"
+digistore24_product_id: 589688
+title: "Content Creation Conversation™ - AI Creation, Automation"
+vendor: "hey-julia"
+product_type: "Member area and video courses"
+price: 503.37
+currency: "USD"
+affiliate_commission_pct: 26
+earnings_per_sale: 130.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-01-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://hey-julia.de/en/content-creation-conversation/?aff=adminstore#aff=adminstore"
+sales_page: "https://hey-julia.de/en/content-creation-conversation/"
+language: "en"
+---
 # Content Creation Conversation™ - AI Creation, Automation
 
 > Product ID `51255` · Digistore24 productId `589688` · [HTML profile page](../../reviews/content-creation-conversation-ai-creation-automation-51255.html)

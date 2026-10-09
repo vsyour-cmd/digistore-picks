@@ -1,3 +1,24 @@
+---
+product_id: "53958"
+digistore24_product_id: 635388
+title: "The Digital Hustler"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
+listed_since: "2025-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635388?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635388"
+language: "en"
+---
 # The Digital Hustler
 
 > Product ID `53958` · Digistore24 productId `635388` · [HTML profile page](../../reviews/the-digital-hustler-53958.html)

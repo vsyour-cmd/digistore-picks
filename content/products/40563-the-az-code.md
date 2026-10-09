@@ -1,3 +1,24 @@
+---
+product_id: "40563"
+digistore24_product_id: 450647
+title: "The AZ Code"
+vendor: "azcode08"
+product_type: "E-books"
+price: 72.81
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 45.62
+cart_conversion_pct: 9
+cancel_rate_pct: 38.92
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.theazcode.com?aff=adminstore#aff=adminstore"
+sales_page: "https://www.theazcode.com"
+language: "en"
+---
 # The AZ Code
 
 > Product ID `40563` · Digistore24 productId `450647` · [HTML profile page](../../reviews/the-az-code-40563.html)

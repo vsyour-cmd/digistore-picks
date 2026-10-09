@@ -1,3 +1,24 @@
+---
+product_id: "56260"
+digistore24_product_id: 684544
+title: "The Career Clarity Guide"
+vendor: "solvehera"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Profession & Job"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/684544?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684544"
+language: "en"
+---
 # The Career Clarity Guide
 
 > Product ID `56260` · Digistore24 productId `684544` · [HTML profile page](../../reviews/the-career-clarity-guide-56260.html)

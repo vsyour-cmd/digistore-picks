@@ -1,3 +1,24 @@
+---
+product_id: "58712"
+digistore24_product_id: 726723
+title: "Ebook - The Rise of the Multipolar World - Volume VI"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Politics & Economy"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726723?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726723"
+language: "en"
+---
 # Ebook - The Rise of the Multipolar World - Volume VI
 
 > Product ID `58712` · Digistore24 productId `726723` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-vi-58712.html)

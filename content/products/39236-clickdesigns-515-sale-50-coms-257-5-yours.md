@@ -1,3 +1,24 @@
+---
+product_id: "39236"
+digistore24_product_id: 443167
+title: "⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours"
+vendor: "clickdesigns"
+product_type: "Software"
+price: 74.95
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 37.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2022-05-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://clickdesigns.com/dg/cd/?aff=adminstore#aff=adminstore"
+sales_page: "https://clickdesigns.com/dg/cd/"
+language: "en"
+---
 # ⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours
 
 > Product ID `39236` · Digistore24 productId `443167` · [HTML profile page](../../reviews/clickdesigns-515-sale-50-coms-257-5-yours-39236.html)

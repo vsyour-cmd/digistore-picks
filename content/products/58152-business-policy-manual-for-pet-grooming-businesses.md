@@ -1,3 +1,24 @@
+---
+product_id: "58152"
+digistore24_product_id: 714451
+title: "Business Policy Manual for Pet Grooming Businesses"
+vendor: "Juliannieh"
+product_type: "Downloads"
+price: 29
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 21.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses/?aff=adminstore#aff=adminstore"
+sales_page: "https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses/"
+language: "en"
+---
 # Business Policy Manual for Pet Grooming Businesses
 
 > Product ID `58152` · Digistore24 productId `714451` · [HTML profile page](../../reviews/business-policy-manual-for-pet-grooming-businesses-58152.html)

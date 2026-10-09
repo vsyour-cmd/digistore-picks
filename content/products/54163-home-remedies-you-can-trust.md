@@ -1,3 +1,24 @@
+---
+product_id: "54163"
+digistore24_product_id: 637574
+title: "Home Remedies You Can Trust"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Green Products & Environmental Protection","Health & Fitness"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/637574?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/637574"
+language: "en"
+---
 # Home Remedies You Can Trust
 
 > Product ID `54163` · Digistore24 productId `637574` · [HTML profile page](../../reviews/home-remedies-you-can-trust-54163.html)

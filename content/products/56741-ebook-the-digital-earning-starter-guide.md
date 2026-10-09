@@ -1,3 +1,24 @@
+---
+product_id: "56741"
+digistore24_product_id: 695905
+title: "Ebook - The Digital Earning Starter Guide"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 29.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Beginners-Online-Income-Blueprint/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Beginners-Online-Income-Blueprint/Sales-page.html"
+language: "en"
+---
 # Ebook - The Digital Earning Starter Guide
 
 > Product ID `56741` · Digistore24 productId `695905` · [HTML profile page](../../reviews/ebook-the-digital-earning-starter-guide-56741.html)

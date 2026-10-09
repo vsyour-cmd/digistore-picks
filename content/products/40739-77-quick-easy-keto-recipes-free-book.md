@@ -1,3 +1,24 @@
+---
+product_id: "40739"
+digistore24_product_id: 452961
+title: "77 Quick & Easy Keto Recipes free book"
+vendor: "produktmanagerin"
+product_type: "E-books"
+price: 1.05
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 0
+cart_conversion_pct: 16
+cancel_rate_pct: 7.6
+categories: ["Food & Drink"]
+listed_since: "2022-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://makeyouslim.info/77-keto-recipes/?aff=adminstore#aff=adminstore"
+sales_page: "https://makeyouslim.info/77-keto-recipes/"
+language: "en"
+---
 # 77 Quick & Easy Keto Recipes free book
 
 > Product ID `40739` · Digistore24 productId `452961` · [HTML profile page](../../reviews/77-quick-easy-keto-recipes-free-book-40739.html)

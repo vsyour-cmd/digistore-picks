@@ -1,3 +1,24 @@
+---
+product_id: "54275"
+digistore24_product_id: 639544
+title: "The Complete Social Confidence System | Earn 75% Commissions"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 155.49
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 116.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick"
+language: "en"
+---
 # The Complete Social Confidence System | Earn 75% Commissions
 
 > Product ID `54275` · Digistore24 productId `639544` · [HTML profile page](../../reviews/the-complete-social-confidence-system-earn-75-commissions-54275.html)

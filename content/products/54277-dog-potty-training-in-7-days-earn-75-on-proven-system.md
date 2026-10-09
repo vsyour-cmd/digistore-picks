@@ -1,3 +1,24 @@
+---
+product_id: "54277"
+digistore24_product_id: 639529
+title: "Dog Potty Training in 7 Days | Earn 75% on Proven System"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 134.23
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 100.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/potty-training-in-7-days?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/potty-training-in-7-days"
+language: "en"
+---
 # Dog Potty Training in 7 Days | Earn 75% on Proven System
 
 > Product ID `54277` · Digistore24 productId `639529` · [HTML profile page](../../reviews/dog-potty-training-in-7-days-earn-75-on-proven-system-54277.html)

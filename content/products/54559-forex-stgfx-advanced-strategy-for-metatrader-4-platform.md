@@ -1,3 +1,24 @@
+---
+product_id: "54559"
+digistore24_product_id: 646158
+title: "Forex STGFX Advanced Strategy For MetaTrader 4 Platform"
+vendor: "forexobroker"
+product_type: "Software"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Software"]
+listed_since: "2025-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://forexprofitkeeper.com/forex-stgfx-advanced-strategy-dg/?aff=adminstore#aff=adminstore"
+sales_page: "https://forexprofitkeeper.com/forex-stgfx-advanced-strategy-dg/"
+language: "en"
+---
 # Forex STGFX Advanced Strategy For MetaTrader 4 Platform
 
 > Product ID `54559` · Digistore24 productId `646158` · [HTML profile page](../../reviews/forex-stgfx-advanced-strategy-for-metatrader-4-platform-54559.html)

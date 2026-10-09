@@ -1,3 +1,24 @@
+---
+product_id: "57758"
+digistore24_product_id: 715714
+title: "Weekly Calendar"
+vendor: "litvipenkoadfc"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://weeklycalendar-9ml.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://weeklycalendar-9ml.plannerpack.fun"
+language: "en"
+---
 # Weekly Calendar
 
 > Product ID `57758` · Digistore24 productId `715714` · [HTML profile page](../../reviews/weekly-calendar-57758.html)

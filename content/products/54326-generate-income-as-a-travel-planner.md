@@ -1,3 +1,24 @@
+---
+product_id: "54326"
+digistore24_product_id: 640213
+title: "Generate Income as A Travel Planner"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hotels & Gastronomy","Travel & Culture","Marketing Services"]
+listed_since: "2025-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/640213?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640213"
+language: "en"
+---
 # Generate Income as A Travel Planner
 
 > Product ID `54326` · Digistore24 productId `640213` · [HTML profile page](../../reviews/generate-income-as-a-travel-planner-54326.html)

@@ -1,3 +1,24 @@
+---
+product_id: "38868"
+digistore24_product_id: 377301
+title: "The Lost SuperFoods"
+vendor: "lostrec"
+product_type: "Book (printed)"
+price: 54.29
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 26.11
+cart_conversion_pct: 19
+cancel_rate_pct: 1.7
+categories: ["Survival"]
+listed_since: "2021-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ultimatesurvivalfoods.com/book/?aff=adminstore#aff=adminstore"
+sales_page: "https://ultimatesurvivalfoods.com/book/"
+language: "en"
+---
 # The Lost SuperFoods
 
 > Product ID `38868` · Digistore24 productId `377301` · [HTML profile page](../../reviews/the-lost-superfoods-38868.html)

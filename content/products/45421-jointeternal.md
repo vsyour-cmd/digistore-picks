@@ -1,3 +1,24 @@
+---
+product_id: "45421"
+digistore24_product_id: 508842
+title: "JointEternal"
+vendor: "naturalcell"
+product_type: "Supplements - health"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2023-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jointeternal.com/discover/?aff=adminstore#aff=adminstore"
+sales_page: "https://jointeternal.com/discover/"
+language: "en"
+---
 # JointEternal
 
 > Product ID `45421` · Digistore24 productId `508842` · [HTML profile page](../../reviews/jointeternal-45421.html)

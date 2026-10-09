@@ -1,3 +1,24 @@
+---
+product_id: "39452"
+digistore24_product_id: 433852
+title: "Easy 8 Scroll Saw Patterns"
+vendor: "rmyrchak"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2022-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns?aff=adminstore#aff=adminstore"
+sales_page: "https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns"
+language: "en"
+---
 # Easy 8 Scroll Saw Patterns
 
 > Product ID `39452` · Digistore24 productId `433852` · [HTML profile page](../../reviews/easy-8-scroll-saw-patterns-39452.html)

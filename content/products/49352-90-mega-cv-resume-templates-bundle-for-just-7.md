@@ -1,3 +1,24 @@
+---
+product_id: "49352"
+digistore24_product_id: 569531
+title: "⚡️+90 Mega CV Resume Templates Bundle for Just $7⚡️"
+vendor: "devetopia"
+product_type: "Downloads"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Politics & Economy"]
+listed_since: "2024-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/569531?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/569531"
+language: "en"
+---
 # ⚡️+90 Mega CV Resume Templates Bundle for Just $7⚡️
 
 > Product ID `49352` · Digistore24 productId `569531` · [HTML profile page](../../reviews/90-mega-cv-resume-templates-bundle-for-just-7-49352.html)

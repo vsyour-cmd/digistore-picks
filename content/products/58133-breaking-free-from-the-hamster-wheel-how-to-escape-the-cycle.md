@@ -1,3 +1,24 @@
+---
+product_id: "58133"
+digistore24_product_id: 718034
+title: "Breaking Free from the Hamster Wheel How to Escape the Cycle"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/718034?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718034"
+language: "en"
+---
 # Breaking Free from the Hamster Wheel How to Escape the Cycle
 
 > Product ID `58133` · Digistore24 productId `718034` · [HTML profile page](../../reviews/breaking-free-from-the-hamster-wheel-how-to-escape-the-cycle-58133.html)

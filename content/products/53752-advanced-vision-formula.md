@@ -1,3 +1,24 @@
+---
+product_id: "53752"
+digistore24_product_id: 630841
+title: "Advanced Vision Formula"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 78.25
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm"
+language: "en"
+---
 # Advanced Vision Formula
 
 > Product ID `53752` · Digistore24 productId `630841` · [HTML profile page](../../reviews/advanced-vision-formula-53752.html)

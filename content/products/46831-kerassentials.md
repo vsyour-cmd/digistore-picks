@@ -1,3 +1,24 @@
+---
+product_id: "46831"
+digistore24_product_id: 533765
+title: "Kerassentials"
+vendor: "Kerassentials"
+product_type: "Deliverable"
+price: 236.29
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 132.03
+cart_conversion_pct: 4
+cancel_rate_pct: 17.68
+categories: ["Food Supplements"]
+listed_since: "2024-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mykerassentials24.com/text2.php?aff=adminstore#aff=adminstore"
+sales_page: "https://mykerassentials24.com/text2.php"
+language: "en"
+---
 # Kerassentials
 
 > Product ID `46831` · Digistore24 productId `533765` · [HTML profile page](../../reviews/kerassentials-46831.html)

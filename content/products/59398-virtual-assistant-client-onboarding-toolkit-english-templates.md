@@ -1,3 +1,24 @@
+---
+product_id: "59398"
+digistore24_product_id: 735105
+title: "Virtual Assistant Client Onboarding Toolkit - English Templates"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 19.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Office Organization"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735105?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735105"
+language: "en"
+---
 # Virtual Assistant Client Onboarding Toolkit - English Templates
 
 > Product ID `59398` · Digistore24 productId `735105` · [HTML profile page](../../reviews/virtual-assistant-client-onboarding-toolkit-english-templates-59398.html)

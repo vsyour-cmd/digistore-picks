@@ -1,3 +1,24 @@
+---
+product_id: "52997"
+digistore24_product_id: 620947
+title: "Experience Relief from Sciatica"
+vendor: "BookMuffin"
+product_type: "E-books"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2025-06-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/620947?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/620947"
+language: "en"
+---
 # Experience Relief from Sciatica
 
 > Product ID `52997` · Digistore24 productId `620947` · [HTML profile page](../../reviews/experience-relief-from-sciatica-52997.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59409"
+digistore24_product_id: 735171
+title: "Course to Results"
+vendor: "iconiclux"
+product_type: "Member area and video courses"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 16.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://coursetoresults-8tr.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://coursetoresults-8tr.plannerpack.co"
+language: "en"
+---
 # Course to Results
 
 > Product ID `59409` · Digistore24 productId `735171` · [HTML profile page](../../reviews/course-to-results-59409.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57714"
+digistore24_product_id: 714883
+title: "Free and Easy Ways to Serve Others - eBook"
+vendor: "KeepCreatingFun"
+product_type: "E-books"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 7.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Services"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://waystoserveothers-eb9.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://waystoserveothers-eb9.plannerpack.co"
+language: "en"
+---
 # Free and Easy Ways to Serve Others - eBook
 
 > Product ID `57714` · Digistore24 productId `714883` · [HTML profile page](../../reviews/free-and-easy-ways-to-serve-others-ebook-57714.html)

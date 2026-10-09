@@ -1,3 +1,24 @@
+---
+product_id: "54298"
+digistore24_product_id: 639860
+title: "Digital Product Blueprint: Create Your First Digital Product"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 149.89
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 112.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/digital-products-academy?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/digital-products-academy"
+language: "en"
+---
 # Digital Product Blueprint: Create Your First Digital Product
 
 > Product ID `54298` · Digistore24 productId `639860` · [HTML profile page](../../reviews/digital-product-blueprint-create-your-first-digital-product-54298.html)

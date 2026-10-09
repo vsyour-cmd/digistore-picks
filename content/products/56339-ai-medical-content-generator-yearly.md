@@ -1,3 +1,24 @@
+---
+product_id: "56339"
+digistore24_product_id: 677266
+title: "AI Medical Content Generator – Yearly"
+vendor: "mohdnamatef97"
+product_type: "Software"
+price: 558.18
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 223.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-03-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ai-medical-content.net/en/subscriptions/annual-pro-2500?aff=adminstore#aff=adminstore"
+sales_page: "https://ai-medical-content.net/en/subscriptions/annual-pro-2500"
+language: "en"
+---
 # AI Medical Content Generator – Yearly
 
 > Product ID `56339` · Digistore24 productId `677266` · [HTML profile page](../../reviews/ai-medical-content-generator-yearly-56339.html)

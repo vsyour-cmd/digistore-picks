@@ -1,3 +1,24 @@
+---
+product_id: "49050"
+digistore24_product_id: 565535
+title: "AlphaXtra Boost"
+vendor: "AlphaXtraBoost"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://alphaxtraboost24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://alphaxtraboost24.com/text.php"
+language: "en"
+---
 # AlphaXtra Boost
 
 > Product ID `49050` · Digistore24 productId `565535` · [HTML profile page](../../reviews/alphaxtra-boost-49050.html)

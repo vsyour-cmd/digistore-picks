@@ -1,3 +1,24 @@
+---
+product_id: "52769"
+digistore24_product_id: 614878
+title: "Oradentum"
+vendor: "oradentum"
+product_type: "Supplements - health"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 57.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://getoradentum.cc/welcome/?aff=adminstore#aff=adminstore"
+sales_page: "http://getoradentum.cc/welcome/"
+language: "en"
+---
 # Oradentum
 
 > Product ID `52769` · Digistore24 productId `614878` · [HTML profile page](../../reviews/oradentum-52769.html)

@@ -1,3 +1,24 @@
+---
+product_id: "37379"
+digistore24_product_id: 401565
+title: "Useful Daily and Monthly Project Progress and Status Reports"
+vendor: "arneckem"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2021-08-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://worldofpm.com/recommended-project-reports/?aff=adminstore#aff=adminstore"
+sales_page: "https://worldofpm.com/recommended-project-reports/"
+language: "en"
+---
 # Useful Daily and Monthly Project Progress and Status Reports
 
 > Product ID `37379` · Digistore24 productId `401565` · [HTML profile page](../../reviews/useful-daily-and-monthly-project-progress-and-status-reports-37379.html)

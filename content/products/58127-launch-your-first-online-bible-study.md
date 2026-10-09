@@ -1,3 +1,24 @@
+---
+product_id: "58127"
+digistore24_product_id: 718512
+title: "Launch Your First Online Bible Study"
+vendor: "BizzBoom"
+product_type: "Member area and video courses"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 9.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://onlinebiblestudy-7ax.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://onlinebiblestudy-7ax.plannerpack.co"
+language: "en"
+---
 # Launch Your First Online Bible Study
 
 > Product ID `58127` · Digistore24 productId `718512` · [HTML profile page](../../reviews/launch-your-first-online-bible-study-58127.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54011"
+digistore24_product_id: 635719
+title: "Get More Done in Less Time"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Project Management"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635719?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635719"
+language: "en"
+---
 # Get More Done in Less Time
 
 > Product ID `54011` · Digistore24 productId `635719` · [HTML profile page](../../reviews/get-more-done-in-less-time-54011.html)

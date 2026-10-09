@@ -1,3 +1,24 @@
+---
+product_id: "59709"
+digistore24_product_id: 701228
+title: "Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window"
+vendor: "pvamaxfe8b"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://shop.code-content-ai.com/ditch-windows-embrace-linux?aff=adminstore#aff=adminstore"
+sales_page: "https://shop.code-content-ai.com/ditch-windows-embrace-linux"
+language: "en"
+---
 # Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window
 
 > Product ID `59709` · Digistore24 productId `701228` · [HTML profile page](../../reviews/ditch-windows-embrace-linux-ubuntu-switch-guide-for-window-59709.html)

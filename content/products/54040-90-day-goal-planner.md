@@ -1,3 +1,24 @@
+---
+product_id: "54040"
+digistore24_product_id: 636017
+title: "90-Day Goal Planner"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636017?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636017"
+language: "en"
+---
 # 90-Day Goal Planner
 
 > Product ID `54040` · Digistore24 productId `636017` · [HTML profile page](../../reviews/90-day-goal-planner-54040.html)

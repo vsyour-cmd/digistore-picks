@@ -1,3 +1,24 @@
+---
+product_id: "40517"
+digistore24_product_id: 435925
+title: "⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡"
+vendor: "Ali16117"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 100.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Trading Products"]
+listed_since: "2022-03-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://forexbee.co/supply-and-demand-indicator-digi/?aff=adminstore#aff=adminstore"
+sales_page: "https://forexbee.co/supply-and-demand-indicator-digi/"
+language: "en"
+---
 # ⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡
 
 > Product ID `40517` · Digistore24 productId `435925` · [HTML profile page](../../reviews/supply-and-demand-indicator-best-price-action-indicator-40517.html)

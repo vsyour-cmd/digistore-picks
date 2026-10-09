@@ -1,3 +1,24 @@
+---
+product_id: "38750"
+digistore24_product_id: 420539
+title: "⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds"
+vendor: "alldayslimtea"
+product_type: "Supplements - for slimming"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 197.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2021-12-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://alldayslimmingtea.com/costa-rican-tradition/?aff=adminstore#aff=adminstore"
+sales_page: "https://alldayslimmingtea.com/costa-rican-tradition/"
+language: "en"
+---
 # ⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds
 
 > Product ID `38750` · Digistore24 productId `420539` · [HTML profile page](../../reviews/all-day-slimming-tea-over-100-per-sale-low-refunds-38750.html)

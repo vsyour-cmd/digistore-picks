@@ -1,3 +1,24 @@
+---
+product_id: "56447"
+digistore24_product_id: 558164
+title: "Bundle of 42 Kids Alphabet Activity Worksheet ."
+vendor: "tom_cruise"
+product_type: "Downloads"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Fun & Games"]
+listed_since: "2024-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.alm3rfa.xyz/project/kids_alphapet?aff=adminstore#aff=adminstore"
+sales_page: "https://www.alm3rfa.xyz/project/kids_alphapet"
+language: "en"
+---
 # Bundle of 42 Kids Alphabet Activity Worksheet .
 
 > Product ID `56447` · Digistore24 productId `558164` · [HTML profile page](../../reviews/bundle-of-42-kids-alphabet-activity-worksheet-56447.html)

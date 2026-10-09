@@ -1,3 +1,24 @@
+---
+product_id: "49599"
+digistore24_product_id: 549763
+title: "Lets-Dance - Partner Program"
+vendor: "Laphosio"
+product_type: "Member area and video courses"
+price: 69.9
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 20.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
+listed_since: "2024-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.digistore24.com/redir/549763/adminstore"
+sales_page: "https://lets-dance.net/en-US/premium-sales?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "en"
+---
 # Lets-Dance - Partner Program
 
 > Product ID `49599` · Digistore24 productId `549763` · [HTML profile page](../../reviews/lets-dance-partner-program-49599.html)

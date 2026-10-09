@@ -1,3 +1,24 @@
+---
+product_id: "53375"
+digistore24_product_id: 626995
+title: "TikTok Ad Strategy Accelerator"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/tiktok-ad-strategy-accelerator/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/tiktok-ad-strategy-accelerator/"
+language: "en"
+---
 # TikTok Ad Strategy Accelerator
 
 > Product ID `53375` · Digistore24 productId `626995` · [HTML profile page](../../reviews/tiktok-ad-strategy-accelerator-53375.html)

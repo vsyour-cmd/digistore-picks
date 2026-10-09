@@ -1,3 +1,24 @@
+---
+product_id: "58149"
+digistore24_product_id: 711472
+title: "The Ultimate Gradient Map Collection"
+vendor: "adriannbelion"
+product_type: "Downloads"
+price: 164
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 32.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/711472?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711472"
+language: "en"
+---
 # The Ultimate Gradient Map Collection
 
 > Product ID `58149` · Digistore24 productId `711472` · [HTML profile page](../../reviews/the-ultimate-gradient-map-collection-58149.html)

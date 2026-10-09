@@ -1,3 +1,24 @@
+---
+product_id: "47344"
+digistore24_product_id: 530046
+title: "How to pass Norskprøven (A1-B2)"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 110.74
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 33.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2023-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://courses.skapago.eu/lp/norskproven/?aff=adminstore#aff=adminstore"
+sales_page: "https://courses.skapago.eu/lp/norskproven/"
+language: "en"
+---
 # How to pass Norskprøven (A1-B2)
 
 > Product ID `47344` · Digistore24 productId `530046` · [HTML profile page](../../reviews/how-to-pass-norskpr-ven-a1-b2-47344.html)

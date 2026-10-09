@@ -1,3 +1,24 @@
+---
+product_id: "54083"
+digistore24_product_id: 620652
+title: "Unlock Online Success With Freedom Affiliate Formula"
+vendor: "commissionhero"
+product_type: "Member area and video courses"
+price: 74.95
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 56.21
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-06-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.getfreedomaffiliate.com/v1?aff=adminstore#aff=adminstore"
+sales_page: "https://www.getfreedomaffiliate.com/v1"
+language: "en"
+---
 # Unlock Online Success With Freedom Affiliate Formula
 
 > Product ID `54083` · Digistore24 productId `620652` · [HTML profile page](../../reviews/unlock-online-success-with-freedom-affiliate-formula-54083.html)

@@ -1,3 +1,24 @@
+---
+product_id: "36358"
+digistore24_product_id: 383879
+title: "BookCoverly Book Cover Software for Paperback and Ebooks"
+vendor: "agelessmoxie"
+product_type: "Software"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2021-04-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/383879/adminstore"
+sales_page: "https://bookcoverly.com/bookcoverly-book-cover-software//?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "en"
+---
 # BookCoverly Book Cover Software for Paperback and Ebooks
 
 > Product ID `36358` · Digistore24 productId `383879` · [HTML profile page](../../reviews/bookcoverly-book-cover-software-for-paperback-and-ebooks-36358.html)

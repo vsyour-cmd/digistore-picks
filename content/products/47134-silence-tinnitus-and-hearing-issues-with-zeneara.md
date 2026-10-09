@@ -1,3 +1,24 @@
+---
+product_id: "47134"
+digistore24_product_id: 538903
+title: "Silence Tinnitus and Hearing Issues with Zeneara!"
+vendor: "Nutraville"
+product_type: "Supplements - health"
+price: 196.55
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 66.95
+cart_conversion_pct: 9
+cancel_rate_pct: 13.71
+categories: ["Food Supplements"]
+listed_since: "2024-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zeneara.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://zeneara.com/ds/go/indexvs.php"
+language: "en"
+---
 # Silence Tinnitus and Hearing Issues with Zeneara!
 
 > Product ID `47134` · Digistore24 productId `538903` · [HTML profile page](../../reviews/silence-tinnitus-and-hearing-issues-with-zeneara-47134.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58692"
+digistore24_product_id: 722951
+title: "IoT Professional Technology Assessment Toolkit for IT and Io"
+vendor: "IoTSystemsGrowthSolutions"
+product_type: "Software"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Software"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marketplace.iotsystemsgrowth.com/ot-professional-technology-assessment-toolkit-digistore-2/?aff=adminstore#aff=adminstore"
+sales_page: "https://marketplace.iotsystemsgrowth.com/ot-professional-technology-assessment-toolkit-digistore-2/"
+language: "en"
+---
 # IoT Professional Technology Assessment Toolkit for IT and Io
 
 > Product ID `58692` · Digistore24 productId `722951` · [HTML profile page](../../reviews/iot-professional-technology-assessment-toolkit-for-it-and-io-58692.html)

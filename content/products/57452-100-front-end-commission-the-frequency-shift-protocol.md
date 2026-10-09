@@ -1,3 +1,24 @@
+---
+product_id: "57452"
+digistore24_product_id: 709632
+title: "100% FRONT-END COMMISSION — The Frequency Shift Protocol"
+vendor: "ZeroToCommission"
+product_type: "Downloads"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.offerlaunchpad.site/the-frequency-shift-protocol?aff=adminstore#aff=adminstore"
+sales_page: "http://www.offerlaunchpad.site/the-frequency-shift-protocol"
+language: "en"
+---
 # 100% FRONT-END COMMISSION — The Frequency Shift Protocol
 
 > Product ID `57452` · Digistore24 productId `709632` · [HTML profile page](../../reviews/100-front-end-commission-the-frequency-shift-protocol-57452.html)

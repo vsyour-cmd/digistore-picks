@@ -1,3 +1,24 @@
+---
+product_id: "50004"
+digistore24_product_id: 543164
+title: "9 Ways to build an Online Business"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-03-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/9-ways-to-your-online-business?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/9-ways-to-your-online-business"
+language: "en"
+---
 # 9 Ways to build an Online Business
 
 > Product ID `50004` · Digistore24 productId `543164` · [HTML profile page](../../reviews/9-ways-to-build-an-online-business-50004.html)

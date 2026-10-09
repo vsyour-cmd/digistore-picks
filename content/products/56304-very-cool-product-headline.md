@@ -1,3 +1,24 @@
+---
+product_id: "56304"
+digistore24_product_id: 685552
+title: "Very cool product headline"
+vendor: "team24-zahmad"
+product_type: "Deliverable"
+price: 89.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 44.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Survival"]
+listed_since: "2026-04-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://coolcarspoilersalespage-c4s.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://coolcarspoilersalespage-c4s.plannerpack.co"
+language: "en"
+---
 # Very cool product headline
 
 > Product ID `56304` · Digistore24 productId `685552` · [HTML profile page](../../reviews/very-cool-product-headline-56304.html)

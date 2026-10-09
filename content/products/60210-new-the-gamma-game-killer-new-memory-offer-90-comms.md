@@ -1,3 +1,24 @@
+---
+product_id: "60210"
+digistore24_product_id: 738151
+title: "NEW: The Gamma Game - Killer NEW Memory Offer - 90% Comms"
+vendor: "geniusofren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://feelbetter-today.com/gamma-memory?aff=adminstore#aff=adminstore"
+sales_page: "http://feelbetter-today.com/gamma-memory"
+language: "en"
+---
 # NEW: The Gamma Game - Killer NEW Memory Offer - 90% Comms
 
 > Product ID `60210` · Digistore24 productId `738151` · [HTML profile page](../../reviews/new-the-gamma-game-killer-new-memory-offer-90-comms-60210.html)

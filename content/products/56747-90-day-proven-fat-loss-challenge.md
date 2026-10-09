@@ -1,3 +1,24 @@
+---
+product_id: "56747"
+digistore24_product_id: 696162
+title: "90-Day Proven Fat Loss Challenge"
+vendor: "francesco9fc5"
+product_type: "Downloads"
+price: 147
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 95.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-05-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi"
+language: "en"
+---
 # 90-Day Proven Fat Loss Challenge
 
 > Product ID `56747` · Digistore24 productId `696162` · [HTML profile page](../../reviews/90-day-proven-fat-loss-challenge-56747.html)

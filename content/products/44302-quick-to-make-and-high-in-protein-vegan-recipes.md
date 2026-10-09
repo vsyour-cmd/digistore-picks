@@ -1,3 +1,24 @@
+---
+product_id: "44302"
+digistore24_product_id: 499722
+title: "Quick to Make and High in Protein Vegan Recipes"
+vendor: "Monis007"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2023-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://socialartiste7.systeme.io/30veganrecipe?aff=adminstore#aff=adminstore"
+sales_page: "https://socialartiste7.systeme.io/30veganrecipe"
+language: "en"
+---
 # Quick to Make and High in Protein Vegan Recipes
 
 > Product ID `44302` · Digistore24 productId `499722` · [HTML profile page](../../reviews/quick-to-make-and-high-in-protein-vegan-recipes-44302.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57090"
+digistore24_product_id: 692123
+title: "Earn 65% Commission Promoting Women's Fitness Hormone Health"
+vendor: "ZoeWomen"
+product_type: "E-books"
+price: 57
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 37.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Sport"]
+listed_since: "2026-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://byzoewomen.com/the-code.html?aff=THEIRID&aff=adminstore#aff=adminstore"
+sales_page: "https://byzoewomen.com/the-code.html?aff=THEIRID"
+language: "en"
+---
 # Earn 65% Commission Promoting Women's Fitness Hormone Health
 
 > Product ID `57090` · Digistore24 productId `692123` · [HTML profile page](../../reviews/earn-65-commission-promoting-women-s-fitness-hormone-health-57090.html)

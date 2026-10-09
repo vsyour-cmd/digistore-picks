@@ -1,3 +1,24 @@
+---
+product_id: "50801"
+digistore24_product_id: 586334
+title: "NiteHush Pro"
+vendor: "NiteHushPro"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://nitehushpro24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://nitehushpro24.com/text.php"
+language: "en"
+---
 # NiteHush Pro
 
 > Product ID `50801` · Digistore24 productId `586334` · [HTML profile page](../../reviews/nitehush-pro-50801.html)

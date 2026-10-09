@@ -1,3 +1,24 @@
+---
+product_id: "59594"
+digistore24_product_id: 735975
+title: "Nupem.finance Money Reset Program"
+vendor: "nupem01"
+product_type: "Member area and video courses"
+price: 265
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 92.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://nupemfinancemoney-fj3.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://nupemfinancemoney-fj3.plannerpack.co"
+language: "en"
+---
 # Nupem.finance Money Reset Program
 
 > Product ID `59594` · Digistore24 productId `735975` · [HTML profile page](../../reviews/nupem-finance-money-reset-program-59594.html)

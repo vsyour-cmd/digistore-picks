@@ -1,3 +1,24 @@
+---
+product_id: "42181"
+digistore24_product_id: 474924
+title: "German course for beginners based on a story: Jens and Jakob"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 83.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2022-12-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds"
+language: "en"
+---
 # German course for beginners based on a story: Jens and Jakob
 
 > Product ID `42181` · Digistore24 productId `474924` · [HTML profile page](../../reviews/german-course-for-beginners-based-on-a-story-jens-and-jakob-42181.html)

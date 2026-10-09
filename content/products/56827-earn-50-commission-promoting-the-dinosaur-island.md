@@ -1,3 +1,24 @@
+---
+product_id: "56827"
+digistore24_product_id: 699188
+title: "Earn 50% Commission Promoting The Dinosaur Island"
+vendor: "Kidora_Stories"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-06-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-book1-the-dinosaur-island&aff=adminstore#aff=adminstore"
+sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-book1-the-dinosaur-island"
+language: "en"
+---
 # Earn 50% Commission Promoting The Dinosaur Island
 
 > Product ID `56827` · Digistore24 productId `699188` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-dinosaur-island-56827.html)

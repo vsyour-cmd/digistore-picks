@@ -1,3 +1,24 @@
+---
+product_id: "57777"
+digistore24_product_id: 711839
+title: "Emotional Resilience in the Age of AI"
+vendor: "atstudiowebae46"
+product_type: "E-books"
+price: 10
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2026-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/711839?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/711839"
+language: "en"
+---
 # Emotional Resilience in the Age of AI
 
 > Product ID `57777` · Digistore24 productId `711839` · [HTML profile page](../../reviews/emotional-resilience-in-the-age-of-ai-57777.html)

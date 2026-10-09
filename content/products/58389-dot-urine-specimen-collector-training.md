@@ -1,3 +1,24 @@
+---
+product_id: "58389"
+digistore24_product_id: 722800
+title: "DOT URINE SPECIMEN COLLECTOR TRAINING"
+vendor: "htlinc"
+product_type: "Member area and video courses"
+price: 189.95
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 50
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://htl-inc.com/training/dot-urine-collector-ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://htl-inc.com/training/dot-urine-collector-ds24"
+language: "en"
+---
 # DOT URINE SPECIMEN COLLECTOR TRAINING
 
 > Product ID `58389` · Digistore24 productId `722800` · [HTML profile page](../../reviews/dot-urine-specimen-collector-training-58389.html)

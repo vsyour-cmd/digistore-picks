@@ -1,3 +1,24 @@
+---
+product_id: "36842"
+digistore24_product_id: 383385
+title: "Classical Guitar Technique"
+vendor: "Guitarschool24"
+product_type: "Member area and video courses"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.73
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2021-04-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.guitarschool24.com/classical-guitar-basic-techniques/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.guitarschool24.com/classical-guitar-basic-techniques/"
+language: "en"
+---
 # Classical Guitar Technique
 
 > Product ID `36842` · Digistore24 productId `383385` · [HTML profile page](../../reviews/classical-guitar-technique-36842.html)

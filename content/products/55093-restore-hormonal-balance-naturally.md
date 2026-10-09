@@ -1,3 +1,24 @@
+---
+product_id: "55093"
+digistore24_product_id: 656092
+title: "Restore Hormonal Balance Naturally"
+vendor: "TheHealthyLivingHub"
+product_type: "E-books"
+price: 15.65
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
+sales_page: "https://thehealthyliving.lovable.app"
+language: "en"
+---
 # Restore Hormonal Balance Naturally
 
 > Product ID `55093` · Digistore24 productId `656092` · [HTML profile page](../../reviews/restore-hormonal-balance-naturally-55093.html)

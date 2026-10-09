@@ -1,3 +1,24 @@
+---
+product_id: "47858"
+digistore24_product_id: 548672
+title: "PotentStream"
+vendor: "PotentStream"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 180.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://potentstream24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://potentstream24.com/text.php"
+language: "en"
+---
 # PotentStream
 
 > Product ID `47858` · Digistore24 productId `548672` · [HTML profile page](../../reviews/potentstream-47858.html)

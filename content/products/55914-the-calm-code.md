@@ -1,3 +1,24 @@
+---
+product_id: "55914"
+digistore24_product_id: 676261
+title: "The Calm Code"
+vendor: "ZeroToCommission"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.brainwavehaven.site/the-calm-code?aff=adminstore#aff=adminstore"
+sales_page: "https://www.brainwavehaven.site/the-calm-code"
+language: "en"
+---
 # The Calm Code
 
 > Product ID `55914` · Digistore24 productId `676261` · [HTML profile page](../../reviews/the-calm-code-55914.html)

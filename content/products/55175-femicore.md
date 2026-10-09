@@ -1,3 +1,24 @@
+---
+product_id: "55175"
+digistore24_product_id: 660999
+title: "FemiCore"
+vendor: "FemiCore"
+product_type: "Supplements - health"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-01-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://femicore24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://femicore24.com/text.php"
+language: "en"
+---
 # FemiCore
 
 > Product ID `55175` · Digistore24 productId `660999` · [HTML profile page](../../reviews/femicore-55175.html)

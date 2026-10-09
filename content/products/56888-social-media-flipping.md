@@ -1,3 +1,24 @@
+---
+product_id: "56888"
+digistore24_product_id: 701568
+title: "Social Media Flipping"
+vendor: "ZeroToCommission"
+product_type: "E-books"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 58.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.offerlaunchpad.site/social-media-flipping?aff=adminstore#aff=adminstore"
+sales_page: "https://www.offerlaunchpad.site/social-media-flipping"
+language: "en"
+---
 # Social Media Flipping
 
 > Product ID `56888` · Digistore24 productId `701568` · [HTML profile page](../../reviews/social-media-flipping-56888.html)

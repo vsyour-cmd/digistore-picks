@@ -1,3 +1,24 @@
+---
+product_id: "57578"
+digistore24_product_id: 709170
+title: "Fresh and Simple"
+vendor: "lindamarastein056c"
+product_type: "E-books"
+price: 17.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://winningpicksstore.org/fresh-and-simple?aff=adminstore#aff=adminstore"
+sales_page: "https://winningpicksstore.org/fresh-and-simple"
+language: "en"
+---
 # Fresh and Simple
 
 > Product ID `57578` · Digistore24 productId `709170` · [HTML profile page](../../reviews/fresh-and-simple-57578.html)

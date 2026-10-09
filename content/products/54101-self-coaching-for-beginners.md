@@ -1,3 +1,24 @@
+---
+product_id: "54101"
+digistore24_product_id: 636865
+title: "Self-Coaching for Beginners"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Leadership & Management"]
+listed_since: "2025-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636865?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636865"
+language: "en"
+---
 # Self-Coaching for Beginners
 
 > Product ID `54101` · Digistore24 productId `636865` · [HTML profile page](../../reviews/self-coaching-for-beginners-54101.html)

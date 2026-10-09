@@ -1,3 +1,24 @@
+---
+product_id: "55491"
+digistore24_product_id: 665237
+title: "The Art Of Natural Attraction"
+vendor: "cleitonpaulino"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-01-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://elevenmarketingdigital.com/the-art-of-natural-attraction/?aff=adminstore#aff=adminstore"
+sales_page: "https://elevenmarketingdigital.com/the-art-of-natural-attraction/"
+language: "en"
+---
 # The Art Of Natural Attraction
 
 > Product ID `55491` · Digistore24 productId `665237` · [HTML profile page](../../reviews/the-art-of-natural-attraction-55491.html)

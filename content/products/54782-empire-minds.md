@@ -1,3 +1,24 @@
+---
+product_id: "54782"
+digistore24_product_id: 646198
+title: "EMPIRE MINDS"
+vendor: "t_okelly"
+product_type: "E-books"
+price: 24.99
+currency: "USD"
+affiliate_commission_pct: 40.74
+earnings_per_sale: 10.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Leadership & Management","Personal Development"]
+listed_since: "2025-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://empireminds.systeme.io/?aff=adminstore#aff=adminstore"
+sales_page: "https://empireminds.systeme.io/"
+language: "en"
+---
 # EMPIRE MINDS
 
 > Product ID `54782` · Digistore24 productId `646198` · [HTML profile page](../../reviews/empire-minds-54782.html)

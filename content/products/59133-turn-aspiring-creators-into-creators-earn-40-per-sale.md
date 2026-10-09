@@ -1,3 +1,24 @@
+---
+product_id: "59133"
+digistore24_product_id: 728630
+title: "Turn Aspiring Creators Into Creators — Earn 40% Per Sale"
+vendor: "andrewfoley337582f"
+product_type: "Software"
+price: 49
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 19.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2026-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://30dayblueprint.org/digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://30dayblueprint.org/digistore"
+language: "en"
+---
 # Turn Aspiring Creators Into Creators — Earn 40% Per Sale
 
 > Product ID `59133` · Digistore24 productId `728630` · [HTML profile page](../../reviews/turn-aspiring-creators-into-creators-earn-40-per-sale-59133.html)

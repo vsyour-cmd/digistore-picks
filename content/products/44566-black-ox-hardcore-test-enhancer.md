@@ -1,3 +1,24 @@
+---
+product_id: "44566"
+digistore24_product_id: 502452
+title: "Black Ox - Hardcore Test Enhancer"
+vendor: "enhancedlabs"
+product_type: "Supplements - health"
+price: 318.76
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 191.26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2023-06-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/502452?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/502452"
+language: "en"
+---
 # Black Ox - Hardcore Test Enhancer
 
 > Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](../../reviews/black-ox-hardcore-test-enhancer-44566.html)

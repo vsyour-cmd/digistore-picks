@@ -1,3 +1,24 @@
+---
+product_id: "46812"
+digistore24_product_id: 530683
+title: "Empowered Parenting: Boosting School Engagement"
+vendor: "togetr4success"
+product_type: "Member area and video courses"
+price: 363.55
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 181.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2023-12-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://togetr4success.thinkific.com/bundles/togetr4success?aff=adminstore#aff=adminstore"
+sales_page: "https://togetr4success.thinkific.com/bundles/togetr4success"
+language: "en"
+---
 # Empowered Parenting: Boosting School Engagement
 
 > Product ID `46812` · Digistore24 productId `530683` · [HTML profile page](../../reviews/empowered-parenting-boosting-school-engagement-46812.html)

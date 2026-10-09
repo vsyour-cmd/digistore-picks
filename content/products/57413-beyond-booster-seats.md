@@ -1,3 +1,24 @@
+---
+product_id: "57413"
+digistore24_product_id: 708469
+title: "Beyond Booster Seats"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oraclefx.org/Beyond-Booster-Seats/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Beyond-Booster-Seats/Sales-page.html"
+language: "en"
+---
 # Beyond Booster Seats
 
 > Product ID `57413` · Digistore24 productId `708469` · [HTML profile page](../../reviews/beyond-booster-seats-57413.html)

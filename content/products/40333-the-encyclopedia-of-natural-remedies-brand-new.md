@@ -1,3 +1,24 @@
+---
+product_id: "40333"
+digistore24_product_id: 446313
+title: "The Encyclopedia of Natural Remedies- Brand New "
+vendor: "dailyhealth"
+product_type: "E-books"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2022-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://wsl.365dailyhealth.com/encyclopedia1?aff=adminstore#aff=adminstore"
+sales_page: "https://wsl.365dailyhealth.com/encyclopedia1"
+language: "en"
+---
 # The Encyclopedia of Natural Remedies- Brand New 
 
 > Product ID `40333` · Digistore24 productId `446313` · [HTML profile page](../../reviews/the-encyclopedia-of-natural-remedies-brand-new-40333.html)

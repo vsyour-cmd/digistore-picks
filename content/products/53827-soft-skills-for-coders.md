@@ -1,3 +1,24 @@
+---
+product_id: "53827"
+digistore24_product_id: 633830
+title: "Soft Skills for Coders"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Profession & Job","Software"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633830?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633830"
+language: "en"
+---
 # Soft Skills for Coders
 
 > Product ID `53827` · Digistore24 productId `633830` · [HTML profile page](../../reviews/soft-skills-for-coders-53827.html)

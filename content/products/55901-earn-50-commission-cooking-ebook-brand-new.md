@@ -1,3 +1,24 @@
+---
+product_id: "55901"
+digistore24_product_id: 675076
+title: "Earn 50% Commission | Cooking eBook | Brand New"
+vendor: "Obedsco"
+product_type: "E-books"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Food & Drink","Personal Development"]
+listed_since: "2026-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.obedsco.com/cookingbetter?aff=adminstore#aff=adminstore"
+sales_page: "https://www.obedsco.com/cookingbetter"
+language: "en"
+---
 # Earn 50% Commission | Cooking eBook | Brand New
 
 > Product ID `55901` · Digistore24 productId `675076` · [HTML profile page](../../reviews/earn-50-commission-cooking-ebook-brand-new-55901.html)

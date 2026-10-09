@@ -1,3 +1,24 @@
+---
+product_id: "59253"
+digistore24_product_id: 733747
+title: "The Faith Blueprint"
+vendor: "amalindatalks48ea"
+product_type: "Member area and video courses"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 9.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thefaithblueprint-q5s.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thefaithblueprint-q5s.plannerpack.co"
+language: "en"
+---
 # The Faith Blueprint
 
 > Product ID `59253` · Digistore24 productId `733747` · [HTML profile page](../../reviews/the-faith-blueprint-59253.html)

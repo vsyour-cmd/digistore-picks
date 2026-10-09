@@ -1,3 +1,24 @@
+---
+product_id: "57008"
+digistore24_product_id: 702066
+title: "Little Farmers Learning Bundle + Bonus Digital Learning Tool"
+vendor: "BerryOS"
+product_type: "Downloads"
+price: 8.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://berryoperatingsystems.my.canva.site/learning-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://berryoperatingsystems.my.canva.site/learning-bundle"
+language: "en"
+---
 # Little Farmers Learning Bundle + Bonus Digital Learning Tool
 
 > Product ID `57008` · Digistore24 productId `702066` · [HTML profile page](../../reviews/little-farmers-learning-bundle-bonus-digital-learning-tool-57008.html)

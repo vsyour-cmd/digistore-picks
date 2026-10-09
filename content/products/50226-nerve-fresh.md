@@ -1,3 +1,24 @@
+---
+product_id: "50226"
+digistore24_product_id: 575363
+title: "Nerve Fresh"
+vendor: "premvitality"
+product_type: "Supplements - health"
+price: 181.16
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 109.88
+cart_conversion_pct: 10
+cancel_rate_pct: 14.07
+categories: ["Food Supplements"]
+listed_since: "2024-10-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://secure.nervefresh.com/index-nf-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://secure.nervefresh.com/index-nf-ds"
+language: "en"
+---
 # Nerve Fresh
 
 > Product ID `50226` · Digistore24 productId `575363` · [HTML profile page](../../reviews/nerve-fresh-50226.html)

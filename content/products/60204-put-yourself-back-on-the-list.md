@@ -1,3 +1,24 @@
+---
+product_id: "60204"
+digistore24_product_id: 738544
+title: "Put Yourself Back On The List"
+vendor: "JettVitalWomen"
+product_type: "Member area and video courses"
+price: 20
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://putyourselfbackonthelist-w4x.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://putyourselfbackonthelist-w4x.plannerpack.co"
+language: "en"
+---
 # Put Yourself Back On The List
 
 > Product ID `60204` · Digistore24 productId `738544` · [HTML profile page](../../reviews/put-yourself-back-on-the-list-60204.html)

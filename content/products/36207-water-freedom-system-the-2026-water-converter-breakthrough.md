@@ -1,3 +1,24 @@
+---
+product_id: "36207"
+digistore24_product_id: 569324
+title: "Water Freedom System: The 2026 Water Converter Breakthrough"
+vendor: "waterfs"
+product_type: "Book (printed)"
+price: 39.69
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 35.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2021-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://getwaterfreedomsystem.com/index-auto-vturb-cinematic-pbs-lead-2.html?aff=adminstore#aff=adminstore"
+sales_page: "https://getwaterfreedomsystem.com/index-auto-vturb-cinematic-pbs-lead-2.html"
+language: "en"
+---
 # Water Freedom System: The 2026 Water Converter Breakthrough
 
 > Product ID `36207` · Digistore24 productId `569324` · [HTML profile page](../../reviews/water-freedom-system-the-2026-water-converter-breakthrough-36207.html)

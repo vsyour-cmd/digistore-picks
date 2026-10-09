@@ -1,3 +1,24 @@
+---
+product_id: "48315"
+digistore24_product_id: 552629
+title: "TribalForce X"
+vendor: "TribalForceX"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tribalforcex24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://tribalforcex24.com/text.php"
+language: "en"
+---
 # TribalForce X
 
 > Product ID `48315` · Digistore24 productId `552629` · [HTML profile page](../../reviews/tribalforce-x-48315.html)

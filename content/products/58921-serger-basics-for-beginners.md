@@ -1,3 +1,24 @@
+---
+product_id: "58921"
+digistore24_product_id: 729724
+title: "Serger Basics for Beginners"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2026-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/729724?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/729724"
+language: "en"
+---
 # Serger Basics for Beginners
 
 > Product ID `58921` · Digistore24 productId `729724` · [HTML profile page](../../reviews/serger-basics-for-beginners-58921.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42184"
+digistore24_product_id: 475159
+title: "Norwegian course (advanced) based on a story (Nils)"
+vendor: "Skapago"
+product_type: "Member area and video courses"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 83.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2022-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore"
+sales_page: "https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds"
+language: "en"
+---
 # Norwegian course (advanced) based on a story (Nils)
 
 > Product ID `42184` · Digistore24 productId `475159` · [HTML profile page](../../reviews/norwegian-course-advanced-based-on-a-story-nils-42184.html)

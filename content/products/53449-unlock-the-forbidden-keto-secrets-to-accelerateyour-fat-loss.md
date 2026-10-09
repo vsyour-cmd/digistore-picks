@@ -1,3 +1,24 @@
+---
+product_id: "53449"
+digistore24_product_id: 630881
+title: "Unlock the Forbidden Keto Secrets to AccelerateYour Fat Loss"
+vendor: "fkcproject"
+product_type: "Downloads"
+price: 8.95
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 3.04
+cart_conversion_pct: 1
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Online Marketing & E-Business"]
+listed_since: "2025-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/630881?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/630881"
+language: "en"
+---
 # Unlock the Forbidden Keto Secrets to AccelerateYour Fat Loss
 
 > Product ID `53449` · Digistore24 productId `630881` · [HTML profile page](../../reviews/unlock-the-forbidden-keto-secrets-to-accelerateyour-fat-loss-53449.html)

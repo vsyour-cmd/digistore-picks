@@ -1,3 +1,24 @@
+---
+product_id: "43300"
+digistore24_product_id: 470989
+title: "Flamenco Guitar Online Course"
+vendor: "Guitarschool24"
+product_type: "Member area and video courses"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 23.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2022-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.guitarschool24.com/flamenco-guitar-method?aff=adminstore#aff=adminstore"
+sales_page: "https://www.guitarschool24.com/flamenco-guitar-method"
+language: "en"
+---
 # Flamenco Guitar Online Course
 
 > Product ID `43300` · Digistore24 productId `470989` · [HTML profile page](../../reviews/flamenco-guitar-online-course-43300.html)

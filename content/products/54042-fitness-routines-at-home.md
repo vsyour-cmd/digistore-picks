@@ -1,3 +1,24 @@
+---
+product_id: "54042"
+digistore24_product_id: 636018
+title: "Fitness Routines at Home"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2025-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636018?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636018"
+language: "en"
+---
 # Fitness Routines at Home
 
 > Product ID `54042` · Digistore24 productId `636018` · [HTML profile page](../../reviews/fitness-routines-at-home-54042.html)

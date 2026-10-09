@@ -1,3 +1,24 @@
+---
+product_id: "55295"
+digistore24_product_id: 662877
+title: "Dubai Wealth Secret - Monster Offer From Top Platinum Vendor"
+vendor: "destinyaff"
+product_type: "Downloads"
+price: 48.63
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 42
+cart_conversion_pct: 12
+cancel_rate_pct: 12.66
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-01-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.dubaiwealthsecret.com/ds-dws-vsl?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dubaiwealthsecret.com/ds-dws-vsl"
+language: "en"
+---
 # Dubai Wealth Secret - Monster Offer From Top Platinum Vendor
 
 > Product ID `55295` · Digistore24 productId `662877` · [HTML profile page](../../reviews/dubai-wealth-secret-monster-offer-from-top-platinum-vendor-55295.html)

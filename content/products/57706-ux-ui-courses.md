@@ -1,3 +1,24 @@
+---
+product_id: "57706"
+digistore24_product_id: 714709
+title: "ux/ui courses"
+vendor: "litvipenkoadfc"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 12.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://uxuicourses-fe0.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://uxuicourses-fe0.plannerpack.fun"
+language: "en"
+---
 # ux/ui courses
 
 > Product ID `57706` · Digistore24 productId `714709` · [HTML profile page](../../reviews/ux-ui-courses-57706.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57726"
+digistore24_product_id: 714949
+title: "just for you"
+vendor: "team24-mszadkowska"
+product_type: "Deliverable"
+price: 18
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 5.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Fashion"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/714949?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/714949"
+language: "en"
+---
 # just for you
 
 > Product ID `57726` · Digistore24 productId `714949` · [HTML profile page](../../reviews/just-for-you-57726.html)

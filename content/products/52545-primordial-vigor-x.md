@@ -1,3 +1,24 @@
+---
+product_id: "52545"
+digistore24_product_id: 605523
+title: "Primordial Vigor X"
+vendor: "KoalaAdvertising"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 50.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://goprimordialvigorx.com/read?aff=adminstore#aff=adminstore"
+sales_page: "https://goprimordialvigorx.com/read"
+language: "en"
+---
 # Primordial Vigor X
 
 > Product ID `52545` · Digistore24 productId `605523` · [HTML profile page](../../reviews/primordial-vigor-x-52545.html)

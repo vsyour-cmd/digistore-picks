@@ -1,3 +1,24 @@
+---
+product_id: "54294"
+digistore24_product_id: 639953
+title: "Earn 70%  Promote the Understanding Hypertension Ebook"
+vendor: "Fitlifesolutions"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 29.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pages.fitlifesolutions.site/sales/?id=639953&aff=adminstore#aff=adminstore"
+sales_page: "https://pages.fitlifesolutions.site/sales/?id=639953"
+language: "en"
+---
 # Earn 70%  Promote the Understanding Hypertension Ebook
 
 > Product ID `54294` · Digistore24 productId `639953` · [HTML profile page](../../reviews/earn-70-promote-the-understanding-hypertension-ebook-54294.html)

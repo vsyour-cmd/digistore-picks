@@ -1,3 +1,24 @@
+---
+product_id: "58855"
+digistore24_product_id: 727639
+title: "The Ultimate Kids Mega Bundle: 3 Stories + 3 Coloring Books"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 19.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 13.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727639?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727639"
+language: "en"
+---
 # The Ultimate Kids Mega Bundle: 3 Stories + 3 Coloring Books
 
 > Product ID `58855` · Digistore24 productId `727639` · [HTML profile page](../../reviews/the-ultimate-kids-mega-bundle-3-stories-3-coloring-books-58855.html)

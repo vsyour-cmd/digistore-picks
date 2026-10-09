@@ -1,3 +1,24 @@
+---
+product_id: "56824"
+digistore24_product_id: 698975
+title: "Promote BillMatik – 30% Recurring Commission"
+vendor: "MentorSuccess"
+product_type: "Software"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 29.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2026-06-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://billmatik.mentorsucces.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://billmatik.mentorsucces.com/"
+language: "en"
+---
 # Promote BillMatik – 30% Recurring Commission
 
 > Product ID `56824` · Digistore24 productId `698975` · [HTML profile page](../../reviews/promote-billmatik-30-recurring-commission-56824.html)

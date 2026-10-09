@@ -1,3 +1,24 @@
+---
+product_id: "52093"
+digistore24_product_id: 606698
+title: "Advanced Prostate Formula"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 55.87
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 33.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-04-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm"
+language: "en"
+---
 # Advanced Prostate Formula
 
 > Product ID `52093` · Digistore24 productId `606698` · [HTML profile page](../../reviews/advanced-prostate-formula-52093.html)

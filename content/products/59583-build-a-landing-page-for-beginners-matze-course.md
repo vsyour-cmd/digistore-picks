@@ -1,3 +1,24 @@
+---
+product_id: "59583"
+digistore24_product_id: 736409
+title: "Build a Landing Page for Beginners – Matze Course"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 35.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Profession & Job","Online Marketing"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736409?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736409"
+language: "en"
+---
 # Build a Landing Page for Beginners – Matze Course
 
 > Product ID `59583` · Digistore24 productId `736409` · [HTML profile page](../../reviews/build-a-landing-page-for-beginners-matze-course-59583.html)

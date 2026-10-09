@@ -1,3 +1,24 @@
+---
+product_id: "54334"
+digistore24_product_id: 640320
+title: "Pinterest and Facebook Marketing Bundle"
+vendor: "jabbusiness"
+product_type: "Downloads"
+price: 17.42
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services","Social Media","Sales Training"]
+listed_since: "2025-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/640320?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/640320"
+language: "en"
+---
 # Pinterest and Facebook Marketing Bundle
 
 > Product ID `54334` · Digistore24 productId `640320` · [HTML profile page](../../reviews/pinterest-and-facebook-marketing-bundle-54334.html)

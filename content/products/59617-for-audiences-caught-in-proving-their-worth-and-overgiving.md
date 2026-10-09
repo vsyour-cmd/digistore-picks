@@ -1,3 +1,24 @@
+---
+product_id: "59617"
+digistore24_product_id: 735128
+title: "For audiences caught in proving their worth and overgiving"
+vendor: "hdwithgloria26"
+product_type: "Downloads"
+price: 53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.humandesignexperiences.com/the-chamber-of-promises?aff=adminstore#aff=adminstore"
+sales_page: "https://www.humandesignexperiences.com/the-chamber-of-promises"
+language: "en"
+---
 # For audiences caught in proving their worth and overgiving
 
 > Product ID `59617` · Digistore24 productId `735128` · [HTML profile page](../../reviews/for-audiences-caught-in-proving-their-worth-and-overgiving-59617.html)

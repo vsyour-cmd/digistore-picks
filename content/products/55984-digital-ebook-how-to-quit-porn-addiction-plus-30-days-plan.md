@@ -1,3 +1,24 @@
+---
+product_id: "55984"
+digistore24_product_id: 675871
+title: "Digital Ebook how to quit porn addiction plus 30 days plan"
+vendor: "filipm3642c0e"
+product_type: "E-books"
+price: 24.61
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-03-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/675871?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/675871"
+language: "en"
+---
 # Digital Ebook how to quit porn addiction plus 30 days plan
 
 > Product ID `55984` · Digistore24 productId `675871` · [HTML profile page](../../reviews/digital-ebook-how-to-quit-porn-addiction-plus-30-days-plan-55984.html)

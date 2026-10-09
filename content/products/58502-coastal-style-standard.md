@@ -1,3 +1,24 @@
+---
+product_id: "58502"
+digistore24_product_id: 714275
+title: "Coastal Style - Standard"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-08-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/714275?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/714275"
+language: "en"
+---
 # Coastal Style - Standard
 
 > Product ID `58502` · Digistore24 productId `714275` · [HTML profile page](../../reviews/coastal-style-standard-58502.html)

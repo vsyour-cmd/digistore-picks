@@ -1,3 +1,24 @@
+---
+product_id: "53493"
+digistore24_product_id: 627583
+title: "Graphics Design Assets - Illustrator and Canva"
+vendor: "assetslibrary"
+product_type: "Downloads"
+price: 7.99
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Marketing Services"]
+listed_since: "2025-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/627583?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/627583"
+language: "en"
+---
 # Graphics Design Assets - Illustrator and Canva
 
 > Product ID `53493` · Digistore24 productId `627583` · [HTML profile page](../../reviews/graphics-design-assets-illustrator-and-canva-53493.html)

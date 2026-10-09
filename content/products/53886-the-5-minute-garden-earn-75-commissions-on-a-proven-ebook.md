@@ -1,3 +1,24 @@
+---
+product_id: "53886"
+digistore24_product_id: 634598
+title: "The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook."
+vendor: "darrelltee"
+product_type: "E-books"
+price: 27.91
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 65.67
+cart_conversion_pct: 6
+cancel_rate_pct: 0
+categories: ["Home & Garden"]
+listed_since: "2025-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/5-minute-garden?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/5-minute-garden"
+language: "en"
+---
 # The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook.
 
 > Product ID `53886` · Digistore24 productId `634598` · [HTML profile page](../../reviews/the-5-minute-garden-earn-75-commissions-on-a-proven-ebook-53886.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57566"
+digistore24_product_id: 711962
+title: "American Sign Language 1"
+vendor: "asltutor13589b"
+product_type: "Member area and video courses"
+price: 75
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 26.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://americansignlanguage1-4xd.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://americansignlanguage1-4xd.plannerpack.co"
+language: "en"
+---
 # American Sign Language 1
 
 > Product ID `57566` · Digistore24 productId `711962` · [HTML profile page](../../reviews/american-sign-language-1-57566.html)

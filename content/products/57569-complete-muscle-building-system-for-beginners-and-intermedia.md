@@ -1,3 +1,24 @@
+---
+product_id: "57569"
+digistore24_product_id: 711187
+title: "Complete Muscle-Building System for Beginners and Intermedia"
+vendor: "Hustler_academy"
+product_type: "E-books"
+price: 31.25
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 18.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://themusclebuildingguide.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "http://themusclebuildingguide.netlify.app"
+language: "en"
+---
 # Complete Muscle-Building System for Beginners and Intermedia
 
 > Product ID `57569` · Digistore24 productId `711187` · [HTML profile page](../../reviews/complete-muscle-building-system-for-beginners-and-intermedia-57569.html)

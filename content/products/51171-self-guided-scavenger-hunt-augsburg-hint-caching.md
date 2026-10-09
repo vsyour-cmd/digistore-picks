@@ -1,3 +1,24 @@
+---
+product_id: "51171"
+digistore24_product_id: 555847
+title: "Self-guided scavenger hunt Augsburg | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2024-06-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.hint-caching.com/scavenger-hunt-augsburg/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hint-caching.com/scavenger-hunt-augsburg/"
+language: "en"
+---
 # Self-guided scavenger hunt Augsburg | Hint-Caching
 
 > Product ID `51171` · Digistore24 productId `555847` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-augsburg-hint-caching-51171.html)

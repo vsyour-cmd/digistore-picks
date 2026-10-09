@@ -1,3 +1,24 @@
+---
+product_id: "59146"
+digistore24_product_id: 732701
+title: "Audi is a Cool Car"
+vendor: "tornikeinjgiaaa87"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://auditete-ql6.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://auditete-ql6.plannerpack.fun"
+language: "en"
+---
 # Audi is a Cool Car
 
 > Product ID `59146` · Digistore24 productId `732701` · [HTML profile page](../../reviews/audi-is-a-cool-car-59146.html)

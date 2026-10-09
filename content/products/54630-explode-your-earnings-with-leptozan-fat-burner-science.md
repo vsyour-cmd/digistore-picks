@@ -1,3 +1,24 @@
+---
+product_id: "54630"
+digistore24_product_id: 644659
+title: "Explode Your Earnings with Leptozan • Fat Burner Science"
+vendor: "leptozan"
+product_type: "Supplements - for slimming"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 213.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2025-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.leptozan.com/ds/newdiscovery/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.leptozan.com/ds/newdiscovery/"
+language: "en"
+---
 # Explode Your Earnings with Leptozan • Fat Burner Science
 
 > Product ID `54630` · Digistore24 productId `644659` · [HTML profile page](../../reviews/explode-your-earnings-with-leptozan-fat-burner-science-54630.html)

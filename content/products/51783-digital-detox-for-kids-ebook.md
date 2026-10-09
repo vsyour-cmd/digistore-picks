@@ -1,3 +1,24 @@
+---
+product_id: "51783"
+digistore24_product_id: 602583
+title: "Digital Detox for Kids - eBook"
+vendor: "AAnchorBiz"
+product_type: "E-books"
+price: 15.65
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 29.43
+cart_conversion_pct: 5
+cancel_rate_pct: 7.82
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-03-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aanchorbiz.com/digital-detox-for-kids-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://aanchorbiz.com/digital-detox-for-kids-frontend/"
+language: "en"
+---
 # Digital Detox for Kids - eBook
 
 > Product ID `51783` · Digistore24 productId `602583` · [HTML profile page](../../reviews/digital-detox-for-kids-ebook-51783.html)

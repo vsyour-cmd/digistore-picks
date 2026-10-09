@@ -1,3 +1,24 @@
+---
+product_id: "53054"
+digistore24_product_id: 619569
+title: "Prime Perform Supplement EN"
+vendor: "thankyouchoice"
+product_type: "Supplements - health"
+price: 203.18
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 110.73
+cart_conversion_pct: 3
+cancel_rate_pct: 8.56
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2025-06-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://primeperformpro.com/welcome/?aff=adminstore#aff=adminstore"
+sales_page: "https://primeperformpro.com/welcome/"
+language: "en"
+---
 # Prime Perform Supplement EN
 
 > Product ID `53054` · Digistore24 productId `619569` · [HTML profile page](../../reviews/prime-perform-supplement-en-53054.html)

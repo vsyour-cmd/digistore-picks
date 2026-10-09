@@ -1,3 +1,24 @@
+---
+product_id: "54512"
+digistore24_product_id: 644547
+title: "Quantum Wealth Frequencies"
+vendor: "darrelltee"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 22.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2025-10-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies"
+language: "en"
+---
 # Quantum Wealth Frequencies
 
 > Product ID `54512` · Digistore24 productId `644547` · [HTML profile page](../../reviews/quantum-wealth-frequencies-54512.html)

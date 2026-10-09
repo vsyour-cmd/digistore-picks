@@ -1,3 +1,24 @@
+---
+product_id: "59207"
+digistore24_product_id: 732973
+title: "The Frugal Kitchen Complete Bundle"
+vendor: "tworebelsoffgrid916f"
+product_type: "Member area and video courses"
+price: 24.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 10
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thefrugalkitchen-tw2.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thefrugalkitchen-tw2.plannerpack.co"
+language: "en"
+---
 # The Frugal Kitchen Complete Bundle
 
 > Product ID `59207` · Digistore24 productId `732973` · [HTML profile page](../../reviews/the-frugal-kitchen-complete-bundle-59207.html)

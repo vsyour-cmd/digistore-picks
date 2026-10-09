@@ -1,3 +1,24 @@
+---
+product_id: "48803"
+digistore24_product_id: 564237
+title: "Make your writing standout with an AI Assistant"
+vendor: "team24-hnagarajan"
+product_type: "Online coaching"
+price: 55.93
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Betting Systems","Software","Online Marketing"]
+listed_since: "2024-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore"
+sales_page: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching"
+language: "en"
+---
 # Make your writing standout with an AI Assistant
 
 > Product ID `48803` · Digistore24 productId `564237` · [HTML profile page](../../reviews/make-your-writing-standout-with-an-ai-assistant-48803.html)

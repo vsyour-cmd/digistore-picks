@@ -1,3 +1,24 @@
+---
+product_id: "49960"
+digistore24_product_id: 574095
+title: "1000+ ChatGPT Prompts for your Online Marketing"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 33.22
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 16.61
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/1000-chatgpt-prompts-for-online-marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/1000-chatgpt-prompts-for-online-marketing/"
+language: "en"
+---
 # 1000+ ChatGPT Prompts for your Online Marketing
 
 > Product ID `49960` · Digistore24 productId `574095` · [HTML profile page](../../reviews/1000-chatgpt-prompts-for-your-online-marketing-49960.html)

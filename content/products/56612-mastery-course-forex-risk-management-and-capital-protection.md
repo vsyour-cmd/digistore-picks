@@ -1,3 +1,24 @@
+---
+product_id: "56612"
+digistore24_product_id: 693493
+title: "Mastery Course-Forex Risk Management and Capital Protection"
+vendor: "oraclefx"
+product_type: "Member area and video courses"
+price: 50
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oraclefx.org/courses/risk-management-strategies-in-trading/?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/courses/risk-management-strategies-in-trading/"
+language: "en"
+---
 # Mastery Course-Forex Risk Management and Capital Protection
 
 > Product ID `56612` · Digistore24 productId `693493` · [HTML profile page](../../reviews/mastery-course-forex-risk-management-and-capital-protection-56612.html)

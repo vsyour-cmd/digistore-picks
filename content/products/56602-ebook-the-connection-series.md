@@ -1,3 +1,24 @@
+---
+product_id: "56602"
+digistore24_product_id: 693994
+title: "Ebook - The Connection Series"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/693994?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/693994"
+language: "en"
+---
 # Ebook - The Connection Series
 
 > Product ID `56602` · Digistore24 productId `693994` · [HTML profile page](../../reviews/ebook-the-connection-series-56602.html)

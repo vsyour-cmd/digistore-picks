@@ -1,3 +1,24 @@
+---
+product_id: "54013"
+digistore24_product_id: 635717
+title: "Overcoming Procrastination"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Profession & Job"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635717?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635717"
+language: "en"
+---
 # Overcoming Procrastination
 
 > Product ID `54013` · Digistore24 productId `635717` · [HTML profile page](../../reviews/overcoming-procrastination-54013.html)

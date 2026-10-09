@@ -1,3 +1,24 @@
+---
+product_id: "59461"
+digistore24_product_id: 735503
+title: "Customer Service Team Leader Starter Kit (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 39.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Leadership & Management"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/735503?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735503"
+language: "en"
+---
 # Customer Service Team Leader Starter Kit (English)
 
 > Product ID `59461` · Digistore24 productId `735503` · [HTML profile page](../../reviews/customer-service-team-leader-starter-kit-english-59461.html)

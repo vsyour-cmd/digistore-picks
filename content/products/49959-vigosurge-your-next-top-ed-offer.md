@@ -1,3 +1,24 @@
+---
+product_id: "49959"
+digistore24_product_id: 571050
+title: "VigoSurge - Your Next Top ED Offer"
+vendor: "vigosurge"
+product_type: "Supplements - health"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 57.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getvigosurge.cc/vs-discovery?aff=adminstore#aff=adminstore"
+sales_page: "https://getvigosurge.cc/vs-discovery"
+language: "en"
+---
 # VigoSurge - Your Next Top ED Offer
 
 > Product ID `49959` · Digistore24 productId `571050` · [HTML profile page](../../reviews/vigosurge-your-next-top-ed-offer-49959.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53050"
+digistore24_product_id: 621680
+title: "AI + Profit Masterclass"
+vendor: "izipayments"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 16.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2025-07-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/621680?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/621680"
+language: "en"
+---
 # AI + Profit Masterclass
 
 > Product ID `53050` · Digistore24 productId `621680` · [HTML profile page](../../reviews/ai-profit-masterclass-53050.html)

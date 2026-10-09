@@ -1,3 +1,24 @@
+---
+product_id: "42124"
+digistore24_product_id: 455348
+title: "Smartphone Filmmaking Pro - Membership"
+vendor: "SFP-Media1121"
+product_type: "Member area and video courses"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 82.22
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Photography & Film"]
+listed_since: "2022-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://go.smartphonefilmmakingpro.com/premium-affiliate?aff=adminstore#aff=adminstore"
+sales_page: "https://go.smartphonefilmmakingpro.com/premium-affiliate"
+language: "en"
+---
 # Smartphone Filmmaking Pro - Membership
 
 > Product ID `42124` · Digistore24 productId `455348` · [HTML profile page](../../reviews/smartphone-filmmaking-pro-membership-42124.html)

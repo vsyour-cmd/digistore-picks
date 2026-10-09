@@ -1,3 +1,24 @@
+---
+product_id: "57449"
+digistore24_product_id: 709501
+title: "The Traffic Makers Social Media Course"
+vendor: "therachelmiller4333"
+product_type: "Member area and video courses"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 33.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thetrafficmakerssocialmediacourse-nm1.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://thetrafficmakerssocialmediacourse-nm1.plannerpack.fun"
+language: "en"
+---
 # The Traffic Makers Social Media Course
 
 > Product ID `57449` · Digistore24 productId `709501` · [HTML profile page](../../reviews/the-traffic-makers-social-media-course-57449.html)

@@ -1,3 +1,24 @@
+---
+product_id: "41823"
+digistore24_product_id: 471054
+title: "No Grid Survival Projects – BRAND NEW!"
+vendor: "nogridpr"
+product_type: "Book (printed)"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 27.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2022-11-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore"
+sales_page: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/"
+language: "en"
+---
 # No Grid Survival Projects – BRAND NEW!
 
 > Product ID `41823` · Digistore24 productId `471054` · [HTML profile page](../../reviews/no-grid-survival-projects-brand-new-41823.html)

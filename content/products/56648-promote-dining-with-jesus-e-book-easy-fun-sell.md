@@ -1,3 +1,24 @@
+---
+product_id: "56648"
+digistore24_product_id: 689000
+title: "Promote \"Dining With Jesus\" | E-book | Easy Fun Sell!"
+vendor: "urgencyweightloss7905"
+product_type: "Downloads"
+price: 12.99
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 8.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-05-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://diningwithjesus.my.canva.site/?aff=adminstore#aff=adminstore"
+sales_page: "https://diningwithjesus.my.canva.site/"
+language: "en"
+---
 # Promote "Dining With Jesus" | E-book | Easy Fun Sell!
 
 > Product ID `56648` · Digistore24 productId `689000` · [HTML profile page](../../reviews/promote-dining-with-jesus-e-book-easy-fun-sell-56648.html)

@@ -1,3 +1,24 @@
+---
+product_id: "47080"
+digistore24_product_id: 526858
+title: "Internet Millionaire"
+vendor: "internets"
+product_type: "Member area and video courses"
+price: 2237.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1118.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Finances"]
+listed_since: "2023-11-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.internetmillionaire.com/training?aff=adminstore#aff=adminstore"
+sales_page: "https://www.internetmillionaire.com/training"
+language: "en"
+---
 # Internet Millionaire
 
 > Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53802"
+digistore24_product_id: 633490
+title: "Speak Like a Native"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Personal Development"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633490?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633490"
+language: "en"
+---
 # Speak Like a Native
 
 > Product ID `53802` · Digistore24 productId `633490` · [HTML profile page](../../reviews/speak-like-a-native-53802.html)

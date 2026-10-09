@@ -1,3 +1,24 @@
+---
+product_id: "41824"
+digistore24_product_id: 391226
+title: "Forager's Guide to Wild Foods – BRAND NEW!"
+vendor: "fguide"
+product_type: "Book (printed)"
+price: 48.59
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 25.26
+cart_conversion_pct: 28
+cancel_rate_pct: 1.83
+categories: ["Survival"]
+listed_since: "2021-05-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://foragersguide.com/nws-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://foragersguide.com/nws-book/"
+language: "en"
+---
 # Forager's Guide to Wild Foods – BRAND NEW!
 
 > Product ID `41824` · Digistore24 productId `391226` · [HTML profile page](../../reviews/forager-s-guide-to-wild-foods-brand-new-41824.html)

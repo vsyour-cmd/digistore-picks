@@ -1,3 +1,24 @@
+---
+product_id: "53463"
+digistore24_product_id: 629110
+title: "LingChat - Get Fluent wit AI"
+vendor: "secondwavetech"
+product_type: "Software"
+price: 78.29
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 46.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Software"]
+listed_since: "2025-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.lingchat.pro/dg_sale.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.lingchat.pro/dg_sale.html"
+language: "en"
+---
 # LingChat - Get Fluent wit AI
 
 > Product ID `53463` · Digistore24 productId `629110` · [HTML profile page](../../reviews/lingchat-get-fluent-wit-ai-53463.html)

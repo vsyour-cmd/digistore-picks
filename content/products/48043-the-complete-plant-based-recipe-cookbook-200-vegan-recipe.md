@@ -1,3 +1,24 @@
+---
+product_id: "48043"
+digistore24_product_id: 550988
+title: "The Complete Plant Based Recipe Cookbook - 200+ Vegan Recipe"
+vendor: "plantbasedresource"
+product_type: "E-books"
+price: 17
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 12.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2024-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.plantbasedcookbook.com/ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.plantbasedcookbook.com/ds/"
+language: "en"
+---
 # The Complete Plant Based Recipe Cookbook - 200+ Vegan Recipe
 
 > Product ID `48043` · Digistore24 productId `550988` · [HTML profile page](../../reviews/the-complete-plant-based-recipe-cookbook-200-vegan-recipe-48043.html)

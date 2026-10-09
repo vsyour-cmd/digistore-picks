@@ -1,3 +1,24 @@
+---
+product_id: "54006"
+digistore24_product_id: 635724
+title: "Email Marketing Made Simple"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635724?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635724"
+language: "en"
+---
 # Email Marketing Made Simple
 
 > Product ID `54006` · Digistore24 productId `635724` · [HTML profile page](../../reviews/email-marketing-made-simple-54006.html)

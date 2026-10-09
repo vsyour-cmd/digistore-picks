@@ -1,3 +1,24 @@
+---
+product_id: "56855"
+digistore24_product_id: 672992
+title: "Stop Overthinking Guide with a Simple 4-Step System"
+vendor: "CalmFuture"
+product_type: "E-books"
+price: 31
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 12.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-06-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://calmfuture.online?aff=adminstore#aff=adminstore"
+sales_page: "https://calmfuture.online"
+language: "en"
+---
 # Stop Overthinking Guide with a Simple 4-Step System
 
 > Product ID `56855` · Digistore24 productId `672992` · [HTML profile page](../../reviews/stop-overthinking-guide-with-a-simple-4-step-system-56855.html)

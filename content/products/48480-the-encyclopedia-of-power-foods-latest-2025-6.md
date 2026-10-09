@@ -1,3 +1,24 @@
+---
+product_id: "48480"
+digistore24_product_id: 557828
+title: "The Encyclopedia of Power Foods- Latest 2025/6!"
+vendor: "dailyhealth"
+product_type: "E-books"
+price: 45.01
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 28
+cart_conversion_pct: 16
+cancel_rate_pct: 8.97
+categories: ["Health & Fitness"]
+listed_since: "2024-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=adminstore#aff=adminstore"
+sales_page: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177"
+language: "en"
+---
 # The Encyclopedia of Power Foods- Latest 2025/6!
 
 > Product ID `48480` · Digistore24 productId `557828` · [HTML profile page](../../reviews/the-encyclopedia-of-power-foods-latest-2025-6-48480.html)

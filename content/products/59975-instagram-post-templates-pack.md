@@ -1,3 +1,24 @@
+---
+product_id: "59975"
+digistore24_product_id: 737230
+title: "Instagram Post Templates Pack"
+vendor: "xarutacom"
+product_type: "Downloads"
+price: 25.73
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 6.43
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://xaruta4.wordpress.com/instagram-template-pack/?aff=adminstore#aff=adminstore"
+sales_page: "https://xaruta4.wordpress.com/instagram-template-pack/"
+language: "en"
+---
 # Instagram Post Templates Pack
 
 > Product ID `59975` · Digistore24 productId `737230` · [HTML profile page](../../reviews/instagram-post-templates-pack-59975.html)

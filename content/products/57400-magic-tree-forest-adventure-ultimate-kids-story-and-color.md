@@ -1,3 +1,24 @@
+---
+product_id: "57400"
+digistore24_product_id: 698913
+title: "Magic Tree Forest Adventure – Ultimate Kids’ Story and Color"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/698913?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/698913"
+language: "en"
+---
 # Magic Tree Forest Adventure – Ultimate Kids’ Story and Color
 
 > Product ID `57400` · Digistore24 productId `698913` · [HTML profile page](../../reviews/magic-tree-forest-adventure-ultimate-kids-story-and-color-57400.html)

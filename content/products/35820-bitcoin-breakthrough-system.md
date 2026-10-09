@@ -1,3 +1,24 @@
+---
+product_id: "35820"
+digistore24_product_id: 372937
+title: "Bitcoin Breakthrough System"
+vendor: "crypto2021"
+product_type: "Member area and video courses"
+price: 133.9
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 66.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2021-02-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://legacy.groovepages.com/bitcoin-special/index?aff=adminstore#aff=adminstore"
+sales_page: "https://legacy.groovepages.com/bitcoin-special/index"
+language: "en"
+---
 # Bitcoin Breakthrough System
 
 > Product ID `35820` · Digistore24 productId `372937` · [HTML profile page](../../reviews/bitcoin-breakthrough-system-35820.html)

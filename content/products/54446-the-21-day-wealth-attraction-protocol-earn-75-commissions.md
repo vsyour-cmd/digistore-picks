@@ -1,3 +1,24 @@
+---
+product_id: "54446"
+digistore24_product_id: 642261
+title: "The 21-Day Wealth Attraction Protocol | Earn 75% Commissions"
+vendor: "darrelltee"
+product_type: "Member area and video courses"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 22.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2025-10-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl"
+language: "en"
+---
 # The 21-Day Wealth Attraction Protocol | Earn 75% Commissions
 
 > Product ID `54446` · Digistore24 productId `642261` · [HTML profile page](../../reviews/the-21-day-wealth-attraction-protocol-earn-75-commissions-54446.html)

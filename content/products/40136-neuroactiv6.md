@@ -1,3 +1,24 @@
+---
+product_id: "40136"
+digistore24_product_id: 442614
+title: "NeuroActiv6"
+vendor: "naturalcell"
+product_type: "Supplements - health"
+price: 257.27
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 64.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2022-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.naturalcell.com/mental-energy/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.naturalcell.com/mental-energy/"
+language: "en"
+---
 # NeuroActiv6
 
 > Product ID `40136` · Digistore24 productId `442614` · [HTML profile page](../../reviews/neuroactiv6-40136.html)

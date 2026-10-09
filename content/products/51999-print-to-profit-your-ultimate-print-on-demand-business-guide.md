@@ -1,3 +1,24 @@
+---
+product_id: "51999"
+digistore24_product_id: 606273
+title: "Print to Profit:Your Ultimate Print on Demand Business Guide"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 63.76
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 31.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Services"]
+listed_since: "2025-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/606273?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/606273"
+language: "en"
+---
 # Print to Profit:Your Ultimate Print on Demand Business Guide
 
 > Product ID `51999` · Digistore24 productId `606273` · [HTML profile page](../../reviews/print-to-profit-your-ultimate-print-on-demand-business-guide-51999.html)

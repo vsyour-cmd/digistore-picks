@@ -1,3 +1,24 @@
+---
+product_id: "55362"
+digistore24_product_id: 661303
+title: "75% Comm | The \"EQ Accelerator\" for Corporate Leaders | Burn"
+vendor: "PlanetaVida"
+product_type: "Member area and video courses"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 15.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Profession & Job"]
+listed_since: "2026-01-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.pv-en.com/front-end-offers-eq-accelerator-d24-usa?aff=adminstore#aff=adminstore"
+sales_page: "https://www.pv-en.com/front-end-offers-eq-accelerator-d24-usa"
+language: "en"
+---
 # 75% Comm | The "EQ Accelerator" for Corporate Leaders | Burn
 
 > Product ID `55362` · Digistore24 productId `661303` · [HTML profile page](../../reviews/75-comm-the-eq-accelerator-for-corporate-leaders-burn-55362.html)

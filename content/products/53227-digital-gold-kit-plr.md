@@ -1,3 +1,24 @@
+---
+product_id: "53227"
+digistore24_product_id: 624648
+title: "Digital Gold Kit Plr"
+vendor: "daianeandrew"
+product_type: "E-books"
+price: 55.93
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 33.56
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing"]
+listed_since: "2025-07-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/624648?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/624648"
+language: "en"
+---
 # Digital Gold Kit Plr
 
 > Product ID `53227` · Digistore24 productId `624648` · [HTML profile page](../../reviews/digital-gold-kit-plr-53227.html)

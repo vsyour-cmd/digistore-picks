@@ -1,3 +1,24 @@
+---
+product_id: "59607"
+digistore24_product_id: 736587
+title: "Start an Online Business – 7 Practical Courses with Matze | 40% Commission"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 499
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 199.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736587?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736587"
+language: "en"
+---
 # Start an Online Business – 7 Practical Courses with Matze | 40% Commission
 
 > Product ID `59607` · Digistore24 productId `736587` · [HTML profile page](../../reviews/start-an-online-business-7-practical-courses-with-matze-40-commission-59607.html)

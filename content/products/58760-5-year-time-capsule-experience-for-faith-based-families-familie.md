@@ -1,3 +1,24 @@
+---
+product_id: "58760"
+digistore24_product_id: 727353
+title: "5 Year Time Capsule Experience for Faith-Based Families Familie"
+vendor: "phebetrotman"
+product_type: "Downloads"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://faithfamily5yr-0bt.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://faithfamily5yr-0bt.plannerpack.co"
+language: "en"
+---
 # 5 Year Time Capsule Experience for Faith-Based Families Familie
 
 > Product ID `58760` · Digistore24 productId `727353` · [HTML profile page](../../reviews/5-year-time-capsule-experience-for-faith-based-families-familie-58760.html)

@@ -1,3 +1,24 @@
+---
+product_id: "43510"
+digistore24_product_id: 493435
+title: "Fast Brain Booster"
+vendor: "pegrom"
+product_type: "Supplements - health"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 54.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2023-04-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fastbrainbooster.com/index_24/?aff=adminstore#aff=adminstore"
+sales_page: "https://fastbrainbooster.com/index_24/"
+language: "en"
+---
 # Fast Brain Booster
 
 > Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](../../reviews/fast-brain-booster-43510.html)

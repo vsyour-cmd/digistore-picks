@@ -1,3 +1,24 @@
+---
+product_id: "53539"
+digistore24_product_id: 625471
+title: "81 % Commission on US Immigration Survival PRO Bundle"
+vendor: "IsMaria"
+product_type: "Downloads"
+price: 48.58
+currency: "USD"
+affiliate_commission_pct: 81
+earnings_per_sale: 31.43
+cart_conversion_pct: 13
+cancel_rate_pct: 4.76
+categories: ["Education","Law & Justice","Online Marketing & E-Business"]
+listed_since: "2025-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://sales-page-4d8.pages.dev?aff=adminstore#aff=adminstore"
+sales_page: "http://sales-page-4d8.pages.dev"
+language: "en"
+---
 # 81 % Commission on US Immigration Survival PRO Bundle
 
 > Product ID `53539` · Digistore24 productId `625471` · [HTML profile page](../../reviews/81-commission-on-us-immigration-survival-pro-bundle-53539.html)

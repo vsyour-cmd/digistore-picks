@@ -1,3 +1,24 @@
+---
+product_id: "9547"
+digistore24_product_id: 42495
+title: "Smooth & Juicy - recipes to look great and feel amazing"
+vendor: "Rohtopia"
+product_type: "Downloads"
+price: 16.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2015-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.rohtopia.com/smoothie-book?aff=adminstore#aff=adminstore"
+sales_page: "https://www.rohtopia.com/smoothie-book"
+language: "en"
+---
 # Smooth & Juicy - recipes to look great and feel amazing
 
 > Product ID `9547` · Digistore24 productId `42495` · [HTML profile page](../../reviews/smooth-juicy-recipes-to-look-great-and-feel-amazing-9547.html)

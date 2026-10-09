@@ -1,3 +1,24 @@
+---
+product_id: "57397"
+digistore24_product_id: 708570
+title: "Pinterest Passive Income"
+vendor: "ZeroToCommission"
+product_type: "E-books"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 58.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-07-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.offerlaunchpad.site/pinterest-passive-income?aff=adminstore#aff=adminstore"
+sales_page: "https://www.offerlaunchpad.site/pinterest-passive-income"
+language: "en"
+---
 # Pinterest Passive Income
 
 > Product ID `57397` · Digistore24 productId `708570` · [HTML profile page](../../reviews/pinterest-passive-income-57397.html)

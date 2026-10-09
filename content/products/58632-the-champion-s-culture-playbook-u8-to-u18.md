@@ -1,3 +1,24 @@
+---
+product_id: "58632"
+digistore24_product_id: 725533
+title: "The Champion's Culture Playbook: U8 to U18"
+vendor: "phebetrotman"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thechampionscultureplaybook-7e1.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thechampionscultureplaybook-7e1.plannerpack.co"
+language: "en"
+---
 # The Champion's Culture Playbook: U8 to U18
 
 > Product ID `58632` · Digistore24 productId `725533` · [HTML profile page](../../reviews/the-champion-s-culture-playbook-u8-to-u18-58632.html)

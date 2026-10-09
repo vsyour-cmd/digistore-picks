@@ -1,3 +1,24 @@
+---
+product_id: "58859"
+digistore24_product_id: 728718
+title: "Hormonal transition support program"
+vendor: "niloobella29ed"
+product_type: "Member area and video courses"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 24
+earnings_per_sale: 6.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://hormonaltransition-fo9.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://hormonaltransition-fo9.plannerpack.co"
+language: "en"
+---
 # Hormonal transition support program
 
 > Product ID `58859` · Digistore24 productId `728718` · [HTML profile page](../../reviews/hormonal-transition-support-program-58859.html)

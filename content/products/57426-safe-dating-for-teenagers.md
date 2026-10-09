@@ -1,3 +1,24 @@
+---
+product_id: "57426"
+digistore24_product_id: 708486
+title: "Safe Dating For Teenagers"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Family & Children"]
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Safe-Dating-For-Teenagers/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Safe-Dating-For-Teenagers/Sales-page.html"
+language: "en"
+---
 # Safe Dating For Teenagers
 
 > Product ID `57426` · Digistore24 productId `708486` · [HTML profile page](../../reviews/safe-dating-for-teenagers-57426.html)

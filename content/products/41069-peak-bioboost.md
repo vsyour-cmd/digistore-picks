@@ -1,3 +1,24 @@
+---
+product_id: "41069"
+digistore24_product_id: 451650
+title: "Peak BioBoost"
+vendor: "peakbiome"
+product_type: "Supplements - health"
+price: 151.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 71.84
+cart_conversion_pct: 12
+cancel_rate_pct: 6.91
+categories: ["Food Supplements"]
+listed_since: "2022-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mypeakbiome.com/w/prebio-lp-dg?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mypeakbiome.com/w/prebio-lp-dg"
+language: "en"
+---
 # Peak BioBoost
 
 > Product ID `41069` · Digistore24 productId `451650` · [HTML profile page](../../reviews/peak-bioboost-41069.html)

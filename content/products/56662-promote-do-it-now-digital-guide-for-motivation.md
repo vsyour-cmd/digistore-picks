@@ -1,3 +1,24 @@
+---
+product_id: "56662"
+digistore24_product_id: 688600
+title: "Promote \"Do It Now\" Digital Guide for Motivation"
+vendor: "Nancy021"
+product_type: "Downloads"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Personal Development"]
+listed_since: "2026-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/688600?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/688600"
+language: "en"
+---
 # Promote "Do It Now" Digital Guide for Motivation
 
 > Product ID `56662` · Digistore24 productId `688600` · [HTML profile page](../../reviews/promote-do-it-now-digital-guide-for-motivation-56662.html)

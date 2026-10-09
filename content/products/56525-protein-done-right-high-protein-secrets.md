@@ -1,3 +1,24 @@
+---
+product_id: "56525"
+digistore24_product_id: 682855
+title: "Protein Done Right - High Protein Secrets"
+vendor: "Digitaliest"
+product_type: "E-books"
+price: 12
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 8.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-05-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.fitnoryx.com/digitaliest?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fitnoryx.com/digitaliest"
+language: "en"
+---
 # Protein Done Right - High Protein Secrets
 
 > Product ID `56525` · Digistore24 productId `682855` · [HTML profile page](../../reviews/protein-done-right-high-protein-secrets-56525.html)

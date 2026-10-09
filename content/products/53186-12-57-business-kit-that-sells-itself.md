@@ -1,3 +1,24 @@
+---
+product_id: "53186"
+digistore24_product_id: 623017
+title: "“$12.57 Business Kit That Sells Itself”"
+vendor: "El_patronship"
+product_type: "Downloads"
+price: 14.06
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://profound-zabaione-bc02e6.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://profound-zabaione-bc02e6.netlify.app/"
+language: "en"
+---
 # “$12.57 Business Kit That Sells Itself”
 
 > Product ID `53186` · Digistore24 productId `623017` · [HTML profile page](../../reviews/12-57-business-kit-that-sells-itself-53186.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50155"
+digistore24_product_id: 542941
+title: "50 Tips for better Email Marketing"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2024-03-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/50-Tips-for-better-Email-Marketing/?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/50-Tips-for-better-Email-Marketing/"
+language: "en"
+---
 # 50 Tips for better Email Marketing
 
 > Product ID `50155` · Digistore24 productId `542941` · [HTML profile page](../../reviews/50-tips-for-better-email-marketing-50155.html)

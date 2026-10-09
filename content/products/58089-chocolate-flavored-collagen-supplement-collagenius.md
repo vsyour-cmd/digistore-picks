@@ -1,3 +1,24 @@
+---
+product_id: "58089"
+digistore24_product_id: 717845
+title: "Chocolate-flavored collagen supplement, CollaGenius"
+vendor: "tedeu21a77"
+product_type: "Member area and video courses"
+price: 75
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 26.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://chocolateflavoredcollagensupplementcollagenius-0zx.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://chocolateflavoredcollagensupplementcollagenius-0zx.plannerpack.co"
+language: "en"
+---
 # Chocolate-flavored collagen supplement, CollaGenius
 
 > Product ID `58089` · Digistore24 productId `717845` · [HTML profile page](../../reviews/chocolate-flavored-collagen-supplement-collagenius-58089.html)

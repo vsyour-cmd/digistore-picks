@@ -1,3 +1,24 @@
+---
+product_id: "57807"
+digistore24_product_id: 601268
+title: "Career Compass for Scrum"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Project Management"]
+listed_since: "2026-07-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/scrum-career-compass/"
+language: "en"
+---
 # Career Compass for Scrum
 
 > Product ID `57807` · Digistore24 productId `601268` · [HTML profile page](../../reviews/career-compass-for-scrum-57807.html)

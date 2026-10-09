@@ -1,3 +1,24 @@
+---
+product_id: "54131"
+digistore24_product_id: 635874
+title: "30 Day Healthy Habits Recipe Plan."
+vendor: "manuelcosta"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 29.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Food & Drink","Health & Fitness"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://healthy-habits-30-day.netlify.app?aff=adminstore#aff=adminstore"
+sales_page: "https://healthy-habits-30-day.netlify.app"
+language: "en"
+---
 # 30 Day Healthy Habits Recipe Plan.
 
 > Product ID `54131` · Digistore24 productId `635874` · [HTML profile page](../../reviews/30-day-healthy-habits-recipe-plan-54131.html)

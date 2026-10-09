@@ -1,3 +1,24 @@
+---
+product_id: "53488"
+digistore24_product_id: 627594
+title: "Digital Products Blueprint - Guide"
+vendor: "assetslibrary"
+product_type: "Downloads"
+price: 8.99
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Sales Training"]
+listed_since: "2025-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/627594?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/627594"
+language: "en"
+---
 # Digital Products Blueprint - Guide
 
 > Product ID `53488` · Digistore24 productId `627594` · [HTML profile page](../../reviews/digital-products-blueprint-guide-53488.html)

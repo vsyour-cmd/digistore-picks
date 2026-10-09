@@ -1,3 +1,24 @@
+---
+product_id: "58310"
+digistore24_product_id: 720515
+title: "Junk To Fresh: Swap It!"
+vendor: "krisig02156e2b"
+product_type: "E-books"
+price: 28.97
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/720515?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/720515"
+language: "en"
+---
 # Junk To Fresh: Swap It!
 
 > Product ID `58310` · Digistore24 productId `720515` · [HTML profile page](../../reviews/junk-to-fresh-swap-it-58310.html)

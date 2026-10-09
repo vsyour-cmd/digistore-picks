@@ -1,3 +1,24 @@
+---
+product_id: "58698"
+digistore24_product_id: 726681
+title: "Ebook - The Architecture of American Power Vol II"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Law & Justice","Politics & Economy"]
+listed_since: "2026-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726681?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726681"
+language: "en"
+---
 # Ebook - The Architecture of American Power Vol II
 
 > Product ID `58698` · Digistore24 productId `726681` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-ii-58698.html)

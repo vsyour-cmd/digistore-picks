@@ -1,3 +1,24 @@
+---
+product_id: "50332"
+digistore24_product_id: 572520
+title: "Lymphatic System Support"
+vendor: "SanoLabs"
+product_type: "Supplements - health"
+price: 253.7
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 164.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://lymphflowsupport.com/presentation-2?aff=adminstore#aff=adminstore"
+sales_page: "https://lymphflowsupport.com/presentation-2"
+language: "en"
+---
 # Lymphatic System Support
 
 > Product ID `50332` · Digistore24 productId `572520` · [HTML profile page](../../reviews/lymphatic-system-support-50332.html)

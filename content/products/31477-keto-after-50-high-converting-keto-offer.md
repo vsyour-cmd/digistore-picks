@@ -1,3 +1,24 @@
+---
+product_id: "31477"
+digistore24_product_id: 292685
+title: "Keto After 50 - High Converting Keto Offer"
+vendor: "raposo1"
+product_type: "Book (printed)"
+price: 10.07
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 7.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2019-10-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ketoafter50.com/digi/?aff=adminstore#aff=adminstore"
+sales_page: "https://ketoafter50.com/digi/"
+language: "en"
+---
 # Keto After 50 - High Converting Keto Offer
 
 > Product ID `31477` · Digistore24 productId `292685` · [HTML profile page](../../reviews/keto-after-50-high-converting-keto-offer-31477.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48319"
+digistore24_product_id: 551005
+title: "Linux exam preparation for CompTIA Linux+ and LPIC-1"
+vendor: "bitsandbytes"
+product_type: "Member area and video courses"
+price: 98.71
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 39.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education"]
+listed_since: "2024-05-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/redir/551005/adminstore"
+sales_page: "https://bitsandbytes.academy/#/subject_details/linux/advanced"
+language: "en"
+---
 # Linux exam preparation for CompTIA Linux+ and LPIC-1
 
 > Product ID `48319` · Digistore24 productId `551005` · [HTML profile page](../../reviews/linux-exam-preparation-for-comptia-linux-and-lpic-1-48319.html)

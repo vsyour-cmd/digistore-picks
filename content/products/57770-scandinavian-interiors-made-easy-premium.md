@@ -1,3 +1,24 @@
+---
+product_id: "57770"
+digistore24_product_id: 713102
+title: "Scandinavian Interiors made easy Premium"
+vendor: "ramonakrenn923f"
+product_type: "Downloads"
+price: 55.92
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Home & Garden"]
+listed_since: "2026-07-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/713102?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/713102"
+language: "en"
+---
 # Scandinavian Interiors made easy Premium
 
 > Product ID `57770` · Digistore24 productId `713102` · [HTML profile page](../../reviews/scandinavian-interiors-made-easy-premium-57770.html)

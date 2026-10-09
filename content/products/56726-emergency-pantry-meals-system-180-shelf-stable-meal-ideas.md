@@ -1,3 +1,24 @@
+---
+product_id: "56726"
+digistore24_product_id: 696111
+title: "Emergency Pantry Meals System - 180+ Shelf-Stable Meal Ideas"
+vendor: "joaomr"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 25.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2026-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/?aff=adminstore#aff=adminstore"
+sales_page: "https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/"
+language: "en"
+---
 # Emergency Pantry Meals System - 180+ Shelf-Stable Meal Ideas
 
 > Product ID `56726` · Digistore24 productId `696111` · [HTML profile page](../../reviews/emergency-pantry-meals-system-180-shelf-stable-meal-ideas-56726.html)

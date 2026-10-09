@@ -1,3 +1,24 @@
+---
+product_id: "58862"
+digistore24_product_id: 728264
+title: "Help Singles Build Healthier Relationships in Just 30 Days"
+vendor: "ramib6566a327"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 27.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://love.esr.mobi/digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://love.esr.mobi/digistore/"
+language: "en"
+---
 # Help Singles Build Healthier Relationships in Just 30 Days
 
 > Product ID `58862` · Digistore24 productId `728264` · [HTML profile page](../../reviews/help-singles-build-healthier-relationships-in-just-30-days-58862.html)

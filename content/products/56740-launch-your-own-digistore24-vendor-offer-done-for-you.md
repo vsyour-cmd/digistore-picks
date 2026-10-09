@@ -1,3 +1,24 @@
+---
+product_id: "56740"
+digistore24_product_id: 696321
+title: "Launch Your Own Digistore24 Vendor Offer — Done For You."
+vendor: "ZeroToCommission"
+product_type: "Remote service provided electronically"
+price: 2254
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1127
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development"]
+listed_since: "2026-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.fromzerotocommission.site/dfy-vendor?aff=adminstore#aff=adminstore"
+sales_page: "https://www.fromzerotocommission.site/dfy-vendor"
+language: "en"
+---
 # Launch Your Own Digistore24 Vendor Offer — Done For You.
 
 > Product ID `56740` · Digistore24 productId `696321` · [HTML profile page](../../reviews/launch-your-own-digistore24-vendor-offer-done-for-you-56740.html)

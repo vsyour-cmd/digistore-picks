@@ -1,3 +1,24 @@
+---
+product_id: "58634"
+digistore24_product_id: 722515
+title: "The Grocery Freedom Garden: Grow Food That Saves Money"
+vendor: "geckogully"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Survival"]
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/redir/722515/adminstore"
+sales_page: "https://buylessmakemore.com/GFG_sales-page.html?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
+language: "en"
+---
 # The Grocery Freedom Garden: Grow Food That Saves Money
 
 > Product ID `58634` · Digistore24 productId `722515` · [HTML profile page](../../reviews/the-grocery-freedom-garden-grow-food-that-saves-money-58634.html)

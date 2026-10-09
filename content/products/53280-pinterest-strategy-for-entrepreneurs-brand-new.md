@@ -1,3 +1,24 @@
+---
+product_id: "53280"
+digistore24_product_id: 623072
+title: "Pinterest Strategy for Entrepreneurs - Brand new"
+vendor: "Soph07"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://hope-271.systeme.io/4f8ed6e2?aff=adminstore#aff=adminstore"
+sales_page: "https://hope-271.systeme.io/4f8ed6e2"
+language: "en"
+---
 # Pinterest Strategy for Entrepreneurs - Brand new
 
 > Product ID `53280` · Digistore24 productId `623072` · [HTML profile page](../../reviews/pinterest-strategy-for-entrepreneurs-brand-new-53280.html)

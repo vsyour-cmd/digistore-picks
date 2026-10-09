@@ -1,3 +1,24 @@
+---
+product_id: "59656"
+digistore24_product_id: 733740
+title: "Forbidden China Wealth - A Platinum Vendor's Monster Offer"
+vendor: "destinyaff"
+product_type: "Audio book (download)"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 29.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://theforbiddenchinawealth.com/vsl?aff=adminstore#aff=adminstore"
+sales_page: "https://theforbiddenchinawealth.com/vsl"
+language: "en"
+---
 # Forbidden China Wealth - A Platinum Vendor's Monster Offer
 
 > Product ID `59656` · Digistore24 productId `733740` · [HTML profile page](../../reviews/forbidden-china-wealth-a-platinum-vendor-s-monster-offer-59656.html)

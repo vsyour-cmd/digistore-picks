@@ -1,3 +1,24 @@
+---
+product_id: "47386"
+digistore24_product_id: 540531
+title: "Tube Magic - AI Tools For Growing on YouTube"
+vendor: "tubemagic"
+product_type: "Software"
+price: 1026.3
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 253.49
+cart_conversion_pct: 1
+cancel_rate_pct: 8.94
+categories: ["Computer & Internet","Social Media","Software"]
+listed_since: "2024-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tubemagic.com/ds?aff=adminstore#aff=adminstore"
+sales_page: "https://tubemagic.com/ds"
+language: "en"
+---
 # Tube Magic - AI Tools For Growing on YouTube
 
 > Product ID `47386` · Digistore24 productId `540531` · [HTML profile page](../../reviews/tube-magic-ai-tools-for-growing-on-youtube-47386.html)

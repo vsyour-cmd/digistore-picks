@@ -1,3 +1,24 @@
+---
+product_id: "47712"
+digistore24_product_id: 542324
+title: "Turn Your Idea into a 5-Figure Online Business"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/10-steps-to-a-5-figure-business?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/10-steps-to-a-5-figure-business"
+language: "en"
+---
 # Turn Your Idea into a 5-Figure Online Business
 
 > Product ID `47712` · Digistore24 productId `542324` · [HTML profile page](../../reviews/turn-your-idea-into-a-5-figure-online-business-47712.html)

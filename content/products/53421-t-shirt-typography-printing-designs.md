@@ -1,3 +1,24 @@
+---
+product_id: "53421"
+digistore24_product_id: 626667
+title: "T-shirt Typography Printing Designs"
+vendor: "assetslibrary"
+product_type: "Downloads"
+price: 4.99
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Fashion"]
+listed_since: "2025-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/626667?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/626667"
+language: "en"
+---
 # T-shirt Typography Printing Designs
 
 > Product ID `53421` · Digistore24 productId `626667` · [HTML profile page](../../reviews/t-shirt-typography-printing-designs-53421.html)

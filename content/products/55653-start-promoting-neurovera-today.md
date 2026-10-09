@@ -1,3 +1,24 @@
+---
+product_id: "55653"
+digistore24_product_id: 669703
+title: "Start Promoting NeuroVera Today!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 179.59
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 27.37
+cart_conversion_pct: 5
+cancel_rate_pct: 60.65
+categories: ["Food Supplements"]
+listed_since: "2026-02-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://theneurovera.com/ds/go/indexts.php?aff=adminstore#aff=adminstore"
+sales_page: "https://theneurovera.com/ds/go/indexts.php"
+language: "en"
+---
 # Start Promoting NeuroVera Today!
 
 > Product ID `55653` · Digistore24 productId `669703` · [HTML profile page](../../reviews/start-promoting-neurovera-today-55653.html)

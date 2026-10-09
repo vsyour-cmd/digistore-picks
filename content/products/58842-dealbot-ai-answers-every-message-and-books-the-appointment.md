@@ -1,3 +1,24 @@
+---
+product_id: "58842"
+digistore24_product_id: 724771
+title: "DealBot AI: answers every message and books the appointment"
+vendor: "eagerdragonpublishin22b2"
+product_type: "Software"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 39.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Software","Marketing Services"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dealbotai.com/ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://dealbotai.com/ds/"
+language: "en"
+---
 # DealBot AI: answers every message and books the appointment
 
 > Product ID `58842` · Digistore24 productId `724771` · [HTML profile page](../../reviews/dealbot-ai-answers-every-message-and-books-the-appointment-58842.html)

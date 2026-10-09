@@ -1,3 +1,24 @@
+---
+product_id: "56136"
+digistore24_product_id: 681275
+title: "Promote the Quantum Brainwave Protocol Now!"
+vendor: "heric0051"
+product_type: "Audio book (download)"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-04-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://quantumbrainprotocol.com/ds24/Tsl?aff=adminstore#aff=adminstore"
+sales_page: "https://quantumbrainprotocol.com/ds24/Tsl"
+language: "en"
+---
 # Promote the Quantum Brainwave Protocol Now!
 
 > Product ID `56136` · Digistore24 productId `681275` · [HTML profile page](../../reviews/promote-the-quantum-brainwave-protocol-now-56136.html)

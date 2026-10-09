@@ -1,3 +1,24 @@
+---
+product_id: "47990"
+digistore24_product_id: 549735
+title: "Quietum Plus"
+vendor: "QuietumPlus"
+product_type: "Supplements - health"
+price: 267.52
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 118.48
+cart_conversion_pct: 4
+cancel_rate_pct: 20.04
+categories: ["Food Supplements"]
+listed_since: "2024-04-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://quietumplus24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://quietumplus24.com/text.php"
+language: "en"
+---
 # Quietum Plus
 
 > Product ID `47990` · Digistore24 productId `549735` · [HTML profile page](../../reviews/quietum-plus-47990.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53999"
+digistore24_product_id: 634897
+title: "Amazon Influencer Course – Become an Amazon Video Reviewer"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2025-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/634897?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/634897"
+language: "en"
+---
 # Amazon Influencer Course – Become an Amazon Video Reviewer
 
 > Product ID `53999` · Digistore24 productId `634897` · [HTML profile page](../../reviews/amazon-influencer-course-become-an-amazon-video-reviewer-53999.html)

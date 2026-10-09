@@ -1,3 +1,24 @@
+---
+product_id: "51323"
+digistore24_product_id: 595450
+title: "Ring Quiet"
+vendor: "superwebj"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 180.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-02-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.ringquietplus.com/vsl-478323?aff=adminstore#aff=adminstore"
+sales_page: "https://www.ringquietplus.com/vsl-478323"
+language: "en"
+---
 # Ring Quiet
 
 > Product ID `51323` · Digistore24 productId `595450` · [HTML profile page](../../reviews/ring-quiet-51323.html)

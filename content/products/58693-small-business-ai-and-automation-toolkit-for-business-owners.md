@@ -1,3 +1,24 @@
+---
+product_id: "58693"
+digistore24_product_id: 724554
+title: "Small Business AI and Automation Toolkit for Business Owners"
+vendor: "IoTSystemsGrowthSolutions"
+product_type: "Software"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Software"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marketplace.iotsystemsgrowth.com/small-business-ai-automation-toolkit-digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://marketplace.iotsystemsgrowth.com/small-business-ai-automation-toolkit-digistore/"
+language: "en"
+---
 # Small Business AI and Automation Toolkit for Business Owners
 
 > Product ID `58693` · Digistore24 productId `724554` · [HTML profile page](../../reviews/small-business-ai-and-automation-toolkit-for-business-owners-58693.html)

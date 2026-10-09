@@ -1,3 +1,24 @@
+---
+product_id: "18519"
+digistore24_product_id: 58103
+title: "EGroupware - Online Collaboration Software"
+vendor: "egroupware"
+product_type: "Downloads"
+price: 278.53
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 55.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet"]
+listed_since: "2015-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.egroupware.org/en/pricing/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.egroupware.org/en/pricing/"
+language: "en"
+---
 # EGroupware - Online Collaboration Software
 
 > Product ID `18519` · Digistore24 productId `58103` · [HTML profile page](../../reviews/egroupware-online-collaboration-software-18519.html)

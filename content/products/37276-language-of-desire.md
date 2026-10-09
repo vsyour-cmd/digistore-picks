@@ -1,3 +1,24 @@
+---
+product_id: "37276"
+digistore24_product_id: 391642
+title: "Language of Desire"
+vendor: "digitalromance"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2021-05-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://desirelanguage.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://desirelanguage.com/"
+language: "en"
+---
 # Language of Desire
 
 > Product ID `37276` · Digistore24 productId `391642` · [HTML profile page](../../reviews/language-of-desire-37276.html)

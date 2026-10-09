@@ -1,3 +1,24 @@
+---
+product_id: "40914"
+digistore24_product_id: 379127
+title: "NEW: The Self-Sufficient Backyard"
+vendor: "sbackyard"
+product_type: "Book (printed)"
+price: 49.53
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 25.99
+cart_conversion_pct: 9
+cancel_rate_pct: 1.28
+categories: ["Home & Garden"]
+listed_since: "2021-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://independentbackyard.com/my-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://independentbackyard.com/my-book/"
+language: "en"
+---
 # NEW: The Self-Sufficient Backyard
 
 > Product ID `40914` · Digistore24 productId `379127` · [HTML profile page](../../reviews/new-the-self-sufficient-backyard-40914.html)

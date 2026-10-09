@@ -1,3 +1,24 @@
+---
+product_id: "40126"
+digistore24_product_id: 443554
+title: "AffiliateOne"
+vendor: "breakoutindustries"
+product_type: "Member area and video courses"
+price: 18.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://affiliate-one.com/digi-fe?aff=adminstore#aff=adminstore"
+sales_page: "https://affiliate-one.com/digi-fe"
+language: "en"
+---
 # AffiliateOne
 
 > Product ID `40126` · Digistore24 productId `443554` · [HTML profile page](../../reviews/affiliateone-40126.html)

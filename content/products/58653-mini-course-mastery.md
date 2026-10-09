@@ -1,3 +1,24 @@
+---
+product_id: "58653"
+digistore24_product_id: 725800
+title: "Mini-Course Mastery"
+vendor: "BizzBoom"
+product_type: "Member area and video courses"
+price: 14
+currency: "USD"
+affiliate_commission_pct: 69
+earnings_per_sale: 9.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://minicoursemastery-d0x.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://minicoursemastery-d0x.plannerpack.co"
+language: "en"
+---
 # Mini-Course Mastery
 
 > Product ID `58653` · Digistore24 productId `725800` · [HTML profile page](../../reviews/mini-course-mastery-58653.html)

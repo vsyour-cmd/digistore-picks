@@ -1,3 +1,24 @@
+---
+product_id: "59364"
+digistore24_product_id: 727929
+title: "Prosperity Code - Mindset, Health and Prosperity"
+vendor: "john53ac"
+product_type: "E-books"
+price: 27.73
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 22.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Health & Fitness","Personal Development"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://prosperousfromwithin.com/prosperity-code?aff=adminstore#aff=adminstore"
+sales_page: "https://prosperousfromwithin.com/prosperity-code"
+language: "en"
+---
 # Prosperity Code - Mindset, Health and Prosperity
 
 > Product ID `59364` · Digistore24 productId `727929` · [HTML profile page](../../reviews/prosperity-code-mindset-health-and-prosperity-59364.html)

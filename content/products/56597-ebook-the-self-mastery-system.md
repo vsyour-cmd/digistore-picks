@@ -1,3 +1,24 @@
+---
+product_id: "56597"
+digistore24_product_id: 693964
+title: "Ebook - The Self-Mastery System"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 24.04
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.02
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/693964?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/693964"
+language: "en"
+---
 # Ebook - The Self-Mastery System
 
 > Product ID `56597` · Digistore24 productId `693964` · [HTML profile page](../../reviews/ebook-the-self-mastery-system-56597.html)

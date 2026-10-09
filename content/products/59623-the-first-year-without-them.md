@@ -1,3 +1,24 @@
+---
+product_id: "59623"
+digistore24_product_id: 736745
+title: "The First Year Without Them"
+vendor: "professionalconfidence"
+product_type: "Member area and video courses"
+price: 21.58
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thefirstyearwithoutthem-v6v.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://thefirstyearwithoutthem-v6v.plannerpack.co"
+language: "en"
+---
 # The First Year Without Them
 
 > Product ID `59623` · Digistore24 productId `736745` · [HTML profile page](../../reviews/the-first-year-without-them-59623.html)

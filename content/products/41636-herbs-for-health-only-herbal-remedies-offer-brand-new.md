@@ -1,3 +1,24 @@
+---
+product_id: "41636"
+digistore24_product_id: 466293
+title: "Herbs for Health- Only Herbal Remedies Offer! (Brand New)"
+vendor: "homeprepper"
+product_type: "E-books"
+price: 21.42
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 11.8
+cart_conversion_pct: 4
+cancel_rate_pct: 3.16
+categories: ["Health & Fitness"]
+listed_since: "2022-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.thehomeprepper.com/book?aff=adminstore#aff=adminstore"
+sales_page: "https://www.thehomeprepper.com/book"
+language: "en"
+---
 # Herbs for Health- Only Herbal Remedies Offer! (Brand New)
 
 > Product ID `41636` · Digistore24 productId `466293` · [HTML profile page](../../reviews/herbs-for-health-only-herbal-remedies-offer-brand-new-41636.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58168"
+digistore24_product_id: 719051
+title: "The High-Protein Fat Loss Cookbook"
+vendor: "PharmaNutrition_glow"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2026-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://splendid-lokum-a774ff.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://splendid-lokum-a774ff.netlify.app/"
+language: "en"
+---
 # The High-Protein Fat Loss Cookbook
 
 > Product ID `58168` · Digistore24 productId `719051` · [HTML profile page](../../reviews/the-high-protein-fat-loss-cookbook-58168.html)

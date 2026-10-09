@@ -1,3 +1,24 @@
+---
+product_id: "49789"
+digistore24_product_id: 572199
+title: "Success With Shopify"
+vendor: "gece3509"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Business & Investment","Online Marketing & E-Business"]
+listed_since: "2024-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/572199?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/572199"
+language: "en"
+---
 # Success With Shopify
 
 > Product ID `49789` · Digistore24 productId `572199` · [HTML profile page](../../reviews/success-with-shopify-49789.html)

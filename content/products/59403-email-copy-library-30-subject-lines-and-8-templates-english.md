@@ -1,3 +1,24 @@
+---
+product_id: "59403"
+digistore24_product_id: 735110
+title: "Email Copy Library - 30 Subject Lines and 8 Templates (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735110?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735110"
+language: "en"
+---
 # Email Copy Library - 30 Subject Lines and 8 Templates (English)
 
 > Product ID `59403` · Digistore24 productId `735110` · [HTML profile page](../../reviews/email-copy-library-30-subject-lines-and-8-templates-english-59403.html)

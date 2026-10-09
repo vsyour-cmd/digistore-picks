@@ -1,3 +1,24 @@
+---
+product_id: "51823"
+digistore24_product_id: 603009
+title: "The Game-Free Blueprint - eBook"
+vendor: "AAnchorBiz"
+product_type: "E-books"
+price: 15.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 29.48
+cart_conversion_pct: 4
+cancel_rate_pct: 7.68
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aanchorbiz.com/the-game-free-blueprint-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://aanchorbiz.com/the-game-free-blueprint-frontend/"
+language: "en"
+---
 # The Game-Free Blueprint - eBook
 
 > Product ID `51823` · Digistore24 productId `603009` · [HTML profile page](../../reviews/the-game-free-blueprint-ebook-51823.html)

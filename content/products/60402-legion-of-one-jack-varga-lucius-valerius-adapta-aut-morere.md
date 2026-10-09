@@ -1,3 +1,24 @@
+---
+product_id: "60402"
+digistore24_product_id: 743394
+title: "Legion Of One: Jack Varga Lucius Valerius Adapta Aut Morere"
+vendor: "thomasconnorbooks9463"
+product_type: "E-books"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 38
+earnings_per_sale: 5.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://temporalschismlegionofone-5mp.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://temporalschismlegionofone-5mp.plannerpack.co"
+language: "en"
+---
 # Legion Of One: Jack Varga Lucius Valerius Adapta Aut Morere
 
 > Product ID `60402` · Digistore24 productId `743394` · [HTML profile page](../../reviews/legion-of-one-jack-varga-lucius-valerius-adapta-aut-morere-60402.html)

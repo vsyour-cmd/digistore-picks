@@ -1,3 +1,24 @@
+---
+product_id: "58776"
+digistore24_product_id: 727603
+title: "English Speak Shadowing — One English Level (15 Lessons)"
+vendor: "alexscheglov2016d530"
+product_type: "Member area and video courses"
+price: 22.37
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 6.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages"]
+listed_since: "2026-08-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://englishspeakshadowing.pl/course?aff=adminstore#aff=adminstore"
+sales_page: "https://englishspeakshadowing.pl/course"
+language: "en"
+---
 # English Speak Shadowing — One English Level (15 Lessons)
 
 > Product ID `58776` · Digistore24 productId `727603` · [HTML profile page](../../reviews/english-speak-shadowing-one-english-level-15-lessons-58776.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48447"
+digistore24_product_id: 555279
+title: "Knowledge is Power"
+vendor: "RonaldoFraga"
+product_type: "E-books"
+price: 15.66
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2024-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore"
+sales_page: "https://masterprods.com/knowledge-is-power/"
+language: "en"
+---
 # Knowledge is Power
 
 > Product ID `48447` · Digistore24 productId `555279` · [HTML profile page](../../reviews/knowledge-is-power-48447.html)

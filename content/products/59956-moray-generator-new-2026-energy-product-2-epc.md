@@ -1,3 +1,24 @@
+---
+product_id: "59956"
+digistore24_product_id: 738063
+title: "Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC"
+vendor: "energy4oren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://feelbetter-today.com/moray-power?aff=adminstore#aff=adminstore"
+sales_page: "http://feelbetter-today.com/moray-power"
+language: "en"
+---
 # Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC
 
 > Product ID `59956` · Digistore24 productId `738063` · [HTML profile page](../../reviews/moray-generator-new-2026-energy-product-2-epc-59956.html)

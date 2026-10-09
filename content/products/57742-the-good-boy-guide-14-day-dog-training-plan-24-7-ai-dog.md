@@ -1,3 +1,24 @@
+---
+product_id: "57742"
+digistore24_product_id: 714780
+title: "The Good Boy Guide — 14-Day Dog Training Plan + 24/7 AI Dog"
+vendor: "vfdigitaldesign"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Education","Animals & Pets"]
+listed_since: "2026-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thegoodboyguide.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://thegoodboyguide.com/"
+language: "en"
+---
 # The Good Boy Guide — 14-Day Dog Training Plan + 24/7 AI Dog
 
 > Product ID `57742` · Digistore24 productId `714780` · [HTML profile page](../../reviews/the-good-boy-guide-14-day-dog-training-plan-24-7-ai-dog-57742.html)

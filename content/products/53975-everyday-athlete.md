@@ -1,3 +1,24 @@
+---
+product_id: "53975"
+digistore24_product_id: 635594
+title: "Everyday Athlete"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 4.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2025-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635594?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635594"
+language: "en"
+---
 # Everyday Athlete
 
 > Product ID `53975` · Digistore24 productId `635594` · [HTML profile page](../../reviews/everyday-athlete-53975.html)

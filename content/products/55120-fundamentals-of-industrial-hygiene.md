@@ -1,3 +1,24 @@
+---
+product_id: "55120"
+digistore24_product_id: 654493
+title: "Fundamentals of industrial hygiene"
+vendor: "WirtschaftspraxisJuergens"
+product_type: "Member area and video courses"
+price: 99.56
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2025-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch?aff=adminstore#aff=adminstore"
+sales_page: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch"
+language: "en"
+---
 # Fundamentals of industrial hygiene
 
 > Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](../../reviews/fundamentals-of-industrial-hygiene-55120.html)

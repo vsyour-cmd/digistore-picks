@@ -1,3 +1,24 @@
+---
+product_id: "59614"
+digistore24_product_id: 736678
+title: "Journal For Peace"
+vendor: "team24-ssulani"
+product_type: "Member area and video courses"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 9
+earnings_per_sale: 2.01
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://journalforpeace-mg2.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://journalforpeace-mg2.plannerpack.co"
+language: "en"
+---
 # Journal For Peace
 
 > Product ID `59614` · Digistore24 productId `736678` · [HTML profile page](../../reviews/journal-for-peace-59614.html)

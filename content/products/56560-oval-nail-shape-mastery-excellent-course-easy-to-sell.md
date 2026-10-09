@@ -1,3 +1,24 @@
+---
+product_id: "56560"
+digistore24_product_id: 687485
+title: "Oval Nail Shape Mastery [Excellent course, easy to sell]"
+vendor: "info5a25"
+product_type: "Member area and video courses"
+price: 59.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 41.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Fashion","Health & Fitness"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vel.academy/oval-shape-d24?aff=adminstore#aff=adminstore"
+sales_page: "https://vel.academy/oval-shape-d24"
+language: "en"
+---
 # Oval Nail Shape Mastery [Excellent course, easy to sell]
 
 > Product ID `56560` · Digistore24 productId `687485` · [HTML profile page](../../reviews/oval-nail-shape-mastery-excellent-course-easy-to-sell-56560.html)

@@ -1,3 +1,24 @@
+---
+product_id: "49248"
+digistore24_product_id: 554931
+title: "7 Rules for Living"
+vendor: "Santttos"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2024-05-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/554931?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/554931"
+language: "en"
+---
 # 7 Rules for Living
 
 > Product ID `49248` · Digistore24 productId `554931` · [HTML profile page](../../reviews/7-rules-for-living-49248.html)

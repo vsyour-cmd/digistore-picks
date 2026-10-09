@@ -1,3 +1,24 @@
+---
+product_id: "55847"
+digistore24_product_id: 670693
+title: "Scorpio Scalper"
+vendor: "altrasoftware"
+product_type: "Software"
+price: 110.44
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 58.87
+cart_conversion_pct: 7
+cancel_rate_pct: 5.92
+categories: ["Business & Investment"]
+listed_since: "2026-02-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://scorpioscalper.site/?aff=adminstore#aff=adminstore"
+sales_page: "https://scorpioscalper.site/"
+language: "en"
+---
 # Scorpio Scalper
 
 > Product ID `55847` · Digistore24 productId `670693` · [HTML profile page](../../reviews/scorpio-scalper-55847.html)

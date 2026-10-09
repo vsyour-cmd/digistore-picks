@@ -1,3 +1,24 @@
+---
+product_id: "54625"
+digistore24_product_id: 646350
+title: "Earn 60% - Natural Blood Pressure Control(Voice Course)"
+vendor: "secondwavetech"
+product_type: "Member area and video courses"
+price: 111.85
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 67.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Health & Fitness"]
+listed_since: "2025-11-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.healthvoice.life/sale.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.healthvoice.life/sale.html"
+language: "en"
+---
 # Earn 60% - Natural Blood Pressure Control(Voice Course)
 
 > Product ID `54625` · Digistore24 productId `646350` · [HTML profile page](../../reviews/earn-60-natural-blood-pressure-control-voice-course-54625.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57420"
+digistore24_product_id: 708476
+title: "Empowering The Child"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-07-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Empowering-The-Child/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Empowering-The-Child/Sales-page.html"
+language: "en"
+---
 # Empowering The Child
 
 > Product ID `57420` · Digistore24 productId `708476` · [HTML profile page](../../reviews/empowering-the-child-57420.html)

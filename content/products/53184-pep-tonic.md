@@ -1,3 +1,24 @@
+---
+product_id: "53184"
+digistore24_product_id: 623254
+title: "Pep Tonic"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 140.9
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 45.72
+cart_conversion_pct: 7
+cancel_rate_pct: 7.31
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2025-07-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm"
+language: "en"
+---
 # Pep Tonic
 
 > Product ID `53184` · Digistore24 productId `623254` · [HTML profile page](../../reviews/pep-tonic-53184.html)

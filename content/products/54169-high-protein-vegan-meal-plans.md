@@ -1,3 +1,24 @@
+---
+product_id: "54169"
+digistore24_product_id: 637568
+title: "High-Protein Vegan Meal Plans"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Food & Drink","Health & Fitness"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/637568?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/637568"
+language: "en"
+---
 # High-Protein Vegan Meal Plans
 
 > Product ID `54169` · Digistore24 productId `637568` · [HTML profile page](../../reviews/high-protein-vegan-meal-plans-54169.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59185"
+digistore24_product_id: 593584
+title: "Architecture VIZ Graphics – Cutout Plants V1 for Architects"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 159
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 39.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/cutout-plants-v01-graphics-for-architecture-visualization/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/cutout-plants-v01-graphics-for-architecture-visualization/"
+language: "en"
+---
 # Architecture VIZ Graphics – Cutout Plants V1 for Architects
 
 > Product ID `59185` · Digistore24 productId `593584` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-plants-v1-for-architects-59185.html)

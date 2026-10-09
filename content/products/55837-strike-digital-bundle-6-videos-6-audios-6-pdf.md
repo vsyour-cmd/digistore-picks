@@ -1,3 +1,24 @@
+---
+product_id: "55837"
+digistore24_product_id: 671787
+title: "Strike: Digital Bundle (6 Videos + 6 Audios + 6 PDF)"
+vendor: "portalblu888b89f"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/?aff=adminstore#aff=adminstore"
+sales_page: "https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/"
+language: "en"
+---
 # Strike: Digital Bundle (6 Videos + 6 Audios + 6 PDF)
 
 > Product ID `55837` · Digistore24 productId `671787` · [HTML profile page](../../reviews/strike-digital-bundle-6-videos-6-audios-6-pdf-55837.html)

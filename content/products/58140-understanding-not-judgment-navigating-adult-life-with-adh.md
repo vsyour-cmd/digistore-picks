@@ -1,3 +1,24 @@
+---
+product_id: "58140"
+digistore24_product_id: 718427
+title: "Understanding, Not Judgment – Navigating Adult Life With ADH"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Leadership & Management"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/718427?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718427"
+language: "en"
+---
 # Understanding, Not Judgment – Navigating Adult Life With ADH
 
 > Product ID `58140` · Digistore24 productId `718427` · [HTML profile page](../../reviews/understanding-not-judgment-navigating-adult-life-with-adh-58140.html)

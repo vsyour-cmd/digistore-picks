@@ -1,3 +1,24 @@
+---
+product_id: "48046"
+digistore24_product_id: 550416
+title: "Claritox"
+vendor: "ClaritoxPro"
+product_type: "Supplements - health"
+price: 174.2
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 123.02
+cart_conversion_pct: 5
+cancel_rate_pct: 11.7
+categories: ["Food Supplements"]
+listed_since: "2024-04-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://claritox24.com/text2.php?aff=adminstore#aff=adminstore"
+sales_page: "https://claritox24.com/text2.php"
+language: "en"
+---
 # Claritox
 
 > Product ID `48046` · Digistore24 productId `550416` · [HTML profile page](../../reviews/claritox-48046.html)

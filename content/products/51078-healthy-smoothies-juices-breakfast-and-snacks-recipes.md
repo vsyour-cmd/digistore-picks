@@ -1,3 +1,24 @@
+---
+product_id: "51078"
+digistore24_product_id: 591947
+title: "Healthy Smoothies, Juices, Breakfast, and Snacks Recipes"
+vendor: "aariann"
+product_type: "E-books"
+price: 16.78
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Food & Drink","Health & Fitness"]
+listed_since: "2025-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.wellfiteats.com/morehealthymoreproductive?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wellfiteats.com/morehealthymoreproductive"
+language: "en"
+---
 # Healthy Smoothies, Juices, Breakfast, and Snacks Recipes
 
 > Product ID `51078` · Digistore24 productId `591947` · [HTML profile page](../../reviews/healthy-smoothies-juices-breakfast-and-snacks-recipes-51078.html)

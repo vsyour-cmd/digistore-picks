@@ -1,3 +1,24 @@
+---
+product_id: "50596"
+digistore24_product_id: 581520
+title: "Lotto Champ"
+vendor: "LottoChamp"
+product_type: "Member area and video courses"
+price: 201.73
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 131.09
+cart_conversion_pct: 10
+cancel_rate_pct: 26.47
+categories: ["Betting Systems","Business & Investment"]
+listed_since: "2024-11-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mylottochamp24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://mylottochamp24.com/text.php"
+language: "en"
+---
 # Lotto Champ
 
 > Product ID `50596` · Digistore24 productId `581520` · [HTML profile page](../../reviews/lotto-champ-50596.html)

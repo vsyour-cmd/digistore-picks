@@ -1,3 +1,24 @@
+---
+product_id: "54654"
+digistore24_product_id: 646059
+title: "Grit to Gold Engine™"
+vendor: "workshaft"
+product_type: "E-books"
+price: 55.92
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 27.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2025-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/646059?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/646059"
+language: "en"
+---
 # Grit to Gold Engine™
 
 > Product ID `54654` · Digistore24 productId `646059` · [HTML profile page](../../reviews/grit-to-gold-engine-54654.html)

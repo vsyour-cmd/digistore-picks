@@ -1,3 +1,24 @@
+---
+product_id: "55360"
+digistore24_product_id: 661564
+title: "Predict Future with AI via Music | High 60% Commission"
+vendor: "patricia_sekael"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 18.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2026-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sekael.com/sing-and-solve-accounting-predict-the-future-with-data-ai/?aff=adminstore#aff=adminstore"
+sales_page: "https://sekael.com/sing-and-solve-accounting-predict-the-future-with-data-ai/"
+language: "en"
+---
 # Predict Future with AI via Music | High 60% Commission
 
 > Product ID `55360` · Digistore24 productId `661564` · [HTML profile page](../../reviews/predict-future-with-ai-via-music-high-60-commission-55360.html)

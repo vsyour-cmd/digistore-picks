@@ -1,3 +1,24 @@
+---
+product_id: "54050"
+digistore24_product_id: 636026
+title: "Dumbbell Routines for Beginners"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2025-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636026?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636026"
+language: "en"
+---
 # Dumbbell Routines for Beginners
 
 > Product ID `54050` · Digistore24 productId `636026` · [HTML profile page](../../reviews/dumbbell-routines-for-beginners-54050.html)

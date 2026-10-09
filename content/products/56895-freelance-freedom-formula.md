@@ -1,3 +1,24 @@
+---
+product_id: "56895"
+digistore24_product_id: 701735
+title: "Freelance Freedom Formula"
+vendor: "ZeroToCommission"
+product_type: "E-books"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 58.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.offerlaunchpad.site/freelance-freedom-formula?aff=adminstore#aff=adminstore"
+sales_page: "https://www.offerlaunchpad.site/freelance-freedom-formula"
+language: "en"
+---
 # Freelance Freedom Formula
 
 > Product ID `56895` · Digistore24 productId `701735` · [HTML profile page](../../reviews/freelance-freedom-formula-56895.html)

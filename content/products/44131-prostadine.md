@@ -1,3 +1,24 @@
+---
+product_id: "44131"
+digistore24_product_id: 500416
+title: "Prostadine"
+vendor: "Prostadine"
+product_type: "Supplements - health"
+price: 202.29
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 138.02
+cart_conversion_pct: 5
+cancel_rate_pct: 13.98
+categories: ["Food Supplements"]
+listed_since: "2023-05-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://myprostadine24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://myprostadine24.com/text.php"
+language: "en"
+---
 # Prostadine
 
 > Product ID `44131` · Digistore24 productId `500416` · [HTML profile page](../../reviews/prostadine-44131.html)

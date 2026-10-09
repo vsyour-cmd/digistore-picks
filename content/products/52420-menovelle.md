@@ -1,3 +1,24 @@
+---
+product_id: "52420"
+digistore24_product_id: 612225
+title: "Menovelle"
+vendor: "Menovelle"
+product_type: "Supplements - health"
+price: 176.74
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 114.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-05-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://menovelle24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://menovelle24.com/text.php"
+language: "en"
+---
 # Menovelle
 
 > Product ID `52420` · Digistore24 productId `612225` · [HTML profile page](../../reviews/menovelle-52420.html)

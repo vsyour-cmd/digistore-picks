@@ -1,3 +1,24 @@
+---
+product_id: "55842"
+digistore24_product_id: 674182
+title: "The Flow Code"
+vendor: "ZeroToCommission"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-03-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.brainwavehaven.site/the-flow-code?aff=adminstore#aff=adminstore"
+sales_page: "http://www.brainwavehaven.site/the-flow-code"
+language: "en"
+---
 # The Flow Code
 
 > Product ID `55842` · Digistore24 productId `674182` · [HTML profile page](../../reviews/the-flow-code-55842.html)

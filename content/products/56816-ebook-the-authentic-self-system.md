@@ -1,3 +1,24 @@
+---
+product_id: "56816"
+digistore24_product_id: 698862
+title: "Ebook - The Authentic Self System"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 25.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/698862?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/698862"
+language: "en"
+---
 # Ebook - The Authentic Self System
 
 > Product ID `56816` · Digistore24 productId `698862` · [HTML profile page](../../reviews/ebook-the-authentic-self-system-56816.html)

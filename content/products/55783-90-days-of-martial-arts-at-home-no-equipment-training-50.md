@@ -1,3 +1,24 @@
+---
+product_id: "55783"
+digistore24_product_id: 672537
+title: "90 Days of Martial Arts at Home —  No Equipment Training 50%"
+vendor: "ahmadrrrtx3332f1e"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Sport"]
+listed_since: "2026-03-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://martialarts90.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://martialarts90.netlify.app/"
+language: "en"
+---
 # 90 Days of Martial Arts at Home —  No Equipment Training 50%
 
 > Product ID `55783` · Digistore24 productId `672537` · [HTML profile page](../../reviews/90-days-of-martial-arts-at-home-no-equipment-training-50-55783.html)

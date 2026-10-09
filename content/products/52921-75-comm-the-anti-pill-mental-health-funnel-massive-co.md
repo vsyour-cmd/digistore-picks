@@ -1,3 +1,24 @@
+---
+product_id: "52921"
+digistore24_product_id: 617915
+title: "75% Comm | The \"Anti-Pill\" Mental Health Funnel | Massive Co"
+vendor: "PlanetaVida"
+product_type: "Member area and video courses"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 15.94
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-06-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore"
+sales_page: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us"
+language: "en"
+---
 # 75% Comm | The "Anti-Pill" Mental Health Funnel | Massive Co
 
 > Product ID `52921` · Digistore24 productId `617915` · [HTML profile page](../../reviews/75-comm-the-anti-pill-mental-health-funnel-massive-co-52921.html)

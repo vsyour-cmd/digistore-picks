@@ -1,3 +1,24 @@
+---
+product_id: "48346"
+digistore24_product_id: 553211
+title: "ProstaPure 24"
+vendor: "alphadrive24"
+product_type: "Supplements - health"
+price: 137.07
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 127.79
+cart_conversion_pct: 5
+cancel_rate_pct: 15.22
+categories: ["Food Supplements"]
+listed_since: "2024-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://prostapure24.com/ancient-secret-8817-d?aff=adminstore#aff=adminstore"
+sales_page: "https://prostapure24.com/ancient-secret-8817-d"
+language: "en"
+---
 # ProstaPure 24
 
 > Product ID `48346` · Digistore24 productId `553211` · [HTML profile page](../../reviews/prostapure-24-48346.html)

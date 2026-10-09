@@ -1,3 +1,24 @@
+---
+product_id: "51831"
+digistore24_product_id: 602748
+title: "The Young Achiever's Blueprint - eBook"
+vendor: "AAnchorBiz"
+product_type: "E-books"
+price: 15.69
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 29.48
+cart_conversion_pct: 4
+cancel_rate_pct: 7.68
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-03-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aanchorbiz.com/the-young-achievers-blueprint-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://aanchorbiz.com/the-young-achievers-blueprint-frontend/"
+language: "en"
+---
 # The Young Achiever's Blueprint - eBook
 
 > Product ID `51831` · Digistore24 productId `602748` · [HTML profile page](../../reviews/the-young-achiever-s-blueprint-ebook-51831.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53988"
+digistore24_product_id: 635579
+title: "Client Magnet–Attract to Convert"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Sales Training"]
+listed_since: "2025-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635579?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635579"
+language: "en"
+---
 # Client Magnet–Attract to Convert
 
 > Product ID `53988` · Digistore24 productId `635579` · [HTML profile page](../../reviews/client-magnet-attract-to-convert-53988.html)

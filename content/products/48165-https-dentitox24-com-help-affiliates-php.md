@@ -1,3 +1,24 @@
+---
+product_id: "48165"
+digistore24_product_id: 552603
+title: "https://dentitox24.com/help/affiliates.php"
+vendor: "Dentitox"
+product_type: "Supplements - health"
+price: 179.55
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 117.12
+cart_conversion_pct: 6
+cancel_rate_pct: 2.83
+categories: ["Food Supplements"]
+listed_since: "2024-05-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://dentitox24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://dentitox24.com/text.php"
+language: "en"
+---
 # https://dentitox24.com/help/affiliates.php
 
 > Product ID `48165` · Digistore24 productId `552603` · [HTML profile page](../../reviews/https-dentitox24-com-help-affiliates-php-48165.html)

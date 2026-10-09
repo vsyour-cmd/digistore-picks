@@ -1,3 +1,24 @@
+---
+product_id: "48014"
+digistore24_product_id: 550909
+title: "The Last Cigarette - A Guide to Quitting Smoking..."
+vendor: "Bavarian-RaceLabs"
+product_type: "E-books"
+price: 10.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2024-05-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/550909?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/550909"
+language: "en"
+---
 # The Last Cigarette - A Guide to Quitting Smoking...
 
 > Product ID `48014` · Digistore24 productId `550909` · [HTML profile page](../../reviews/the-last-cigarette-a-guide-to-quitting-smoking-48014.html)

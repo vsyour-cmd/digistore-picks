@@ -1,3 +1,24 @@
+---
+product_id: "60126"
+digistore24_product_id: 740626
+title: "MindSilence mental wellness app"
+vendor: "Ademun"
+product_type: "Member area and video courses"
+price: 177
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 61.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mindsilenceapp-1b2.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://mindsilenceapp-1b2.plannerpack.co"
+language: "en"
+---
 # MindSilence mental wellness app
 
 > Product ID `60126` · Digistore24 productId `740626` · [HTML profile page](../../reviews/mindsilence-mental-wellness-app-60126.html)

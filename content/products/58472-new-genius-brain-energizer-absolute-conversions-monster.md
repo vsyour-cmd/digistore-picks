@@ -1,3 +1,24 @@
+---
+product_id: "58472"
+digistore24_product_id: 723490
+title: "NEW: Genius Brain Energizer - Absolute Conversions Monster!"
+vendor: "energyofren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://feelbetter-today.com?aff=adminstore#aff=adminstore"
+sales_page: "http://feelbetter-today.com"
+language: "en"
+---
 # NEW: Genius Brain Energizer - Absolute Conversions Monster!
 
 > Product ID `58472` · Digistore24 productId `723490` · [HTML profile page](../../reviews/new-genius-brain-energizer-absolute-conversions-monster-58472.html)

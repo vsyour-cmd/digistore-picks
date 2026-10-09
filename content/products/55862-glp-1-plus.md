@@ -1,3 +1,24 @@
+---
+product_id: "55862"
+digistore24_product_id: 627405
+title: "GLP-1 Plus"
+vendor: "soundview"
+product_type: "Supplements - for slimming"
+price: 140.97
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 31.59
+cart_conversion_pct: 10
+cancel_rate_pct: 32.32
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm"
+language: "en"
+---
 # GLP-1 Plus
 
 > Product ID `55862` · Digistore24 productId `627405` · [HTML profile page](../../reviews/glp-1-plus-55862.html)

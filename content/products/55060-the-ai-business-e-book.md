@@ -1,3 +1,24 @@
+---
+product_id: "55060"
+digistore24_product_id: 658074
+title: "The AI Business E-book"
+vendor: "MohammedAsif_k"
+product_type: "E-books"
+price: 7
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 2.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658074?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658074"
+language: "en"
+---
 # The AI Business E-book
 
 > Product ID `55060` · Digistore24 productId `658074` · [HTML profile page](../../reviews/the-ai-business-e-book-55060.html)

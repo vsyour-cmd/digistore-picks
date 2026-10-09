@@ -1,3 +1,24 @@
+---
+product_id: "56317"
+digistore24_product_id: 683970
+title: "AI Song Blueprint – One Keyword. One Song. Done."
+vendor: "DomkeMedia"
+product_type: "E-books"
+price: 32.44
+currency: "USD"
+affiliate_commission_pct: 45
+earnings_per_sale: 14.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-04-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore"
+sales_page: "https://domke24.com/ai-song-blueprint/"
+language: "en"
+---
 # AI Song Blueprint – One Keyword. One Song. Done.
 
 > Product ID `56317` · Digistore24 productId `683970` · [HTML profile page](../../reviews/ai-song-blueprint-one-keyword-one-song-done-56317.html)

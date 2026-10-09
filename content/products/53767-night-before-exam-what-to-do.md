@@ -1,3 +1,24 @@
+---
+product_id: "53767"
+digistore24_product_id: 633269
+title: "Night Before Exam_What To Do"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633269?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633269"
+language: "en"
+---
 # Night Before Exam_What To Do
 
 > Product ID `53767` · Digistore24 productId `633269` · [HTML profile page](../../reviews/night-before-exam-what-to-do-53767.html)

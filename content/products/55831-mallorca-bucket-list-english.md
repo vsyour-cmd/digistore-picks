@@ -1,3 +1,24 @@
+---
+product_id: "55831"
+digistore24_product_id: 658170
+title: "Mallorca Bucket List (English)"
+vendor: "sarahvisita"
+product_type: "Downloads"
+price: 15.66
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.57
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Travel & Culture","Marketing Services"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658170?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658170"
+language: "en"
+---
 # Mallorca Bucket List (English)
 
 > Product ID `55831` · Digistore24 productId `658170` · [HTML profile page](../../reviews/mallorca-bucket-list-english-55831.html)

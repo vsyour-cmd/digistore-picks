@@ -1,3 +1,24 @@
+---
+product_id: "59421"
+digistore24_product_id: 735244
+title: "Perfectionism Detox"
+vendor: "professionalconfidence"
+product_type: "Member area and video courses"
+price: 21.58
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://perfectionismdetox-6vg.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://perfectionismdetox-6vg.plannerpack.co"
+language: "en"
+---
 # Perfectionism Detox
 
 > Product ID `59421` · Digistore24 productId `735244` · [HTML profile page](../../reviews/perfectionism-detox-59421.html)

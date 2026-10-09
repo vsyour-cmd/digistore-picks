@@ -1,3 +1,24 @@
+---
+product_id: "58319"
+digistore24_product_id: 721332
+title: "Furniture protection for cat owners"
+vendor: "decodivagmm4506"
+product_type: "Member area and video courses"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 6.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://furnitureprotectionforcatowners-9gn.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://furnitureprotectionforcatowners-9gn.plannerpack.co"
+language: "en"
+---
 # Furniture protection for cat owners
 
 > Product ID `58319` · Digistore24 productId `721332` · [HTML profile page](../../reviews/furniture-protection-for-cat-owners-58319.html)

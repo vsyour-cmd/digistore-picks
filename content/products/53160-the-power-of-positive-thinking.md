@@ -1,3 +1,24 @@
+---
+product_id: "53160"
+digistore24_product_id: 566028
+title: "The Power of Positive Thinking"
+vendor: "daianeandrew"
+product_type: "E-books"
+price: 4.47
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 0.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Sales Training"]
+listed_since: "2024-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/566028?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/566028"
+language: "en"
+---
 # The Power of Positive Thinking
 
 > Product ID `53160` · Digistore24 productId `566028` · [HTML profile page](../../reviews/the-power-of-positive-thinking-53160.html)

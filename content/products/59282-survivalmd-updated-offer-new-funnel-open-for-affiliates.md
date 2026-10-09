@@ -1,3 +1,24 @@
+---
+product_id: "59282"
+digistore24_product_id: 492636
+title: "SURVIVALMD - UPDATED OFFER + NEW FUNNEL|OPEN FOR AFFILIATES"
+vendor: "blackoutusa"
+product_type: "Book (printed)"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 27.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.survivalmd.net/vsl/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://www.survivalmd.net/vsl/index.php"
+language: "en"
+---
 # SURVIVALMD - UPDATED OFFER + NEW FUNNEL|OPEN FOR AFFILIATES
 
 > Product ID `59282` · Digistore24 productId `492636` · [HTML profile page](../../reviews/survivalmd-updated-offer-new-funnel-open-for-affiliates-59282.html)

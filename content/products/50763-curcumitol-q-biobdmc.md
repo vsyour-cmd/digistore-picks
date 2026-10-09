@@ -1,3 +1,24 @@
+---
+product_id: "50763"
+digistore24_product_id: 580375
+title: "Curcumitol-Q BioBDMC"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 55.87
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 33.52
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Curcumitol-Q/Stronger-Than-Regular-Curcumin/SL-V1.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Curcumitol-Q/Stronger-Than-Regular-Curcumin/SL-V1.htm"
+language: "en"
+---
 # Curcumitol-Q BioBDMC
 
 > Product ID `50763` · Digistore24 productId `580375` · [HTML profile page](../../reviews/curcumitol-q-biobdmc-50763.html)

@@ -1,3 +1,24 @@
+---
+product_id: "34427"
+digistore24_product_id: 352613
+title: "Diabetes Offer: Berberine Supplement"
+vendor: "simpleketo"
+product_type: "Supplements - health"
+price: 80.68
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 41.44
+cart_conversion_pct: 6
+cancel_rate_pct: 11.68
+categories: ["Food Supplements"]
+listed_since: "2020-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://discover.insulinherb.com/berberine-v2/?aff=adminstore#aff=adminstore"
+sales_page: "https://discover.insulinherb.com/berberine-v2/"
+language: "en"
+---
 # Diabetes Offer: Berberine Supplement
 
 > Product ID `34427` · Digistore24 productId `352613` · [HTML profile page](../../reviews/diabetes-offer-berberine-supplement-34427.html)

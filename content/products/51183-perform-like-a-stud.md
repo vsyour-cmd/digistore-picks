@@ -1,3 +1,24 @@
+---
+product_id: "51183"
+digistore24_product_id: 590554
+title: "Perform like a STUD"
+vendor: "ClubhouseStud"
+product_type: "Supplements - health"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 65.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-01-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://studperformance.com/d/?aff=adminstore#aff=adminstore"
+sales_page: "https://studperformance.com/d/"
+language: "en"
+---
 # Perform like a STUD
 
 > Product ID `51183` · Digistore24 productId `590554` · [HTML profile page](../../reviews/perform-like-a-stud-51183.html)

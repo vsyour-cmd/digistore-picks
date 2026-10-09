@@ -1,3 +1,24 @@
+---
+product_id: "53809"
+digistore24_product_id: 633482
+title: "Mastering Stress Without Medication"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633482?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633482"
+language: "en"
+---
 # Mastering Stress Without Medication
 
 > Product ID `53809` · Digistore24 productId `633482` · [HTML profile page](../../reviews/mastering-stress-without-medication-53809.html)

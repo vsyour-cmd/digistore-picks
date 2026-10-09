@@ -1,3 +1,24 @@
+---
+product_id: "55607"
+digistore24_product_id: 653250
+title: "DYNVERA Diary 2 | Decision-Making and Focus"
+vendor: "Dynvera"
+product_type: "E-books"
+price: 11.75
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-12-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dynvera.com/diaries?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dynvera.com/diaries"
+language: "en"
+---
 # DYNVERA Diary 2 | Decision-Making and Focus
 
 > Product ID `55607` · Digistore24 productId `653250` · [HTML profile page](../../reviews/dynvera-diary-2-decision-making-and-focus-55607.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53945"
+digistore24_product_id: 635401
+title: "Time Management for Busy People"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Online Marketing & E-Business","Personal Development"]
+listed_since: "2025-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635401?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635401"
+language: "en"
+---
 # Time Management for Busy People
 
 > Product ID `53945` · Digistore24 productId `635401` · [HTML profile page](../../reviews/time-management-for-busy-people-53945.html)

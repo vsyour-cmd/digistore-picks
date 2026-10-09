@@ -1,3 +1,24 @@
+---
+product_id: "54316"
+digistore24_product_id: 636335
+title: "CaviArgan"
+vendor: "koshea76"
+product_type: "Deliverable"
+price: 109.02
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 83.82
+cart_conversion_pct: 2
+cancel_rate_pct: 1.78
+categories: ["Skin Care"]
+listed_since: "2025-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://e-caviargan.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://e-caviargan.com/"
+language: "en"
+---
 # CaviArgan
 
 > Product ID `54316` · Digistore24 productId `636335` · [HTML profile page](../../reviews/caviargan-54316.html)

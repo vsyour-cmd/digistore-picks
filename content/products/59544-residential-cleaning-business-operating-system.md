@@ -1,3 +1,24 @@
+---
+product_id: "59544"
+digistore24_product_id: 732139
+title: "Residential Cleaning Business Operating System"
+vendor: "Juliannieh"
+product_type: "Downloads"
+price: 149
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 111.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Leadership & Management"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pawopsstudio.com/residential-cleaning-business-operating-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://pawopsstudio.com/residential-cleaning-business-operating-system/"
+language: "en"
+---
 # Residential Cleaning Business Operating System
 
 > Product ID `59544` · Digistore24 productId `732139` · [HTML profile page](../../reviews/residential-cleaning-business-operating-system-59544.html)

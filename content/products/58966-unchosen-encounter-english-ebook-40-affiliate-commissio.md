@@ -1,3 +1,24 @@
+---
+product_id: "58966"
+digistore24_product_id: 716124
+title: "Unchosen Encounter – English eBook | 40% Affiliate Commissio"
+vendor: "elbossilybooks"
+product_type: "E-books"
+price: 12.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Dating, Relationships & Romance"]
+listed_since: "2026-09-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/716124?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/716124"
+language: "en"
+---
 # Unchosen Encounter – English eBook | 40% Affiliate Commissio
 
 > Product ID `58966` · Digistore24 productId `716124` · [HTML profile page](../../reviews/unchosen-encounter-english-ebook-40-affiliate-commissio-58966.html)

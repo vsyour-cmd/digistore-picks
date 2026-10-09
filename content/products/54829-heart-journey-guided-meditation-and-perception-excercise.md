@@ -1,3 +1,24 @@
+---
+product_id: "54829"
+digistore24_product_id: 651678
+title: "Heart Journey | Guided Meditation and Perception Excercise"
+vendor: "Matrixreport"
+product_type: "Downloads"
+price: 11.07
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 2.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kevinmanke.com/the-heart-journey/?aff=adminstore#aff=adminstore"
+sales_page: "https://kevinmanke.com/the-heart-journey/"
+language: "en"
+---
 # Heart Journey | Guided Meditation and Perception Excercise
 
 > Product ID `54829` · Digistore24 productId `651678` · [HTML profile page](../../reviews/heart-journey-guided-meditation-and-perception-excercise-54829.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54271"
+digistore24_product_id: 639576
+title: "The AI Side Hustle System | Earn 75% Commissions"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 171.15
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 128.36
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/the-ai-side-hustle?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/the-ai-side-hustle"
+language: "en"
+---
 # The AI Side Hustle System | Earn 75% Commissions
 
 > Product ID `54271` · Digistore24 productId `639576` · [HTML profile page](../../reviews/the-ai-side-hustle-system-earn-75-commissions-54271.html)

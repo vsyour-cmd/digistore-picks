@@ -1,3 +1,24 @@
+---
+product_id: "50064"
+digistore24_product_id: 575223
+title: "AI Image Library PLR"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-10-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/the-ai-image-library?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/the-ai-image-library"
+language: "en"
+---
 # AI Image Library PLR
 
 > Product ID `50064` · Digistore24 productId `575223` · [HTML profile page](../../reviews/ai-image-library-plr-50064.html)

@@ -1,3 +1,24 @@
+---
+product_id: "46035"
+digistore24_product_id: 525847
+title: "Veganize Baking"
+vendor: "plantbasedresource"
+product_type: "E-books"
+price: 13.42
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 8.05
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2023-11-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.veganizebaking.com/vb-1/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.veganizebaking.com/vb-1/"
+language: "en"
+---
 # Veganize Baking
 
 > Product ID `46035` · Digistore24 productId `525847` · [HTML profile page](../../reviews/veganize-baking-46035.html)

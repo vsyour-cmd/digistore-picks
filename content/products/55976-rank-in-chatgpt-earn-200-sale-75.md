@@ -1,3 +1,24 @@
+---
+product_id: "55976"
+digistore24_product_id: 676823
+title: "Rank in ChatGPT – Earn $200+/Sale (75%)"
+vendor: "Rafa1217"
+product_type: "Software"
+price: 332.22
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 249.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Software"]
+listed_since: "2026-03-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fastseohub.com/digistore24?aff=adminstore#aff=adminstore"
+sales_page: "https://fastseohub.com/digistore24"
+language: "en"
+---
 # Rank in ChatGPT – Earn $200+/Sale (75%)
 
 > Product ID `55976` · Digistore24 productId `676823` · [HTML profile page](../../reviews/rank-in-chatgpt-earn-200-sale-75-55976.html)

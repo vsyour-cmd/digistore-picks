@@ -1,3 +1,24 @@
+---
+product_id: "58296"
+digistore24_product_id: 714245
+title: "Mediterranean Diet for Beginners - 7 Day Meal Plan"
+vendor: "NickiWieland"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.06
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/714245?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/714245"
+language: "en"
+---
 # Mediterranean Diet for Beginners - 7 Day Meal Plan
 
 > Product ID `58296` · Digistore24 productId `714245` · [HTML profile page](../../reviews/mediterranean-diet-for-beginners-7-day-meal-plan-58296.html)

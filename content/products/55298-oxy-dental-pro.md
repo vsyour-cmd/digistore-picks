@@ -1,3 +1,24 @@
+---
+product_id: "55298"
+digistore24_product_id: 663363
+title: "Oxy Dental Pro"
+vendor: "OxyDentalPro"
+product_type: "Supplements - health"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oxydental24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://oxydental24.com/text.php"
+language: "en"
+---
 # Oxy Dental Pro
 
 > Product ID `55298` · Digistore24 productId `663363` · [HTML profile page](../../reviews/oxy-dental-pro-55298.html)

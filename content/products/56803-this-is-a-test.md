@@ -1,3 +1,24 @@
+---
+product_id: "56803"
+digistore24_product_id: 698248
+title: "this is a test"
+vendor: "team24-gmurillo"
+product_type: "Deliverable"
+price: 70
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "http://www.talkwithgaby.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.talkwithgaby.com"
+language: "en"
+---
 # this is a test
 
 > Product ID `56803` · Digistore24 productId `698248` · [HTML profile page](../../reviews/this-is-a-test-56803.html)

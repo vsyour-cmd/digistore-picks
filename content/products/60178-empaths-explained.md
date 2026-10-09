@@ -1,3 +1,24 @@
+---
+product_id: "60178"
+digistore24_product_id: 741758
+title: "Empaths explained"
+vendor: "dawncalhoun434335"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 12.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://empathsexplained-3az.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://empathsexplained-3az.plannerpack.co"
+language: "en"
+---
 # Empaths explained
 
 > Product ID `60178` · Digistore24 productId `741758` · [HTML profile page](../../reviews/empaths-explained-60178.html)

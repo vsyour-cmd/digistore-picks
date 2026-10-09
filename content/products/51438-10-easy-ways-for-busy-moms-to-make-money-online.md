@@ -1,3 +1,24 @@
+---
+product_id: "51438"
+digistore24_product_id: 597360
+title: "10 Easy Ways for Busy Moms to Make Money Online"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 5.59
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 2.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2025-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/597360?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/597360"
+language: "en"
+---
 # 10 Easy Ways for Busy Moms to Make Money Online
 
 > Product ID `51438` · Digistore24 productId `597360` · [HTML profile page](../../reviews/10-easy-ways-for-busy-moms-to-make-money-online-51438.html)

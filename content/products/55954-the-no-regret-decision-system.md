@@ -1,3 +1,24 @@
+---
+product_id: "55954"
+digistore24_product_id: 674411
+title: "The No-Regret Decision System™"
+vendor: "fkcproject"
+product_type: "Downloads"
+price: 11.59
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Leadership & Management"]
+listed_since: "2026-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/674411?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/674411"
+language: "en"
+---
 # The No-Regret Decision System™
 
 > Product ID `55954` · Digistore24 productId `674411` · [HTML profile page](../../reviews/the-no-regret-decision-system-55954.html)

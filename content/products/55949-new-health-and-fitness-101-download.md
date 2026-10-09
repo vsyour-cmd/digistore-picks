@@ -1,3 +1,24 @@
+---
+product_id: "55949"
+digistore24_product_id: 669266
+title: "NEW: Health and Fitness 101 / Download"
+vendor: "Livemanuals"
+product_type: "E-books"
+price: 40.26
+currency: "USD"
+affiliate_commission_pct: 72
+earnings_per_sale: 28.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-02-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/669266?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/669266"
+language: "en"
+---
 # NEW: Health and Fitness 101 / Download
 
 > Product ID `55949` · Digistore24 productId `669266` · [HTML profile page](../../reviews/new-health-and-fitness-101-download-55949.html)

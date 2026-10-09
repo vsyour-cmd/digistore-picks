@@ -1,3 +1,24 @@
+---
+product_id: "47003"
+digistore24_product_id: 533952
+title: "LipoSlend"
+vendor: "LipoSlend"
+product_type: "Supplements - for slimming"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 180.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-01-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://theliposlend24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://theliposlend24.com/text.php"
+language: "en"
+---
 # LipoSlend
 
 > Product ID `47003` · Digistore24 productId `533952` · [HTML profile page](../../reviews/liposlend-47003.html)

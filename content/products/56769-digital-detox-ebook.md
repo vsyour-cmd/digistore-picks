@@ -1,3 +1,24 @@
+---
+product_id: "56769"
+digistore24_product_id: 695909
+title: "Digital Detox Ebook"
+vendor: "oraclefx"
+product_type: "E-books"
+price: 29.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Health & Fitness"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oraclefx.org/Digital-Detox/Sales-page.html?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/Digital-Detox/Sales-page.html"
+language: "en"
+---
 # Digital Detox Ebook
 
 > Product ID `56769` · Digistore24 productId `695909` · [HTML profile page](../../reviews/digital-detox-ebook-56769.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51493"
+digistore24_product_id: 598501
+title: "The Instagram Growth Blueprint + The Pathway to Profits"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 25.73
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2025-02-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/598501?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/598501"
+language: "en"
+---
 # The Instagram Growth Blueprint + The Pathway to Profits
 
 > Product ID `51493` · Digistore24 productId `598501` · [HTML profile page](../../reviews/the-instagram-growth-blueprint-the-pathway-to-profits-51493.html)

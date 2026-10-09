@@ -1,3 +1,24 @@
+---
+product_id: "56619"
+digistore24_product_id: 693481
+title: "Premium Course - Forex Trading Strategies Masterclass"
+vendor: "oraclefx"
+product_type: "Member area and video courses"
+price: 120
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oraclefx.org/courses/trading-strategies-and-tactics-learn-profitable-forex-trading-strategies?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/courses/trading-strategies-and-tactics-learn-profitable-forex-trading-strategies"
+language: "en"
+---
 # Premium Course - Forex Trading Strategies Masterclass
 
 > Product ID `56619` · Digistore24 productId `693481` · [HTML profile page](../../reviews/premium-course-forex-trading-strategies-masterclass-56619.html)

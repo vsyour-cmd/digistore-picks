@@ -1,3 +1,24 @@
+---
+product_id: "58864"
+digistore24_product_id: 728290
+title: "Turn AI Tools Into a Structured 60-Day Business System"
+vendor: "ramib6566a327"
+product_type: "E-books"
+price: 67
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 50.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aioperator.esr.mobi/digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://aioperator.esr.mobi/digistore/"
+language: "en"
+---
 # Turn AI Tools Into a Structured 60-Day Business System
 
 > Product ID `58864` · Digistore24 productId `728290` · [HTML profile page](../../reviews/turn-ai-tools-into-a-structured-60-day-business-system-58864.html)

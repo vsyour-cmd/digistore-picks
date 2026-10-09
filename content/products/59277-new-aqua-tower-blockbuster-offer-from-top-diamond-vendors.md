@@ -1,3 +1,24 @@
+---
+product_id: "59277"
+digistore24_product_id: 732876
+title: "NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors"
+vendor: "energyofren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://feelbetter-today.com/clean-water?aff=adminstore#aff=adminstore"
+sales_page: "https://feelbetter-today.com/clean-water"
+language: "en"
+---
 # NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors
 
 > Product ID `59277` · Digistore24 productId `732876` · [HTML profile page](../../reviews/new-aqua-tower-blockbuster-offer-from-top-diamond-vendors-59277.html)

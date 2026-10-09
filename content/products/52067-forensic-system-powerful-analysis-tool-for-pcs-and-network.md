@@ -1,3 +1,24 @@
+---
+product_id: "52067"
+digistore24_product_id: 518672
+title: "Forensic System – Powerful Analysis Tool for PCs and Network"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 31.01
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 9.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Hobby & Craft","Software"]
+listed_since: "2023-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/518672?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/518672"
+language: "en"
+---
 # Forensic System – Powerful Analysis Tool for PCs and Network
 
 > Product ID `52067` · Digistore24 productId `518672` · [HTML profile page](../../reviews/forensic-system-powerful-analysis-tool-for-pcs-and-network-52067.html)

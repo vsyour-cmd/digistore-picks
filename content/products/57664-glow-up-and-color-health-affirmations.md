@@ -1,3 +1,24 @@
+---
+product_id: "57664"
+digistore24_product_id: 714052
+title: "Glow Up And Color Health Affirmations"
+vendor: "livingthelalalife"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://glowupandcolorhealthaffirmations-tp8.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://glowupandcolorhealthaffirmations-tp8.plannerpack.co"
+language: "en"
+---
 # Glow Up And Color Health Affirmations
 
 > Product ID `57664` · Digistore24 productId `714052` · [HTML profile page](../../reviews/glow-up-and-color-health-affirmations-57664.html)

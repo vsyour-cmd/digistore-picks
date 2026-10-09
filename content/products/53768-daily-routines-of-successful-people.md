@@ -1,3 +1,24 @@
+---
+product_id: "53768"
+digistore24_product_id: 633282
+title: "Daily Routines of Successful People"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Personal Development"]
+listed_since: "2025-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633282?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633282"
+language: "en"
+---
 # Daily Routines of Successful People
 
 > Product ID `53768` · Digistore24 productId `633282` · [HTML profile page](../../reviews/daily-routines-of-successful-people-53768.html)

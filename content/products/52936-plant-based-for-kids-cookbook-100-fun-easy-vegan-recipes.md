@@ -1,3 +1,24 @@
+---
+product_id: "52936"
+digistore24_product_id: 618774
+title: "Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes"
+vendor: "plantbasedresource"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 11.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2025-06-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.plantbasedforkids.com/ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.plantbasedforkids.com/ds/"
+language: "en"
+---
 # Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes
 
 > Product ID `52936` · Digistore24 productId `618774` · [HTML profile page](../../reviews/plant-based-for-kids-cookbook-100-fun-easy-vegan-recipes-52936.html)

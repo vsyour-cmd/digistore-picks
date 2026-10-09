@@ -1,3 +1,24 @@
+---
+product_id: "60015"
+digistore24_product_id: 732112
+title: "The Household Continuity Blueprint"
+vendor: "iconiclux"
+product_type: "Downloads"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 32.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://household-continuity-blueprint-k6l.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://household-continuity-blueprint-k6l.plannerpack.co"
+language: "en"
+---
 # The Household Continuity Blueprint
 
 > Product ID `60015` · Digistore24 productId `732112` · [HTML profile page](../../reviews/the-household-continuity-blueprint-60015.html)

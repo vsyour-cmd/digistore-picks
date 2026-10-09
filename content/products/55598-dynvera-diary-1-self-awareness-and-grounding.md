@@ -1,3 +1,24 @@
+---
+product_id: "55598"
+digistore24_product_id: 652803
+title: "DYNVERA Diary 1 | Self-Awareness and Grounding"
+vendor: "Dynvera"
+product_type: "E-books"
+price: 11.75
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-12-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dynvera.com/diaries?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dynvera.com/diaries"
+language: "en"
+---
 # DYNVERA Diary 1 | Self-Awareness and Grounding
 
 > Product ID `55598` · Digistore24 productId `652803` · [HTML profile page](../../reviews/dynvera-diary-1-self-awareness-and-grounding-55598.html)

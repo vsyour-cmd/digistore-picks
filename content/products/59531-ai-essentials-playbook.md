@@ -1,3 +1,24 @@
+---
+product_id: "59531"
+digistore24_product_id: 735955
+title: "AI Essentials Playbook"
+vendor: "lebukdigital"
+product_type: "Member area and video courses"
+price: 219
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 76.65
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aiessentialsplaybook-a9d.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://aiessentialsplaybook-a9d.plannerpack.co"
+language: "en"
+---
 # AI Essentials Playbook
 
 > Product ID `59531` · Digistore24 productId `735955` · [HTML profile page](../../reviews/ai-essentials-playbook-59531.html)

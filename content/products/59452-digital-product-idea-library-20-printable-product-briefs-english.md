@@ -1,3 +1,24 @@
+---
+product_id: "59452"
+digistore24_product_id: 735481
+title: "Digital Product Idea Library - 20 Printable Product Briefs (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735481?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735481"
+language: "en"
+---
 # Digital Product Idea Library - 20 Printable Product Briefs (English)
 
 > Product ID `59452` · Digistore24 productId `735481` · [HTML profile page](../../reviews/digital-product-idea-library-20-printable-product-briefs-english-59452.html)

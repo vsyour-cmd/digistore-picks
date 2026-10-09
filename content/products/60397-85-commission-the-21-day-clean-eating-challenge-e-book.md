@@ -1,3 +1,24 @@
+---
+product_id: "60397"
+digistore24_product_id: 734044
+title: "85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book"
+vendor: "dietitianwajeeha"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 21.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/?aff=adminstore#aff=adminstore"
+sales_page: "https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/"
+language: "en"
+---
 # 85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book
 
 > Product ID `60397` · Digistore24 productId `734044` · [HTML profile page](../../reviews/85-commission-the-21-day-clean-eating-challenge-e-book-60397.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54628"
+digistore24_product_id: 646770
+title: "The Sugar Reset: Balanced Blood Sugar for Lifelong Energy"
+vendor: "manuelcosta"
+product_type: "E-books"
+price: 33.56
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 26.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2025-11-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sugarresetpage.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://sugarresetpage.netlify.app/"
+language: "en"
+---
 # The Sugar Reset: Balanced Blood Sugar for Lifelong Energy
 
 > Product ID `54628` · Digistore24 productId `646770` · [HTML profile page](../../reviews/the-sugar-reset-balanced-blood-sugar-for-lifelong-energy-54628.html)

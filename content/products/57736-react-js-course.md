@@ -1,3 +1,24 @@
+---
+product_id: "57736"
+digistore24_product_id: 715167
+title: "react js course"
+vendor: "litvipenkoadfc"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://reactjscourse-dk0.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://reactjscourse-dk0.plannerpack.fun"
+language: "en"
+---
 # react js course
 
 > Product ID `57736` · Digistore24 productId `715167` · [HTML profile page](../../reviews/react-js-course-57736.html)

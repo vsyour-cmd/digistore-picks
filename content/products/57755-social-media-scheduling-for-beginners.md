@@ -1,3 +1,24 @@
+---
+product_id: "57755"
+digistore24_product_id: 715585
+title: "Social Media Scheduling for Beginners"
+vendor: "AprilBrumm"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://scheduling.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://scheduling.plannerpack.co"
+language: "en"
+---
 # Social Media Scheduling for Beginners
 
 > Product ID `57755` · Digistore24 productId `715585` · [HTML profile page](../../reviews/social-media-scheduling-for-beginners-57755.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58514"
+digistore24_product_id: 720119
+title: "Annual Budget Planner 2026 – Complete Automated Excel Budget"
+vendor: "GreatDigital"
+product_type: "Downloads"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 23.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Software"]
+listed_since: "2026-08-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://go.annualbudgetplanner.shop/digistore24?aff=adminstore#aff=adminstore"
+sales_page: "https://go.annualbudgetplanner.shop/digistore24"
+language: "en"
+---
 # Annual Budget Planner 2026 – Complete Automated Excel Budget
 
 > Product ID `58514` · Digistore24 productId `720119` · [HTML profile page](../../reviews/annual-budget-planner-2026-complete-automated-excel-budget-58514.html)

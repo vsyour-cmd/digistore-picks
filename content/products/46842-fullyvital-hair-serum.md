@@ -1,3 +1,24 @@
+---
+product_id: "46842"
+digistore24_product_id: 569717
+title: "FullyVital Hair Serum"
+vendor: "fullyvital25"
+product_type: "Deliverable"
+price: 174.5
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 104.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://gro.fullyvital.com/aff/?aff=adminstore#aff=adminstore"
+sales_page: "https://gro.fullyvital.com/aff/"
+language: "en"
+---
 # FullyVital Hair Serum
 
 > Product ID `46842` · Digistore24 productId `569717` · [HTML profile page](../../reviews/fullyvital-hair-serum-46842.html)

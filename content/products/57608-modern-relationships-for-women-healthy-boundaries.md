@@ -1,3 +1,24 @@
+---
+product_id: "57608"
+digistore24_product_id: 710881
+title: "Modern Relationships for Women - Healthy Boundaries"
+vendor: "jorge9cb0"
+product_type: "Member area and video courses"
+price: 61.08
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 45.81
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education"]
+listed_since: "2026-07-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://full-wisdom.com/courses/modern-relationships-for-women/digistore24?aff=adminstore#aff=adminstore"
+sales_page: "https://full-wisdom.com/courses/modern-relationships-for-women/digistore24"
+language: "en"
+---
 # Modern Relationships for Women - Healthy Boundaries
 
 > Product ID `57608` · Digistore24 productId `710881` · [HTML profile page](../../reviews/modern-relationships-for-women-healthy-boundaries-57608.html)

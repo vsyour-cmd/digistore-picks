@@ -1,3 +1,24 @@
+---
+product_id: "58538"
+digistore24_product_id: 725183
+title: "Enhanced memory and cognitive support"
+vendor: "louiselorineb69d"
+product_type: "Member area and video courses"
+price: 49.95
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 17.48
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://memorycogsupport-x1x.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://memorycogsupport-x1x.plannerpack.co"
+language: "en"
+---
 # Enhanced memory and cognitive support
 
 > Product ID `58538` · Digistore24 productId `725183` · [HTML profile page](../../reviews/enhanced-memory-and-cognitive-support-58538.html)

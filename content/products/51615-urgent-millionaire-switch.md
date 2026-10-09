@@ -1,3 +1,24 @@
+---
+product_id: "51615"
+digistore24_product_id: 598224
+title: "Urgent Millionaire Switch"
+vendor: "verifydata"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-02-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://urgentmillionaire.com/vsl/index_ds24.php?aff=adminstore#aff=adminstore"
+sales_page: "https://urgentmillionaire.com/vsl/index_ds24.php"
+language: "en"
+---
 # Urgent Millionaire Switch
 
 > Product ID `51615` · Digistore24 productId `598224` · [HTML profile page](../../reviews/urgent-millionaire-switch-51615.html)

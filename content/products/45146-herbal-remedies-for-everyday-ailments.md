@@ -1,3 +1,24 @@
+---
+product_id: "45146"
+digistore24_product_id: 513927
+title: "Herbal Remedies for Everyday Ailments"
+vendor: "Monis007"
+product_type: "E-books"
+price: 13.42
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Survival"]
+listed_since: "2023-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://socialartiste7.systeme.io/herbalremedy?aff=adminstore#aff=adminstore"
+sales_page: "https://socialartiste7.systeme.io/herbalremedy"
+language: "en"
+---
 # Herbal Remedies for Everyday Ailments
 
 > Product ID `45146` · Digistore24 productId `513927` · [HTML profile page](../../reviews/herbal-remedies-for-everyday-ailments-45146.html)

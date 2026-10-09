@@ -1,3 +1,24 @@
+---
+product_id: "53980"
+digistore24_product_id: 635589
+title: "Mindful Eating Made Simple"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2025-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635589?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635589"
+language: "en"
+---
 # Mindful Eating Made Simple
 
 > Product ID `53980` · Digistore24 productId `635589` · [HTML profile page](../../reviews/mindful-eating-made-simple-53980.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59447"
+digistore24_product_id: 730547
+title: "Arabic-English Language Course A1 Lessons 1–50 with Audi"
+vendor: "nowdigitalproducts"
+product_type: "Downloads"
+price: 16.67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/730547?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/730547"
+language: "en"
+---
 # Arabic-English Language Course A1 Lessons 1–50 with Audi
 
 > Product ID `59447` · Digistore24 productId `730547` · [HTML profile page](../../reviews/arabic-english-language-course-a1-lessons-1-50-with-audi-59447.html)

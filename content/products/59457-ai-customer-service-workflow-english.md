@@ -1,3 +1,24 @@
+---
+product_id: "59457"
+digistore24_product_id: 735499
+title: "AI Customer Service Workflow (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Profession & Job","Office Organization"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/735499?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735499"
+language: "en"
+---
 # AI Customer Service Workflow (English)
 
 > Product ID `59457` · Digistore24 productId `735499` · [HTML profile page](../../reviews/ai-customer-service-workflow-english-59457.html)

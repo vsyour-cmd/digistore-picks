@@ -1,3 +1,24 @@
+---
+product_id: "60072"
+digistore24_product_id: 735840
+title: "Content Marketing Rookie"
+vendor: "Hamzaali036"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 17.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/735840?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/735840"
+language: "en"
+---
 # Content Marketing Rookie
 
 > Product ID `60072` · Digistore24 productId `735840` · [HTML profile page](../../reviews/content-marketing-rookie-60072.html)

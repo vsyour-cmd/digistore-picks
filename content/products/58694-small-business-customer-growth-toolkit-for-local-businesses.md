@@ -1,3 +1,24 @@
+---
+product_id: "58694"
+digistore24_product_id: 724574
+title: "Small Business Customer Growth Toolkit for Local Businesses"
+vendor: "IoTSystemsGrowthSolutions"
+product_type: "Software"
+price: 99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 49.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-08-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marketplace.iotsystemsgrowth.com/small-business-customer-growth-toolkit-digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://marketplace.iotsystemsgrowth.com/small-business-customer-growth-toolkit-digistore/"
+language: "en"
+---
 # Small Business Customer Growth Toolkit for Local Businesses
 
 > Product ID `58694` · Digistore24 productId `724574` · [HTML profile page](../../reviews/small-business-customer-growth-toolkit-for-local-businesses-58694.html)

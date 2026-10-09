@@ -1,3 +1,24 @@
+---
+product_id: "56561"
+digistore24_product_id: 689581
+title: "Square Nail Shape Mastery"
+vendor: "info5a25"
+product_type: "Member area and video courses"
+price: 59.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 30
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Fashion","Health & Fitness"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vel.academy/course-square-d24?aff=adminstore#aff=adminstore"
+sales_page: "https://vel.academy/course-square-d24"
+language: "en"
+---
 # Square Nail Shape Mastery
 
 > Product ID `56561` · Digistore24 productId `689581` · [HTML profile page](../../reviews/square-nail-shape-mastery-56561.html)

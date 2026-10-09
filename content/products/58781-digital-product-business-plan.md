@@ -1,3 +1,24 @@
+---
+product_id: "58781"
+digistore24_product_id: 727951
+title: "Digital Product Business Plan"
+vendor: "pbcook416cbd7"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://digitalproductplan-j3y.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://digitalproductplan-j3y.plannerpack.co"
+language: "en"
+---
 # Digital Product Business Plan
 
 > Product ID `58781` · Digistore24 productId `727951` · [HTML profile page](../../reviews/digital-product-business-plan-58781.html)

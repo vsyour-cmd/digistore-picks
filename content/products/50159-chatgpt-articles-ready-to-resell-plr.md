@@ -1,3 +1,24 @@
+---
+product_id: "50159"
+digistore24_product_id: 576436
+title: "ChatGPT Articles ready to resell! PLR"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Profession & Job"]
+listed_since: "2024-10-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/ChatGPT-Articles-PLR/?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/ChatGPT-Articles-PLR/"
+language: "en"
+---
 # ChatGPT Articles ready to resell! PLR
 
 > Product ID `50159` · Digistore24 productId `576436` · [HTML profile page](../../reviews/chatgpt-articles-ready-to-resell-plr-50159.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57724"
+digistore24_product_id: 565409
+title: "User Requirements Mastery"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software","Leadership & Management","Project Management"]
+listed_since: "2026-07-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/user-requirements-masterclass/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/user-requirements-masterclass/"
+language: "en"
+---
 # User Requirements Mastery
 
 > Product ID `57724` · Digistore24 productId `565409` · [HTML profile page](../../reviews/user-requirements-mastery-57724.html)

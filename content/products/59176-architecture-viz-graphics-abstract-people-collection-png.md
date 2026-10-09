@@ -1,3 +1,24 @@
+---
+product_id: "59176"
+digistore24_product_id: 593563
+title: "Architecture VIZ Graphics – Abstract People Collection PNG"
+vendor: "Tonytextures"
+product_type: "Downloads"
+price: 159
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 39.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.tonytextures.com/architecture-people-cutout-silhouettes/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.tonytextures.com/architecture-people-cutout-silhouettes/"
+language: "en"
+---
 # Architecture VIZ Graphics – Abstract People Collection PNG
 
 > Product ID `59176` · Digistore24 productId `593563` · [HTML profile page](../../reviews/architecture-viz-graphics-abstract-people-collection-png-59176.html)

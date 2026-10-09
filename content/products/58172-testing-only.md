@@ -1,3 +1,24 @@
+---
+product_id: "58172"
+digistore24_product_id: 719298
+title: "Testing Only"
+vendor: "team24-tho"
+product_type: "Book (printed)"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 3.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fashion","Marketing Services"]
+listed_since: "2026-08-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/719298?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/719298"
+language: "en"
+---
 # Testing Only
 
 > Product ID `58172` · Digistore24 productId `719298` · [HTML profile page](../../reviews/testing-only-58172.html)

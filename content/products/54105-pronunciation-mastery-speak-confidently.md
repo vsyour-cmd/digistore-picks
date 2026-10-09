@@ -1,3 +1,24 @@
+---
+product_id: "54105"
+digistore24_product_id: 636857
+title: "Pronunciation Mastery_Speak Confidently"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Personal Development"]
+listed_since: "2025-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636857?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636857"
+language: "en"
+---
 # Pronunciation Mastery_Speak Confidently
 
 > Product ID `54105` · Digistore24 productId `636857` · [HTML profile page](../../reviews/pronunciation-mastery-speak-confidently-54105.html)

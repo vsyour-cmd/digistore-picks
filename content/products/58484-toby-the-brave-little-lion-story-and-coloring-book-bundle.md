@@ -1,3 +1,24 @@
+---
+product_id: "58484"
+digistore24_product_id: 721060
+title: "Toby the Brave Little Lion – Story and Coloring Book Bundle"
+vendor: "a968403496d45"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 5.99
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-08-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/721060?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/721060"
+language: "en"
+---
 # Toby the Brave Little Lion – Story and Coloring Book Bundle
 
 > Product ID `58484` · Digistore24 productId `721060` · [HTML profile page](../../reviews/toby-the-brave-little-lion-story-and-coloring-book-bundle-58484.html)

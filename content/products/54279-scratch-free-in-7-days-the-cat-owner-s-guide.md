@@ -1,3 +1,24 @@
+---
+product_id: "54279"
+digistore24_product_id: 639524
+title: "Scratch-Free in 7 Days: The Cat Owner's Guide"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 135.35
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 101.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/scratch-free-in-7-days?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/scratch-free-in-7-days"
+language: "en"
+---
 # Scratch-Free in 7 Days: The Cat Owner's Guide
 
 > Product ID `54279` · Digistore24 productId `639524` · [HTML profile page](../../reviews/scratch-free-in-7-days-the-cat-owner-s-guide-54279.html)

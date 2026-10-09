@@ -1,3 +1,24 @@
+---
+product_id: "59155"
+digistore24_product_id: 732626
+title: "Earn 20% Commission on Our 30-Video Vacation-Rental Package"
+vendor: "wdpxdigitalproducts"
+product_type: "Remote service provided electronically"
+price: 3130.96
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 626.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Real Estate","Marketing Services"]
+listed_since: "2026-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://airbnb.wdpx.de/video-pakete/?aff=adminstore#aff=adminstore"
+sales_page: "https://airbnb.wdpx.de/video-pakete/"
+language: "en"
+---
 # Earn 20% Commission on Our 30-Video Vacation-Rental Package
 
 > Product ID `59155` · Digistore24 productId `732626` · [HTML profile page](../../reviews/earn-20-commission-on-our-30-video-vacation-rental-package-59155.html)

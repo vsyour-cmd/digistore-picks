@@ -1,3 +1,24 @@
+---
+product_id: "54568"
+digistore24_product_id: 646135
+title: "Forex Market Balance Strategy For MetaTrader 4"
+vendor: "forexobroker"
+product_type: "Software"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Software"]
+listed_since: "2025-11-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://forexprofitkeeper.com/forex-market-balance-strategy-dg/?aff=adminstore#aff=adminstore"
+sales_page: "https://forexprofitkeeper.com/forex-market-balance-strategy-dg/"
+language: "en"
+---
 # Forex Market Balance Strategy For MetaTrader 4
 
 > Product ID `54568` · Digistore24 productId `646135` · [HTML profile page](../../reviews/forex-market-balance-strategy-for-metatrader-4-54568.html)

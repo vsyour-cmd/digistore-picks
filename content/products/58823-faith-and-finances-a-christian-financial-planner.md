@@ -1,3 +1,24 @@
+---
+product_id: "58823"
+digistore24_product_id: 728374
+title: "Faith and Finances: A Christian Financial Planner"
+vendor: "eileendumlao"
+product_type: "Member area and video courses"
+price: 17
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 5.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://faithfinanceschristian-7mh.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://faithfinanceschristian-7mh.plannerpack.co"
+language: "en"
+---
 # Faith and Finances: A Christian Financial Planner
 
 > Product ID `58823` · Digistore24 productId `728374` · [HTML profile page](../../reviews/faith-and-finances-a-christian-financial-planner-58823.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53756"
+digistore24_product_id: 633267
+title: "Influencer To Entrepreneur"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Personal Development","Social Media"]
+listed_since: "2025-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633267?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633267"
+language: "en"
+---
 # Influencer To Entrepreneur
 
 > Product ID `53756` · Digistore24 productId `633267` · [HTML profile page](../../reviews/influencer-to-entrepreneur-53756.html)

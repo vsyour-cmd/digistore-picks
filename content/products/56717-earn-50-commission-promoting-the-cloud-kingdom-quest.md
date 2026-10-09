@@ -1,3 +1,24 @@
+---
+product_id: "56717"
+digistore24_product_id: 696023
+title: "Earn 50% Commission Promoting The Cloud Kingdom Quest"
+vendor: "Kidora_Stories"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children"]
+listed_since: "2026-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest&aff=adminstore#aff=adminstore"
+sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest"
+language: "en"
+---
 # Earn 50% Commission Promoting The Cloud Kingdom Quest
 
 > Product ID `56717` · Digistore24 productId `696023` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-cloud-kingdom-quest-56717.html)

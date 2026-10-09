@@ -1,3 +1,24 @@
+---
+product_id: "54785"
+digistore24_product_id: 636498
+title: "The Mental Performance System for Athletes ‎"
+vendor: "Grace333"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 16.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Personal Development"]
+listed_since: "2025-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mentalwarfaresystem.com?aff=adminstore#aff=adminstore"
+sales_page: "https://mentalwarfaresystem.com"
+language: "en"
+---
 # The Mental Performance System for Athletes ‎
 
 > Product ID `54785` · Digistore24 productId `636498` · [HTML profile page](../../reviews/the-mental-performance-system-for-athletes-54785.html)

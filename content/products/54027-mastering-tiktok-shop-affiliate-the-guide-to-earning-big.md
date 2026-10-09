@@ -1,3 +1,24 @@
+---
+product_id: "54027"
+digistore24_product_id: 635074
+title: "Mastering TikTok Shop Affiliate – The Guide to Earning Big"
+vendor: "moneywithangie"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
+listed_since: "2025-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635074?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635074"
+language: "en"
+---
 # Mastering TikTok Shop Affiliate – The Guide to Earning Big
 
 > Product ID `54027` · Digistore24 productId `635074` · [HTML profile page](../../reviews/mastering-tiktok-shop-affiliate-the-guide-to-earning-big-54027.html)

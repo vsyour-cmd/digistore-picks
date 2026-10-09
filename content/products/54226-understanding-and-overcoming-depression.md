@@ -1,3 +1,24 @@
+---
+product_id: "54226"
+digistore24_product_id: 638691
+title: "Understanding and Overcoming Depression"
+vendor: "Hei-Mel"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.71
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://marilia.de/ratgeber/ebook-understanding-and-overcoming-depression/?aff=adminstore#aff=adminstore"
+sales_page: "https://marilia.de/ratgeber/ebook-understanding-and-overcoming-depression/"
+language: "en"
+---
 # Understanding and Overcoming Depression
 
 > Product ID `54226` · Digistore24 productId `638691` · [HTML profile page](../../reviews/understanding-and-overcoming-depression-54226.html)

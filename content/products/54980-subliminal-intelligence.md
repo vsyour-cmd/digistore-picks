@@ -1,3 +1,24 @@
+---
+product_id: "54980"
+digistore24_product_id: 656795
+title: "Subliminal‏ Intelligence"
+vendor: "frequencies8888"
+product_type: "Downloads"
+price: 73.83
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 29.53
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453?aff=adminstore#aff=adminstore"
+sales_page: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453"
+language: "en"
+---
 # Subliminal‏ Intelligence
 
 > Product ID `54980` · Digistore24 productId `656795` · [HTML profile page](../../reviews/subliminal-intelligence-54980.html)

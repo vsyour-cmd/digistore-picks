@@ -1,3 +1,24 @@
+---
+product_id: "59406"
+digistore24_product_id: 734900
+title: "Power Grid Generator - New Conversion Blockbuster Offer 2026"
+vendor: "energyofren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://feelbetter-today.com/power-generator?aff=adminstore#aff=adminstore"
+sales_page: "http://feelbetter-today.com/power-generator"
+language: "en"
+---
 # Power Grid Generator - New Conversion Blockbuster Offer 2026
 
 > Product ID `59406` · Digistore24 productId `734900` · [HTML profile page](../../reviews/power-grid-generator-new-conversion-blockbuster-offer-2026-59406.html)

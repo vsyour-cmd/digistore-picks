@@ -1,3 +1,24 @@
+---
+product_id: "47137"
+digistore24_product_id: 539181
+title: "DentiCore"
+vendor: "DentiCore"
+product_type: "Supplements - health"
+price: 184.37
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 123.16
+cart_conversion_pct: 5
+cancel_rate_pct: 7.39
+categories: ["Food Supplements"]
+listed_since: "2024-02-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://denticore24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://denticore24.com/text.php"
+language: "en"
+---
 # DentiCore
 
 > Product ID `47137` · Digistore24 productId `539181` · [HTML profile page](../../reviews/denticore-47137.html)

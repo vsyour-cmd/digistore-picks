@@ -1,3 +1,24 @@
+---
+product_id: "57089"
+digistore24_product_id: 693472
+title: "Earn 65% Commission Promoting Women's Wellness Journaling"
+vendor: "ZoeWomen"
+product_type: "E-books"
+price: 14.99
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 9.74
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://byzoewomen.com/journal-ds24.html?aff=adminstore#aff=adminstore"
+sales_page: "https://byzoewomen.com/journal-ds24.html"
+language: "en"
+---
 # Earn 65% Commission Promoting Women's Wellness Journaling
 
 > Product ID `57089` · Digistore24 productId `693472` · [HTML profile page](../../reviews/earn-65-commission-promoting-women-s-wellness-journaling-57089.html)

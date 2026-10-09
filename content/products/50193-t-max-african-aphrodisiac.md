@@ -1,3 +1,24 @@
+---
+product_id: "50193"
+digistore24_product_id: 577057
+title: "T-Max - African Aphrodisiac"
+vendor: "AlSearsMD"
+product_type: "Supplements - health"
+price: 55.87
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 36.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-10-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://partners.primalforce.net/sp/sex-root-video-digi/?aff=adminstore#aff=adminstore"
+sales_page: "https://partners.primalforce.net/sp/sex-root-video-digi/"
+language: "en"
+---
 # T-Max - African Aphrodisiac
 
 > Product ID `50193` · Digistore24 productId `577057` · [HTML profile page](../../reviews/t-max-african-aphrodisiac-50193.html)

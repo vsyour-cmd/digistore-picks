@@ -1,3 +1,24 @@
+---
+product_id: "53180"
+digistore24_product_id: 619373
+title: "Top T — Advanced Testosterone Booster"
+vendor: "enhancedlabs"
+product_type: "Supplements - health"
+price: 293.59
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 176.16
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-06-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/619373?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/619373"
+language: "en"
+---
 # Top T — Advanced Testosterone Booster
 
 > Product ID `53180` · Digistore24 productId `619373` · [HTML profile page](../../reviews/top-t-advanced-testosterone-booster-53180.html)

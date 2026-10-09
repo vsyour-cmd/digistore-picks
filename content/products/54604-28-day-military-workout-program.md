@@ -1,3 +1,24 @@
+---
+product_id: "54604"
+digistore24_product_id: 640694
+title: "28 Day Military Workout Program"
+vendor: "aariann"
+product_type: "E-books"
+price: 22.37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Sport"]
+listed_since: "2025-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.wellfiteats.com/28-day-military-workout-plan?aff=adminstore#aff=adminstore"
+sales_page: "https://www.wellfiteats.com/28-day-military-workout-plan"
+language: "en"
+---
 # 28 Day Military Workout Program
 
 > Product ID `54604` · Digistore24 productId `640694` · [HTML profile page](../../reviews/28-day-military-workout-program-54604.html)

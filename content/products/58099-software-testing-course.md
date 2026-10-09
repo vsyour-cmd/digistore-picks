@@ -1,3 +1,24 @@
+---
+product_id: "58099"
+digistore24_product_id: 617455
+title: "Software Testing Course"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 67
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 33.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Profession & Job","Software"]
+listed_since: "2026-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/software-testing-course/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/software-testing-course/"
+language: "en"
+---
 # Software Testing Course
 
 > Product ID `58099` · Digistore24 productId `617455` · [HTML profile page](../../reviews/software-testing-course-58099.html)

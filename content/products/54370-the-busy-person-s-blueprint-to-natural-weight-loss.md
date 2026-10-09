@@ -1,3 +1,24 @@
+---
+product_id: "54370"
+digistore24_product_id: 641039
+title: "The Busy Person's Blueprint to Natural Weight Loss"
+vendor: "Fitlifesolutions"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 29.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-10-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pages.fitlifesolutions.site/sales/?id=641039&aff=adminstore#aff=adminstore"
+sales_page: "https://pages.fitlifesolutions.site/sales/?id=641039"
+language: "en"
+---
 # The Busy Person's Blueprint to Natural Weight Loss
 
 > Product ID `54370` · Digistore24 productId `641039` · [HTML profile page](../../reviews/the-busy-person-s-blueprint-to-natural-weight-loss-54370.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50476"
+digistore24_product_id: 581314
+title: "Digital Wealth Academy: Top Trending Offer of 2025!"
+vendor: "Qadeerbiz"
+product_type: "Member area and video courses"
+price: 555.94
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 277.97
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+listed_since: "2024-11-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digital-success.pages.dev/?aff=adminstore#aff=adminstore"
+sales_page: "https://digital-success.pages.dev/"
+language: "en"
+---
 # Digital Wealth Academy: Top Trending Offer of 2025!
 
 > Product ID `50476` · Digistore24 productId `581314` · [HTML profile page](../../reviews/digital-wealth-academy-top-trending-offer-of-2025-50476.html)

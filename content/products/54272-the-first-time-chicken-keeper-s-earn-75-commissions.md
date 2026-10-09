@@ -1,3 +1,24 @@
+---
+product_id: "54272"
+digistore24_product_id: 639587
+title: "The First-Time Chicken Keeper's  | Earn 75% Commissions"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 123.33
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist"
+language: "en"
+---
 # The First-Time Chicken Keeper's  | Earn 75% Commissions
 
 > Product ID `54272` · Digistore24 productId `639587` · [HTML profile page](../../reviews/the-first-time-chicken-keeper-s-earn-75-commissions-54272.html)

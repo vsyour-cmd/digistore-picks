@@ -1,3 +1,24 @@
+---
+product_id: "52373"
+digistore24_product_id: 609184
+title: "Tesla Grounding"
+vendor: "Tesla14"
+product_type: "Deliverable"
+price: 446.32
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 267.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-04-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://teslacare.net/tesla-grounding-dg/?aff=adminstore#aff=adminstore"
+sales_page: "https://teslacare.net/tesla-grounding-dg/"
+language: "en"
+---
 # Tesla Grounding
 
 > Product ID `52373` · Digistore24 productId `609184` · [HTML profile page](../../reviews/tesla-grounding-52373.html)

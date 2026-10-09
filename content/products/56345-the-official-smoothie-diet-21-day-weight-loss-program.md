@@ -1,3 +1,24 @@
+---
+product_id: "56345"
+digistore24_product_id: 685341
+title: "The Official Smoothie Diet™ 21-Day Weight Loss Program"
+vendor: "smoothdiet"
+product_type: "E-books"
+price: 27.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 18.01
+cart_conversion_pct: 16
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://official.smoothiediet.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://official.smoothiediet.com/"
+language: "en"
+---
 # The Official Smoothie Diet™ 21-Day Weight Loss Program
 
 > Product ID `56345` · Digistore24 productId `685341` · [HTML profile page](../../reviews/the-official-smoothie-diet-21-day-weight-loss-program-56345.html)

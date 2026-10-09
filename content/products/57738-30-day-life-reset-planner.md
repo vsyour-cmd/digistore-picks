@@ -1,3 +1,24 @@
+---
+product_id: "57738"
+digistore24_product_id: 715206
+title: "30 Day Life Reset Planner"
+vendor: "boundcolorado07f404"
+product_type: "Member area and video courses"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 12.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://30dayliferesetplanner-235.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://30dayliferesetplanner-235.plannerpack.co"
+language: "en"
+---
 # 30 Day Life Reset Planner
 
 > Product ID `57738` · Digistore24 productId `715206` · [HTML profile page](../../reviews/30-day-life-reset-planner-57738.html)

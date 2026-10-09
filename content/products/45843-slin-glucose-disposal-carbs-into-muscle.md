@@ -1,3 +1,24 @@
+---
+product_id: "45843"
+digistore24_product_id: 510243
+title: "Slin Glucose Disposal - \"Carbs into Muscle\""
+vendor: "enhancedlabs"
+product_type: "Supplements - health"
+price: 123.81
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 74.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2023-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/510243?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/510243"
+language: "en"
+---
 # Slin Glucose Disposal - "Carbs into Muscle"
 
 > Product ID `45843` · Digistore24 productId `510243` · [HTML profile page](../../reviews/slin-glucose-disposal-carbs-into-muscle-45843.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57787"
+digistore24_product_id: 692950
+title: "The Grid Phantom: AI Defence System"
+vendor: "lovelearnings"
+product_type: "Downloads"
+price: 49
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 44.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Survival"]
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.grid-phantom.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.grid-phantom.com/"
+language: "en"
+---
 # The Grid Phantom: AI Defence System
 
 > Product ID `57787` · Digistore24 productId `692950` · [HTML profile page](../../reviews/the-grid-phantom-ai-defence-system-57787.html)

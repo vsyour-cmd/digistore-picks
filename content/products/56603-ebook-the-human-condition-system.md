@@ -1,3 +1,24 @@
+---
+product_id: "56603"
+digistore24_product_id: 693998
+title: "Ebook - The Human Condition System"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 25.72
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.86
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-05-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/693998?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/693998"
+language: "en"
+---
 # Ebook - The Human Condition System
 
 > Product ID `56603` · Digistore24 productId `693998` · [HTML profile page](../../reviews/ebook-the-human-condition-system-56603.html)

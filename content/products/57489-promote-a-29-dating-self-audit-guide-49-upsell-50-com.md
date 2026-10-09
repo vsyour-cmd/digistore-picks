@@ -1,3 +1,24 @@
+---
+product_id: "57489"
+digistore24_product_id: 710265
+title: "Promote a $29 dating self-audit guide + $49 upsell — 50% com"
+vendor: "ronnie173"
+product_type: "E-books"
+price: 26.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-07-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digitaldating.socialnestmarketing.com?aff=adminstore#aff=adminstore"
+sales_page: "https://digitaldating.socialnestmarketing.com"
+language: "en"
+---
 # Promote a $29 dating self-audit guide + $49 upsell — 50% com
 
 > Product ID `57489` · Digistore24 productId `710265` · [HTML profile page](../../reviews/promote-a-29-dating-self-audit-guide-49-upsell-50-com-57489.html)

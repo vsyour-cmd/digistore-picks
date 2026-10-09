@@ -1,3 +1,24 @@
+---
+product_id: "56640"
+digistore24_product_id: 691450
+title: "Life By Design: A Practical Guide to Personal Strategic Plan"
+vendor: "George-Akama"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 12.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://georgeakama.lovable.app/books/life-by-design?aff=adminstore#aff=adminstore"
+sales_page: "https://georgeakama.lovable.app/books/life-by-design"
+language: "en"
+---
 # Life By Design: A Practical Guide to Personal Strategic Plan
 
 > Product ID `56640` · Digistore24 productId `691450` · [HTML profile page](../../reviews/life-by-design-a-practical-guide-to-personal-strategic-plan-56640.html)

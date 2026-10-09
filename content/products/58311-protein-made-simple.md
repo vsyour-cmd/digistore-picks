@@ -1,3 +1,24 @@
+---
+product_id: "58311"
+digistore24_product_id: 720581
+title: "Protein Made Simple"
+vendor: "krisig02156e2b"
+product_type: "E-books"
+price: 27.85
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/720581?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/720581"
+language: "en"
+---
 # Protein Made Simple
 
 > Product ID `58311` · Digistore24 productId `720581` · [HTML profile page](../../reviews/protein-made-simple-58311.html)

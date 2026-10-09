@@ -1,3 +1,24 @@
+---
+product_id: "60188"
+digistore24_product_id: 741809
+title: "Freelancing Hacks - Complete Guide (High Converting eBook)"
+vendor: "craftydigitalstudio"
+product_type: "E-books"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment"]
+listed_since: "2026-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/741809?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/741809"
+language: "en"
+---
 # Freelancing Hacks - Complete Guide (High Converting eBook)
 
 > Product ID `60188` · Digistore24 productId `741809` · [HTML profile page](../../reviews/freelancing-hacks-complete-guide-high-converting-ebook-60188.html)

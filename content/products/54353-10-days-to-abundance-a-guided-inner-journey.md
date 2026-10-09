@@ -1,3 +1,24 @@
+---
+product_id: "54353"
+digistore24_product_id: 640611
+title: "10 Days to Abundance — A Guided Inner Journey"
+vendor: "BlissPortal"
+product_type: "E-books"
+price: 36.91
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore"
+sales_page: "https://wellnessworld.ee/10daysabundance"
+language: "en"
+---
 # 10 Days to Abundance — A Guided Inner Journey
 
 > Product ID `54353` · Digistore24 productId `640611` · [HTML profile page](../../reviews/10-days-to-abundance-a-guided-inner-journey-54353.html)

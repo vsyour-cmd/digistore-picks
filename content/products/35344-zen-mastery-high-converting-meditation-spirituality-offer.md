@@ -1,3 +1,24 @@
+---
+product_id: "35344"
+digistore24_product_id: 367270
+title: "Zen Mastery - High Converting Meditation/Spirituality Offer"
+vendor: "livingspirit"
+product_type: "Downloads"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2021-01-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://living.groovepages.com/zen/index?aff=adminstore#aff=adminstore"
+sales_page: "https://living.groovepages.com/zen/index"
+language: "en"
+---
 # Zen Mastery - High Converting Meditation/Spirituality Offer
 
 > Product ID `35344` · Digistore24 productId `367270` · [HTML profile page](../../reviews/zen-mastery-high-converting-meditation-spirituality-offer-35344.html)

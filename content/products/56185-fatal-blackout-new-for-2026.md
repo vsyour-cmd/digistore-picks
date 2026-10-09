@@ -1,3 +1,24 @@
+---
+product_id: "56185"
+digistore24_product_id: 671979
+title: "Fatal Blackout – NEW for 2026!"
+vendor: "FatalBlackout"
+product_type: "Book (printed)"
+price: 74.95
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 52.46
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Survival"]
+listed_since: "2026-02-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fatalblackout.net/tsl/lost-liberty/tsl1.php?aff=adminstore#aff=adminstore"
+sales_page: "https://fatalblackout.net/tsl/lost-liberty/tsl1.php"
+language: "en"
+---
 # Fatal Blackout – NEW for 2026!
 
 > Product ID `56185` · Digistore24 productId `671979` · [HTML profile page](../../reviews/fatal-blackout-new-for-2026-56185.html)

@@ -1,3 +1,24 @@
+---
+product_id: "57165"
+digistore24_product_id: 706736
+title: "Ebook - The Responsibility System"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/706736?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706736"
+language: "en"
+---
 # Ebook - The Responsibility System
 
 > Product ID `57165` · Digistore24 productId `706736` · [HTML profile page](../../reviews/ebook-the-responsibility-system-57165.html)

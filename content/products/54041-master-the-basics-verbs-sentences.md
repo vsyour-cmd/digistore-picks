@@ -1,3 +1,24 @@
+---
+product_id: "54041"
+digistore24_product_id: 636016
+title: "Master the Basics_Verbs/Sentences"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Personal Development"]
+listed_since: "2025-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636016?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636016"
+language: "en"
+---
 # Master the Basics_Verbs/Sentences
 
 > Product ID `54041` · Digistore24 productId `636016` · [HTML profile page](../../reviews/master-the-basics-verbs-sentences-54041.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54335"
+digistore24_product_id: 640412
+title: "Promote Easy Battery Fix Now!"
+vendor: "EasyBatteryFix"
+product_type: "E-books"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 46.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Survival"]
+listed_since: "2025-10-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://easybatteryfixed.com/index_dg24/?aff=adminstore#aff=adminstore"
+sales_page: "https://easybatteryfixed.com/index_dg24/"
+language: "en"
+---
 # Promote Easy Battery Fix Now!
 
 > Product ID `54335` · Digistore24 productId `640412` · [HTML profile page](../../reviews/promote-easy-battery-fix-now-54335.html)

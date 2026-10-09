@@ -1,3 +1,24 @@
+---
+product_id: "59009"
+digistore24_product_id: 727211
+title: "Quick and Smart Canva Essentials - Illustrated PDF Guide"
+vendor: "shopysmiles"
+product_type: "E-books"
+price: 20
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 10
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Marketing Services"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/727211?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/727211"
+language: "en"
+---
 # Quick and Smart Canva Essentials - Illustrated PDF Guide
 
 > Product ID `59009` · Digistore24 productId `727211` · [HTML profile page](../../reviews/quick-and-smart-canva-essentials-illustrated-pdf-guide-59009.html)

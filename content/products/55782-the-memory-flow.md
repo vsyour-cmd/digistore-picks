@@ -1,3 +1,24 @@
+---
+product_id: "55782"
+digistore24_product_id: 673208
+title: "The Memory Flow"
+vendor: "MemoryFlow"
+product_type: "E-books"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Food Supplements"]
+listed_since: "2026-03-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://memoryflow24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://memoryflow24.com/text.php"
+language: "en"
+---
 # The Memory Flow
 
 > Product ID `55782` · Digistore24 productId `673208` · [HTML profile page](../../reviews/the-memory-flow-55782.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48136"
+digistore24_product_id: 551528
+title: "Home Workout Bible - Dominate Home Fitness - Huge $$$$$"
+vendor: "emrkts"
+product_type: "E-books"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 13.31
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2024-05-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://yourhomeworkout.com/bible/?aff=adminstore#aff=adminstore"
+sales_page: "https://yourhomeworkout.com/bible/"
+language: "en"
+---
 # Home Workout Bible - Dominate Home Fitness - Huge $$$$$
 
 > Product ID `48136` · Digistore24 productId `551528` · [HTML profile page](../../reviews/home-workout-bible-dominate-home-fitness-huge-48136.html)

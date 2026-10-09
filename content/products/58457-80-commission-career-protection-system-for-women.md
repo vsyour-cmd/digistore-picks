@@ -1,3 +1,24 @@
+---
+product_id: "58457"
+digistore24_product_id: 717596
+title: "80 % Commission ‐ Career Protection System for Women"
+vendor: "IsMaria"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 21.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-08-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.publishmint.site/funnels/perimenopause/career/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.publishmint.site/funnels/perimenopause/career/"
+language: "en"
+---
 # 80 % Commission ‐ Career Protection System for Women
 
 > Product ID `58457` · Digistore24 productId `717596` · [HTML profile page](../../reviews/80-commission-career-protection-system-for-women-58457.html)

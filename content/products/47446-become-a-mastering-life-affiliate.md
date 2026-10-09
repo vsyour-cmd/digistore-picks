@@ -1,3 +1,24 @@
+---
+product_id: "47446"
+digistore24_product_id: 542547
+title: "Become a \"Mastering Life\" Affiliate!"
+vendor: "Khonzani"
+product_type: "E-books"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 8.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2024-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/542547?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/542547"
+language: "en"
+---
 # Become a "Mastering Life" Affiliate!
 
 > Product ID `47446` · Digistore24 productId `542547` · [HTML profile page](../../reviews/become-a-mastering-life-affiliate-47446.html)

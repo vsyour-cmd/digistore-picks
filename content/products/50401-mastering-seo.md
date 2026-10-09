@@ -1,3 +1,24 @@
+---
+product_id: "50401"
+digistore24_product_id: 580395
+title: "Mastering SEO"
+vendor: "ManikandanP"
+product_type: "E-books"
+price: 59
+currency: "USD"
+affiliate_commission_pct: 17
+earnings_per_sale: 10.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Personal Development"]
+listed_since: "2024-11-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/580395?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/580395"
+language: "en"
+---
 # Mastering SEO
 
 > Product ID `50401` · Digistore24 productId `580395` · [HTML profile page](../../reviews/mastering-seo-50401.html)

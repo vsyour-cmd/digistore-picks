@@ -1,3 +1,24 @@
+---
+product_id: "50007"
+digistore24_product_id: 574766
+title: "Secret to getting 1 Million Followers"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 11.15
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.58
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/1M-Follower?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/1M-Follower"
+language: "en"
+---
 # Secret to getting 1 Million Followers
 
 > Product ID `50007` · Digistore24 productId `574766` · [HTML profile page](../../reviews/secret-to-getting-1-million-followers-50007.html)

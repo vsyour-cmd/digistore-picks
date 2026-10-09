@@ -1,3 +1,24 @@
+---
+product_id: "56639"
+digistore24_product_id: 691446
+title: "Beyond Charts and Signals"
+vendor: "George-Akama"
+product_type: "E-books"
+price: 25
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Finances"]
+listed_since: "2026-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://georgeakama.lovable.app/books/beyond-charts-and-signals?aff=adminstore#aff=adminstore"
+sales_page: "https://georgeakama.lovable.app/books/beyond-charts-and-signals"
+language: "en"
+---
 # Beyond Charts and Signals
 
 > Product ID `56639` · Digistore24 productId `691446` · [HTML profile page](../../reviews/beyond-charts-and-signals-56639.html)

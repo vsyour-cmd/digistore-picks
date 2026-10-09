@@ -1,3 +1,24 @@
+---
+product_id: "60071"
+digistore24_product_id: 736517
+title: "Peak Pilates Gold : Regain Strength, Balance, and Confidence"
+vendor: "Hamzaali036"
+product_type: "Downloads"
+price: 40
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 26
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/736517?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/736517"
+language: "en"
+---
 # Peak Pilates Gold : Regain Strength, Balance, and Confidence
 
 > Product ID `60071` · Digistore24 productId `736517` · [HTML profile page](../../reviews/peak-pilates-gold-regain-strength-balance-and-confidence-60071.html)

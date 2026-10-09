@@ -1,3 +1,24 @@
+---
+product_id: "57832"
+digistore24_product_id: 717555
+title: "Empowerment Strategy Book"
+vendor: "stillasere"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://empowermentstrategybook-km4.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://empowermentstrategybook-km4.plannerpack.co"
+language: "en"
+---
 # Empowerment Strategy Book
 
 > Product ID `57832` · Digistore24 productId `717555` · [HTML profile page](../../reviews/empowerment-strategy-book-57832.html)

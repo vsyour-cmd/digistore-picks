@@ -1,3 +1,24 @@
+---
+product_id: "58865"
+digistore24_product_id: 728302
+title: "140 Trading Patterns in One Practical Visual Field Manual"
+vendor: "ramib6566a327"
+product_type: "E-books"
+price: 67
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 50.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Trading Products","Finances"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://patterns.esr.mobi/digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://patterns.esr.mobi/digistore/"
+language: "en"
+---
 # 140 Trading Patterns in One Practical Visual Field Manual
 
 > Product ID `58865` · Digistore24 productId `728302` · [HTML profile page](../../reviews/140-trading-patterns-in-one-practical-visual-field-manual-58865.html)

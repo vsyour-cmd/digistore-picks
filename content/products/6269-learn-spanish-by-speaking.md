@@ -1,3 +1,24 @@
+---
+product_id: "6269"
+digistore24_product_id: 35945
+title: "Learn Spanish by speaking!"
+vendor: "Natural-Learning"
+product_type: "Downloads"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 17.62
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Languages"]
+listed_since: "2014-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.natural-language-system.com?aff=adminstore#aff=adminstore"
+sales_page: "http://www.natural-language-system.com"
+language: "en"
+---
 # Learn Spanish by speaking!
 
 > Product ID `6269` · Digistore24 productId `35945` · [HTML profile page](../../reviews/learn-spanish-by-speaking-6269.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54273"
+digistore24_product_id: 639557
+title: "Digital Declutter: Break Phone Addiction | 75% Commissions"
+vendor: "darrelltee"
+product_type: "E-books"
+price: 102.91
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 77.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.betterdailyguide.site/ds24/digital-declutter?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/digital-declutter"
+language: "en"
+---
 # Digital Declutter: Break Phone Addiction | 75% Commissions
 
 > Product ID `54273` · Digistore24 productId `639557` · [HTML profile page](../../reviews/digital-declutter-break-phone-addiction-75-commissions-54273.html)

@@ -1,3 +1,24 @@
+---
+product_id: "51513"
+digistore24_product_id: 599006
+title: "Bad B Rebirth - eBook"
+vendor: "AAnchorBiz"
+product_type: "E-books"
+price: 108.5
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 54.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Survival"]
+listed_since: "2025-02-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://aanchorbiz.com/the-bad-b-rebirth-frontend/?aff=adminstore#aff=adminstore"
+sales_page: "https://aanchorbiz.com/the-bad-b-rebirth-frontend/"
+language: "en"
+---
 # Bad B Rebirth - eBook
 
 > Product ID `51513` · Digistore24 productId `599006` · [HTML profile page](../../reviews/bad-b-rebirth-ebook-51513.html)

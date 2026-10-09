@@ -1,3 +1,24 @@
+---
+product_id: "58629"
+digistore24_product_id: 719005
+title: "Earn 70% commission promoting MindSilence!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 177
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 123.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-08-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getmindsilence.com/ds/indexts.php?aff=adminstore#aff=adminstore"
+sales_page: "https://getmindsilence.com/ds/indexts.php"
+language: "en"
+---
 # Earn 70% commission promoting MindSilence!
 
 > Product ID `58629` · Digistore24 productId `719005` · [HTML profile page](../../reviews/earn-70-commission-promoting-mindsilence-58629.html)

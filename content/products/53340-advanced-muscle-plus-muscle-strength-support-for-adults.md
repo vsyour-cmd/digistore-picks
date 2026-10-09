@@ -1,3 +1,24 @@
+---
+product_id: "53340"
+digistore24_product_id: 627161
+title: "Advanced Muscle Plus | Muscle + Strength Support for Adults"
+vendor: "soundview"
+product_type: "Supplements - health"
+price: 230.73
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 74.63
+cart_conversion_pct: 8
+cancel_rate_pct: 10.06
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2025-07-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm?aff=adminstore#aff=adminstore"
+sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm"
+language: "en"
+---
 # Advanced Muscle Plus | Muscle + Strength Support for Adults
 
 > Product ID `53340` · Digistore24 productId `627161` · [HTML profile page](../../reviews/advanced-muscle-plus-muscle-strength-support-for-adults-53340.html)

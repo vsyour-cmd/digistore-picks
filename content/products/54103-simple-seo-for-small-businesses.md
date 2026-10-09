@@ -1,3 +1,24 @@
+---
+product_id: "54103"
+digistore24_product_id: 636861
+title: "Simple SEO for Small Businesses"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636861?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636861"
+language: "en"
+---
 # Simple SEO for Small Businesses
 
 > Product ID `54103` · Digistore24 productId `636861` · [HTML profile page](../../reviews/simple-seo-for-small-businesses-54103.html)

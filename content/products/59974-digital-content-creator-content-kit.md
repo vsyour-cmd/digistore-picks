@@ -1,3 +1,24 @@
+---
+product_id: "59974"
+digistore24_product_id: 737973
+title: "Digital Content - Creator Content Kit"
+vendor: "xarutacom"
+product_type: "Downloads"
+price: 39.15
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 9.79
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Marketing Services"]
+listed_since: "2026-09-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://xaruta4.wordpress.com/creator-content-kit/?aff=adminstore#aff=adminstore"
+sales_page: "https://xaruta4.wordpress.com/creator-content-kit/"
+language: "en"
+---
 # Digital Content - Creator Content Kit
 
 > Product ID `59974` · Digistore24 productId `737973` · [HTML profile page](../../reviews/digital-content-creator-content-kit-59974.html)

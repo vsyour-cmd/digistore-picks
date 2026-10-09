@@ -1,3 +1,24 @@
+---
+product_id: "54046"
+digistore24_product_id: 636022
+title: "The Focus Formula–Beat Distraction"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636022?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636022"
+language: "en"
+---
 # The Focus Formula–Beat Distraction
 
 > Product ID `54046` · Digistore24 productId `636022` · [HTML profile page](../../reviews/the-focus-formula-beat-distraction-54046.html)

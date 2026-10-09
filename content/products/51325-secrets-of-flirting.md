@@ -1,3 +1,24 @@
+---
+product_id: "51325"
+digistore24_product_id: 595699
+title: "SECRETS OF FLIRTING"
+vendor: "cleitonpaulino"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Personal Development"]
+listed_since: "2025-02-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://elevenmarketingdigital.com/secrets-of-flirting/?aff=adminstore#aff=adminstore"
+sales_page: "https://elevenmarketingdigital.com/secrets-of-flirting/"
+language: "en"
+---
 # SECRETS OF FLIRTING
 
 > Product ID `51325` · Digistore24 productId `595699` · [HTML profile page](../../reviews/secrets-of-flirting-51325.html)

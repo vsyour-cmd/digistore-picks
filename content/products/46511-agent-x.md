@@ -1,3 +1,24 @@
+---
+product_id: "46511"
+digistore24_product_id: 527515
+title: "Agent X"
+vendor: "remixable"
+product_type: "Software"
+price: 531.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 265.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2023-11-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getagentx.com/order?aff=adminstore#aff=adminstore"
+sales_page: "https://getagentx.com/order"
+language: "en"
+---
 # Agent X
 
 > Product ID `46511` · Digistore24 productId `527515` · [HTML profile page](../../reviews/agent-x-46511.html)

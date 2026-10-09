@@ -1,3 +1,24 @@
+---
+product_id: "59405"
+digistore24_product_id: 726543
+title: "Your Practical Guide to Preparing for a Healthy Pregnancy"
+vendor: "Hamzaali036"
+product_type: "Downloads"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 14.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/726543?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/726543"
+language: "en"
+---
 # Your Practical Guide to Preparing for a Healthy Pregnancy
 
 > Product ID `59405` · Digistore24 productId `726543` · [HTML profile page](../../reviews/your-practical-guide-to-preparing-for-a-healthy-pregnancy-59405.html)

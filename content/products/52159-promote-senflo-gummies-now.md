@@ -1,3 +1,24 @@
+---
+product_id: "52159"
+digistore24_product_id: 605513
+title: "Promote  SenFlo Gummies Now!"
+vendor: "senflo777"
+product_type: "Supplements - health"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 35.63
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://senflogummies.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://senflogummies.com/"
+language: "en"
+---
 # Promote  SenFlo Gummies Now!
 
 > Product ID `52159` · Digistore24 productId `605513` · [HTML profile page](../../reviews/promote-senflo-gummies-now-52159.html)

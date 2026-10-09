@@ -1,3 +1,24 @@
+---
+product_id: "45460"
+digistore24_product_id: 518192
+title: "Fast Lean Pro"
+vendor: "FastLeanPro"
+product_type: "Supplements - for slimming"
+price: 176.74
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 114.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2023-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://fastleanpro24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://fastleanpro24.com/text.php"
+language: "en"
+---
 # Fast Lean Pro
 
 > Product ID `45460` · Digistore24 productId `518192` · [HTML profile page](../../reviews/fast-lean-pro-45460.html)

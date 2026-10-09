@@ -1,3 +1,24 @@
+---
+product_id: "47506"
+digistore24_product_id: 544084
+title: "The Sleep Reset: 14 Nights to Rebooting Your Rest"
+vendor: "UsefulPrograms"
+product_type: "Downloads"
+price: 33.55
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 20.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-03-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/544084?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/544084"
+language: "en"
+---
 # The Sleep Reset: 14 Nights to Rebooting Your Rest
 
 > Product ID `47506` · Digistore24 productId `544084` · [HTML profile page](../../reviews/the-sleep-reset-14-nights-to-rebooting-your-rest-47506.html)

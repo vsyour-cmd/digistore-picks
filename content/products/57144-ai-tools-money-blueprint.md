@@ -1,3 +1,24 @@
+---
+product_id: "57144"
+digistore24_product_id: 706208
+title: "AI Tools Money Blueprint"
+vendor: "Mega2023"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 16.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.megapassive.online/ai-tools-money-blueprint?aff=adminstore#aff=adminstore"
+sales_page: "https://www.megapassive.online/ai-tools-money-blueprint"
+language: "en"
+---
 # AI Tools Money Blueprint
 
 > Product ID `57144` · Digistore24 productId `706208` · [HTML profile page](../../reviews/ai-tools-money-blueprint-57144.html)

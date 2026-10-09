@@ -1,3 +1,24 @@
+---
+product_id: "57107"
+digistore24_product_id: 690000
+title: "The Super Mind Evolution System"
+vendor: "buzzpjb"
+product_type: "Downloads"
+price: 197
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 98.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-06-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://advancedlivingstrategies.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://advancedlivingstrategies.com/"
+language: "en"
+---
 # The Super Mind Evolution System
 
 > Product ID `57107` · Digistore24 productId `690000` · [HTML profile page](../../reviews/the-super-mind-evolution-system-57107.html)

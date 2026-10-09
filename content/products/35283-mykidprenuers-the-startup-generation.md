@@ -1,3 +1,24 @@
+---
+product_id: "35283"
+digistore24_product_id: 365629
+title: "myKidPrenuers : The StartUp Generation"
+vendor: "workshaft"
+product_type: "E-books"
+price: 27.97
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.98
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2021-01-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://51percent.wixsite.com/mykidpreneurs?aff=adminstore#aff=adminstore"
+sales_page: "https://51percent.wixsite.com/mykidpreneurs"
+language: "en"
+---
 # myKidPrenuers : The StartUp Generation
 
 > Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](../../reviews/mykidprenuers-the-startup-generation-35283.html)

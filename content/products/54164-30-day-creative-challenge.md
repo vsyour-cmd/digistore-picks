@@ -1,3 +1,24 @@
+---
+product_id: "54164"
+digistore24_product_id: 637573
+title: "30-Day Creative Challenge"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/637573?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/637573"
+language: "en"
+---
 # 30-Day Creative Challenge
 
 > Product ID `54164` · Digistore24 productId `637573` · [HTML profile page](../../reviews/30-day-creative-challenge-54164.html)

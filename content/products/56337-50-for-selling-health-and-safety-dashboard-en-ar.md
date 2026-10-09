@@ -1,3 +1,24 @@
+---
+product_id: "56337"
+digistore24_product_id: 684403
+title: "50% for Selling Health and Safety Dashboard (EN-AR)"
+vendor: "motasemaltamimi30a2a1"
+product_type: "Downloads"
+price: 13.33
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 6.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Software"]
+listed_since: "2026-04-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/684403?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684403"
+language: "en"
+---
 # 50% for Selling Health and Safety Dashboard (EN-AR)
 
 > Product ID `56337` · Digistore24 productId `684403` · [HTML profile page](../../reviews/50-for-selling-health-and-safety-dashboard-en-ar-56337.html)

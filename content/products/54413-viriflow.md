@@ -1,3 +1,24 @@
+---
+product_id: "54413"
+digistore24_product_id: 641817
+title: "ViriFlow"
+vendor: "ViriFlow"
+product_type: "Supplements - health"
+price: 245.02
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 156.98
+cart_conversion_pct: 10
+cancel_rate_pct: 14.43
+categories: ["Food Supplements"]
+listed_since: "2025-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://viriflow24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://viriflow24.com/text.php"
+language: "en"
+---
 # ViriFlow
 
 > Product ID `54413` · Digistore24 productId `641817` · [HTML profile page](../../reviews/viriflow-54413.html)

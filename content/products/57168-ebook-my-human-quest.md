@@ -1,3 +1,24 @@
+---
+product_id: "57168"
+digistore24_product_id: 706747
+title: "Ebook - My Human Quest"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 82.16
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 41.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-06-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/706747?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/706747"
+language: "en"
+---
 # Ebook - My Human Quest
 
 > Product ID `57168` · Digistore24 productId `706747` · [HTML profile page](../../reviews/ebook-my-human-quest-57168.html)

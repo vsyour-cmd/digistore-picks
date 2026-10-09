@@ -1,3 +1,24 @@
+---
+product_id: "57405"
+digistore24_product_id: 704976
+title: "Islam in ta Biblical Context – Abraham is the true key figur"
+vendor: "Andermatti-Invest"
+product_type: "E-books"
+price: 19.58
+currency: "USD"
+affiliate_commission_pct: 25
+earnings_per_sale: 4.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-07-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/704976?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/704976"
+language: "en"
+---
 # Islam in ta Biblical Context – Abraham is the true key figur
 
 > Product ID `57405` · Digistore24 productId `704976` · [HTML profile page](../../reviews/islam-in-ta-biblical-context-abraham-is-the-true-key-figur-57405.html)

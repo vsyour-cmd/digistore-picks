@@ -1,3 +1,24 @@
+---
+product_id: "56563"
+digistore24_product_id: 691670
+title: "Problem Nails Masterclass"
+vendor: "info5a25"
+product_type: "Member area and video courses"
+price: 131.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Fashion","Health & Fitness"]
+listed_since: "2026-05-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://vel.academy/course-problem-nails-d24?aff=adminstore#aff=adminstore"
+sales_page: "https://vel.academy/course-problem-nails-d24"
+language: "en"
+---
 # Problem Nails Masterclass
 
 > Product ID `56563` · Digistore24 productId `691670` · [HTML profile page](../../reviews/problem-nails-masterclass-56563.html)

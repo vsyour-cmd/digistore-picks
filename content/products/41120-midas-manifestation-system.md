@@ -1,3 +1,24 @@
+---
+product_id: "41120"
+digistore24_product_id: 439776
+title: "Midas Manifestation System"
+vendor: "midasman88"
+product_type: "Member area and video courses"
+price: 164.47
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 111.14
+cart_conversion_pct: 3
+cancel_rate_pct: 9.26
+categories: ["Personal Development"]
+listed_since: "2022-04-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://midasmanifestation.com/presentation2/?aff=adminstore#aff=adminstore"
+sales_page: "https://midasmanifestation.com/presentation2/"
+language: "en"
+---
 # Midas Manifestation System
 
 > Product ID `41120` · Digistore24 productId `439776` · [HTML profile page](../../reviews/midas-manifestation-system-41120.html)

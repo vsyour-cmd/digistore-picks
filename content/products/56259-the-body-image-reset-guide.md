@@ -1,3 +1,24 @@
+---
+product_id: "56259"
+digistore24_product_id: 684535
+title: "The Body Image Reset Guide"
+vendor: "solvehera"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fashion","Health & Fitness","Personal Development"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/684535?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684535"
+language: "en"
+---
 # The Body Image Reset Guide
 
 > Product ID `56259` · Digistore24 productId `684535` · [HTML profile page](../../reviews/the-body-image-reset-guide-56259.html)

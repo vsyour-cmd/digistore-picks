@@ -1,3 +1,24 @@
+---
+product_id: "45898"
+digistore24_product_id: 507221
+title: "Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond"
+vendor: "kineticps"
+product_type: "E-books"
+price: 43.63
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 32.72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection"]
+listed_since: "2023-07-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html?aff=adminstore#aff=adminstore"
+sales_page: "https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html"
+language: "en"
+---
 # Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond
 
 > Product ID `45898` · Digistore24 productId `507221` · [HTML profile page](../../reviews/solar-innovator-massive-offer-will-shine-like-a-diamond-45898.html)

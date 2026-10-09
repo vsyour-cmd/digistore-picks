@@ -1,3 +1,24 @@
+---
+product_id: "52554"
+digistore24_product_id: 613374
+title: "Tech House Track by Jay V Flyy | My Feelings (Radio Edit)"
+vendor: "JayVFlyy"
+product_type: "Downloads"
+price: 2.8
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dancing & Music"]
+listed_since: "2025-05-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/613374?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/613374"
+language: "en"
+---
 # Tech House Track by Jay V Flyy | My Feelings (Radio Edit)
 
 > Product ID `52554` · Digistore24 productId `613374` · [HTML profile page](../../reviews/tech-house-track-by-jay-v-flyy-my-feelings-radio-edit-52554.html)

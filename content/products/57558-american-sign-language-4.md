@@ -1,3 +1,24 @@
+---
+product_id: "57558"
+digistore24_product_id: 712360
+title: "American Sign Language 4"
+vendor: "asltutor13589b"
+product_type: "Member area and video courses"
+price: 34
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 11.9
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://americansignlanguage4-da9.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://americansignlanguage4-da9.plannerpack.co"
+language: "en"
+---
 # American Sign Language 4
 
 > Product ID `57558` · Digistore24 productId `712360` · [HTML profile page](../../reviews/american-sign-language-4-57558.html)

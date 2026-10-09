@@ -1,3 +1,24 @@
+---
+product_id: "54212"
+digistore24_product_id: 638412
+title: "The Freedom Code"
+vendor: "AspireVerse"
+product_type: "E-books"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 12.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2025-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://freedomcode.aspireonecs.com?aff=adminstore#aff=adminstore"
+sales_page: "https://freedomcode.aspireonecs.com"
+language: "en"
+---
 # The Freedom Code
 
 > Product ID `54212` · Digistore24 productId `638412` · [HTML profile page](../../reviews/the-freedom-code-54212.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58217"
+digistore24_product_id: 661559
+title: "Navigating the storms within."
+vendor: "Beth001"
+product_type: "E-books"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2026-08-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/661559?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/661559"
+language: "en"
+---
 # Navigating the storms within.
 
 > Product ID `58217` · Digistore24 productId `661559` · [HTML profile page](../../reviews/navigating-the-storms-within-58217.html)

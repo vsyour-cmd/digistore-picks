@@ -1,3 +1,24 @@
+---
+product_id: "60065"
+digistore24_product_id: 739502
+title: "Ebook - The Networks of Global Power - Volume I-X"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Politics & Economy"]
+listed_since: "2026-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/739502?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/739502"
+language: "en"
+---
 # Ebook - The Networks of Global Power - Volume I-X
 
 > Product ID `60065` · Digistore24 productId `739502` · [HTML profile page](../../reviews/ebook-the-networks-of-global-power-volume-i-x-60065.html)

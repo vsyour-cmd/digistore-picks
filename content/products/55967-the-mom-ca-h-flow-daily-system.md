@@ -1,3 +1,24 @@
+---
+product_id: "55967"
+digistore24_product_id: 676538
+title: "the Mom Ca$h Flow Daily System"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Social Media","Online Marketing"]
+listed_since: "2026-03-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/676538?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/676538"
+language: "en"
+---
 # the Mom Ca$h Flow Daily System
 
 > Product ID `55967` · Digistore24 productId `676538` · [HTML profile page](../../reviews/the-mom-ca-h-flow-daily-system-55967.html)

@@ -1,3 +1,24 @@
+---
+product_id: "58406"
+digistore24_product_id: 722892
+title: "Serger Troubleshooting Guide"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft","Profession & Job"]
+listed_since: "2026-08-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/722892?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/722892"
+language: "en"
+---
 # Serger Troubleshooting Guide
 
 > Product ID `58406` · Digistore24 productId `722892` · [HTML profile page](../../reviews/serger-troubleshooting-guide-58406.html)

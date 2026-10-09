@@ -1,3 +1,24 @@
+---
+product_id: "58932"
+digistore24_product_id: 720098
+title: "A Journey with the Living Letters – Illustrated Children’s e"
+vendor: "elbossilybooks"
+product_type: "E-books"
+price: 12.99
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 5.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2026-09-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/720098?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/720098"
+language: "en"
+---
 # A Journey with the Living Letters – Illustrated Children’s e
 
 > Product ID `58932` · Digistore24 productId `720098` · [HTML profile page](../../reviews/a-journey-with-the-living-letters-illustrated-children-s-e-58932.html)

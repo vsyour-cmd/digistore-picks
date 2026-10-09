@@ -1,3 +1,24 @@
+---
+product_id: "32944"
+digistore24_product_id: 328658
+title: "200 Social Media Marketing Tactics"
+vendor: "digiworldgaz"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media"]
+listed_since: "2020-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://digiworldgaz.wixsite.com/200socialmediatactic?aff=adminstore#aff=adminstore"
+sales_page: "https://digiworldgaz.wixsite.com/200socialmediatactic"
+language: "en"
+---
 # 200 Social Media Marketing Tactics
 
 > Product ID `32944` · Digistore24 productId `328658` · [HTML profile page](../../reviews/200-social-media-marketing-tactics-32944.html)

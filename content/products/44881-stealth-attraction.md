@@ -1,3 +1,24 @@
+---
+product_id: "44881"
+digistore24_product_id: 496234
+title: "Stealth Attraction"
+vendor: "seductiongurus"
+product_type: "Member area and video courses"
+price: 78.25
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 39.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2023-04-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getherwetwithwords.com/videobc2/video-bc2/v02.php?aff=adminstore#aff=adminstore"
+sales_page: "https://getherwetwithwords.com/videobc2/video-bc2/v02.php"
+language: "en"
+---
 # Stealth Attraction
 
 > Product ID `44881` · Digistore24 productId `496234` · [HTML profile page](../../reviews/stealth-attraction-44881.html)

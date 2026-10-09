@@ -1,3 +1,24 @@
+---
+product_id: "22975"
+digistore24_product_id: 203487
+title: "The Pure Art of Serrada Escrima SerCuerdas English"
+vendor: "Wu-TeAkademie"
+product_type: "Member area and video courses"
+price: 55.46
+currency: "USD"
+affiliate_commission_pct: 15
+earnings_per_sale: 8.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Sport"]
+listed_since: "2018-02-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/?aff=adminstore#aff=adminstore"
+sales_page: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/"
+language: "en"
+---
 # The Pure Art of Serrada Escrima SerCuerdas English
 
 > Product ID `22975` · Digistore24 productId `203487` · [HTML profile page](../../reviews/the-pure-art-of-serrada-escrima-sercuerdas-english-22975.html)

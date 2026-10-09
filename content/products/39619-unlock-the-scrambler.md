@@ -1,3 +1,24 @@
+---
+product_id: "39619"
+digistore24_product_id: 428168
+title: "Unlock the Scrambler"
+vendor: "bobbyrio"
+product_type: "Member area and video courses"
+price: 88.37
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 17.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2022-02-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://socialmistakes.com/newtechnique?aff=adminstore#aff=adminstore"
+sales_page: "https://socialmistakes.com/newtechnique"
+language: "en"
+---
 # Unlock the Scrambler
 
 > Product ID `39619` · Digistore24 productId `428168` · [HTML profile page](../../reviews/unlock-the-scrambler-39619.html)

@@ -1,3 +1,24 @@
+---
+product_id: "50063"
+digistore24_product_id: 574669
+title: "Shifting Vibrations - Proven Digital Manifestation Offer"
+vendor: "astral43"
+product_type: "Downloads"
+price: 59.29
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 37.95
+cart_conversion_pct: 13
+cancel_rate_pct: 24.19
+categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-10-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://astralhq.com/ds-shifting/?aff=adminstore#aff=adminstore"
+sales_page: "https://astralhq.com/ds-shifting/"
+language: "en"
+---
 # Shifting Vibrations - Proven Digital Manifestation Offer
 
 > Product ID `50063` · Digistore24 productId `574669` · [HTML profile page](../../reviews/shifting-vibrations-proven-digital-manifestation-offer-50063.html)

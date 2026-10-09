@@ -1,3 +1,24 @@
+---
+product_id: "56779"
+digistore24_product_id: 696723
+title: "Earn 65% Commission Promoting WeGoSlim - Weight Loss"
+vendor: "nexmmedia5a4e"
+product_type: "Supplements - for slimming"
+price: 158
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 102.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2026-06-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.thewegoslim.com/?aff=adminstore#aff=adminstore"
+sales_page: "http://www.thewegoslim.com/"
+language: "en"
+---
 # Earn 65% Commission Promoting WeGoSlim - Weight Loss
 
 > Product ID `56779` · Digistore24 productId `696723` · [HTML profile page](../../reviews/earn-65-commission-promoting-wegoslim-weight-loss-56779.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52544"
+digistore24_product_id: 592274
+title: "Goliath XL 10"
+vendor: "KoalaAdvertising"
+product_type: "Supplements - health"
+price: 149.61
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 116.76
+cart_conversion_pct: 7
+cancel_rate_pct: 8.15
+categories: ["Food Supplements"]
+listed_since: "2025-01-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getgoliathxl10.com/read?aff=adminstore#aff=adminstore"
+sales_page: "https://getgoliathxl10.com/read"
+language: "en"
+---
 # Goliath XL 10
 
 > Product ID `52544` · Digistore24 productId `592274` · [HTML profile page](../../reviews/goliath-xl-10-52544.html)

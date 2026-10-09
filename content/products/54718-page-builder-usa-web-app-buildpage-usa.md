@@ -1,3 +1,24 @@
+---
+product_id: "54718"
+digistore24_product_id: 650003
+title: "Page Builder – Usa [Web app – buildpage-usa]"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 31.32
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 23.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Social Media","Software","Online Marketing"]
+listed_since: "2025-11-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://pagebuilder-usa.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://pagebuilder-usa.netlify.app/"
+language: "en"
+---
 # Page Builder – Usa [Web app – buildpage-usa]
 
 > Product ID `54718` · Digistore24 productId `650003` · [HTML profile page](../../reviews/page-builder-usa-web-app-buildpage-usa-54718.html)

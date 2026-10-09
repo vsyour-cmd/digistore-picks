@@ -1,3 +1,24 @@
+---
+product_id: "37380"
+digistore24_product_id: 348804
+title: "Complete Feasibility Study Template"
+vendor: "arneckem"
+product_type: "Downloads"
+price: 16.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2020-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://worldofpm.com/buy-feasibility-study-template/?aff=adminstore#aff=adminstore"
+sales_page: "https://worldofpm.com/buy-feasibility-study-template/"
+language: "en"
+---
 # Complete Feasibility Study Template
 
 > Product ID `37380` · Digistore24 productId `348804` · [HTML profile page](../../reviews/complete-feasibility-study-template-37380.html)

@@ -1,3 +1,24 @@
+---
+product_id: "42273"
+digistore24_product_id: 464233
+title: "Healthy Heart Solution Kit"
+vendor: "BartonPublishing"
+product_type: "E-books"
+price: 53.11
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 18.07
+cart_conversion_pct: 18
+cancel_rate_pct: 13.58
+categories: ["Food Supplements"]
+listed_since: "2022-10-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore"
+sales_page: "http://healthyheartsolution.com/ptn/digi/1"
+language: "en"
+---
 # Healthy Heart Solution Kit
 
 > Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](../../reviews/healthy-heart-solution-kit-42273.html)

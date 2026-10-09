@@ -1,3 +1,24 @@
+---
+product_id: "56615"
+digistore24_product_id: 693490
+title: "Mastery Course - The Engulfing Bar Forex Trading Strategy"
+vendor: "oraclefx"
+product_type: "Member area and video courses"
+price: 80
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 40
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oraclefx.org/courses/the-engulfing-bar-trading-strategy/?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/courses/the-engulfing-bar-trading-strategy/"
+language: "en"
+---
 # Mastery Course - The Engulfing Bar Forex Trading Strategy
 
 > Product ID `56615` · Digistore24 productId `693490` · [HTML profile page](../../reviews/mastery-course-the-engulfing-bar-forex-trading-strategy-56615.html)

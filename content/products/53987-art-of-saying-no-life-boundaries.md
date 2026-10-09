@@ -1,3 +1,24 @@
+---
+product_id: "53987"
+digistore24_product_id: 635578
+title: "Art of Saying No_Life Boundaries"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635578?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635578"
+language: "en"
+---
 # Art of Saying No_Life Boundaries
 
 > Product ID `53987` · Digistore24 productId `635578` · [HTML profile page](../../reviews/art-of-saying-no-life-boundaries-53987.html)

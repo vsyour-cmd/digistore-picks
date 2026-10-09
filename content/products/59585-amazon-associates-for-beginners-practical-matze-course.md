@@ -1,3 +1,24 @@
+---
+product_id: "59585"
+digistore24_product_id: 736412
+title: "Amazon Associates for Beginners – Practical Matze Course"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 66
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 26.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/736412?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/736412"
+language: "en"
+---
 # Amazon Associates for Beginners – Practical Matze Course
 
 > Product ID `59585` · Digistore24 productId `736412` · [HTML profile page](../../reviews/amazon-associates-for-beginners-practical-matze-course-59585.html)

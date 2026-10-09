@@ -1,3 +1,24 @@
+---
+product_id: "52702"
+digistore24_product_id: 615305
+title: "Start Promoting the JointVive Today!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 202.82
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 85.29
+cart_conversion_pct: 6
+cancel_rate_pct: 10.78
+categories: ["Food Supplements"]
+listed_since: "2025-05-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://jointvive.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://jointvive.com/ds/go/indexvs.php"
+language: "en"
+---
 # Start Promoting the JointVive Today!
 
 > Product ID `52702` · Digistore24 productId `615305` · [HTML profile page](../../reviews/start-promoting-the-jointvive-today-52702.html)

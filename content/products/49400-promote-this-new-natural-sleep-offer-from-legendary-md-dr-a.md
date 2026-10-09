@@ -1,3 +1,24 @@
+---
+product_id: "49400"
+digistore24_product_id: 567661
+title: "Promote this new Natural Sleep offer from legendary MD Dr. A"
+vendor: "AlSearsMD"
+product_type: "Supplements - health"
+price: 33.5
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 21.78
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-08-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://partners.primalforce.net/sp/neuro-vid/?aff=adminstore#aff=adminstore"
+sales_page: "https://partners.primalforce.net/sp/neuro-vid/"
+language: "en"
+---
 # Promote this new Natural Sleep offer from legendary MD Dr. A
 
 > Product ID `49400` · Digistore24 productId `567661` · [HTML profile page](../../reviews/promote-this-new-natural-sleep-offer-from-legendary-md-dr-a-49400.html)

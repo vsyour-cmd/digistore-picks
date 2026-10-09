@@ -1,3 +1,24 @@
+---
+product_id: "47512"
+digistore24_product_id: 541170
+title: "LADY FORTUNA"
+vendor: "dewishes"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-02-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://deitywishes.com/ds24/vsl.php?aff=adminstore#aff=adminstore"
+sales_page: "https://deitywishes.com/ds24/vsl.php"
+language: "en"
+---
 # LADY FORTUNA
 
 > Product ID `47512` · Digistore24 productId `541170` · [HTML profile page](../../reviews/lady-fortuna-47512.html)

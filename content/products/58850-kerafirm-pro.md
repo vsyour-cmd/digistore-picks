@@ -1,3 +1,24 @@
+---
+product_id: "58850"
+digistore24_product_id: 728008
+title: "KeraFirm Pro"
+vendor: "KeraFirm"
+product_type: "Deliverable"
+price: 158
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 102.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://kerafirmpro24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://kerafirmpro24.com/text.php"
+language: "en"
+---
 # KeraFirm Pro
 
 > Product ID `58850` · Digistore24 productId `728008` · [HTML profile page](../../reviews/kerafirm-pro-58850.html)

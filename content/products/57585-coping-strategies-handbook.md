@@ -1,3 +1,24 @@
+---
+product_id: "57585"
+digistore24_product_id: 712815
+title: "Coping Strategies Handbook"
+vendor: "armanistansbury15"
+product_type: "Member area and video courses"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 5.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://copingstrategieshandbook-sg4.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://copingstrategieshandbook-sg4.plannerpack.co"
+language: "en"
+---
 # Coping Strategies Handbook
 
 > Product ID `57585` · Digistore24 productId `712815` · [HTML profile page](../../reviews/coping-strategies-handbook-57585.html)

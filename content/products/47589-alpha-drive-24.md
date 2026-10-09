@@ -1,3 +1,24 @@
+---
+product_id: "47589"
+digistore24_product_id: 544750
+title: "Alpha Drive 24"
+vendor: "alphadrive24"
+product_type: "Supplements - health"
+price: 137.88
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 127.93
+cart_conversion_pct: 6
+cancel_rate_pct: 15.45
+categories: ["Food Supplements"]
+listed_since: "2024-03-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://alphadrive24.com/landing-page--v2?aff=adminstore#aff=adminstore"
+sales_page: "https://alphadrive24.com/landing-page--v2"
+language: "en"
+---
 # Alpha Drive 24
 
 > Product ID `47589` · Digistore24 productId `544750` · [HTML profile page](../../reviews/alpha-drive-24-47589.html)

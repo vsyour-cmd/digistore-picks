@@ -1,3 +1,24 @@
+---
+product_id: "52861"
+digistore24_product_id: 615548
+title: "Fearless Phone Fanatic (For Cold Calling)"
+vendor: "dezatell"
+product_type: "Member area and video courses"
+price: 60.97
+currency: "USD"
+affiliate_commission_pct: 0
+earnings_per_sale: 20.77
+cart_conversion_pct: 37
+cancel_rate_pct: 8.22
+categories: ["Sales Training"]
+listed_since: "2025-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/redir/615548/adminstore/"
+sales_page: "https://www.fearlessphonefanatic.site"
+language: "en"
+---
 # Fearless Phone Fanatic (For Cold Calling)
 
 > Product ID `52861` · Digistore24 productId `615548` · [HTML profile page](../../reviews/fearless-phone-fanatic-for-cold-calling-52861.html)

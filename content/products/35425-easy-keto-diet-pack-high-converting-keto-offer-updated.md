@@ -1,3 +1,24 @@
+---
+product_id: "35425"
+digistore24_product_id: 366607
+title: "Easy Keto Diet Pack - High Converting Keto Offer (UPDATED)"
+vendor: "health4woman"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 6.7
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2021-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://ehealth.groovepages.com/easyketo/index?aff=adminstore#aff=adminstore"
+sales_page: "https://ehealth.groovepages.com/easyketo/index"
+language: "en"
+---
 # Easy Keto Diet Pack - High Converting Keto Offer (UPDATED)
 
 > Product ID `35425` · Digistore24 productId `366607` · [HTML profile page](../../reviews/easy-keto-diet-pack-high-converting-keto-offer-updated-35425.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56354"
+digistore24_product_id: 685232
+title: "Promote Manjuba Caps Now!"
+vendor: "healthcode"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 180.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-04-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.manjubadrops.com/edcaps-dtc?aff=adminstore#aff=adminstore"
+sales_page: "https://www.manjubadrops.com/edcaps-dtc"
+language: "en"
+---
 # Promote Manjuba Caps Now!
 
 > Product ID `56354` · Digistore24 productId `685232` · [HTML profile page](../../reviews/promote-manjuba-caps-now-56354.html)

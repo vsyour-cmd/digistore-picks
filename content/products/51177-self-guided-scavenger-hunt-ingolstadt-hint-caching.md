@@ -1,3 +1,24 @@
+---
+product_id: "51177"
+digistore24_product_id: 452725
+title: "Self-guided scavenger hunt Ingolstadt | Hint-Caching"
+vendor: "hintcaching"
+product_type: "Member area and video courses"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 10.96
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Fun & Games","Travel & Culture"]
+listed_since: "2022-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.hint-caching.com/scavenger-hunt-ingolstadt/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.hint-caching.com/scavenger-hunt-ingolstadt/"
+language: "en"
+---
 # Self-guided scavenger hunt Ingolstadt | Hint-Caching
 
 > Product ID `51177` · Digistore24 productId `452725` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-ingolstadt-hint-caching-51177.html)

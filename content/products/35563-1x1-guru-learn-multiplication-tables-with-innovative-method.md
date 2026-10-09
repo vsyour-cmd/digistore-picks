@@ -1,3 +1,24 @@
+---
+product_id: "35563"
+digistore24_product_id: 364765
+title: "1x1 Guru: Learn multiplication tables with innovative method"
+vendor: "Insider-Media"
+product_type: "Member area and video courses"
+price: 334.46
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 167.23
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2020-12-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore"
+sales_page: "https://www.1x1.guru/?lang=en"
+language: "en"
+---
 # 1x1 Guru: Learn multiplication tables with innovative method
 
 > Product ID `35563` · Digistore24 productId `364765` · [HTML profile page](../../reviews/1x1-guru-learn-multiplication-tables-with-innovative-method-35563.html)

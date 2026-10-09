@@ -1,3 +1,24 @@
+---
+product_id: "56101"
+digistore24_product_id: 680238
+title: "Earn 80% Slow Fitness Revolution: Build Strength naturally"
+vendor: "Fitlifesolutions"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 29.6
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-03-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pages.fitlifesolutions.site/sales/?id=680238&aff=adminstore#aff=adminstore"
+sales_page: "https://pages.fitlifesolutions.site/sales/?id=680238"
+language: "en"
+---
 # Earn 80% Slow Fitness Revolution: Build Strength naturally
 
 > Product ID `56101` · Digistore24 productId `680238` · [HTML profile page](../../reviews/earn-80-slow-fitness-revolution-build-strength-naturally-56101.html)

@@ -1,3 +1,24 @@
+---
+product_id: "48206"
+digistore24_product_id: 553248
+title: "Massive Passive Profits"
+vendor: "massiveai"
+product_type: "Software"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2024-05-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.massivepassiveai.com/index1.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.massivepassiveai.com/index1.html"
+language: "en"
+---
 # Massive Passive Profits
 
 > Product ID `48206` · Digistore24 productId `553248` · [HTML profile page](../../reviews/massive-passive-profits-48206.html)

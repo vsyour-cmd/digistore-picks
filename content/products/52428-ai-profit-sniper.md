@@ -1,3 +1,24 @@
+---
+product_id: "52428"
+digistore24_product_id: 610341
+title: "AI Profit Sniper"
+vendor: "aiprofitsniper"
+product_type: "Software"
+price: 62.34
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 26.15
+cart_conversion_pct: 14
+cancel_rate_pct: 27.21
+categories: ["Online Marketing & E-Business","Social Media","Software"]
+listed_since: "2025-05-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://www.aiprofitsniper.com/dindex1.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.aiprofitsniper.com/dindex1.html"
+language: "en"
+---
 # AI Profit Sniper
 
 > Product ID `52428` · Digistore24 productId `610341` · [HTML profile page](../../reviews/ai-profit-sniper-52428.html)

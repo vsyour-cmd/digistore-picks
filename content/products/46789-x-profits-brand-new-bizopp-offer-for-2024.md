@@ -1,3 +1,24 @@
+---
+product_id: "46789"
+digistore24_product_id: 531919
+title: "X Profits - Brand New Bizopp Offer for 2024!"
+vendor: "xprofitsai"
+product_type: "Member area and video courses"
+price: 59.52
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.27
+cart_conversion_pct: 7
+cancel_rate_pct: 27.99
+categories: ["Online Marketing & E-Business","Software"]
+listed_since: "2023-12-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://yourxprofits.com/index1.html?aff=adminstore#aff=adminstore"
+sales_page: "https://yourxprofits.com/index1.html"
+language: "en"
+---
 # X Profits - Brand New Bizopp Offer for 2024!
 
 > Product ID `46789` · Digistore24 productId `531919` · [HTML profile page](../../reviews/x-profits-brand-new-bizopp-offer-for-2024-46789.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53646"
+digistore24_product_id: 625540
+title: "Sound Better than Your American Friends"
+vendor: "tylerjsimmons"
+product_type: "Downloads"
+price: 268.46
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 107.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Personal Development"]
+listed_since: "2025-07-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tysimmons.teachable.com/p/ds24?aff=adminstore#aff=adminstore"
+sales_page: "https://tysimmons.teachable.com/p/ds24"
+language: "en"
+---
 # Sound Better than Your American Friends
 
 > Product ID `53646` · Digistore24 productId `625540` · [HTML profile page](../../reviews/sound-better-than-your-american-friends-53646.html)

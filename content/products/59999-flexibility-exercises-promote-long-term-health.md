@@ -1,3 +1,24 @@
+---
+product_id: "59999"
+digistore24_product_id: 724107
+title: "Flexibility exercises promote long-term health"
+vendor: "sarahdmom1ae6f"
+product_type: "Member area and video courses"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 6.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://flexibilityexercises-5nq.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://flexibilityexercises-5nq.plannerpack.co"
+language: "en"
+---
 # Flexibility exercises promote long-term health
 
 > Product ID `59999` · Digistore24 productId `724107` · [HTML profile page](../../reviews/flexibility-exercises-promote-long-term-health-59999.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55055"
+digistore24_product_id: 658078
+title: "Silent Subliminals – Intelligence"
+vendor: "frequencies8888"
+product_type: "Downloads"
+price: 36.91
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 14.77
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9?aff=adminstore#aff=adminstore"
+sales_page: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9"
+language: "en"
+---
 # Silent Subliminals – Intelligence
 
 > Product ID `55055` · Digistore24 productId `658078` · [HTML profile page](../../reviews/silent-subliminals-intelligence-55055.html)

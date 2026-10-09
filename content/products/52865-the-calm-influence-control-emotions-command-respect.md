@@ -1,3 +1,24 @@
+---
+product_id: "52865"
+digistore24_product_id: 615324
+title: "The Calm Influence – Control Emotions, Command Respect"
+vendor: "thecalminfluence"
+product_type: "E-books"
+price: 16.78
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 10.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-05-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/615324?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/615324"
+language: "en"
+---
 # The Calm Influence – Control Emotions, Command Respect
 
 > Product ID `52865` · Digistore24 productId `615324` · [HTML profile page](../../reviews/the-calm-influence-control-emotions-command-respect-52865.html)

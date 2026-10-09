@@ -1,3 +1,24 @@
+---
+product_id: "45104"
+digistore24_product_id: 510033
+title: "From Zero To Off-Grid Hero"
+vendor: "IndependentHomestead"
+product_type: "Webinar"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Home & Garden","Real Estate"]
+listed_since: "2023-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf?aff=adminstore#aff=adminstore"
+sales_page: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf"
+language: "en"
+---
 # From Zero To Off-Grid Hero
 
 > Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)

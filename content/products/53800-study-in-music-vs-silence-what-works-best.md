@@ -1,3 +1,24 @@
+---
+product_id: "53800"
+digistore24_product_id: 633492
+title: "Study in Music vs. Silence_What Works Best"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633492?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633492"
+language: "en"
+---
 # Study in Music vs. Silence_What Works Best
 
 > Product ID `53800` · Digistore24 productId `633492` · [HTML profile page](../../reviews/study-in-music-vs-silence-what-works-best-53800.html)

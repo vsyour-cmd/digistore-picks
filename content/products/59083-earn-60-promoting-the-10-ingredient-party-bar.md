@@ -1,3 +1,24 @@
+---
+product_id: "59083"
+digistore24_product_id: 726602
+title: "Earn 60% Promoting the 10-Ingredient Party Bar"
+vendor: "vfdigitaldesign"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 22.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink"]
+listed_since: "2026-09-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://10ingredientpartybar.com/get-now/?aff=adminstore#aff=adminstore"
+sales_page: "https://10ingredientpartybar.com/get-now/"
+language: "en"
+---
 # Earn 60% Promoting the 10-Ingredient Party Bar
 
 > Product ID `59083` · Digistore24 productId `726602` · [HTML profile page](../../reviews/earn-60-promoting-the-10-ingredient-party-bar-59083.html)

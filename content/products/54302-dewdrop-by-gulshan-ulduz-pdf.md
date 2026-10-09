@@ -1,3 +1,24 @@
+---
+product_id: "54302"
+digistore24_product_id: 638688
+title: "DEWDROP by Gulshan Ulduz PDF"
+vendor: "DECLARATIONPLUS"
+product_type: "E-books"
+price: 13.42
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/638688?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/638688"
+language: "en"
+---
 # DEWDROP by Gulshan Ulduz PDF
 
 > Product ID `54302` · Digistore24 productId `638688` · [HTML profile page](../../reviews/dewdrop-by-gulshan-ulduz-pdf-54302.html)

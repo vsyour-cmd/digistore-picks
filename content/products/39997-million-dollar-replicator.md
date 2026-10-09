@@ -1,3 +1,24 @@
+---
+product_id: "39997"
+digistore24_product_id: 438218
+title: "Million Dollar Replicator"
+vendor: "impassive"
+product_type: "Member area and video courses"
+price: 22.34
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 11.17
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://mdreplicator.com/digi?aff=adminstore#aff=adminstore"
+sales_page: "https://mdreplicator.com/digi"
+language: "en"
+---
 # Million Dollar Replicator
 
 > Product ID `39997` · Digistore24 productId `438218` · [HTML profile page](../../reviews/million-dollar-replicator-39997.html)

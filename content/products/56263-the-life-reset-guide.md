@@ -1,3 +1,24 @@
+---
+product_id: "56263"
+digistore24_product_id: 684564
+title: "The Life Reset Guide"
+vendor: "solvehera"
+product_type: "Downloads"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 24.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development","Travel & Culture"]
+listed_since: "2026-04-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/684564?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/684564"
+language: "en"
+---
 # The Life Reset Guide
 
 > Product ID `56263` · Digistore24 productId `684564` · [HTML profile page](../../reviews/the-life-reset-guide-56263.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59265"
+digistore24_product_id: 733900
+title: "Ebook - The New Architecture of Global Power - Volume III"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 14.53
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Politics & Economy"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733900?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733900"
+language: "en"
+---
 # Ebook - The New Architecture of Global Power - Volume III
 
 > Product ID `59265` · Digistore24 productId `733900` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-iii-59265.html)

@@ -1,3 +1,24 @@
+---
+product_id: "59451"
+digistore24_product_id: 735470
+title: "Customer Service Reply Toolkit - 20 Practice Scenarios (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 9.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Services","Office Organization"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/735470?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735470"
+language: "en"
+---
 # Customer Service Reply Toolkit - 20 Practice Scenarios (English)
 
 > Product ID `59451` · Digistore24 productId `735470` · [HTML profile page](../../reviews/customer-service-reply-toolkit-20-practice-scenarios-english-59451.html)

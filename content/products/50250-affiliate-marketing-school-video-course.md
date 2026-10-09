@@ -1,3 +1,24 @@
+---
+product_id: "50250"
+digistore24_product_id: 577404
+title: "Affiliate Marketing School Video Course"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 77.18
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 38.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-10-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/the-affiliate-marketing-school?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/the-affiliate-marketing-school"
+language: "en"
+---
 # Affiliate Marketing School Video Course
 
 > Product ID `50250` · Digistore24 productId `577404` · [HTML profile page](../../reviews/affiliate-marketing-school-video-course-50250.html)

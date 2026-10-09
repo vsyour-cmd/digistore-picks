@@ -1,3 +1,24 @@
+---
+product_id: "53828"
+digistore24_product_id: 633829
+title: "What is Coding_A Beginner’s Guide"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633829?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633829"
+language: "en"
+---
 # What is Coding_A Beginner’s Guide
 
 > Product ID `53828` · Digistore24 productId `633829` · [HTML profile page](../../reviews/what-is-coding-a-beginner-s-guide-53828.html)

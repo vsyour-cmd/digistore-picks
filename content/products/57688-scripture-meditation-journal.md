@@ -1,3 +1,24 @@
+---
+product_id: "57688"
+digistore24_product_id: 714377
+title: "Scripture Meditation Journal"
+vendor: "deannawheeler"
+product_type: "Downloads"
+price: 77
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 26.95
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://scripturemeditationsessionsandjournal.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://scripturemeditationsessionsandjournal.plannerpack.co"
+language: "en"
+---
 # Scripture Meditation Journal
 
 > Product ID `57688` · Digistore24 productId `714377` · [HTML profile page](../../reviews/scripture-meditation-journal-57688.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54420"
+digistore24_product_id: 641921
+title: "PromptWise - AI Prompts for Dissertation Topic Selection"
+vendor: "KingAford"
+product_type: "E-books"
+price: 16.77
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 1.68
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Software"]
+listed_since: "2025-10-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/641921?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/641921"
+language: "en"
+---
 # PromptWise - AI Prompts for Dissertation Topic Selection
 
 > Product ID `54420` · Digistore24 productId `641921` · [HTML profile page](../../reviews/promptwise-ai-prompts-for-dissertation-topic-selection-54420.html)

@@ -1,3 +1,24 @@
+---
+product_id: "37381"
+digistore24_product_id: 385202
+title: "Fast and Easy Method Statement Template"
+vendor: "arneckem"
+product_type: "Downloads"
+price: 16.77
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 8.39
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Services"]
+listed_since: "2021-04-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore"
+sales_page: "https://worldofpm.com/buy-method-statement-template/"
+language: "en"
+---
 # Fast and Easy Method Statement Template
 
 > Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](../../reviews/fast-and-easy-method-statement-template-37381.html)

@@ -1,3 +1,24 @@
+---
+product_id: "53839"
+digistore24_product_id: 633817
+title: "Setting Smart Study Goals"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Languages"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633817?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633817"
+language: "en"
+---
 # Setting Smart Study Goals
 
 > Product ID `53839` · Digistore24 productId `633817` · [HTML profile page](../../reviews/setting-smart-study-goals-53839.html)

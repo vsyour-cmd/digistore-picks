@@ -1,3 +1,24 @@
+---
+product_id: "53805"
+digistore24_product_id: 633487
+title: "Language Learning in Just 15 Minutes a Day"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Languages","Personal Development"]
+listed_since: "2025-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633487?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633487"
+language: "en"
+---
 # Language Learning in Just 15 Minutes a Day
 
 > Product ID `53805` · Digistore24 productId `633487` · [HTML profile page](../../reviews/language-learning-in-just-15-minutes-a-day-53805.html)

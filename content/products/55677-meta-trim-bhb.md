@@ -1,3 +1,24 @@
+---
+product_id: "55677"
+digistore24_product_id: 670141
+title: "Meta Trim BHB™"
+vendor: "hummafaranpilotaa88"
+product_type: "Supplements - for slimming"
+price: 176.74
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 132.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2026-02-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://metatrim.trustednutraproduct.com/v1/best/go/go.html?aff=adminstore#aff=adminstore"
+sales_page: "https://metatrim.trustednutraproduct.com/v1/best/go/go.html"
+language: "en"
+---
 # Meta Trim BHB™
 
 > Product ID `55677` · Digistore24 productId `670141` · [HTML profile page](../../reviews/meta-trim-bhb-55677.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54445"
+digistore24_product_id: 642406
+title: "Parenting in the Digital Age - Raising Smart and Healthy Kid"
+vendor: "AspireVerse"
+product_type: "Member area and video courses"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Personal Development"]
+listed_since: "2025-10-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://parenting.aspireonecs.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://parenting.aspireonecs.com/"
+language: "en"
+---
 # Parenting in the Digital Age - Raising Smart and Healthy Kid
 
 > Product ID `54445` · Digistore24 productId `642406` · [HTML profile page](../../reviews/parenting-in-the-digital-age-raising-smart-and-healthy-kid-54445.html)

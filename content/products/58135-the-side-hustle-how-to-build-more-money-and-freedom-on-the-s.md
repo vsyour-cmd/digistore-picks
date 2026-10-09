@@ -1,3 +1,24 @@
+---
+product_id: "58135"
+digistore24_product_id: 718120
+title: "The Side Hustle How to Build More Money and Freedom on the S"
+vendor: "mlangbein51cce0"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Profession & Job","Finances"]
+listed_since: "2026-08-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/718120?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/718120"
+language: "en"
+---
 # The Side Hustle How to Build More Money and Freedom on the S
 
 > Product ID `58135` · Digistore24 productId `718120` · [HTML profile page](../../reviews/the-side-hustle-how-to-build-more-money-and-freedom-on-the-s-58135.html)

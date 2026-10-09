@@ -1,3 +1,24 @@
+---
+product_id: "60217"
+digistore24_product_id: 740429
+title: "Cute Halloween Ghost Clipart Bundle - High Quality PNG Graph"
+vendor: "craftydigitalstudio"
+product_type: "Downloads"
+price: 7.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Hobby & Craft"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/740429?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/740429"
+language: "en"
+---
 # Cute Halloween Ghost Clipart Bundle - High Quality PNG Graph
 
 > Product ID `60217` · Digistore24 productId `740429` · [HTML profile page](../../reviews/cute-halloween-ghost-clipart-bundle-high-quality-png-graph-60217.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54787"
+digistore24_product_id: 651394
+title: "LightSteps Pro"
+vendor: "LightStepsPro"
+product_type: "Supplements - health"
+price: 0
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 0
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-11-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://lightstepspro24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://lightstepspro24.com/text.php"
+language: "en"
+---
 # LightSteps Pro
 
 > Product ID `54787` · Digistore24 productId `651394` · [HTML profile page](../../reviews/lightsteps-pro-54787.html)

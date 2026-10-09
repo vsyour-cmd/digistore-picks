@@ -1,3 +1,24 @@
+---
+product_id: "42901"
+digistore24_product_id: 460804
+title: "Old School New Body"
+vendor: "rowleyresults"
+product_type: "E-books"
+price: 22.37
+currency: "USD"
+affiliate_commission_pct: 90
+earnings_per_sale: 20.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2022-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://oldschoolnewbody.com/alt/index.php?aff=adminstore#aff=adminstore"
+sales_page: "https://oldschoolnewbody.com/alt/index.php"
+language: "en"
+---
 # Old School New Body
 
 > Product ID `42901` · Digistore24 productId `460804` · [HTML profile page](../../reviews/old-school-new-body-42901.html)

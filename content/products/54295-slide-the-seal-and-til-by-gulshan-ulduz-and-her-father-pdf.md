@@ -1,3 +1,24 @@
+---
+product_id: "54295"
+digistore24_product_id: 638889
+title: "SLIDE THE SEAL AND TIL by Gulshan Ulduz and her Father PDF"
+vendor: "DECLARATIONPLUS"
+product_type: "E-books"
+price: 11.19
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.24
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children"]
+listed_since: "2025-09-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/638889?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/638889"
+language: "en"
+---
 # SLIDE THE SEAL AND TIL by Gulshan Ulduz and her Father PDF
 
 > Product ID `54295` · Digistore24 productId `638889` · [HTML profile page](../../reviews/slide-the-seal-and-til-by-gulshan-ulduz-and-her-father-pdf-54295.html)

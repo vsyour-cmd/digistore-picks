@@ -1,3 +1,24 @@
+---
+product_id: "50802"
+digistore24_product_id: 586221
+title: "SeroBurn"
+vendor: "seroburn"
+product_type: "Supplements - for slimming"
+price: 164.43
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 106.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-12-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://seroburn.com/d/?aff=adminstore#aff=adminstore"
+sales_page: "https://seroburn.com/d/"
+language: "en"
+---
 # SeroBurn
 
 > Product ID `50802` · Digistore24 productId `586221` · [HTML profile page](../../reviews/seroburn-50802.html)

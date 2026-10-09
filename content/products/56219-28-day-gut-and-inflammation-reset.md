@@ -1,3 +1,24 @@
+---
+product_id: "56219"
+digistore24_product_id: 681798
+title: "28-Day Gut and Inflammation Reset"
+vendor: "penneymegginson9f1b"
+product_type: "E-books"
+price: 52.57
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 26.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-04-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-1?aff=adminstore#aff=adminstore"
+sales_page: "https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-1"
+language: "en"
+---
 # 28-Day Gut and Inflammation Reset
 
 > Product ID `56219` · Digistore24 productId `681798` · [HTML profile page](../../reviews/28-day-gut-and-inflammation-reset-56219.html)

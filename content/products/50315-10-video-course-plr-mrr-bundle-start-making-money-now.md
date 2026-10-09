@@ -1,3 +1,24 @@
+---
+product_id: "50315"
+digistore24_product_id: 576866
+title: "10-Video Course PLR + MRR Bundle - Start Making Money NOW!"
+vendor: "HeikoBoos"
+product_type: "Downloads"
+price: 206.49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 103.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media"]
+listed_since: "2024-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://heikoboos.com/10-mega-plr-video-courses?aff=adminstore#aff=adminstore"
+sales_page: "http://heikoboos.com/10-mega-plr-video-courses"
+language: "en"
+---
 # 10-Video Course PLR + MRR Bundle - Start Making Money NOW!
 
 > Product ID `50315` · Digistore24 productId `576866` · [HTML profile page](../../reviews/10-video-course-plr-mrr-bundle-start-making-money-now-50315.html)

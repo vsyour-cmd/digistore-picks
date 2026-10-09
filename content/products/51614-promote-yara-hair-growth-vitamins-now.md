@@ -1,3 +1,24 @@
+---
+product_id: "51614"
+digistore24_product_id: 599088
+title: "Promote Yara Hair Growth Vitamins Now!"
+vendor: "yarahaircare"
+product_type: "Supplements - health"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 33
+earnings_per_sale: 13.66
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-02-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://yarahaircare.com?aff=adminstore#aff=adminstore"
+sales_page: "https://yarahaircare.com"
+language: "en"
+---
 # Promote Yara Hair Growth Vitamins Now!
 
 > Product ID `51614` · Digistore24 productId `599088` · [HTML profile page](../../reviews/promote-yara-hair-growth-vitamins-now-51614.html)

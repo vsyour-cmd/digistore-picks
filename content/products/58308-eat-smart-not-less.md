@@ -1,3 +1,24 @@
+---
+product_id: "58308"
+digistore24_product_id: 720473
+title: "Eat Smart Not Less"
+vendor: "krisig02156e2b"
+product_type: "E-books"
+price: 27.85
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.93
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Personal Development"]
+listed_since: "2026-08-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/720473?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/720473"
+language: "en"
+---
 # Eat Smart Not Less
 
 > Product ID `58308` · Digistore24 productId `720473` · [HTML profile page](../../reviews/eat-smart-not-less-58308.html)

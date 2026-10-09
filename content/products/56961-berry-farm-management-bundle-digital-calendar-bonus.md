@@ -1,3 +1,24 @@
+---
+product_id: "56961"
+digistore24_product_id: 697151
+title: "Berry Farm Management Bundle + Digital Calendar Bonus"
+vendor: "BerryOS"
+product_type: "Downloads"
+price: 8.99
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 4.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-06-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://berryoperatingsystems.my.canva.site/farm-management-bundle?aff=adminstore#aff=adminstore"
+sales_page: "https://berryoperatingsystems.my.canva.site/farm-management-bundle"
+language: "en"
+---
 # Berry Farm Management Bundle + Digital Calendar Bonus
 
 > Product ID `56961` · Digistore24 productId `697151` · [HTML profile page](../../reviews/berry-farm-management-bundle-digital-calendar-bonus-56961.html)

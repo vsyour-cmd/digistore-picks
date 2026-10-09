@@ -1,3 +1,24 @@
+---
+product_id: "47395"
+digistore24_product_id: 542607
+title: "Easy DIY Power Plan"
+vendor: "EasyPowerPlan"
+product_type: "E-books"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 46.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Survival"]
+listed_since: "2024-03-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://easydiypowerplan4all.com/index_dg24/?aff=adminstore#aff=adminstore"
+sales_page: "https://easydiypowerplan4all.com/index_dg24/"
+language: "en"
+---
 # Easy DIY Power Plan
 
 > Product ID `47395` · Digistore24 productId `542607` · [HTML profile page](../../reviews/easy-diy-power-plan-47395.html)

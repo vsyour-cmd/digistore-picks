@@ -1,3 +1,24 @@
+---
+product_id: "57455"
+digistore24_product_id: 709876
+title: "Home Owners Insurance Guide for Living in Tornado areas"
+vendor: "therachelmiller4333"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://homeownersinsuranceguide-ij1.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://homeownersinsuranceguide-ij1.plannerpack.fun"
+language: "en"
+---
 # Home Owners Insurance Guide for Living in Tornado areas
 
 > Product ID `57455` · Digistore24 productId `709876` · [HTML profile page](../../reviews/home-owners-insurance-guide-for-living-in-tornado-areas-57455.html)

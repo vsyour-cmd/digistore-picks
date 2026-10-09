@@ -1,3 +1,24 @@
+---
+product_id: "57799"
+digistore24_product_id: 716731
+title: "Product"
+vendor: "constantindavid01196a4"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 34
+earnings_per_sale: 14.07
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://peptonic-m3k.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://peptonic-m3k.plannerpack.co"
+language: "en"
+---
 # Product
 
 > Product ID `57799` · Digistore24 productId `716731` · [HTML profile page](../../reviews/product-57799.html)

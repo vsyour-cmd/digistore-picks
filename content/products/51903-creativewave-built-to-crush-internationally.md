@@ -1,3 +1,24 @@
+---
+product_id: "51903"
+digistore24_product_id: 595983
+title: "CreativeWave – Built to CRUSH Internationally!"
+vendor: "primarytour"
+product_type: "Downloads"
+price: 54.81
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 43.85
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Personal Development","Marketing Services"]
+listed_since: "2025-02-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.checkout-ds24.com/product/595983?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/595983"
+language: "en"
+---
 # CreativeWave – Built to CRUSH Internationally!
 
 > Product ID `51903` · Digistore24 productId `595983` · [HTML profile page](../../reviews/creativewave-built-to-crush-internationally-51903.html)

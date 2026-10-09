@@ -1,3 +1,24 @@
+---
+product_id: "54504"
+digistore24_product_id: 643538
+title: "Promote CogniSurge Now!"
+vendor: "zenmavibe"
+product_type: "Supplements - health"
+price: 154.37
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 100.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2025-10-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thecognisurge.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
+sales_page: "https://thecognisurge.com/ds/go/indexvs.php"
+language: "en"
+---
 # Promote CogniSurge Now!
 
 > Product ID `54504` · Digistore24 productId `643538` · [HTML profile page](../../reviews/promote-cognisurge-now-54504.html)

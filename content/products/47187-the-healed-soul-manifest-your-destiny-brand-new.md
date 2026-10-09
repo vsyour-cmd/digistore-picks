@@ -1,3 +1,24 @@
+---
+product_id: "47187"
+digistore24_product_id: 540121
+title: "The Healed Soul \"MANIFEST YOUR DESTINY\" - BRAND NEW"
+vendor: "TheHealedSoul"
+product_type: "E-books"
+price: 37.28
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 26.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2024-02-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://bottomlinemanifesting.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://bottomlinemanifesting.com/"
+language: "en"
+---
 # The Healed Soul "MANIFEST YOUR DESTINY" - BRAND NEW
 
 > Product ID `47187` · Digistore24 productId `540121` · [HTML profile page](../../reviews/the-healed-soul-manifest-your-destiny-brand-new-47187.html)

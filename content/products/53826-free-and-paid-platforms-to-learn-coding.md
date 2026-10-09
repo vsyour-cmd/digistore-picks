@@ -1,3 +1,24 @@
+---
+product_id: "53826"
+digistore24_product_id: 633831
+title: "Free and Paid Platforms to Learn Coding"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+listed_since: "2025-09-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/633831?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/633831"
+language: "en"
+---
 # Free and Paid Platforms to Learn Coding
 
 > Product ID `53826` · Digistore24 productId `633831` · [HTML profile page](../../reviews/free-and-paid-platforms-to-learn-coding-53826.html)

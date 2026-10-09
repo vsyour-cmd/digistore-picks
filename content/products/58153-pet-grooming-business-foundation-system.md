@@ -1,3 +1,24 @@
+---
+product_id: "58153"
+digistore24_product_id: 715830
+title: "Pet Grooming Business Foundation System"
+vendor: "Juliannieh"
+product_type: "Downloads"
+price: 69
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 51.75
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets"]
+listed_since: "2026-08-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://pawopsstudio.com/pet-grooming-business-foundation-system/?aff=adminstore#aff=adminstore"
+sales_page: "https://pawopsstudio.com/pet-grooming-business-foundation-system/"
+language: "en"
+---
 # Pet Grooming Business Foundation System
 
 > Product ID `58153` · Digistore24 productId `715830` · [HTML profile page](../../reviews/pet-grooming-business-foundation-system-58153.html)

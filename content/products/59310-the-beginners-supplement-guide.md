@@ -1,3 +1,24 @@
+---
+product_id: "59310"
+digistore24_product_id: 733313
+title: "The Beginners Supplement Guide"
+vendor: "PharmaNutrition_glow"
+product_type: "E-books"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Health & Fitness","Food Supplements"]
+listed_since: "2026-09-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://tangerine-squirrel-5c0458.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://tangerine-squirrel-5c0458.netlify.app/"
+language: "en"
+---
 # The Beginners Supplement Guide
 
 > Product ID `59310` · Digistore24 productId `733313` · [HTML profile page](../../reviews/the-beginners-supplement-guide-59310.html)

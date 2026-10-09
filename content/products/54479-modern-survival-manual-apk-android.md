@@ -1,3 +1,24 @@
+---
+product_id: "54479"
+digistore24_product_id: 637049
+title: "Modern survival Manual apk.android"
+vendor: "manuelcosta"
+product_type: "Software"
+price: 47
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 28.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Survival","Personal Development"]
+listed_since: "2025-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://survivalmoder.netlify.app/?aff=adminstore#aff=adminstore"
+sales_page: "https://survivalmoder.netlify.app/"
+language: "en"
+---
 # Modern survival Manual apk.android
 
 > Product ID `54479` · Digistore24 productId `637049` · [HTML profile page](../../reviews/modern-survival-manual-apk-android-54479.html)

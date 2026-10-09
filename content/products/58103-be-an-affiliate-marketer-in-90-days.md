@@ -1,3 +1,24 @@
+---
+product_id: "58103"
+digistore24_product_id: 718165
+title: "Be an Affiliate Marketer in 90 Days"
+vendor: "AprilBrumm"
+product_type: "Member area and video courses"
+price: 13.99
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 11.19
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://90dayaffiliate-vz8.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://90dayaffiliate-vz8.plannerpack.co"
+language: "en"
+---
 # Be an Affiliate Marketer in 90 Days
 
 > Product ID `58103` · Digistore24 productId `718165` · [HTML profile page](../../reviews/be-an-affiliate-marketer-in-90-days-58103.html)

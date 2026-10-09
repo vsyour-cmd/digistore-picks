@@ -1,3 +1,24 @@
+---
+product_id: "48731"
+digistore24_product_id: 562310
+title: "Moringa Magic"
+vendor: "offersconnect"
+product_type: "Supplements - health"
+price: 221.33
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 85.92
+cart_conversion_pct: 2
+cancel_rate_pct: 4.57
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-07-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.magicofmoringa.co/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.magicofmoringa.co/"
+language: "en"
+---
 # Moringa Magic
 
 > Product ID `48731` · Digistore24 productId `562310` · [HTML profile page](../../reviews/moringa-magic-48731.html)

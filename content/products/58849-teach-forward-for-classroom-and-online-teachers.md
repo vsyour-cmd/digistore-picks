@@ -1,3 +1,24 @@
+---
+product_id: "58849"
+digistore24_product_id: 546789
+title: "Teach Forward (For classroom and online teachers)"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development","Profession & Job"]
+listed_since: "2026-09-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/teach-forward/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/teach-forward/"
+language: "en"
+---
 # Teach Forward (For classroom and online teachers)
 
 > Product ID `58849` · Digistore24 productId `546789` · [HTML profile page](../../reviews/teach-forward-for-classroom-and-online-teachers-58849.html)

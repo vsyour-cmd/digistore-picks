@@ -1,3 +1,24 @@
+---
+product_id: "58866"
+digistore24_product_id: 728308
+title: "Decode Relationship Signals With a Practical 90-Day System"
+vendor: "ramib6566a327"
+product_type: "E-books"
+price: 67
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 50.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development"]
+listed_since: "2026-09-02"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://signal.esr.mobi/?aff=adminstore#aff=adminstore"
+sales_page: "https://signal.esr.mobi/"
+language: "en"
+---
 # Decode Relationship Signals With a Practical 90-Day System
 
 > Product ID `58866` · Digistore24 productId `728308` · [HTML profile page](../../reviews/decode-relationship-signals-with-a-practical-90-day-system-58866.html)

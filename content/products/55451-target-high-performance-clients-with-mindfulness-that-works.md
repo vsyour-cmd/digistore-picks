@@ -1,3 +1,24 @@
+---
+product_id: "55451"
+digistore24_product_id: 663737
+title: "Target High-Performance Clients with Mindfulness that Works"
+vendor: "NikaBluemont"
+product_type: "E-books"
+price: 35.8
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 14.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2026-01-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://allnikabloom.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://allnikabloom.com/"
+language: "en"
+---
 # Target High-Performance Clients with Mindfulness that Works
 
 > Product ID `55451` · Digistore24 productId `663737` · [HTML profile page](../../reviews/target-high-performance-clients-with-mindfulness-that-works-55451.html)

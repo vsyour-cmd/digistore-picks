@@ -1,3 +1,24 @@
+---
+product_id: "59411"
+digistore24_product_id: 735108
+title: "NEW: Easy Power Plan : New Survival Toolkit Offer 2026!!"
+vendor: "energy4oren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://feelbetter-today.com/easy-power-plan?aff=adminstore#aff=adminstore"
+sales_page: "http://feelbetter-today.com/easy-power-plan"
+language: "en"
+---
 # NEW: Easy Power Plan : New Survival Toolkit Offer 2026!!
 
 > Product ID `59411` · Digistore24 productId `735108` · [HTML profile page](../../reviews/new-easy-power-plan-new-survival-toolkit-offer-2026-59411.html)

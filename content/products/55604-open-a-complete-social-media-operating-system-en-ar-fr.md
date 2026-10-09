@@ -1,3 +1,24 @@
+---
+product_id: "55604"
+digistore24_product_id: 665621
+title: "Open — A Complete Social Media Operating System (EN/AR/FR)"
+vendor: "El_patronship"
+product_type: "Downloads"
+price: 22.26
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 7.8
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-01-31"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://nexora-boost.xyz/social%20media/dist/?aff=adminstore#aff=adminstore"
+sales_page: "https://nexora-boost.xyz/social%20media/dist/"
+language: "en"
+---
 # Open — A Complete Social Media Operating System (EN/AR/FR)
 
 > Product ID `55604` · Digistore24 productId `665621` · [HTML profile page](../../reviews/open-a-complete-social-media-operating-system-en-ar-fr-55604.html)

@@ -1,3 +1,24 @@
+---
+product_id: "49739"
+digistore24_product_id: 571197
+title: "Flip the Car-Rental Script with the Turo Business Guide"
+vendor: "EducationNation"
+product_type: "E-books"
+price: 22.36
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 4.47
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Leadership & Management","Marketing Services"]
+listed_since: "2024-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/571197?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/571197"
+language: "en"
+---
 # Flip the Car-Rental Script with the Turo Business Guide
 
 > Product ID `49739` · Digistore24 productId `571197` · [HTML profile page](../../reviews/flip-the-car-rental-script-with-the-turo-business-guide-49739.html)

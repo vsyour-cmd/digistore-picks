@@ -1,3 +1,24 @@
+---
+product_id: "55121"
+digistore24_product_id: 659032
+title: "Stress Management Made Simple – Practical PDF E-Book"
+vendor: "enginucar"
+product_type: "E-books"
+price: 15.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-01-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.digistore24.com/product/659032?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/659032"
+language: "en"
+---
 # Stress Management Made Simple – Practical PDF E-Book
 
 > Product ID `55121` · Digistore24 productId `659032` · [HTML profile page](../../reviews/stress-management-made-simple-practical-pdf-e-book-55121.html)

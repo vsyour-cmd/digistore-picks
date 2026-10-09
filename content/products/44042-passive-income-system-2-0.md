@@ -1,3 +1,24 @@
+---
+product_id: "44042"
+digistore24_product_id: 361682
+title: "Passive Income System 2.0"
+vendor: "impassive"
+product_type: "Member area and video courses"
+price: 944.89
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 365.37
+cart_conversion_pct: 2
+cancel_rate_pct: 19.2
+categories: ["Online Marketing & E-Business"]
+listed_since: "2020-12-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://vipliveclass.com/aff?aff=adminstore#aff=adminstore"
+sales_page: "https://vipliveclass.com/aff"
+language: "en"
+---
 # Passive Income System 2.0
 
 > Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](../../reviews/passive-income-system-2-0-44042.html)

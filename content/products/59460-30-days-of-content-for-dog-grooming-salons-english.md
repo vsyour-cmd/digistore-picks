@@ -1,3 +1,24 @@
+---
+product_id: "59460"
+digistore24_product_id: 735502
+title: "30 Days of Content for Dog Grooming Salons (English)"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 29
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735502?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735502"
+language: "en"
+---
 # 30 Days of Content for Dog Grooming Salons (English)
 
 > Product ID `59460` · Digistore24 productId `735502` · [HTML profile page](../../reviews/30-days-of-content-for-dog-grooming-salons-english-59460.html)

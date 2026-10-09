@@ -1,3 +1,24 @@
+---
+product_id: "54982"
+digistore24_product_id: 656248
+title: "Interpret Growth via Music | High 60% Commission"
+vendor: "patricia_sekael"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 18.12
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education"]
+listed_since: "2025-12-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://sekael.com/sing-and-solve-accounting-interpret-performance-growth/?aff=adminstore#aff=adminstore"
+sales_page: "https://sekael.com/sing-and-solve-accounting-interpret-performance-growth/"
+language: "en"
+---
 # Interpret Growth via Music | High 60% Commission
 
 > Product ID `54982` · Digistore24 productId `656248` · [HTML profile page](../../reviews/interpret-growth-via-music-high-60-commission-54982.html)

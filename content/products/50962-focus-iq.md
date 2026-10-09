@@ -1,3 +1,24 @@
+---
+product_id: "50962"
+digistore24_product_id: 585313
+title: "Focus IQ"
+vendor: "AlSearsMD"
+product_type: "Supplements - health"
+price: 67.06
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 43.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+listed_since: "2024-12-10"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://partners.primalforce.net/sp/tesla-vsl-summit-3/?aff=adminstore#aff=adminstore"
+sales_page: "https://partners.primalforce.net/sp/tesla-vsl-summit-3/"
+language: "en"
+---
 # Focus IQ
 
 > Product ID `50962` · Digistore24 productId `585313` · [HTML profile page](../../reviews/focus-iq-50962.html)

@@ -1,3 +1,24 @@
+---
+product_id: "40006"
+digistore24_product_id: 438236
+title: "Secret Millionaire Bot"
+vendor: "impassive"
+product_type: "Member area and video courses"
+price: 19.02
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.51
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-04-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://smbotz.com/digi?aff=adminstore#aff=adminstore"
+sales_page: "https://smbotz.com/digi"
+language: "en"
+---
 # Secret Millionaire Bot
 
 > Product ID `40006` · Digistore24 productId `438236` · [HTML profile page](../../reviews/secret-millionaire-bot-40006.html)

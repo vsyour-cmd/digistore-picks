@@ -1,3 +1,24 @@
+---
+product_id: "59012"
+digistore24_product_id: 727617
+title: "Promote the No1 Credential in Quantum AI-Earn 50% commission"
+vendor: "mayakannan"
+product_type: "Downloads"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 48.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Education"]
+listed_since: "2026-09-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.mayaness.org/shop/cqi-foundation-certification/digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://www.mayaness.org/shop/cqi-foundation-certification/digistore"
+language: "en"
+---
 # Promote the No1 Credential in Quantum AI-Earn 50% commission
 
 > Product ID `59012` · Digistore24 productId `727617` · [HTML profile page](../../reviews/promote-the-no1-credential-in-quantum-ai-earn-50-commission-59012.html)

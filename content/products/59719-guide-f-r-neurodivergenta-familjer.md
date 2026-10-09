@@ -1,3 +1,24 @@
+---
+product_id: "59719"
+digistore24_product_id: 737382
+title: "Guide för neurodivergenta familjer"
+vendor: "ssrms7"
+product_type: "Member area and video courses"
+price: 19.06
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 6.67
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://guideneurodivergenta-o1q.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://guideneurodivergenta-o1q.plannerpack.fun"
+language: "en"
+---
 # Guide för neurodivergenta familjer
 
 > Product ID `59719` · Digistore24 productId `737382` · [HTML profile page](../../reviews/guide-f-r-neurodivergenta-familjer-59719.html)

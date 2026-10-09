@@ -1,3 +1,24 @@
+---
+product_id: "54540"
+digistore24_product_id: 645625
+title: "The Subconscious Millionaire System"
+vendor: "darrelltee"
+product_type: "Downloads"
+price: 220.36
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 165.27
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Spiri­tua­lity & Esotericism"]
+listed_since: "2025-11-01"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system?aff=adminstore#aff=adminstore"
+sales_page: "http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system"
+language: "en"
+---
 # The Subconscious Millionaire System
 
 > Product ID `54540` · Digistore24 productId `645625` · [HTML profile page](../../reviews/the-subconscious-millionaire-system-54540.html)

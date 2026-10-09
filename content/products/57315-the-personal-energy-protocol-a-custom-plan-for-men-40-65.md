@@ -1,3 +1,24 @@
+---
+product_id: "57315"
+digistore24_product_id: 705028
+title: "The Personal Energy Protocol — A Custom Plan for Men 40–65"
+vendor: "Alencarjp"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-06-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://alpha40fit.com/energy-protocol/?aff=adminstore#aff=adminstore"
+sales_page: "https://alpha40fit.com/energy-protocol/"
+language: "en"
+---
 # The Personal Energy Protocol — A Custom Plan for Men 40–65
 
 > Product ID `57315` · Digistore24 productId `705028` · [HTML profile page](../../reviews/the-personal-energy-protocol-a-custom-plan-for-men-40-65-57315.html)

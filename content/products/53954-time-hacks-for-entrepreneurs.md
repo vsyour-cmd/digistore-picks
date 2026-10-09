@@ -1,3 +1,24 @@
+---
+product_id: "53954"
+digistore24_product_id: 635392
+title: "Time Hacks for Entrepreneurs"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Personal Development"]
+listed_since: "2025-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635392?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635392"
+language: "en"
+---
 # Time Hacks for Entrepreneurs
 
 > Product ID `53954` · Digistore24 productId `635392` · [HTML profile page](../../reviews/time-hacks-for-entrepreneurs-53954.html)

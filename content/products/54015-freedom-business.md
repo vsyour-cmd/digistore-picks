@@ -1,3 +1,24 @@
+---
+product_id: "54015"
+digistore24_product_id: 635715
+title: "Freedom Business"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Profession & Job"]
+listed_since: "2025-09-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635715?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635715"
+language: "en"
+---
 # Freedom Business
 
 > Product ID `54015` · Digistore24 productId `635715` · [HTML profile page](../../reviews/freedom-business-54015.html)

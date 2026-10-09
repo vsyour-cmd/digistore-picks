@@ -1,3 +1,24 @@
+---
+product_id: "53585"
+digistore24_product_id: 628615
+title: "AI Side Hustles 2025 – Step-by-Step Guide to Earning with AI"
+vendor: "roketkazanc"
+product_type: "E-books"
+price: 11.17
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Computer & Internet","Education"]
+listed_since: "2025-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/628615?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/628615"
+language: "en"
+---
 # AI Side Hustles 2025 – Step-by-Step Guide to Earning with AI
 
 > Product ID `53585` · Digistore24 productId `628615` · [HTML profile page](../../reviews/ai-side-hustles-2025-step-by-step-guide-to-earning-with-ai-53585.html)

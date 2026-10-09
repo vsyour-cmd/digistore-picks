@@ -1,3 +1,24 @@
+---
+product_id: "45930"
+digistore24_product_id: 524547
+title: "Video - Compilation | Starting 6-Figure Business"
+vendor: "ykarabacak"
+product_type: "Downloads"
+price: 12.45
+currency: "USD"
+affiliate_commission_pct: 67
+earnings_per_sale: 8.34
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2023-11-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/524547/?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/524547/"
+language: "en"
+---
 # Video - Compilation | Starting 6-Figure Business
 
 > Product ID `45930` · Digistore24 productId `524547` · [HTML profile page](../../reviews/video-compilation-starting-6-figure-business-45930.html)

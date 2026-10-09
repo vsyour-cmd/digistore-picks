@@ -1,3 +1,24 @@
+---
+product_id: "47836"
+digistore24_product_id: 546853
+title: "ZenCortex"
+vendor: "I868696"
+product_type: "Supplements - health"
+price: 79
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 101.38
+cart_conversion_pct: 11
+cancel_rate_pct: 14.59
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-04-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://zencortex24.com/d/order-now.php?aff=adminstore#aff=adminstore"
+sales_page: "https://zencortex24.com/d/order-now.php"
+language: "en"
+---
 # ZenCortex
 
 > Product ID `47836` · Digistore24 productId `546853` · [HTML profile page](../../reviews/zencortex-47836.html)

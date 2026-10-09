@@ -1,3 +1,24 @@
+---
+product_id: "40347"
+digistore24_product_id: 438000
+title: "Glucofreeze"
+vendor: "freedomhealthllc"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 197.32
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2022-04-07"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://glucofreezecurrent.com/special-today-digi/index.html?aff=adminstore#aff=adminstore"
+sales_page: "http://glucofreezecurrent.com/special-today-digi/index.html"
+language: "en"
+---
 # Glucofreeze
 
 > Product ID `40347` · Digistore24 productId `438000` · [HTML profile page](../../reviews/glucofreeze-40347.html)

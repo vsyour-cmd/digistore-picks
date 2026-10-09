@@ -1,3 +1,24 @@
+---
+product_id: "50717"
+digistore24_product_id: 583090
+title: "Vertigenics"
+vendor: "Vertigenics"
+product_type: "Supplements - health"
+price: 175.88
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 107.46
+cart_conversion_pct: 10
+cancel_rate_pct: 13.58
+categories: ["Food Supplements"]
+listed_since: "2024-11-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getmyvertigenics24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://getmyvertigenics24.com/text.php"
+language: "en"
+---
 # Vertigenics
 
 > Product ID `50717` · Digistore24 productId `583090` · [HTML profile page](../../reviews/vertigenics-50717.html)

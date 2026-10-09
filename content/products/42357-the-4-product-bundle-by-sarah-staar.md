@@ -1,3 +1,24 @@
+---
+product_id: "42357"
+digistore24_product_id: 462082
+title: "The 4 Product Bundle By Sarah Staar"
+vendor: "sarahstaar"
+product_type: "Member area and video courses"
+price: 4.14
+currency: "USD"
+affiliate_commission_pct: 100
+earnings_per_sale: 1.82
+cart_conversion_pct: 11
+cancel_rate_pct: 25.15
+categories: ["Online Marketing & E-Business"]
+listed_since: "2022-09-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/?aff=adminstore#aff=adminstore"
+sales_page: "https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/"
+language: "en"
+---
 # The 4 Product Bundle By Sarah Staar
 
 > Product ID `42357` · Digistore24 productId `462082` · [HTML profile page](../../reviews/the-4-product-bundle-by-sarah-staar-42357.html)

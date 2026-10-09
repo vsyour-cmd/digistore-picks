@@ -1,3 +1,24 @@
+---
+product_id: "52073"
+digistore24_product_id: 518675
+title: "SecuPerts Rescue Stick – Your Digital Emergency Assistant"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 28.19
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.09
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Hobby & Craft","Software"]
+listed_since: "2023-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/518675?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/518675"
+language: "en"
+---
 # SecuPerts Rescue Stick – Your Digital Emergency Assistant
 
 > Product ID `52073` · Digistore24 productId `518675` · [HTML profile page](../../reviews/secuperts-rescue-stick-your-digital-emergency-assistant-52073.html)

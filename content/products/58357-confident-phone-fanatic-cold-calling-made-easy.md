@@ -1,3 +1,24 @@
+---
+product_id: "58357"
+digistore24_product_id: 724847
+title: "Confident Phone Fanatic (Cold Calling Made Easy)"
+vendor: "Book2Book"
+product_type: "E-books"
+price: 17.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 12.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing","Sales Training"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/724847?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/724847"
+language: "en"
+---
 # Confident Phone Fanatic (Cold Calling Made Easy)
 
 > Product ID `58357` · Digistore24 productId `724847` · [HTML profile page](../../reviews/confident-phone-fanatic-cold-calling-made-easy-58357.html)

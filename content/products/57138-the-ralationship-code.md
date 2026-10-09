@@ -1,3 +1,24 @@
+---
+product_id: "57138"
+digistore24_product_id: 698941
+title: "The Ralationship Code"
+vendor: "medienversand2014"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance"]
+listed_since: "2026-06-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.sexualitycode.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.sexualitycode.com/"
+language: "en"
+---
 # The Ralationship Code
 
 > Product ID `57138` · Digistore24 productId `698941` · [HTML profile page](../../reviews/the-ralationship-code-57138.html)

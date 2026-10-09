@@ -1,3 +1,24 @@
+---
+product_id: "54170"
+digistore24_product_id: 637567
+title: "Self-Compassion in Hard Times"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-24"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/637567?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/637567"
+language: "en"
+---
 # Self-Compassion in Hard Times
 
 > Product ID `54170` · Digistore24 productId `637567` · [HTML profile page](../../reviews/self-compassion-in-hard-times-54170.html)

@@ -1,3 +1,24 @@
+---
+product_id: "56448"
+digistore24_product_id: 558168
+title: "Bundle of 51 Kids Number Activity Worksheet ."
+vendor: "tom_cruise"
+product_type: "Downloads"
+price: 15
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 10.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Fun & Games"]
+listed_since: "2024-06-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.alm3rfa.xyz/project/kids_number?aff=adminstore#aff=adminstore"
+sales_page: "https://www.alm3rfa.xyz/project/kids_number"
+language: "en"
+---
 # Bundle of 51 Kids Number Activity Worksheet .
 
 > Product ID `56448` · Digistore24 productId `558168` · [HTML profile page](../../reviews/bundle-of-51-kids-number-activity-worksheet-56448.html)

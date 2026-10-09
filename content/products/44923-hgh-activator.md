@@ -1,3 +1,24 @@
+---
+product_id: "44923"
+digistore24_product_id: 508979
+title: "HGH Activator"
+vendor: "NaturecastProducts"
+product_type: "Supplements - health"
+price: 171.12
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 36.42
+cart_conversion_pct: 6
+cancel_rate_pct: 4.79
+categories: ["Food Supplements"]
+listed_since: "2023-07-26"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://naturecastproducts.com/humangrowthhormoneactivator-ds/?aff=adminstore#aff=adminstore"
+sales_page: "https://naturecastproducts.com/humangrowthhormoneactivator-ds/"
+language: "en"
+---
 # HGH Activator
 
 > Product ID `44923` · Digistore24 productId `508979` · [HTML profile page](../../reviews/hgh-activator-44923.html)

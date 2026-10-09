@@ -1,3 +1,24 @@
+---
+product_id: "59689"
+digistore24_product_id: 731786
+title: "10,000 PowerPoint Templates and 20,000 Vector Icons Bundle"
+vendor: "aaravom"
+product_type: "Downloads"
+price: 49
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 24.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-25"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://powerpointtemplates.tennetinfotech.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://powerpointtemplates.tennetinfotech.com/"
+language: "en"
+---
 # 10,000 PowerPoint Templates and 20,000 Vector Icons Bundle
 
 > Product ID `59689` · Digistore24 productId `731786` · [HTML profile page](../../reviews/10-000-powerpoint-templates-and-20-000-vector-icons-bundle-59689.html)

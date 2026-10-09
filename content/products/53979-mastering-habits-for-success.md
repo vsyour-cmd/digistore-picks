@@ -1,3 +1,24 @@
+---
+product_id: "53979"
+digistore24_product_id: 635590
+title: "Mastering Habits for Success"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Personal Development","Spiri­tua­lity & Esotericism"]
+listed_since: "2025-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635590?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635590"
+language: "en"
+---
 # Mastering Habits for Success
 
 > Product ID `53979` · Digistore24 productId `635590` · [HTML profile page](../../reviews/mastering-habits-for-success-53979.html)

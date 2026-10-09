@@ -1,3 +1,24 @@
+---
+product_id: "60159"
+digistore24_product_id: 727541
+title: "NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash"
+vendor: "green4home"
+product_type: "Downloads"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 31.45
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-10-04"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://primemark-health.com/diabetes-free?aff=adminstore#aff=adminstore"
+sales_page: "https://primemark-health.com/diabetes-free"
+language: "en"
+---
 # NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash
 
 > Product ID `60159` · Digistore24 productId `727541` · [HTML profile page](../../reviews/new-halki-diabetes-remedy-send-clicks-and-stockpile-cash-60159.html)

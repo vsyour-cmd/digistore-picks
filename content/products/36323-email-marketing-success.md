@@ -1,3 +1,24 @@
+---
+product_id: "36323"
+digistore24_product_id: 382722
+title: "Email Marketing Success"
+vendor: "digiworldgaz"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Email Marketing"]
+listed_since: "2021-04-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "none"
+promo_link: "https://sites.google.com/view/emailmktgsuccess/home?aff=adminstore#aff=adminstore"
+sales_page: "https://sites.google.com/view/emailmktgsuccess/home"
+language: "en"
+---
 # Email Marketing Success
 
 > Product ID `36323` · Digistore24 productId `382722` · [HTML profile page](../../reviews/email-marketing-success-36323.html)

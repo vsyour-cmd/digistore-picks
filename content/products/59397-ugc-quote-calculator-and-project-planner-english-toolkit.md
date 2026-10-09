@@ -1,3 +1,24 @@
+---
+product_id: "59397"
+digistore24_product_id: 735091
+title: "UGC Quote Calculator and Project Planner – English Toolkit"
+vendor: "einfachmitmatze"
+product_type: "Downloads"
+price: 29
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 14.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/735091?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/735091"
+language: "en"
+---
 # UGC Quote Calculator and Project Planner – English Toolkit
 
 > Product ID `59397` · Digistore24 productId `735091` · [HTML profile page](../../reviews/ugc-quote-calculator-and-project-planner-english-toolkit-59397.html)

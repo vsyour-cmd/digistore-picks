@@ -1,3 +1,24 @@
+---
+product_id: "53034"
+digistore24_product_id: 619826
+title: "870 ChatGPT Prompts for Affiliate Marketing Success"
+vendor: "HeikoBoos"
+product_type: "E-books"
+price: 1.73
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 1.95
+cart_conversion_pct: 16
+cancel_rate_pct: 7.63
+categories: ["Email Marketing","Online Marketing & E-Business"]
+listed_since: "2025-06-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2?aff=adminstore#aff=adminstore"
+sales_page: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2"
+language: "en"
+---
 # 870 ChatGPT Prompts for Affiliate Marketing Success
 
 > Product ID `53034` · Digistore24 productId `619826` · [HTML profile page](../../reviews/870-chatgpt-prompts-for-affiliate-marketing-success-53034.html)

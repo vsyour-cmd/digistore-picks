@@ -1,3 +1,24 @@
+---
+product_id: "59227"
+digistore24_product_id: 723787
+title: "New Water Offer: SmartWaterBox - 10%+ New VSL Killing It!!"
+vendor: "energy4oren"
+product_type: "Downloads"
+price: 39
+currency: "USD"
+affiliate_commission_pct: 85
+earnings_per_sale: 33.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+listed_since: "2026-09-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://feelbetter-today.com/free-water?aff=adminstore#aff=adminstore"
+sales_page: "https://feelbetter-today.com/free-water"
+language: "en"
+---
 # New Water Offer: SmartWaterBox - 10%+ New VSL Killing It!!
 
 > Product ID `59227` · Digistore24 productId `723787` · [HTML profile page](../../reviews/new-water-offer-smartwaterbox-10-new-vsl-killing-it-59227.html)

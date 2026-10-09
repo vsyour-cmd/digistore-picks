@@ -1,3 +1,24 @@
+---
+product_id: "57781"
+digistore24_product_id: 716320
+title: "weight loss program test"
+vendor: "litvipenkoadfc"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 57
+earnings_per_sale: 7.41
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-28"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://weightlossprogramtest-4jn.plannerpack.fun?aff=adminstore#aff=adminstore"
+sales_page: "https://weightlossprogramtest-4jn.plannerpack.fun"
+language: "en"
+---
 # weight loss program test
 
 > Product ID `57781` · Digistore24 productId `716320` · [HTML profile page](../../reviews/weight-loss-program-test-57781.html)

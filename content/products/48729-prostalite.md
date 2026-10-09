@@ -1,3 +1,24 @@
+---
+product_id: "48729"
+digistore24_product_id: 561306
+title: "ProstaLite"
+vendor: "ProstaLite"
+product_type: "Supplements - health"
+price: 168.86
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 60.08
+cart_conversion_pct: 5
+cancel_rate_pct: 7.75
+categories: ["Health & Fitness","Food Supplements"]
+listed_since: "2024-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://prostalite24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://prostalite24.com/text.php"
+language: "en"
+---
 # ProstaLite
 
 > Product ID `48729` · Digistore24 productId `561306` · [HTML profile page](../../reviews/prostalite-48729.html)

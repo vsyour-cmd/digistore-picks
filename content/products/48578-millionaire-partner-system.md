@@ -1,3 +1,24 @@
+---
+product_id: "48578"
+digistore24_product_id: 569406
+title: "Millionaire Partner System"
+vendor: "impassive"
+product_type: "Member area and video courses"
+price: 1081.51
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 791.2
+cart_conversion_pct: 3
+cancel_rate_pct: 15.64
+categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
+listed_since: "2024-09-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://millionairepartnership.com/webclass-d24?aff=adminstore#aff=adminstore"
+sales_page: "https://millionairepartnership.com/webclass-d24"
+language: "en"
+---
 # Millionaire Partner System
 
 > Product ID `48578` · Digistore24 productId `569406` · [HTML profile page](../../reviews/millionaire-partner-system-48578.html)

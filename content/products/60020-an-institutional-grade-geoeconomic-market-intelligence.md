@@ -1,3 +1,24 @@
+---
+product_id: "60020"
+digistore24_product_id: 738502
+title: "An Institutional-grade geoeconomic Market intelligence"
+vendor: "mayakannan"
+product_type: "Downloads"
+price: 67
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 50.25
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Politics & Economy","Trading Products"]
+listed_since: "2026-09-29"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://mayanomics.org/telos-intelligence-briefing/digistore/?aff=adminstore#aff=adminstore"
+sales_page: "https://mayanomics.org/telos-intelligence-briefing/digistore/"
+language: "en"
+---
 # An Institutional-grade geoeconomic Market intelligence
 
 > Product ID `60020` · Digistore24 productId `738502` · [HTML profile page](../../reviews/an-institutional-grade-geoeconomic-market-intelligence-60020.html)

@@ -1,3 +1,24 @@
+---
+product_id: "52068"
+digistore24_product_id: 516334
+title: "MovieJack – Video Downloader for YouTube and Other Platforms"
+vendor: "engelmann-software"
+product_type: "Software"
+price: 18.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 9.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Social Media","Software"]
+listed_since: "2023-09-13"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.digistore24.com/product/516334?aff=adminstore"
+sales_page: "https://www.digistore24.com/product/516334"
+language: "en"
+---
 # MovieJack – Video Downloader for YouTube and Other Platforms
 
 > Product ID `52068` · Digistore24 productId `516334` · [HTML profile page](../../reviews/moviejack-video-downloader-for-youtube-and-other-platforms-52068.html)

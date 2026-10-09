@@ -1,3 +1,24 @@
+---
+product_id: "49073"
+digistore24_product_id: 567220
+title: "FlushFactor Plus"
+vendor: "FlushFactorPlus"
+product_type: "Supplements - health"
+price: 254.06
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 97.24
+cart_conversion_pct: 2
+cancel_rate_pct: 13.68
+categories: ["Food Supplements"]
+listed_since: "2024-08-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://flushfactorplus24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "http://flushfactorplus24.com/text.php"
+language: "en"
+---
 # FlushFactor Plus
 
 > Product ID `49073` · Digistore24 productId `567220` · [HTML profile page](../../reviews/flushfactor-plus-49073.html)

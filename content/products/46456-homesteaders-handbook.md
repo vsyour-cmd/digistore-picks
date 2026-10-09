@@ -1,3 +1,24 @@
+---
+product_id: "46456"
+digistore24_product_id: 516929
+title: "Homesteaders Handbook"
+vendor: "csmxripple"
+product_type: "Book (printed)"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 75
+earnings_per_sale: 31.04
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Home & Garden","Survival"]
+listed_since: "2023-09-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://digi.homesteadingbook.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://digi.homesteadingbook.com/"
+language: "en"
+---
 # Homesteaders Handbook
 
 > Product ID `46456` · Digistore24 productId `516929` · [HTML profile page](../../reviews/homesteaders-handbook-46456.html)

@@ -1,3 +1,24 @@
+---
+product_id: "54792"
+digistore24_product_id: 647453
+title: "The Ultimate Keto Dessert Recipe Book"
+vendor: "Timbmwm3"
+product_type: "E-books"
+price: 15.66
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 7.83
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-11-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/647453?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/647453"
+language: "en"
+---
 # The Ultimate Keto Dessert Recipe Book
 
 > Product ID `54792` · Digistore24 productId `647453` · [HTML profile page](../../reviews/the-ultimate-keto-dessert-recipe-book-54792.html)

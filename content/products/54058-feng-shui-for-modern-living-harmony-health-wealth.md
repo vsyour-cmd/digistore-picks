@@ -1,3 +1,24 @@
+---
+product_id: "54058"
+digistore24_product_id: 635891
+title: "Feng Shui for Modern Living – Harmony, Health, Wealth"
+vendor: "secondwavetech"
+product_type: "E-books"
+price: 4.36
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 3.49
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Family & Children","Health & Fitness"]
+listed_since: "2025-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635891?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635891"
+language: "en"
+---
 # Feng Shui for Modern Living – Harmony, Health, Wealth
 
 > Product ID `54058` · Digistore24 productId `635891` · [HTML profile page](../../reviews/feng-shui-for-modern-living-harmony-health-wealth-54058.html)

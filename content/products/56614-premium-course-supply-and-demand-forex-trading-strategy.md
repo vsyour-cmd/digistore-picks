@@ -1,3 +1,24 @@
+---
+product_id: "56614"
+digistore24_product_id: 693495
+title: "Premium Course - Supply and Demand Forex Trading Strategy"
+vendor: "oraclefx"
+product_type: "Member area and video courses"
+price: 120
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 72
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+listed_since: "2026-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://oraclefx.org/courses/supply-and-demand-trading-strategy/?aff=adminstore#aff=adminstore"
+sales_page: "https://oraclefx.org/courses/supply-and-demand-trading-strategy/"
+language: "en"
+---
 # Premium Course - Supply and Demand Forex Trading Strategy
 
 > Product ID `56614` · Digistore24 productId `693495` · [HTML profile page](../../reviews/premium-course-supply-and-demand-forex-trading-strategy-56614.html)

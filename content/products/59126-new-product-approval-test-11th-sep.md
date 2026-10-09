@@ -1,3 +1,24 @@
+---
+product_id: "59126"
+digistore24_product_id: 732346
+title: "New Product Approval Test 11th Sep"
+vendor: "team24-mmichalowski"
+product_type: "Member area and video courses"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 4.55
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://productapprovaltest-7iu.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://productapprovaltest-7iu.plannerpack.co"
+language: "en"
+---
 # New Product Approval Test 11th Sep
 
 > Product ID `59126` · Digistore24 productId `732346` · [HTML profile page](../../reviews/new-product-approval-test-11th-sep-59126.html)

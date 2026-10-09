@@ -1,3 +1,24 @@
+---
+product_id: "10991"
+digistore24_product_id: 19087
+title: "Worksheets for German grammar"
+vendor: "easydaf"
+product_type: "Downloads"
+price: 28.22
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 11.29
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education"]
+listed_since: "2014-01-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://www.learn-german-smarter.com/german-grammar-worksheets/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.learn-german-smarter.com/german-grammar-worksheets/"
+language: "en"
+---
 # Worksheets for German grammar
 
 > Product ID `10991` · Digistore24 productId `19087` · [HTML profile page](../../reviews/worksheets-for-german-grammar-10991.html)

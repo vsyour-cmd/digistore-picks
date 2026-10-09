@@ -1,3 +1,24 @@
+---
+product_id: "57557"
+digistore24_product_id: 712357
+title: "American Sign Language 2"
+vendor: "asltutor13589b"
+product_type: "Member area and video courses"
+price: 72
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 25.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-07-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://americansignlanguage2-ev5.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://americansignlanguage2-ev5.plannerpack.co"
+language: "en"
+---
 # American Sign Language 2
 
 > Product ID `57557` · Digistore24 productId `712357` · [HTML profile page](../../reviews/american-sign-language-2-57557.html)

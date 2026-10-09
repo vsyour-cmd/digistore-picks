@@ -1,3 +1,24 @@
+---
+product_id: "41905"
+digistore24_product_id: 466836
+title: "Lanta Flat Belly Shake"
+vendor: "mysteryoffers"
+product_type: "Supplements - health"
+price: 197.99
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 138.59
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2022-10-27"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://theflatbellyshake.com/discovery/?aff=adminstore#aff=adminstore"
+sales_page: "https://theflatbellyshake.com/discovery/"
+language: "en"
+---
 # Lanta Flat Belly Shake
 
 > Product ID `41905` · Digistore24 productId `466836` · [HTML profile page](../../reviews/lanta-flat-belly-shake-41905.html)

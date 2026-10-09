@@ -1,3 +1,24 @@
+---
+product_id: "60241"
+digistore24_product_id: 740076
+title: "Quantum Heart"
+vendor: "quantumh"
+product_type: "Deliverable"
+price: 679
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 339.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Skin Care"]
+listed_since: "2026-10-06"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://getquantumheart.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://getquantumheart.com/"
+language: "en"
+---
 # Quantum Heart
 
 > Product ID `60241` · Digistore24 productId `740076` · [HTML profile page](../../reviews/quantum-heart-60241.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55609"
+digistore24_product_id: 653324
+title: "DYNVERA Diary 4 | Balance and Innovative Habits"
+vendor: "Dynvera"
+product_type: "E-books"
+price: 11.75
+currency: "USD"
+affiliate_commission_pct: 20
+earnings_per_sale: 2.35
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2025-12-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.dynvera.com/diaries?aff=adminstore#aff=adminstore"
+sales_page: "https://www.dynvera.com/diaries"
+language: "en"
+---
 # DYNVERA Diary 4 | Balance and Innovative Habits
 
 > Product ID `55609` · Digistore24 productId `653324` · [HTML profile page](../../reviews/dynvera-diary-4-balance-and-innovative-habits-55609.html)

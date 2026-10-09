@@ -1,3 +1,24 @@
+---
+product_id: "54305"
+digistore24_product_id: 639632
+title: "Etsy Starter Kit | Digital Bundle for Beginners | Etsy Boost"
+vendor: "moneywithangie"
+product_type: "Downloads"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Online Marketing","Personal Development"]
+listed_since: "2025-10-05"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/639632?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/639632"
+language: "en"
+---
 # Etsy Starter Kit | Digital Bundle for Beginners | Etsy Boost
 
 > Product ID `54305` · Digistore24 productId `639632` · [HTML profile page](../../reviews/etsy-starter-kit-digital-bundle-for-beginners-etsy-boost-54305.html)

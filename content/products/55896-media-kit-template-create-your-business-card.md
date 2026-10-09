@@ -1,3 +1,24 @@
+---
+product_id: "55896"
+digistore24_product_id: 658176
+title: "Media Kit Template - Create Your Business Card!"
+vendor: "sarahvisita"
+product_type: "Downloads"
+price: 21.25
+currency: "USD"
+affiliate_commission_pct: 10
+earnings_per_sale: 2.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
+listed_since: "2025-12-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/658176?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/658176"
+language: "en"
+---
 # Media Kit Template - Create Your Business Card!
 
 > Product ID `55896` · Digistore24 productId `658176` · [HTML profile page](../../reviews/media-kit-template-create-your-business-card-55896.html)

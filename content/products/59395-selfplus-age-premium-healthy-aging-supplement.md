@@ -1,3 +1,24 @@
+---
+product_id: "59395"
+digistore24_product_id: 728647
+title: "SelfPlus AGE+ – Premium Healthy Aging Supplement"
+vendor: "selfplus"
+product_type: "Supplements - health"
+price: 324
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 194.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2026-09-19"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://selfplus-care.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://selfplus-care.com/"
+language: "en"
+---
 # SelfPlus AGE+ – Premium Healthy Aging Supplement
 
 > Product ID `59395` · Digistore24 productId `728647` · [HTML profile page](../../reviews/selfplus-age-premium-healthy-aging-supplement-59395.html)

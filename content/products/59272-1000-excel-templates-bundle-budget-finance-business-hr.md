@@ -1,3 +1,24 @@
+---
+product_id: "59272"
+digistore24_product_id: 719715
+title: "1000+ Excel Templates Bundle | Budget, Finance, Business, HR"
+vendor: "aaravom"
+product_type: "Downloads"
+price: 40
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://exceltemplates.tennetinfotech.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://exceltemplates.tennetinfotech.com/"
+language: "en"
+---
 # 1000+ Excel Templates Bundle | Budget, Finance, Business, HR
 
 > Product ID `59272` · Digistore24 productId `719715` · [HTML profile page](../../reviews/1000-excel-templates-bundle-budget-finance-business-hr-59272.html)

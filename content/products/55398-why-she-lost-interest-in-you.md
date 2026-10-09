@@ -1,3 +1,24 @@
+---
+product_id: "55398"
+digistore24_product_id: 665295
+title: "Why She Lost Interest in You"
+vendor: "MohammedAsif_k"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 40
+earnings_per_sale: 3.13
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Education","Social Media"]
+listed_since: "2026-01-30"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/665295?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/665295"
+language: "en"
+---
 # Why She Lost Interest in You
 
 > Product ID `55398` · Digistore24 productId `665295` · [HTML profile page](../../reviews/why-she-lost-interest-in-you-55398.html)

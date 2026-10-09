@@ -1,3 +1,24 @@
+---
+product_id: "58220"
+digistore24_product_id: 693684
+title: "30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert"
+vendor: "Khumee"
+product_type: "E-books"
+price: 37
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 18.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food & Drink","Health & Fitness"]
+listed_since: "2026-08-08"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html?aff=adminstore#aff=adminstore"
+sales_page: "https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html"
+language: "en"
+---
 # 30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert
 
 > Product ID `58220` · Digistore24 productId `693684` · [HTML profile page](../../reviews/30-day-keto-revolution-4-in-1-master-bundle-high-convert-58220.html)

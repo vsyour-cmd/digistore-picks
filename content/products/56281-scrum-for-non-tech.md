@@ -1,3 +1,24 @@
+---
+product_id: "56281"
+digistore24_product_id: 684079
+title: "Scrum For Non-Tech"
+vendor: "TopCourseCreator"
+product_type: "Member area and video courses"
+price: 41.39
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 20.69
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Profession & Job","Services","Project Management"]
+listed_since: "2026-04-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.noa.rs.ba/scrum-for-non-tech/?aff=adminstore#aff=adminstore"
+sales_page: "https://www.noa.rs.ba/scrum-for-non-tech/"
+language: "en"
+---
 # Scrum For Non-Tech
 
 > Product ID `56281` · Digistore24 productId `684079` · [HTML profile page](../../reviews/scrum-for-non-tech-56281.html)

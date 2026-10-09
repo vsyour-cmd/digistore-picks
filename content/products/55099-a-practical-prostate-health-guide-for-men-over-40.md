@@ -1,3 +1,24 @@
+---
+product_id: "55099"
+digistore24_product_id: 656037
+title: "A Practical Prostate Health Guide for Men Over 40"
+vendor: "TheHealthyLivingHub"
+product_type: "E-books"
+price: 23.49
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 16.44
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness"]
+listed_since: "2025-12-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
+sales_page: "https://thehealthyliving.lovable.app"
+language: "en"
+---
 # A Practical Prostate Health Guide for Men Over 40
 
 > Product ID `55099` · Digistore24 productId `656037` · [HTML profile page](../../reviews/a-practical-prostate-health-guide-for-men-over-40-55099.html)

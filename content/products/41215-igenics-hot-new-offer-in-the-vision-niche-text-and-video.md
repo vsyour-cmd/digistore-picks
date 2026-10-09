@@ -1,3 +1,24 @@
+---
+product_id: "41215"
+digistore24_product_id: 454003
+title: "iGenics - Hot New Offer in the Vision Niche!(Text and Video)"
+vendor: "igenics"
+product_type: "Supplements - health"
+price: 172.69
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 116.03
+cart_conversion_pct: 10
+cancel_rate_pct: 9.37
+categories: ["Food Supplements"]
+listed_since: "2022-08-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://clearvisionbreakthrough.com/tsl.php?aff=adminstore#aff=adminstore"
+sales_page: "https://clearvisionbreakthrough.com/tsl.php"
+language: "en"
+---
 # iGenics - Hot New Offer in the Vision Niche!(Text and Video)
 
 > Product ID `41215` · Digistore24 productId `454003` · [HTML profile page](../../reviews/igenics-hot-new-offer-in-the-vision-niche-text-and-video-41215.html)

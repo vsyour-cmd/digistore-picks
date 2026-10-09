@@ -1,3 +1,24 @@
+---
+product_id: "53940"
+digistore24_product_id: 635406
+title: "Fitness After 40"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Family & Children","Health & Fitness","Personal Development"]
+listed_since: "2025-09-12"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/635406?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/635406"
+language: "en"
+---
 # Fitness After 40
 
 > Product ID `53940` · Digistore24 productId `635406` · [HTML profile page](../../reviews/fitness-after-40-53940.html)

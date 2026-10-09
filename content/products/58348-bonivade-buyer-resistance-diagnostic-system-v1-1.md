@@ -1,3 +1,24 @@
+---
+product_id: "58348"
+digistore24_product_id: 707692
+title: "Bonivade: Buyer Resistance Diagnostic System v1.1"
+vendor: "bonivade"
+product_type: "Downloads"
+price: 211.42
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 63.42
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business"]
+listed_since: "2026-08-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/707692?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/707692"
+language: "en"
+---
 # Bonivade: Buyer Resistance Diagnostic System v1.1
 
 > Product ID `58348` · Digistore24 productId `707692` · [HTML profile page](../../reviews/bonivade-buyer-resistance-diagnostic-system-v1-1-58348.html)

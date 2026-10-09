@@ -1,3 +1,24 @@
+---
+product_id: "40302"
+digistore24_product_id: 443930
+title: "VitaFirm"
+vendor: "freedomhealthllc"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 65
+earnings_per_sale: 213.76
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2022-05-23"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "thin"
+promo_link: "https://vitafirmsecret.com/special-digi/index.html?aff=adminstore#aff=adminstore"
+sales_page: "https://vitafirmsecret.com/special-digi/index.html"
+language: "en"
+---
 # VitaFirm
 
 > Product ID `40302` · Digistore24 productId `443930` · [HTML profile page](../../reviews/vitafirm-40302.html)

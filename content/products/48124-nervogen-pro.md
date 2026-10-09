@@ -1,3 +1,24 @@
+---
+product_id: "48124"
+digistore24_product_id: 552263
+title: "Nervogen Pro"
+vendor: "NervogenPro"
+product_type: "Supplements - health"
+price: 328.87
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 180.88
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2024-05-14"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://thenervogen24.com/text.php?aff=adminstore#aff=adminstore"
+sales_page: "https://thenervogen24.com/text.php"
+language: "en"
+---
 # Nervogen Pro
 
 > Product ID `48124` · Digistore24 productId `552263` · [HTML profile page](../../reviews/nervogen-pro-48124.html)

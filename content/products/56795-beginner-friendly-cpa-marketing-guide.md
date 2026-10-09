@@ -1,3 +1,24 @@
+---
+product_id: "56795"
+digistore24_product_id: 697434
+title: "Beginner-Friendly CPA Marketing Guide"
+vendor: "ZeroToCommission"
+product_type: "E-books"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.offerlaunchpad.site/cpa-marketing-mastery?aff=adminstore#aff=adminstore"
+sales_page: "https://www.offerlaunchpad.site/cpa-marketing-mastery"
+language: "en"
+---
 # Beginner-Friendly CPA Marketing Guide
 
 > Product ID `56795` · Digistore24 productId `697434` · [HTML profile page](../../reviews/beginner-friendly-cpa-marketing-guide-56795.html)

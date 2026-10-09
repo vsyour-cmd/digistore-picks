@@ -1,3 +1,24 @@
+---
+product_id: "54100"
+digistore24_product_id: 636864
+title: "Self Improvement Starter Kit"
+vendor: "GhulamBooks"
+product_type: "E-books"
+price: 20.12
+currency: "USD"
+affiliate_commission_pct: 80
+earnings_per_sale: 16.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Dating, Relationships & Romance","Family & Children","Personal Development"]
+listed_since: "2025-09-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/636864?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/636864"
+language: "en"
+---
 # Self Improvement Starter Kit
 
 > Product ID `54100` · Digistore24 productId `636864` · [HTML profile page](../../reviews/self-improvement-starter-kit-54100.html)

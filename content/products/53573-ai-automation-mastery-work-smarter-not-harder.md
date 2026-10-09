@@ -1,3 +1,24 @@
+---
+product_id: "53573"
+digistore24_product_id: 630181
+title: "AI Automation Mastery – Work Smarter, Not Harder"
+vendor: "fkcproject"
+product_type: "Downloads"
+price: 27
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 13.5
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Online Marketing & E-Business","Leadership & Management"]
+listed_since: "2025-08-18"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/630181?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/630181"
+language: "en"
+---
 # AI Automation Mastery – Work Smarter, Not Harder
 
 > Product ID `53573` · Digistore24 productId `630181` · [HTML profile page](../../reviews/ai-automation-mastery-work-smarter-not-harder-53573.html)

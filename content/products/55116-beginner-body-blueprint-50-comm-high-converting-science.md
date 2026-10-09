@@ -1,3 +1,24 @@
+---
+product_id: "55116"
+digistore24_product_id: 655678
+title: "Beginner Body Blueprint | 50% Comm | High-Converting Science"
+vendor: "DIGJITL"
+product_type: "E-books"
+price: 30.2
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 15.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Personal Development"]
+listed_since: "2025-12-15"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://fitstartformula.com/?aff=adminstore#aff=adminstore"
+sales_page: "https://fitstartformula.com/"
+language: "en"
+---
 # Beginner Body Blueprint | 50% Comm | High-Converting Science
 
 > Product ID `55116` · Digistore24 productId `655678` · [HTML profile page](../../reviews/beginner-body-blueprint-50-comm-high-converting-science-55116.html)

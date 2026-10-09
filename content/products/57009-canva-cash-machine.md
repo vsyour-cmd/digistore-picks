@@ -1,3 +1,24 @@
+---
+product_id: "57009"
+digistore24_product_id: 702453
+title: "Canva Cash Machine"
+vendor: "ZeroToCommission"
+product_type: "E-books"
+price: 97
+currency: "USD"
+affiliate_commission_pct: 60
+earnings_per_sale: 58.2
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Online Marketing & E-Business"]
+listed_since: "2026-06-17"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "http://www.offerlaunchpad.site/canva-cash-machine?aff=adminstore#aff=adminstore"
+sales_page: "http://www.offerlaunchpad.site/canva-cash-machine"
+language: "en"
+---
 # Canva Cash Machine
 
 > Product ID `57009` · Digistore24 productId `702453` · [HTML profile page](../../reviews/canva-cash-machine-57009.html)

@@ -1,3 +1,24 @@
+---
+product_id: "55661"
+digistore24_product_id: 660498
+title: "30-Day Digital Reflection Notebook. Reflect and Grow."
+vendor: "MillionDollarBaby28"
+product_type: "Downloads"
+price: 10.07
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 5.03
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Personal Development"]
+listed_since: "2026-01-11"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/660498?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/660498"
+language: "en"
+---
 # 30-Day Digital Reflection Notebook. Reflect and Grow.
 
 > Product ID `55661` · Digistore24 productId `660498` · [HTML profile page](../../reviews/30-day-digital-reflection-notebook-reflect-and-grow-55661.html)

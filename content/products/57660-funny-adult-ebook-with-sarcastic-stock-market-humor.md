@@ -1,3 +1,24 @@
+---
+product_id: "57660"
+digistore24_product_id: 713983
+title: "Funny Adult eBook with Sarcastic Stock Market Humor"
+vendor: "KeepCreatingFun"
+product_type: "E-books"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 55
+earnings_per_sale: 7.15
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Fun & Games","Trading Products"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "medium"
+promo_link: "https://buythedamnstocks-3e9.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://buythedamnstocks-3e9.plannerpack.co"
+language: "en"
+---
 # Funny Adult eBook with Sarcastic Stock Market Humor
 
 > Product ID `57660` · Digistore24 productId `713983` · [HTML profile page](../../reviews/funny-adult-ebook-with-sarcastic-stock-market-humor-57660.html)

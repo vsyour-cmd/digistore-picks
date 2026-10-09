@@ -1,3 +1,24 @@
+---
+product_id: "58897"
+digistore24_product_id: 729479
+title: "Custom microbiome-based supplement formula"
+vendor: "jenthomp8462506c"
+product_type: "Member area and video courses"
+price: 158
+currency: "USD"
+affiliate_commission_pct: 35
+earnings_per_sale: 55.3
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: []
+listed_since: "2026-09-03"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://microbiomesupplement-pe1.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://microbiomesupplement-pe1.plannerpack.co"
+language: "en"
+---
 # Custom microbiome-based supplement formula
 
 > Product ID `58897` · Digistore24 productId `729479` · [HTML profile page](../../reviews/custom-microbiome-based-supplement-formula-58897.html)

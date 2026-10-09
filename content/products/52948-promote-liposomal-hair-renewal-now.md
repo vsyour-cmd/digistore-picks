@@ -1,3 +1,24 @@
+---
+product_id: "52948"
+digistore24_product_id: 611728
+title: "Promote Liposomal Hair Renewal Now!"
+vendor: "puralityhealth"
+product_type: "Supplements - health"
+price: 60.35
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 30.18
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Food Supplements"]
+listed_since: "2025-05-09"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://renewyourhair.com/ds24c/?aff=adminstore#aff=adminstore"
+sales_page: "https://renewyourhair.com/ds24c/"
+language: "en"
+---
 # Promote Liposomal Hair Renewal Now!
 
 > Product ID `52948` · Digistore24 productId `611728` · [HTML profile page](../../reviews/promote-liposomal-hair-renewal-now-52948.html)

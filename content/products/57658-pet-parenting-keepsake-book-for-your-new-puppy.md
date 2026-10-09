@@ -1,3 +1,24 @@
+---
+product_id: "57658"
+digistore24_product_id: 713980
+title: "Pet Parenting Keepsake Book For Your New Puppy"
+vendor: "decodivagmm4506"
+product_type: "E-books"
+price: 13
+currency: "USD"
+affiliate_commission_pct: 70
+earnings_per_sale: 9.1
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Animals & Pets","Family & Children"]
+listed_since: "2026-07-21"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://8pw.plannerpack.co?aff=adminstore#aff=adminstore"
+sales_page: "https://8pw.plannerpack.co"
+language: "en"
+---
 # Pet Parenting Keepsake Book For Your New Puppy
 
 > Product ID `57658` · Digistore24 productId `713980` · [HTML profile page](../../reviews/pet-parenting-keepsake-book-for-your-new-puppy-57658.html)

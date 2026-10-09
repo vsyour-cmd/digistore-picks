@@ -1,3 +1,24 @@
+---
+product_id: "49195"
+digistore24_product_id: 553182
+title: "Learning to Say No Without Guilt or Remorse"
+vendor: "Santttos"
+product_type: "E-books"
+price: 7.83
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.92
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Education","Personal Development"]
+listed_since: "2024-05-20"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/553182?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/553182"
+language: "en"
+---
 # Learning to Say No Without Guilt or Remorse
 
 > Product ID `49195` · Digistore24 productId `553182` · [HTML profile page](../../reviews/learning-to-say-no-without-guilt-or-remorse-49195.html)

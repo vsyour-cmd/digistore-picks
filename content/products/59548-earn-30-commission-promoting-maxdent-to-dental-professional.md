@@ -1,3 +1,24 @@
+---
+product_id: "59548"
+digistore24_product_id: 732542
+title: "Earn 30% commission promoting MaxDent to dental professional"
+vendor: "maxdent"
+product_type: "Software"
+price: 180
+currency: "USD"
+affiliate_commission_pct: 30
+earnings_per_sale: 54
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Health & Fitness","Software","Office Organization"]
+listed_since: "2026-09-22"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.maxdentsystem.com/digistore?aff=adminstore#aff=adminstore"
+sales_page: "https://www.maxdentsystem.com/digistore"
+language: "en"
+---
 # Earn 30% commission promoting MaxDent to dental professional
 
 > Product ID `59548` · Digistore24 productId `732542` · [HTML profile page](../../reviews/earn-30-commission-promoting-maxdent-to-dental-professional-59548.html)

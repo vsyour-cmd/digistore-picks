@@ -1,3 +1,24 @@
+---
+product_id: "59263"
+digistore24_product_id: 733895
+title: "Ebook - The New Architecture of Global Power - Volume II"
+vendor: "joebgesbuchverleger39ac"
+product_type: "E-books"
+price: 6.79
+currency: "USD"
+affiliate_commission_pct: 50
+earnings_per_sale: 3.4
+cart_conversion_pct: 0
+cancel_rate_pct: 0
+categories: ["Business & Investment","Education","Politics & Economy"]
+listed_since: "2026-09-16"
+marketplace_data_date: "2026-10-09"
+research_date: "2026-10-09"
+research_quality: "rich"
+promo_link: "https://www.checkout-ds24.com/product/733895?aff=adminstore"
+sales_page: "https://www.checkout-ds24.com/product/733895"
+language: "en"
+---
 # Ebook - The New Architecture of Global Power - Volume II
 
 > Product ID `59263` · Digistore24 productId `733895` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-ii-59263.html)
