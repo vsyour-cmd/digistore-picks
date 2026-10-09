@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Added monthly-new page (October 2026: new offers ranked by earnings/sale) and llms-full.txt — a single-file structured dataset of the top 300 offers for AI retrieval.",
+      "changes": [
+        "monthly-new.html: all offers listed in the last 31 days with official stats",
+        "llms-full.txt: 300 products in compact machine-readable lines",
+        "Both pages added to the sitemap"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Alternatives comparisons extended to the top 200 offers (60→193 pages); blog RSS feed now delivers full article content; image alt coverage confirmed by the daily QA structural scan.",
       "changes": [
         "133 new alternatives comparison pages (EN), embedded comparison tables on matching product profiles",

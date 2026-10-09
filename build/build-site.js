@@ -986,6 +986,43 @@ function aboutPage() {
   }));
 }
 
+// ---------- 本月新上架(数据驱动月度盘点) ----------
+function monthlyNewPage() {
+  const cutoff = Date.now() - 31 * 24 * 3600 * 1000;
+  const fresh = products
+    .filter((p) => p.createdAt && new Date(p.createdAt).getTime() >= cutoff)
+    .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  const dateLabel = new Date().toLocaleDateString("en-US", { month: "long", year: "numeric" });
+  const rows = fresh.slice(0, 50).map((p, i) => `<tr>
+<td>${i + 1}</td>
+<td><a href="reviews/${p.slug}.html">${esc(p.label)}</a></td>
+<td>${esc(p.type)}</td>
+<td>${money(p.price, p.currency)}</td>
+<td>${pct(p.commission)}</td>
+<td><b>${money(p.earningsPerSale, p.currency)}</b></td>
+<td>${datemark(p.createdAt)}</td>
+</tr>`);
+  const body = `<h1>New on Digistore24 — ${dateLabel}</h1>
+<p class="sub">${fresh.length} offers listed in the last 31 days · ranked by earnings/sale · marketplace data ${datemark(DATA.scrapedAt)}</p>
+<div class="tldr"><b>Key takeaways:</b>
+<ul>
+<li><b>${fresh.length} new offers</b> appeared in the last 31 days (average price ${money(fresh.length ? fresh.reduce((a, p) => a + (p.price || 0), 0) / fresh.length : 0, "USD")}).</li>
+<li>Highest earnings/sale among new listings: <b>${esc(fresh[0] ? fresh[0].label : "—")}</b>${fresh[0] ? ` at <b>${money(fresh[0].earningsPerSale, fresh[0].currency)}</b> (${pct(fresh[0].commission)} commission)` : ""}.</li>
+<li>New listings are unproven — check the vendor's history and cancel rate on each profile before promoting.</li>
+</ul>
+</div>
+${fresh.length ? `<table class="specs">
+<tr><th>#</th><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Earn./sale</th><th>Listed</th></tr>
+${rows.join("\n")}
+</table>
+<p class="sub">* Vendor-side marketplace statistics; not a forecast. Full profiles linked from every row.</p>` : "<p>No new listings in the last 31 days.</p>"}`;
+  fs.writeFileSync(outPath("monthly-new.html"), layout({
+    title: `New Digistore24 offers — ${dateLabel} (${fresh.length} listed)`,
+    desc: `All ${fresh.length} Digistore24 offers listed in the last 31 days, ranked by official earnings-per-sale. Updated ${datemark(DATA.scrapedAt)}.`,
+    body, path: "monthly-new.html",
+  }));
+}
+
 function changelogPage() {
   const f = path.join(ROOT, "build", "changelog.json");
   if (!fs.existsSync(f)) return;
@@ -1005,6 +1042,7 @@ profilePages(altSlugs);
 const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 aboutPage();
+monthlyNewPage();
 changelogPage();
 notFoundPage();
 console.log(`Built: index, about, 404, categories (paginated), ${products.length} product profiles, ${altCount} alternatives pages, ${bestCount} best-of pages. Articles protected: ${articleIds.size}`);
