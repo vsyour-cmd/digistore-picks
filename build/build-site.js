@@ -54,6 +54,21 @@ const DETAILS_FILE = process.env.DETAILS_FILE || "G:/Digistore24/data/details-en
 const DETAILS = fs.existsSync(DETAILS_FILE) ? JSON.parse(fs.readFileSync(DETAILS_FILE, "utf8")) : {};
 const productDetails = (id) => DETAILS[id] || null;
 
+// 跨语言关联:德语站数据集(同厂商产品互相引流)
+const DE_DATASET_FILE = "G:/Digistore24/site-de/data/dataset.json";
+const DE_DATA = fs.existsSync(DE_DATASET_FILE) ? JSON.parse(fs.readFileSync(DE_DATASET_FILE, "utf8")) : null;
+const deVendorMap = (() => {
+  if (!DE_DATA) return new Map();
+  const m = new Map();
+  for (const p of DE_DATA.products) {
+    const k = (p.vendorName || "").toLowerCase();
+    if (!m.has(k)) m.set(k, []);
+    m.get(k).push(p);
+  }
+  for (const [, arr] of m) arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  return m;
+})();
+
 // 类型化通用使用说明(标注为通用信息,非产品特定)
 const TYPE_USAGE_EN = {
   "E-books": "E-books on Digistore24 are delivered as a digital download (usually PDF/EPUB): right after checkout you get a download link or member-area access, and can read on any device.",
@@ -307,7 +322,7 @@ function researchSection(p) {
   if (r.guaranteeMention) parts.push(`<p><b>Guarantee language found:</b> “${esc(r.guaranteeMention)}” — always confirm the current terms on the official page before relying on it.</p>`);
   if (r.ctaTexts && r.ctaTexts.length) parts.push(`<p><b>CTA buttons:</b> ${r.ctaTexts.map((t) => `“${esc(t)}”`).join(" · ")}</p>`);
   parts.push(`<p class="sub">Research method: ${r.method === "browser-render" ? "browser-rendered page" : "raw HTML fetch"} · ${r.wordCount} words on page · quality: ${r.quality} · researched ${datemark(DATA.researchedAt)}. <a href="https://github.com/vsyour-cmd/digistore-picks/blob/main/content/products/${p.id}-${slug(p.label)}.md" rel="noopener">Full research file (MD) ↗</a></p>`);
-  return `<h2>From the vendor's sales page</h2>
+  return `<h2 id="research">From the vendor's sales page</h2>
 <div class="notice"><b>These are the vendor's own marketing claims</b>, extracted verbatim from the official sales page${r.finalUrl && r.finalUrl !== p.salesPageUrl ? ` (final URL: ${esc(r.finalUrl)})` : ""}. We do not verify outcomes, testimonials or income claims.</div>
 ${parts.join("\n")}`;
 }
@@ -333,8 +348,9 @@ function profilePages(altSlugs) {
 
     // 同厂商其他产品
     const vendorSiblings = products.filter((x) => x.id !== p.id && x.vendorName === p.vendorName).slice(0, 4);
+    p.vendorSiblings = vendorSiblings;
     const vendorBlock = vendorSiblings.length
-      ? `<h2>Other offers by ${esc(p.vendorName)}</h2>
+      ? `<h2 id="vendor">Other offers by ${esc(p.vendorName)}</h2>
 <div class="grid">${vendorSiblings.map((x) => productCard(x, "..")).join("\n")}</div>`
       : "";
 
@@ -349,6 +365,31 @@ function profilePages(altSlugs) {
 ${compareTable(p, altData)}
 <p class="sub">* Vendor-side marketplace statistics; depend on traffic quality, not a forecast. Full context: <a href="../alternatives/${p.slug}.html">alternatives page for ${esc(p.label)}</a>.</p>`
       : "";
+
+    // 关联增强:同厂商跨站 / 其他分类 / 相似价位
+    const deList = (deVendorMap.get((p.vendorName || "").toLowerCase()) || []).slice(0, 3);
+    const crossBlock = deList.length
+      ? `<h2>Same vendor on our German site</h2>
+<ul style="line-height:1.9">
+${deList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks-de/produkte/${slug(x.label)}-${x.id}.html" hreflang="de">${esc(x.label)}</a> — ${money(x.price, x.currency)}${x.categories && x.categories.length ? ` <span class="sub">(${esc(x.categories[0])})</span>` : ""}</li>`).join("\n")}
+</ul>
+<p class="sub">Same vendor, German-language marketplace listings.</p>`
+      : "";
+    const relatedIds = new Set(related.map((r) => r.id));
+    const priceNear = primaryCatId
+      ? products.filter((x) => x.id !== p.id && !relatedIds.has(x.id) && (x.categoryIds || []).includes(String(primaryCatId)) && x.price && p.price && Math.abs(x.price - p.price) / Math.max(p.price, 1) <= 0.35).slice(0, 4)
+      : [];
+    const priceNearBlock = priceNear.length
+      ? `<h2>Similar price range in ${esc(p.categories[0] || "this category")}</h2>
+<div class="grid">${priceNear.map((x) => productCard(x, "..")).join("\n")}</div>`
+      : "";
+    const otherCats = (p.categoryIds || []).slice(1).map((id) => DATA.categories.find((c) => String(c.catId) === String(id))).filter(Boolean).slice(0, 2);
+    const otherCatsBlock = otherCats.length
+      ? `<h2>${esc(p.label)} is also listed in</h2>
+<p>${otherCats.map((c) => `<a href="../category/${c.file}.html">${esc(c.label)}</a> (${c.count} products)`).join(" · ")}</p>`
+      : "";
+    const methodBox = `<h2 id="method">How we evaluate products like ${esc(p.label)}</h2>
+<p class="sub">Six checks, all on official marketplace numbers — earnings/sale ÷ cancel-rate skepticism × funnel fit. <a href="../blog/digistore24-numbers-checklist.html">Read the full evaluation method</a> · <a href="../about.html">our research standards &amp; labeling</a>.</p>`;
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Home", href: "../index.html" }];
@@ -373,7 +414,7 @@ ${topCta}
 
 ${imgTag}
 
-<h2>Marketplace record</h2>
+<h2 id="record">Marketplace record</h2>
 <table class="specs">
 <tr><th>Product type</th><td>${esc(p.type)}</td></tr>
 <tr><th>Price</th><td>${money(p.price, p.currency)} (${esc((p.billingTypes || []).join(", ")) || "see sales page"})</td></tr>
@@ -397,14 +438,28 @@ ${relatedBlock}
 
 ${vendorBlock}
 
+${crossBlock}
+
 ${altLink}
 
 ${compareBlock}
 
+${otherCatsBlock}
+
+${priceNearBlock}
+
+${relatedSearches(p, altSlugs)}
+
 <h2>Where to check it out</h2>
 <p>Read the vendor's full sales page (current price, guarantee terms and bonuses are listed there):<br>
 <a class="cta" href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">View official sales page</a></p>
-<p style="font-size:.88rem;color:var(--ink-soft)">That link is an affiliate link — if you buy through it we earn a commission from the vendor at no extra cost to you.</p>`;
+<p style="font-size:.88rem;color:var(--ink-soft)">That link is an affiliate link — if you buy through it we earn a commission from the vendor at no extra cost to you.</p>
+
+${sourcesBlock(p)}
+
+${methodBox}
+
+${interactionBlock}`;
 
     const jsonLd = [
       {
@@ -708,7 +763,7 @@ ${d.gallery.map((g) => `<img src="../${g.file}" width="${g.width}" height="${g.h
 function compareTable(p, alts) {
   const row = (x, self = false) => `<tr${self ? ' class="self"' : ""}>
 <td>${self ? `<b>${esc(x.label)}</b>` : `<a href="../reviews/${x.slug}.html">${esc(x.label)}</a>`}</td>
-<td>${esc(x.typeDe || x.type)}</td>
+<td>${esc(x.type)}</td>
 <td><b>${money(x.price, x.currency)}</b></td>
 <td>${pct(x.commission)}</td>
 <td>${pct(x.conversionRate)}</td>
@@ -720,6 +775,45 @@ function compareTable(p, alts) {
 ${row(p, true)}
 ${alts.map((x) => row(x)).join("\n")}
 </table>`;
+}
+
+// 关键词标签(内链锚文本)+ 来源区 + 评测方法 + 用户互动
+function relatedSearches(p, altSlugs) {
+  const pills = [];
+  if (altSlugs && altSlugs.has(p.slug)) pills.push([`${p.label} alternatives`, `../alternatives/${p.slug}.html`]);
+  pills.push([`${p.label} price & data`, "#record"]);
+  pills.push([`${p.label} review & research`, "#research"]);
+  if (p.vendorSiblings && p.vendorSiblings.length) pills.push([`All ${p.vendorName} offers`, "#vendor"]);
+  const cat = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+  if (cat) {
+    pills.push([`${cat.label} on Digistore24`, `../category/${cat.file}.html`]);
+    if (cat.count >= 8) pills.push([`Best ${cat.label} products`, `../best-of/best-${cat.file}.html`]);
+  }
+  pills.push([`How we evaluate products`, `../blog/digistore24-numbers-checklist.html`]);
+  return `<h2>Related searches</h2>
+<div class="pills">
+${pills.map(([t, href]) => `<a href="${href}">${esc(t)}</a>`).join("\n")}
+</div>`;
+}
+
+function sourcesBlock(p) {
+  return `<h2>Sources &amp; further information</h2>
+<ul style="line-height:1.9">
+<li><b>Official sales page</b> (current price, guarantee, bonuses): <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">${esc((p.salesPageUrl || "").replace(/^https?:\/\//, "").slice(0, 60))}</a> (affiliate link)</li>
+<li><b>Public Digistore24 product page:</b> <a href="https://www.digistore24.com/product/${p.productId}" rel="nofollow noopener" target="_blank">digistore24.com/product/${p.productId}</a></li>
+<li><b>Full research file (Markdown, versioned):</b> <a href="https://github.com/vsyour-cmd/digistore-picks/blob/main/content/products/${p.id}-${slug(p.label)}.md" rel="noopener">content/products/${p.id}-${slug(p.label)}.md</a></li>
+${p.affiliateSupportPageUrl ? `<li><b>Vendor's affiliate support page:</b> <a href="${esc(p.affiliateSupportPageUrl)}" rel="nofollow noopener" target="_blank">${esc(p.affiliateSupportPageUrl.replace(/^https?:\/\//, "").slice(0, 60))}</a></li>` : ""}
+<li><b>Marketplace category:</b> ${(p.categories || [])[0] ? `<a href="../category/${(DATA.categories.find((c) => c.label === p.categories[0]) || {}).file || ""}.html">${esc(p.categories[0])}</a>` : "Uncategorized"}</li>
+</ul>`;
+}
+
+function interactionBlock(p) {
+  const q = encodeURIComponent(p.label);
+  const mail = encodeURIComponent("Correction: " + p.label);
+  return `<h2>Questions, or own experience with ${esc(p.label)}?</h2>
+<p>We publish hands-on reviews only after buying a product ourselves — but your experience helps other readers:
+<a href="https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=${q}" rel="noopener" target="_blank">start or join the discussion about ${esc(p.label)} on GitHub</a>.
+Found a wrong number? <a href="mailto:admin@2bkf.com?subject=${mail}">Report a correction</a> — every page shows its data dates, and corrections are applied to the whole site.</p>`;
 }
 
 function aboutPage() {
