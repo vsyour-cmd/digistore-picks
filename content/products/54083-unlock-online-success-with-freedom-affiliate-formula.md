@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.getfreedomaffiliate.com/v1#aff=adminstore
+- **Promo link (affiliate):** https://www.getfreedomaffiliate.com/v1?aff=adminstore#aff=adminstore
 - Sales page: https://www.getfreedomaffiliate.com/v1
 - Vendor affiliate support: https://jv.getfreedomaffiliate.com/
 - Canonical redirect: https://www.digistore24.com/redir/620652/adminstore

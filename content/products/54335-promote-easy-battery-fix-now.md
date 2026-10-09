@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://easybatteryfixed.com/index_dg24/#aff=adminstore
+- **Promo link (affiliate):** https://easybatteryfixed.com/index_dg24/?aff=adminstore#aff=adminstore
 - Sales page: https://easybatteryfixed.com/index_dg24/
 - Canonical redirect: https://www.digistore24.com/redir/640412/adminstore
 

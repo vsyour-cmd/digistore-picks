@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://feelbetter-today.com/clean-water#aff=adminstore
+- **Promo link (affiliate):** https://feelbetter-today.com/clean-water?aff=adminstore#aff=adminstore
 - Sales page: https://feelbetter-today.com/clean-water
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5823371/en
 - Canonical redirect: https://www.digistore24.com/redir/732876/adminstore

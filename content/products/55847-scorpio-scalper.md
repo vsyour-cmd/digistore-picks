@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://scorpioscalper.site/#aff=adminstore
+- **Promo link (affiliate):** https://scorpioscalper.site/?aff=adminstore#aff=adminstore
 - Sales page: https://scorpioscalper.site/
 - Canonical redirect: https://www.digistore24.com/redir/670693/adminstore
 

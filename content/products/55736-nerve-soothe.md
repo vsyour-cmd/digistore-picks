@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://secure.getnervesoothe.com/index-bp-ds#aff=adminstore
+- **Promo link (affiliate):** https://secure.getnervesoothe.com/index-bp-ds?aff=adminstore#aff=adminstore
 - Sales page: https://secure.getnervesoothe.com/index-bp-ds
 - Vendor affiliate support: https://getnervesoothe.com/affiliate-enter-ds-ns-1
 - Canonical redirect: https://www.digistore24.com/redir/651685/adminstore

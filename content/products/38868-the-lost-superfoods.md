@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ultimatesurvivalfoods.com/book/#aff=adminstore
+- **Promo link (affiliate):** https://ultimatesurvivalfoods.com/book/?aff=adminstore#aff=adminstore
 - Sales page: https://ultimatesurvivalfoods.com/book/
 - Vendor affiliate support: https://ultimatesurvivalfoods.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/377301/adminstore

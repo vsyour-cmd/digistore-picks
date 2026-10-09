@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.clearingacademy.com/ds24-ritual#aff=adminstore
+- **Promo link (affiliate):** https://www.clearingacademy.com/ds24-ritual?aff=adminstore#aff=adminstore
 - Sales page: https://www.clearingacademy.com/ds24-ritual
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/clearing-academy
 - Canonical redirect: https://www.digistore24.com/redir/580186/adminstore

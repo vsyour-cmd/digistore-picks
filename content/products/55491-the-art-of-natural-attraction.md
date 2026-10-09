@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elevenmarketingdigital.com/the-art-of-natural-attraction/#aff=adminstore
+- **Promo link (affiliate):** https://elevenmarketingdigital.com/the-art-of-natural-attraction/?aff=adminstore#aff=adminstore
 - Sales page: https://elevenmarketingdigital.com/the-art-of-natural-attraction/
 - Vendor affiliate support: https://elevenmarketingdigital.com/the-art-of-natural-attraction/
 - Canonical redirect: https://www.digistore24.com/redir/665237/adminstore

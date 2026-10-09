@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://launch.yourbulletproofprofits.com/dg-vip/#aff=adminstore
+- **Promo link (affiliate):** https://launch.yourbulletproofprofits.com/dg-vip/?aff=adminstore#aff=adminstore
 - Sales page: https://launch.yourbulletproofprofits.com/dg-vip/
 - Canonical redirect: https://www.digistore24.com/redir/508127/adminstore
 

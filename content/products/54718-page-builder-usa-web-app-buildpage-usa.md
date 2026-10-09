@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pagebuilder-usa.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://pagebuilder-usa.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://pagebuilder-usa.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/650003/adminstore
 

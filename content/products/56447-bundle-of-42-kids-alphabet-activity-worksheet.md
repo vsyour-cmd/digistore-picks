@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/project/kids_alphapet#aff=adminstore
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/project/kids_alphapet?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/project/kids_alphapet
 - Canonical redirect: https://www.digistore24.com/redir/558164/adminstore
 

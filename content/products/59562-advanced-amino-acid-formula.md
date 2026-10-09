@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://advancedaminoacidformula-8gn.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://advancedaminoacidformula-8gn.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://advancedaminoacidformula-8gn.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/736302/adminstore
 

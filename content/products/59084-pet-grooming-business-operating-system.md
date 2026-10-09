@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pawopsstudio.com/pet-grooming-business-operating-system/#aff=adminstore
+- **Promo link (affiliate):** https://pawopsstudio.com/pet-grooming-business-operating-system/?aff=adminstore#aff=adminstore
 - Sales page: https://pawopsstudio.com/pet-grooming-business-operating-system/
 - Vendor affiliate support: https://pawopsstudio.com/pet-grooming-business-operating-system-affiliate-support-center/
 - Canonical redirect: https://www.digistore24.com/redir/723852/adminstore

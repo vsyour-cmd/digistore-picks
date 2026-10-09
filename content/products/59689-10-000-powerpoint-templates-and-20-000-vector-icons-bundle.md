@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://powerpointtemplates.tennetinfotech.com/#aff=adminstore
+- **Promo link (affiliate):** https://powerpointtemplates.tennetinfotech.com/?aff=adminstore#aff=adminstore
 - Sales page: https://powerpointtemplates.tennetinfotech.com/
 - Canonical redirect: https://www.digistore24.com/redir/731786/adminstore
 

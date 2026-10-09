@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mandalaebook.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://mandalaebook.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://mandalaebook.netlify.app/
 - Vendor affiliate support: https://mandalaebookpromo.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/654839/adminstore

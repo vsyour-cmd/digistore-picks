@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://theforbiddenchinawealth.com/vsl#aff=adminstore
+- **Promo link (affiliate):** https://theforbiddenchinawealth.com/vsl?aff=adminstore#aff=adminstore
 - Sales page: https://theforbiddenchinawealth.com/vsl
 - Vendor affiliate support: https://theforbiddenchinawealth.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/733740/adminstore

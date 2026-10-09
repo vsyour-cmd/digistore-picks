@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593591/adminstore

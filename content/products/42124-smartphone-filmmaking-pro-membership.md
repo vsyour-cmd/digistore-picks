@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://go.smartphonefilmmakingpro.com/premium-affiliate#aff=adminstore
+- **Promo link (affiliate):** https://go.smartphonefilmmakingpro.com/premium-affiliate?aff=adminstore#aff=adminstore
 - Sales page: https://go.smartphonefilmmakingpro.com/premium-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/455348/adminstore
 

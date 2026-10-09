@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://masterprods.com/knowledge-is-power/#aff=adminstore
+- **Promo link (affiliate):** https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore
 - Sales page: https://masterprods.com/knowledge-is-power/
 - Canonical redirect: https://www.digistore24.com/redir/555279/adminstore
 

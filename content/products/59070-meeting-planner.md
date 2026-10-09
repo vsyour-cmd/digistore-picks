@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://meetingplanner-o6p.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://meetingplanner-o6p.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://meetingplanner-o6p.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/731633/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636027#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636027?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/636027
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/understanding-your-body-type-and.html
 - Canonical redirect: https://www.digistore24.com/redir/636027/adminstore

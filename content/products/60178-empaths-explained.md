@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://empathsexplained-3az.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://empathsexplained-3az.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://empathsexplained-3az.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/741758/adminstore
 

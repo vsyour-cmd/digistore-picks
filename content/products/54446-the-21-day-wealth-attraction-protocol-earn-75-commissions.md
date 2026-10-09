@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/affiliate-resource-center-for-21-day-wealth-attraction-protocol
 - Canonical redirect: https://www.digistore24.com/redir/642261/adminstore

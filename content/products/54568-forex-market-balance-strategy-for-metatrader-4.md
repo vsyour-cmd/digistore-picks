@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-market-balance-strategy-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-market-balance-strategy-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-market-balance-strategy-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/market-balance-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646135/adminstore

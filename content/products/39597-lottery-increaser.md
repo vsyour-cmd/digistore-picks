@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://lotteryincreaser.com/special#aff=adminstore
+- **Promo link (affiliate):** http://lotteryincreaser.com/special?aff=adminstore#aff=adminstore
 - Sales page: http://lotteryincreaser.com/special
 - Vendor affiliate support: https://lotteryincreaser.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/433480/adminstore

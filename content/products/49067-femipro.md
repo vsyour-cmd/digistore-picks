@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://myfemipro24.com/text.php#aff=adminstore
+- **Promo link (affiliate):** http://myfemipro24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://myfemipro24.com/text.php
 - Vendor affiliate support: https://femipro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/567223/adminstore

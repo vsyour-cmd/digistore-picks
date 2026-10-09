@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lostfrontierhandbook.net/vsl/index_ds24.php#aff=adminstore
+- **Promo link (affiliate):** https://www.lostfrontierhandbook.net/vsl/index_ds24.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.lostfrontierhandbook.net/vsl/index_ds24.php
 - Vendor affiliate support: https://www.lostfrontierhandbook.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/382793/adminstore

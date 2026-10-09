@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-read-the-3-gauges-of-business-health/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-read-the-3-gauges-of-business-health/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-read-the-3-gauges-of-business-health/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-read-the-3-gauges-of-business-health-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/653016/adminstore

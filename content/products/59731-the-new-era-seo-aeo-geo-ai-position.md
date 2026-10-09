@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tools.elentechpk.com/seo-ai-search-blueprint/#aff=adminstore
+- **Promo link (affiliate):** https://tools.elentechpk.com/seo-ai-search-blueprint/?aff=adminstore#aff=adminstore
 - Sales page: https://tools.elentechpk.com/seo-ai-search-blueprint/
 - Vendor affiliate support: https://tools.elentechpk.com/affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/733221/adminstore

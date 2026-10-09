@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.talkwithgaby.com#aff=adminstore
+- **Promo link (affiliate):** http://www.talkwithgaby.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.talkwithgaby.com
 - Canonical redirect: https://www.digistore24.com/redir/698248/adminstore
 

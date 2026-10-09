@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://steelbitepro24.com/video.php?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&subid=[TRACKINGKEY]#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/348582/adminstore
 - Sales page: https://steelbitepro24.com/video.php?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&subid=[TRACKINGKEY]
 - Vendor affiliate support: https://steelbitepro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/348582/adminstore

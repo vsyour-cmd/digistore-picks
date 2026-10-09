@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://claritrix.io/ds24#aff=adminstore
+- **Promo link (affiliate):** https://claritrix.io/ds24?aff=adminstore#aff=adminstore
 - Sales page: https://claritrix.io/ds24
 - Vendor affiliate support: https://claritrix.io/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/717714/adminstore

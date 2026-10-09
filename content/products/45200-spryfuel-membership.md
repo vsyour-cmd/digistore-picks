@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.spryfuel.com/en/#aff=adminstore
+- **Promo link (affiliate):** https://www.spryfuel.com/en/?aff=adminstore#aff=adminstore
 - Sales page: https://www.spryfuel.com/en/
 - Vendor affiliate support: https://www.spryfuel.com/en/affiliate-program/
 - Canonical redirect: https://www.digistore24.com/redir/501717/adminstore

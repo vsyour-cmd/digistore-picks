@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://alphadrive24.com/landing-page--v2#aff=adminstore
+- **Promo link (affiliate):** https://alphadrive24.com/landing-page--v2?aff=adminstore#aff=adminstore
 - Sales page: https://alphadrive24.com/landing-page--v2
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/alpha-drive-24
 - Canonical redirect: https://www.digistore24.com/redir/544750/adminstore

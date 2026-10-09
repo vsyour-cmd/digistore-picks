@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.aibookwriter.de/en#aff=adminstore
+- **Promo link (affiliate):** https://www.aibookwriter.de/en?aff=adminstore#aff=adminstore
 - Sales page: https://www.aibookwriter.de/en
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/1184524/en
 - Canonical redirect: https://www.digistore24.com/redir/588740/adminstore

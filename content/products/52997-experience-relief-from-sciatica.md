@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/620947#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/620947?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/620947
 - Vendor affiliate support: https://greenbubz.com.au/sciatica-affiliate-program-support-page-for-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/620947/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/graphics-for-landscape-architecture-visualization-cutout-plants-v04/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/graphics-for-landscape-architecture-visualization-cutout-plants-v04/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/graphics-for-landscape-architecture-visualization-cutout-plants-v04/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593586/adminstore

@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://weeklycalendar-9ml.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://weeklycalendar-9ml.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://weeklycalendar-9ml.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/715714/adminstore
 

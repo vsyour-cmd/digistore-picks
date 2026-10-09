@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://buythedamnstocks-3e9.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://buythedamnstocks-3e9.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://buythedamnstocks-3e9.plannerpack.co
 - Vendor affiliate support: https://get.keepcreatingfun.com/affsupportdamnstocks-5b6
 - Canonical redirect: https://www.digistore24.com/redir/713983/adminstore

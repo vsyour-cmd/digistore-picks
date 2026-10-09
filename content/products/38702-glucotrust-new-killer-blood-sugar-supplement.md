@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getglucotrust.co/#aff=adminstore
+- **Promo link (affiliate):** https://getglucotrust.co/?aff=adminstore#aff=adminstore
 - Sales page: https://getglucotrust.co/
 - Vendor affiliate support: https://getglucotrust.co/affiliates/#hop-linkhttps://getglucotrust.co/affiliates/#hop-link
 - Canonical redirect: https://www.digistore24.com/redir/419540/adminstore

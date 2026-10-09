@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635714#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635714?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635714
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/work-less-earn-more-smart-systems-for.html
 - Canonical redirect: https://www.digistore24.com/redir/635714/adminstore

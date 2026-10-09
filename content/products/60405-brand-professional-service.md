@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/brand-pro/#aff=adminstore
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore
 - Sales page: https://xaruta4.wordpress.com/brand-pro/
 - Canonical redirect: https://www.digistore24.com/redir/743400/adminstore
 

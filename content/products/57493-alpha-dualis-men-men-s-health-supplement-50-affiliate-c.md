@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://alphadualis.com/#price&aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/709652/adminstore
 - Sales page: https://alphadualis.com/#price
 - Canonical redirect: https://www.digistore24.com/redir/709652/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tonicgreens.cc/vsl1/#aff=adminstore
+- **Promo link (affiliate):** https://tonicgreens.cc/vsl1/?aff=adminstore#aff=adminstore
 - Sales page: https://tonicgreens.cc/vsl1/
 - Vendor affiliate support: https://tonicgreens.cc/affs/
 - Canonical redirect: https://www.digistore24.com/redir/484747/adminstore

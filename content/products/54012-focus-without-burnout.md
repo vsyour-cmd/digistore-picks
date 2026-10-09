@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635718#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635718?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635718
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/focus-without-burnout-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/635718/adminstore

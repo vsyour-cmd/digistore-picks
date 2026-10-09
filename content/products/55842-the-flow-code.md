@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.brainwavehaven.site/the-flow-code#aff=adminstore
+- **Promo link (affiliate):** http://www.brainwavehaven.site/the-flow-code?aff=adminstore#aff=adminstore
 - Sales page: http://www.brainwavehaven.site/the-flow-code
 - Vendor affiliate support: https://www.brainwavehaven.site/the-flow-code-affiliate-resource-centre
 - Canonical redirect: https://www.digistore24.com/redir/674182/adminstore

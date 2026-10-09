@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://reactjscourse-dk0.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://reactjscourse-dk0.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://reactjscourse-dk0.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/715167/adminstore
 

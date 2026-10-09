@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://byzoewomen.com/the-code.html?aff=THEIRID#aff=adminstore
+- **Promo link (affiliate):** https://byzoewomen.com/the-code.html?aff=THEIRID&aff=adminstore#aff=adminstore
 - Sales page: https://byzoewomen.com/the-code.html?aff=THEIRID
 - Vendor affiliate support: https://byzoewomen.com/affiliates-blueprint#creatives
 - Canonical redirect: https://www.digistore24.com/redir/692123/adminstore

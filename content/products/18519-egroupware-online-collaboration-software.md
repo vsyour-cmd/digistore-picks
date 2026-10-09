@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.egroupware.org/en/pricing/#aff=adminstore
+- **Promo link (affiliate):** https://www.egroupware.org/en/pricing/?aff=adminstore#aff=adminstore
 - Sales page: https://www.egroupware.org/en/pricing/
 - Vendor affiliate support: https://www.egroupware.org/en/become-reseller
 - Canonical redirect: https://www.digistore24.com/redir/58103/adminstore

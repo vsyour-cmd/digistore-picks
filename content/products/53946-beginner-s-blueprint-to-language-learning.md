@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635400#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635400?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635400
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-beginners-blueprint-to-language.html
 - Canonical redirect: https://www.digistore24.com/redir/635400/adminstore

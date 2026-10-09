@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pawopsstudio.com/residential-cleaning-business-operating-system/#aff=adminstore
+- **Promo link (affiliate):** https://pawopsstudio.com/residential-cleaning-business-operating-system/?aff=adminstore#aff=adminstore
 - Sales page: https://pawopsstudio.com/residential-cleaning-business-operating-system/
 - Vendor affiliate support: https://pawopsstudio.com/affiliate-support-residential-cleaning-business-operating-system/
 - Canonical redirect: https://www.digistore24.com/redir/732139/adminstore

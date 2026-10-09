@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/ai-workout-generator-freebie#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/ai-workout-generator-freebie?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/ai-workout-generator-freebie
 - Vendor affiliate support: https://heikoboos.com/ai-fitness-system-affiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/676273/adminstore

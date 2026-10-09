@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/pinterest-passive-income#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/pinterest-passive-income?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/pinterest-passive-income
 - Vendor affiliate support: https://www.offerlaunchpad.site/pinterest-passive-income-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/708570/adminstore

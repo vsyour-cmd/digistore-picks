@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/digital-products-academy#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/digital-products-academy?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/digital-products-academy
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/affiliate-resource-center-digital-products-blueprint
 - Canonical redirect: https://www.digistore24.com/redir/639860/adminstore

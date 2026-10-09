@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thequietmoneymethode-wg6.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://thequietmoneymethode-wg6.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thequietmoneymethode-wg6.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/729520/adminstore
 

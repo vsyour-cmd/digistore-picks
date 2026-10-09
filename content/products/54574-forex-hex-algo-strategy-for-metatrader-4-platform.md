@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-hex-algo-strategy-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-hex-algo-strategy-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-hex-algo-strategy-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/hex-algo-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646108/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/510243#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/510243?aff=adminstore
 - Sales page: https://www.digistore24.com/product/510243
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/enhanced-labs
 - Canonical redirect: https://www.digistore24.com/redir/510243/adminstore

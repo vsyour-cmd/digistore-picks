@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.hint-caching.com/scavenger-hunt-cologne/#aff=adminstore
+- **Promo link (affiliate):** https://www.hint-caching.com/scavenger-hunt-cologne/?aff=adminstore#aff=adminstore
 - Sales page: https://www.hint-caching.com/scavenger-hunt-cologne/
 - Vendor affiliate support: https://www.hint-caching.com/affiliate-program/
 - Canonical redirect: https://www.digistore24.com/redir/495080/adminstore

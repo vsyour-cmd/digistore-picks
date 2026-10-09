@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.madeira-by-bus.com/read#aff=adminstore
+- **Promo link (affiliate):** https://www.madeira-by-bus.com/read?aff=adminstore#aff=adminstore
 - Sales page: https://www.madeira-by-bus.com/read
 - Canonical redirect: https://www.digistore24.com/redir/570969/adminstore
 

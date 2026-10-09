@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mentalwarfaresystem.com#aff=adminstore
+- **Promo link (affiliate):** https://mentalwarfaresystem.com?aff=adminstore#aff=adminstore
 - Sales page: https://mentalwarfaresystem.com
 - Vendor affiliate support: https://workbook2025.uwu.ai
 - Canonical redirect: https://www.digistore24.com/redir/636498/adminstore

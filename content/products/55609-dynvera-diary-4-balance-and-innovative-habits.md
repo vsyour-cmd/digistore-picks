@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.dynvera.com/diaries#aff=adminstore
+- **Promo link (affiliate):** https://www.dynvera.com/diaries?aff=adminstore#aff=adminstore
 - Sales page: https://www.dynvera.com/diaries
 - Canonical redirect: https://www.digistore24.com/redir/653324/adminstore
 

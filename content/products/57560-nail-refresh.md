@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://secure.nailrefresh.com/index-bp-ds#aff=adminstore
+- **Promo link (affiliate):** https://secure.nailrefresh.com/index-bp-ds?aff=adminstore#aff=adminstore
 - Sales page: https://secure.nailrefresh.com/index-bp-ds
 - Vendor affiliate support: https://secure.nailrefresh.com/affiliates-ds
 - Canonical redirect: https://www.digistore24.com/redir/708127/adminstore

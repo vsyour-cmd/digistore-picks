@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/544084#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/544084?aff=adminstore
 - Sales page: https://www.digistore24.com/product/544084
 - Vendor affiliate support: https://www.digistore24-app.com/app/en/vendor/account/marketplace/all/preview/47506
 - Canonical redirect: https://www.digistore24.com/redir/544084/adminstore

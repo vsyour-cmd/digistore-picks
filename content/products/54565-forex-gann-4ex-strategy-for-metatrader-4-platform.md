@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-gann-4ex-strategy-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-gann-4ex-strategy-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-gann-4ex-strategy-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/gann-4ex-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646140/adminstore

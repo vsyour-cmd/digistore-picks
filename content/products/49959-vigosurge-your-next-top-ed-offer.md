@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getvigosurge.cc/vs-discovery#aff=adminstore
+- **Promo link (affiliate):** https://getvigosurge.cc/vs-discovery?aff=adminstore#aff=adminstore
 - Sales page: https://getvigosurge.cc/vs-discovery
 - Vendor affiliate support: https://getvigosurge.cc/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/571050/adminstore

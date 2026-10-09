@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kevinmanke.com/affirmation-english/#aff=adminstore
+- **Promo link (affiliate):** https://kevinmanke.com/affirmation-english/?aff=adminstore#aff=adminstore
 - Sales page: https://kevinmanke.com/affirmation-english/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/643699/adminstore

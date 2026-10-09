@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852#aff=adminstore
+- **Promo link (affiliate):** https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852?aff=adminstore#aff=adminstore
 - Sales page: https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852
 - Canonical redirect: https://www.digistore24.com/redir/349591/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://btcbeep.com/#aff=adminstore
+- **Promo link (affiliate):** https://btcbeep.com/?aff=adminstore#aff=adminstore
 - Sales page: https://btcbeep.com/
 - Vendor affiliate support: https://btcbeep.com/affiliate.php
 - Canonical redirect: https://www.digistore24.com/redir/709524/adminstore

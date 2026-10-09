@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/1000-prompts-for-affiliate-marketing#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/1000-prompts-for-affiliate-marketing?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/1000-prompts-for-affiliate-marketing
 - Vendor affiliate support: https://heikoboos.com/affiliate-support-1000-prompts
 - Canonical redirect: https://www.digistore24.com/redir/543689/adminstore

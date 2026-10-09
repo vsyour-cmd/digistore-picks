@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm#aff=adminstore
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/circo2-5
 - Canonical redirect: https://www.digistore24.com/redir/538695/adminstore

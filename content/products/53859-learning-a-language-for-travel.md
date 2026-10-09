@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/634094#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/634094?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/634094
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/learning-language-for-travel-and.html
 - Canonical redirect: https://www.digistore24.com/redir/634094/adminstore

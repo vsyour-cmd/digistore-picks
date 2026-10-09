@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://prosperousfromwithin.com/prosperity-code#aff=adminstore
+- **Promo link (affiliate):** https://prosperousfromwithin.com/prosperity-code?aff=adminstore#aff=adminstore
 - Sales page: https://prosperousfromwithin.com/prosperity-code
 - Vendor affiliate support: https://prosperousfromwithin.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/727929/adminstore

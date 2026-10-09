@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elevenmarketingdigital.com/confident-first-move#aff=adminstore
+- **Promo link (affiliate):** https://elevenmarketingdigital.com/confident-first-move?aff=adminstore#aff=adminstore
 - Sales page: https://elevenmarketingdigital.com/confident-first-move
 - Vendor affiliate support: https://elevenmarketingdigital.com/confident-first-move/
 - Canonical redirect: https://www.digistore24.com/redir/665648/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.mypeakbiome.com/w/prebio-lp-dg#aff=adminstore
+- **Promo link (affiliate):** https://www.mypeakbiome.com/w/prebio-lp-dg?aff=adminstore#aff=adminstore
 - Sales page: https://www.mypeakbiome.com/w/prebio-lp-dg
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/peak-bioboost
 - Canonical redirect: https://www.digistore24.com/redir/451650/adminstore

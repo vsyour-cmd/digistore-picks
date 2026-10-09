@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635586#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635586?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635586
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-science-of-motivation-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/635586/adminstore

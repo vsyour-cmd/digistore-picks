@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://feelbetter-today.com/power-generator#aff=adminstore
+- **Promo link (affiliate):** http://feelbetter-today.com/power-generator?aff=adminstore#aff=adminstore
 - Sales page: http://feelbetter-today.com/power-generator
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5823371/en
 - Canonical redirect: https://www.digistore24.com/redir/734900/adminstore

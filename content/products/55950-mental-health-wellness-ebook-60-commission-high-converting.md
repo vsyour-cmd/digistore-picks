@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wellnesswithsher.neocities.org/mental-health-wellness#aff=adminstore
+- **Promo link (affiliate):** https://wellnesswithsher.neocities.org/mental-health-wellness?aff=adminstore#aff=adminstore
 - Sales page: https://wellnesswithsher.neocities.org/mental-health-wellness
 - Vendor affiliate support: https://wellnesswithsher.neocities.org/mentalaffiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/676503/adminstore

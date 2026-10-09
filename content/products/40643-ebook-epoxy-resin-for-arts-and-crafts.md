@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/#aff=adminstore
+- **Promo link (affiliate):** https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/?aff=adminstore#aff=adminstore
 - Sales page: https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/
 - Canonical redirect: https://www.digistore24.com/redir/352181/adminstore
 

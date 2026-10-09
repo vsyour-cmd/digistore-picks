@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://makeyouslim.info/55-delicious-breakfast-recipes/#aff=adminstore
+- **Promo link (affiliate):** https://makeyouslim.info/55-delicious-breakfast-recipes/?aff=adminstore#aff=adminstore
 - Sales page: https://makeyouslim.info/55-delicious-breakfast-recipes/
 - Vendor affiliate support: https://makeyouslim.info/partner-program-55-delicious-breakfast-recipes/
 - Canonical redirect: https://www.digistore24.com/redir/428276/adminstore

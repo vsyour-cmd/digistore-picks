@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593561/adminstore

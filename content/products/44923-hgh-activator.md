@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://naturecastproducts.com/humangrowthhormoneactivator-ds/#aff=adminstore
+- **Promo link (affiliate):** https://naturecastproducts.com/humangrowthhormoneactivator-ds/?aff=adminstore#aff=adminstore
 - Sales page: https://naturecastproducts.com/humangrowthhormoneactivator-ds/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/hgh-activator
 - Canonical redirect: https://www.digistore24.com/redir/508979/adminstore

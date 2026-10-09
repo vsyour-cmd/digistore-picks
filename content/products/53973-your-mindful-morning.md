@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635596#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635596?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635596
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/your-mindful-morning-start-day-right.html
 - Canonical redirect: https://www.digistore24.com/redir/635596/adminstore

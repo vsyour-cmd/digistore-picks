@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.fearlessphonefanatic.site#aff=adminstore
+- **Promo link (affiliate):** https://www.fearlessphonefanatic.site?aff=adminstore#aff=adminstore
 - Sales page: https://www.fearlessphonefanatic.site
 - Vendor affiliate support: https://www.fearlessphonefanatic.site/socmed
 - Canonical redirect: https://www.digistore24.com/redir/615548/adminstore

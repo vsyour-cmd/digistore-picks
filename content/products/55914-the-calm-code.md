@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.brainwavehaven.site/the-calm-code#aff=adminstore
+- **Promo link (affiliate):** https://www.brainwavehaven.site/the-calm-code?aff=adminstore#aff=adminstore
 - Sales page: https://www.brainwavehaven.site/the-calm-code
 - Vendor affiliate support: https://www.brainwavehaven.site/the-calm-code-affiliate-resources
 - Canonical redirect: https://www.digistore24.com/redir/676261/adminstore

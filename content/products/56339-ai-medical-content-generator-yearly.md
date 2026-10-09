@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ai-medical-content.net/en/subscriptions/annual-pro-2500#aff=adminstore
+- **Promo link (affiliate):** https://ai-medical-content.net/en/subscriptions/annual-pro-2500?aff=adminstore#aff=adminstore
 - Sales page: https://ai-medical-content.net/en/subscriptions/annual-pro-2500
 - Canonical redirect: https://www.digistore24.com/redir/677266/adminstore
 

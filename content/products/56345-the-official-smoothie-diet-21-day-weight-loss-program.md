@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://official.smoothiediet.com/#aff=adminstore
+- **Promo link (affiliate):** https://official.smoothiediet.com/?aff=adminstore#aff=adminstore
 - Sales page: https://official.smoothiediet.com/
 - Vendor affiliate support: https://official.smoothiediet.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/685341/adminstore

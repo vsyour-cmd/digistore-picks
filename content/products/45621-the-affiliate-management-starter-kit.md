@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.affpal.net/the-book/#aff=adminstore
+- **Promo link (affiliate):** https://www.affpal.net/the-book/?aff=adminstore#aff=adminstore
 - Sales page: https://www.affpal.net/the-book/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/the-affiliate-management-starter-kit
 - Canonical redirect: https://www.digistore24.com/redir/520627/adminstore

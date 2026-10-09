@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633262#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633262?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633262
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/business-strategy-in-30-days-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/633262/adminstore

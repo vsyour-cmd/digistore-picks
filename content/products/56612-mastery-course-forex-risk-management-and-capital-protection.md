@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/courses/risk-management-strategies-in-trading/#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/courses/risk-management-strategies-in-trading/?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/risk-management-strategies-in-trading/
 - Canonical redirect: https://www.digistore24.com/redir/693493/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ingeniuswave.com/DSvsl/#aff=adminstore
+- **Promo link (affiliate):** https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore
 - Sales page: https://ingeniuswave.com/DSvsl/
 - Vendor affiliate support: https://realgeniuswave.com/DSAffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/547017/adminstore

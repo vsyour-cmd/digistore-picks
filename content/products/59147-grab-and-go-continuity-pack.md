@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://grabandgocontinuitypack-0zx.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://grabandgocontinuitypack-0zx.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://grabandgocontinuitypack-0zx.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/732720/adminstore
 

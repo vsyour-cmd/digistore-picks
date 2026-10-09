@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/630881#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/630881?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/630881
 - Vendor affiliate support: https://fkcproject.carrd.co/
 - Canonical redirect: https://www.digistore24.com/redir/630881/adminstore

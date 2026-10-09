@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wellnesshabitsimplified-n5l.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://wellnesshabitsimplified-n5l.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://wellnesshabitsimplified-n5l.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/715604/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633830#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633830?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633830
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/soft-skills-for-coderscommunication.html
 - Canonical redirect: https://www.digistore24.com/redir/633830/adminstore

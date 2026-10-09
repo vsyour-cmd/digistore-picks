@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://auditete-ql6.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://auditete-ql6.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://auditete-ql6.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/732701/adminstore
 

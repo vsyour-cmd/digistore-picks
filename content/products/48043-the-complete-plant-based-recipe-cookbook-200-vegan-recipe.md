@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.plantbasedcookbook.com/ds/#aff=adminstore
+- **Promo link (affiliate):** https://www.plantbasedcookbook.com/ds/?aff=adminstore#aff=adminstore
 - Sales page: https://www.plantbasedcookbook.com/ds/
 - Vendor affiliate support: https://www.plantbasedcookbook.com/become-an-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/550988/adminstore

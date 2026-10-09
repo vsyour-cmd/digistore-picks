@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://partners.primalforce.net/sp/tesla-vsl-summit-3/#aff=adminstore
+- **Promo link (affiliate):** https://partners.primalforce.net/sp/tesla-vsl-summit-3/?aff=adminstore#aff=adminstore
 - Sales page: https://partners.primalforce.net/sp/tesla-vsl-summit-3/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/focus-iq
 - Canonical redirect: https://www.digistore24.com/redir/585313/adminstore

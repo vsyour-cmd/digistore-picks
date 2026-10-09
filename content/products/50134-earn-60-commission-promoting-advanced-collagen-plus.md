@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm#aff=adminstore
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/advanced-collagen-plus-10
 - Canonical redirect: https://www.digistore24.com/redir/576442/adminstore

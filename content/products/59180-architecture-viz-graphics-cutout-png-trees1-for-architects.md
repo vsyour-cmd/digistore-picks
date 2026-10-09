@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/cutout-trees-v01-masked-architecture-trees/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/cutout-trees-v01-masked-architecture-trees/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/cutout-trees-v01-masked-architecture-trees/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593560/adminstore

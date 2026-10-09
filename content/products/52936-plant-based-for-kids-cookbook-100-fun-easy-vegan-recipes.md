@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.plantbasedforkids.com/ds/#aff=adminstore
+- **Promo link (affiliate):** https://www.plantbasedforkids.com/ds/?aff=adminstore#aff=adminstore
 - Sales page: https://www.plantbasedforkids.com/ds/
 - Vendor affiliate support: https://www.plantbasedforkids.com/affiliate-center-ds/
 - Canonical redirect: https://www.digistore24.com/redir/618774/adminstore

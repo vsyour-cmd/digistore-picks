@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/1M-Follower#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/1M-Follower?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/1M-Follower
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/574766/adminstore

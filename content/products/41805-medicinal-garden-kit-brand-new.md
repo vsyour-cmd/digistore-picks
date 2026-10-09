@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://medicinalseedkit.com/kit/#aff=adminstore
+- **Promo link (affiliate):** https://medicinalseedkit.com/kit/?aff=adminstore#aff=adminstore
 - Sales page: https://medicinalseedkit.com/kit/
 - Vendor affiliate support: https://medicinalseedkit.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/379812/adminstore

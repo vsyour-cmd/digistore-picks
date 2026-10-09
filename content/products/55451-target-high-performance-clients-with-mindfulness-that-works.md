@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://allnikabloom.com/#aff=adminstore
+- **Promo link (affiliate):** https://allnikabloom.com/?aff=adminstore#aff=adminstore
 - Sales page: https://allnikabloom.com/
 - Vendor affiliate support: https://allnikabloom.my.canva.site/affiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/663737/adminstore

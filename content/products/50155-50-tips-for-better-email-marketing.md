@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/50-Tips-for-better-Email-Marketing/#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/50-Tips-for-better-Email-Marketing/?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/50-Tips-for-better-Email-Marketing/
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/542941/adminstore

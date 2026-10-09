@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html#aff=adminstore
+- **Promo link (affiliate):** https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html?aff=adminstore#aff=adminstore
 - Sales page: https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html
 - Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/491275/adminstore

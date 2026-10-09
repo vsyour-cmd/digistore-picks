@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/quantum-wealth-frequencies-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/644547/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://synaboost.com/d/#aff=adminstore
+- **Promo link (affiliate):** https://synaboost.com/d/?aff=adminstore#aff=adminstore
 - Sales page: https://synaboost.com/d/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/synaboost
 - Canonical redirect: https://www.digistore24.com/redir/593957/adminstore

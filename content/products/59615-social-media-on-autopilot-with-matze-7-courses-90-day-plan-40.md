@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einfachmitmatze.de/en/social-media-mega-bundle/#aff=adminstore
+- **Promo link (affiliate):** https://einfachmitmatze.de/en/social-media-mega-bundle/?aff=adminstore#aff=adminstore
 - Sales page: https://einfachmitmatze.de/en/social-media-mega-bundle/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736681/
 - Canonical redirect: https://www.digistore24.com/redir/736681/adminstore

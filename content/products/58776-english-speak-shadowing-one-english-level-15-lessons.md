@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://englishspeakshadowing.pl/course#aff=adminstore
+- **Promo link (affiliate):** https://englishspeakshadowing.pl/course?aff=adminstore#aff=adminstore
 - Sales page: https://englishspeakshadowing.pl/course
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5867827/en
 - Canonical redirect: https://www.digistore24.com/redir/727603/adminstore

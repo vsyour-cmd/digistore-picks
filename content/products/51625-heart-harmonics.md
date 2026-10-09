@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://astralhq.com/ds-heartharmonics/#aff=adminstore
+- **Promo link (affiliate):** https://astralhq.com/ds-heartharmonics/?aff=adminstore#aff=adminstore
 - Sales page: https://astralhq.com/ds-heartharmonics/
 - Vendor affiliate support: https://astralhq.com/ds-heartharmonics-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/598530/adminstore

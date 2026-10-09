@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://teslacare.net/home-page-digi/#aff=adminstore
+- **Promo link (affiliate):** https://teslacare.net/home-page-digi/?aff=adminstore#aff=adminstore
 - Sales page: https://teslacare.net/home-page-digi/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/teslacare
 - Canonical redirect: https://www.digistore24.com/redir/577873/adminstore

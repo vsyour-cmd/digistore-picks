@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/722892#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/722892?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/722892
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/serger-machine-troubleshooting-guide.html
 - Canonical redirect: https://www.digistore24.com/redir/722892/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aanchorbiz.com/the-young-achievers-blueprint-frontend/#aff=adminstore
+- **Promo link (affiliate):** https://aanchorbiz.com/the-young-achievers-blueprint-frontend/?aff=adminstore#aff=adminstore
 - Sales page: https://aanchorbiz.com/the-young-achievers-blueprint-frontend/
 - Canonical redirect: https://www.digistore24.com/redir/602748/adminstore
 

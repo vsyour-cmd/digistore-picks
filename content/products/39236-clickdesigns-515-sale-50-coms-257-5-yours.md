@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://clickdesigns.com/dg/cd/#aff=adminstore
+- **Promo link (affiliate):** https://clickdesigns.com/dg/cd/?aff=adminstore#aff=adminstore
 - Sales page: https://clickdesigns.com/dg/cd/
 - Vendor affiliate support: https://www.clickdesigns.com/dg/invite/
 - Canonical redirect: https://www.digistore24.com/redir/443167/adminstore

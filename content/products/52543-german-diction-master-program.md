@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://naturalpowerbodyprograms.com/german-diction-masterprogram/#aff=adminstore
+- **Promo link (affiliate):** https://naturalpowerbodyprograms.com/german-diction-masterprogram/?aff=adminstore#aff=adminstore
 - Sales page: https://naturalpowerbodyprograms.com/german-diction-masterprogram/
 - Vendor affiliate support: https://naturalpowerbodyprograms.com/german-diction-master-program/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/612441/adminstore

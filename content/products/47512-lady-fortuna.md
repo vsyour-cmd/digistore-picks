@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://deitywishes.com/ds24/vsl.php#aff=adminstore
+- **Promo link (affiliate):** https://deitywishes.com/ds24/vsl.php?aff=adminstore#aff=adminstore
 - Sales page: https://deitywishes.com/ds24/vsl.php
 - Vendor affiliate support: https://deitywishes.com/ds24/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/541170/adminstore

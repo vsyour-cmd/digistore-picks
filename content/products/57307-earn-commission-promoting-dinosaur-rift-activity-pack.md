@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack#aff=adminstore
+- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack&aff=adminstore#aff=adminstore
 - Sales page: https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack
 - Vendor affiliate support: https://maxmiaparentingsystem.blogspot.com/p/affiliate-center-max-mia-parent-success.html
 - Canonical redirect: https://www.digistore24.com/redir/706782/adminstore

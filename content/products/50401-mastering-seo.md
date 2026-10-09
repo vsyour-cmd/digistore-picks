@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/580395#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/580395?aff=adminstore
 - Sales page: https://www.digistore24.com/product/580395
 - Canonical redirect: https://www.digistore24.com/redir/580395/adminstore
 

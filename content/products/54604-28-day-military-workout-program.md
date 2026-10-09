@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.wellfiteats.com/28-day-military-workout-plan#aff=adminstore
+- **Promo link (affiliate):** https://www.wellfiteats.com/28-day-military-workout-plan?aff=adminstore#aff=adminstore
 - Sales page: https://www.wellfiteats.com/28-day-military-workout-plan
 - Vendor affiliate support: https://www.wellfiteats.com/workout-programs-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/640694/adminstore

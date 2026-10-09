@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.growthclubforcoachesandconsultants.com/buildyourlist-687#aff=adminstore
+- **Promo link (affiliate):** https://www.growthclubforcoachesandconsultants.com/buildyourlist-687?aff=adminstore#aff=adminstore
 - Sales page: https://www.growthclubforcoachesandconsultants.com/buildyourlist-687
 - Canonical redirect: https://www.digistore24.com/redir/720621/adminstore
 

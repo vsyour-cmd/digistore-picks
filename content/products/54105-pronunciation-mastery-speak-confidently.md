@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636857#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636857?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/636857
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/pronunciation-mastery-speak-clearly-and.html
 - Canonical redirect: https://www.digistore24.com/redir/636857/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://yarahaircare.com#aff=adminstore
+- **Promo link (affiliate):** https://yarahaircare.com?aff=adminstore#aff=adminstore
 - Sales page: https://yarahaircare.com
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/yara-hair-growth-vitamins
 - Canonical redirect: https://www.digistore24.com/redir/599088/adminstore

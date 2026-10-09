@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kevinmanke.com/quantum-perception/#aff=adminstore
+- **Promo link (affiliate):** https://kevinmanke.com/quantum-perception/?aff=adminstore#aff=adminstore
 - Sales page: https://kevinmanke.com/quantum-perception/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/651061/adminstore

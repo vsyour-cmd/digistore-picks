@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aiessentialsplaybook-a9d.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://aiessentialsplaybook-a9d.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://aiessentialsplaybook-a9d.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/735955/adminstore
 

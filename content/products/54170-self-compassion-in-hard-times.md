@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637567#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637567?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/637567
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/self-compassion-in-hard-times-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/637567/adminstore

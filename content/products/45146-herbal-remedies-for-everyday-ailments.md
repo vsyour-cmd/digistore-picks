@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialartiste7.systeme.io/herbalremedy#aff=adminstore
+- **Promo link (affiliate):** https://socialartiste7.systeme.io/herbalremedy?aff=adminstore#aff=adminstore
 - Sales page: https://socialartiste7.systeme.io/herbalremedy
 - Vendor affiliate support: https://socialartiste7.systeme.io/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/513927/adminstore

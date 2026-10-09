@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.pv-en.com/fr-offers-mental-health-digistore24-us#aff=adminstore
+- **Promo link (affiliate):** https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore
 - Sales page: https://www.pv-en.com/fr-offers-mental-health-digistore24-us
 - Vendor affiliate support: https://www.pv-en.com/the-pillar-1-mental-health-affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/617915/adminstore

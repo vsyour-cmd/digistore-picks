@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/10-steps-to-a-5-figure-business#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/10-steps-to-a-5-figure-business?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/10-steps-to-a-5-figure-business
 - Vendor affiliate support: https://heikoboos.com/affiliate-support-10-steps
 - Canonical redirect: https://www.digistore24.com/redir/542324/adminstore

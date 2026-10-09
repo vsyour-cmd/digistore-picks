@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/freelance-freedom-formula#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/freelance-freedom-formula?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/freelance-freedom-formula
 - Vendor affiliate support: https://www.offerlaunchpad.site/freelance-freedom-formula-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/701735/adminstore

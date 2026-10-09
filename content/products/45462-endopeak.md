@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://endopeak24.com/d/order-now.php#aff=adminstore
+- **Promo link (affiliate):** https://endopeak24.com/d/order-now.php?aff=adminstore#aff=adminstore
 - Sales page: https://endopeak24.com/d/order-now.php
 - Vendor affiliate support: https://endopeak.com/info/aff.html
 - Canonical redirect: https://www.digistore24.com/redir/516991/adminstore

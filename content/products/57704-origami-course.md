@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://origamicourse-o8f.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://origamicourse-o8f.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://origamicourse-o8f.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/714702/adminstore
 

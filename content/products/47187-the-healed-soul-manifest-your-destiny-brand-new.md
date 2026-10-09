@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://bottomlinemanifesting.com/#aff=adminstore
+- **Promo link (affiliate):** https://bottomlinemanifesting.com/?aff=adminstore#aff=adminstore
 - Sales page: https://bottomlinemanifesting.com/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/the-healed-soul
 - Canonical redirect: https://www.digistore24.com/redir/540121/adminstore

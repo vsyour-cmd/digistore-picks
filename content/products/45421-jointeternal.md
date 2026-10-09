@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://jointeternal.com/discover/#aff=adminstore
+- **Promo link (affiliate):** https://jointeternal.com/discover/?aff=adminstore#aff=adminstore
 - Sales page: https://jointeternal.com/discover/
 - Vendor affiliate support: https://jointeternal.com/digistore/index.php
 - Canonical redirect: https://www.digistore24.com/redir/508842/adminstore

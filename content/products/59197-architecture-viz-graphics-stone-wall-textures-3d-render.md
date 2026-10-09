@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/stonewall-texture-collection-for-architects/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/stonewall-texture-collection-for-architects/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/stonewall-texture-collection-for-architects/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593592/adminstore

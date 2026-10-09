@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.1monthvegan.com/ds/#aff=adminstore
+- **Promo link (affiliate):** https://www.1monthvegan.com/ds/?aff=adminstore#aff=adminstore
 - Sales page: https://www.1monthvegan.com/ds/
 - Vendor affiliate support: https://www.1monthvegan.com/affiliate-tools-ds/
 - Canonical redirect: https://www.digistore24.com/redir/605910/adminstore

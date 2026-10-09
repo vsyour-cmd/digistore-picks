@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://selfplus-care.com/#aff=adminstore
+- **Promo link (affiliate):** https://selfplus-care.com/?aff=adminstore#aff=adminstore
 - Sales page: https://selfplus-care.com/
 - Vendor affiliate support: https://selfplus-care.com/affiliate-support-page
 - Canonical redirect: https://www.digistore24.com/redir/728647/adminstore

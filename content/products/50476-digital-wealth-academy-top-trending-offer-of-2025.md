@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digital-success.pages.dev/#aff=adminstore
+- **Promo link (affiliate):** https://digital-success.pages.dev/?aff=adminstore#aff=adminstore
 - Sales page: https://digital-success.pages.dev/
 - Vendor affiliate support: https://dwa-affiliate.pages.dev/
 - Canonical redirect: https://www.digistore24.com/redir/581314/adminstore

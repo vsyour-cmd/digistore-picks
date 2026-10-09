@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/top-view-plants-02-2d-plant-entourage-for-architecture-illustration-png/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/top-view-plants-02-2d-plant-entourage-for-architecture-illustration-png/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/top-view-plants-02-2d-plant-entourage-for-architecture-illustration-png/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593597/adminstore

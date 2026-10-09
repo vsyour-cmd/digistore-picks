@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/email-marketing-for-beginners#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/email-marketing-for-beginners?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/email-marketing-for-beginners
 - Vendor affiliate support: https://www.offerlaunchpad.site/email-marketing-for-beginners-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/701182/adminstore

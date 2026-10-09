@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://makeyouslim.info/77-keto-recipes/#aff=adminstore
+- **Promo link (affiliate):** https://makeyouslim.info/77-keto-recipes/?aff=adminstore#aff=adminstore
 - Sales page: https://makeyouslim.info/77-keto-recipes/
 - Canonical redirect: https://www.digistore24.com/redir/452961/adminstore
 

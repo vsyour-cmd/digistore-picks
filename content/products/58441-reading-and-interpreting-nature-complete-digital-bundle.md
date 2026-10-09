@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/#aff=adminstore
+- **Promo link (affiliate):** http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/?aff=adminstore#aff=adminstore
 - Sales page: http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/
 - Vendor affiliate support: https://richgreenworks.com/affiliate-tools/
 - Canonical redirect: https://www.digistore24.com/redir/711572/adminstore

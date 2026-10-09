@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://goldmineseeker.com/#aff=adminstore
+- **Promo link (affiliate):** https://goldmineseeker.com/?aff=adminstore#aff=adminstore
 - Sales page: https://goldmineseeker.com/
 - Vendor affiliate support: http://goldmineseeker.com/jv/
 - Canonical redirect: https://www.digistore24.com/redir/412895/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en#aff=adminstore
+- **Promo link (affiliate):** https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en&aff=adminstore#aff=adminstore
 - Sales page: https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en
 - Canonical redirect: https://www.digistore24.com/redir/740280/adminstore
 

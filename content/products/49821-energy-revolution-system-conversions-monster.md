@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html#aff=adminstore
+- **Promo link (affiliate):** https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html?aff=adminstore#aff=adminstore
 - Sales page: https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html
 - Vendor affiliate support: https://epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/570685/adminstore

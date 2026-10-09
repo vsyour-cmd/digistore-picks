@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ed-elixir.com/vsl/#aff=adminstore
+- **Promo link (affiliate):** https://ed-elixir.com/vsl/?aff=adminstore#aff=adminstore
 - Sales page: https://ed-elixir.com/vsl/
 - Vendor affiliate support: https://ed-elixir.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/323364/adminstore

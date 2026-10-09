@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fixbloodsugar.com/ptn/digi/1#aff=adminstore
+- **Promo link (affiliate):** https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore
 - Sales page: https://fixbloodsugar.com/ptn/digi/1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/barton-publishing
 - Canonical redirect: https://www.digistore24.com/redir/386253/adminstore

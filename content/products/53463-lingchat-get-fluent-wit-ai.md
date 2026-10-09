@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lingchat.pro/dg_sale.html#aff=adminstore
+- **Promo link (affiliate):** https://www.lingchat.pro/dg_sale.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.lingchat.pro/dg_sale.html
 - Vendor affiliate support: https://blossom-smash-236.notion.site/LingChat-Marketing-Support-Page-27b0ae6f539f80e7b47eff5881022315?source=copy_link
 - Canonical redirect: https://www.digistore24.com/redir/629110/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oldschoolnewbody.com/alt/index.php#aff=adminstore
+- **Promo link (affiliate):** https://oldschoolnewbody.com/alt/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://oldschoolnewbody.com/alt/index.php
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/old-school-new-body
 - Canonical redirect: https://www.digistore24.com/redir/460804/adminstore

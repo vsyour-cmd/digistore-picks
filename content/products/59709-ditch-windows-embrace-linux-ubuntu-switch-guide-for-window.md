@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.code-content-ai.com/ditch-windows-embrace-linux#aff=adminstore
+- **Promo link (affiliate):** https://shop.code-content-ai.com/ditch-windows-embrace-linux?aff=adminstore#aff=adminstore
 - Sales page: https://shop.code-content-ai.com/ditch-windows-embrace-linux
 - Vendor affiliate support: https://shop.code-content-ai.com/ditch-windows-embrace-linux/partners/
 - Canonical redirect: https://www.digistore24.com/redir/701228/adminstore

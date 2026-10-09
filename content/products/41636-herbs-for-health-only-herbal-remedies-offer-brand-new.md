@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.thehomeprepper.com/book#aff=adminstore
+- **Promo link (affiliate):** https://www.thehomeprepper.com/book?aff=adminstore#aff=adminstore
 - Sales page: https://www.thehomeprepper.com/book
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/herbs-for-health
 - Canonical redirect: https://www.digistore24.com/redir/466293/adminstore

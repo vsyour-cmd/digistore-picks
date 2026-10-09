@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/frugal-freedom#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/frugal-freedom?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/frugal-freedom
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/frugal-freedom-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639581/adminstore

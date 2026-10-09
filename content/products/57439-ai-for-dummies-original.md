@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aifordummies-e8k.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://aifordummies-e8k.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://aifordummies-e8k.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/701222/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/sleep-hacking#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/sleep-hacking?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/sleep-hacking
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/sleep-hacking-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639607/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://immigrationebook.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://immigrationebook.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://immigrationebook.netlify.app/
 - Vendor affiliate support: https://dreamy-liger-90f9ad.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/645055/adminstore

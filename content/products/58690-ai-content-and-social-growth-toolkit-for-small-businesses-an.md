@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marketplace.iotsystemsgrowth.com/ai-content-social-growth-toolkit-digistore/#aff=adminstore
+- **Promo link (affiliate):** https://marketplace.iotsystemsgrowth.com/ai-content-social-growth-toolkit-digistore/?aff=adminstore#aff=adminstore
 - Sales page: https://marketplace.iotsystemsgrowth.com/ai-content-social-growth-toolkit-digistore/
 - Canonical redirect: https://www.digistore24.com/redir/724941/adminstore
 

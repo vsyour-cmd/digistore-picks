@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/scratch-free-in-7-days#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/scratch-free-in-7-days?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/scratch-free-in-7-days
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/scratch-free-in-7-days-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639524/adminstore

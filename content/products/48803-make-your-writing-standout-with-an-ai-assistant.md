@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching#aff=adminstore
+- **Promo link (affiliate):** https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore
 - Sales page: https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching
 - Canonical redirect: https://www.digistore24.com/redir/564237/adminstore
 

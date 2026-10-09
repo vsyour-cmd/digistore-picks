@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.humandesignexperiences.com/the-chamber-of-promises#aff=adminstore
+- **Promo link (affiliate):** https://www.humandesignexperiences.com/the-chamber-of-promises?aff=adminstore#aff=adminstore
 - Sales page: https://www.humandesignexperiences.com/the-chamber-of-promises
 - Vendor affiliate support: https://www.humandesignexperiences.com/affiliate-resource-centre
 - Canonical redirect: https://www.digistore24.com/redir/735128/adminstore

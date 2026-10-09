@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/ai-art-videocourse-plr/#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/ai-art-videocourse-plr/?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/ai-art-videocourse-plr/
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/576535/adminstore

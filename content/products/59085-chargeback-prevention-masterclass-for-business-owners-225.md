@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nextmethod-chargeback.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://nextmethod-chargeback.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://nextmethod-chargeback.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/726450/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://manzbeltd.com#aff=adminstore
+- **Promo link (affiliate):** https://manzbeltd.com?aff=adminstore#aff=adminstore
 - Sales page: https://manzbeltd.com
 - Canonical redirect: https://www.digistore24.com/redir/564751/adminstore
 

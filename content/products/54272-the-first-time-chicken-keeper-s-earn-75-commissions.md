@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639587/adminstore

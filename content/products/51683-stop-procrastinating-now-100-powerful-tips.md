@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/stop-procrastinating-now#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/stop-procrastinating-now?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/stop-procrastinating-now
 - Canonical redirect: https://www.digistore24.com/redir/600748/adminstore
 

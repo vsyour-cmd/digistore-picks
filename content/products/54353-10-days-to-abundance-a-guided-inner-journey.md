@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wellnessworld.ee/10daysabundance#aff=adminstore
+- **Promo link (affiliate):** https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore
 - Sales page: https://wellnessworld.ee/10daysabundance
 - Canonical redirect: https://www.digistore24.com/redir/640611/adminstore
 

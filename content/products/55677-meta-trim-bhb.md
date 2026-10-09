@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://metatrim.trustednutraproduct.com/v1/best/go/go.html#aff=adminstore
+- **Promo link (affiliate):** https://metatrim.trustednutraproduct.com/v1/best/go/go.html?aff=adminstore#aff=adminstore
 - Sales page: https://metatrim.trustednutraproduct.com/v1/best/go/go.html
 - Vendor affiliate support: https://metatrim.trustednutraproduct.com/v1/aff/aff_details/aff/afftools.html
 - Canonical redirect: https://www.digistore24.com/redir/670141/adminstore

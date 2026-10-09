@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-turn-data-into-strategy/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-turn-data-into-strategy/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-turn-data-into-strategy/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-turn-data-into-strategy-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/661247/adminstore

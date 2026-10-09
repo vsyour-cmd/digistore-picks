@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/
 - Vendor affiliate support: https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/633409/adminstore

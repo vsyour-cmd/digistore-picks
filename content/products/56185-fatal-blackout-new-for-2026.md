@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fatalblackout.net/tsl/lost-liberty/tsl1.php#aff=adminstore
+- **Promo link (affiliate):** https://fatalblackout.net/tsl/lost-liberty/tsl1.php?aff=adminstore#aff=adminstore
 - Sales page: https://fatalblackout.net/tsl/lost-liberty/tsl1.php
 - Vendor affiliate support: https://fatalblackout.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/671979/adminstore

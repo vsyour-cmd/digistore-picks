@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://prostapure24.com/ancient-secret-8817-d#aff=adminstore
+- **Promo link (affiliate):** https://prostapure24.com/ancient-secret-8817-d?aff=adminstore#aff=adminstore
 - Sales page: https://prostapure24.com/ancient-secret-8817-d
 - Vendor affiliate support: https://digistore24asp.mydigibiz24.com/prostapure-24
 - Canonical redirect: https://www.digistore24.com/redir/553211/adminstore

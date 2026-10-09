@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://productapprovaltest-7iu.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://productapprovaltest-7iu.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://productapprovaltest-7iu.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/732346/adminstore
 

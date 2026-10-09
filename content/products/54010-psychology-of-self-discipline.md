@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635720#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635720?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635720
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-psychology-of-self-discipline-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/635720/adminstore

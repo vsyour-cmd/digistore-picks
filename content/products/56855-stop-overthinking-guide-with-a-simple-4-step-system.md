@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://calmfuture.online#aff=adminstore
+- **Promo link (affiliate):** https://calmfuture.online?aff=adminstore#aff=adminstore
 - Sales page: https://calmfuture.online
 - Canonical redirect: https://www.digistore24.com/redir/672992/adminstore
 

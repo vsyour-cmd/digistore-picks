@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getmindsilence.com/ds/indexts.php#aff=adminstore
+- **Promo link (affiliate):** https://getmindsilence.com/ds/indexts.php?aff=adminstore#aff=adminstore
 - Sales page: https://getmindsilence.com/ds/indexts.php
 - Vendor affiliate support: https://getmindsilence.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/719005/adminstore

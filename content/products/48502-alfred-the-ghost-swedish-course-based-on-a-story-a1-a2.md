@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://courses.skapago.eu/lp/swedish-course-beginners-alfred#aff=adminstore
+- **Promo link (affiliate):** https://courses.skapago.eu/lp/swedish-course-beginners-alfred?aff=adminstore#aff=adminstore
 - Sales page: https://courses.skapago.eu/lp/swedish-course-beginners-alfred
 - Canonical redirect: https://www.digistore24.com/redir/546416/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/start-am-like-a-pro/#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/start-am-like-a-pro/?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/start-am-like-a-pro/
 - Vendor affiliate support: https://heikoboos.com/affiliate-support-start-affiliate-marketing
 - Canonical redirect: https://www.digistore24.com/redir/540559/adminstore

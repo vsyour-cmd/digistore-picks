@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://feelbetter-today.com/abundance#aff=adminstore
+- **Promo link (affiliate):** http://feelbetter-today.com/abundance?aff=adminstore#aff=adminstore
 - Sales page: http://feelbetter-today.com/abundance
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/735102/adminstore

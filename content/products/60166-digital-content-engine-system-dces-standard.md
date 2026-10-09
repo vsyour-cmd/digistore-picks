@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/#aff=adminstore
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/?aff=adminstore#aff=adminstore
 - Sales page: https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/
 - Canonical redirect: https://www.digistore24.com/redir/741537/adminstore
 

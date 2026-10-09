@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.rohtopia.com/smoothie-book#aff=adminstore
+- **Promo link (affiliate):** https://www.rohtopia.com/smoothie-book?aff=adminstore#aff=adminstore
 - Sales page: https://www.rohtopia.com/smoothie-book
 - Canonical redirect: https://www.digistore24.com/redir/42495/adminstore
 

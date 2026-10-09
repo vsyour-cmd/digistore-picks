@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digiworldgaz.wixsite.com/200socialmediatactic#aff=adminstore
+- **Promo link (affiliate):** https://digiworldgaz.wixsite.com/200socialmediatactic?aff=adminstore#aff=adminstore
 - Sales page: https://digiworldgaz.wixsite.com/200socialmediatactic
 - Canonical redirect: https://www.digistore24.com/redir/328658/adminstore
 

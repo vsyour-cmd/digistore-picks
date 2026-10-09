@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vel.academy/course-square-d24#aff=adminstore
+- **Promo link (affiliate):** https://vel.academy/course-square-d24?aff=adminstore#aff=adminstore
 - Sales page: https://vel.academy/course-square-d24
 - Vendor affiliate support: https://vel.academy/affiliate-help
 - Canonical redirect: https://www.digistore24.com/redir/689581/adminstore

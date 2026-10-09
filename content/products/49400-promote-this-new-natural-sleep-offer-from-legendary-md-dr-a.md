@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://partners.primalforce.net/sp/neuro-vid/#aff=adminstore
+- **Promo link (affiliate):** https://partners.primalforce.net/sp/neuro-vid/?aff=adminstore#aff=adminstore
 - Sales page: https://partners.primalforce.net/sp/neuro-vid/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/native-rest
 - Canonical redirect: https://www.digistore24.com/redir/567661/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://secure.nervefresh.com/index-nf-ds#aff=adminstore
+- **Promo link (affiliate):** https://secure.nervefresh.com/index-nf-ds?aff=adminstore#aff=adminstore
 - Sales page: https://secure.nervefresh.com/index-nf-ds
 - Vendor affiliate support: https://nervefresh.com/affiliate-page-ds-1
 - Canonical redirect: https://www.digistore24.com/redir/575363/adminstore

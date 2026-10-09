@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://americansignlanguage4-da9.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://americansignlanguage4-da9.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://americansignlanguage4-da9.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/712360/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-apply-the-accounting-fundamentals/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-apply-the-accounting-fundamentals/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-apply-the-accounting-fundamentals/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-apply-the-accounting-fundamentals-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/657454/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/502452#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/502452?aff=adminstore
 - Sales page: https://www.digistore24.com/product/502452
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/black-ox-hardcore-test-enhancer
 - Canonical redirect: https://www.digistore24.com/redir/502452/adminstore

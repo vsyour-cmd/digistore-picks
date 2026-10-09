@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nexora-boost.xyz/execution%20lock%20system/#aff=adminstore
+- **Promo link (affiliate):** https://nexora-boost.xyz/execution%20lock%20system/?aff=adminstore#aff=adminstore
 - Sales page: https://nexora-boost.xyz/execution%20lock%20system/
 - Vendor affiliate support: https://nexora-boost.xyz/execution%20lock%20system/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/663908/adminstore

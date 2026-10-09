@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://smbotz.com/digi#aff=adminstore
+- **Promo link (affiliate):** https://smbotz.com/digi?aff=adminstore#aff=adminstore
 - Sales page: https://smbotz.com/digi
 - Vendor affiliate support: https://smbotz.com/jv
 - Canonical redirect: https://www.digistore24.com/redir/438236/adminstore

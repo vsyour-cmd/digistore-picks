@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aioperator.esr.mobi/digistore/#aff=adminstore
+- **Promo link (affiliate):** https://aioperator.esr.mobi/digistore/?aff=adminstore#aff=adminstore
 - Sales page: https://aioperator.esr.mobi/digistore/
 - Vendor affiliate support: https://aioperator.esr.mobi/digistore/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/728290/adminstore

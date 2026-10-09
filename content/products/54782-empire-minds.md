@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://empireminds.systeme.io/#aff=adminstore
+- **Promo link (affiliate):** https://empireminds.systeme.io/?aff=adminstore#aff=adminstore
 - Sales page: https://empireminds.systeme.io/
 - Canonical redirect: https://www.digistore24.com/redir/646198/adminstore
 

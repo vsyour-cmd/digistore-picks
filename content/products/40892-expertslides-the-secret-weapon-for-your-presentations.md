@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://expertslides.com/expertslides-digistore24/#aff=adminstore
+- **Promo link (affiliate):** https://expertslides.com/expertslides-digistore24/?aff=adminstore#aff=adminstore
 - Sales page: https://expertslides.com/expertslides-digistore24/
 - Vendor affiliate support: https://expertslides.com/affiliate-program/
 - Canonical redirect: https://www.digistore24.com/redir/456090/adminstore

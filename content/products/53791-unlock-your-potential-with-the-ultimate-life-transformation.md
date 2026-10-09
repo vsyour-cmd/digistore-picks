@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page#aff=adminstore
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page
 - Canonical redirect: https://www.digistore24.com/redir/631236/adminstore
 

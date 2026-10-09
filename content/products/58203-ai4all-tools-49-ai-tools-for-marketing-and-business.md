@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://en.ai4all.tools/#aff=adminstore
+- **Promo link (affiliate):** https://en.ai4all.tools/?aff=adminstore#aff=adminstore
 - Sales page: https://en.ai4all.tools/
 - Vendor affiliate support: https://partner.ai4all.tools/register
 - Canonical redirect: https://www.digistore24.com/redir/719588/adminstore

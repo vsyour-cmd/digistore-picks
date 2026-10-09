@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tysimmons.teachable.com/p/ds24#aff=adminstore
+- **Promo link (affiliate):** https://tysimmons.teachable.com/p/ds24?aff=adminstore#aff=adminstore
 - Sales page: https://tysimmons.teachable.com/p/ds24
 - Canonical redirect: https://www.digistore24.com/redir/625540/adminstore
 

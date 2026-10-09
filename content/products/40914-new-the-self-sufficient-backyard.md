@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://independentbackyard.com/my-book/#aff=adminstore
+- **Promo link (affiliate):** https://independentbackyard.com/my-book/?aff=adminstore#aff=adminstore
 - Sales page: https://independentbackyard.com/my-book/
 - Vendor affiliate support: https://independentbackyard.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/379127/adminstore

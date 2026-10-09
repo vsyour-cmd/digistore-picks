@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ketoafter50desserts.com/digi/#aff=adminstore
+- **Promo link (affiliate):** https://www.ketoafter50desserts.com/digi/?aff=adminstore#aff=adminstore
 - Sales page: https://www.ketoafter50desserts.com/digi/
 - Canonical redirect: https://www.digistore24.com/redir/292043/adminstore
 

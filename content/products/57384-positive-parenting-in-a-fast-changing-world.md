@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html
 - Vendor affiliate support: https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/708122/adminstore

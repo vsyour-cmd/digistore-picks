@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://icebreak.date/secrets#aff=adminstore
+- **Promo link (affiliate):** https://icebreak.date/secrets?aff=adminstore#aff=adminstore
 - Sales page: https://icebreak.date/secrets
 - Vendor affiliate support: https://icebreak.date/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/691171/adminstore

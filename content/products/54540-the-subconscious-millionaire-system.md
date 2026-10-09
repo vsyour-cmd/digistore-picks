@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/subconscious-millionaire-system-affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/645625/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thehealthyliving.lovable.app#aff=adminstore
+- **Promo link (affiliate):** https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore
 - Sales page: https://thehealthyliving.lovable.app
 - Vendor affiliate support: https://sites.google.com/view/healthy-living-hub-affiliate/home
 - Canonical redirect: https://www.digistore24.com/redir/656071/adminstore

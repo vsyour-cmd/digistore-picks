@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vipliveclass.com/aff#aff=adminstore
+- **Promo link (affiliate):** https://vipliveclass.com/aff?aff=adminstore#aff=adminstore
 - Sales page: https://vipliveclass.com/aff
 - Vendor affiliate support: https://impassiveincome.com/jv/
 - Canonical redirect: https://www.digistore24.com/redir/361682/adminstore

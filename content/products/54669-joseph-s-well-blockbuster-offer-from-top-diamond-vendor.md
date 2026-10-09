@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://uswaterrevolution.com/#aff=adminstore
+- **Promo link (affiliate):** https://uswaterrevolution.com/?aff=adminstore#aff=adminstore
 - Sales page: https://uswaterrevolution.com/
 - Vendor affiliate support: http://uswaterrevolution.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/630453/adminstore

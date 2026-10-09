@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://offgridsurvivalprojects.com/book-ngp-dgs-aff/#aff=adminstore
+- **Promo link (affiliate):** https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore
 - Sales page: https://offgridsurvivalprojects.com/book-ngp-dgs-aff/
 - Vendor affiliate support: https://offgridsurvivalprojects.com/dgaffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/471054/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/Safe-Dating-For-Teenagers/Sales-page.html#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/Safe-Dating-For-Teenagers/Sales-page.html?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/Safe-Dating-For-Teenagers/Sales-page.html
 - Vendor affiliate support: https://oraclefx.org/Safe-Dating-For-Teenagers/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/708486/adminstore

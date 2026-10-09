@@ -34,11 +34,20 @@ if (cats) for (const c of cats.categories) {
 
 function promoLink(p) {
   const s = p.salesPageUrl || "";
-  if (!s) return `https://www.digistore24.com/redir/${p.productId}/${AFF}`;
-  if (/\[[A-Z]+\]/.test(s) || s.includes("#") || fixed[p.id]) {
-    return fixed[p.id] || `https://www.digistore24.com/redir/${p.productId}/${AFF}`;
+  const canonical = `https://www.digistore24.com/redir/${p.productId}/${AFF}`;
+  if (!s || /\[[A-Z]+\]/.test(s) || s.includes("#")) return canonical;
+  if (fixed[p.id]) {
+    const f = fixed[p.id];
+    // API 给的 promo 自身也是模板垃圾时,退回规范重定向
+    return /\[[A-Z]+\]/.test(f) ? canonical : f;
   }
-  return s + "#aff=" + AFF;
+  const q = s.includes("?") ? "&" : "?";
+  // Digistore24 自家域名:查询参数形式(官方追踪格式,如 ?voucher=X&aff=adminstore)
+  if (/^https?:\/\/[^/]*(digistore24\.com|checkout-ds24\.com)/i.test(s)) {
+    return `${s}${q}aff=${AFF}`;
+  }
+  // vendor 域名:查询参数 + 锚点双保险(DS24 JS 读 #aff, funnel 工具读 ?aff)
+  return `${s}${q}aff=${AFF}#aff=${AFF}`;
 }
 
 const products = d.products.map((p) => {

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/#aff=adminstore
+- **Promo link (affiliate):** https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/?aff=adminstore#aff=adminstore
 - Sales page: https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/
 - Vendor affiliate support: https://esotericdance369.wordpress.com/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/671787/adminstore

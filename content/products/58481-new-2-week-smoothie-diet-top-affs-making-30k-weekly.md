@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://puredaily-health.com/free-smoothies#aff=adminstore
+- **Promo link (affiliate):** https://puredaily-health.com/free-smoothies?aff=adminstore#aff=adminstore
 - Sales page: https://puredaily-health.com/free-smoothies
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/724261/adminstore

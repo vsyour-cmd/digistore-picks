@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-interpret-performance-growth/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-interpret-performance-growth/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-interpret-performance-growth/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-interpret-performance-growth-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/656248/adminstore

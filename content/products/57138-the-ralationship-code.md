@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.sexualitycode.com/#aff=adminstore
+- **Promo link (affiliate):** https://www.sexualitycode.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.sexualitycode.com/
 - Vendor affiliate support: https://job-profi.jimdofree.com/relationship-support/?preview_sid=994065
 - Canonical redirect: https://www.digistore24.com/redir/698941/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://feelbetter-today.com/free-water#aff=adminstore
+- **Promo link (affiliate):** https://feelbetter-today.com/free-water?aff=adminstore#aff=adminstore
 - Sales page: https://feelbetter-today.com/free-water
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5844463/en
 - Canonical redirect: https://www.digistore24.com/redir/723787/adminstore

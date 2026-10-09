@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726662#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726662?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726662
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/vintage-sleeve-sewing-patterns.html
 - Canonical redirect: https://www.digistore24.com/redir/726662/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds#aff=adminstore
+- **Promo link (affiliate):** https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore
 - Sales page: https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds
 - Canonical redirect: https://www.digistore24.com/redir/475159/adminstore
 

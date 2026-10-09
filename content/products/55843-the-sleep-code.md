@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.brainwavehaven.site/the-sleep-code#aff=adminstore
+- **Promo link (affiliate):** http://www.brainwavehaven.site/the-sleep-code?aff=adminstore#aff=adminstore
 - Sales page: http://www.brainwavehaven.site/the-sleep-code
 - Vendor affiliate support: https://www.brainwavehaven.site/the-sleep-code-affiliate-resources
 - Canonical redirect: https://www.digistore24.com/redir/674358/adminstore

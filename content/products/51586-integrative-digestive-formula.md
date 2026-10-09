@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm#aff=adminstore
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/integrative-digestion-formula-13
 - Canonical redirect: https://www.digistore24.com/redir/599474/adminstore

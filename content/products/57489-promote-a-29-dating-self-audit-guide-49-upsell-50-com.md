@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digitaldating.socialnestmarketing.com#aff=adminstore
+- **Promo link (affiliate):** https://digitaldating.socialnestmarketing.com?aff=adminstore#aff=adminstore
 - Sales page: https://digitaldating.socialnestmarketing.com
 - Vendor affiliate support: https://digitaldating.socialnestmarketing.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/710265/adminstore

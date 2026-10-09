@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thedavidsshield.com/d/daff/#aff=adminstore
+- **Promo link (affiliate):** https://thedavidsshield.com/d/daff/?aff=adminstore#aff=adminstore
 - Sales page: https://thedavidsshield.com/d/daff/
 - Vendor affiliate support: https://thedavidsshield.com/d/daff/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/631625/adminstore

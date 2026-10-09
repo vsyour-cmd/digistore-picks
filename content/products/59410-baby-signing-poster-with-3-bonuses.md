@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.babies-and-sign-language.com/baby-sign-language-basics-poster-chart-aff27-digi.html#aff=adminstore
+- **Promo link (affiliate):** https://www.babies-and-sign-language.com/baby-sign-language-basics-poster-chart-aff27-digi.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.babies-and-sign-language.com/baby-sign-language-basics-poster-chart-aff27-digi.html
 - Canonical redirect: https://www.digistore24.com/redir/718345/adminstore
 

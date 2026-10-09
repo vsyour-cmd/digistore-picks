@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/courses/advanced-liquidity-trading-strategy/#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/courses/advanced-liquidity-trading-strategy/?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/advanced-liquidity-trading-strategy/
 - Canonical redirect: https://www.digistore24.com/redir/693482/adminstore
 

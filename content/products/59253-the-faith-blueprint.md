@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thefaithblueprint-q5s.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://thefaithblueprint-q5s.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thefaithblueprint-q5s.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/733747/adminstore
 

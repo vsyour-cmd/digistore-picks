@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://geselleshampoo-5lj.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://geselleshampoo-5lj.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://geselleshampoo-5lj.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/717003/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://homedoctorbook.com/book/#aff=adminstore
+- **Promo link (affiliate):** https://homedoctorbook.com/book/?aff=adminstore#aff=adminstore
 - Sales page: https://homedoctorbook.com/book/
 - Vendor affiliate support: https://homedoctorbook.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/394659/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.obedsco.com/cookingbetter#aff=adminstore
+- **Promo link (affiliate):** https://www.obedsco.com/cookingbetter?aff=adminstore#aff=adminstore
 - Sales page: https://www.obedsco.com/cookingbetter
 - Canonical redirect: https://www.digistore24.com/redir/675076/adminstore
 

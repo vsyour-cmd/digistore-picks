@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.towardsfinance.com/l/community-to-cash/#aff=adminstore
+- **Promo link (affiliate):** https://shop.towardsfinance.com/l/community-to-cash/?aff=adminstore#aff=adminstore
 - Sales page: https://shop.towardsfinance.com/l/community-to-cash/
 - Vendor affiliate support: https://towardsfinance.com/affiliate-partner-program/
 - Canonical redirect: https://www.digistore24.com/redir/678080/adminstore

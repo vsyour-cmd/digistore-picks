@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/cpa-marketing-mastery#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/cpa-marketing-mastery?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/cpa-marketing-mastery
 - Vendor affiliate support: https://www.offerlaunchpad.site/cpa-marketing-mastery-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/697434/adminstore

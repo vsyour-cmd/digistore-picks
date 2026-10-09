@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ehealth.groovepages.com/easyketo/index#aff=adminstore
+- **Promo link (affiliate):** https://ehealth.groovepages.com/easyketo/index?aff=adminstore#aff=adminstore
 - Sales page: https://ehealth.groovepages.com/easyketo/index
 - Vendor affiliate support: https://ehealth.groovepages.com/easyketo/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/366607/adminstore

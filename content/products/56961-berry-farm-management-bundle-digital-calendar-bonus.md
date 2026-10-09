@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/farm-management-bundle#aff=adminstore
+- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/farm-management-bundle?aff=adminstore#aff=adminstore
 - Sales page: https://berryoperatingsystems.my.canva.site/farm-management-bundle
 - Canonical redirect: https://www.digistore24.com/redir/697151/adminstore
 

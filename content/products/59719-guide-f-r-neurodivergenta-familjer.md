@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://guideneurodivergenta-o1q.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://guideneurodivergenta-o1q.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://guideneurodivergenta-o1q.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/737382/adminstore
 

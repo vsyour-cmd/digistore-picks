@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://martialarts90.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://martialarts90.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://martialarts90.netlify.app/
 - Vendor affiliate support: https://martialarts90.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/672537/adminstore

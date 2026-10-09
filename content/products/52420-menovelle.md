@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://menovelle24.com/text.php#aff=adminstore
+- **Promo link (affiliate):** http://menovelle24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://menovelle24.com/text.php
 - Vendor affiliate support: https://menovelle24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/612225/adminstore

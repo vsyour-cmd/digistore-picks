@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/nono_wisdom_project/ai-for-life-bundle/sale-page#aff=adminstore
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/nono_wisdom_project/ai-for-life-bundle/sale-page?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/nono_wisdom_project/ai-for-life-bundle/sale-page
 - Vendor affiliate support: https://www.alm3rfa.xyz/nono_wisdom_project/ai-for-life-bundle/affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/631232/adminstore

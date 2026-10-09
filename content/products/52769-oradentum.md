@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://getoradentum.cc/welcome/#aff=adminstore
+- **Promo link (affiliate):** http://getoradentum.cc/welcome/?aff=adminstore#aff=adminstore
 - Sales page: http://getoradentum.cc/welcome/
 - Vendor affiliate support: https://getoradentum.cc/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/614878/adminstore

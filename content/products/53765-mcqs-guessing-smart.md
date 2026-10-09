@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633263#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633263?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633263
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/multiple-choice-questions-guessing.html
 - Canonical redirect: https://www.digistore24.com/redir/633263/adminstore

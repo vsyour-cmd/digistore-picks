@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://georgeakama.lovable.app/books/life-by-design#aff=adminstore
+- **Promo link (affiliate):** https://georgeakama.lovable.app/books/life-by-design?aff=adminstore#aff=adminstore
 - Sales page: https://georgeakama.lovable.app/books/life-by-design
 - Canonical redirect: https://www.digistore24.com/redir/691450/adminstore
 

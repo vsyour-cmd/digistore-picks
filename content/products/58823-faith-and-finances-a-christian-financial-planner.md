@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://faithfinanceschristian-7mh.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://faithfinanceschristian-7mh.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://faithfinanceschristian-7mh.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/728374/adminstore
 

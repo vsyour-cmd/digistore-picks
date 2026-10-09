@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/cutout-plants-v02-plants-entourage-for-architecture-illustrations/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/cutout-plants-v02-plants-entourage-for-architecture-illustrations/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/cutout-plants-v02-plants-entourage-for-architecture-illustrations/
 - Canonical redirect: https://www.digistore24.com/redir/593585/adminstore
 

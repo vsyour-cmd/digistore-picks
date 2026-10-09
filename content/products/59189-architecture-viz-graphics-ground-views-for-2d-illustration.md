@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/ground-perspectives-cutout-road-street-grass-architecture-rendering/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/ground-perspectives-cutout-road-street-grass-architecture-rendering/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/ground-perspectives-cutout-road-street-grass-architecture-rendering/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593603/adminstore

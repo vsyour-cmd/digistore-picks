@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/top-50-ways-to-use-chatgpt#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/top-50-ways-to-use-chatgpt?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/top-50-ways-to-use-chatgpt
 - Canonical redirect: https://www.digistore24.com/redir/574811/adminstore
 

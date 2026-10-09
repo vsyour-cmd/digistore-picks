@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.survivalmd.net/vsl/index.php#aff=adminstore
+- **Promo link (affiliate):** https://www.survivalmd.net/vsl/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.survivalmd.net/vsl/index.php
 - Vendor affiliate support: https://www.survivalmd.net/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/492636/adminstore

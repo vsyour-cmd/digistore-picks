@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://weightlossprogramtest-4jn.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://weightlossprogramtest-4jn.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://weightlossprogramtest-4jn.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/716320/adminstore
 

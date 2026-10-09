@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hunterdiskcleaner.com/pro.html#aff=adminstore
+- **Promo link (affiliate):** https://hunterdiskcleaner.com/pro.html?aff=adminstore#aff=adminstore
 - Sales page: https://hunterdiskcleaner.com/pro.html
 - Vendor affiliate support: https://hunterdiskcleaner.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/726349/adminstore

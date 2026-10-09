@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://suppting.com/adaptogen-4-0-2025/#aff=adminstore
+- **Promo link (affiliate):** https://suppting.com/adaptogen-4-0-2025/?aff=adminstore#aff=adminstore
 - Sales page: https://suppting.com/adaptogen-4-0-2025/
 - Vendor affiliate support: https://suppting.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646969/adminstore

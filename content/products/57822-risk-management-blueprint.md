@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/risk-management-course/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/risk-management-course/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/risk-management-course/
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1507-promote-the-risk-management-blueprint
 - Canonical redirect: https://www.digistore24.com/redir/589118/adminstore

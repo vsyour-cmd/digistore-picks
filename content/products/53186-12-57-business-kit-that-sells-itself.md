@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://profound-zabaione-bc02e6.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://profound-zabaione-bc02e6.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://profound-zabaione-bc02e6.netlify.app/
 - Vendor affiliate support: https://charming-creponne-5f5961.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/623017/adminstore

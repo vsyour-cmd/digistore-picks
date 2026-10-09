@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://goprimordialvigorx.com/read#aff=adminstore
+- **Promo link (affiliate):** https://goprimordialvigorx.com/read?aff=adminstore#aff=adminstore
 - Sales page: https://goprimordialvigorx.com/read
 - Vendor affiliate support: https://goprimordialvigorx.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/605523/adminstore

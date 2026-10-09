@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9#aff=adminstore
+- **Promo link (affiliate):** https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9?aff=adminstore#aff=adminstore
 - Sales page: https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9
 - Vendor affiliate support: https://frequencies8888.systeme.io/2ae21186-4c762aeb-0d200997-e20f68b5
 - Canonical redirect: https://www.digistore24.com/redir/658078/adminstore

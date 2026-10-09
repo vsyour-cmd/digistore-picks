@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book3-the-floating-island-mystery#aff=adminstore
+- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book3-the-floating-island-mystery&aff=adminstore#aff=adminstore
 - Sales page: https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book3-the-floating-island-mystery
 - Vendor affiliate support: https://maxmiaparentingsystem.blogspot.com/p/affiliate-center-max-mia-parent-success.html
 - Canonical redirect: https://www.digistore24.com/redir/696029/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://yourhomeworkout.com/bible/#aff=adminstore
+- **Promo link (affiliate):** https://yourhomeworkout.com/bible/?aff=adminstore#aff=adminstore
 - Sales page: https://yourhomeworkout.com/bible/
 - Vendor affiliate support: https://yourhomeworkout.com/bible/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/551528/adminstore

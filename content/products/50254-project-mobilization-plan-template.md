@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://worldofpm.com/project-mobilization-plan-template/#aff=adminstore
+- **Promo link (affiliate):** https://worldofpm.com/project-mobilization-plan-template/?aff=adminstore#aff=adminstore
 - Sales page: https://worldofpm.com/project-mobilization-plan-template/
 - Vendor affiliate support: https://worldofpm.com/become-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/489398/adminstore

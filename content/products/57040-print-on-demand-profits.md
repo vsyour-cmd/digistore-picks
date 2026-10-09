@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/print-on-demand-profits#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/print-on-demand-profits?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/print-on-demand-profits
 - Vendor affiliate support: https://www.offerlaunchpad.site/print-on-demand-profits-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/702929/adminstore

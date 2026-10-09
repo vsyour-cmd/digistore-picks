@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://temporalschismlegionofone-5mp.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://temporalschismlegionofone-5mp.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://temporalschismlegionofone-5mp.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/743394/adminstore
 

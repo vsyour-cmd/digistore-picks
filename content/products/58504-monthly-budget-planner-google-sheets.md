@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724693#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724693?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/724693
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/monthly-budget-planner-google-sheets.html
 - Canonical redirect: https://www.digistore24.com/redir/724693/adminstore

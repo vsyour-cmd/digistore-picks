@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marilia.de/ratgeber/ebook-understanding-and-overcoming-depression/#aff=adminstore
+- **Promo link (affiliate):** https://marilia.de/ratgeber/ebook-understanding-and-overcoming-depression/?aff=adminstore#aff=adminstore
 - Sales page: https://marilia.de/ratgeber/ebook-understanding-and-overcoming-depression/
 - Vendor affiliate support: https://marilia.de/understanding-and-overcoming-depression/
 - Canonical redirect: https://www.digistore24.com/redir/638691/adminstore

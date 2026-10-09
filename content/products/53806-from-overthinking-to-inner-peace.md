@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633485#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633485?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633485
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/from-overthinking-to-inner-peace-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/633485/adminstore

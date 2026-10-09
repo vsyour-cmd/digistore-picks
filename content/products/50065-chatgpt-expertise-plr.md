@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/ChatGPT-Expertise-PLR/#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/ChatGPT-Expertise-PLR/?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/ChatGPT-Expertise-PLR/
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/575043/adminstore

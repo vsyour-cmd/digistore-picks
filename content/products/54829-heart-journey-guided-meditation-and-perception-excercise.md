@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kevinmanke.com/the-heart-journey/#aff=adminstore
+- **Promo link (affiliate):** https://kevinmanke.com/the-heart-journey/?aff=adminstore#aff=adminstore
 - Sales page: https://kevinmanke.com/the-heart-journey/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/651678/adminstore

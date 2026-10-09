@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/tiktok-cash-formula#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/tiktok-cash-formula?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/tiktok-cash-formula
 - Vendor affiliate support: https://www.offerlaunchpad.site/tiktok-cash-formula-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/707842/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://signal.esr.mobi/#aff=adminstore
+- **Promo link (affiliate):** https://signal.esr.mobi/?aff=adminstore#aff=adminstore
 - Sales page: https://signal.esr.mobi/
 - Vendor affiliate support: https://signal.esr.mobi/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/728308/adminstore

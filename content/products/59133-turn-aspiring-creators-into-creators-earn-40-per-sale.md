@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://30dayblueprint.org/digistore#aff=adminstore
+- **Promo link (affiliate):** https://30dayblueprint.org/digistore?aff=adminstore#aff=adminstore
 - Sales page: https://30dayblueprint.org/digistore
 - Vendor affiliate support: https://30dayblueprint.org/affiliate-success
 - Canonical redirect: https://www.digistore24.com/redir/728630/adminstore

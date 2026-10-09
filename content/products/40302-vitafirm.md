@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vitafirmsecret.com/special-digi/index.html#aff=adminstore
+- **Promo link (affiliate):** https://vitafirmsecret.com/special-digi/index.html?aff=adminstore#aff=adminstore
 - Sales page: https://vitafirmsecret.com/special-digi/index.html
 - Vendor affiliate support: https://vitafirmsecret.com/ds24-affiliate-center/index.html
 - Canonical redirect: https://www.digistore24.com/redir/443930/adminstore

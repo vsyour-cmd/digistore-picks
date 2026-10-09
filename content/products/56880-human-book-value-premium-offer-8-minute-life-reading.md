@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ds.humanbookvalue.com#aff=adminstore
+- **Promo link (affiliate):** https://ds.humanbookvalue.com?aff=adminstore#aff=adminstore
 - Sales page: https://ds.humanbookvalue.com
 - Canonical redirect: https://www.digistore24.com/redir/693098/adminstore
 

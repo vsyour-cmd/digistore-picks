@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://my-website-1febf5.webnode.page/#aff=adminstore
+- **Promo link (affiliate):** https://my-website-1febf5.webnode.page/?aff=adminstore#aff=adminstore
 - Sales page: https://my-website-1febf5.webnode.page/
 - Vendor affiliate support: https://my-website-1febf5.webnode.page/affiliate-materials/
 - Canonical redirect: https://www.digistore24.com/redir/666642/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/how-to-build-your-e-mail-list#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/how-to-build-your-e-mail-list?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/how-to-build-your-e-mail-list
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/542334/adminstore

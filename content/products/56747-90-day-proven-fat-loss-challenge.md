@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi#aff=adminstore
+- **Promo link (affiliate):** https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi?aff=adminstore#aff=adminstore
 - Sales page: https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi
 - Canonical redirect: https://www.digistore24.com/redir/696162/adminstore
 

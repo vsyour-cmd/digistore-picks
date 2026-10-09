@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://makeyouslim.info/the-fat-burner-formula/#aff=adminstore
+- **Promo link (affiliate):** https://makeyouslim.info/the-fat-burner-formula/?aff=adminstore#aff=adminstore
 - Sales page: https://makeyouslim.info/the-fat-burner-formula/
 - Vendor affiliate support: https://makeyouslim.info/partner-program-the-fat-burner-formula/
 - Canonical redirect: https://www.digistore24.com/redir/428288/adminstore

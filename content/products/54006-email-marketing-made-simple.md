@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635724#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635724?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635724
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/email-marketing-made-simple-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/635724/adminstore

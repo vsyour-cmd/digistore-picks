@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.guitarschool24.com/classical-guitar-basic-techniques/#aff=adminstore
+- **Promo link (affiliate):** https://www.guitarschool24.com/classical-guitar-basic-techniques/?aff=adminstore#aff=adminstore
 - Sales page: https://www.guitarschool24.com/classical-guitar-basic-techniques/
 - Canonical redirect: https://www.digistore24.com/redir/383385/adminstore
 

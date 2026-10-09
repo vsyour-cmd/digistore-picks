@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://millionairepartnership.com/webclass-d24#aff=adminstore
+- **Promo link (affiliate):** https://millionairepartnership.com/webclass-d24?aff=adminstore#aff=adminstore
 - Sales page: https://millionairepartnership.com/webclass-d24
 - Vendor affiliate support: https://millionairepartnership.com/jv-ds24
 - Canonical redirect: https://www.digistore24.com/redir/569406/adminstore

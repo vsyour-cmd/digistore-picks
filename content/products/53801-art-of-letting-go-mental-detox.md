@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633491#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633491?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633491
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-art-of-letting-go-mental-detox-for.html
 - Canonical redirect: https://www.digistore24.com/redir/633491/adminstore

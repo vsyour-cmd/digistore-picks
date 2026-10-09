@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://soultribe.digital/sales#aff=adminstore
+- **Promo link (affiliate):** https://soultribe.digital/sales?aff=adminstore#aff=adminstore
 - Sales page: https://soultribe.digital/sales
 - Vendor affiliate support: https://soultribeapp.shop/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/644279/adminstore

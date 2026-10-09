@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://viddeos.ai/yes/#aff=adminstore
+- **Promo link (affiliate):** https://viddeos.ai/yes/?aff=adminstore#aff=adminstore
 - Sales page: https://viddeos.ai/yes/
 - Vendor affiliate support: https://docs.google.com/document/d/1psLOqMwXpoFdKucWzfyEHjBtPgI1NPUe55upv_iZKz4/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/586248/adminstore

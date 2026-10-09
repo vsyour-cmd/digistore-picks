@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://theneurovera.com/ds/go/indexts.php#aff=adminstore
+- **Promo link (affiliate):** https://theneurovera.com/ds/go/indexts.php?aff=adminstore#aff=adminstore
 - Sales page: https://theneurovera.com/ds/go/indexts.php
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/neurovera
 - Canonical redirect: https://www.digistore24.com/redir/669703/adminstore

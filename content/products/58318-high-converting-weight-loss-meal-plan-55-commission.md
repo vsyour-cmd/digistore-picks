@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dietora.fit/meal-plan#aff=adminstore
+- **Promo link (affiliate):** https://dietora.fit/meal-plan?aff=adminstore#aff=adminstore
 - Sales page: https://dietora.fit/meal-plan
 - Vendor affiliate support: https://dietora.fit/affiliate-program
 - Canonical redirect: https://www.digistore24.com/redir/711407/adminstore

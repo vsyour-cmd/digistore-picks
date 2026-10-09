@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/#aff=adminstore
+- **Promo link (affiliate):** https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/?aff=adminstore#aff=adminstore
 - Sales page: https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/
 - Vendor affiliate support: https://starbusinessschool.com/4-product-bundle-digi-24-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/462082/adminstore

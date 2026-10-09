@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635398#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635398?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635398
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/essential-grammar-tips-for-language.html
 - Canonical redirect: https://www.digistore24.com/redir/635398/adminstore

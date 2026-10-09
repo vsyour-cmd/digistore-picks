@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/teacher-hub#aff=adminstore
+- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/teacher-hub?aff=adminstore#aff=adminstore
 - Sales page: https://berryoperatingsystems.my.canva.site/teacher-hub
 - Canonical redirect: https://www.digistore24.com/redir/736454/adminstore
 

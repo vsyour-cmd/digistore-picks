@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.1x1.guru/?lang=en#aff=adminstore
+- **Promo link (affiliate):** https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore
 - Sales page: https://www.1x1.guru/?lang=en
 - Canonical redirect: https://www.digistore24.com/redir/364765/adminstore
 

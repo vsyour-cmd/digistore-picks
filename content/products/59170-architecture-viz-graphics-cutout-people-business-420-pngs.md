@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/727737/adminstore

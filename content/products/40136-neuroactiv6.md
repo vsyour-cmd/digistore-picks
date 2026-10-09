@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.naturalcell.com/mental-energy/#aff=adminstore
+- **Promo link (affiliate):** https://www.naturalcell.com/mental-energy/?aff=adminstore#aff=adminstore
 - Sales page: https://www.naturalcell.com/mental-energy/
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/neuroactiv6
 - Canonical redirect: https://www.digistore24.com/redir/442614/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://studperformance.com/d/#aff=adminstore
+- **Promo link (affiliate):** https://studperformance.com/d/?aff=adminstore#aff=adminstore
 - Sales page: https://studperformance.com/d/
 - Vendor affiliate support: https://studperformance.com/d/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/590554/adminstore

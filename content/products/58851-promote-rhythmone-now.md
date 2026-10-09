@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://rhythmoneprotocol.com/ds/go/indexts.php#aff=adminstore
+- **Promo link (affiliate):** https://rhythmoneprotocol.com/ds/go/indexts.php?aff=adminstore#aff=adminstore
 - Sales page: https://rhythmoneprotocol.com/ds/go/indexts.php
 - Vendor affiliate support: https://rhythmoneprotocol.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/678482/adminstore

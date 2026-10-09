@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tangerine-squirrel-5c0458.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://tangerine-squirrel-5c0458.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://tangerine-squirrel-5c0458.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/733313/adminstore
 

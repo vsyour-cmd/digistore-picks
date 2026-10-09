@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/735503#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/735503?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735503
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735503/
 - Canonical redirect: https://www.digistore24.com/redir/735503/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://igor.watch/digi/301k/vsl.html#aff=adminstore
+- **Promo link (affiliate):** https://igor.watch/digi/301k/vsl.html?aff=adminstore#aff=adminstore
 - Sales page: https://igor.watch/digi/301k/vsl.html
 - Vendor affiliate support: https://intercom.help/igor-solo-ads-ltd/en/collections/2107661-list-building-lifestyle
 - Canonical redirect: https://www.digistore24.com/redir/449013/adminstore

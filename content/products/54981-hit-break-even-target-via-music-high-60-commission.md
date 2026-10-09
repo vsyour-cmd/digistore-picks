@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-hit-your-break-even-target/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-hit-your-break-even-target/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-hit-your-break-even-target/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-hit-your-break-even-target-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/656045/adminstore

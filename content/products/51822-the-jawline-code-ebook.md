@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aanchorbiz.com/the-jawline-code-frontend/#aff=adminstore
+- **Promo link (affiliate):** https://aanchorbiz.com/the-jawline-code-frontend/?aff=adminstore#aff=adminstore
 - Sales page: https://aanchorbiz.com/the-jawline-code-frontend/
 - Canonical redirect: https://www.digistore24.com/redir/603194/adminstore
 

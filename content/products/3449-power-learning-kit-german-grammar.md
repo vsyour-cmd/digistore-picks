@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/#aff=adminstore
+- **Promo link (affiliate):** https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/?aff=adminstore#aff=adminstore
 - Sales page: https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/
 - Canonical redirect: https://www.digistore24.com/redir/19083/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-c-15-trader-strategy-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-c-15-trader-strategy-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-c-15-trader-strategy-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/c-15-trader-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646620/adminstore

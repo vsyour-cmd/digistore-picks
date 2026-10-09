@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633269#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633269?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633269
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/night-before-exam-what-to-do-what-not.html
 - Canonical redirect: https://www.digistore24.com/redir/633269/adminstore

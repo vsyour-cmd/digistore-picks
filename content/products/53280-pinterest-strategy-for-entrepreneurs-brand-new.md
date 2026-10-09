@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hope-271.systeme.io/4f8ed6e2#aff=adminstore
+- **Promo link (affiliate):** https://hope-271.systeme.io/4f8ed6e2?aff=adminstore#aff=adminstore
 - Sales page: https://hope-271.systeme.io/4f8ed6e2
 - Vendor affiliate support: https://docs.google.com/document/d/1fpSWW1we6mZsU7cVKsxilrzv52wEAFYpvrcMMJQMsXA/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/623072/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.pv-en.com/front-end-emotional-alchemy-d24-usa#aff=adminstore
+- **Promo link (affiliate):** https://www.pv-en.com/front-end-emotional-alchemy-d24-usa?aff=adminstore#aff=adminstore
 - Sales page: https://www.pv-en.com/front-end-emotional-alchemy-d24-usa
 - Vendor affiliate support: https://www.pv-en.com/the-pillar-2-high-achievers-affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/661302/adminstore

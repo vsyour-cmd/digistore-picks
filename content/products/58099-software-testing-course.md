@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/software-testing-course/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/software-testing-course/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/software-testing-course/
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1509-become-an-affiliate-for-software-testing-mastery-in-scrum-50-commission
 - Canonical redirect: https://www.digistore24.com/redir/617455/adminstore

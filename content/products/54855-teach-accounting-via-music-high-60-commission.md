@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-solve-accounting-remember-the-5-building-blocks/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-solve-accounting-remember-the-5-building-blocks/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-solve-accounting-remember-the-5-building-blocks/
 - Vendor affiliate support: https://sekael.com/sing-solve-accounting-remember-the-5-building-blocks-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/652033/adminstore

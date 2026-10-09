@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.publishmint.site/funnels/peri/sales/#aff=adminstore
+- **Promo link (affiliate):** https://www.publishmint.site/funnels/peri/sales/?aff=adminstore#aff=adminstore
 - Sales page: https://www.publishmint.site/funnels/peri/sales/
 - Vendor affiliate support: https://docs.google.com/document/d/1BYVhJV1Qk-yipgVV7hZAUC-wXnLKPKa-wy4W4ZSsmCc/edit?usp=drivesdk
 - Canonical redirect: https://www.digistore24.com/redir/692610/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724312#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724312?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/724312
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/stretching-exercises.html
 - Canonical redirect: https://www.digistore24.com/redir/724312/adminstore

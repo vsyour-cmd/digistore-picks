@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf#aff=adminstore
+- **Promo link (affiliate):** https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf?aff=adminstore#aff=adminstore
 - Sales page: https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf
 - Vendor affiliate support: https://www.livingtheoffgriddream.com/affiliate-optin
 - Canonical redirect: https://www.digistore24.com/redir/510033/adminstore

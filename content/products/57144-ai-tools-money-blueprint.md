@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.megapassive.online/ai-tools-money-blueprint#aff=adminstore
+- **Promo link (affiliate):** https://www.megapassive.online/ai-tools-money-blueprint?aff=adminstore#aff=adminstore
 - Sales page: https://www.megapassive.online/ai-tools-money-blueprint
 - Vendor affiliate support: https://www.megapassive.online/ai-tools-money-blueprint-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/706208/adminstore

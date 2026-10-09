@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://perpetualincome365.convertri.com/7figure-everwebinar-registration#aff=adminstore
+- **Promo link (affiliate):** https://perpetualincome365.convertri.com/7figure-everwebinar-registration?aff=adminstore#aff=adminstore
 - Sales page: https://perpetualincome365.convertri.com/7figure-everwebinar-registration
 - Vendor affiliate support: https://www.perpetualincome365.vip/jv/index-digi24.php
 - Canonical redirect: https://www.digistore24.com/redir/491495/adminstore

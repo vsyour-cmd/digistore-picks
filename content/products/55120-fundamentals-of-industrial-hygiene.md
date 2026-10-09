@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch#aff=adminstore
+- **Promo link (affiliate):** https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch?aff=adminstore#aff=adminstore
 - Sales page: https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch
 - Canonical redirect: https://www.digistore24.com/redir/654493/adminstore
 

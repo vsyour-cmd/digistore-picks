@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.floxflow.com#aff=adminstore
+- **Promo link (affiliate):** http://www.floxflow.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.floxflow.com
 - Canonical redirect: https://www.digistore24.com/redir/736919/adminstore
 

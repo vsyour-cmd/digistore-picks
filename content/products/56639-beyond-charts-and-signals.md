@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://georgeakama.lovable.app/books/beyond-charts-and-signals#aff=adminstore
+- **Promo link (affiliate):** https://georgeakama.lovable.app/books/beyond-charts-and-signals?aff=adminstore#aff=adminstore
 - Sales page: https://georgeakama.lovable.app/books/beyond-charts-and-signals
 - Canonical redirect: https://www.digistore24.com/redir/691446/adminstore
 

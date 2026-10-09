@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://activateexclusivebillionairebrainprogram-zf3.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://activateexclusivebillionairebrainprogram-zf3.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://activateexclusivebillionairebrainprogram-zf3.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/716442/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getfluxactive.cc/vslv1/#aff=adminstore
+- **Promo link (affiliate):** https://getfluxactive.cc/vslv1/?aff=adminstore#aff=adminstore
 - Sales page: https://getfluxactive.cc/vslv1/
 - Vendor affiliate support: https://getfluxactive.cc/affs/
 - Canonical redirect: https://www.digistore24.com/redir/466656/adminstore

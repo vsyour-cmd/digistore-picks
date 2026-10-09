@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://neweraprotect.com/dgs#aff=adminstore
+- **Promo link (affiliate):** https://neweraprotect.com/dgs?aff=adminstore#aff=adminstore
 - Sales page: https://neweraprotect.com/dgs
 - Vendor affiliate support: https://neweraprotect.com/affiliate-tools-dgs#sec5
 - Canonical redirect: https://www.digistore24.com/redir/644676/adminstore

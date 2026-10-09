@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://8pw.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://8pw.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://8pw.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/713980/adminstore
 

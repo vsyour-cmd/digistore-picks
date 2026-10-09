@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://glucoguardpro24.com/ancient-secret-6975-2350#aff=adminstore
+- **Promo link (affiliate):** https://glucoguardpro24.com/ancient-secret-6975-2350?aff=adminstore#aff=adminstore
 - Sales page: https://glucoguardpro24.com/ancient-secret-6975-2350
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/glucoguard-pro
 - Canonical redirect: https://www.digistore24.com/redir/571673/adminstore

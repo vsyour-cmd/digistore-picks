@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://worldofpm.com/recommended-project-reports/#aff=adminstore
+- **Promo link (affiliate):** https://worldofpm.com/recommended-project-reports/?aff=adminstore#aff=adminstore
 - Sales page: https://worldofpm.com/recommended-project-reports/
 - Vendor affiliate support: https://worldofpm.com/become-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/401565/adminstore

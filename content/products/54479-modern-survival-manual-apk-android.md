@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://survivalmoder.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://survivalmoder.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://survivalmoder.netlify.app/
 - Vendor affiliate support: https://pageassociado.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/637049/adminstore

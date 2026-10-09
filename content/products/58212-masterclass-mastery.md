@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/masterclass-mastery/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/masterclass-mastery/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/masterclass-mastery/
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1510-how-to-leverage-your-expertise-in-the-digital-age
 - Canonical redirect: https://www.digistore24.com/redir/497855/adminstore

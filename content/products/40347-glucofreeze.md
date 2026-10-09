@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://glucofreezecurrent.com/special-today-digi/index.html#aff=adminstore
+- **Promo link (affiliate):** http://glucofreezecurrent.com/special-today-digi/index.html?aff=adminstore#aff=adminstore
 - Sales page: http://glucofreezecurrent.com/special-today-digi/index.html
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/glucofreeze
 - Canonical redirect: https://www.digistore24.com/redir/438000/adminstore

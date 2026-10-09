@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ds.bloodpressure911.com/bp911slowv2/index.php#aff=adminstore
+- **Promo link (affiliate):** https://ds.bloodpressure911.com/bp911slowv2/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://ds.bloodpressure911.com/bp911slowv2/index.php
 - Vendor affiliate support: https://ds.bloodpressure911.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/365097/adminstore

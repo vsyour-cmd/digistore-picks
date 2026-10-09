@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://astralhq.com/ds-shifting/#aff=adminstore
+- **Promo link (affiliate):** https://astralhq.com/ds-shifting/?aff=adminstore#aff=adminstore
 - Sales page: https://astralhq.com/ds-shifting/
 - Vendor affiliate support: https://astralhq.com/affiliates-ds/
 - Canonical redirect: https://www.digistore24.com/redir/574669/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://abundancegrounding.com/vsl1-pillowcase/landing#aff=adminstore
+- **Promo link (affiliate):** https://abundancegrounding.com/vsl1-pillowcase/landing?aff=adminstore#aff=adminstore
 - Sales page: https://abundancegrounding.com/vsl1-pillowcase/landing
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/grounding-sheets
 - Canonical redirect: https://www.digistore24.com/redir/643090/adminstore

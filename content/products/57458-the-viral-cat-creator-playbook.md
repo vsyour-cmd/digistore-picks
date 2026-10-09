@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://catcreatorplaybook.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://catcreatorplaybook.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://catcreatorplaybook.netlify.app/
 - Vendor affiliate support: https://catcreator-partners.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/708884/adminstore

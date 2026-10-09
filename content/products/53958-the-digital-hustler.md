@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635388#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635388?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635388
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-digital-hustler-online-business.html
 - Canonical redirect: https://www.digistore24.com/redir/635388/adminstore

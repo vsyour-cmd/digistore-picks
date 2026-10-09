@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://perfectionismdetox-6vg.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://perfectionismdetox-6vg.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://perfectionismdetox-6vg.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/735244/adminstore
 

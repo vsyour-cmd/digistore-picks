@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/the-cryptocurrency-secrets#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/the-cryptocurrency-secrets?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/the-cryptocurrency-secrets
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/578528/adminstore

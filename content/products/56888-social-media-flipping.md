@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/social-media-flipping#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/social-media-flipping?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/social-media-flipping
 - Vendor affiliate support: https://www.offerlaunchpad.site/social-media-flipping-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/701568/adminstore

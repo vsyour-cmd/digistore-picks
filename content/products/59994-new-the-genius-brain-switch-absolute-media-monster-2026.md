@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://feelbetter-today.com/brain-power#aff=adminstore
+- **Promo link (affiliate):** http://feelbetter-today.com/brain-power?aff=adminstore#aff=adminstore
 - Sales page: http://feelbetter-today.com/brain-power
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/738142/adminstore

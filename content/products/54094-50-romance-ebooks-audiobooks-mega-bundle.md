@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pawopsstudio.com/50-romance-ebooks-audiobooks/#aff=adminstore
+- **Promo link (affiliate):** https://pawopsstudio.com/50-romance-ebooks-audiobooks/?aff=adminstore#aff=adminstore
 - Sales page: https://pawopsstudio.com/50-romance-ebooks-audiobooks/
 - Vendor affiliate support: https://sites.google.com/view/romance-audio-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/630712/adminstore

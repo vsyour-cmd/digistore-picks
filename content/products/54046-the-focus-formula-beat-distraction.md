@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636022#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636022?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/636022
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-focus-formula-beat-distraction-for.html
 - Canonical redirect: https://www.digistore24.com/redir/636022/adminstore

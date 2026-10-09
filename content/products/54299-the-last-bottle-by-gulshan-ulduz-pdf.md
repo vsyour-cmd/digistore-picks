@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/638771#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/638771?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/638771
 - Vendor affiliate support: https://docs.google.com/document/d/e/2PACX-1vRkGzyNi8kWpiLt20ZA9aC3j8A-tfANGSo006F1tOaFi4jD2FORoKPrpVD9SX613xiB-Wva52_qO2uz/pub
 - Canonical redirect: https://www.digistore24.com/redir/638771/adminstore

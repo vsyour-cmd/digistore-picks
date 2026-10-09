@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sleep-strips.elixolve.com#aff=adminstore
+- **Promo link (affiliate):** https://sleep-strips.elixolve.com?aff=adminstore#aff=adminstore
 - Sales page: https://sleep-strips.elixolve.com
 - Canonical redirect: https://www.digistore24.com/redir/719349/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.easyscrollsawpatterns.com#aff=adminstore
+- **Promo link (affiliate):** https://www.easyscrollsawpatterns.com?aff=adminstore#aff=adminstore
 - Sales page: https://www.easyscrollsawpatterns.com
 - Vendor affiliate support: http://www.easyscrollsawpatterns.com/for-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/432604/adminstore

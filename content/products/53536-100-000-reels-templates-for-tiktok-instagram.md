@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://reelara.com/#aff=adminstore
+- **Promo link (affiliate):** https://reelara.com/?aff=adminstore#aff=adminstore
 - Sales page: https://reelara.com/
 - Vendor affiliate support: https://www.reelara.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/630066/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/courses/smart-money-concepts-that-every-trader-must-know/#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/courses/smart-money-concepts-that-every-trader-must-know/?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/smart-money-concepts-that-every-trader-must-know/
 - Canonical redirect: https://www.digistore24.com/redir/693485/adminstore
 

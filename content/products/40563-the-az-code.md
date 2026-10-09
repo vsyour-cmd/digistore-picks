@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.theazcode.com#aff=adminstore
+- **Promo link (affiliate):** https://www.theazcode.com?aff=adminstore#aff=adminstore
 - Sales page: https://www.theazcode.com
 - Vendor affiliate support: https://www.theazcode.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/450647/adminstore

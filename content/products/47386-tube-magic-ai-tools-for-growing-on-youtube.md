@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tubemagic.com/ds#aff=adminstore
+- **Promo link (affiliate):** https://tubemagic.com/ds?aff=adminstore#aff=adminstore
 - Sales page: https://tubemagic.com/ds
 - Vendor affiliate support: https://tubemagic.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/540531/adminstore

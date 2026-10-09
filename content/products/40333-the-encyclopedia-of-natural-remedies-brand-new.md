@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wsl.365dailyhealth.com/encyclopedia1#aff=adminstore
+- **Promo link (affiliate):** https://wsl.365dailyhealth.com/encyclopedia1?aff=adminstore#aff=adminstore
 - Sales page: https://wsl.365dailyhealth.com/encyclopedia1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/the-encyclopedia-of-natural-remedies
 - Canonical redirect: https://www.digistore24.com/redir/446313/adminstore

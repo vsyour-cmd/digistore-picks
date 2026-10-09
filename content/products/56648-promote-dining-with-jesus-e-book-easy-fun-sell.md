@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://diningwithjesus.my.canva.site/#aff=adminstore
+- **Promo link (affiliate):** https://diningwithjesus.my.canva.site/?aff=adminstore#aff=adminstore
 - Sales page: https://diningwithjesus.my.canva.site/
 - Canonical redirect: https://www.digistore24.com/redir/689000/adminstore
 

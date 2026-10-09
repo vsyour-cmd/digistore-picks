@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://41ebookset3.neoseotools.com/#aff=adminstore
+- **Promo link (affiliate):** https://41ebookset3.neoseotools.com/?aff=adminstore#aff=adminstore
 - Sales page: https://41ebookset3.neoseotools.com/
 - Canonical redirect: https://www.digistore24.com/redir/558692/adminstore
 

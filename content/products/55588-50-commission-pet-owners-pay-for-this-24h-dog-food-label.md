@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://foodreports.go-pets.net/digistore#aff=adminstore
+- **Promo link (affiliate):** https://foodreports.go-pets.net/digistore?aff=adminstore#aff=adminstore
 - Sales page: https://foodreports.go-pets.net/digistore
 - Vendor affiliate support: https://go-pets.net/affi.html
 - Canonical redirect: https://www.digistore24.com/redir/667057/adminstore

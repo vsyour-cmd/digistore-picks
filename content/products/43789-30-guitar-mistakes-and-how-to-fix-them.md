@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.guitarschool24.com/guitar-mistakes/#aff=adminstore
+- **Promo link (affiliate):** https://www.guitarschool24.com/guitar-mistakes/?aff=adminstore#aff=adminstore
 - Sales page: https://www.guitarschool24.com/guitar-mistakes/
 - Canonical redirect: https://www.digistore24.com/redir/377170/adminstore
 

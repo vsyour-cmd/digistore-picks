@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.boostedflow.com/#aff=adminstore
+- **Promo link (affiliate):** https://shop.boostedflow.com/?aff=adminstore#aff=adminstore
 - Sales page: https://shop.boostedflow.com/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/clear-flux
 - Canonical redirect: https://www.digistore24.com/redir/638043/adminstore

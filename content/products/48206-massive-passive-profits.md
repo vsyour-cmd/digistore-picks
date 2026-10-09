@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.massivepassiveai.com/index1.html#aff=adminstore
+- **Promo link (affiliate):** https://www.massivepassiveai.com/index1.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.massivepassiveai.com/index1.html
 - Vendor affiliate support: https://www.massivepassiveai.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/553248/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nexora-boost.xyz/#aff=adminstore
+- **Promo link (affiliate):** https://nexora-boost.xyz/?aff=adminstore#aff=adminstore
 - Sales page: https://nexora-boost.xyz/
 - Vendor affiliate support: https://magical-palmier-02a73a.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/619963/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/top-view-plants-01-cutout-plan-view-plant-graphics-png-for-landscape-design/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/top-view-plants-01-cutout-plan-view-plant-graphics-png-for-landscape-design/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/top-view-plants-01-cutout-plan-view-plant-graphics-png-for-landscape-design/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593596/adminstore

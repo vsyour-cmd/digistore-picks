@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://reading.callofdestiny.org#aff=adminstore
+- **Promo link (affiliate):** http://reading.callofdestiny.org?aff=adminstore#aff=adminstore
 - Sales page: http://reading.callofdestiny.org
 - Vendor affiliate support: https://callofdestiny.org/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/370248/adminstore

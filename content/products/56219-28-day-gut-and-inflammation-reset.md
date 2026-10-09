@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-1#aff=adminstore
+- **Promo link (affiliate):** https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-1?aff=adminstore#aff=adminstore
 - Sales page: https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-1
 - Vendor affiliate support: https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/681798/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://milyoner.de/#aff=adminstore
+- **Promo link (affiliate):** https://milyoner.de/?aff=adminstore#aff=adminstore
 - Sales page: https://milyoner.de/
 - Canonical redirect: https://www.digistore24.com/redir/176307/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637573#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637573?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/637573
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/30-day-creative-challenge-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/637573/adminstore

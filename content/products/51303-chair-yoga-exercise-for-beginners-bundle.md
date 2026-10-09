@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/595485#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/595485?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/595485
 - Vendor affiliate support: https://greenbubz.com.au/chair-yoga-affiliate-program-support-page-for-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/595485/adminstore

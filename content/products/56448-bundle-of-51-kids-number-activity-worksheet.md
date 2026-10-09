@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/project/kids_number#aff=adminstore
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/project/kids_number?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/project/kids_number
 - Canonical redirect: https://www.digistore24.com/redir/558168/adminstore
 

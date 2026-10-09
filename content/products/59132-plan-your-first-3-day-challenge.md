@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/plan-your-first-3-day-challenge/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/plan-your-first-3-day-challenge/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/plan-your-first-3-day-challenge/
 - Vendor affiliate support: https://www.majkic.net/novosti/zivot-i-stil/1515-how-to-promote-your-first-3-day-challenge-as-a-digistore24-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/731793/adminstore

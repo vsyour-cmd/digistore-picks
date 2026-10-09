@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/619826/adminstore

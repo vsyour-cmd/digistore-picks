@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://glucoally.org/#aff=adminstore
+- **Promo link (affiliate):** https://glucoally.org/?aff=adminstore#aff=adminstore
 - Sales page: https://glucoally.org/
 - Vendor affiliate support: https://glucoally.org/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/576400/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636026#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/636026?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/636026
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/dumbbell-routines-for-beginners-and.html
 - Canonical redirect: https://www.digistore24.com/redir/636026/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/notary-hub#aff=adminstore
+- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/notary-hub?aff=adminstore#aff=adminstore
 - Sales page: https://berryoperatingsystems.my.canva.site/notary-hub
 - Canonical redirect: https://www.digistore24.com/redir/733871/adminstore
 

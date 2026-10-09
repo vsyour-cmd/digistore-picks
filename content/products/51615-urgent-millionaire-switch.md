@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://urgentmillionaire.com/vsl/index_ds24.php#aff=adminstore
+- **Promo link (affiliate):** https://urgentmillionaire.com/vsl/index_ds24.php?aff=adminstore#aff=adminstore
 - Sales page: https://urgentmillionaire.com/vsl/index_ds24.php
 - Vendor affiliate support: https://urgentmillionaire.com/ds24/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/598224/adminstore

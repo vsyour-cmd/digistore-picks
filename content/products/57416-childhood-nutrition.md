@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/Childhood-Nutrition/Sales-page.html#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/Childhood-Nutrition/Sales-page.html?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/Childhood-Nutrition/Sales-page.html
 - Vendor affiliate support: https://oraclefx.org/Childhood-Nutrition/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/708472/adminstore

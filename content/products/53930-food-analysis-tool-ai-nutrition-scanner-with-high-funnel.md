@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://foodanalysistool.com/pitch?network=digistore24#aff=adminstore
+- **Promo link (affiliate):** https://foodanalysistool.com/pitch?network=digistore24&aff=adminstore#aff=adminstore
 - Sales page: https://foodanalysistool.com/pitch?network=digistore24
 - Vendor affiliate support: https://www.healthhealing.net/fat-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/632164/adminstore

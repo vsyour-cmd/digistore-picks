@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.learn-german-smarter.com/german-grammar-worksheets/#aff=adminstore
+- **Promo link (affiliate):** https://www.learn-german-smarter.com/german-grammar-worksheets/?aff=adminstore#aff=adminstore
 - Sales page: https://www.learn-german-smarter.com/german-grammar-worksheets/
 - Canonical redirect: https://www.digistore24.com/redir/19087/adminstore
 

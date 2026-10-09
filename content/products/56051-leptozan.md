@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.leptozan.com/ds/#aff=adminstore
+- **Promo link (affiliate):** https://www.leptozan.com/ds/?aff=adminstore#aff=adminstore
 - Sales page: https://www.leptozan.com/ds/
 - Vendor affiliate support: https://leptozan.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/644649/adminstore

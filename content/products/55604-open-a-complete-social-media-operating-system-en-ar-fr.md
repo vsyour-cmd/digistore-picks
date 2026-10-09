@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nexora-boost.xyz/social%20media/dist/#aff=adminstore
+- **Promo link (affiliate):** https://nexora-boost.xyz/social%20media/dist/?aff=adminstore#aff=adminstore
 - Sales page: https://nexora-boost.xyz/social%20media/dist/
 - Vendor affiliate support: https://nexora-boost.xyz/social%20media/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/665621/adminstore

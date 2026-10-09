@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digi.homesteadingbook.com/#aff=adminstore
+- **Promo link (affiliate):** https://digi.homesteadingbook.com/?aff=adminstore#aff=adminstore
 - Sales page: https://digi.homesteadingbook.com/
 - Vendor affiliate support: https://digi.homesteadingbook.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/516929/adminstore

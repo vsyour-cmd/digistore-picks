@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heworshipsyou.com#aff=adminstore
+- **Promo link (affiliate):** https://heworshipsyou.com?aff=adminstore#aff=adminstore
 - Sales page: https://heworshipsyou.com
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/make-him-worship-you
 - Canonical redirect: https://www.digistore24.com/redir/275723/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kevinmanke.com/imagination-english/#aff=adminstore
+- **Promo link (affiliate):** https://kevinmanke.com/imagination-english/?aff=adminstore#aff=adminstore
 - Sales page: https://kevinmanke.com/imagination-english/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/642249/adminstore

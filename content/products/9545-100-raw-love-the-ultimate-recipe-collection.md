@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/#aff=adminstore
+- **Promo link (affiliate):** https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/?aff=adminstore#aff=adminstore
 - Sales page: https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/
 - Canonical redirect: https://www.digistore24.com/redir/42173/adminstore
 

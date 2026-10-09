@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://griefmeaningpurpose-r3k.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://griefmeaningpurpose-r3k.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://griefmeaningpurpose-r3k.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/736738/adminstore
 

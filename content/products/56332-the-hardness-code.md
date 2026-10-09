@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.thehardnesscode.com/pv-code#aff=adminstore
+- **Promo link (affiliate):** https://www.thehardnesscode.com/pv-code?aff=adminstore#aff=adminstore
 - Sales page: https://www.thehardnesscode.com/pv-code
 - Vendor affiliate support: https://www.thehardnesscode.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/679799/adminstore

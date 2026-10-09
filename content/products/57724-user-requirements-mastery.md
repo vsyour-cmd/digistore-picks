@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/user-requirements-masterclass/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/user-requirements-masterclass/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/user-requirements-masterclass/
 - Canonical redirect: https://www.digistore24.com/redir/565409/adminstore
 

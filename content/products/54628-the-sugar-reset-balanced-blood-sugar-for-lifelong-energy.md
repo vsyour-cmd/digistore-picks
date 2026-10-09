@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sugarresetpage.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://sugarresetpage.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://sugarresetpage.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/646770/adminstore
 

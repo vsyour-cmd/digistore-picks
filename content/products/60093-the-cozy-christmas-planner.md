@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thecozychristmasplanner-3rh.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://thecozychristmasplanner-3rh.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thecozychristmasplanner-3rh.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/739892/adminstore
 

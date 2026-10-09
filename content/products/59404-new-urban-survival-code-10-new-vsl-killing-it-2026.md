@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://puredaily-health.com/urban-survival-code#aff=adminstore
+- **Promo link (affiliate):** http://puredaily-health.com/urban-survival-code?aff=adminstore#aff=adminstore
 - Sales page: http://puredaily-health.com/urban-survival-code
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5844463/en
 - Canonical redirect: https://www.digistore24.com/redir/735109/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637563#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637563?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/637563
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-confident-freelancer-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/637563/adminstore

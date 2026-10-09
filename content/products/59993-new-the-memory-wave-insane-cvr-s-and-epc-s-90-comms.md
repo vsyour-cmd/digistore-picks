@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://puredaily-health.com/better-memory#aff=adminstore
+- **Promo link (affiliate):** http://puredaily-health.com/better-memory?aff=adminstore#aff=adminstore
 - Sales page: http://puredaily-health.com/better-memory
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/738157/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialmistakes.com/newtechnique#aff=adminstore
+- **Promo link (affiliate):** https://socialmistakes.com/newtechnique?aff=adminstore#aff=adminstore
 - Sales page: https://socialmistakes.com/newtechnique
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/unlock-the-scrambler
 - Canonical redirect: https://www.digistore24.com/redir/428168/adminstore

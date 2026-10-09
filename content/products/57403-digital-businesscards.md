@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://cards.digital-railways.com#aff=adminstore
+- **Promo link (affiliate):** http://cards.digital-railways.com?aff=adminstore#aff=adminstore
 - Sales page: http://cards.digital-railways.com
 - Canonical redirect: https://www.digistore24.com/redir/708499/adminstore
 

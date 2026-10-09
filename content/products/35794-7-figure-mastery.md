@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://legacy.groovepages.com/7-figure-mastery/index#aff=adminstore
+- **Promo link (affiliate):** https://legacy.groovepages.com/7-figure-mastery/index?aff=adminstore#aff=adminstore
 - Sales page: https://legacy.groovepages.com/7-figure-mastery/index
 - Canonical redirect: https://www.digistore24.com/redir/373677/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724875#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724875?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/724875
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/garden-planner-and-logbook-printable.html
 - Canonical redirect: https://www.digistore24.com/redir/724875/adminstore

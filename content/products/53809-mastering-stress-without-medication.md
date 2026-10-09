@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633482#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633482?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633482
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/mastering-stress-without-medication.html
 - Canonical redirect: https://www.digistore24.com/redir/633482/adminstore

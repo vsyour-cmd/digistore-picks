@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thefooddetectivestarterkit-l0g.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://thefooddetectivestarterkit-l0g.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thefooddetectivestarterkit-l0g.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/716360/adminstore
 

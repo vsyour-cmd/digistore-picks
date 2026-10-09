@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mannaflux.com/ds/go/indexvs.php#aff=adminstore
+- **Promo link (affiliate):** https://mannaflux.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore
 - Sales page: https://mannaflux.com/ds/go/indexvs.php
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/mannaflux
 - Canonical redirect: https://www.digistore24.com/redir/576802/adminstore

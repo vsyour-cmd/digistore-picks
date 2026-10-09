@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633818#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633818?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633818
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/how-to-practice-coding-everyday-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/633818/adminstore

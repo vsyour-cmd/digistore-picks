@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://writelytic.com/#aff=adminstore
+- **Promo link (affiliate):** https://writelytic.com/?aff=adminstore#aff=adminstore
 - Sales page: https://writelytic.com/
 - Vendor affiliate support: https://dg24affiliates.writelytic.com/
 - Canonical redirect: https://www.digistore24.com/redir/497626/adminstore

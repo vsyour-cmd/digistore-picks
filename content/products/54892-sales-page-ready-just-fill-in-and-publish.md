@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/650825#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/650825?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/650825
 - Vendor affiliate support: https://poetic-sfogliatella-c83535.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/650825/adminstore

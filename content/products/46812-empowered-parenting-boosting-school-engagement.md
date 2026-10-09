@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://togetr4success.thinkific.com/bundles/togetr4success#aff=adminstore
+- **Promo link (affiliate):** https://togetr4success.thinkific.com/bundles/togetr4success?aff=adminstore#aff=adminstore
 - Sales page: https://togetr4success.thinkific.com/bundles/togetr4success
 - Vendor affiliate support: https://togetr4success.thinkific.com/courses/10-week-challenge-workshop-course
 - Canonical redirect: https://www.digistore24.com/redir/530683/adminstore

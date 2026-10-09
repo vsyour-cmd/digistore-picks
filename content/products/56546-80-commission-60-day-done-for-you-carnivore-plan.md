@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://healthhealing.net/carnivore-diet/aff#aff=adminstore
+- **Promo link (affiliate):** https://healthhealing.net/carnivore-diet/aff?aff=adminstore#aff=adminstore
 - Sales page: https://healthhealing.net/carnivore-diet/aff
 - Vendor affiliate support: https://healthhealing.net/carnivore-diet/aff/links.html
 - Canonical redirect: https://www.digistore24.com/redir/693519/adminstore

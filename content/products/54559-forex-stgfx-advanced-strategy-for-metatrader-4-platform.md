@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-stgfx-advanced-strategy-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-stgfx-advanced-strategy-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-stgfx-advanced-strategy-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/stgfx-affliates/
 - Canonical redirect: https://www.digistore24.com/redir/646158/adminstore

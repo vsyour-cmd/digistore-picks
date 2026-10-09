@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://javascriptcourses-q4g.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://javascriptcourses-q4g.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://javascriptcourses-q4g.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/711969/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-master-the-4-basic-operations/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-master-the-4-basic-operations/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-master-the-4-basic-operations/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-master-the-4-basic-operations-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/652629/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/#aff=adminstore
+- **Promo link (affiliate):** https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/?aff=adminstore#aff=adminstore
 - Sales page: https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/
 - Vendor affiliate support: https://www.your-creatory.com/affiliate-program-serger-sewing-course/
 - Canonical redirect: https://www.digistore24.com/redir/561361/adminstore

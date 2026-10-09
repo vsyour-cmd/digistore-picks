@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/courses/candlesticks-anatomy-and-patterns/#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/courses/candlesticks-anatomy-and-patterns/?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/candlesticks-anatomy-and-patterns/
 - Canonical redirect: https://www.digistore24.com/redir/693496/adminstore
 

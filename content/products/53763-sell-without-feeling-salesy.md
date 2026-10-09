@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633283#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633283?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633283
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/how-to-sell-without-feeling-salesy-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/633283/adminstore

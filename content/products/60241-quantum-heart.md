@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getquantumheart.com/#aff=adminstore
+- **Promo link (affiliate):** https://getquantumheart.com/?aff=adminstore#aff=adminstore
 - Sales page: https://getquantumheart.com/
 - Vendor affiliate support: https://getquantumheart.com/affiliates/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/740076/adminstore

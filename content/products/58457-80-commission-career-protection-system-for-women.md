@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.publishmint.site/funnels/perimenopause/career/#aff=adminstore
+- **Promo link (affiliate):** https://www.publishmint.site/funnels/perimenopause/career/?aff=adminstore#aff=adminstore
 - Sales page: https://www.publishmint.site/funnels/perimenopause/career/
 - Vendor affiliate support: https://www.publishmint.site/funnels/perimenopause/jv-page
 - Canonical redirect: https://www.digistore24.com/redir/717596/adminstore

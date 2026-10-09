@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://peptonic-m3k.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://peptonic-m3k.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://peptonic-m3k.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/716731/adminstore
 

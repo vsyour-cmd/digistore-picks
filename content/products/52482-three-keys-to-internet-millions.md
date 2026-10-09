@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.trudeautraining.com/threekeys2v3?new_run=true#aff=adminstore
+- **Promo link (affiliate):** https://www.trudeautraining.com/threekeys2v3?new_run=true&aff=adminstore#aff=adminstore
 - Sales page: https://www.trudeautraining.com/threekeys2v3?new_run=true
 - Vendor affiliate support: https://www.trudeautraining.com/digistore-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/610042/adminstore

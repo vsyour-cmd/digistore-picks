@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aquamarine-torte-2985d3.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://aquamarine-torte-2985d3.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://aquamarine-torte-2985d3.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/735350/adminstore
 

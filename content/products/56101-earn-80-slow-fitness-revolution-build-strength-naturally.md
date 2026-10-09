@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pages.fitlifesolutions.site/sales/?id=680238#aff=adminstore
+- **Promo link (affiliate):** https://pages.fitlifesolutions.site/sales/?id=680238&aff=adminstore#aff=adminstore
 - Sales page: https://pages.fitlifesolutions.site/sales/?id=680238
 - Canonical redirect: https://www.digistore24.com/redir/680238/adminstore
 

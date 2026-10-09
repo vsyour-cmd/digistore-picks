@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fastbrainbooster.com/index_24/#aff=adminstore
+- **Promo link (affiliate):** https://fastbrainbooster.com/index_24/?aff=adminstore#aff=adminstore
 - Sales page: https://fastbrainbooster.com/index_24/
 - Vendor affiliate support: https://fastbrainbooster.com/affiliate_24/
 - Canonical redirect: https://www.digistore24.com/redir/493435/adminstore

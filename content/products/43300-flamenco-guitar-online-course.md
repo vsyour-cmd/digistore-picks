@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.guitarschool24.com/flamenco-guitar-method#aff=adminstore
+- **Promo link (affiliate):** https://www.guitarschool24.com/flamenco-guitar-method?aff=adminstore#aff=adminstore
 - Sales page: https://www.guitarschool24.com/flamenco-guitar-method
 - Canonical redirect: https://www.digistore24.com/redir/470989/adminstore
 

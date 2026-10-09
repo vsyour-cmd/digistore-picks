@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://midasmanifestation.com/presentation2/#aff=adminstore
+- **Promo link (affiliate):** https://midasmanifestation.com/presentation2/?aff=adminstore#aff=adminstore
 - Sales page: https://midasmanifestation.com/presentation2/
 - Vendor affiliate support: https://midasmanifestation.com/affiliatesdigi/
 - Canonical redirect: https://www.digistore24.com/redir/439776/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://seroburn.com/d/#aff=adminstore
+- **Promo link (affiliate):** https://seroburn.com/d/?aff=adminstore#aff=adminstore
 - Sales page: https://seroburn.com/d/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/seroburn
 - Canonical redirect: https://www.digistore24.com/redir/586221/adminstore

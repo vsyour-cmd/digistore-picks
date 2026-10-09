@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/646525#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/646525?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/646525
 - Vendor affiliate support: https://themillionaireblueprint.great-site.net/?i=1
 - Canonical redirect: https://www.digistore24.com/redir/646525/adminstore

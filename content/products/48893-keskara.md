@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://keskara.online/dtc/#aff=adminstore
+- **Promo link (affiliate):** https://keskara.online/dtc/?aff=adminstore#aff=adminstore
 - Sales page: https://keskara.online/dtc/
 - Vendor affiliate support: https://keskara.online/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/544733/adminstore

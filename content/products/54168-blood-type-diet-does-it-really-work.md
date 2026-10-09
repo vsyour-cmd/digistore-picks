@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637569#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637569?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/637569
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/the-blood-type-diet-does-it-really-work.html
 - Canonical redirect: https://www.digistore24.com/redir/637569/adminstore

@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/716359/adminstore
 

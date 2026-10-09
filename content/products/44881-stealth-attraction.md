@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getherwetwithwords.com/videobc2/video-bc2/v02.php#aff=adminstore
+- **Promo link (affiliate):** https://getherwetwithwords.com/videobc2/video-bc2/v02.php?aff=adminstore#aff=adminstore
 - Sales page: https://getherwetwithwords.com/videobc2/video-bc2/v02.php
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/stealth-attraction
 - Canonical redirect: https://www.digistore24.com/redir/496234/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.mypocketfarm.com/pf/vsl/index.php#aff=adminstore
+- **Promo link (affiliate):** https://www.mypocketfarm.com/pf/vsl/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.mypocketfarm.com/pf/vsl/index.php
 - Vendor affiliate support: https://www.backyardliberty.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/463884/adminstore

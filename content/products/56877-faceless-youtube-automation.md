@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.offerlaunchpad.site/faceless-youtube-automation#aff=adminstore
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/faceless-youtube-automation?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/faceless-youtube-automation
 - Vendor affiliate support: https://www.offerlaunchpad.site/faceless-youtube-automation-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/700751/adminstore

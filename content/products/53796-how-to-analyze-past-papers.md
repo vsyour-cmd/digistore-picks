@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633496#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633496?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633496
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/how-to-analyze-past-papers-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/633496/adminstore

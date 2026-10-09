@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://astralhq.com/ds-genius-brain-signal/#aff=adminstore
+- **Promo link (affiliate):** https://astralhq.com/ds-genius-brain-signal/?aff=adminstore#aff=adminstore
 - Sales page: https://astralhq.com/ds-genius-brain-signal/
 - Vendor affiliate support: https://astralhq.com/ds-gbs-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/653447/adminstore

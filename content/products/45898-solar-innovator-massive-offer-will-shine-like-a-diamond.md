@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html#aff=adminstore
+- **Promo link (affiliate):** https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html?aff=adminstore#aff=adminstore
 - Sales page: https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html
 - Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/507221/adminstore

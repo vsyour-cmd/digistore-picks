@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thefrugalkitchen-tw2.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://thefrugalkitchen-tw2.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thefrugalkitchen-tw2.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/732973/adminstore
 

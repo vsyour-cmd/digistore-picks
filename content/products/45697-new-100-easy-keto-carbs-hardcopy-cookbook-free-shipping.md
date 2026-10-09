@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php#aff=adminstore
+- **Promo link (affiliate):** https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php
 - Vendor affiliate support: https://www.primehealthsource.com/affiliates-ds.php
 - Canonical redirect: https://www.digistore24.com/redir/449971/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://myrankflow.com/ds#aff=adminstore
+- **Promo link (affiliate):** https://myrankflow.com/ds?aff=adminstore#aff=adminstore
 - Sales page: https://myrankflow.com/ds
 - Vendor affiliate support: https://myrankflow.com/ds-affiliates?aff=[AFFILIATE]
 - Canonical redirect: https://www.digistore24.com/redir/725875/adminstore

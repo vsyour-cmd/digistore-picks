@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-master-the-universal-tax-formula/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-master-the-universal-tax-formula/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-master-the-universal-tax-formula/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-master-the-universal-tax-formula-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/654760/adminstore

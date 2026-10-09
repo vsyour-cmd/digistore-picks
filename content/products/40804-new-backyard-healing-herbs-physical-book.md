@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.healingbackyard.net/index.php#aff=adminstore
+- **Promo link (affiliate):** https://www.healingbackyard.net/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.healingbackyard.net/index.php
 - Vendor affiliate support: https://www.healingbackyard.net/affiliates/index.php
 - Canonical redirect: https://www.digistore24.com/redir/454227/adminstore

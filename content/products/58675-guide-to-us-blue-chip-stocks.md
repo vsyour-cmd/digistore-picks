@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://bluewaveg.shop#aff=adminstore
+- **Promo link (affiliate):** https://bluewaveg.shop?aff=adminstore#aff=adminstore
 - Sales page: https://bluewaveg.shop
 - Canonical redirect: https://www.digistore24.com/redir/726234/adminstore
 

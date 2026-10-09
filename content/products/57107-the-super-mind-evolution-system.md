@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://advancedlivingstrategies.com/#aff=adminstore
+- **Promo link (affiliate):** https://advancedlivingstrategies.com/?aff=adminstore#aff=adminstore
 - Sales page: https://advancedlivingstrategies.com/
 - Vendor affiliate support: https://advancedlivingstrategies.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/690000/adminstore

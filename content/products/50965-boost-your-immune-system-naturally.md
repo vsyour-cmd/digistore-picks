@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://prohealthly.com/immunity-booster/#aff=adminstore
+- **Promo link (affiliate):** https://prohealthly.com/immunity-booster/?aff=adminstore#aff=adminstore
 - Sales page: https://prohealthly.com/immunity-booster/
 - Vendor affiliate support: https://prohealthly.com/commonpage.html
 - Canonical redirect: https://www.digistore24.com/redir/589747/adminstore

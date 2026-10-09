@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633816#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633816?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633816
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/study-timetable-templates-that-actually.html
 - Canonical redirect: https://www.digistore24.com/redir/633816/adminstore

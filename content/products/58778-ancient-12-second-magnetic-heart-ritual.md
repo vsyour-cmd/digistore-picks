@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ancient12sheart-1pp.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://ancient12sheart-1pp.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://ancient12sheart-1pp.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/727720/adminstore
 

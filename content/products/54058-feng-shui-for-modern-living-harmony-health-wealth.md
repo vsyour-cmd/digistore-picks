@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635891#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635891?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635891
 - Vendor affiliate support: https://blossom-smash-236.notion.site/Feng-Shui-for-Modern-Living-Affiliate-Support-Page-2710ae6f539f8042a9e8eeeea810ea8d
 - Canonical redirect: https://www.digistore24.com/redir/635891/adminstore

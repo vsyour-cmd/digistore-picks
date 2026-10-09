@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.healthvoice.life/sale.html#aff=adminstore
+- **Promo link (affiliate):** https://www.healthvoice.life/sale.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.healthvoice.life/sale.html
 - Canonical redirect: https://www.digistore24.com/redir/646350/adminstore
 

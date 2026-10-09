@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.thewegoslim.com/#aff=adminstore
+- **Promo link (affiliate):** http://www.thewegoslim.com/?aff=adminstore#aff=adminstore
 - Sales page: http://www.thewegoslim.com/
 - Vendor affiliate support: https://www.thewegoslim.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/696723/adminstore

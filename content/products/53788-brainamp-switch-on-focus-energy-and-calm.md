@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm#aff=adminstore
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/brainamp-32
 - Canonical redirect: https://www.digistore24.com/redir/630380/adminstore

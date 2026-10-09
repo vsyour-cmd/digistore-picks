@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/journal-voice/sale#aff=adminstore
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/journal-voice/sale?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/journal-voice/sale
 - Canonical redirect: https://www.digistore24.com/redir/688501/adminstore
 

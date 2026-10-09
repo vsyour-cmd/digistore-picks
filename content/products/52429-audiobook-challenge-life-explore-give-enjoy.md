@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.kharabanda.com/digi_audiobook_funnel#aff=adminstore
+- **Promo link (affiliate):** https://www.kharabanda.com/digi_audiobook_funnel?aff=adminstore#aff=adminstore
 - Sales page: https://www.kharabanda.com/digi_audiobook_funnel
 - Vendor affiliate support: https://www.kharabanda.com/ads-audiobook
 - Canonical redirect: https://www.digistore24.com/redir/609597/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digistore.harmoniabybeatrix.com/#aff=adminstore
+- **Promo link (affiliate):** https://digistore.harmoniabybeatrix.com/?aff=adminstore#aff=adminstore
 - Sales page: https://digistore.harmoniabybeatrix.com/
 - Vendor affiliate support: https://harmonia-affiliate2.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/689253/adminstore

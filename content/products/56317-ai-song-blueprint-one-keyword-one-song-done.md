@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://domke24.com/ai-song-blueprint/#aff=adminstore
+- **Promo link (affiliate):** https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore
 - Sales page: https://domke24.com/ai-song-blueprint/
 - Vendor affiliate support: https://domke24.com/affiliates-ai-song-blueprint.html
 - Canonical redirect: https://www.digistore24.com/redir/683970/adminstore

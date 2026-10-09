@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ringquietplus.com/vsl-478323#aff=adminstore
+- **Promo link (affiliate):** https://www.ringquietplus.com/vsl-478323?aff=adminstore#aff=adminstore
 - Sales page: https://www.ringquietplus.com/vsl-478323
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/try-ring-quiet-plus
 - Canonical redirect: https://www.digistore24.com/redir/595450/adminstore

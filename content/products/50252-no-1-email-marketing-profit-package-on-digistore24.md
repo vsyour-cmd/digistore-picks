@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/the-email-marketing-fundamentals#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/the-email-marketing-fundamentals?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/the-email-marketing-fundamentals
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/577442/adminstore

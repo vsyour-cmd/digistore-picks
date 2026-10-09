@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/alpha-pip-pro-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646608/adminstore

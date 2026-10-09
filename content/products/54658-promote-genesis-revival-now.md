@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://genesisrevival.com/ds/go/indexvs.php#aff=adminstore
+- **Promo link (affiliate):** https://genesisrevival.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore
 - Sales page: https://genesisrevival.com/ds/go/indexvs.php
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/genesis-revival
 - Canonical redirect: https://www.digistore24.com/redir/647913/adminstore

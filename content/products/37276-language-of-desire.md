@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://desirelanguage.com/#aff=adminstore
+- **Promo link (affiliate):** https://desirelanguage.com/?aff=adminstore#aff=adminstore
 - Sales page: https://desirelanguage.com/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/language-of-desire
 - Canonical redirect: https://www.digistore24.com/redir/391642/adminstore

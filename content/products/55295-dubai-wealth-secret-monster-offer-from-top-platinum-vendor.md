@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.dubaiwealthsecret.com/ds-dws-vsl#aff=adminstore
+- **Promo link (affiliate):** https://www.dubaiwealthsecret.com/ds-dws-vsl?aff=adminstore#aff=adminstore
 - Sales page: https://www.dubaiwealthsecret.com/ds-dws-vsl
 - Vendor affiliate support: https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24
 - Canonical redirect: https://www.digistore24.com/redir/662877/adminstore

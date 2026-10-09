@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thegoodboyguide.com/#aff=adminstore
+- **Promo link (affiliate):** https://thegoodboyguide.com/?aff=adminstore#aff=adminstore
 - Sales page: https://thegoodboyguide.com/
 - Vendor affiliate support: https://thegoodboyguide.com/digistore24-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/714780/adminstore

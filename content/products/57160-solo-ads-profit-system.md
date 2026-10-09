@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.offerlaunchpad.site/solo-ads-profit-system#aff=adminstore
+- **Promo link (affiliate):** http://www.offerlaunchpad.site/solo-ads-profit-system?aff=adminstore#aff=adminstore
 - Sales page: http://www.offerlaunchpad.site/solo-ads-profit-system
 - Vendor affiliate support: https://www.offerlaunchpad.site/solo-ads-profit-system-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/706668/adminstore

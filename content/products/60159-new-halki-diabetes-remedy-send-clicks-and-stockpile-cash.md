@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://primemark-health.com/diabetes-free#aff=adminstore
+- **Promo link (affiliate):** https://primemark-health.com/diabetes-free?aff=adminstore#aff=adminstore
 - Sales page: https://primemark-health.com/diabetes-free
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/727541/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://full-wisdom.com/courses/modern-relationships-for-women/digistore24#aff=adminstore
+- **Promo link (affiliate):** https://full-wisdom.com/courses/modern-relationships-for-women/digistore24?aff=adminstore#aff=adminstore
 - Sales page: https://full-wisdom.com/courses/modern-relationships-for-women/digistore24
 - Vendor affiliate support: https://full-wisdom.com/affiliates/modern-relationships-for-women/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/710881/adminstore

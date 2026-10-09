@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/teach-forward/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/teach-forward/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/teach-forward/
 - Vendor affiliate support: https://www.majkic.net/novosti/zivot-i-stil/1514-become-a-teach-forward-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/546789/adminstore

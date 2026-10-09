@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://methodams.com/#aff=adminstore
+- **Promo link (affiliate):** https://methodams.com/?aff=adminstore#aff=adminstore
 - Sales page: https://methodams.com/
 - Canonical redirect: https://www.digistore24.com/redir/726475/adminstore
 

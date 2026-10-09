@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getthyrafemme.cc/dtc/#aff=adminstore
+- **Promo link (affiliate):** https://getthyrafemme.cc/dtc/?aff=adminstore#aff=adminstore
 - Sales page: https://getthyrafemme.cc/dtc/
 - Vendor affiliate support: https://getthyrafemme.cc/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/637145/adminstore

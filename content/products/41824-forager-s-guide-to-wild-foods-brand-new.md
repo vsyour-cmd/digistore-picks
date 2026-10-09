@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://foragersguide.com/nws-book/#aff=adminstore
+- **Promo link (affiliate):** https://foragersguide.com/nws-book/?aff=adminstore#aff=adminstore
 - Sales page: https://foragersguide.com/nws-book/
 - Vendor affiliate support: https://foragersguide.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/391226/adminstore

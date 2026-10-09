@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://uxuicourses-fe0.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://uxuicourses-fe0.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://uxuicourses-fe0.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/714709/adminstore
 

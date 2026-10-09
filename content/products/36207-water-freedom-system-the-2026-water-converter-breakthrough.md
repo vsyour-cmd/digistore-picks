@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getwaterfreedomsystem.com/index-auto-vturb-cinematic-pbs-lead-2.html#aff=adminstore
+- **Promo link (affiliate):** https://getwaterfreedomsystem.com/index-auto-vturb-cinematic-pbs-lead-2.html?aff=adminstore#aff=adminstore
 - Sales page: https://getwaterfreedomsystem.com/index-auto-vturb-cinematic-pbs-lead-2.html
 - Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/569324/adminstore

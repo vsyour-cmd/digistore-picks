@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633264#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633264?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633264
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/day-of-exam-focus-calm-perform-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/633264/adminstore

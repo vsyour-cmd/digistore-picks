@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://weightlosssoft.com/ds.html#aff=adminstore
+- **Promo link (affiliate):** https://weightlosssoft.com/ds.html?aff=adminstore#aff=adminstore
 - Sales page: https://weightlosssoft.com/ds.html
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/weight-loss-20
 - Canonical redirect: https://www.digistore24.com/redir/629054/adminstore

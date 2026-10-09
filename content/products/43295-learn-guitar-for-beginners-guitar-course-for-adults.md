@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.guitarschool24.com/learn-guitar-for-beginners/#aff=adminstore
+- **Promo link (affiliate):** https://www.guitarschool24.com/learn-guitar-for-beginners/?aff=adminstore#aff=adminstore
 - Sales page: https://www.guitarschool24.com/learn-guitar-for-beginners/
 - Canonical redirect: https://www.digistore24.com/redir/487519/adminstore
 

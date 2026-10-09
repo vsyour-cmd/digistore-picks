@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/social-marketing-school#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/social-marketing-school?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/social-marketing-school
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/577507/adminstore

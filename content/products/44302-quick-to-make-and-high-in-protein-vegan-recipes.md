@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialartiste7.systeme.io/30veganrecipe#aff=adminstore
+- **Promo link (affiliate):** https://socialartiste7.systeme.io/30veganrecipe?aff=adminstore#aff=adminstore
 - Sales page: https://socialartiste7.systeme.io/30veganrecipe
 - Vendor affiliate support: https://socialartiste7.systeme.io/affiliate_support
 - Canonical redirect: https://www.digistore24.com/redir/499722/adminstore

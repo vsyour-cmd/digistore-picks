@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shamespiraltoselfworth-1ja.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://shamespiraltoselfworth-1ja.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://shamespiraltoselfworth-1ja.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/735768/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://survivalkit.maga123.com#aff=adminstore
+- **Promo link (affiliate):** http://survivalkit.maga123.com?aff=adminstore#aff=adminstore
 - Sales page: http://survivalkit.maga123.com
 - Vendor affiliate support: https://market.maga123.com
 - Canonical redirect: https://www.digistore24.com/redir/601972/adminstore

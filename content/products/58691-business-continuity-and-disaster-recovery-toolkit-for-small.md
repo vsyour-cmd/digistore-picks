@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marketplace.iotsystemsgrowth.com/business-continuity-disaster-recovery-toolkit-digistore/#aff=adminstore
+- **Promo link (affiliate):** https://marketplace.iotsystemsgrowth.com/business-continuity-disaster-recovery-toolkit-digistore/?aff=adminstore#aff=adminstore
 - Sales page: https://marketplace.iotsystemsgrowth.com/business-continuity-disaster-recovery-toolkit-digistore/
 - Canonical redirect: https://www.digistore24.com/redir/724592/adminstore
 

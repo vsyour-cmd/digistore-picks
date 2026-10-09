@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fitebook.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://fitebook.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://fitebook.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/650092/adminstore
 

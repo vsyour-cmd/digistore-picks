@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://yourxprofits.com/index1.html#aff=adminstore
+- **Promo link (affiliate):** https://yourxprofits.com/index1.html?aff=adminstore#aff=adminstore
 - Sales page: https://yourxprofits.com/index1.html
 - Vendor affiliate support: https://yourxprofits.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/531919/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://healthyheartsolution.com/ptn/digi/1#aff=adminstore
+- **Promo link (affiliate):** http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore
 - Sales page: http://healthyheartsolution.com/ptn/digi/1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/healthy-heart-solution-kit
 - Canonical redirect: https://www.digistore24.com/redir/464233/adminstore

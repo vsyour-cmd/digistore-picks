@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://quantumbrainprotocol.com/ds24/Tsl#aff=adminstore
+- **Promo link (affiliate):** https://quantumbrainprotocol.com/ds24/Tsl?aff=adminstore#aff=adminstore
 - Sales page: https://quantumbrainprotocol.com/ds24/Tsl
 - Vendor affiliate support: https://quantumbrainprotocol.com/ds24/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/681275/adminstore

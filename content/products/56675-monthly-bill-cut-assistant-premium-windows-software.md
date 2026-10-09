@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nexilolab.com/usa/#aff=adminstore
+- **Promo link (affiliate):** https://nexilolab.com/usa/?aff=adminstore#aff=adminstore
 - Sales page: https://nexilolab.com/usa/
 - Canonical redirect: https://www.digistore24.com/redir/690415/adminstore
 

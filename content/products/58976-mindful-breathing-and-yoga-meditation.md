@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mindfulbreathingyoga-qc2.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://mindfulbreathingyoga-qc2.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://mindfulbreathingyoga-qc2.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/730658/adminstore
 

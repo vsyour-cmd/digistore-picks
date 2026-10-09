@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://platoniscave-p3j.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://platoniscave-p3j.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://platoniscave-p3j.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/735583/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://testtest-t2s.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://testtest-t2s.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://testtest-t2s.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/728381/adminstore
 

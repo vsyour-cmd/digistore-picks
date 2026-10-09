@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0#aff=adminstore
+- **Promo link (affiliate):** https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0&aff=adminstore#aff=adminstore
 - Sales page: https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/celluhair
 - Canonical redirect: https://www.digistore24.com/redir/600196/adminstore

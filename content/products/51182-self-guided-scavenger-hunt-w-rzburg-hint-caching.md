@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.hint-caching.com/scavenger-hunt-wuerzburg/#aff=adminstore
+- **Promo link (affiliate):** https://www.hint-caching.com/scavenger-hunt-wuerzburg/?aff=adminstore#aff=adminstore
 - Sales page: https://www.hint-caching.com/scavenger-hunt-wuerzburg/
 - Vendor affiliate support: https://www.hint-caching.com/affiliate-program/
 - Canonical redirect: https://www.digistore24.com/redir/555846/adminstore

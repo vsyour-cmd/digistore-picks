@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://courses.skapago.eu/lp/norskproven/#aff=adminstore
+- **Promo link (affiliate):** https://courses.skapago.eu/lp/norskproven/?aff=adminstore#aff=adminstore
 - Sales page: https://courses.skapago.eu/lp/norskproven/
 - Canonical redirect: https://www.digistore24.com/redir/530046/adminstore
 

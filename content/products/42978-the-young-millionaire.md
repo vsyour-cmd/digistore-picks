@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/488392#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/488392?aff=adminstore
 - Sales page: https://www.digistore24.com/product/488392
 - Vendor affiliate support: https://sites.google.com/view/young-millionaire-db/home
 - Canonical redirect: https://www.digistore24.com/redir/488392/adminstore

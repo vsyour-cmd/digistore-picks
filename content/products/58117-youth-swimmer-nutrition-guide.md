@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://brilliant-platypus-7e2007.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://brilliant-platypus-7e2007.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://brilliant-platypus-7e2007.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/715772/adminstore
 

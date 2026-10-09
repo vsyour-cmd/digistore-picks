@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control#aff=adminstore
+- **Promo link (affiliate):** https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control&aff=adminstore#aff=adminstore
 - Sales page: https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control
 - Vendor affiliate support: https://www.claudiacaldwell.com/affiliates-keto
 - Canonical redirect: https://www.digistore24.com/redir/283755/adminstore

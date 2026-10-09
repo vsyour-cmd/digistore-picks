@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://onlinebiblestudy-7ax.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://onlinebiblestudy-7ax.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://onlinebiblestudy-7ax.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/718512/adminstore
 

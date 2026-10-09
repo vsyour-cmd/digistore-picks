@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/5-minute-garden#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/5-minute-garden?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/5-minute-garden
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/5-minute-garden-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/634598/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/how-to-generate-100000-dollars-in-a-year#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/how-to-generate-100000-dollars-in-a-year?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/how-to-generate-100000-dollars-in-a-year
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/579518/adminstore

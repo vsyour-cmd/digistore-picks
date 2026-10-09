@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.fromzerotocommission.site/dfy-vendor#aff=adminstore
+- **Promo link (affiliate):** https://www.fromzerotocommission.site/dfy-vendor?aff=adminstore#aff=adminstore
 - Sales page: https://www.fromzerotocommission.site/dfy-vendor
 - Vendor affiliate support: https://www.fromzerotocommission.site/dfy-vendor-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/696321/adminstore

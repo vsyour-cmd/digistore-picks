@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.aiprofitsniper.com/dindex1.html#aff=adminstore
+- **Promo link (affiliate):** https://www.aiprofitsniper.com/dindex1.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.aiprofitsniper.com/dindex1.html
 - Vendor affiliate support: https://www.aiprofitsniper.com/daffiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/610341/adminstore

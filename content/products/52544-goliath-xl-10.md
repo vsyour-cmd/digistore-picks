@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getgoliathxl10.com/read#aff=adminstore
+- **Promo link (affiliate):** https://getgoliathxl10.com/read?aff=adminstore#aff=adminstore
 - Sales page: https://getgoliathxl10.com/read
 - Vendor affiliate support: https://getgoliathxl10.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/592274/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/tiktok-ad-strategy-accelerator/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/tiktok-ad-strategy-accelerator/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/tiktok-ad-strategy-accelerator/
 - Vendor affiliate support: https://www.noa.rs.ba/affiliate-hub-for-tiktok-ad-strategy-accelerator.html
 - Canonical redirect: https://www.digistore24.com/redir/626995/adminstore

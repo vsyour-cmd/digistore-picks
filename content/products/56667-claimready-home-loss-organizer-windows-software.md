@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nexilolab.com/usa/claimready-home-loss-organizer/#aff=adminstore
+- **Promo link (affiliate):** https://nexilolab.com/usa/claimready-home-loss-organizer/?aff=adminstore#aff=adminstore
 - Sales page: https://nexilolab.com/usa/claimready-home-loss-organizer/
 - Canonical redirect: https://www.digistore24.com/redir/690896/adminstore
 

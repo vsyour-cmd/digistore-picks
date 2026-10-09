@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digitalproductplan-j3y.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://digitalproductplan-j3y.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://digitalproductplan-j3y.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/727951/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fontilo.com/en/plus#aff=adminstore
+- **Promo link (affiliate):** https://fontilo.com/en/plus?aff=adminstore#aff=adminstore
 - Sales page: https://fontilo.com/en/plus
 - Canonical redirect: https://www.digistore24.com/redir/359713/adminstore
 

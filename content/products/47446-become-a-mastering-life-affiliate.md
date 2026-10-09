@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/542547#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/542547?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/542547
 - Vendor affiliate support: https://www.myfaith101.com/earn-easy-cash/
 - Canonical redirect: https://www.digistore24.com/redir/542547/adminstore

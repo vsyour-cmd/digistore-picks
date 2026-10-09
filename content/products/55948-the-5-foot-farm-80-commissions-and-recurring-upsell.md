@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cf.5footfarm.com/vsl-v1-live-h3jk4-e4f19-fp-nv#aff=adminstore
+- **Promo link (affiliate):** https://cf.5footfarm.com/vsl-v1-live-h3jk4-e4f19-fp-nv?aff=adminstore#aff=adminstore
 - Sales page: https://cf.5footfarm.com/vsl-v1-live-h3jk4-e4f19-fp-nv
 - Vendor affiliate support: https://cf.5footfarm.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/584032/adminstore

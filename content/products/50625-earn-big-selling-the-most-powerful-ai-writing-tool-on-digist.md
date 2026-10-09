@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://app.codexleo.ai#aff=adminstore
+- **Promo link (affiliate):** https://app.codexleo.ai?aff=adminstore#aff=adminstore
 - Sales page: https://app.codexleo.ai
 - Vendor affiliate support: https://codexleo.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/557220/adminstore

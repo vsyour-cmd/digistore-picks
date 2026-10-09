@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getspartamax.com/#aff=adminstore
+- **Promo link (affiliate):** https://getspartamax.com/?aff=adminstore#aff=adminstore
 - Sales page: https://getspartamax.com/
 - Vendor affiliate support: https://getspartamax.com/digi-affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/640293/adminstore

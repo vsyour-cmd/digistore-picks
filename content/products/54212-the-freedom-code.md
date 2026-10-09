@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://freedomcode.aspireonecs.com#aff=adminstore
+- **Promo link (affiliate):** https://freedomcode.aspireonecs.com?aff=adminstore#aff=adminstore
 - Sales page: https://freedomcode.aspireonecs.com
 - Vendor affiliate support: https://freedomcode.aspireonecs.com/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/638412/adminstore

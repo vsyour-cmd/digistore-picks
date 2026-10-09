@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mylottochamp24.com/text.php#aff=adminstore
+- **Promo link (affiliate):** https://mylottochamp24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: https://mylottochamp24.com/text.php
 - Vendor affiliate support: https://lottochamp24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/581520/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://microbiomehealthformula-3jp.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://microbiomehealthformula-3jp.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://microbiomehealthformula-3jp.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/731580/adminstore
 

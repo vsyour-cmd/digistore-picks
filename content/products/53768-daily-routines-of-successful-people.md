@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633282#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633282?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633282
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/daily-routines-of-successful-people.html
 - Canonical redirect: https://www.digistore24.com/redir/633282/adminstore

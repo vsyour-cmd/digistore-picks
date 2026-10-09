@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.magicofmoringa.co/#aff=adminstore
+- **Promo link (affiliate):** https://www.magicofmoringa.co/?aff=adminstore#aff=adminstore
 - Sales page: https://www.magicofmoringa.co/
 - Vendor affiliate support: http://www.magicofmoringa.co/affiliates-hub/
 - Canonical redirect: https://www.digistore24.com/redir/562310/adminstore

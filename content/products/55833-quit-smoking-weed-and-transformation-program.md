@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://quit-smoking-weed.com/quit-smoking-weed-and-transformation-program/#aff=adminstore
+- **Promo link (affiliate):** https://quit-smoking-weed.com/quit-smoking-weed-and-transformation-program/?aff=adminstore#aff=adminstore
 - Sales page: https://quit-smoking-weed.com/quit-smoking-weed-and-transformation-program/
 - Vendor affiliate support: https://quit-smoking-weed.com/affiliate-program/
 - Canonical redirect: https://www.digistore24.com/redir/671857/adminstore

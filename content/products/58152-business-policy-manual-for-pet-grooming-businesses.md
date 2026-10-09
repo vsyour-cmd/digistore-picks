@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses/#aff=adminstore
+- **Promo link (affiliate):** https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses/?aff=adminstore#aff=adminstore
 - Sales page: https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses/
 - Vendor affiliate support: https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses-affiliate-resources/
 - Canonical redirect: https://www.digistore24.com/redir/714451/adminstore

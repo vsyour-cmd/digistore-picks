@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://getlottomasterkey.cc/welcome/#aff=adminstore
+- **Promo link (affiliate):** http://getlottomasterkey.cc/welcome/?aff=adminstore#aff=adminstore
 - Sales page: http://getlottomasterkey.cc/welcome/
 - Vendor affiliate support: http://getlottomasterkey.cc/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/637648/adminstore

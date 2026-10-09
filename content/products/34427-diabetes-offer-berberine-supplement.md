@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://discover.insulinherb.com/berberine-v2/#aff=adminstore
+- **Promo link (affiliate):** https://discover.insulinherb.com/berberine-v2/?aff=adminstore#aff=adminstore
 - Sales page: https://discover.insulinherb.com/berberine-v2/
 - Vendor affiliate support: https://discover.insulinherb.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/352613/adminstore

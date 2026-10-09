@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tryglutless.com/home-dgs/#aff=adminstore
+- **Promo link (affiliate):** https://tryglutless.com/home-dgs/?aff=adminstore#aff=adminstore
 - Sales page: https://tryglutless.com/home-dgs/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/glutless-energy-and-glutless-sleep
 - Canonical redirect: https://www.digistore24.com/redir/585011/adminstore

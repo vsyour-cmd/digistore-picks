@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://eznaturals.co/moringa-digistore24/#aff=adminstore
+- **Promo link (affiliate):** https://eznaturals.co/moringa-digistore24/?aff=adminstore#aff=adminstore
 - Sales page: https://eznaturals.co/moringa-digistore24/
 - Vendor affiliate support: https://eznaturals.co/affiliate-resources/
 - Canonical redirect: https://www.digistore24.com/redir/692713/adminstore

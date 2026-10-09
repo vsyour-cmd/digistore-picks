@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.free-ketorecipe.com/#aff=adminstore
+- **Promo link (affiliate):** https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.free-ketorecipe.com/
 - Canonical redirect: https://www.digistore24.com/redir/547184/adminstore
 

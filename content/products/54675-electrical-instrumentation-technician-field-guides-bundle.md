@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://virtualproducts.shop/field-kit-sale#aff=adminstore
+- **Promo link (affiliate):** https://virtualproducts.shop/field-kit-sale?aff=adminstore#aff=adminstore
 - Sales page: https://virtualproducts.shop/field-kit-sale
 - Canonical redirect: https://www.digistore24.com/redir/644122/adminstore
 

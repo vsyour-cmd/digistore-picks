@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://51percent.wixsite.com/mykidpreneurs#aff=adminstore
+- **Promo link (affiliate):** https://51percent.wixsite.com/mykidpreneurs?aff=adminstore#aff=adminstore
 - Sales page: https://51percent.wixsite.com/mykidpreneurs
 - Vendor affiliate support: https://schoolofemergingtrends.systeme.io/affiliates-mykidpreneurs
 - Canonical redirect: https://www.digistore24.com/redir/365629/adminstore

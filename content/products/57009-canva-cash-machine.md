@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.offerlaunchpad.site/canva-cash-machine#aff=adminstore
+- **Promo link (affiliate):** http://www.offerlaunchpad.site/canva-cash-machine?aff=adminstore#aff=adminstore
 - Sales page: http://www.offerlaunchpad.site/canva-cash-machine
 - Vendor affiliate support: https://www.offerlaunchpad.site/canva-cash-machine-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/702453/adminstore

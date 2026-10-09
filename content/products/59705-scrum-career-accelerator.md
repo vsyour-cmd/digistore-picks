@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-accelerator#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-accelerator?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/scrum-career-accelerator
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1516-promote-the-scrum-career-accelerator-and-earn-50-commission-on-each-sal
 - Canonical redirect: https://www.digistore24.com/redir/736035/adminstore

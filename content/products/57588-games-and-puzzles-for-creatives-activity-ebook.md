@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://craftypuzzlesandgamesebook-ao2.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://craftypuzzlesandgamesebook-ao2.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://craftypuzzlesandgamesebook-ao2.plannerpack.co
 - Vendor affiliate support: https://get.keepcreatingfun.com/affsupportcraftypuzzles-0ec
 - Canonical redirect: https://www.digistore24.com/redir/712937/adminstore

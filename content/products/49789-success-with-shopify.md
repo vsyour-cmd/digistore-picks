@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/572199#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/product/572199?aff=adminstore
 - Sales page: https://www.digistore24.com/product/572199
 - Canonical redirect: https://www.digistore24.com/redir/572199/adminstore
 

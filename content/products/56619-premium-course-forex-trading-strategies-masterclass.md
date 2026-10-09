@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/courses/trading-strategies-and-tactics-learn-profitable-forex-trading-strategies#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/courses/trading-strategies-and-tactics-learn-profitable-forex-trading-strategies?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/trading-strategies-and-tactics-learn-profitable-forex-trading-strategies
 - Canonical redirect: https://www.digistore24.com/redir/693481/adminstore
 

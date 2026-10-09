@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.natural-language-system.com#aff=adminstore
+- **Promo link (affiliate):** http://www.natural-language-system.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.natural-language-system.com
 - Canonical redirect: https://www.digistore24.com/redir/35945/adminstore
 

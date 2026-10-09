@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://supp-up.com/ds24-nutrition-at-home-field-guide#aff=adminstore
+- **Promo link (affiliate):** https://supp-up.com/ds24-nutrition-at-home-field-guide?aff=adminstore#aff=adminstore
 - Sales page: https://supp-up.com/ds24-nutrition-at-home-field-guide
 - Vendor affiliate support: https://supp-up.blog/affiliate-resources-ds24/
 - Canonical redirect: https://www.digistore24.com/redir/338618/adminstore

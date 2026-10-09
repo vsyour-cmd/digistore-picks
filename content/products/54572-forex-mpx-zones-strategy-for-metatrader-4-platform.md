@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-mpx-zones-strategy-dg/#aff=adminstore
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-mpx-zones-strategy-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-mpx-zones-strategy-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/mpx-zones-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646160/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm#aff=adminstore
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/glp-1-plus-42
 - Canonical redirect: https://www.digistore24.com/redir/627405/adminstore

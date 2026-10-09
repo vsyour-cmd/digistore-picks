@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://renewyourhair.com/ds24c/#aff=adminstore
+- **Promo link (affiliate):** https://renewyourhair.com/ds24c/?aff=adminstore#aff=adminstore
 - Sales page: https://renewyourhair.com/ds24c/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/liposomal-hair-renewal
 - Canonical redirect: https://www.digistore24.com/redir/611728/adminstore

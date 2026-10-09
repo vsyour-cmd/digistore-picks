@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexbee.co/supply-and-demand-indicator-digi/#aff=adminstore
+- **Promo link (affiliate):** https://forexbee.co/supply-and-demand-indicator-digi/?aff=adminstore#aff=adminstore
 - Sales page: https://forexbee.co/supply-and-demand-indicator-digi/
 - Vendor affiliate support: https://forexbee.co/forex-affiliate-programs/
 - Canonical redirect: https://www.digistore24.com/redir/435925/adminstore

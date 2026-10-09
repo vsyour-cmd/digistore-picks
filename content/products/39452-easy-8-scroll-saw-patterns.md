@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns#aff=adminstore
+- **Promo link (affiliate):** https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns?aff=adminstore#aff=adminstore
 - Sales page: https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns
 - Vendor affiliate support: https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns/easy8-for-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/433852/adminstore

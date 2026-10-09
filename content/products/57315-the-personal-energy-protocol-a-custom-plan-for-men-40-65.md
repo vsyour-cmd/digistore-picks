@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://alpha40fit.com/energy-protocol/#aff=adminstore
+- **Promo link (affiliate):** https://alpha40fit.com/energy-protocol/?aff=adminstore#aff=adminstore
 - Sales page: https://alpha40fit.com/energy-protocol/
 - Canonical redirect: https://www.digistore24.com/redir/705028/adminstore
 

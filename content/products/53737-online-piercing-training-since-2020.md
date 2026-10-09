@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mfl.academy/?dig=607649#aff=adminstore
+- **Promo link (affiliate):** https://mfl.academy/?dig=607649&aff=adminstore#aff=adminstore
 - Sales page: https://mfl.academy/?dig=607649
 - Vendor affiliate support: https://mfl.academy/en/affiliate/?aff=[AFFILIATE]
 - Canonical redirect: https://www.digistore24.com/redir/607649/adminstore

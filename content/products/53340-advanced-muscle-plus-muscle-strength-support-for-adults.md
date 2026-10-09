@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm#aff=adminstore
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/advanced-muscle-plus-27
 - Canonical redirect: https://www.digistore24.com/redir/627161/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://springfloralsplanner-0yr.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://springfloralsplanner-0yr.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://springfloralsplanner-0yr.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/743937/adminstore
 

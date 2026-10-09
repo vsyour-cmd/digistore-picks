@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.raspi-config.com#aff=adminstore
+- **Promo link (affiliate):** http://www.raspi-config.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.raspi-config.com
 - Vendor affiliate support: https://www.raspi-config.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/271198/adminstore

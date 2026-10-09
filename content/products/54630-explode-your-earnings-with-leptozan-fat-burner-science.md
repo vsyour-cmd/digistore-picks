@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.leptozan.com/ds/newdiscovery/#aff=adminstore
+- **Promo link (affiliate):** https://www.leptozan.com/ds/newdiscovery/?aff=adminstore#aff=adminstore
 - Sales page: https://www.leptozan.com/ds/newdiscovery/
 - Vendor affiliate support: https://www.leptozan.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/644659/adminstore

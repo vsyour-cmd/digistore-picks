@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.prostatehealth.pro/#aff=adminstore
+- **Promo link (affiliate):** https://www.prostatehealth.pro/?aff=adminstore#aff=adminstore
 - Sales page: https://www.prostatehealth.pro/
 - Canonical redirect: https://www.digistore24.com/redir/541623/adminstore
 

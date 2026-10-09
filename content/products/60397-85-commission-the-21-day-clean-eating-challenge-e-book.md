@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/#aff=adminstore
+- **Promo link (affiliate):** https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/?aff=adminstore#aff=adminstore
 - Sales page: https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/
 - Vendor affiliate support: https://thewellnesslabs.store/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/734044/adminstore

@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thespiritualhygieneblueprint-2fq.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://thespiritualhygieneblueprint-2fq.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thespiritualhygieneblueprint-2fq.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/715951/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635401#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635401?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635401
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/time-management-for-busy-people-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/635401/adminstore

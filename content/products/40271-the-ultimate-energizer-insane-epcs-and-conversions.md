@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.greenenergyfreedom.net/index_tue.html#aff=adminstore
+- **Promo link (affiliate):** https://www.greenenergyfreedom.net/index_tue.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.greenenergyfreedom.net/index_tue.html
 - Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/446475/adminstore

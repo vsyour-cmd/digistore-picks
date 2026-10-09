@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cute-fairy-779047.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://cute-fairy-779047.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://cute-fairy-779047.netlify.app/
 - Vendor affiliate support: https://delightful-llama-fc131f.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/624660/adminstore

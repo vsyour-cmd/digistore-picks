@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://legacy.groovepages.com/bitcoin-special/index#aff=adminstore
+- **Promo link (affiliate):** https://legacy.groovepages.com/bitcoin-special/index?aff=adminstore#aff=adminstore
 - Sales page: https://legacy.groovepages.com/bitcoin-special/index
 - Vendor affiliate support: https://linkfly.to/affiliatetools
 - Canonical redirect: https://www.digistore24.com/redir/372937/adminstore

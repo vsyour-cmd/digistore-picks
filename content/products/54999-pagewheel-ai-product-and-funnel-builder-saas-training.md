@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://experience.digistore24.com/pagewheel#aff=adminstore
+- **Promo link (affiliate):** https://experience.digistore24.com/pagewheel?aff=adminstore
 - Sales page: https://experience.digistore24.com/pagewheel
 - Canonical redirect: https://www.digistore24.com/redir/653506/adminstore
 

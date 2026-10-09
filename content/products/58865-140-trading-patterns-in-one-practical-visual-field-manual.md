@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://patterns.esr.mobi/digistore/#aff=adminstore
+- **Promo link (affiliate):** https://patterns.esr.mobi/digistore/?aff=adminstore#aff=adminstore
 - Sales page: https://patterns.esr.mobi/digistore/
 - Vendor affiliate support: https://patterns.esr.mobi/digistore/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/728302/adminstore

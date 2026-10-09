@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hey-julia.de/en/content-creation-conversation/#aff=adminstore
+- **Promo link (affiliate):** https://hey-julia.de/en/content-creation-conversation/?aff=adminstore#aff=adminstore
 - Sales page: https://hey-julia.de/en/content-creation-conversation/
 - Canonical redirect: https://www.digistore24.com/redir/589688/adminstore
 

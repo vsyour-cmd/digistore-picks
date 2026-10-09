@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://homeownersinsuranceguide-ij1.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://homeownersinsuranceguide-ij1.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://homeownersinsuranceguide-ij1.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/709876/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://splendid-lokum-a774ff.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://splendid-lokum-a774ff.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://splendid-lokum-a774ff.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/719051/adminstore
 

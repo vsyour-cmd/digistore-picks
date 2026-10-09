@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://goldteadetox.com/#aff=adminstore
+- **Promo link (affiliate):** https://goldteadetox.com/?aff=adminstore#aff=adminstore
 - Sales page: https://goldteadetox.com/
 - Canonical redirect: https://www.digistore24.com/redir/691501/adminstore
 

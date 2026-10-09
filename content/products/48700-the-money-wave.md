@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getmoneywave.com/DS/vsl/#aff=adminstore
+- **Promo link (affiliate):** https://getmoneywave.com/DS/vsl/?aff=adminstore#aff=adminstore
 - Sales page: https://getmoneywave.com/DS/vsl/
 - Vendor affiliate support: https://getmoneywave.com/DS/Affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/560807/adminstore

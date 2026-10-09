@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://remixable.net/join/#aff=adminstore
+- **Promo link (affiliate):** https://remixable.net/join/?aff=adminstore#aff=adminstore
 - Sales page: https://remixable.net/join/
 - Vendor affiliate support: https://remixable.net/digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/467549/adminstore

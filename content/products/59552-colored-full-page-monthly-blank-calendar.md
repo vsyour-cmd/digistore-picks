@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://coloredcalendar-o3m.plannerpack.fun#aff=adminstore
+- **Promo link (affiliate):** https://coloredcalendar-o3m.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://coloredcalendar-o3m.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/736202/adminstore
 

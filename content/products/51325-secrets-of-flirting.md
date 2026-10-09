@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://elevenmarketingdigital.com/secrets-of-flirting/#aff=adminstore
+- **Promo link (affiliate):** https://elevenmarketingdigital.com/secrets-of-flirting/?aff=adminstore#aff=adminstore
 - Sales page: https://elevenmarketingdigital.com/secrets-of-flirting/
 - Vendor affiliate support: https://luckisintoday.com/secrets-of-flirting
 - Canonical redirect: https://www.digistore24.com/redir/595699/adminstore

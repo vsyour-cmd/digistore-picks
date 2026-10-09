@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://pxt.pinealxt.com/ds/presentation/index.php#aff=adminstore
+- **Promo link (affiliate):** https://pxt.pinealxt.com/ds/presentation/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://pxt.pinealxt.com/ds/presentation/index.php
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/pineal-xt
 - Canonical redirect: https://www.digistore24.com/redir/520212/adminstore

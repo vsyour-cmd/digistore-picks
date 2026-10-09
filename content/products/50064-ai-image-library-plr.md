@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/the-ai-image-library#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/the-ai-image-library?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/the-ai-image-library
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/575223/adminstore

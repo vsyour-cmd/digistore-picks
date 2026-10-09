@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/651267#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/651267?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/651267
 - Canonical redirect: https://www.digistore24.com/redir/651267/adminstore
 

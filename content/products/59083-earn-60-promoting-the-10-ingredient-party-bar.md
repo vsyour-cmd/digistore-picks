@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://10ingredientpartybar.com/get-now/#aff=adminstore
+- **Promo link (affiliate):** https://10ingredientpartybar.com/get-now/?aff=adminstore#aff=adminstore
 - Sales page: https://10ingredientpartybar.com/get-now/
 - Vendor affiliate support: https://10ingredientpartybar.com/become-an-affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726602/adminstore

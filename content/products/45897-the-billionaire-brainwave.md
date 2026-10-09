@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thebillionairebrainwave.com/DSvsl/#aff=adminstore
+- **Promo link (affiliate):** https://thebillionairebrainwave.com/DSvsl/?aff=adminstore#aff=adminstore
 - Sales page: https://thebillionairebrainwave.com/DSvsl/
 - Vendor affiliate support: https://thebillionairebrainwave.com/DSAffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/524279/adminstore

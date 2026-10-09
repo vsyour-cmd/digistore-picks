@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/Child-Care-Provider-Plan/Sales-page.html#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/Child-Care-Provider-Plan/Sales-page.html?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/Child-Care-Provider-Plan/Sales-page.html
 - Vendor affiliate support: https://oraclefx.org/Child-Care-Provider-Plan/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/708470/adminstore

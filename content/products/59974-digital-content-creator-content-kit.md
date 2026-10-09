@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/creator-content-kit/#aff=adminstore
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/creator-content-kit/?aff=adminstore#aff=adminstore
 - Sales page: https://xaruta4.wordpress.com/creator-content-kit/
 - Canonical redirect: https://www.digistore24.com/redir/737973/adminstore
 

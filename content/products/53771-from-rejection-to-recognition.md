@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633268#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633268?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/633268
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/from-rejection-to-recognition-celebs.html
 - Canonical redirect: https://www.digistore24.com/redir/633268/adminstore

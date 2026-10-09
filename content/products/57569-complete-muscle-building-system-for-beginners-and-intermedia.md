@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://themusclebuildingguide.netlify.app#aff=adminstore
+- **Promo link (affiliate):** http://themusclebuildingguide.netlify.app?aff=adminstore#aff=adminstore
 - Sales page: http://themusclebuildingguide.netlify.app
 - Vendor affiliate support: https://affiliatemusclebuild.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/711187/adminstore

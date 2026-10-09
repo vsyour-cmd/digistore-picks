@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/551005/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/551005/adminstore
 - Sales page: https://bitsandbytes.academy/#/subject_details/linux/advanced
 - Vendor affiliate support: https://bitsandbytes.academy/#/af_info
 - Canonical redirect: https://www.digistore24.com/redir/551005/adminstore

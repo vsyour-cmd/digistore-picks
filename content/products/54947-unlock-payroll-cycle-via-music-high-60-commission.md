@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-unlock-the-4-step-payroll-cycle/#aff=adminstore
+- **Promo link (affiliate):** https://sekael.com/sing-and-solve-accounting-unlock-the-4-step-payroll-cycle/?aff=adminstore#aff=adminstore
 - Sales page: https://sekael.com/sing-and-solve-accounting-unlock-the-4-step-payroll-cycle/
 - Vendor affiliate support: https://sekael.com/sing-and-solve-accounting-unlock-the-4-step-payroll-cycle-by-sekael-affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/654944/adminstore

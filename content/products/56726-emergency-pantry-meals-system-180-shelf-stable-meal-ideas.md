@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/#aff=adminstore
+- **Promo link (affiliate):** https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/?aff=adminstore#aff=adminstore
 - Sales page: https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/
 - Vendor affiliate support: https://emergencypantrymeals.com/affiliates-dg24/
 - Canonical redirect: https://www.digistore24.com/redir/696111/adminstore

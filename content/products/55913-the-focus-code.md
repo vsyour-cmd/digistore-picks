@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.brainwavehaven.site/the-focus-code#aff=adminstore
+- **Promo link (affiliate):** https://www.brainwavehaven.site/the-focus-code?aff=adminstore#aff=adminstore
 - Sales page: https://www.brainwavehaven.site/the-focus-code
 - Vendor affiliate support: https://www.brainwavehaven.site/the-focus-code-affiliate-resources
 - Canonical redirect: https://www.digistore24.com/redir/676250/adminstore

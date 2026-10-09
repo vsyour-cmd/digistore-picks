@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://feelbetter-today.com/moray-power#aff=adminstore
+- **Promo link (affiliate):** http://feelbetter-today.com/moray-power?aff=adminstore#aff=adminstore
 - Sales page: http://feelbetter-today.com/moray-power
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5844463/en
 - Canonical redirect: https://www.digistore24.com/redir/738063/adminstore

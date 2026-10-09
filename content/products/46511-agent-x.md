@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getagentx.com/order#aff=adminstore
+- **Promo link (affiliate):** https://getagentx.com/order?aff=adminstore#aff=adminstore
 - Sales page: https://getagentx.com/order
 - Vendor affiliate support: https://getagentx.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/527515/adminstore

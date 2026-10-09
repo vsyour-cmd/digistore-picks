@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://noadditionalinformationprovided-i4y.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://noadditionalinformationprovided-i4y.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://noadditionalinformationprovided-i4y.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/726124/adminstore
 

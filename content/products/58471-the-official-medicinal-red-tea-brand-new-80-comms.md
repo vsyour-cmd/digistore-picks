@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://puredaily-health.com/medicinal-tea#aff=adminstore
+- **Promo link (affiliate):** http://puredaily-health.com/medicinal-tea?aff=adminstore#aff=adminstore
 - Sales page: http://puredaily-health.com/medicinal-tea
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/722880/adminstore

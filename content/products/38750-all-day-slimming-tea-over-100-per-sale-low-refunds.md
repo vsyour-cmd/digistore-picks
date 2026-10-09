@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://alldayslimmingtea.com/costa-rican-tradition/#aff=adminstore
+- **Promo link (affiliate):** https://alldayslimmingtea.com/costa-rican-tradition/?aff=adminstore#aff=adminstore
 - Sales page: https://alldayslimmingtea.com/costa-rican-tradition/
 - Vendor affiliate support: https://alldayslimmingtea.com/affs-digistore/
 - Canonical redirect: https://www.digistore24.com/redir/420539/adminstore

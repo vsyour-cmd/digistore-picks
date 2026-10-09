@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://intelligentcryptocurrency.com/#aff=adminstore
+- **Promo link (affiliate):** https://intelligentcryptocurrency.com/?aff=adminstore#aff=adminstore
 - Sales page: https://intelligentcryptocurrency.com/
 - Vendor affiliate support: https://intelligentcryptocurrency.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/363385/adminstore

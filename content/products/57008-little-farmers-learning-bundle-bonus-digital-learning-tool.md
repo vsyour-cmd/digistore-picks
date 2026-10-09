@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/learning-bundle#aff=adminstore
+- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/learning-bundle?aff=adminstore#aff=adminstore
 - Sales page: https://berryoperatingsystems.my.canva.site/learning-bundle
 - Canonical redirect: https://www.digistore24.com/redir/702066/adminstore
 

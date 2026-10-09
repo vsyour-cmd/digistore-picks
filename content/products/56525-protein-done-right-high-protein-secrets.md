@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.fitnoryx.com/digitaliest#aff=adminstore
+- **Promo link (affiliate):** https://www.fitnoryx.com/digitaliest?aff=adminstore#aff=adminstore
 - Sales page: https://www.fitnoryx.com/digitaliest
 - Vendor affiliate support: https://ajstyre608.systeme.io/affiliatesupport
 - Canonical redirect: https://www.digistore24.com/redir/682855/adminstore

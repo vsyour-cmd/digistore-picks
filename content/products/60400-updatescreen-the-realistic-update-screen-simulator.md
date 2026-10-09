@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tourmaline-pothos-c8ada0.netlify.app#aff=adminstore
+- **Promo link (affiliate):** https://tourmaline-pothos-c8ada0.netlify.app?aff=adminstore#aff=adminstore
 - Sales page: https://tourmaline-pothos-c8ada0.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/741384/adminstore
 

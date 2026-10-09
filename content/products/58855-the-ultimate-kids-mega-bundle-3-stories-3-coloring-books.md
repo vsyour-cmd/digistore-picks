@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727639#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727639?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/727639
 - Vendor affiliate support: https://abdo-5187.my.canva.site/daht5fzzunk
 - Canonical redirect: https://www.digistore24.com/redir/727639/adminstore

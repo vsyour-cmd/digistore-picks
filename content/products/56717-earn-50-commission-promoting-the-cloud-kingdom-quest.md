@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest#aff=adminstore
+- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest&aff=adminstore#aff=adminstore
 - Sales page: https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest
 - Vendor affiliate support: https://maxmiaparentingsystem.blogspot.com/p/affiliate-center-max-mia-parent-success.html
 - Canonical redirect: https://www.digistore24.com/redir/696023/adminstore

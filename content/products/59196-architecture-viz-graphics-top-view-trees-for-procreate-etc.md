@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/top-view-trees-cutout-plan-view-tree-library-for-architecture-design-png/#aff=adminstore
+- **Promo link (affiliate):** https://www.tonytextures.com/top-view-trees-cutout-plan-view-tree-library-for-architecture-design-png/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/top-view-trees-cutout-plan-view-tree-library-for-architecture-design-png/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593594/adminstore

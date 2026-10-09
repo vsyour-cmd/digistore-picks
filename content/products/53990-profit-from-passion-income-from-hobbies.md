@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635581#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/635581?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/635581
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/profit-from-passion-turn-hobbies-into.html
 - Canonical redirect: https://www.digistore24.com/redir/635581/adminstore

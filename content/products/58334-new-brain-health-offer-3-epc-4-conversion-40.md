@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://cognifortplus.com/ds/indexts.php#aff=adminstore
+- **Promo link (affiliate):** https://cognifortplus.com/ds/indexts.php?aff=adminstore#aff=adminstore
 - Sales page: https://cognifortplus.com/ds/indexts.php
 - Vendor affiliate support: https://cognifortplus.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/713233/adminstore

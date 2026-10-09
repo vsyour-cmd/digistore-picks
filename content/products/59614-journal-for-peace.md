@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://journalforpeace-mg2.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://journalforpeace-mg2.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://journalforpeace-mg2.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/736678/adminstore
 

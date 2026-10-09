@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://claritox24.com/text2.php#aff=adminstore
+- **Promo link (affiliate):** https://claritox24.com/text2.php?aff=adminstore#aff=adminstore
 - Sales page: https://claritox24.com/text2.php
 - Vendor affiliate support: https://claritox24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/550416/adminstore

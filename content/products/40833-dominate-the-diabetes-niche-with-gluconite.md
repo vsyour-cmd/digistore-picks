@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://gluconite.co/ds/welcome#aff=adminstore
+- **Promo link (affiliate):** https://gluconite.co/ds/welcome?aff=adminstore#aff=adminstore
 - Sales page: https://gluconite.co/ds/welcome
 - Vendor affiliate support: https://gluconite.co/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/443012/adminstore

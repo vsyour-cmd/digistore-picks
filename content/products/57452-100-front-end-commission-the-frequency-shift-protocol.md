@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.offerlaunchpad.site/the-frequency-shift-protocol#aff=adminstore
+- **Promo link (affiliate):** http://www.offerlaunchpad.site/the-frequency-shift-protocol?aff=adminstore#aff=adminstore
 - Sales page: http://www.offerlaunchpad.site/the-frequency-shift-protocol
 - Vendor affiliate support: https://www.offerlaunchpad.site/the-frequency-shift-protocol-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/709632/adminstore

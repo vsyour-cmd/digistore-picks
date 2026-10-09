@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://theflatbellyshake.com/discovery/#aff=adminstore
+- **Promo link (affiliate):** https://theflatbellyshake.com/discovery/?aff=adminstore#aff=adminstore
 - Sales page: https://theflatbellyshake.com/discovery/
 - Vendor affiliate support: https://theflatbellyshake.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/466836/adminstore

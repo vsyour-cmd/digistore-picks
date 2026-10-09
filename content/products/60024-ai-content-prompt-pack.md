@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/ai-content-prompt-pack/#aff=adminstore
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/ai-content-prompt-pack/?aff=adminstore#aff=adminstore
 - Sales page: https://xaruta4.wordpress.com/ai-content-prompt-pack/
 - Canonical redirect: https://www.digistore24.com/redir/737756/adminstore
 

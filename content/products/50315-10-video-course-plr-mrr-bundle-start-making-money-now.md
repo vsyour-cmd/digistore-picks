@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/10-mega-plr-video-courses#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/10-mega-plr-video-courses?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/10-mega-plr-video-courses
 - Vendor affiliate support: https://heikoboos.com/affiliate-support-10-plr-video-courses
 - Canonical redirect: https://www.digistore24.com/redir/576866/adminstore

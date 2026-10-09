@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://marilia.de/guides-coaching/ebook-anti-aging-longevity/#aff=adminstore
+- **Promo link (affiliate):** https://marilia.de/guides-coaching/ebook-anti-aging-longevity/?aff=adminstore#aff=adminstore
 - Sales page: https://marilia.de/guides-coaching/ebook-anti-aging-longevity/
 - Vendor affiliate support: https://marilia.de/anti-aging-longevity/
 - Canonical redirect: https://www.digistore24.com/redir/645305/adminstore

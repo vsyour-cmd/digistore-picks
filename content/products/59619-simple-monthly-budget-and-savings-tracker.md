@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://monthlybudgettrack-l9y.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://monthlybudgettrack-l9y.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://monthlybudgettrack-l9y.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/735259/adminstore
 

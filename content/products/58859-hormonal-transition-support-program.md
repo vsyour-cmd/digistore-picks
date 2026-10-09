@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://hormonaltransition-fo9.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://hormonaltransition-fo9.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://hormonaltransition-fo9.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/728718/adminstore
 

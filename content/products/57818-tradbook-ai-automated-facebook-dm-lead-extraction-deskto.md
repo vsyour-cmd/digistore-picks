@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tradbook.in/Digistore-plan#aff=adminstore
+- **Promo link (affiliate):** https://tradbook.in/Digistore-plan?aff=adminstore#aff=adminstore
 - Sales page: https://tradbook.in/Digistore-plan
 - Canonical redirect: https://www.digistore24.com/redir/716468/adminstore
 

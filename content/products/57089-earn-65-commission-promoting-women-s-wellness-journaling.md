@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://byzoewomen.com/journal-ds24.html#aff=adminstore
+- **Promo link (affiliate):** https://byzoewomen.com/journal-ds24.html?aff=adminstore#aff=adminstore
 - Sales page: https://byzoewomen.com/journal-ds24.html
 - Vendor affiliate support: https://byzoewomen.com/affiliates-journal
 - Canonical redirect: https://www.digistore24.com/redir/693472/adminstore

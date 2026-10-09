@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://winningpicksstore.org/fresh-and-simple#aff=adminstore
+- **Promo link (affiliate):** https://winningpicksstore.org/fresh-and-simple?aff=adminstore#aff=adminstore
 - Sales page: https://winningpicksstore.org/fresh-and-simple
 - Canonical redirect: https://www.digistore24.com/redir/709170/adminstore
 

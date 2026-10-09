@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-for-non-tech/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-for-non-tech/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/scrum-for-non-tech/
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1490-affiliate-playbook-for-scrum-for-non-tech
 - Canonical redirect: https://www.digistore24.com/redir/684079/adminstore

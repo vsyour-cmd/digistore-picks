@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://togetr4success.thinkific.com/courses/TG4S-100#aff=adminstore
+- **Promo link (affiliate):** https://togetr4success.thinkific.com/courses/TG4S-100?aff=adminstore#aff=adminstore
 - Sales page: https://togetr4success.thinkific.com/courses/TG4S-100
 - Vendor affiliate support: https://togetr4success.thinkific.com/courses/TG4S-100
 - Canonical redirect: https://www.digistore24.com/redir/530901/adminstore

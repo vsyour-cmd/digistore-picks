@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://heikoboos.com/save-money#aff=adminstore
+- **Promo link (affiliate):** https://heikoboos.com/save-money?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/save-money
 - Canonical redirect: https://www.digistore24.com/redir/600746/adminstore
 

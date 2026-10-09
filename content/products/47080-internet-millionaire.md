@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.internetmillionaire.com/training#aff=adminstore
+- **Promo link (affiliate):** https://www.internetmillionaire.com/training?aff=adminstore#aff=adminstore
 - Sales page: https://www.internetmillionaire.com/training
 - Vendor affiliate support: https://www.internetmillionaire.com/affiliateinvitation
 - Canonical redirect: https://www.digistore24.com/redir/526858/adminstore

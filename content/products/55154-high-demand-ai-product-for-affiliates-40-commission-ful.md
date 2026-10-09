@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://lighthearted-blancmange-a74dd8.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://lighthearted-blancmange-a74dd8.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://lighthearted-blancmange-a74dd8.netlify.app/
 - Vendor affiliate support: https://lively-lollipop-ea43e8.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/627444/adminstore

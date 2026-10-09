@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://zencortex24.com/d/order-now.php#aff=adminstore
+- **Promo link (affiliate):** https://zencortex24.com/d/order-now.php?aff=adminstore#aff=adminstore
 - Sales page: https://zencortex24.com/d/order-now.php
 - Vendor affiliate support: https://zencortexhq.com/info/aff.html
 - Canonical redirect: https://www.digistore24.com/redir/546853/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/9-ways-to-your-online-business#aff=adminstore
+- **Promo link (affiliate):** http://heikoboos.com/9-ways-to-your-online-business?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/9-ways-to-your-online-business
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/543164/adminstore

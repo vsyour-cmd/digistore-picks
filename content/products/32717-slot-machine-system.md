@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://slotmachinesystem.com/#aff=adminstore
+- **Promo link (affiliate):** http://slotmachinesystem.com/?aff=adminstore#aff=adminstore
 - Sales page: http://slotmachinesystem.com/
 - Vendor affiliate support: http://www.slotmachinesystem.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/319147/adminstore

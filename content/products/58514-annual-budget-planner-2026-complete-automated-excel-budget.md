@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://go.annualbudgetplanner.shop/digistore24#aff=adminstore
+- **Promo link (affiliate):** https://go.annualbudgetplanner.shop/digistore24?aff=adminstore#aff=adminstore
 - Sales page: https://go.annualbudgetplanner.shop/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/720119/adminstore
 

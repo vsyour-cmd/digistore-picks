@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://easydiypowerplan4all.com/index_dg24/#aff=adminstore
+- **Promo link (affiliate):** https://easydiypowerplan4all.com/index_dg24/?aff=adminstore#aff=adminstore
 - Sales page: https://easydiypowerplan4all.com/index_dg24/
 - Vendor affiliate support: https://easydiypowerplan4all.com/affiliate_dg24/
 - Canonical redirect: https://www.digistore24.com/redir/542607/adminstore

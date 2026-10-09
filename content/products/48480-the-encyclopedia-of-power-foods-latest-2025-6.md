@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wsl.365dailyhealth.com/landing-sale-page1713272576177#aff=adminstore
+- **Promo link (affiliate):** https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=adminstore#aff=adminstore
 - Sales page: https://wsl.365dailyhealth.com/landing-sale-page1713272576177
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/encyclopedia-of-power-foods
 - Canonical redirect: https://www.digistore24.com/redir/557828/adminstore

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html#aff=adminstore
+- **Promo link (affiliate):** https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html
 - Canonical redirect: https://www.digistore24.com/redir/693684/adminstore
 

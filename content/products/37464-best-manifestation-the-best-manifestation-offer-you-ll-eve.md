@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.bestmanifestation.com/best-manifestation-ds/#aff=adminstore
+- **Promo link (affiliate):** https://www.bestmanifestation.com/best-manifestation-ds/?aff=adminstore#aff=adminstore
 - Sales page: https://www.bestmanifestation.com/best-manifestation-ds/
 - Vendor affiliate support: https://www.bestmanifestation.com/affiliate-support-page/
 - Canonical redirect: https://www.digistore24.com/redir/399213/adminstore

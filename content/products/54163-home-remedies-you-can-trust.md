@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637574#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637574?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/637574
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/home-remedies-you-can-trust-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/637574/adminstore

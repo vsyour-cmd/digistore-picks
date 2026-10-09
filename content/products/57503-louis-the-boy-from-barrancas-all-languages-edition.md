@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://theboyfrombarrancas.com/digistore24#aff=adminstore
+- **Promo link (affiliate):** https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore
 - Sales page: https://theboyfrombarrancas.com/digistore24
 - Vendor affiliate support: https://barrancas-story-hub.lovable.app/
 - Canonical redirect: https://www.digistore24.com/redir/702447/adminstore

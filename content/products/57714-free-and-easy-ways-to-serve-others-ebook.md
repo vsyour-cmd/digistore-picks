@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://waystoserveothers-eb9.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://waystoserveothers-eb9.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://waystoserveothers-eb9.plannerpack.co
 - Vendor affiliate support: https://get.keepcreatingfun.com/affsupportwaystoserve-3b9
 - Canonical redirect: https://www.digistore24.com/redir/714883/adminstore

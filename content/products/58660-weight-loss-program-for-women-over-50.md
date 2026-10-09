@@ -22,7 +22,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://weightlossforwomen50-ia8.plannerpack.co#aff=adminstore
+- **Promo link (affiliate):** https://weightlossforwomen50-ia8.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://weightlossforwomen50-ia8.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/725933/adminstore
 

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/#special-deal&aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/727770/adminstore
 - Sales page: https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/#special-deal
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/727770/adminstore

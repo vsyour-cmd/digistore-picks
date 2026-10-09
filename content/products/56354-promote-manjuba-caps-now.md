@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.manjubadrops.com/edcaps-dtc#aff=adminstore
+- **Promo link (affiliate):** https://www.manjubadrops.com/edcaps-dtc?aff=adminstore#aff=adminstore
 - Sales page: https://www.manjubadrops.com/edcaps-dtc
 - Vendor affiliate support: https://www.manjubadrops.com/edcaps-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/685232/adminstore

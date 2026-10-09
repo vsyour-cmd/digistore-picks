@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://sales-page-4d8.pages.dev#aff=adminstore
+- **Promo link (affiliate):** http://sales-page-4d8.pages.dev?aff=adminstore#aff=adminstore
 - Sales page: http://sales-page-4d8.pages.dev
 - Vendor affiliate support: https://myaffiliates.onrender.com/
 - Canonical redirect: https://www.digistore24.com/redir/625471/adminstore

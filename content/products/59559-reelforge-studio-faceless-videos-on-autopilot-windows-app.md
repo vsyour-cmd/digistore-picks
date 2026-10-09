@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://reelforge.esr.mobi#aff=adminstore
+- **Promo link (affiliate):** https://reelforge.esr.mobi?aff=adminstore#aff=adminstore
 - Sales page: https://reelforge.esr.mobi
 - Vendor affiliate support: https://reelforge.esr.mobi/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/735866/adminstore

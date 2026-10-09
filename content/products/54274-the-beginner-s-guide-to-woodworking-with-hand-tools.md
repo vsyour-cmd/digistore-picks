@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-beginners-guide-to-woodworking#aff=adminstore
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-beginners-guide-to-woodworking?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/the-beginners-guide-to-woodworking
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/the-beginners-guide-to-woodworking-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639592/adminstore

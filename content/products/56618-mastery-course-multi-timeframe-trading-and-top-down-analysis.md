@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oraclefx.org/courses/time-frames-and-top-down-analysis/#aff=adminstore
+- **Promo link (affiliate):** https://oraclefx.org/courses/time-frames-and-top-down-analysis/?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/time-frames-and-top-down-analysis/
 - Canonical redirect: https://www.digistore24.com/redir/693489/adminstore
 

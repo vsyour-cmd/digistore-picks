@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-compass/#aff=adminstore
+- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/scrum-career-compass/
 - Canonical redirect: https://www.digistore24.com/redir/601268/adminstore
 

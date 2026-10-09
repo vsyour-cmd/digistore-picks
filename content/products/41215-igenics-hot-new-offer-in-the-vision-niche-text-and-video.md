@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://clearvisionbreakthrough.com/tsl.php#aff=adminstore
+- **Promo link (affiliate):** https://clearvisionbreakthrough.com/tsl.php?aff=adminstore#aff=adminstore
 - Sales page: https://clearvisionbreakthrough.com/tsl.php
 - Vendor affiliate support: https://clearvisionbreakthrough.com/aff/
 - Canonical redirect: https://www.digistore24.com/redir/454003/adminstore

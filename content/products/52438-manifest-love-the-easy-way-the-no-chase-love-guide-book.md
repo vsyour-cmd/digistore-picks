@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://manifestlovetheeasyway.com/digistore24#aff=adminstore
+- **Promo link (affiliate):** http://manifestlovetheeasyway.com/digistore24?aff=adminstore#aff=adminstore
 - Sales page: http://manifestlovetheeasyway.com/digistore24
 - Vendor affiliate support: https://manifestlovetheeasyway.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/612585/adminstore

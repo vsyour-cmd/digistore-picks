@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/595983#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/595983?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/595983
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/creativewave
 - Canonical redirect: https://www.digistore24.com/redir/595983/adminstore
