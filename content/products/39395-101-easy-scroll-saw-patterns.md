@@ -1,0 +1,52 @@
+# 101 Easy Scroll Saw Patterns
+
+> Product ID `39395` · Digistore24 productId `432604` · [HTML profile page](../../reviews/101-easy-scroll-saw-patterns-39395.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $111.85 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $55.93 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | rmyrchak |
+| Listed since | 2022-03-04 |
+| Auto-accept affiliates | yes |
+| Categories | Hobby & Craft |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** 101 Easy Scroll Saw Patterns is a great bundle of original, unique hand drawn scroll saw patterns for experienced woodworkers and people just starting out using a scroll saw. Create beautiful scroll saw art with these patterns that you can make for yourself, present as gifts for others, or make wooden scroll saw art from these patterns to sell at craft shows, in a gift shop, or sell online. Could …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.easyscrollsawpatterns.com#aff=adminstore
+- Sales page: https://www.easyscrollsawpatterns.com
+- Vendor affiliate support: http://www.easyscrollsawpatterns.com/for-affiliates
+- Canonical redirect: https://www.digistore24.com/redir/432604/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Easy Scroll Saw Patterns
+- **Final URL after redirects:** https://www.easyscrollsawpatterns.com/
+- **Headline (H1):**
+  > Easy Scroll Saw Patterns
+  > 101 Easy Scroll Saw Patterns
+- **Price mentions on page:** $0.99, $99.99
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Easy Scroll Saw Patterns Create beautiful scroll saw art with original easy to use hand drawn scroll saw patterns by Richard Myrchak owner of RJ Myrchak Company, located in the small town of Beausejour Manitoba, Canada.
+  > My name is Richard Myrchak and I want you to create beautiful, original, easy to make scroll saw art, with my collection of 101 Hand Drawn Easy Scroll Saw Patterns. Creating wooden scroll saw art is great hobby to pass the time. Make these unique art pieces for yourself, to present as gifts, or to make and sell wooden scroll saw art online or at art and craft shows.
+  > If you purchase this complete collection of 101 easy scroll saw patterns, then your p rice works out to only $0.99 USD per scroll saw pattern before applicable taxes.
+- **Page word count:** 604
+- **OG image:** https://lh7-us.googleusercontent.com/sitesv-images-rt/AMxu72th_X_ClDYVxfI9Y3_4ufWZOug2s6cyMxqX676mIt7qT-DnlnuF3vkHFkKSoaunY0fwwwJyesklAmEgdtpETM4D5z0w0u_ic0QxFEykfS4cqqY8zgN5k-lWHAhLeAinLxn8FvLBJWubsRmzJKAaMm5h6KAaYjruqAhEsY-ECz_kiU9xPcumuSQwXhWWOk8=w16383
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

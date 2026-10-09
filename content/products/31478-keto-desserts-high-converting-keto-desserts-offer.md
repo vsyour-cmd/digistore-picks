@@ -1,0 +1,55 @@
+# Keto Desserts - High Converting Keto Desserts Offer
+
+> Product ID `31478` · Digistore24 productId `292043` · [HTML profile page](../../reviews/keto-desserts-high-converting-keto-desserts-offer-31478.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Book (printed) |
+| Price | $17.44 (Single payment) |
+| Affiliate commission | 75% |
+| Earnings/sale* | $5.06 |
+| Cart conversion* | 4% |
+| Cancel rate* | 1.76% |
+| Vendor | raposo1 |
+| Listed since | 2019-10-24 |
+| Auto-accept affiliates | yes |
+| Categories | Health & Fitness |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** - INSANELY High AOV's - HIGH Converting Keto After 50 Desserts Offer - JAW DROPPING EPC's Simply put, Keto After 50 Desserts is the #1 choice for Desserts traffic or even health traffic.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.ketoafter50desserts.com/digi/#aff=adminstore
+- Sales page: https://www.ketoafter50desserts.com/digi/
+- Canonical redirect: https://www.digistore24.com/redir/292043/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Keto After 50
+- **Headline (H1):**
+  > Enjoy Delicious, Sugar-Free, Low-Carb Desserts and Still Be On Keto
+  > Keto After 50 Desserts
+  > A Better Way to Enjoy The Ketogenic Diet
+- **Section headlines (H2):**
+  - I was ready to give up all hope.
+  - As you can see, there is nothing like Keto After 50 Desserts on the internet or on any bookshelf out there.
+  - Just click the “Claim Now” button below so you can enter your address details and we will make sure you get this life changing book right away.
+- **Price mentions on page:** $9.00
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/292043/92458?ds24tr=26.95----
+- **Opening copy (first paragraphs):**
+  > Hi, my name is James Wilson and I’ve partnered with Nutrition Hacks to help publish this new leap in the ketogenic diet that people have been calling “truly revolutionary…”
+  > This first-of-its-kind program has already been taste-tested by thousands of beta users and the feedback has been extraordinary!
+  > People are finally able to enjoy the pleasure of desserts while getting into the best shape of their lives and eliminating processed sugar from their diets.
+- **Page word count:** 2818
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

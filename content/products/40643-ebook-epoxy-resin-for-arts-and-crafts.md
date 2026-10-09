@@ -1,0 +1,53 @@
+# eBook - Epoxy Resin for Arts and Crafts
+
+> Product ID `40643` · Digistore24 productId `352181` · [HTML profile page](../../reviews/ebook-epoxy-resin-for-arts-and-crafts-40643.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $16.72 (Single payment) |
+| Affiliate commission | 20% |
+| Earnings/sale* | $3.34 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | acrylgiessen |
+| Listed since | 2020-10-14 |
+| Auto-accept affiliates | yes |
+| Categories | Hobby & Craft |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Your Go-To Guide for start working with Epoxy Resin. Learn creating fascinating Resin Arts and Crafts within minutes. All the tips and tricks that nobody tells you when you start. Including several detailed tutorials for your first projects. 160 Pages 7 In-depth tutorials Including all basic information to start
+
+## 2. Links
+
+- **Promo link (affiliate):** https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/#aff=adminstore
+- Sales page: https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/
+- Canonical redirect: https://www.digistore24.com/redir/352181/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** eBook Epoxy Resin Arts and Crafts for Beginners
+- **Section headlines (H2):**
+  - Popular Posts
+  - Tools
+  - About
+- **Price mentions on page:** $24.95, $14.95
+- **CTA button texts:** "Accessibility Statement"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/352181
+- **Opening copy (first paragraphs):**
+  > Your Go-To Guide for start working with Epoxy Resin. Learn creating fascinating Resin Arts and Crafts within minutes. All the tips and tricks that nobody tells you when you start. Including several detailed tutorials for your first projects.
+  > "Start your journey with Epoxy Resin the most efficient way and create stunning Resin pieces - what are you waiting for?"
+  > acrylgiessen is your digital creative magazine, that covers all topics: painting, drawing, color theory, art history, arts, crafts and much more.
+- **Page word count:** 505
+- **OG image:** https://acrylgiessen.com/wp-content/uploads/2020/10/resin-art-beginner-mockup.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

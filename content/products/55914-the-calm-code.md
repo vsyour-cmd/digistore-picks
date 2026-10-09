@@ -1,0 +1,57 @@
+# The Calm Code
+
+> Product ID `55914` · Digistore24 productId `676261` · [HTML profile page](../../reviews/the-calm-code-55914.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $37.00 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $18.50 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | ZeroToCommission |
+| Listed since | 2026-03-14 |
+| Auto-accept affiliates | yes |
+| Categories | Health & Fitness, Personal Development, Spiri­tua­lity & Esotericism |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** The Calm Code is a premium binaural beats audio system with 12 tracks designed to help people with anxiety, racing thoughts, and stress find natural relief – without medication. Perfect for affiliates in: health, wellness, mental health, stress relief, parenting, self-improvement, and alternative health niches.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.brainwavehaven.site/the-calm-code#aff=adminstore
+- Sales page: https://www.brainwavehaven.site/the-calm-code
+- Vendor affiliate support: https://www.brainwavehaven.site/the-calm-code-affiliate-resources
+- Canonical redirect: https://www.digistore24.com/redir/676261/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** The Calm Code
+- **Meta description:** The Calm Code Sales Page
+- **Headline (H1):**
+  > A 7-Minute Audio Exercise Designed to Support Calm and Nervous System Regulation
+  > Here's What's Inside The Calm Code...
+- **Section headlines (H2):**
+  - Get The Calm Code Today — Just $37 (One-Time)
+  - Quick-Start Anxiety Protocol
+  - "What Do I Need Right Now?" Guide
+  - 30-Day Calm Journal
+- **Price mentions on page:** $37, $37,
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "GET THE CALM CODE - ONLY $37", "GET INSTANT ACCESS - ONLY $37", "ADD TO CART - ONLY $37"
+- **Opening copy (first paragraphs):**
+  > If your body never really switches off... if the tension never fully lets go, even when nothing is wrong... this short audio exercise was built for you.
+  > This is a digital product delivered instantly online. Single one-time payment, no recurring fees. Instant digital access after checkout.
+  > A short, guided audio session built around rhythm and tone, designed to help your nervous system shift out of fight-or-flight and into a calm, settled state.
+- **Page word count:** 598
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

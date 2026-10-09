@@ -1,0 +1,48 @@
+# Ebook - The Deception Series
+
+> Product ID `56600` · Digistore24 productId `693991` · [HTML profile page](../../reviews/ebook-the-deception-series-56600.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $11.17 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $5.59 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | joebgesbuchverleger39ac |
+| Listed since | 2026-05-19 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** “The Deception Series” addresses a highly relevant topic with enormous viral potential: Attention economics, digital manipulation, dopamine dependency, and the erosion of independent thinking. The product speaks to people who feel affected by social media, overstimulation, and mental exhaustion — offering a path toward greater clarity, focus, and mental autonomy. The combination of provocative soc…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/693991#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/693991
+- Canonical redirect: https://www.digistore24.com/redir/693991/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** The Deception Series by Catherine Chic - Digistore24
+- **OG title:** The Deception Series by Catherine Chic
+- **Price mentions on page:** $10, €9.99
+- **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > Subtitle How the Modern World Hijacks Your Attention, Rewires Your Brain, and Destroys Independent Thinking
+  > A combined series exploring attention manipulation, dopamine-driven behavior, overstimulation, emotional conditioning, and the gradual erosion of independent thought.
+  > Introduction What if distraction, overstimulation, and shallow thinking are not isolated problems—but connected effects of the same modern systems?
+- **Page word count:** 1921
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5390043/image/product/0TDNMI99.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

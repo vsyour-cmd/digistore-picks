@@ -1,0 +1,48 @@
+# The Side Hustle How to Build More Money and Freedom on the S
+
+> Product ID `58135` · Digistore24 productId `718120` · [HTML profile page](../../reviews/the-side-hustle-how-to-build-more-money-and-freedom-on-the-s-58135.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $30.20 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $15.10 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | mlangbein51cce0 |
+| Listed since | 2026-08-04 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Profession & Job, Finances |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Five real ways to build income with AI's help – no starting capital needed, with real stories and real numbers instead of empty promises. Ideal for audiences in business, side income, and entrepreneurship. 23 chapters, honest tone, 30-day roadmap. 50% commission per sale.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/718120#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/718120
+- Canonical redirect: https://www.digistore24.com/redir/718120/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** eBook The Side Hustle How to build more money and freedom - Digistore24
+- **OG title:** eBook The Side Hustle How to build more money and freedom
+- **Price mentions on page:** $10, €27.00, €27
+- **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > Let me tell you what this is about: I once sat at my own kitchen table, wondering if it's really possible to build something of your own alongside a regular job – without risking your savings.
+  > "The Side Hustle" walks you through five real ways to build extra income with AI's help – with real stories, real numbers, no empty promises.
+  > Let me tell you what this is about: I once sat at my own kitchen table, wondering if it's really possible to build something of your own alongside a regular job – without risking your savings.
+- **Page word count:** 408
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5689889/image/product/IK8CTBL6.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

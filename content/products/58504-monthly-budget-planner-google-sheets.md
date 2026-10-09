@@ -1,0 +1,60 @@
+# Monthly Budget Planner (Google Sheets)
+
+> Product ID `58504` · Digistore24 productId `724693` · [HTML profile page](../../reviews/monthly-budget-planner-google-sheets-58504.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $37.99 (Single payment) |
+| Affiliate commission | 60% |
+| Earnings/sale* | $22.79 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Book2Book |
+| Listed since | 2026-08-21 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Personal Development, Finances |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Earn 60% Commissions on a High-Demand Personal Finance & Productivity Offer Product Title: Monthly Budget Planner (Google Sheets) Niche: Personal Finance / Wealth Management / Budgeting & Productivity Product Price: $17.99 USD Your Commission: 60% on every single sale (Earn over $10 per copy sold!) Why Promote This Product? The personal finance and organization niche is a massive evergreen market.…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724693#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/724693
+- Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/monthly-budget-planner-google-sheets.html
+- Canonical redirect: https://www.digistore24.com/redir/724693/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Monthly Budget Planner (Google Sheets) - Digistore24
+- **OG title:** Monthly Budget Planner (Google Sheets)
+- **Section headlines (H2):**
+  - Take Control of Your Money—One Month at a Time
+  - Here's What You Can Do with This Monthly Budget Planner:
+  - Stop Wondering Where Your Money Went
+  - Start building better money habits today and make every dollar count.
+  - --------------------------
+  - Take Control of Your Money—One Month at a Time
+  - Here's What You Can Do with This Monthly Budget Planner:
+  - Stop Wondering Where Your Money Went
+  - Start building better money habits today and make every dollar count.
+  - --------------------------
+- **Price mentions on page:** $10, $17.99
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Managing your money shouldn't feel confusing or overwhelming. Whether you're trying to stop overspending, save more, pay closer attention to where your money goes, or simply feel more in control of your finances, this Monthly Budget Planner for Google Sheets makes the process simple.
+  > Instead of guessing where your money went at the end of the month, you'll have a clear picture of your income, expenses, savings, and spending habits_all in one place.
+  > See exactly how much money you have coming in and decide in advance where it should go from essential expenses and bills to savings and personal spending.
+- **Page word count:** 1388
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5705470/image/product/K4ALGAE3.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

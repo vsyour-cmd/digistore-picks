@@ -1,0 +1,49 @@
+# THE LAST BOTTLE by Gulshan Ulduz PDF
+
+> Product ID `54299` · Digistore24 productId `638771` · [HTML profile page](../../reviews/the-last-bottle-by-gulshan-ulduz-pdf-54299.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $13.42 (Single payment) |
+| Affiliate commission | 20% |
+| Earnings/sale* | $2.68 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | DECLARATIONPLUS |
+| Listed since | 2025-09-30 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Family & Children |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Little tales for kind hearts. Written for all ages. The Last Bottle is an emotional, engaging story perfect for promoting across educational, parenting, mental health, and storytelling niches. This tale of recovery, friendship, and resilience resonates with teens and adults alike. Professionally illustrated and beautifully told, this high-quality PDF also includes the bonus satirical fable The Cro…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/638771#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/638771
+- Vendor affiliate support: https://docs.google.com/document/d/e/2PACX-1vRkGzyNi8kWpiLt20ZA9aC3j8A-tfANGSo006F1tOaFi4jD2FORoKPrpVD9SX613xiB-Wva52_qO2uz/pub
+- Canonical redirect: https://www.digistore24.com/redir/638771/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** FABLES FOR ALL. The Last Bottle by Gulshan Ulduz - Digistore24
+- **OG title:** FABLES FOR ALL. The Last Bottle by Gulshan Ulduz
+- **Price mentions on page:** $10, $12.00, $12
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > What if a bear could be an alcoholic? And what if his recovery was guided by a white tiger and a clever monkey?
+  > The Last Bottle is a thoughtful and touching fable about addiction, recovery, and second chances. This story follows a bear who once lived in a restaurant and became dependent on alcohol—but now, with the support of two loyal zoo companions, he's offered a path toward healing.
+  > Told with sincerity and depth, this illustrated tale sheds light on the emotional complexities of habit and change. A powerful read for teenagers and adults who enjoy metaphor-rich narratives and animal allegories.
+- **Page word count:** 740
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4539826/image/product/OXES32N6.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

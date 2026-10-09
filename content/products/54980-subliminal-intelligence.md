@@ -1,0 +1,47 @@
+# Subliminal‏ Intelligence
+
+> Product ID `54980` · Digistore24 productId `656795` · [HTML profile page](../../reviews/subliminal-intelligence-54980.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $73.83 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $29.53 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | frequencies8888 |
+| Listed since | 2025-12-21 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Subliminal‏ IntelligenceFocus Memory and Mental Performance Support Program ‏Intelligence Subliminal is a guided audio program designed to support focus, mental clarity, and improve memory and learning efficiency through structured listening.This program is designed to support self-development and everyday mental performance.It helps improve attention, organize thoughts, and absorb information dur…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453#aff=adminstore
+- Sales page: https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453
+- Vendor affiliate support: https://frequencies8888.systeme.io/2ae21186-4c762aeb-0d200997
+- Canonical redirect: https://www.digistore24.com/redir/656795/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Sales Page
+- **Price mentions on page:** $66
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > ‏Intelligence Subliminal is a guided audio program designed to support focus, mental clarity, and improve memory and learning efficiency through structured listening. This program is designed to support self-development and everyday mental performance. It helps improve attention, organize thoughts, and absorb information during studying, working, or various mental activities.
+  > If you’re not completely satisfied with the results, you can request a full refund within 60 days — no questions asked.
+  > Digital audio Subliminal video for personal development. The link will be sent to the buyer via email. Instant delivery after payment through Digistore24. One-time purchase (no subscription required).
+- **Page word count:** 269
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,56 @@
+# AI Tools Money Blueprint
+
+> Product ID `57144` · Digistore24 productId `706208` · [HTML profile page](../../reviews/ai-tools-money-blueprint-57144.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $27.00 (Single payment) |
+| Affiliate commission | 60% |
+| Earnings/sale* | $16.20 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Mega2023 |
+| Listed since | 2026-06-26 |
+| Auto-accept affiliates | yes |
+| Categories | Online Marketing & E-Business |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** ***Earn 60% Commissions — AI Tools Money Blueprint*** **Promote:** AI Tools Money Blueprint — How to Make Money Using Free AI Tools **Price:** $27 (Regular $97) **Commission:** 60% — That's $16.20 per sale **Conversion:** High — beginner-friendly offer with unique "free tools only" angle **What You're Promoting:** This is a complete beginner's guide to making money using only FREE AI tools. Your a…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.megapassive.online/ai-tools-money-blueprint#aff=adminstore
+- Sales page: https://www.megapassive.online/ai-tools-money-blueprint
+- Vendor affiliate support: https://www.megapassive.online/ai-tools-money-blueprint-affiliate-center
+- Canonical redirect: https://www.digistore24.com/redir/706208/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Headline (H1):**
+  > How To Make Money Using FREE AI Tools — Even If You're Starting From Zero
+- **Section headlines (H2):**
+  - Here's Everything Inside The AI Tools Money Blueprint…
+  - Get The Complete AI Tools Money Blueprint
+  - Try It Risk-Free
+  - These 5 FREE Bonuses Are Included When You Get Instant Access Today
+  - Get The Complete AI Tools Money Blueprint
+  - At 1:47 I reveal the FREE tool that changed everything for me…
+- **Price mentions on page:** $27
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "GET INSTANT ACCESS — ONLY $27 The guide + all 5 bonuses", "ADD TO CART — ONLY $27 Instant access after checkout", "Get Access"
+- **Opening copy (first paragraphs):**
+  > No tech skills. No paid subscriptions. No experience. Just a simple, step-by-step system for turning free AI tools into real income streams.
+  > A clear map of exactly which free AI tools to use, what each one does best, and when to use it — ChatGPT, Canva AI, free image generators, and free video tools, all mapped out so there's zero guesswork.
+  > Step-by-step methods for creating content, offering freelance services, and building digital products using only free AI tools — no design skills or writing experience required.
+- **Page word count:** 820
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

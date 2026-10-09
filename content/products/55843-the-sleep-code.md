@@ -1,0 +1,59 @@
+# The Sleep Code
+
+> Product ID `55843` · Digistore24 productId `674358` · [HTML profile page](../../reviews/the-sleep-code-55843.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $37.00 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $18.50 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | ZeroToCommission |
+| Listed since | 2026-03-06 |
+| Auto-accept affiliates | yes |
+| Categories | Health & Fitness, Personal Development, Spiri­tua­lity & Esotericism |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Promote The Sleep Code – tracks that help people fall asleep fast and wake up refreshed. Perfect for: sleep, insomnia, parenting, wellness, biohacking niches.
+
+## 2. Links
+
+- **Promo link (affiliate):** http://www.brainwavehaven.site/the-sleep-code#aff=adminstore
+- Sales page: http://www.brainwavehaven.site/the-sleep-code
+- Vendor affiliate support: https://www.brainwavehaven.site/the-sleep-code-affiliate-resources
+- Canonical redirect: https://www.digistore24.com/redir/674358/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** The Sleep Code
+- **Meta description:** The Sleep Code Sales Page
+- **Final URL after redirects:** https://www.brainwavehaven.site/the-sleep-code
+- **Headline (H1):**
+  > A 20-Minute Audio Exercise Designed to Support Deep, Restorative Sleep.
+  > Here's Everything You Get With The Sleep Code...
+- **Section headlines (H2):**
+  - GET THE SLEEP CODE — Just $37 (One-Time)
+  - Bonus Tracks: Kids' Sleep · Travel Sleep · Sleep Stories
+  - The Sleep Code User Guide (40+ Page PDF)
+  - "Can't Sleep?" Decision Tree (Visual Guide)
+  - 30-Day Sleep Journal (PDF)
+- **Price mentions on page:** $37, $164, $47, $27
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "GET THE SLEEP CODE - ONLY $37", "GET INSTANT ACCESS - ONLY $37", "ADD TO CART - ONLY $37", "CONTINUE WATCHING"
+- **Opening copy (first paragraphs):**
+  > A 20-Minute Audio Exercise Designed to Support Deep, Restorative Sleep — For the Nights the Clock Won't Stop Ticking.
+  > This is a digital product delivered instantly online — no physical items are shipped. Single, one-time payment. No recurring fees. Access begins immediately after checkout.
+  > One simple audio practice you press play on before bed. Built around rhythm and pacing designed to help your nervous system shift out of alert mode and into rest.
+- **Page word count:** 689
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

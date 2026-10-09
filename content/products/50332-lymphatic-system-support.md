@@ -1,0 +1,48 @@
+# Lymphatic System Support
+
+> Product ID `50332` · Digistore24 productId `572520` · [HTML profile page](../../reviews/lymphatic-system-support-50332.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Supplements - health |
+| Price | $253.70 (Subscription) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $164.90 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | SanoLabs |
+| Listed since | 2024-09-26 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Health & Fitness, Food Supplements |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Promote the Future of Lymphatic Health with SanoLabs! Join the Lymphatic System Support affiliate program and take advantage of a groundbreaking opportunity to market the hottest lymphatic supplement for 2025. Earn from 65% RevShare commissions with a product built for affiliate success! High-converting sales page, trusted physician endorsements, and seamless upsell funnels. CPA options available …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://lymphflowsupport.com/presentation-2#aff=adminstore
+- Sales page: https://lymphflowsupport.com/presentation-2
+- Vendor affiliate support: https://lymphflowsupport.com/affiliate
+- Canonical redirect: https://www.digistore24.com/redir/572520/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Lymphatic System Support
+- **Final URL after redirects:** https://lymphflowsupport.com/presentation
+- **Headline (H1):**
+  > Excessive Swelling? Do THIS Daily
+- **Opening copy (first paragraphs):**
+  > Sanolabs is not endorsed by, sponsored by, or affiliated with any of these organizations.
+  > AFFILIATE SITES & OVER 200 NEWS SITES Sanolabs is not endorsed by, sponsored by, or affiliated with any of these organizations.
+  > The information on this website has not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease.
+- **Page word count:** 131
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

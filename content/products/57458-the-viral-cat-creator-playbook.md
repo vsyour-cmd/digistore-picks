@@ -1,0 +1,59 @@
+# The Viral Cat Creator Playbook
+
+> Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](../../reviews/the-viral-cat-creator-playbook-57458.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $25.38 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $10.16 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | monimarketstudio4664 |
+| Listed since | 2026-07-08 |
+| Auto-accept affiliates | yes |
+| Categories | Animals & Pets, Online Marketing & E-Business, Social Media |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** This 32-page creator guide gives cat creators the exact system to grow on Instagram and TikTok in 2026. No generic tips. No fluff. Just the frameworks that actually work. Inside you get a complete 30-day done-for-you content calendar, 50 scroll-stopping hook templates sorted by goal, 4 high-converting script frameworks, a full brand deal pitch template with rate card guidance, 6 revenue streams be…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://catcreatorplaybook.netlify.app/#aff=adminstore
+- Sales page: https://catcreatorplaybook.netlify.app/
+- Vendor affiliate support: https://catcreator-partners.netlify.app/
+- Canonical redirect: https://www.digistore24.com/redir/708884/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** The Viral Cat Creator Playbook: For Creators Serious About the Pet Niche
+- **Meta description:** The 32-page playbook cat creators actually use to break the algorithm in 2026. 30-day content calendar, 50 hook templates, 6 revenue streams. Instant PDF download for €27.
+- **Headline (H1):**
+  > Everyone posts. Almost nobody scales.
+- **Section headlines (H2):**
+  - Every "how to go viral" post says the same three things .
+  - The creators winning in 2026 aren't better. They have better systems .
+  - Fifteen sections. Zero fluff. Every page earns its place.
+  - Built for creators who are done guessing.
+  - Priced like a book. Built like a business plan.
+  - The questions everyone asks.
+  - Your cat already has the personality. You just need the system.
+- **Price mentions on page:** €27., €27, €150, €97, €47, €37, €19, €348
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Get Instant Access · €27", "Get Instant Access →", "Buy & Download Now →", "Get Instant Access · €27 →"
+- **Opening copy (first paragraphs):**
+  > The 32-page playbook that gives you the systems top cat creators actually use: the hook structures, the 30-day calendar, the 6 revenue streams. No fluff. No basic tips you have read on every free blog. Just the frameworks that work in 2026.
+  > Consistency without a hook structure just means uploading forgettable content on schedule. Nine views, forever.
+  > Trending sounds without a retention loop get you a spike and a crash. The algorithm decides you're a one-hit account.
+- **Page word count:** 1375
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,60 @@
+# Put Yourself Back On The List
+
+> Product ID `60204` · Digistore24 productId `738544` · [HTML profile page](../../reviews/put-yourself-back-on-the-list-60204.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $20.00 (Single payment) |
+| Affiliate commission | 35% |
+| Earnings/sale* | $7.00 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | JettVitalWomen |
+| Listed since | 2026-10-05 |
+| Auto-accept affiliates | yes |
+| Categories | Uncategorized |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Mini-course for midlife women who have spent years putting themselves last and want to rediscover what they want, make themselves a priority, and create a practical plan for taking action.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://putyourselfbackonthelist-w4x.plannerpack.co#aff=adminstore
+- Sales page: https://putyourselfbackonthelist-w4x.plannerpack.co
+- Canonical redirect: https://www.digistore24.com/redir/738544/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Put Yourself Back On The List
+- **Meta description:** Feel calm, clear and energized while achieving the life you desire
+- **Final URL after redirects:** https://putyourselfbackonthelist-w4x.plannerpack.co/
+- **Headline (H1):**
+  > Put Yourself First Again With This Life Changing Program
+  > You’ve Been Showing Up for Everyone Else Now It’s Your Turn to Come Back to You
+- **Section headlines (H2):**
+  - How To Get Started
+  - It’s Almost Yours!
+  - About Me, I'm Yvette
+  - The FAQs
+  - Our You'll-Love-It Promise
+  - Prioritize yourself now, reclaim your life
+- **Price mentions on page:** $20
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Join The Program $20", "Order Now - $0", "Start Today"
+- **Opening copy (first paragraphs):**
+  > You have spent enough time putting everyone else first. This practical program helps you rebuild your time, energy, and confidence without guilt. See how others have approached it, so your comeback can start now.
+  > You keep showing up for everyone else, but your goals are still waiting. Put Yourself Back On The List is a step by step program designed to help you reclaim your time, rebuild your confidence, and create progress you can actually sustain. Here is the surprising truth: prioritizing yourself is not selfish; it is the foundation for better work, stronger relationships, and lasting growth. Follow the structure, take consistent action, and watch your next chapter take shape.
+  > You’ve been showing up for everyone else. Now it’s time to make room for you without the guilt, excuses, or “I’ll start Monday” routine.
+- **Page word count:** 1267
+- **OG image:** https://bizzy-backend-prod.s3.amazonaws.com/media/592/book_media/b85c567b-06a5-4949-8a5c-d82ca91dcb0d.png?v=1791515565612
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,52 @@
+# Ultimate OFF-GRID Generator - Top Performer for 2023
+
+> Product ID `43391` · Digistore24 productId `491275` · [HTML profile page](../../reviews/ultimate-off-grid-generator-top-performer-for-2023-43391.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $54.81 (Single payment) |
+| Affiliate commission | 75% |
+| Earnings/sale* | $41.11 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | infiniteensys |
+| Listed since | 2023-03-28 |
+| Auto-accept affiliates | yes |
+| Categories | Green Products & Environmental Protection |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** This Hot New Green Energy Offer Just Launched And EPCs Are Already Through The Roof. Crazy High Conversions & 90% Commissions Available! Unique Angle, Cutting-Edge VSL And ULTRA Optimized Upsell Funnel Will Rake In Cold Hard Cash Every Single Day. Experience Unprecedented Success On Youtube, Pinterest, Native, Facebook With Our Proven To Convert Creatives.
+
+## 2. Links
+
+- **Promo link (affiliate):** https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html#aff=adminstore
+- Sales page: https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html
+- Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
+- Canonical redirect: https://www.digistore24.com/redir/491275/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Ultimate OFF-GRID Generator
+- **Headline (H1):**
+  > Odd Little Device Kills Energy Bills and Generates Power On Demand
+- **Section headlines (H2):**
+  - Get the Complete Ultimate OFF-GRID Generator For Just $49
+- **Price mentions on page:** $49
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/491275
+- **Opening copy (first paragraphs):**
+  > 60 DAYS MONEY-BACK GUARANTEE In order to keep him anonymous, the author used a pen name: Michael Morgan
+  > Some home alteration alternatives may be illegal in your town, city, state, province or country. It is your responsibility to inquire with your local authority about how to proceed if restrictions apply. The product is an experiment, it was not technically assessed and has not been individually producted nor small-scale produced or mass-produced. Although we have not encountered a problem, you still must consult with your local authority.
+- **Page word count:** 284
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

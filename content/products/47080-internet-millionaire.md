@@ -1,0 +1,54 @@
+# Internet Millionaire
+
+> Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $2237.16 (Single payment, Installment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $1118.58 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | internets |
+| Listed since | 2023-11-24 |
+| Auto-accept affiliates | yes |
+| Categories | Personal Development, Profession & Job, Finances |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Affiliates, Earn $1000 Commissions Per Sale! This is your early opportunity to promote Internet Millionaire before we do an official product launch soon. START PROMOTING TODAYProduct Price: $200050% commissionsYou make $1000 per sale!
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.internetmillionaire.com/training#aff=adminstore
+- Sales page: https://www.internetmillionaire.com/training
+- Vendor affiliate support: https://www.internetmillionaire.com/affiliateinvitation
+- Canonical redirect: https://www.digistore24.com/redir/526858/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** FREE Webinar (Watch Now)
+- **Section headlines (H2):**
+  - Make sure your email is accurate because I'll email you the join link
+  - Next webinar session starting...
+  - After watching this FREE webinar, you'll be able to:
+  - ✅ How to spot simple digital product ideas people already pay for
+  - ✅ What to create first (and what to ignore) to avoid overcomplicating
+  - ✅ The easiest digital product formats to start with — no tech required
+  - ✅ How one product can be sold repeatedly without constant creation
+  - ✅ A clear path from idea → product → first sales
+  - ✅ How this fits alongside a normal job or schedule...
+  - Working...
+- **CTA button texts:** "Join the Webinar Now Watch the FREE Presentation"
+- **Page word count:** 336
+- **OG image:** https://www.internetmillionaire.com/hosted/images/02/394007403e40099c32d8dbea70bd3f/thumbnail.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

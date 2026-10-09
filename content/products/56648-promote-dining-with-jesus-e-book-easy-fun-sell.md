@@ -1,0 +1,42 @@
+# Promote "Dining With Jesus" | E-book | Easy Fun Sell!
+
+> Product ID `56648` · Digistore24 productId `689000` · [HTML profile page](../../reviews/promote-dining-with-jesus-e-book-easy-fun-sell-56648.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $12.99 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $8.44 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | urgencyweightloss7905 |
+| Listed since | 2026-05-22 |
+| Auto-accept affiliates | yes |
+| Categories | Food & Drink, Health & Fitness, Spiri­tua­lity & Esotericism |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Dining With Jesus: Discover What the Bible Really Says About Food What if the Bible had more to say about your diet than you ever imagined?
+
+## 2. Links
+
+- **Promo link (affiliate):** https://diningwithjesus.my.canva.site/#aff=adminstore
+- Sales page: https://diningwithjesus.my.canva.site/
+- Canonical redirect: https://www.digistore24.com/redir/689000/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** DINING WITH JESUS (Website)
+- **Price mentions on page:** $12., $12.99
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Page word count:** 4
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

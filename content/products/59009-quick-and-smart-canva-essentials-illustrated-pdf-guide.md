@@ -1,0 +1,51 @@
+# Quick and Smart Canva Essentials - Illustrated PDF Guide
+
+> Product ID `59009` · Digistore24 productId `727211` · [HTML profile page](../../reviews/quick-and-smart-canva-essentials-illustrated-pdf-guide-59009.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $20.00 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $10.00 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | shopysmiles |
+| Listed since | 2026-09-07 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Computer & Internet, Education, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Quick & Smart Canva Essentials is a 47-page illustrated PDF guide that helps readers understand Canva and create visual content with greater confidence. The guide covers templates, text, colours, photos, frames, grids, transparency, the Canva interface, Canva Free and Canva Pro, and useful keyboard shortcuts. It is suitable for entrepreneurs, content creators, freelancers, students, small business…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727211#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/727211
+- Canonical redirect: https://www.digistore24.com/redir/727211/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Quick and Smart Canva Essentials - Digistore24
+- **OG title:** Quick and Smart Canva Essentials
+- **Section headlines (H2):**
+  - Quick & Smart Canva Essentials
+  - Quick & Smart Canva Essentials
+- **Price mentions on page:** $10, $32.00, $20.00, $20
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > A practical, visual PDF guide to help you understand Canva, work more efficiently and bring your ideas to life without unnecessary complexity.
+  > You have an idea. A post to create. A presentation to prepare. A visual to publish. A project that deserves to look professional.
+  > But when you open Canva, you may find yourself faced with countless templates, menus, tools and options. Instead of creating, you spend time searching, clicking through different features and trying to understand what to do next.
+- **Page word count:** 1617
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5861576/image/product/XUJ8E0QX.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

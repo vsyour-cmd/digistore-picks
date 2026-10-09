@@ -1,0 +1,49 @@
+# Brand Professional Service
+
+> Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](../../reviews/brand-professional-service-60405.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $513.44 (Single payment) |
+| Affiliate commission | 25% |
+| Earnings/sale* | $128.36 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | xarutacom |
+| Listed since | 2026-10-08 |
+| Auto-accept affiliates | yes |
+| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Format: Service ✅ Logo Concept✅ Brand Colors✅ Typography✅ Instagram Style✅ 10 Social Media Templates✅ 5 Reels Covers✅ Mini Brand Guide AND ✅ Your complete Instagram brand system➡️ Visual identity. ➡️ Content system. ➡️ Brand voice. ➡️ AI image style. ➡️ Content ideas.✅ 20 Instagram Templates✅ Content Guidelines AI Image Style✅ Brand Voice ✅ 30 Content Ideas
+
+## 2. Links
+
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/brand-pro/#aff=adminstore
+- Sales page: https://xaruta4.wordpress.com/brand-pro/
+- Canonical redirect: https://www.digistore24.com/redir/743400/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Brand Pro - xaruta.com©
+- **OG title:** Brand Pro
+- **Meta description:** 👔 €459🛒 - 💶💳🇩🇪 German 🇪🇸 Spanish Brand Starter included ➕: ✅ Build a brand people recognize✅ Your complete Instagram brand system➡️ Visual identity. ➡️ Content system. ➡️ Brand voice. ➡️ AI image style. ➡️ Content ideas.✅ 20 Instagram Templates✅ Content Guidelines AI Image Style✅ Brand Voice ✅ 30 Content Ideas Info:Download
+- **Headline (H1):**
+  > Brand Pro
+- **Price mentions on page:** €459
+- **CTA button texts:** "Download"
+- **Opening copy (first paragraphs):**
+  > ✅ Build a brand people recognize ✅ Your complete Instagram brand system ➡️ Visual identity. ➡️ Content system. ➡️ Brand voice. ➡️ AI image style. ➡️ Content ideas. ✅ 20 Instagram Templates ✅ Content Guidelines AI Image Style ✅ Brand Voice ✅ 30 Content Ideas
+- **Page word count:** 216
+- **OG image:** https://xaruta4.wordpress.com/wp-content/uploads/2026/10/brand_starter_logo_2_symbol_red.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

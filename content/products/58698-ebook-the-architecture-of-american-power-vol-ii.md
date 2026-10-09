@@ -1,0 +1,56 @@
+# Ebook - The Architecture of American Power Vol II
+
+> Product ID `58698` · Digistore24 productId `726681` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-ii-58698.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $14.53 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $7.27 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | joebgesbuchverleger39ac |
+| Listed since | 2026-08-27 |
+| Auto-accept affiliates | yes |
+| Categories | Law & Justice, Politics & Economy |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** HOW DOES POLITICAL AUTHORITY BECOME GLOBAL POWER? The Architecture of American Power – Volume II: The Strategic Instruments of Power examines the systems through which the United States transforms political authority into sustained strategic capability and international influence. The volume explores the interconnected instruments behind American power: intelligence and information networks, milit…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726681#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/726681
+- Canonical redirect: https://www.digistore24.com/redir/726681/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** The Architecture of American Power - Volume II - Lucian R. Varen - Digistore24
+- **OG title:** The Architecture of American Power - Volume II - Lucian R. Varen
+- **Headline (H1):**
+  > THE ARCHITECTURE OF AMERICAN POWER – VOLUME II
+  > HOW STRATEGIC SYSTEMS TRANSFORM POLITICAL AUTHORITY INTO POWER
+  > WHY INTELLIGENCE AND INFORMATION HAVE BECOME FOUNDATIONS OF MODERN POWER
+- **Section headlines (H2):**
+  - The Strategic Instruments of Power
+  - The Strategic Instruments of Power
+  - The Strategic Instruments of Power
+- **Price mentions on page:** $10, €12.99
+- **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > Understand How Intelligence, Military Capability, Economic Strength, Finance, Technology, Science, and Global Influence Transform National Capacity into Strategic Power
+  > Institutions can create legitimacy, continuity, and the capacity to govern. But political organization alone does not explain why some states acquire the ability to shape security environments, influence economic systems, maintain technological advantages, or project power far beyond their borders.
+  > The Architecture of American Power – Volume II: The Strategic Instruments of Power examines the interconnected systems through which American political and institutional capacity becomes operational power.
+- **Page word count:** 5539
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5390043/image/product/WPH3WD71.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,60 @@
+# Alpha Drive 24
+
+> Product ID `47589` · Digistore24 productId `544750` · [HTML profile page](../../reviews/alpha-drive-24-47589.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Supplements - health |
+| Price | $137.88 (Single payment) |
+| Affiliate commission | 70% |
+| Earnings/sale* | $127.93 |
+| Cart conversion* | 6% |
+| Cancel rate* | 15.45% |
+| Vendor | alphadrive24 |
+| Listed since | 2024-03-21 |
+| Auto-accept affiliates | yes |
+| Categories | Food Supplements |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** ALPHA DRIVE 24EARN MORE WHEN YOU PROMOTE THE FASTEST SCALING OFFER FROM THE GOAT MARKET LTD!
+
+## 2. Links
+
+- **Promo link (affiliate):** https://alphadrive24.com/landing-page--v2#aff=adminstore
+- Sales page: https://alphadrive24.com/landing-page--v2
+- Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/alpha-drive-24
+- Canonical redirect: https://www.digistore24.com/redir/544750/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Alpha Drive: Natural Sexual Performance Booster
+- **Meta description:** Discover Alpha Drive, the natural solution for enhancing sexual health and performance. With Endurologix Essence, boost your testosterone, energy, and endurance safely.
+- **Headline (H1):**
+  > SEE HOW IT WORKS
+  > 100% ALL NATURAL INGREDIENTS
+  > 100% ALL NATURAL INGREDIENTS
+- **Section headlines (H2):**
+  - Expert Opinion About
+  - Marie Smith
+  - Benefits
+  - Why ALPHA DRIVE
+  - $49 Total
+  - $174 Total
+  - $117 Total
+- **Price mentions on page:** $49, $29, $174, $39, $117
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Science confirmed that a unique blend called “Endurologix Essence” found in Alpha Drive has incredible impact on sex drive
+  > “Without Endurologix Essence tackles everyday issues like stress and low testosterone that can knock your sex drive off balance. It's like a helping hand, ensuring you're ready and at your best for those intimate moments.”
+  > While many sexual performance supplements are available today, not all deliver consistent results. Alpha Drive is the outcome of meticulous research, crafted to significantly enhance sexual health and performance when used as directed.
+- **Page word count:** 1035
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

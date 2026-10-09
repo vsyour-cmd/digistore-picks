@@ -1,0 +1,62 @@
+# Prostadine
+
+> Product ID `44131` · Digistore24 productId `500416` · [HTML profile page](../../reviews/prostadine-44131.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Supplements - health |
+| Price | $202.29 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $138.02 |
+| Cart conversion* | 5% |
+| Cancel rate* | 13.98% |
+| Vendor | Prostadine |
+| Listed since | 2023-05-25 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Food Supplements |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Brand-New Prostate Solution Already Going for #1 Hottest Offer - Amazing conversion on Native, Facebook, Email and YT - More than $3+ EPCs - Top VSL that targets a wide audience
+
+## 2. Links
+
+- **Promo link (affiliate):** https://myprostadine24.com/text.php#aff=adminstore
+- Sales page: https://myprostadine24.com/text.php
+- Vendor affiliate support: https://myprostadine24.com/help/affiliates.php
+- Canonical redirect: https://www.digistore24.com/redir/500416/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Prostadine - Text Presentation
+- **Meta description:** Prostadine - Text Presentation
+- **Headline (H1):**
+  > Inside every drop of "Prostadine" you'll find:
+  > Order 6 Bottles and Get 2 FREE Bonuses!
+  > Every 6 Bottles Order Gets FREE Shipping Too!
+- **Section headlines (H2):**
+  - This Cold Drink Might Trigger Your Prostate
+  - Scientists Discover The Real Root Cause Of Prostate Problems
+  - Tom Stevenson enjoys life to the fullest...
+  - James Richards has never felt better...
+  - Charlie Williams is, once again, a confident man...
+  - Claim Your Discounted Prostadine Below While Stocks Last!
+  - Frequently Asked Questions
+  - Claim Your Discounted Prostadine Below While Stocks Last!
+- **Price mentions on page:** $79, $15.95
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Get Started"
+- **Opening copy (first paragraphs):**
+  > August 2022 - New Scientific Discovery Scientists Discover The Real Root Cause Of Prostate Problems A recent Harvard study draws attention to the hard water in the US which contains toxic minerals that can create a dangerous buildup inside the body if consumed for a longer period of time.
+  > As it turns out, hard water is found in the majority of US areas and, unfortunately, the government just closes its eyes on the fact that millions of Americans have improper tap water caused by poor and aging water pipe infrastructure.
+  > Prostadine is unlike anything you’ve ever tried or experienced in your life before. It’s the only dropper that contains nine powerful natural ingredients that work in perfect synergy to keep your prostate healthy and mineral-free well into old age.
+- **Page word count:** 1885
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

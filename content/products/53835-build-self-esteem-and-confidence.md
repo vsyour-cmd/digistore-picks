@@ -1,0 +1,60 @@
+# Build Self-Esteem and Confidence
+
+> Product ID `53835` · Digistore24 productId `633822` · [HTML profile page](../../reviews/build-self-esteem-and-confidence-53835.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $20.12 (Single payment) |
+| Affiliate commission | 80% |
+| Earnings/sale* | $16.10 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | GhulamBooks |
+| Listed since | 2025-09-04 |
+| Auto-accept affiliates | yes |
+| Categories | Family & Children, Spiri­tua­lity & Esotericism, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Affiliate Commission: 80% Product : Ebook Price: $17.99 Target Countries: USA, UK, Canada, Australia, New Zealand
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/633822#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/633822
+- Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/how-to-build-self-esteem-and-confidence.html
+- Canonical redirect: https://www.digistore24.com/redir/633822/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** How to Build Self-Esteem and Confidence - Digistore24
+- **OG title:** How to Build Self-Esteem and Confidence
+- **Section headlines (H2):**
+  - From "People Pleaser" to Power Player: How to Trade Your Social Anxiety for the Unshakable Calm of a Leader.
+  - ---------> To Know "Read This Book"
+  - The 60-Second Courage Reset: How to Project Unstoppable Authority Before You Even Open Your Mouth.
+  - ---------> To Know "Read This Book"
+  - If you buy "How to Build Self-Esteem and Confidence (Ebook)" you will get another eBook For Free
+  - The Confidence Paradox: Why "Fake It Til You Make It" is Killing Your Self-Esteem and the One Internal Switch That Actually Works.
+  - ---------> To Know "Read This Book"
+  - Reviews
+  - About The Co-Author
+  - From "People Pleaser" to Power Player: How to Trade Your Social Anxiety for the Unshakable Calm of a Leader.
+- **Price mentions on page:** $47, $17.99, $10
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > You don’t struggle with confidence because you’re incapable, you struggle because somewhere along the way, doubt became louder than belief. You replay mistakes in your mind, compare yourself to others, and question whether you’re truly enough. Even your achievements feel small under the weight of self-criticism. You want to speak up, take chances, and trust yourself, but that quiet voice of insecurity keeps holding you back.
+  > I used to feel invisible in every room I entered. Self-doubt controlled my life, at work, in relationships, and even in simple social situations. How to Build Self-Esteem and Confidence finally helped me understand the root causes of my insecurities and gave practical, actionable steps to overcome them. After applying the exercises and mindset strategies, I now speak up in meetings, assert my boundaries, and feel proud of my accomplishments
+  > What You’ll Learn Inside: ✅ The root causes of low self-esteem and how to address them.
+- **Page word count:** 2890
+- **OG image:** https://www.digistore24.com/pb/img/merchant_4830506/image/product/YK0HIS39.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

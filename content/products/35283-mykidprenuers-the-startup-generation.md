@@ -1,0 +1,40 @@
+# myKidPrenuers : The StartUp Generation
+
+> Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](../../reviews/mykidprenuers-the-startup-generation-35283.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $27.96 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $13.98 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | workshaft |
+| Listed since | 2021-01-03 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Online Marketing & E-Business |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** The Financial Literacy for Kids Toolkit is a comprehensive resource designed to empower young minds with essential money management skills. It includes: "MyKidpreneurs" eBook: An engaging and informative eBook tailored for children, teaching them the fundamentals of entrepreneurship, financial responsibility, and creative thinking. Bonus Teaching MP4: A multimedia resource offering dynamic visual …
+
+## 2. Links
+
+- **Promo link (affiliate):** https://51percent.wixsite.com/mykidpreneurs#aff=adminstore
+- Sales page: https://51percent.wixsite.com/mykidpreneurs
+- Vendor affiliate support: https://schoolofemergingtrends.systeme.io/affiliates-mykidpreneurs
+- Canonical redirect: https://www.digistore24.com/redir/365629/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+> Sales page not yet researched. This section will be filled by the next research run.
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

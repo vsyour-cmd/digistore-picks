@@ -1,0 +1,59 @@
+# Architecture VIZ Graphics – Abstract People Collection PNG
+
+> Product ID `59176` · Digistore24 productId `593563` · [HTML profile page](../../reviews/architecture-viz-graphics-abstract-people-collection-png-59176.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Downloads |
+| Price | $159.00 (Single payment) |
+| Affiliate commission | 25% |
+| Earnings/sale* | $39.75 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | Tonytextures |
+| Listed since | 2026-09-13 |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Hobby & Craft, Photography & Film, Profession & Job |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Architecture VIZ Graphics: Cutout People – Abstract People Collection Professional graphic collections for architectural visualizations by Tonytextures — designed for architects, landscape designers and ArchVIZ studios. Abstract cutout people silhouettes for architectural illustrations — stylized figures ideal for concept renderings and design presentations. Find all information and free sample do…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.tonytextures.com/architecture-people-cutout-silhouettes/#aff=adminstore
+- Sales page: https://www.tonytextures.com/architecture-people-cutout-silhouettes/
+- Vendor affiliate support: https://www.tonytextures.com/affiliates/
+- Canonical redirect: https://www.digistore24.com/redir/593563/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Architecture Silhouettes PNG Format for Architectural Illustrations
+- **Meta description:** Our extensive professional collection for architects: 350 cutout architecture silhouettes (png format) - ready to use in your architectural visualizations!
+- **Headline (H1):**
+  > Architecture People
+  > Architecture Silhouettes (PNG)
+- **Section headlines (H2):**
+  - 208 People for Architectural Visualisation as
+  - Includes 350 cut out, hand drawn people silhouettes!
+  - Preview Download – Try it before you buy!
+  - Save Money with our Bundle Offers:
+  - License Agreement?
+  - Any Questions Left?
+  - Footer
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "DOWNLOAD .PNG Datei", "DOWNLOAD .EPS Datei", "DOWNLOAD"
+- **Opening copy (first paragraphs):**
+  > A very comprehensive collection of abstract people architecture silhouettes to bring life to your renderings!
+  > A comprehensive colllction of abstract architectural silhouettes of people in image and CAD formats for architectural visualisations.
+  > Cut out people are a necessity for every architectural visualisation! They breath life into the illustration and help the viewer understand the proportions better.
+- **Page word count:** 838
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

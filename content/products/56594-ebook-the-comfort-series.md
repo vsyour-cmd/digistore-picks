@@ -1,0 +1,48 @@
+# Ebook - The Comfort Series
+
+> Product ID `56594` · Digistore24 productId `693948` · [HTML profile page](../../reviews/ebook-the-comfort-series-56594.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $11.17 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $5.59 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | joebgesbuchverleger39ac |
+| Listed since | 2026-05-19 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Personal Development |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** “The Comfort Trap” strikes at a highly relevant issue: People experiencing comfort, overwhelm, and stagnation despite seemingly limitless opportunities. The book combines psychology, habits, fear of change, and modern convenience into a provocative message with strong emotional resonance — making it especially appealing to audiences interested in personal development, mindset, and self-improvement…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/693948#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/693948
+- Canonical redirect: https://www.digistore24.com/redir/693948/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** The Comfort Series – Complete Collection by Catherine Chic - Digistore24
+- **OG title:** The Comfort Series – Complete Collection by Catherine Chic
+- **Price mentions on page:** $10, €9.99
+- **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > Introduction What if the things designed to make life easier are slowly making life smaller?
+  > What if the routines, habits, and comforts you rely on are not protecting you—but keeping you trapped?
+  > The Comfort Trap explores one of the most overlooked dynamics of modern life: how convenience, predictability, and the avoidance of discomfort shape decisions, behavior, and identity.
+- **Page word count:** 2233
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5390043/image/product/IY5GNYNJ.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

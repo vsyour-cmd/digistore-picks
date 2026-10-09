@@ -1,0 +1,51 @@
+# Nail Refresh
+
+> Product ID `57560` · Digistore24 productId `708127` · [HTML profile page](../../reviews/nail-refresh-57560.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Deliverable |
+| Price | $138.00 (Single payment) |
+| Affiliate commission | 70% |
+| Earnings/sale* | $96.60 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | premvitality |
+| Listed since | 2026-07-16 |
+| Auto-accept affiliates | yes |
+| Categories | Health & Fitness, Food Supplements |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Highest payouts in the industry Amazing affiliate support ​Tons of banners, email swipes, and other resources ​Low Refund Rate Mobile and Tablet Optimized Site Funnel customizations available Sales domestically and internationally ​Top Tier VSL Production
+
+## 2. Links
+
+- **Promo link (affiliate):** https://secure.nailrefresh.com/index-bp-ds#aff=adminstore
+- Sales page: https://secure.nailrefresh.com/index-bp-ds
+- Vendor affiliate support: https://secure.nailrefresh.com/affiliates-ds
+- Canonical redirect: https://www.digistore24.com/redir/708127/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Natural Nail Fungus Relief
+- **Headline (H1):**
+  > Top MD Discovers Hidden 'Fungus Force Field' Blocking Toenail Treatments... Plus the 7-Second At-Home Fix to Reveal Strong, Smooth and Shiny Toenails... FAST!
+  > Join Thousands Who Have Eradicated Toenail Fungus for Good
+  > Backed by Scientific Research, Nail Refresh Contains a Proven Proprietary Blend Designed to Penetrate the Toughest Fungal Biofilms.
+- **Section headlines (H2):**
+  - Join thousands who have permanently eliminated yellow, brittle nails using this doctor-led "Outback Ritual."
+  - Get Free Shipping Worldwide! After clicking below bottles will be rushed to your door. One Time Fee - No Subscription
+  - ${item.answer}
+- **Price mentions on page:** $47, $37
+- **Guarantee mention:** "180" (verify on the official page before relying on it)
+- **Page word count:** 1592
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

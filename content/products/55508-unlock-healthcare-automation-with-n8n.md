@@ -1,0 +1,62 @@
+# Unlock Healthcare Automation with n8n
+
+> Product ID `55508` · Digistore24 productId `667670` · [HTML profile page](../../reviews/unlock-healthcare-automation-with-n8n-55508.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | E-books |
+| Price | $8.95 (Single payment) |
+| Affiliate commission | 35% |
+| Earnings/sale* | $3.13 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | MohammedAsif_k |
+| Listed since | 2026-02-09 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Health & Fitness, Software |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Unlock Healthcare Automation with n8n Technical Implementation Guide for Healthcare Workflow Systems What This Is This is a digital downloadable eBook designed to teach developers and technical professionals how to design, build, and deploy healthcare-focused automation workflows using n8n. It provides structured guidance on: Workflow architecture Node configuration API integrations Data transform…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/667670#aff=adminstore
+- Sales page: https://www.checkout-ds24.com/product/667670
+- Canonical redirect: https://www.digistore24.com/redir/667670/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Unlock Healthcare Automation with n8n - Digistore24
+- **OG title:** Unlock Healthcare Automation with n8n
+- **Headline (H1):**
+  > Unlock Healthcare Automation with n8n
+  > Unlock Healthcare Automation with n8n
+  > Unlock Healthcare Automation with n8n
+- **Section headlines (H2):**
+  - What This Is
+  - What You Can Do
+  - What’s Included (Digital Files)
+  - Who This Is For
+  - Who This Is NOT For
+  - Important Compliance Notice
+  - What You Receive
+  - Technical Requirements
+  - Refund Policy
+  - Final Note
+- **Price mentions on page:** $10, $5.00
+- **Opening copy (first paragraphs):**
+  > This is a digital downloadable eBook designed to help developers and technical professionals understand how to build structured healthcare-related automation workflows using n8n.
+  > It explains workflow design, API integration, automation logic, and deployment considerations within healthcare environments.
+  > This product is for educational and implementation guidance purposes only. It does not provide medical advice, legal advice, or compliance certification.
+- **Page word count:** 1385
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5097670/image/product/4CU4J7NP.jpg
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,63 @@
+# Oradentum
+
+> Product ID `52769` · Digistore24 productId `614878` · [HTML profile page](../../reviews/oradentum-52769.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Supplements - health |
+| Price | $88.37 (Single payment) |
+| Affiliate commission | 65% |
+| Earnings/sale* | $57.44 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | oradentum |
+| Listed since | 2025-05-26 |
+| Auto-accept affiliates | yes |
+| Categories | Food Supplements |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Introducing Oradentum - The ultimate 21-in-1 oral care solution, packed only with powerful, natural ingredients! This innovative formula is designed to offer superior dental rejuvenation and is sure to make everyone eager to try it!
+
+## 2. Links
+
+- **Promo link (affiliate):** http://getoradentum.cc/welcome/#aff=adminstore
+- Sales page: http://getoradentum.cc/welcome/
+- Vendor affiliate support: https://getoradentum.cc/affiliates/
+- Canonical redirect: https://www.digistore24.com/redir/614878/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Oradentum - Presentation
+- **Meta description:** Oradentum Presentation
+- **Final URL after redirects:** https://getoradentum.cc/welcome/
+- **Headline (H1):**
+  > Unlock the Ancient Himalayan Herbal Secret to a Perfect Smile
+- **Section headlines (H2):**
+  - Your Dental Well-Being Journey Starts Now:
+  - WARNING !!!
+  - Q: Will this work for me?
+  - Q: Is Oradentum really safe ?
+  - Q: How long would it take to receive the product to my delivery address?
+  - Q: How will I identify the transaction on my bank statement?
+  - Q: Is there a refund policy for my transaction?
+  - Q: Does your product require multiple payments?
+  - Q: How secure are this page and my transaction?
+  - Q: I have additional questions. Can you help me out?
+- **Price mentions on page:** $400, $97,, $87,, $140, $99, $79, $20, $49, $294, $434, $59, $177
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "buy now", "learn more", "Buy Now"
+- **Opening copy (first paragraphs):**
+  > Every ingredient has been backed by research to promote oral health holistically without any compromises.
+  > This powerful formula targets gum health, strong teeth, and fresh breath - all in a single, easy-to-use supplement.
+  > Oradentum is a unique formula with 21 carefully selected nutrients, herbs, and minerals designed to support dental health.
+- **Page word count:** 1573
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -1,0 +1,53 @@
+# Easy AI eBook Writer
+
+> Product ID `56750` · Digistore24 productId `696560` · [HTML profile page](../../reviews/easy-ai-ebook-writer-56750.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Software |
+| Price | $29.99 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $15.00 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | oraclefx |
+| Listed since | 2026-05-29 |
+| Auto-accept affiliates | yes |
+| Categories | Business & Investment, Online Marketing & E-Business, Software |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** “Easy AI eBook Writer” Welcome Affiliates Thank you for your interest in promoting Easy AI eBook Writer — a powerful AI-powered digital tool designed to help beginners, marketers, and content creators generate high-quality eBooks in minutes without writing, design, or technical skills. This product is built for speed, simplicity, and scalability, allowing users to turn ideas into complete eBooks t…
+
+## 2. Links
+
+- **Promo link (affiliate):** https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html#aff=adminstore
+- Sales page: https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html
+- Vendor affiliate support: https://oraclefx.org/Easy-AI-Ebook-Writer/affiliates.html
+- Canonical redirect: https://www.digistore24.com/redir/696560/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** AI-Ebook-Writer-MASTER-PROMPT
+- **OG title:** Turn Simple Ideas into Beautiful, Sellable eBooks in Minutes!
+- **Meta description:** Create Stunning Ebooks in Any Niche in Minutes with a powerful master prompt that helps create your eBook title, chapters, content, cover and 3D mockup in almost any niche.
+- **Headline (H1):**
+  > Turn Simple Ideas into Beautiful, Sellable eBooks in Minutes!
+- **Price mentions on page:** $29.99
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "GET YOUR COPY", "GET YOUR COPY - Instant Download"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/696560
+- **Opening copy (first paragraphs):**
+  > Create Stunning Ebooks in Any Niche in Minutes with a powerful master prompt that helps create your eBook title, chapters, content, cover and 3D mockup in almost any niche.
+- **Page word count:** 128
+- **OG image:** https://oraclefx.org/Easy-AI-Ebook-Writer/AI-Ebook-Writer-MASTER-PROMPT.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

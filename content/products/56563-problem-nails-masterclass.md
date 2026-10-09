@@ -1,0 +1,62 @@
+# Problem Nails Masterclass
+
+> Product ID `56563` · Digistore24 productId `691670` · [HTML profile page](../../reviews/problem-nails-masterclass-56563.html)
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+
+## 1. Marketplace record (official Digistore24 data)
+
+| Field | Value |
+|---|---|
+| Product type | Member area and video courses |
+| Price | $131.99 (Single payment) |
+| Affiliate commission | 50% |
+| Earnings/sale* | $66.00 |
+| Cart conversion* | — |
+| Cancel rate* | — |
+| Vendor | info5a25 |
+| Listed since | 2026-05-18 |
+| Auto-accept affiliates | yes |
+| Categories | Education, Fashion, Health & Fitness |
+
+*Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
+
+**Vendor's marketplace description:** Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request. Earn 50% Commission Promoting 5-Star Nail Education CoursesLet's grow together!
+
+## 2. Links
+
+- **Promo link (affiliate):** https://vel.academy/course-problem-nails-d24#aff=adminstore
+- Sales page: https://vel.academy/course-problem-nails-d24
+- Vendor affiliate support: https://vel.academy/affiliate-help
+- Canonical redirect: https://www.digistore24.com/redir/691670/adminstore
+
+## 3. Sales-page research (vendor claims, not verified by us)
+
+- **Page title:** Problem Nails Masterclass: Hooked, Curved & Downward Nails — Fixes That Actually Work
+- **OG title:** Problem nails D24
+- **Meta description:** Looking for Russian manicure for difficult nails? Wondering how to fix hooked nails with Russian manicure technique? Need advanced Russian manicure for nail reconstruction? This is the course other techs wish existed when they started turning away problem
+- **Headline (H1):**
+  > Fix what other techs won't touch.
+- **Section headlines (H2):**
+  - What You'll Learn
+  - Who This Course Is For
+  - Course Curriculum
+  - What Students Are Saying
+  - What You Need
+  - Your Instructor
+  - Frequently Asked Questions
+  - Problem Nails Masterclass
+- **Price mentions on page:** $131.99, $99.00, $411, $311.99
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Get the Full Bundle →", "click here"
+- **Opening copy (first paragraphs):**
+  > Four real clients. Four different disasters. Hooked nails, missing sidewalls, deep cracks, inherited extensions. The cases other techs quietly refuse. Advanced reconstruction — polygel, precision filing, techniques that transform problem nails permanently.
+  > License-safe technique See It In Action Watch what's inside — in under 60 seconds
+  > 12 lessons across 4 real cases · hooked nails · crack repair · shape transformation · extension correction
+- **Page word count:** 2004
+- **OG image:** https://static.tildacdn.net/tild3735-6339-4130-a132-333665646362/_.png
+
+> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+## 4. Editorial notes
+
+(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)
