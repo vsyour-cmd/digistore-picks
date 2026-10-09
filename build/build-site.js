@@ -448,7 +448,15 @@ function profilePages(altSlugs) {
     const compareBlock = altData.length >= 3
       ? `<h2>How ${esc(p.label)} compares (marketplace numbers)</h2>
 ${compareTable(p, altData)}
-<p class="sub">* Vendor-side marketplace statistics; depend on traffic quality, not a forecast. Full context: <a href="../alternatives/${p.slug}.html">alternatives page for ${esc(p.label)}</a>.</p>`
+<p class="sub">* Vendor-side marketplace statistics; depend on traffic quality, not a forecast. Full context: <a href="../alternatives/${p.slug}.html">alternatives page for ${esc(p.label)}</a>.</p>
+<h2>Decision factors buyers care about</h2>
+<ul>
+<li><b>Function:</b> compare cart conversion and vendor track record — the table above shows both.</li>
+<li><b>Compatibility:</b> check type and requirements (delivery format, prerequisites) on each profile.</li>
+<li><b>Maintenance:</b> cancel rate is the refund-regret signal; access terms live on the official pages.</li>
+<li><b>After-sales:</b> guarantee language and support — verify on official pages before paying.</li>
+</ul>
+<p class="sub">These four dimensions map to the pre-purchase risk checklist on each product profile.</p>`
       : "";
 
     // 关联增强:同厂商跨站 / 其他分类 / 相似价位
@@ -525,6 +533,8 @@ ${galleryBlock(p)}
 ${cautionSection(p)}
 
 ${evidenceBox(p)}
+
+${buyerChecklist(p)}
 
 ${faqBlock}
 
@@ -894,6 +904,7 @@ function relatedSearches(p, altSlugs) {
     if (cat.count >= 8) pills.push([`Best ${cat.label} products`, `../best-of/best-${cat.file}.html`]);
   }
   pills.push([`${p.label} FAQ`, "#faq"]);
+  if (GQ.products[String(p.id)]) pills.push([`${p.label} buyer risk checklist`, "#buying-decisions"]);
   pills.push([`How we evaluate products`, `../blog/digistore24-numbers-checklist.html`]);
   return `<h2>Related searches</h2>
 <div class="pills">
@@ -935,6 +946,29 @@ function evidenceBox(p) {
 <li><b>Not verified by us:</b> product quality, outcomes, testimonials — no hands-on test has been performed for this listing.</li>
 </ul></div>`;
 }
+
+// 购买前风险清单(AI 模拟买家尽调问题;答案仅来自市场数据或标注的厂商宣称)
+const GQ_FILE = "G:/Digistore24/data/gemini-questions-en.json";
+const GQ = fs.existsSync(GQ_FILE) ? JSON.parse(fs.readFileSync(GQ_FILE, "utf8")) : { products: {} };
+function buyerChecklist(p) {
+  const g = GQ.products[String(p.id)];
+  if (!g || !g.groups) return "";
+  const renderItem = (item) => {
+    const l = item.toLowerCase();
+    let pointer = "→ ask the vendor on the <a href=\"" + esc(p.promoLink) + "\" rel=\"nofollow sponsored noopener\" target=\"_blank\">official sales page</a>";
+    if (/price|cost|\$|billed|€/.test(l)) pointer = "→ answer: <a href=\"#record\">marketplace record</a>";
+    if (/guarantee|refund|money-back/.test(l)) pointer = "→ answer: <a href=\"#research\">guarantee research</a> + confirm on official page";
+    if (/legit|evidence|verif|case stud|track record|testimonial/.test(l)) pointer = "→ answer: <a href=\"#research\">sales-page research</a> — vendor claims, not verified by us";
+    if (/vendor|creator|coach|author|who/.test(l)) pointer = "→ answer: <a href=\"#vendor\">vendor block</a> + <a href=\"#research\">research</a>";
+    if (/alternative/.test(l)) pointer = "→ answer: <a href=\"../alternatives/" + p.slug + ".html\">alternatives page</a>";
+    if (/deliver|download|access after|after paying|member area/.test(l)) pointer = "→ answer: <a href=\"#faq\">delivery FAQ</a>";
+    return `<li>${esc(item)} <span class="sub">${pointer}</span></li>`;
+    };
+    const groups = g.groups.map((grp) => `<h3>${esc(grp.group)} — does it hold up?</h3><ul>${grp.questions.map(renderItem).join("")}</ul>`).join("");
+    return `<h2 id="buying-decisions">Before you pay: what buyers of ${esc(p.label)} try to resolve first</h2>
+<div class="notice"><b>AI-simulated buyer due-diligence questions</b> (not verified customer research). Where our data can answer, we link it; everything else must be clarified with the vendor before you pay.</div>
+${groups}`;
+  }
 
 function faqData(p, altData) {
   const gm = p.research && !p.research.error && p.research.guaranteeMention;

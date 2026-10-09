@@ -88,6 +88,36 @@ language: "en"
 > A full VSL script written and produced for your offer — ready to record or hand off to a voice-over artist. Hooks attention and drives buyers to checkout.
 > Results may vary. Income figures and examples used on this page are illustrative and not guarantees of earnings. Individual results depend on effort, experience, and market conditions. This site is not affiliated with or endorsed by Digistore24 Inc.
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Function**
+- [ ] What exactly is 'done for me' — product creation, sales page, traffic, or all three?
+- [ ] Do I own the product and sales page, or am I licensing them?
+- [ ] Is the delivered sales page the same one sold to every other buyer?
+- [ ] What does the VSL contain and who wrote/crafted it?
+- [ ] How do buyers actually find my offer — is traffic included or my job?
+- [ ] Is the $2,254 price all-in or are there required add-ons?
+
+**Compatibility**
+- [ ] Do I need an existing audience or email list for this to work?
+- [ ] Which niches does the done-for-you setup support — can I pick any topic?
+- [ ] Do I need technical skills to connect the offer to Digistore24?
+- [ ] Is my country eligible for a Digistore24 vendor account and payouts?
+- [ ] How many hours per week does running the offer take after launch?
+- [ ] What if I have never created a product before — is onboarding included?
+
+**Maintenance**
+- [ ] Who maintains the product/sales page after delivery — me or the vendor?
+- [ ] What ongoing costs exist (hosting, tools, support)?
+- [ ] How are buyer refunds handled — do I carry the cost?
+- [ ] Can I update prices, bonuses, and page copy myself later?
+
+**After-sales**
+- [ ] What is the refund policy on this $2,254 setup service itself?
+- [ ] Is there support for Digistore24 vendor account setup and approval?
+- [ ] What happens if my vendor application gets rejected?
+- [ ] Are updates to the funnel included or chargeable?
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Remote service provided electronically, vendor: ZeroToCommission, listed since 2026-05-28

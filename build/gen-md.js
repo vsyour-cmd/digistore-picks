@@ -10,6 +10,7 @@ const path = require("path");
 const ROOT = path.join(__dirname, "..");
 const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "dataset.json"), "utf8"));
 const DETAILS = fs.existsSync("G:/Digistore24/data/details-en.json") ? JSON.parse(fs.readFileSync("G:/Digistore24/data/details-en.json", "utf8")) : {};
+const GQ = fs.existsSync("G:/Digistore24/data/gemini-questions-en.json") ? JSON.parse(fs.readFileSync("G:/Digistore24/data/gemini-questions-en.json", "utf8")) : { products: {} };
 const OUT = path.join(ROOT, "content", "products");
 fs.mkdirSync(OUT, { recursive: true });
 
@@ -126,6 +127,16 @@ for (const p of DATA.products) {
       lines.push("### 3d. Gallery (from vendor sales page)");
       lines.push("");
       det.gallery.forEach((g) => lines.push("- " + g.file));
+      lines.push("");
+    }
+  }
+  const gq = GQ[p.id] || (GQ.products && GQ.products[p.id]);
+  if (gq && gq.groups) {
+    lines.push("### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)");
+    lines.push("");
+    for (const grp of gq.groups) {
+      lines.push("**" + grp.group + "**");
+      grp.questions.forEach((item) => lines.push("- [ ] " + item));
       lines.push("");
     }
   }

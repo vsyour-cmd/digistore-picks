@@ -78,6 +78,36 @@ language: "en"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Function**
+- [ ] What is the done-for-you system exactly — pages, emails, or a full business?
+- [ ] Whose offers does the funnel promote, and at what commission rates?
+- [ ] Is the 'free training' a real workshop or a sales video for the $1,082 system?
+- [ ] What traffic source does the system rely on — paid ads, SEO, or social?
+- [ ] Are the income testimonials from system users or from the vendor's own launches?
+- [ ] Does anything need to be customized before the funnel can go live?
+
+**Compatibility**
+- [ ] Do I need an email autoresponder and landing page tools — at what cost?
+- [ ] How many hours per week does running the system take?
+- [ ] Is a paid ads budget required for the funnel to convert?
+- [ ] Is it beginner-friendly for someone with zero tech skills?
+- [ ] Does it work for non-US traffic and geographies?
+- [ ] What happens if the vendor changes offer terms after I set up?
+
+**Maintenance**
+- [ ] Who updates the funnel if offers or prices change?
+- [ ] Do I keep the funnel assets if I stop or refund?
+- [ ] Is there ongoing training as strategies change?
+- [ ] What recurring tools are required to keep it running?
+
+**After-sales**
+- [ ] How does the Digistore24 money-back guarantee work for this system?
+- [ ] What support channels exist for setup problems?
+- [ ] Are there mandatory upsells after the initial $1,082?
+- [ ] How fast is support for a broken funnel page?
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2024-09-09

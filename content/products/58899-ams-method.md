@@ -80,6 +80,36 @@ language: "en"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Function**
+- [ ] Does the AMS Method actually change behavior, or is it motivational content I already heard?
+- [ ] What exactly do the 5 modules contain — hours of video, worksheets, or text lessons?
+- [ ] Is there any evidence (case studies, completion data) that members follow through?
+- [ ] Does it work without the Facebook community, or is peer accountability essential?
+- [ ] Is the $4,499 price justified by content volume compared to $30 habit books?
+- [ ] What happens after the 12 weeks — is there ongoing content or does it end?
+
+**Compatibility**
+- [ ] Am I too far gone — is this for beginners or people who already run businesses?
+- [ ] How many hours per week does the program actually require?
+- [ ] Does it work outside the US (time zones, cultural examples, currency)?
+- [ ] Do I need any prior business, marketing, or productivity experience?
+- [ ] Is my English level sufficient for video lessons and worksheets?
+- [ ] Can I access it on mobile, and are videos downloadable for offline use?
+
+**Maintenance**
+- [ ] How long do I keep access — 12 weeks, 12 months, or lifetime?
+- [ ] Are future updates included or is this a one-time snapshot of the course?
+- [ ] What if I fall behind — is there a self-paced path or fixed cohort schedule?
+- [ ] Is there a guarantee the community stays active after I join?
+
+**After-sales**
+- [ ] How do I actually claim the 60-day money-back guarantee — is it honored without friction?
+- [ ] Who do I contact for support, and what are realistic response times?
+- [ ] Is the $4,499 billed once or are there hidden upsells inside the member area?
+- [ ] How do I get a refund if the member area never loads for me?
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: novodigiif038, listed since 2026-09-04

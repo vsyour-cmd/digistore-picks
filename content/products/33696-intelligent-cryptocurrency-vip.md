@@ -74,6 +74,36 @@ language: "en"
 
 > Home | TESTIMONIALS | Privacy Policy | Terms of Service | Earnings Disclaimer | Support | Refund Policy | Legal Information | VIP MEMBER LOGIN
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Function**
+- [ ] Does VIP include specific buy/sell calls or only general education?
+- [ ] What is the verified performance of past picks — is there an audited track record?
+- [ ] How does the content handle bear markets — are there downside strategies?
+- [ ] Is the research original or aggregated from free sources?
+- [ ] How current are the updates — weekly, daily, on-market events?
+- [ ] Does it cover DeFi/NFT sectors or only major coins?
+
+**Compatibility**
+- [ ] Do I need prior crypto experience or existing holdings?
+- [ ] Which exchanges and countries does the guidance support?
+- [ ] How much capital is realistic to start with?
+- [ ] How much time per week does following the research take?
+- [ ] Is the content in English only?
+- [ ] Do I need special hardware or wallets?
+
+**Maintenance**
+- [ ] Is this a one-time payment or recurring subscription at $2,234?
+- [ ] What happens to my access at the end of the billing period?
+- [ ] How often is the course material updated for market changes?
+- [ ] Is the community/chat included for life?
+
+**After-sales**
+- [ ] How does the Digistore24 refund work for a crypto education product?
+- [ ] Is financial-disclaimer language clear — is this education, not investment advice?
+- [ ] What support exists for technical wallet/exchange questions?
+- [ ] Are there upsells to higher tiers after joining?
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: IC2020, listed since 2020-12-17

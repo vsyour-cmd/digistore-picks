@@ -83,6 +83,36 @@ language: "en"
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Function**
+- [ ] Is the free training a real class or a funnel into a $2,237 upsell?
+- [ ] What business model is actually taught — e-commerce, affiliate, crypto?
+- [ ] Are the income screenshots verifiable in any way?
+- [ ] What do successful students actually do differently — is there data?
+- [ ] Does the content cover 2024+ strategies or recycled 2015 tactics?
+- [ ] Is there a syllabus I can read before paying?
+
+**Compatibility**
+- [ ] How much starting capital do I need beyond the course price?
+- [ ] How many hours per day does the method require?
+- [ ] Is this feasible while keeping my full-time job?
+- [ ] Do I need prior marketing experience?
+- [ ] Does it work in non-US countries and markets?
+- [ ] What devices/tools do I need access to?
+
+**Maintenance**
+- [ ] Do I get lifetime access to updates or a fixed cohort?
+- [ ] Is the community moderated and still active?
+- [ ] Are the tools taught free or subscription-based?
+- [ ] What happens to my access if I request a refund?
+
+**After-sales**
+- [ ] How does the Digistore24 refund window work for this training?
+- [ ] What support exists between lessons — coach, community, or email only?
+- [ ] Are there high-pressure upsells right after the free training?
+- [ ] Who do I contact if the member area does not load?
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: internets, listed since 2023-11-24

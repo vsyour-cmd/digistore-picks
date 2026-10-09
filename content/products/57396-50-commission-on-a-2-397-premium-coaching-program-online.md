@@ -89,6 +89,36 @@ language: "en"
 > This is a digital coaching program. No physical products are shipped. After completing your purchase, you will receive a confirmation email with your next steps and a link to schedule your onboarding consultation. Your personalised coaching begins after onboarding.
 > Because this journey involves real human coaching — Francesco writing and adjusting personal plans, Andreea conducting onboarding and final calls. Genuine attention has a capacity. We cap each cohort at 100 women so every member receives the level of care the journey promises. When this cohort fills, the next opens after these women complete their three months.
 
+### 3g. Buyer risk checklist (AI-simulated due-diligence questions, not verified customer research)
+
+**Function**
+- [ ] What does the $2,397 coaching program actually teach week by week?
+- [ ] Are the income case studies real and verifiable, or cherry-picked outliers?
+- [ ] Is the coaching live or pre-recorded, and how much is 1:1 vs group?
+- [ ] What do the '30 videos' actually cover — strategy or upsell pitches?
+- [ ] Who is the coach and what verifiable track record do they have?
+- [ ] Does the program cover traffic generation or only mindset and setup?
+
+**Compatibility**
+- [ ] Do I need an existing audience, email list, or product before starting?
+- [ ] How much money do I need on top of the course fee (ads, tools, hosting)?
+- [ ] How many hours per week are realistic to see any result?
+- [ ] Is this suitable for complete beginners with no tech skills?
+- [ ] Does it work from my country and in my language?
+- [ ] What if my niche is different from the case studies shown?
+
+**Maintenance**
+- [ ] How long do I keep access to videos and materials?
+- [ ] Are course updates included when strategies change?
+- [ ] Is there an active community that will still exist in 12 months?
+- [ ] What tech setup do I need to maintain after finishing?
+
+**After-sales**
+- [ ] How does the Digistore24 60-day refund work for a $2,397 purchase — any conditions?
+- [ ] What support channels exist (email, community, calls) and how fast are replies?
+- [ ] Are there mandatory upsells after joining?
+- [ ] What happens to my access if the vendor stops operating?
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Online coaching, vendor: ZoeWomen, listed since 2026-07-04
