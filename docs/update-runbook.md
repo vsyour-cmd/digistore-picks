@@ -17,6 +17,13 @@
 2. **分类映射**(45个分类):同接口加 `&marketplaceCategoryId%5B%5D={catId}`,逐分类记录 `items[].id`。
 3. 输出 `G:/Digistore24/data/products-en.json` 与 `categories-en.json`(结构见"数据文件结构")。
 
+## 阶段 1b:推广链接变更通知(必做)
+
+```
+GET /v2/api/v1/notifications (IAB 内,credentials include)
+```
+用正则 `/products+(d+)s+froms+(.+?)s+has changed to:s*(.*?)s*(?:.s*From now on|From now on)/i` 提取变更,合并进 `G:/Digistore24/data/promo-updates.json`(按 productId 键,最高优先级),再对每条 confirm_all ajaxUrl 发 fetch 标记已读(基址 https://www.digistore24-app.com)。**不做这步,厂商改链接后我们的推广追踪会静默失效。**
+
 ## 阶段 2:销售页研究(Node 本地,无需浏览器)
 
 ```
