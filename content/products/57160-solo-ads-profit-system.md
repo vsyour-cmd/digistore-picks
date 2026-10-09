@@ -61,6 +61,15 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step system for using solo ads to get your first 500+ subscribers and start earning affiliate commissions — no blog, no YouTube channel, no social media following required.
+> A step-by-step framework for evaluating any affiliate offer in 15 minutes — the exact questions to ask, the numbers to check, and where to find the best offers for your niche.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

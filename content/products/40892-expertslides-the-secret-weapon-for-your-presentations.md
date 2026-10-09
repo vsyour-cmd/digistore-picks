@@ -60,6 +60,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> By purchasing the product, you automatically receive a commercial right to use the content of ExpertSlides. All Slides are licensed under our ExpertSlides license and can be used for commercial usage when owning a pro plan. Free users can only use the slides and elements for non-commercial purpose. Reselling the tool or slides with on-demand platforms are strictly prohibited and are legally prosecuted. All images, icons and slides can be used within our license terms.
+
+### 3c. Cautions
+
+> ExpertSlides is an add-in for PowerPoint that lets you create slides with ease. It's super simple to change colours , move things around, and access all your favorite layouts with one click. Using ExpertSlides, you can focus on what's important your ideas instead of spending hours wasting time with formatting.
+> With the ExpertSlides PowerPoint Addin you can access over 2.8 million icons easily and quickly in PowerPoint. You can use them to add focus, attention, emotion or any other desired visual element to your presentations .
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40892-g1.webp
+- assets/products/40892-g2.webp
+- assets/products/40892-g3.webp
+- assets/products/40892-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

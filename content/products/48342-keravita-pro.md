@@ -55,6 +55,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> For 17 years, I've been a long time researcher passionate to help people all over the world on how to live better lives and spread awareness on how anyone can help support a healthy set of nails and hair. Now, as I near the end of my career, I want to share all the mountains of knowledge I've gathered all these years regarding how to take proper care of your nails and hair...
+
+### 3c. Cautions
+
+> Another important aspect of healthy nails is their thickness. You can use hundreds of local remedies on your toes and they will have no effect if they can't penetrate your nail. You can either make an appointment with a pedicurist to file down your nails or, if you'd rather save money, you can do it at home but ONLY with a clean and disinfected file to prevent further problems.
+> Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48342-g2.webp
+- assets/products/48342-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

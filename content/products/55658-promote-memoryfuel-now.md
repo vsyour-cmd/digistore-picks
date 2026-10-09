@@ -55,6 +55,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> However, we always recommend consulting with your doctor before starting any new supplement, especially if you’re taking prescription medications or have underlying health conditions.
+> As with any supplement, if you experience any unusual symptoms, discontinue use and consult your healthcare provider.
+> And most importantly...you should trust our 90-day money-back guarantee.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55658-g1.webp
+- assets/products/55658-g2.webp
+- assets/products/55658-g3.webp
+- assets/products/55658-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

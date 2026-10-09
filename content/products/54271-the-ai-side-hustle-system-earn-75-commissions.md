@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step system that lets you leverage AI to create engaging content and build an online business — even with zero tech skills or prior experience.
+> "Finally, a guide that actually works! The step-by-step approach made it easy to understand and implement. The AI prompts library alone is worth far more than the price of the guide."
+> Today I've packaged the complete blueprint into a step-by-step system. The same framework I use, taught in a way that any beginner can implement from day one.
+
+### 3c. Cautions
+
+> Disclaimer: This is an educational product designed to teach AI-powered content creation techniques. Results depend on your effort, consistency, and implementation of the strategies provided. We make no guarantees about income, success, or specific outcomes. Individual results will vary based on skills, experience, and dedication to applying the methods taught. Any income examples are for educational purposes only and do not represent typical results.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> If you accept payments online, chargebacks are part of doing business. What matters is what you have in place before one happens and what you do when one comes in. This training helps you build a step by step process for preventing avoidable disputes, keeping the records you may need later, and responding when a chargeback happens.
+
+### 3c. Cautions
+
+> You accept customer payments and want a better process for preventing, documenting, and responding to chargebacks. That covers physical products, services, digital products, courses, coaching, consulting, memberships, subscriptions, and bookings.
+> This is not a one-time fix. Set the routine up once, then come back each month to review what happened and tighten what needs attention.
+> Terms, license, and disclaimer The Chargeback Prevention Masterclass is proprietary to NEXTMETHOD and licensed to one paid user or one licensed business, for internal business use only. No portion may be copied, shared, resold, redistributed, publicly posted, recreated, repackaged, or used to build a competing product, service, template, or training. Purchase grants access only and does not transfer ownership of the intellectual property. NEXTMETHOD retains all rights.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

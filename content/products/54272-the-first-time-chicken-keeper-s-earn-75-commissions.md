@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The complete step-by-step checklist that shows first-time chicken keepers exactly what to buy, how to set up, and what to avoid — so you get healthy hens and fresh eggs from day one.
+> "Finally, a chicken guide that doesn't assume you already know everything! The step-by-step approach made me feel confident instead of overwhelmed. My neighbors can't believe this is my first flock."
+> ✗ No clear, step-by-step plan that works for complete beginners
+
+### 3c. Cautions
+
+> Disclaimer: This is an educational product. Results depend on your effort, local conditions, climate, and consistency in applying the methods taught. We make no guarantees about animal health outcomes, egg production, or specific results. Always consult local veterinarians for health concerns. The 60-day refund policy applies to the purchase price only.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

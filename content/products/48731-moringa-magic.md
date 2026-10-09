@@ -64,6 +64,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 99 best weight-loss tricks from Barbara O'Neill. This ebook offers 3 weeks personalized holistic weight loss plan with nourishing recipes, nutritional tips and meal plans inspired by Barbara O'Neill, including step by step guidance in your weight menagment journey.
+
+### 3c. Cautions
+
+> Moringa Magic is an all-natural dietary supplement made from plant-based ingredients. It is generally safe for most individuals. However, as with any supplement, individual responses may vary. If you have specific health concerns or are taking medication, it's advisable to consult with your healthcare provider before starting any new dietary supplement.
+> Results may vary from person to person, but many users report feeling increased energy and vitality within a few weeks of starting Moringa Magic. For optimal results, it's recommended to take Moringa Magic consistently for at least several months to allow your body to experience the full range of benefits.
+> *Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48731-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

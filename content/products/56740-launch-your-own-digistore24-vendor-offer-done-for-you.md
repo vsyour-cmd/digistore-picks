@@ -58,6 +58,15 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Step-by-step launch checklist so your buyers hit the ground running.
+
+### 3c. Cautions
+
+> A full VSL script written and produced for your offer — ready to record or hand off to a voice-over artist. Hooks attention and drives buyers to checkout.
+> Results may vary. Income figures and examples used on this page are illustrative and not guarantees of earnings. Individual results depend on effort, experience, and market conditions. This site is not affiliated with or endorsed by Digistore24 Inc.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

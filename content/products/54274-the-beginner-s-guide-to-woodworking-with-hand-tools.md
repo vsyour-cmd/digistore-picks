@@ -58,6 +58,14 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Definitely. The cutting board takes 2–4 hours, the jewelry box 6–8 hours, and the plant stand 8–10 hours. Each project is specifically engineered for weekend completion, even for complete beginners following the guide step by step.
+
+### 3c. Cautions
+
+> Disclaimer: This is an educational product. Results depend on your effort, skill development, and adherence to safety guidelines. Always wear appropriate safety equipment and work in well-ventilated areas. Individual results will vary. Always follow local building codes and safety regulations when working with tools and wood.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

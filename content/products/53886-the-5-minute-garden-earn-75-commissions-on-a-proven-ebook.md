@@ -57,6 +57,19 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Step-by-step instructions so clear that even confirmed plant killers succeed with this system.
+> Absolutely. This system was designed specifically for "plant killers." Over 12,000 former plant killers are now successfully growing their own food. The step-by-step photos and foolproof methods eliminate every point where people typically fail.
+
+### 3c. Cautions
+
+> Disclaimer: Individual results may vary based on effort, growing conditions, and adherence to the system. Testimonials represent real user experiences but individual results cannot be guaranteed. Always follow local regulations regarding food production.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53886-g1.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

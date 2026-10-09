@@ -56,6 +56,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> We wanted a formula that could deliver premium quality science backed Meta Trim BHB in the perfect dosage.
+> A step-by-step 30-day meal plan and lifestyle guide to maximize your MetaTrim BHB results. Includes daily schedules, grocery lists, and tips for sustainable weight management.
+
+### 3c. Cautions
+
+> Read this short page all the way until the end... You don’t want to miss out. Pay attention now.
+> Just remember it’s important that you get into the habit of taking Metatrim BHB daily to get optimum results.
+> But most important of all, you’ve met a few of the thousands of women whom Metatrim BHB has worked for.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55677-g1.webp
+- assets/products/55677-g2.webp
+- assets/products/55677-g3.webp
+- assets/products/55677-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -58,6 +58,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Both support the compounds your pineal gland uses to broadcast timing instructions, turbo-charging your signal. 46 47 48
+
+### 3c. Cautions
+
+> That's The Number One Early Warning Sign of Cognitive Decline. 22
+> "The warning signs are screaming at us," he said. "The fog pattern, the sleep disruption... it's all connected."
+> I didn’t know it then. But, things were more dire than even the doctor knew. That “warning sign” isn’t just a warning.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58851-g1.webp
+- assets/products/58851-g2.webp
+- assets/products/58851-g3.webp
+- assets/products/58851-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

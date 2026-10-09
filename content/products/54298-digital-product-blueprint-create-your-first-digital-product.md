@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The Digital Products Blueprint is the only step-by-step system that takes you from "I have an idea" to "I just made a sale" — in 30 days or less.
+> Free tools with step-by-step walkthroughs. If you can send an email, you can do this.
+> Is this a video course or written content? + Comprehensive written PDFs — step-by-step instructions, worksheets, templates, and checklists. Written content is faster to consume, searchable, works on any device, and lets you implement as you read without pausing videos.
+
+### 3c. Cautions
+
+> Disclaimer: This training is for educational purposes only. Results vary based on individual effort, market conditions, product quality, and implementation. While we've helped thousands launch digital products, specific income results are not guaranteed. This is a legitimate business-building system that requires consistent work. Past student performance does not guarantee future results.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

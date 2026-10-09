@@ -52,6 +52,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> More importantly, you already have the real secret to staying young and “mentally charged” , your own personal fountain of youth, and it’s inside of you, right now. . And in just a minute I'm going to share it with you, and show you how to use it to stay active throughout the day, full of sustained, "youthful energy." But first, it's important to understand the true cause of tiredness and declining mental performance.
+> Unlike a lot of supplements that conceal the exact dosage and ingredients in their formulas, we are completely transparent so you know exactly how much of each of our specific neuro-nutrients:
+
+### 3c. Cautions
+
+> Cognizin&reg; Citicoline Increases Motor Speed and Attention in Healthy Adolescent Males
+> Cognizin&reg; Citicoline Improves Attentional Performance in Healthy Adult Women
+> I have been using this product for about a year and highly recommend it. I take it before important meetings or whenever I feel a bit sluggish or just can't quite process up to normal standards. As an additional benefit I have also found it helps my golf game! Both focus and Concentration.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40136-g1.webp
+- assets/products/40136-g2.webp
+- assets/products/40136-g3.webp
+- assets/products/40136-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

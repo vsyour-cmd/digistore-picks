@@ -40,6 +40,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> *** Disclaimer: These are Ebooks for digital download. These are NOT physical products.
+> *** Disclaimer: These are Ebooks for digital download. These are NOT physical products.
+> Can I use Primordial Vigor X with other supplements, and are there allergy concerns? Primordial Vigor X is designed to be universally beneficial, regardless of age. This supplement is compatible with any diet. Manufactured in an FDA-registered facility with top-quality ingredients, Primordial Vigor X is made of completely natural, wholesome ingredients. However, if you have specific allergies or medical conditions, we recommend consulting with your doctor first.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52545-g1.webp
+- assets/products/52545-g2.webp
+- assets/products/52545-g3.webp
+- assets/products/52545-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

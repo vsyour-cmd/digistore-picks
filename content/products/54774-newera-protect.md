@@ -56,6 +56,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> --> Alex’s #1 best-selling program for years, this simple step-by-step video uses a gentle upper body stretch to strengthen the pelvic floor, reduce bladder leakage, and support core strength. Trusted by doctors, midwives, and personal trainers, it’s helped hundreds of thousands of women achieve real, lasting results.
+> Getting started is simple! Just scroll down and choose the package that works best for you. We recommend the multi-bottle options for the biggest savings and the best results over time. Plus, we offer fast, secure shipping—and right now, free shipping is included with your order
+> Getting started is simple! Just scroll down and choose the package that works best for you. We recommend the multi-bottle options for the biggest savings and the best results over time. Plus, we offer fast, secure shipping—and right now, free shipping is included with your order
+
+### 3c. Cautions
+
+> As with any supplement, we recommend consulting your healthcare provider before use if you are pregnant or nursing, take prescription medications (particularly blood thinners, sedatives, or medications for blood pressure, blood sugar, or cholesterol), have a medical condition, or are scheduled for surgery.
+> As with any supplement, we recommend consulting your healthcare provider before use if you are pregnant or nursing, take prescription medications (particularly blood thinners, sedatives, or medications for blood pressure, blood sugar, or cholesterol), have a medical condition, or are scheduled for surgery.
+> --> Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54774-g1.webp
+- assets/products/54774-g3.webp
+- assets/products/54774-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

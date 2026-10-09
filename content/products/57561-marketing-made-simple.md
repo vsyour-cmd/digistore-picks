@@ -56,6 +56,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> With Marketing Made Simple, we’re not just throwing buzzwords your way—we’re laying out a clear, step-by-step path to success that’s easy to follow and super effective.
+> And the best part? As you progress, you’ll see your business flourish and grow—step by step, day by day. We’re here to support you, cheer you on, and celebrate every milestone along the way!
+> Say goodbye to overwhelm and hello to clear, proven steps that turn your marketing chaos into unstoppable growth. Our playful, step-by-step program makes mastering marketing fun, fast, and totally doable—watch your results skyrocket!
+
+### 3c. Cautions
+
+> Let’s make marketing fun, easy, and most importantly—effective! Your journey to growth starts now!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57561-g1.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

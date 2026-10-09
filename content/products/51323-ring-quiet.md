@@ -59,6 +59,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> IMPORTANT: Your video may take 10 seconds to load. Make sure your sound is on.
+> Unlike big pharmaceutical companies, I don’t have the massive resources they pour into their products. Even now, there are efforts to suppress this formula and keep it from reaching more people online. That’s why it’s important to take advantage of this opportunity while it’s still available—you don’t want to miss out on this.
+> Contact - Privacy Policy & unsubscribe - Terms of Service - Disclaimer - Returns & Refund
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51323-g2.webp
+- assets/products/51323-g3.webp
+- assets/products/51323-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -57,6 +57,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Usage data: Interactions with the editor, templates chosen, pages created, and exports.
+
+### 3c. Cautions
+
+> Practical tools for entrepreneurs, affiliates, course creators, agencies, and consultants.
+> “I use it for my consulting clients. The WhatsApp integration generated over 200 conversations in 2 weeks. Indispensable tool.” — Carlos Mendes
+> Who is this for? Entrepreneurs, affiliates, course creators, coaches, consultants, agencies, and anyone selling online.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

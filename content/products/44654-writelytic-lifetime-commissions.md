@@ -52,6 +52,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> AIDA Framework Generate a mighty message leveraging the renowned marketing framework: Attention, Interest, Desire, Action (AIDA).
+> Writelytic can assist in crafting attention-grabbing subject lines and compelling email content to increase open rates and conversions.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44654-g1.webp
+- assets/products/44654-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

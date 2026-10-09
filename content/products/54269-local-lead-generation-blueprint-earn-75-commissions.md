@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step local agency system for complete beginners — no experience, no portfolio, no cold calling required. Proven by hundreds of students.
+> Step-by-step checklists so you deliver professional results even without a team or expensive tools.
+> Step-by-step checklists for every service so you deliver professionally from day one — no guesswork.
+
+### 3c. Cautions
+
+> © 2025 The Local Lead Generation Blueprint. All rights reserved. Disclaimer: This is an educational product. Results depend on your effort, consistency, and implementation. We make no guarantees about income, client acquisition, or specific business outcomes. Individual results will vary. This product is for educational purposes only.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

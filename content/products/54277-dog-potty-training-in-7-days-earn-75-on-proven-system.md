@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Clear daily instructions so you always know exactly what to do and when. Zero guesswork.
+> 📋 The 7-Day Training Blueprint Day-by-day instructions so you're never confused — just following a clear, proven plan
+
+### 3c. Cautions
+
+> The breakthrough came when I realized I had the whole thing backwards. Most methods rely on punishment and complicated schedules. After deep research into canine behavior and consultations with veterinarians, I discovered that dogs learn through clear, consistent patterns that fit their instincts — not punishments or routines designed for humans. That became the 7-Day Accident-Free Method.
+> Yes — this system was designed specifically for full-time workers. You'll get exact schedules built around typical work hours. Most owners manage the full program in about 30–45 minutes of active attention per day.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

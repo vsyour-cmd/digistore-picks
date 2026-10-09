@@ -50,6 +50,15 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A personal trainer takes 12 sessions ($1,800+) to teach you what these guides deliver in 6 hours of reading. That's $41/hour for research-backed, field-tested instruction vs. $150/hour for a gym session.
+
+### 3c. Cautions
+
+> WARNING : The SUPP UP. Complete Travel System goes against what most guides tell you. Try not to get triggered and keep an open mind as the steps outlined will explain WHY you should be doing the opposite of what most guides dictate.
+> Executives/Consultants: Flying 2+ weeks/month, client dinners, hotel gyms.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

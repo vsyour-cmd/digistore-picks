@@ -47,6 +47,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Customers can request a refund through Digistore24 according to the refund instructions provided during checkout.
+
+### 3c. Cautions
+
+> （ Please note: This is a digital business resource. After purchase, you will receive instant access to downloadable files. No physical product will be shipped. ）
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58153-g1.webp
+- assets/products/58153-g2.webp
+- assets/products/58153-g3.webp
+- assets/products/58153-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

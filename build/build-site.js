@@ -49,6 +49,27 @@ const VERIFY_META = (() => {
   try { return fs.readFileSync(f, "utf8").trim(); } catch { return ""; }
 })();
 
+// 深度详情(使用方法/注意事项/图集,来自销售页再抓取)
+const DETAILS_FILE = process.env.DETAILS_FILE || "G:/Digistore24/data/details-en.json";
+const DETAILS = fs.existsSync(DETAILS_FILE) ? JSON.parse(fs.readFileSync(DETAILS_FILE, "utf8")) : {};
+const productDetails = (id) => DETAILS[id] || null;
+
+// 类型化通用使用说明(标注为通用信息,非产品特定)
+const TYPE_USAGE_EN = {
+  "E-books": "E-books on Digistore24 are delivered as a digital download (usually PDF/EPUB): right after checkout you get a download link or member-area access, and can read on any device.",
+  "Downloads": "Download products are delivered digitally: immediately after checkout you receive download links (or member-area access) — no physical shipping.",
+  "Member area and video courses": "Video courses live in a members' area: after checkout you receive login credentials by email and can stream the lessons at your own pace, on any device with a browser.",
+  "Supplements - health": "Dietary supplements are shipped physically; usage/dosage instructions are on the product label and the official sales page. Follow the label exactly.",
+  "Supplements - for slimming": "Weight-management supplements are shipped physically; follow the dosage on the product label and the official sales page.",
+  "Software": "Software is delivered digitally — either as an instant download or via license keys / member-area access sent after checkout.",
+  "Book (printed)": "Printed books are shipped physically; delivery time depends on your region and is shown at checkout.",
+  "Deliverable": "Physical products are shipped to your address; shipping costs and times are shown at checkout.",
+  "Audio book (download)": "Audio books are delivered as digital downloads (MP3) right after checkout — playable on any device.",
+  "Online coaching": "Online coaching is delivered via scheduled video calls and/or a member area; the coach contacts you after purchase to schedule sessions.",
+  "Webinar": "Webinars are live online sessions: after registration you receive a link by email for the scheduled date.",
+  "Remote service provided electronically": "Remote services are delivered electronically — the provider contacts you after purchase to arrange the service.",
+};
+
 const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
 function crumbs(items) {
@@ -320,6 +341,14 @@ function profilePages(altSlugs) {
     const altLink = altSlugs && altSlugs.has(p.slug)
       ? `<p class="sub">Comparing options? See <a href="../alternatives/${p.slug}.html">${esc(p.label)} vs its closest alternatives</a> — side-by-side marketplace numbers.</p>`
       : "";
+    const altData = altSlugs && altSlugs.has(p.slug)
+      ? products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String((p.categoryIds || [])[0]))).slice(0, 4)
+      : [];
+    const compareBlock = altData.length >= 3
+      ? `<h2>How ${esc(p.label)} compares (marketplace numbers)</h2>
+${compareTable(p, altData)}
+<p class="sub">* Vendor-side marketplace statistics; depend on traffic quality, not a forecast. Full context: <a href="../alternatives/${p.slug}.html">alternatives page for ${esc(p.label)}</a>.</p>`
+      : "";
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Home", href: "../index.html" }];
@@ -358,11 +387,19 @@ ${p.description ? `<h2>Vendor's marketplace description</h2><p>${esc(p.descripti
 
 ${researchSection(p)}
 
+${usageSection(p)}
+
+${galleryBlock(p)}
+
+${cautionSection(p)}
+
 ${relatedBlock}
 
 ${vendorBlock}
 
 ${altLink}
+
+${compareBlock}
 
 <h2>Where to check it out</h2>
 <p>Read the vendor's full sales page (current price, guarantee terms and bonuses are listed there):<br>
@@ -603,6 +640,86 @@ ${GOATCOUNTER}
 </body>
 </html>`;
   fs.writeFileSync(outPath("404.html"), html);
+}
+
+// ---------- 使用方法 / 注意事项 / 图集 / 对比表 ----------
+function usageSection(p) {
+  const d = productDetails(p.id);
+  if (d && d.usage && d.usage.length) {
+    return `<h2>Usage — as described by the vendor</h2>
+<div class="notice"><b>Vendor claims</b>, extracted verbatim from the official sales page — not usage instructions verified by us.</div>
+${d.usage.map((t) => `<blockquote>${esc(t)}</blockquote>`).join("")}`;
+  }
+  const generic = TYPE_USAGE_EN[p.type];
+  if (generic) {
+    return `<h2>How products like this are delivered</h2>
+<p class="sub"><b>General note about this product type</b> (not vendor-specific instructions): ${esc(generic)} For the exact usage of ${esc(p.label)}, the official sales page and included materials are the authoritative source.</p>`;
+  }
+  return "";
+}
+
+function cautionSection(p) {
+  const items = [];
+  const cat = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+  const catItems = cat ? products.filter((x) => (x.categoryIds || []).includes(String(cat.catId))) : [];
+  const catCancelMedian = catItems.length
+    ? [...catItems].map((x) => x.cancelRate || 0).sort((a, b) => a - b)[Math.floor(catItems.length / 2)]
+    : null;
+  if ((p.cancelRate || 0) >= 10 && catCancelMedian != null && p.cancelRate >= catCancelMedian) {
+    items.push(`<b>High cancel rate:</b> ${pct(p.cancelRate)} of buyers cancel this subscription (category median: ${pct(catCancelMedian)}). Read the cancellation terms on the sales page before subscribing.`);
+  }
+  if ((p.price || 0) >= 197) {
+    items.push(`<b>High-ticket price:</b> ${money(p.price, p.currency)} is a significant purchase — check whether a payment plan exists and compare the cheaper alternatives in this category first.`);
+  }
+  if (p.research && p.research.error) {
+    items.push(`<b>Sales page currently unreachable</b> (${esc(p.research.error.slice(0, 60))}) — verify the offer is still active before buying or promoting.`);
+  }
+  if (p.research && !p.research.error && !p.research.guaranteeMention) {
+    items.push(`<b>No guarantee language found in our research</b> of the sales page — confirm the refund window on the official page before you buy.`);
+  }
+  if (/supplement/i.test(p.type)) {
+    items.push(`<b>General note:</b> dietary supplements are not a substitute for a balanced diet and healthy lifestyle; if in doubt, consult a doctor — especially if you are pregnant, on medication, or have a medical condition. This is general information, not medical advice.`);
+  }
+  const d = productDetails(p.id);
+  if (d && d.caution && d.caution.length) {
+    return `<h2>Good to know</h2>
+<ul>
+${items.map((x) => `<li>${x}</li>`).join("\n")}
+${d.caution.map((t) => `<li><i>Vendor's sales page notes</i> (verbatim, not verified by us): “${esc(t)}”</li>`).join("\n")}
+</ul>`;
+  }
+  if (!items.length) return "";
+  return `<h2>Good to know</h2>
+<ul>
+${items.map((x) => `<li>${x}</li>`).join("\n")}
+</ul>`;
+}
+
+function galleryBlock(p) {
+  const d = productDetails(p.id);
+  if (!d || !d.gallery || !d.gallery.length) return "";
+  return `<h2>More images (from the vendor's sales page)</h2>
+<div class="gallery">
+${d.gallery.map((g) => `<img src="../${g.file}" width="${g.width}" height="${g.height}" loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'">`).join("\n")}
+</div>
+<p class="sub">Images are taken from the vendor's official sales page and belong to the vendor; they show the product as marketed.</p>`;
+}
+
+function compareTable(p, alts) {
+  const row = (x, self = false) => `<tr${self ? ' class="self"' : ""}>
+<td>${self ? `<b>${esc(x.label)}</b>` : `<a href="../reviews/${x.slug}.html">${esc(x.label)}</a>`}</td>
+<td>${esc(x.typeDe || x.type)}</td>
+<td><b>${money(x.price, x.currency)}</b></td>
+<td>${pct(x.commission)}</td>
+<td>${pct(x.conversionRate)}</td>
+<td>${pct(x.cancelRate)}</td>
+<td><b>${money(x.earningsPerSale, x.currency)}</b></td>
+</tr>`;
+  return `<table class="specs">
+<tr><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Cart conv.*</th><th>Cancel*</th><th>Earn./sale</th></tr>
+${row(p, true)}
+${alts.map((x) => row(x)).join("\n")}
+</table>`;
 }
 
 function aboutPage() {

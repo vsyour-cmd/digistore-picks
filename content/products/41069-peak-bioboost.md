@@ -58,6 +58,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> After discovering what I consider to be the most important digestion breakthrough known to man.
+> I want to be a fun, healthy, energetic Dad and husband. It's my job to be a role model and show them it's important to be honest, hardworking, and live a healthy lifestyle, among many other things.
+> Artificial orange flavor - Chemically produced in a lab with a wide variety of side effects including headaches, fatigue, nausea, chest pain, dizziness, and many more... 4
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/41069-g1.webp
+- assets/products/41069-g2.webp
+- assets/products/41069-g3.webp
+- assets/products/41069-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

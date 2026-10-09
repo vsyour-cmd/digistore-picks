@@ -54,6 +54,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step system for building passive income with print-on-demand — even if you've tried before and made zero sales.
+> Best for: Scale The largest retail audience in the world. When your designs are live on Amazon, buyers who weren't even looking for your product discover it through Amazon search. Earn more per sale at scale. I walk you through the application process step by step.
+> Step-by-step Canva walkthrough. Templates, file formats, platform dimensions, mockups. Written for someone who has never designed anything.
+
+### 3c. Cautions
+
+> Attention: Complete Beginners & Failed POD Sellers Sell on 3 Platforms at Once. No Inventory. No Shipping. No Design Skills.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

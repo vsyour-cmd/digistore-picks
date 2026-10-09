@@ -56,6 +56,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Because when you sleep, your body goes into repair mode. This is especially important when your body is under stress.
+> During deep sleep your body is able to balance important hormones, such as cortisol, your "belly fat storing" hormone.
+> Results May Vary: the results and testimonials on this site are in no way a guarantee of results. Individual results, including amount and time, will vary. Whether genetic or environmental, it should be noted that food intake, rates of metabolism and levels of exercise and physical exertion vary from person to person. This means results will also vary from person to person. No individual result should be seen as typical.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/38702-g1.webp
+- assets/products/38702-g2.webp
+- assets/products/38702-g3.webp
+- assets/products/38702-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -60,6 +60,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Skip to Heading section content Stop piecing together confusing crypto advice and start learning at your own pace with the All-Access Complete Crypto Investment System. Get a high-value, step-by-step digital resource designed to help you understand the market, build confidence, and take informed action. Download instantly and access the complete system whenever—and wherever—you’re ready.
+> Crypto Portfolio Blueprint — Get a clear, step by step framework for building, balancing, and managing a crypto portfolio with confidence.
+> The All-Access Complete Crypto Investment System gives you the clear, step-by-step path to make smarter crypto decisions—without drowning in confusing charts, hype, or endless research.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59303-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -56,6 +56,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> In humans, nutrient circulation is essential for overall well-being. When circulation is poor, important parts of the body may not receive the necessary nourishment.
+> That's why it's important you get your supply today, especially since it comes with a 60 -day 100% money-back guarantee, which means there's zero risk to you.
+> Zeb A. Important therapeutic uses of sea buckthorn (Hippophae): a review. Journal of Biological Sciences. 2004;4(5):687-693. doi:10.3923/jbs.2004.687.693
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/44752-g1.webp
+- assets/products/44752-g2.webp
+- assets/products/44752-g3.webp
+- assets/products/44752-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

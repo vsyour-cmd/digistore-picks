@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step system that bypasses platforms like Upwork and Fiverr entirely — and shows you how to connect directly with premium clients who value quality work.
+> This is the heart of the formula. Step-by-step instructions for finding the right companies, identifying the right decision-maker to contact, and crafting a message that actually gets a reply — not a template that sounds like every other cold email they've ever deleted.
+> That's exactly what the portfolio section is for. You do not need paying clients to build a portfolio. There are specific, legitimate ways to create real work samples from scratch — not fabricating anything, not lying about anything — that demonstrate what you can do. The chapter walks you through the process step by step.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

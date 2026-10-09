@@ -56,6 +56,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Will ensure you will get the blueprint and step-by-step action plan needed….
+> If you change your mind about this decision at any point in the next 2 months – all you need to do is call or email us for return instructions.
+
+### 3c. Cautions
+
+> Privacy | Terms | Disclaimer | Anti-Spam Policy | About Us | Contact Us | Affiliates
+> * These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease. Please Note: The material on this site is provided for informational purposes only and is not medical advice. Always consult your physician before beginning any diet or exercise program.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55736-g1.webp
+- assets/products/55736-g2.webp
+- assets/products/55736-g3.webp
+- assets/products/55736-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

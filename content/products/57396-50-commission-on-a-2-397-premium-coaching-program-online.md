@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Delivery: This is a digital coaching program. No physical items are shipped. After purchase you will receive a confirmation email with instructions to schedule your onboarding consultation. Your personalised coaching begins within 24 hours.
+
+### 3c. Cautions
+
+> Claim Your Spot — Only 100 Available Not sure yet? Book a free 15-min consultation → Digital coaching program · 3 months · $2,397 or 3 × $799 · 60day guarantee
+> This is a digital coaching program. No physical products are shipped. After completing your purchase, you will receive a confirmation email with your next steps and a link to schedule your onboarding consultation. Your personalised coaching begins after onboarding.
+> Because this journey involves real human coaching — Francesco writing and adjusting personal plans, Andreea conducting onboarding and final calls. Genuine attention has a capacity. We cap each cohort at 100 women so every member receives the level of care the journey promises. When this cohort fills, the next opens after these women complete their three months.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

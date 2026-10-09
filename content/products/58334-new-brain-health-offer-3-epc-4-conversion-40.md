@@ -57,6 +57,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Big pharma’s drugs give a temporary boost... then fade. Often with side effects like brain bleeding.
+> Ignore the brain fog. Ignore the missed words. Ignore the warning signs screaming at you.
+> Peth-Nui T et al. (2012). Effects of 12-week Bacopa monnieri consumption on attention, cognitive processing, and working memory. n=60 elderly adults, mean age 62. 300mg/day. N100 and P300 latencies — direct auditory processing speed measures — both significantly reduced in 12 weeks. Evidence-Based Complementary and Alternative Medicine. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3537209/
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58334-g1.webp
+- assets/products/58334-g2.webp
+- assets/products/58334-g3.webp
+- assets/products/58334-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

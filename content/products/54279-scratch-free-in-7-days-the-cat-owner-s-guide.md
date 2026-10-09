@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Clear daily instructions so you always know exactly what to do next — no guesswork, no confusion.
+> 📋 The 7-Day Redirection Blueprint Day-by-day instructions for complete scratch redirection — you always know exactly what to do
+> 🐱 Understanding Feline Scratching Why cats scratch and how to use that knowledge to redirect them quickly and permanently
+
+### 3c. Cautions
+
+> Disclaimer: This is an educational product and is not intended as veterinary or behaviorist therapy advice. Individual results may vary based on effort, consistency, cat temperament, age, and adherence to the program guidelines. Always consult with your veterinarian before beginning any new training program, especially if your cat has existing health or behavioral issues. Declawing is considered inhumane and is illegal in many jurisdictions.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

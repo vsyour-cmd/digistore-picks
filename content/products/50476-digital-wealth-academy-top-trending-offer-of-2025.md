@@ -44,6 +44,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Learn How To Start Your Own Digital Product Business with No Experience Necessary...
+> The #1 way to drive traffic right now on the internet, is with Reels. You'll learn step-by-step the viral formula that's working right now
+> Still the king of traffic in sales for most users, in this module you'll learn how to use Instagram to grow a traffic driving account
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50476-g2.webp
+- assets/products/50476-g3.webp
+- assets/products/50476-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -45,6 +45,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> You also get exclusive access to these session recordings, so YOU can follow along in your own time and model us step by step to fast track your success!
+> Get access to simple, actionable bite-size video training, guiding you step-by-step to create any type of video for any occasion in RECORD time!
+> Includes step-by-step guides on using AIDA, PAS, FAB, BAB, and the 4 P’s to craft compelling video scripts that grab attention, engage audiences, and drive action.
+
+### 3c. Cautions
+
+> Once you sign up, you’ll receive a link to our calendar so you can schedule a FREE, invaluable consultation with us.
+> (NEW! Coming soon) Watch your still images come alive with professional animation effects that make your content pop and grab attention instantly!
+> NEW! Breathe life into any still image by instantly transforming it into an eye-catching animated video that stops the scroll and captures attention!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53065-g1.webp
+- assets/products/53065-g3.webp
+- assets/products/53065-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

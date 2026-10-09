@@ -55,6 +55,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> My book shows you how to apply AI prompts and tools to reduce repetitive work.
+> The Small-Business AI Quickstart Checklist — Follow a simple step-by-step plan to put AI to work in your business today—without the tech overwhelm or endless trial and error.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59531-g3.webp
+- assets/products/59531-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

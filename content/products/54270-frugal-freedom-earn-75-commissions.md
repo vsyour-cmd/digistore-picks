@@ -58,6 +58,15 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Step-by-step guide to review and optimize every recurring charge for maximum savings.
+
+### 3c. Cautions
+
+> Disclaimer: This is an educational product. Results depend on your effort, consistency, and implementation of strategies provided. We make no guarantees about specific savings amounts. Individual results vary based on current spending habits, family size, location, and dedication. Savings potential varies by individual circumstances.
+> Financial Disclaimer: This product is for educational purposes only. Any savings examples mentioned are illustrative and do not represent typical results.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

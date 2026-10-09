@@ -54,6 +54,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> This will vary from man to man. That said, most men should feel results quickly, so long as they take Stud according to the simple, easy to follow instructions on the label. If you also eat a healthy diet, exercise regularly and sleep well, results should be even better.
+
+### 3c. Cautions
+
+> Attention: Any Man Who Wants Women to Call Him a “STUD” in The Bedroom…
+> Attention: Any Man Who Wants Women to Call Him a “STUD” in The Bedroom…
+> I know many guys who’ve taken weird pills and desensitizing creams to help them last longer. At best these things work in the short run. In the long-run none seem to work effectively. Some have nasty side effects.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51183-g1.webp
+- assets/products/51183-g2.webp
+- assets/products/51183-g3.webp
+- assets/products/51183-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

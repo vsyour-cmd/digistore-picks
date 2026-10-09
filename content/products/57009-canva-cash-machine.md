@@ -60,6 +60,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A complete step-by-step guide to finding in-demand products, creating them in Canva in 30 minutes or less, and listing them on platforms where customers already come to buy — no social media, no paid marketing, no inventory, no shipping.
+> Step by step. Written for someone who has never opened Canva before. I walk you through the most beginner-friendly product categories, how to use templates correctly, how to customize designs that stand out, and how to export your files in the exact format each platform requires.
+> The exact step-by-step process I use to evaluate demand, check competition, and decide whether a product idea is worth pursuing — before I spend a single minute creating it. Run through this in fifteen minutes for any idea you have.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

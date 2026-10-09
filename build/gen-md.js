@@ -9,6 +9,7 @@ const path = require("path");
 
 const ROOT = path.join(__dirname, "..");
 const DATA = JSON.parse(fs.readFileSync(path.join(ROOT, "data", "dataset.json"), "utf8"));
+const DETAILS = fs.existsSync("G:/Digistore24/data/details-en.json") ? JSON.parse(fs.readFileSync("G:/Digistore24/data/details-en.json", "utf8")) : {};
 const OUT = path.join(ROOT, "content", "products");
 fs.mkdirSync(OUT, { recursive: true });
 
@@ -85,6 +86,26 @@ for (const p of DATA.products) {
   lines.push("");
   lines.push("> ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.");
   lines.push("");
+  // Deep details: usage/caution/gallery
+  const det = DETAILS[p.id] || null;
+  if (det) {
+    lines.push("### 3b. Usage (vendor claims, not verified by us)");
+    lines.push("");
+    if (det.usage && det.usage.length) det.usage.forEach((t) => lines.push("> " + t));
+    else lines.push("(no usage paragraphs found on the sales page)");
+    lines.push("");
+    lines.push("### 3c. Cautions");
+    lines.push("");
+    if (det.caution && det.caution.length) det.caution.forEach((t) => lines.push("> " + t));
+    else lines.push("(no explicit caution paragraphs found; see marketplace stats above)");
+    lines.push("");
+    if (det.gallery && det.gallery.length) {
+      lines.push("### 3d. Gallery (from vendor sales page)");
+      lines.push("");
+      det.gallery.forEach((g) => lines.push("- " + g.file));
+      lines.push("");
+    }
+  }
   lines.push("## 4. Editorial notes");
   lines.push("");
   lines.push("(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)");

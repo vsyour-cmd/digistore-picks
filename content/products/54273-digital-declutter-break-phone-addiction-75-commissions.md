@@ -58,6 +58,16 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Use the complete system for 60 days. If you don't experience dramatic reductions in phone usage, improved focus, and better control over your digital life — email us for a full refund within 24 hours. No forms. No questions. You even keep the bonus guides.
+
+### 3c. Cautions
+
+> The Creator "I built the apps that stole your attention. Then I built the system to take it back. "
+> Rebuild your attention span from fragmented to laser-sharp with specific cognitive protocols.
+> Focus Recovery Techniques — Rebuild your attention span from fragmented to laser-focused
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

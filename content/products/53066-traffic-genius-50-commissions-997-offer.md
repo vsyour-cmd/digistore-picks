@@ -47,6 +47,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 100K Traffic Training: A comprehensive, step-by-step course with guides and action plans including make money with affiliate marketing, faceless channels, and more to sell anything online tapping into billions of customers 24/7/365 and start making money today.
+> $10K Action Blueprint: Step-by-step walk-through to generate traffic, visitors, clicks to sales designed to hit your first $10K using the system.
+
+### 3c. Cautions
+
+> Smart AI Optimization Technology: AI intelligence that knows what makes people click, automatically generating videos in 1 click for different audiences to grab attention in crowded feeds - ensuring maximum views, engagement, and click-through rates.
+> (NEW! Coming soon) Watch your still images come alive with professional animation effects that make your content pop and grab attention instantly!
+> NEW! Breathe life into any still image by instantly transforming it into an eye-catching animated video that stops the scroll and captures attention!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53066-g1.webp
+- assets/products/53066-g2.webp
+- assets/products/53066-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -58,6 +58,14 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 🧠 The 10-Minute Mental Rehearsal Technique Step-by-step daily practice that transforms your social confidence through mental simulation
+
+### 3c. Cautions
+
+> Disclaimer: This is an educational product and is not intended as medical or therapeutic advice. Individual results may vary based on effort, consistency, and adherence to the program. Always consult your healthcare provider before beginning any new program, especially if you have existing mental health conditions. The techniques have been tested with thousands of socially anxious people, but we make no guarantee of specific outcomes.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

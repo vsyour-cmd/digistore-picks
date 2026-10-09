@@ -53,6 +53,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> This is a simple, step-by-step guide for cleansing your kidneys from the comfort of your own home.
+
+### 3c. Cautions
+
+> With more than 119,000 customers, we haven’t seen any notable side effects. So we’re confident in saying that FlowForce Max is one of the purest prostate health formulas you’ll find on the market.
+> Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/45545-g1.webp
+- assets/products/45545-g2.webp
+- assets/products/45545-g3.webp
+- assets/products/45545-g4.webp
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

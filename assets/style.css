@@ -112,3 +112,5 @@ ul.az li { break-inside: avoid; }
 .pager { margin: 20px 0; font-size: 0.95rem; }
 .pager a { margin: 0 2px; }
 tr.self { background: var(--accent-soft); }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin: 14px 0; }
+.gallery img { width: 100%; height: auto; border: 1px solid var(--line); border-radius: 8px; background: #fff; }
