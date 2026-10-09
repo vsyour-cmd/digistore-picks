@@ -147,7 +147,7 @@ function imgRel(p, rel, attrs = "") {
   const im = localImage(p.id);
   if (!im) return "";
   const dims = im.w && im.h ? `width="${im.w}" height="${im.h}"` : "";
-  return `<img src="${rel}/${im.path}" ${dims} ${attrs} loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'">`;
+  return `<a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank" aria-label="${esc(p.label)} — official sales page (affiliate link)"><img src="${rel}/${im.path}" ${dims} ${attrs} loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'"></a>`;
 }
 
 function productCard(p, rel = ".") {
@@ -767,7 +767,7 @@ function galleryBlock(p) {
   if (!d || !d.gallery || !d.gallery.length) return "";
   return `<h2>More images (from the vendor's sales page)</h2>
 <div class="gallery">
-${d.gallery.map((g) => `<img src="../${g.file}" width="${g.width}" height="${g.height}" loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'">`).join("\n")}
+${d.gallery.map((g) => `<a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank"><img src="../${g.file}" width="${g.width}" height="${g.height}" loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'"></a>`).join("\n")}
 </div>
 <p class="sub">Images are taken from the vendor's official sales page and belong to the vendor; they show the product as marketed.</p>`;
 }

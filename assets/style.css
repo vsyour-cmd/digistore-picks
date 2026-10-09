@@ -159,3 +159,6 @@ footer.site { background: var(--card); border-top: 1px solid var(--line); paddin
 @media (min-width: 769px) and (max-width: 1024px) {
   .grid { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
 }
+/* linked images */
+.card > a:first-child, .gallery a { display: block; line-height: 0; }
+.card > a:first-child:hover img, .gallery a:hover img { opacity: 0.92; }
