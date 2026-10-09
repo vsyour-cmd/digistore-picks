@@ -77,6 +77,8 @@ function layout({ title, desc, body, rel = ".", path = "", ogType = "website", o
 <meta property="og:url" content="${canonical}">
 ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${esc(ogImg)}">` : '<meta name="twitter:card" content="summary">'}
 <link rel="stylesheet" href="${rel}/assets/style.css">
+<link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/">
+<link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">
 ${VERIFY_META}
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
@@ -95,7 +97,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website: 4271 Digistore24-Produkte</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>

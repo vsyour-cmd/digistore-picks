@@ -7,15 +7,18 @@
 const fs = require("fs");
 const path = require("path");
 
-const ROOT = path.join(__dirname, "..");
+const ROOT = process.env.SITE_ROOT ? path.resolve(process.env.SITE_ROOT) : path.join(__dirname, "..");
 const DST = path.join(ROOT, "assets", "products");
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
-const dataPath = path.join(ROOT, "data", "dataset.json");
+const dataPath = process.env.DATASET_FILE || path.join(ROOT, "data", "dataset.json");
 const DATA = JSON.parse(fs.readFileSync(dataPath, "utf8"));
 fs.mkdirSync(DST, { recursive: true });
 
 const MISSING_ONLY = process.argv.includes("--missing");
+// --top N: 只处理收益前 N 的产品(控制仓库体积)
+const topIdx = process.argv.indexOf("--top");
+const TOP = topIdx >= 0 ? parseInt(process.argv[topIdx + 1], 10) || 0 : 0;
 const extOf = (url, def = "jpg") => {
   const m = url.split("?")[0].match(/\.(png|jpe?g|gif|webp|svg)$/i);
   return m ? m[1].toLowerCase().replace("jpeg", "jpg") : def;
@@ -31,7 +34,9 @@ function candidates(p) {
 
 (async () => {
   let ok = 0, skip = 0, fail = 0;
-  const queue = DATA.products.filter((p) => {
+  let queue = DATA.products;
+  if (TOP > 0) queue = [...queue].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, TOP);
+  queue = queue.filter((p) => {
     if (MISSING_ONLY && fs.existsSync(path.join(DST, p.id + ".img.json"))) return false;
     return candidates(p).length > 0;
   });

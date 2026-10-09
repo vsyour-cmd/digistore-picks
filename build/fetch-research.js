@@ -9,10 +9,12 @@
  */
 const fs = require("fs");
 const path = require("path");
+const { execSync } = require("child_process");
 
-const SRC = "G:/Digistore24/data/products-en.json";
-const OUT = "G:/Digistore24/data/research-en.json";
-const META = "G:/Digistore24/data/research-meta.json";
+const DATA_DIR = process.env.DATA_DIR || "G:/Digistore24/data";
+const SRC = path.join(DATA_DIR, process.env.PRODUCTS_FILE || "products-en.json");
+const OUT = path.join(DATA_DIR, process.env.RESEARCH_FILE || "research-en.json");
+const META = path.join(DATA_DIR, process.env.RESEARCH_FILE || "research-en.json").replace(/research-.*\.json$/, "research-meta.json");
 const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36";
 
 const args = process.argv.slice(2);
