@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Alternatives comparisons extended to the top 200 offers (60→193 pages); blog RSS feed now delivers full article content; image alt coverage confirmed by the daily QA structural scan.",
+      "changes": [
+        "133 new alternatives comparison pages (EN), embedded comparison tables on matching product profiles",
+        "RSS/Atom feed upgraded to full-text",
+        "Image alt audit: 0 issues (enforced by QA gate)"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "FAQ upgraded with real internal links (product pages), category pages now carry computed FAQ + FAQPage JSON-LD, image sitemap extensions, and the QA scanner grew 5 structural checks.",
       "changes": [
         "FAQ answers now link related profiles, category pages, evaluation method and discussions",

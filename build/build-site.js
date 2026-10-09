@@ -587,7 +587,7 @@ ${az.map((p) => `<li><a href="${p.slug}.html">${esc(p.label)}</a></li>`).join("\
 // ---------- Alternatives 对比页(收益 Top 60,同分类最近邻) ----------
 function computeAltSlugs() {
   const set = new Set();
-  for (const p of products.slice(0, 60)) {
+  for (const p of products.slice(0, 200)) {
     const primaryCatId = (p.categoryIds || [])[0];
     if (!primaryCatId) continue;
     const alts = products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String(primaryCatId))).slice(0, 4);

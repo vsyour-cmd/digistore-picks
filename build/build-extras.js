@@ -112,7 +112,9 @@ if (fs.existsSync(blogDir)) {
   for (const f of fs.readdirSync(blogDir).filter((f) => f.endsWith('.html') && f !== 'index.html')) {
     const html = fs.readFileSync(path.join(blogDir, f), 'utf8');
     const t = (html.match(/<title>([^<]+)<\/title>/) || [])[1] || f;
-    blogFiles.push({ f, t: t.replace(' — ' + SITE_NAME, '') });
+    const art = (html.match(/<article class="review">([\s\S]*?)<\/article>/) || [])[1] || '';
+    const upd = (html.match(/<meta property="article:modified_time" content="([^"]+)"/) || [])[1] || DATA_DATE || TODAY;
+    blogFiles.push({ f, t: t.replace(' — ' + SITE_NAME, ''), content: art, updated: upd });
   }
 }
 const feed = `<?xml version="1.0" encoding="utf-8"?>
@@ -121,11 +123,12 @@ const feed = `<?xml version="1.0" encoding="utf-8"?>
   <link href="${SITE_URL}/blog/"/>
   <updated>${new Date().toISOString()}</updated>
   <id>${SITE_URL}/blog/</id>
-${blogFiles.map(({ f, t }) => `  <entry>
+${blogFiles.map(({ f, t, content, updated }) => `  <entry>
     <title>${esc(t)}</title>
     <link href="${SITE_URL}/blog/${f}"/>
     <id>${SITE_URL}/blog/${f}</id>
-    <updated>${DATA_DATE || TODAY}</updated>
+    <updated>${updated || DATA_DATE || TODAY}</updated>${content ? `
+    <content type="html">${esc(content).slice(0, 20000)}</content>` : ""}
   </entry>`).join("\n")}
 </feed>
 `;
