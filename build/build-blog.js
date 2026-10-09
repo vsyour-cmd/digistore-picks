@@ -29,6 +29,22 @@ const products = DATA.products.map((p) => ({ ...p, slug: slug(p.label) + "-" + p
 
 const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
+// SERP 保护:标题 ≤68 字符(词边界截断),描述 ≤158 字符
+const capTitle = (s, max = 68) => {
+  s = String(s == null ? "" : s).trim().replace(/\s+/g, " ");
+  if (s.length <= max) return s;
+  const cut = s.slice(0, max);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > 30 ? cut.slice(0, sp) : cut).replace(/[\s—–-]+$/g, "").replace(/[\s—–-]+$/, "") + "…";
+};
+const capDesc = (s, max = 158) => {
+  s = String(s == null ? "" : s).trim();
+  if (s.length <= max) return s;
+  const cut = s.slice(0, max);
+  const sp = cut.lastIndexOf(" ");
+  return (sp > 80 ? cut.slice(0, sp) : cut).replace(/[\s,;]+$/g, "").replace(/[\s,;]+$/, "") + "…";
+};
+
 function layout({ title, desc, body, rel = "..", file = "", jsonLd = [] }) {
   const canonical = SITE_URL + "/blog/" + file;
   const article = {
@@ -47,13 +63,13 @@ function layout({ title, desc, body, rel = "..", file = "", jsonLd = [] }) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>${esc(title)}</title>
-<meta name="description" content="${esc(desc)}">
+<title>${esc(capTitle(title))}</title>
+<meta name="description" content="${esc(capDesc(desc))}">
 <link rel="canonical" href="${canonical}">
 <meta property="og:site_name" content="${SITE_NAME}">
 <meta property="og:type" content="article">
-<meta property="og:title" content="${esc(title)}">
-<meta property="og:description" content="${esc(desc)}">
+<meta property="og:title" content="${esc(capTitle(title))}">
+<meta property="og:description" content="${esc(capDesc(desc))}">
 <meta property="og:url" content="${canonical}">
 <meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="${rel}/assets/style.css">

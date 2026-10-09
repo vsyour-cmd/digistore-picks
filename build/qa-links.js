@@ -20,6 +20,7 @@ function qaSite(root, label, dirs) {
   const exists = new Set(files);
   const cjk = [];
   const dead = [];
+  const titleLong = [];
   const leaks = [];
   let cjkChecked = 0;
   for (const file of files) {
@@ -29,6 +30,10 @@ function qaSite(root, label, dirs) {
       if (m) cjk.push(`${file}: ${m.slice(0, 3).join(",")}`);
       cjkChecked++;
     }
+    // 标题长度门禁: >70 字符会被 SERP 截断
+    const raw = (html.match(/<title>([\s\S]*?)<\/title>/) || [])[1] || "";
+    const t = raw.replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#0?39;|&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&nbsp;/g, " ").replace(/&[a-z]+;/g, "x");
+    if (t.length > 70) titleLong.push(`${file}: ${t.length}ch — ${t.slice(0, 50)}`);
     // 模板泄漏门禁:构建产物不允许出现未插值的 ${...}
     const lm = html.match(/\$\{[^}]{1,80}\}/g);
     if (lm) leaks.push(`${file}: ${[...new Set(lm)].slice(0, 3).join(" | ")}`);
@@ -44,14 +49,15 @@ function qaSite(root, label, dirs) {
       dead.push(`${file} → ${l}`);
     }
   }
-  return { files: files.length, cjk, dead, leaks };
+  return { files: files.length, cjk, dead, leaks, titleLong };
 }
 
 function report(r, label) {
-  console.log(`${label}: ${r.files} pages | CJK泄漏页面: ${r.cjk.length} | 死链: ${r.dead.length} | 模板泄漏: ${r.leaks.length}`);
+  console.log(`${label}: ${r.files} pages | CJK泄漏页面: ${r.cjk.length} | 死链: ${r.dead.length} | 模板泄漏: ${r.leaks.length} | 标题>70: ${r.titleLong.length}`);
   r.cjk.slice(0, 3).forEach((x) => console.log(`  ${label} CJK`, x));
   r.dead.slice(0, 5).forEach((x) => console.log(`  ${label} DEAD`, x));
   r.leaks.slice(0, 3).forEach((x) => console.log(`  ${label} LEAK`, x));
+  r.titleLong.slice(0, 3).forEach((x) => console.log(`  ${label} TITLE>70`, x));
 }
 
 const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog"]);
