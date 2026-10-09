@@ -51,6 +51,7 @@ const ORG_LD = {
   name: "adminstore",
   url: SITE_URL + "/",
   email: "admin@2bkf.com",
+  address: { "@type": "PostalAddress", streetAddress: "Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui", addressLocality: "Kowloon", addressCountry: "HK" },
   sameAs: ["https://github.com/vsyour-cmd/digistore-picks"],
 };
 
