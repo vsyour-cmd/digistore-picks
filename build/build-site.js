@@ -42,6 +42,7 @@ function layout({ title, desc, body, rel = "." }) {
   <a class="brand" href="${rel}/index.html">${SITE_NAME}<span>.com</span></a>
   <nav class="cats">
     <a href="${rel}/index.html">All categories</a>
+    <a href="${rel}/blog/index.html">Blog</a>
     <a href="${rel}/about.html">About &amp; disclosure</a>
   </nav>
 </div></header>
