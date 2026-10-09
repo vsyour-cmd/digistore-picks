@@ -31,6 +31,7 @@ node build/fetch-research.js        # 默认只补失败/缺失项;--refresh 全
 
 ```
 node build/fetch-images.js          # marketplace 官方图优先,og:image 兜底;已下载的自动跳过
+node build/optimize-images.js       # 压缩转WebP(600px,q80)+记录尺寸;幂等,每日新增图自动处理
 ```
 输出 `site/assets/products/{id}.{ext}` + `{id}.img.json` manifest。
 
@@ -42,6 +43,7 @@ node build/gen-md.js                # 每产品 MD 档案 → site/content/produ
 node build/build-site.js            # 全产品 HTML 档案页 + 分类页 + 首页 + about(SEO/GEO: canonical/OG/JSON-LD/TL;DR/面包屑)
 node build/build-blog.js            # 数据驱动博客(Article JSON-LD + Key takeaways)
 node build/build-extras.js          # sitemap.xml / robots.txt / llms.txt / feed.xml(必须在最后)
+# 新增页面生成器:build-site.js 同时产出 alternatives/(对比页60)+ best-of/(聚合页36)+ 404.html + 分类分页
 ```
 
 数据文件结构(dataset.json):`{affiliateId:'adminstore', scrapedAt, researchedAt, total, withResearch, categories:[{catId,section,label,count}], products:[{id,productId,label,type,price,currency,commission,conversionRate,cancelRate,earningsPerSale,earningsPerClick,vendorName,description,imageUrl,salesPageUrl,promoLink,affiliateSupportPageUrl,autoAccept,billingTypes,createdAt,categories,categoryIds,research?}]}`
