@@ -22,6 +22,8 @@ const d = read("products-en.json");
 const cats = read("categories-en.json");
 const fixed = read("promo-fixed.json") || {};
 const research = read("research-en.json") || {};
+// 厂商通知的推广链接变更(最高优先级)
+const promoUpdates = (read("promo-updates.json") || { links: {} }).links || {};
 
 if (!d) { console.error("missing products-en.json"); process.exit(1); }
 
@@ -33,6 +35,9 @@ if (cats) for (const c of cats.categories) {
 }
 
 function promoLink(p) {
+  // 1. 厂商官方通知的新链接(最高优先级)
+  if (promoUpdates[String(p.productId)]) return promoUpdates[String(p.productId)].promo;
+  if (promoUpdates[String(p.id)]) return promoUpdates[String(p.id)].promo;
   const s = p.salesPageUrl || "";
   const canonical = `https://www.digistore24.com/redir/${p.productId}/${AFF}`;
   if (!s || /\[[A-Z]+\]/.test(s) || s.includes("#")) return canonical;

@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://byzoewomen.com/the-zoe-method-sales.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://byzoewomen.com/the-zoe-method-sales.html#aff=adminstore
 - Sales page: https://byzoewomen.com/the-zoe-method-sales.html
 - Vendor affiliate support: https://byzoewomen.com/affiliates-zoe-method.html
 - Canonical redirect: https://www.digistore24.com/redir/706133/adminstore

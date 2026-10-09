@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://salesforgepro.netlify.app/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://salesforgepro.netlify.app/#aff=adminstore
 - Sales page: https://salesforgepro.netlify.app/
 - Vendor affiliate support: https://salesforgepro-affiliates.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/723073/adminstore

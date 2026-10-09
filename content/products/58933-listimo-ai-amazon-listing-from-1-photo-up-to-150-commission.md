@@ -24,7 +24,7 @@
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://listimo.ai/en/offer.html?utm_source=digistore24&utm_medium=affiliate&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://listimo.ai/en/offer.html?utm_source=digistore24&utm_medium=affiliate#aff=adminstore
 - Sales page: https://listimo.ai/en/offer.html?utm_source=digistore24&utm_medium=affiliate
 - Vendor affiliate support: https://listimo.ai/en/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/730167/adminstore
