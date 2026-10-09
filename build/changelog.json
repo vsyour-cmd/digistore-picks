@@ -3,6 +3,16 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "FAQ upgraded with real internal links (product pages), category pages now carry computed FAQ + FAQPage JSON-LD, image sitemap extensions, and the QA scanner grew 5 structural checks.",
+      "changes": [
+        "FAQ answers now link related profiles, category pages, evaluation method and discussions",
+        "Category pages: computed 4-Q&A FAQ + FAQPage JSON-LD (all 46 pages)",
+        "sitemap: image:image extensions for 400+ product pages with localized images",
+        "QA scanner: meta description / canonical / H1 / alt / JSON-LD checks added"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Browser-render retry for unreachable sales pages: 6 EN offers recovered (Internet Millionaire, Sales Page Ready, Dance School leads, Dead Sea Secret, Black Ox, more). Truly dead domains stay labeled as such.",
       "changes": [
         "6 EN + 16 DE offers recovered from unreachable/thin to real research via browser rendering",

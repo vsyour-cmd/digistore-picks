@@ -26,7 +26,17 @@ const esc = (s) => String(s == null ? "" : s).replace(/&/g, "&amp;").replace(/</
 
 const urls = [];
 const seen = new Set();
-const add = (u, date) => { if (seen.has(u)) return; seen.add(u); urls.push({ loc: SITE_URL + "/" + u, lastmod: date || TODAY }); };
+const add = (u, date, image) => { if (seen.has(u)) return; seen.add(u); urls.push({ loc: SITE_URL + "/" + u, lastmod: date || TODAY, image }); };
+
+// 图片 sitemap:产品页附本地图(manifest)
+const IMG_DIR = path.join(ROOT, "assets", "products");
+function localImg(id) {
+  const m = path.join(IMG_DIR, id + ".img.json");
+  if (fs.existsSync(m)) {
+    try { const j = JSON.parse(fs.readFileSync(m, "utf8")); if (j.local) return SITE_URL + "/" + j.local; } catch {}
+  }
+  return null;
+}
 
 add("", DATA_DATE);
 add("about.html", TODAY);
@@ -37,12 +47,15 @@ for (const d of ["category", "alternatives", "best-of", "blog"]) {
   if (!fs.existsSync(dir)) continue;
   for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".html"))) add(`${d}/${f}`, d === "blog" ? TODAY : DATA_DATE);
 }
-for (const p of DATA.products) add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE);
+for (const p of DATA.products) {
+  const img = localImg(p.id);
+  add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE, img);
+}
 
 // ---------- sitemap.xml ----------
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((u) => `  <url>\n    <loc>${u.loc}</loc>\n    <lastmod>${u.lastmod}</lastmod>\n  </url>`).join("\n")}
+${urls.map((u) => `  <url>\n    <loc>${u.loc}</loc>\n    <lastmod>${u.lastmod}</lastmod>${u.image ? `\n    <image:image>\n      <image:loc>${u.image}</image:loc>\n    </image:image>` : ""}\n  </url>`).join("\n")}
 </urlset>
 `;
 fs.writeFileSync(path.join(ROOT, "sitemap.xml"), sitemap);
