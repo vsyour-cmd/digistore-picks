@@ -75,6 +75,12 @@
 - assets/products/56611-g3.webp
 - assets/products/56611-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Premium Course - Advanced Liquidity and Smart Money Trading alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/693482
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Premium%20Course%20-%20Advanced%20Liquidity%20and%20Smart%20Money%20Trading
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

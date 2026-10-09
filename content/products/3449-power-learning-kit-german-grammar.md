@@ -58,6 +58,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The seminar took root and became a permanent part of the school program, and the wave of enthusiasm grew steadily, and so did the demand for a book. Ok, right, I said to myself: You've written a scientific work about this phenomenon for the Technical University in Berlin, why wouldn't you write a step-by-step tutorial about mnemotechnics for German as a foreign language for your students?"
+> Often, colors are used without any system. Learn how to use them in a meaningful way.
+> Learn the subject matters step-by-step , in order to be able memorize any information very easily.
+
+### 3c. Cautions
+
+> When you find yourself in one of the situations above, I can tell you you're not the only one. The same happened to most of my students, until I finally found the most important clue, which until then was still missing, for learning German with a maximum result.
+> And honestly: It certainly is not your fault that until now you didn't make the expected progress in learning German. After having spoken to hundreds of students, I would maintain that it is NORMAL. In your German language courses and books, no attention has been paid to the WAY you would learn everything. 99,9% of the teachers simply don't know these techniques!
+> Now, when you want to learn for example der Stuhl" (the chair), you just imagine that the lion bites the chair. You can create another image, of course; the only important thing is that the lion does something with the chair and not just stands besides it. For example, in my course I use the following image:
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/3449-g1.webp
+- assets/products/3449-g2.webp
+- assets/products/3449-g3.webp
+- assets/products/3449-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: POWER-Learning-Kit German Grammar alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/19083
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=POWER-Learning-Kit%20German%20Grammar
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

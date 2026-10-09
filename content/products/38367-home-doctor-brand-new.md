@@ -56,6 +56,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> That’s why I’ll show you a simple set of diagrams and instructions that you can follow to put your mind at ease. Dr. Maybell perfected this method while working for two years at the prestigious European Institute of Oncology in Milan, Italy.
+> How to Take Care of Toothaches and Mouth Infections When You Can’t Visit a Dentist
+> A dental infection can quickly become a nuisance , so you want to know how to take care of it the right way.
+
+### 3c. Cautions
+
+> If you want to see what happens when things go south, all you have to do is look at Venezuela: no electricity, no running water, no law, no antibiotics, no painkillers, no anesthetics, no insulin or other important things.
+> Inside the Home Doctor , you’ll also learn about the biggest medical mistakes you can make in a blackout and what to do with important medications that require refrigeration, like insulin or Humira.
+> So, pay close attention to this chapter before you throw away your so called “expired” medication.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Home Doctor – BRAND NEW! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/394659
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Doctor%20%E2%80%93%20BRAND%20NEW!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

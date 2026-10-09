@@ -46,6 +46,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> There is at least one right way and a bunch of wrong ways to do, pretty much, everything. Getting this part wrong will definitely give you weak results. Get this part right and watch yourself transform into a master at cold calling and a rock star sales professional. This downloadable cheat sheet will breakdown exactly how to use your Fearless Phone Fanatic audio (mind conditioning) for the very best results
+> Even though this product is considered to be totally safe for anyone's usage, it is strongly recommended that this product is only used in accordance with the guide "Fearless Phone Fanatic: The Cheat Sheet" and only by users that are 18 years of age or older and if you are aware of any mental disorder you may have, please consult with your medical provider before usage.
+
+### 3c. Cautions
+
+> The methods used in Fearless Phone Fanatic have been extremely effective in helping people make the transformations that they desired, however, Results may vary from person to person.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52861-g1.webp
+- assets/products/52861-g3.webp
+- assets/products/52861-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Fearless Phone Fanatic (For Cold Calling) alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/615548
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fearless%20Phone%20Fanatic%20(For%20Cold%20Calling)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

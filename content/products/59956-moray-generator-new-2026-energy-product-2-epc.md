@@ -42,6 +42,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Some home alteration alternatives may be illegal in your town, city, state, province or country. It is your responsibility to inquire with your local authority about how to proceed if restrictions apply. The product is an experiment, it was not technically assessed and has not been individually producted nor small-scale produced or mass-produced. Although we have not encountered a problem, you still must consult with your local authority.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/738063
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Moray%20Generator%20-%20NEW%202026%20ENERGY%20PRODUCT%20%242%2B%20EPC
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

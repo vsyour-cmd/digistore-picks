@@ -66,6 +66,12 @@
 - assets/products/44654-g1.webp
 - assets/products/44654-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Writelytic - Lifetime Commissions alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/497626
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Writelytic%20-%20Lifetime%20Commissions
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

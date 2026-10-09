@@ -37,6 +37,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Earn Big Selling the Most Powerful AI Writing Tool on Digist alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/557220
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%20Big%20Selling%20the%20Most%20Powerful%20AI%20Writing%20Tool%20on%20Digist
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

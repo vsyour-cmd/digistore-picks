@@ -56,6 +56,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step "Brain Liberation System" that transforms even the most screen-dependent child into a creative, confident kid - without battles or tears. (One mother saw her 6-year-old voluntarily choose books over screens in just 8 days!)
+> Transform your child's relationship with screens from dependency to healthy, balanced usage.
+> A comprehensive step-by-step guide for breaking screen dependency even if your child currently melts down at the mere suggestion of turning off devices.
+
+### 3c. Cautions
+
+> 21 daily modules packed with practical, science-backed strategies so effective, they transform screen-addicted children naturally. (Warning: Your children might actually start having so much fun in the real world that you'll wonder where those screen-obsessed kids went!)
+> I consulted with experts in pediatric neurology, behavioral psychology, and family therapy.
+> And, most importantly, you'll become the parent your child needs to thrive in the digital age - confident, connected, and in control.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Digital Detox for Kids - eBook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/602583
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Detox%20for%20Kids%20-%20eBook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

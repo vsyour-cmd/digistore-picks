@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Unlike generic motivational advice, How to Build Self-Esteem and Confidence provides step-by-step strategies you can apply in real life. It’s designed to be supportive, practical, and easy to follow.
+> Unlike generic motivational advice, How to Build Self-Esteem and Confidence provides step-by-step strategies you can apply in real life. It’s designed to be supportive, practical, and easy to follow.
+> Unlike generic motivational advice, How to Build Self-Esteem and Confidence provides step-by-step strategies you can apply in real life. It’s designed to be supportive, practical, and easy to follow.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational and self-improvement purposes only. It does not replace professional counseling, therapy, or mental health treatment. Results may vary depending on individual effort and circumstances. Always seek professional support when needed. Legal Information
+> Disclaimer: This ebook is intended for educational and self-improvement purposes only. It does not replace professional counseling, therapy, or mental health treatment. Results may vary depending on individual effort and circumstances. Always seek professional support when needed. Legal Information
+> Disclaimer: This ebook is intended for educational and self-improvement purposes only. It does not replace professional counseling, therapy, or mental health treatment. Results may vary depending on individual effort and circumstances. Always seek professional support when needed. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53835-g1.webp
+- assets/products/53835-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Build Self-Esteem and Confidence alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633822
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Build%20Self-Esteem%20and%20Confidence
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

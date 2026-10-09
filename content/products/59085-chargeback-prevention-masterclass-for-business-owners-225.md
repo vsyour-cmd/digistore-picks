@@ -65,6 +65,12 @@
 > This is not a one-time fix. Set the routine up once, then come back each month to review what happened and tighten what needs attention.
 > Terms, license, and disclaimer The Chargeback Prevention Masterclass is proprietary to NEXTMETHOD and licensed to one paid user or one licensed business, for internal business use only. No portion may be copied, shared, resold, redistributed, publicly posted, recreated, repackaged, or used to build a competing product, service, template, or training. Purchase grants access only and does not transfer ownership of the intellectual property. NEXTMETHOD retains all rights.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Chargeback Prevention Masterclass for Business Owners | $225 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/726450
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Chargeback%20Prevention%20Masterclass%20for%20Business%20Owners%20%7C%20%24225
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

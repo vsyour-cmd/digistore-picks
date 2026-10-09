@@ -58,6 +58,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A private Creator Audit plus a personalized month of ideas, hooks, scripts, captions and filming directions - so you can stop waiting and finally start building your personal brand and creating content with a clear plan.
+> Every day has a concept, three hook options, a full script, caption, call to action, on-screen text and filming directions built around your voice.
+> Receive thirty content ideas with hooks, scripts, captions, filming directions and strategy informed by your audit.
+
+### 3c. Cautions
+
+> Film the videos. Post them. Pay attention to what works. Keep going.
+> Privacy Notice Terms of Service Refund Policy Legal Information AI Disclaimer Contact Andrew & Danny The 30-Day Creator Blueprint provides content planning and creative guidance generated from the information you submit. You film and publish your own videos. Results, views, and follower growth are not guaranteed.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59133-g1.webp
+- assets/products/59133-g2.webp
+- assets/products/59133-g3.webp
+- assets/products/59133-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Turn Aspiring Creators Into Creators — Earn 40% Per Sale alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/728630
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Turn%20Aspiring%20Creators%20Into%20Creators%20%E2%80%94%20Earn%2040%25%20Per%20Sale
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

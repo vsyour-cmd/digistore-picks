@@ -58,6 +58,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Whether you're a busy parent juggling packed lunches, picky eaters, or simply want more confidence in what you’re serving… This cookbook is your step-by-step guide to raising strong, happy, plant-powered kids—without the stress.
+
+### 3c. Cautions
+
+> This workbook helps kids get excited about eating more plants and teaches them why being kind to animals and the planet is so important—through food, fun, and creativity. Delivered instantly as a downloadable PDF. No shipping. No waiting. Just print, play, and learn!
+> Please note the package contains digital downloads and no physical products will be shipped to you.
+> All information and results stated on this website are for information purposes only. The information is not specific medical advice for any individual. The content website and product should not substitute medical advice from a health professional. If you have a health problem, speak to your doctor or a health professional immediately about your condition.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52936-g1.webp
+- assets/products/52936-g2.webp
+- assets/products/52936-g3.webp
+- assets/products/52936-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/618774
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Plant-Based%20For%20Kids%20Cookbook%20-%20100%2B%20Fun%2C%20Easy%20Vegan%20Recipes
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

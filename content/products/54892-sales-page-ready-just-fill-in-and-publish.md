@@ -52,6 +52,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Sales Page Ready Just Fill In and Publish alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/650825
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sales%20Page%20Ready%20Just%20Fill%20In%20and%20Publish
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

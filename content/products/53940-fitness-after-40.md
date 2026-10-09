@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to turn your body back into a high-performance engine. Stop 'grinding' on the treadmill and start 'priming' with the exact resistance-loading hacks that naturally trigger your body’s anti-aging hormones, canceling the metabolic expiration that starts at 40.
+> A step-by-step roadmap to turn your body back into a high-performance engine. Stop 'grinding' on the treadmill and start 'priming' with the exact resistance-loading hacks that naturally trigger your body’s anti-aging hormones, canceling the metabolic expiration that starts at 40.
+> A step-by-step roadmap to turn your body back into a high-performance engine. Stop 'grinding' on the treadmill and start 'priming' with the exact resistance-loading hacks that naturally trigger your body’s anti-aging hormones, canceling the metabolic expiration that starts at 40.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Results may vary depending on individual health and lifestyle. Always consult with your doctor before starting a new fitness or nutrition program. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Results may vary depending on individual health and lifestyle. Always consult with your doctor before starting a new fitness or nutrition program. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It is not a substitute for professional medical advice, diagnosis, or treatment. Results may vary depending on individual health and lifestyle. Always consult with your doctor before starting a new fitness or nutrition program. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53940-g1.webp
+- assets/products/53940-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Fitness After 40 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635406
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fitness%20After%2040
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

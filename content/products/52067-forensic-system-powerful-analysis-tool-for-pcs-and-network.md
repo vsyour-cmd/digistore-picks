@@ -44,6 +44,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Forensic System – Powerful Analysis Tool for PCs and Network alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/518672
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Forensic%20System%20%E2%80%93%20Powerful%20Analysis%20Tool%20for%20PCs%20and%20Network
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

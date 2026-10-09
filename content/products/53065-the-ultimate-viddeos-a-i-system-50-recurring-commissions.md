@@ -63,6 +63,12 @@
 - assets/products/53065-g3.webp
 - assets/products/53065-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Ultimate Viddeos A.I. System | 50% Recurring Commissions alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/586248
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Ultimate%20Viddeos%20A.I.%20System%20%7C%2050%25%20Recurring%20Commissions
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

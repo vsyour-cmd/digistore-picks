@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I blamed myself for being distracted during study sessions. This book helped me realize it wasn’t a discipline problem but a strategy problem. It explained how the brain processes sound during learning and how to use that knowledge to improve focus. I now structure my environment intentionally, and my study sessions are far more productive.
+> I blamed myself for being distracted during study sessions. This book helped me realize it wasn’t a discipline problem but a strategy problem. It explained how the brain processes sound during learning and how to use that knowledge to improve focus. I now structure my environment intentionally, and my study sessions are far more productive.
+> I blamed myself for being distracted during study sessions. This book helped me realize it wasn’t a discipline problem but a strategy problem. It explained how the brain processes sound during learning and how to use that knowledge to improve focus. I now structure my environment intentionally, and my study sessions are far more productive.
+
+### 3c. Cautions
+
+> You don’t struggle with focus because you’re distracted, you struggle because you haven’t found the environment that truly supports your brain. Some days, music seems to help you concentrate. Other days, it pulls your attention away. Silence feels peaceful but sometimes painfully empty. You experiment, switch tracks, and wonder if there’s a “right” way to study or if you’ll ever learn efficiently without constant interruptions.
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual preferences, learning style, and environment. Always adjust strategies based on what works best for you. Legal Information
+> You don’t struggle with focus because you’re distracted, you struggle because you haven’t found the environment that truly supports your brain. Some days, music seems to help you concentrate. Other days, it pulls your attention away. Silence feels peaceful but sometimes painfully empty. You experiment, switch tracks, and wonder if there’s a “right” way to study or if you’ll ever learn efficiently without constant interruptions.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53800-g1.webp
+- assets/products/53800-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Study in Music vs. Silence_What Works Best alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633492
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Study%20in%20Music%20vs.%20Silence_What%20Works%20Best
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Many fitness guides focus only on strength or flexibility. Stretch and Strengthen – Flexibility for Longevity blends both in a sustainable, practical approach designed to support your body long-term. With clear instructions and adaptable routines, Ayesha Sarwar makes lifelong mobility accessible to everyone.
+> Many fitness guides focus only on strength or flexibility. Stretch and Strengthen – Flexibility for Longevity blends both in a sustainable, practical approach designed to support your body long-term. With clear instructions and adaptable routines, Ayesha Sarwar makes lifelong mobility accessible to everyone.
+> Many fitness guides focus only on strength or flexibility. Stretch and Strengthen – Flexibility for Longevity blends both in a sustainable, practical approach designed to support your body long-term. With clear instructions and adaptable routines, Ayesha Sarwar makes lifelong mobility accessible to everyone.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and individual lifestyle. Always adapt routines to your personal needs and circumstances. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and individual lifestyle. Always adapt routines to your personal needs and circumstances. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and individual lifestyle. Always adapt routines to your personal needs and circumstances. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53976-g1.webp
+- assets/products/53976-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Stretch and Strengthen alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635593
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Stretch%20and%20Strengthen
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

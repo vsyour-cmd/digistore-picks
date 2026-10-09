@@ -43,6 +43,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Get started | Terms and Conditions | Disclaimer | References | Contact
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/727541
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Halki%20Diabetes%20Remedy%20-%20%20Send%20Clicks%20And%20Stockpile%20Cash
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

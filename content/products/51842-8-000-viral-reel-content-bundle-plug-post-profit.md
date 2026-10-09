@@ -44,6 +44,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 8,000 Viral Reel Content Bundle Plug Post  Profit alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/603611
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=8%2C000%20Viral%20Reel%20Content%20Bundle%20Plug%20Post%20%20Profit
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

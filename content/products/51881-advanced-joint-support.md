@@ -58,6 +58,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Test results for this new form of turmeric – called Meriva &reg; -- have been impressive. In one landmark study, Meriva &reg; is designed to support joint comfort, mobility, and flexibility. All without side effects. 13
+> In one study, 6 out of 10 people who took Yucca as a supplement may support a healthy inflammatory response and promote joint comfort. All without any side effects.
+> That's important, because having more space between your bones means less "bone-on-bone" grinding. That means less joint damage&hellip;less tenderness&hellip;and more relief from your pain!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51881-g1.webp
+- assets/products/51881-g2.webp
+- assets/products/51881-g3.webp
+- assets/products/51881-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Advanced Joint Support alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/603764
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Joint%20Support
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

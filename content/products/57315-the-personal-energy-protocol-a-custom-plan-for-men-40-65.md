@@ -52,6 +52,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Medical disclaimer: The Personal Energy Protocol is for informational and educational purposes only. It is not medical advice, does not diagnose or treat any condition, and makes no claim to cure anything. Do not start, stop, or change any medication or supplement without consulting your physician. Some links may be affiliate links, disclosed per our affiliate disclosure .
+> Medical Disclaimer: Content on Alpha40Fit is for informational purposes only. It is not medical advice. Consult a healthcare professional before starting any supplement or training program. Read the full disclaimer .
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57315-g1.webp
+- assets/products/57315-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Personal Energy Protocol — A Custom Plan for Men 40–65 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/705028
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Personal%20Energy%20Protocol%20%E2%80%94%20A%20Custom%20Plan%20for%20Men%2040%E2%80%9365
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

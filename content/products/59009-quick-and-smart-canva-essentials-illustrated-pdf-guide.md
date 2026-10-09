@@ -46,6 +46,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Quick and Smart Canva Essentials - Illustrated PDF Guide alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/727211
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Quick%20and%20Smart%20Canva%20Essentials%20-%20Illustrated%20PDF%20Guide
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

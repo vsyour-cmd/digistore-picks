@@ -47,6 +47,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> This product is not medical advice. It is an operational performance guide based on occupational neuroscience and behavioural protocols. For medical decisions, consult a qualified healthcare professional.
+> Individual results may vary. The product provides frameworks and strategies; outcomes depend on consistent application and personal circumstances. No specific results are guaranteed.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57126-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 80% COMMISSION – Peri-menopause Support for Women Health alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/692610
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=80%25%20COMMISSION%20%E2%80%93%20Peri-menopause%20Support%20for%20Women%20Health
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

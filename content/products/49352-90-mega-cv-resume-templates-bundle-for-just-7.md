@@ -56,6 +56,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ⚡️+90 Mega CV Resume Templates Bundle for Just $7⚡️ alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/569531
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%EF%B8%8F%2B90%20Mega%20CV%20Resume%20Templates%20Bundle%20for%20Just%20%247%E2%9A%A1%EF%B8%8F
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Discover the simple step-by-step system beginners can use to build vocabulary, improve speaking skills, and stay motivated, without boring textbooks, complicated grammar rules, or years of frustration.
+> I was frustrated because I knew basic grammar but couldn’t form sentences or have conversations. The Beginner’s Blueprint taught me how to combine vocabulary, grammar, and speaking practice effectively. The step-by-step approach gave me clarity and structure. I now speak with confidence instead of freezing every time someone talks to me in my target language.
+> I always felt frustrated by my lack of progress. The Beginner’s Blueprint gave me the roadmap I was missing. I removed one star because I wanted more cultural tips, but the core step-by-step system transformed my approach. I finally feel like I’m learning efficiently.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only. Results may vary depending on effort, consistency, and individual learning style. Always consult with a language teacher or mentor if you need personalized guidance. Legal Information
+> Disclaimer: This ebook is for educational purposes only. Results may vary depending on effort, consistency, and individual learning style. Always consult with a language teacher or mentor if you need personalized guidance. Legal Information
+> Disclaimer: This ebook is for educational purposes only. Results may vary depending on effort, consistency, and individual learning style. Always consult with a language teacher or mentor if you need personalized guidance. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53946-g1.webp
+- assets/products/53946-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Beginner’s Blueprint to Language Learning alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635400
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Beginner%E2%80%99s%20Blueprint%20to%20Language%20Learning
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

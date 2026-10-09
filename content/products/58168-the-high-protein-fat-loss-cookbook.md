@@ -53,6 +53,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> How many recipes are included? 83 recipes across breakfast, lunch, dinner, and snacks, each with full ingredients, instructions, and macros.
+
+### 3c. Cautions
+
+> Is this a meal plan or medical advice? No. This is a recipe collection for educational and culinary purposes. For personalized nutrition or medical advice, please consult a qualified healthcare professional.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The High-Protein Fat Loss Cookbook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/719051
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20High-Protein%20Fat%20Loss%20Cookbook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

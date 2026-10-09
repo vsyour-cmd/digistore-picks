@@ -59,6 +59,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Here's our promise: if someone can read a table of contents... and follow simple directions...
+> With detailed step-by-step instructions to plant, grow, and maintain...
+> It's a step by step, newbie-friendly system that puts God's honest herbs and remedies at your fingertips in a matter of days... not weeks, months, or years...
+
+### 3c. Cautions
+
+> In this book you will find out how to live without the side effects of traditional remedies by using nature's bounty.
+> If you have been using commercial pills, teas, or other supplements, it is very important to realize that you may be doing more harm than good. Regardless of whether you buy a product that is certified organic or not, you never know where the plants were actually grown.
+> Growing a medicinal herbal garden may just be one of the most important things you can do for yourself and your family. Not only will this garden be one of the best means to ensure your well-being during and after a major social collapse, it also offers the key to sustainable food production in a home setting
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40804-g1.webp
+- assets/products/40804-g2.webp
+- assets/products/40804-g3.webp
+- assets/products/40804-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NEW: Backyard Healing Herbs PHYSICAL BOOK alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/454227
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Backyard%20Healing%20Herbs%20PHYSICAL%20BOOK
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

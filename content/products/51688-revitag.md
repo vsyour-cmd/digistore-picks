@@ -70,6 +70,12 @@
 - assets/products/51688-g2.webp
 - assets/products/51688-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ReviTag alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/600141
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=ReviTag
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

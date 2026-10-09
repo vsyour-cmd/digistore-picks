@@ -59,6 +59,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Unlike most digital products, you won’t be left alone during your process. After your purchase, you can send questions directly to our team of physiotherapists in text, audio, or video format. Your questions will be reviewed by a qualified physiotherapist, who will provide clear guidance based on your situation. This support helps you: ✔ Understand how to apply the protocols correctly ✔ Avoid common mistakes ✔ Gain more confidence throughout the process
+
+### 3c. Cautions
+
+> The Hardness Code Attention: Immediate access and exclusive support from a professional.
+> Legal Disclaimer: This product is intended for educational and self-management purposes only. It does not constitute medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56332-g1.webp
+- assets/products/56332-g2.webp
+- assets/products/56332-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Hardness Code alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/679799
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Hardness%20Code
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

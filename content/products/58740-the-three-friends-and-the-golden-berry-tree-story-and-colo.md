@@ -44,6 +44,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Three Friends and the Golden Berry Tree – Story and Colo alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/725666
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Three%20Friends%20and%20the%20Golden%20Berry%20Tree%20%E2%80%93%20Story%20and%20Colo
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -52,6 +52,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Everything is explained in a clear, precise step by step fashion, using colored pictures and easy to follow instructions.
+> You’ll also find out how to use this lost superfood to turn a simple bag of potatoes into one of the most nutritious and inexpensive crisis meals to ever touch your taste buds!
+> In this bonus you will find step by step instructions to make your house more self-sufficient, prepared for anything.
+
+### 3c. Cautions
+
+> So all and all, this book has lots of good info, and in the times we are living in now, this information is more important than ever. I highly recommend it! ”
+> Privacy Policy | Disclaimer | Terms and Conditions | Refund Policy
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Lost SuperFoods alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/377301
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Lost%20SuperFoods
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

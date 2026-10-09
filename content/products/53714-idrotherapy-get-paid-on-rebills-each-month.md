@@ -56,6 +56,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Idrotherapy *GET PAID ON REBILLS EACH MONTH* alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/629810
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Idrotherapy%20*GET%20PAID%20ON%20REBILLS%20EACH%20MONTH*
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

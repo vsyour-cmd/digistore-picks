@@ -52,6 +52,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Watch random videos that do not give a clear step-by-step plan.
+
+### 3c. Cautions
+
+> This page and digital guide provide general wellness information and natural support ideas only. They do not diagnose, treat, cure, or prevent any disease. Always consult a qualified healthcare professional before using herbs, supplements, or wellness routines, especially if you are pregnant, nursing, taking medication, have allergies, or have a medical condition.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55786-g1.webp
+- assets/products/55786-g2.webp
+- assets/products/55786-g3.webp
+- assets/products/55786-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: High-Converting Herbal Health Offer Solve 28+ Common Problem alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/668910
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=High-Converting%20Herbal%20Health%20Offer%20Solve%2028%2B%20Common%20Problem
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

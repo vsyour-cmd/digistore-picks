@@ -35,6 +35,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Teacher Hub: All-in-One Teacher Planner App alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/736454
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Teacher%20Hub%3A%20All-in-One%20Teacher%20Planner%20App
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

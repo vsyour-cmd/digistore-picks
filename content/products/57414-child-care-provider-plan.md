@@ -52,6 +52,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> You don't have to navigate this blind. The Child Care Provider Plan equips you with a structured, step-by-step framework to evaluate options, interview candidates professionally, check credentials thoroughly, and monitor your child's well-being seamlessly.
+
+### 3c. Cautions
+
+> A calm, practical digital ebook (PDF) guide that helps parents evaluate child care providers, identify quality care, ask the right questions, recognize warning signs, and make informed decisions that support their child's safety, happiness, and development.
+> Make The Most Important Decision Of Your Child’s Early Life With Absolute Confidence
+> Chapter 6: Track Behaviors Recognize subtle warning signs at home, such as unusual fear, social detachment, sudden loss of interest, or general unhappiness, ensuring you act quickly if an environment isn't working.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57414-g1.webp
+- assets/products/57414-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Child Care Provider Plan alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/708470
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Child%20Care%20Provider%20Plan
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

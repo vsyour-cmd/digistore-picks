@@ -57,6 +57,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Avoid $10K+ Legal Mistakes Step-by-step guidance from real experience
+> "Preparing for the medical exam was confusing until I read this guide. Step by step, everything made sense. I walked into the appointment prepared, with zero stress."
+> Private portal with constantly updated official resources, useful tools, and community support. Includes templates for important documents and step-by-step checklists to keep you organized.
+
+### 3c. Cautions
+
+> Is this legal advice? No, this is not legal advice. This guide contains practical information based on my personal experience navigating the U.S. immigration system. While I've consulted with immigration attorneys to ensure accuracy, you should always consult with a qualified immigration lawyer for your specific case. Think of this as the "what to expect" guide you'd get from a friend who's been through the process.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53539-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 81 % Commission on US Immigration Survival PRO Bundle alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/625471
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=81%20%25%20Commission%20on%20US%20Immigration%20Survival%20PRO%20Bundle
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

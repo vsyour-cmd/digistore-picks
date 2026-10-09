@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The "Amygdala Hijack": Why your brain's survival instinct is actually "stealing" your test answers (and how to take them back).
+> ✅ A step-by-step plan to rebuild confidence after a tough test.
+> I would often blank out in the middle of a test and feel my heart race as anxiety took over. This book gave me step-by-step techniques to slow my thoughts, focus, and trigger memory recall even under stress. I’ve gone from panicking during every exam to staying composed and answering questions clearly.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only. It does not replace professional academic or psychological support. Results will vary depending on individual preparation, mindset, and circumstances. Always seek additional help if test anxiety severely impacts your well-being. Legal Information
+> Disclaimer: This ebook is for educational purposes only. It does not replace professional academic or psychological support. Results will vary depending on individual preparation, mindset, and circumstances. Always seek additional help if test anxiety severely impacts your well-being. Legal Information
+> Disclaimer: This ebook is for educational purposes only. It does not replace professional academic or psychological support. Results will vary depending on individual preparation, mindset, and circumstances. Always seek additional help if test anxiety severely impacts your well-being. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53766-g1.webp
+- assets/products/53766-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: What To Do If You Blank Out During A Test alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633278
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=What%20To%20Do%20If%20You%20Blank%20Out%20During%20A%20Test
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

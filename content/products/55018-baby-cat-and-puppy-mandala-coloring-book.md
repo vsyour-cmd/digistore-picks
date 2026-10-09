@@ -48,6 +48,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Baby Cat and Puppy Mandala Coloring Book alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/654839
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Baby%20Cat%20and%20Puppy%20Mandala%20Coloring%20Book
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

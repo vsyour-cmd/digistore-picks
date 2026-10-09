@@ -57,6 +57,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/283755
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%EF%B8%8FThe%20Ultimate%20Keto%20Meal%20Plan%E2%9A%A1%EF%B8%8F%20Make%20%2437%20AOV%20With%20A%20%241%20Sale
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

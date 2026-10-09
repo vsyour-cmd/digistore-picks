@@ -64,6 +64,12 @@
 
 > Attention: Complete Beginners & Failed POD Sellers Sell on 3 Platforms at Once. No Inventory. No Shipping. No Design Skills.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Print on Demand Profits alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/702929
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Print%20on%20Demand%20Profits
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

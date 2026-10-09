@@ -62,6 +62,12 @@
 
 - assets/products/54083-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Unlock Online Success With Freedom Affiliate Formula alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/620652
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unlock%20Online%20Success%20With%20Freedom%20Affiliate%20Formula
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

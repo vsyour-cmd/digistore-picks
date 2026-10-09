@@ -39,6 +39,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Restore Your Gut Health for better Digestion and Immunity alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/656114
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Restore%20Your%20Gut%20Health%20for%20better%20Digestion%20and%20Immunity
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

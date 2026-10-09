@@ -57,6 +57,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> You pay once and the assistant is yours. The only ongoing cost is the AI usage, and that goes straight to Anthropic on your own account, at their price, with nothing added by us.
+> What do I actually pay? + $99 once. There is no monthly fee, no charge per conversation and nothing renews. The only ongoing cost is the AI usage, and that goes straight to Anthropic on your own account.
+> What does the AI usage cost me? + It runs on your own Anthropic key, so you pay Anthropic directly at their published prices and we add nothing on top. What it comes to depends on your volume and on how much of it is photos, voice notes and long histories. You see every cent in your own Anthropic dashboard and can set a hard spending cap before a single message is answered.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: DealBot AI: answers every message and books the appointment alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/724771
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=DealBot%20AI%3A%20answers%20every%20message%20and%20books%20the%20appointment
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

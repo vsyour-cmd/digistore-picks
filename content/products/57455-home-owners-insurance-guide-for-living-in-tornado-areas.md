@@ -63,6 +63,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Home Owners Insurance Guide for Living in Tornado areas alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/709876
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Owners%20Insurance%20Guide%20for%20Living%20in%20Tornado%20areas
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

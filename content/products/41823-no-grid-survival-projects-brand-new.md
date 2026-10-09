@@ -50,6 +50,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The third bonus you’ll receive is How to Make an Herbal Apothecary . You'll need this one for the extremely detailed instructions on how to build your own natural pharmacy from scratch using the plants grown in your medicinal garden or the ones you forage for around the house.
+
+### 3c. Cautions
+
+> Privacy Policy | Disclaimer | Terms and Conditions | Refunds Policy
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: No Grid Survival Projects – BRAND NEW! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/471054
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=No%20Grid%20Survival%20Projects%20%E2%80%93%20BRAND%20NEW!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

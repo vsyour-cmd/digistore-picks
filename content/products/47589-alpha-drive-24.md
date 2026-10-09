@@ -70,6 +70,12 @@
 - assets/products/47589-g3.webp
 - assets/products/47589-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Alpha Drive 24 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/544750
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Alpha%20Drive%2024
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

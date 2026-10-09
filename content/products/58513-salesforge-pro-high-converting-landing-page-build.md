@@ -67,6 +67,12 @@
 > “I use it for my consulting clients. The WhatsApp integration generated over 200 conversations in 2 weeks. Indispensable tool.” — Carlos Mendes
 > Who is this for? Entrepreneurs, affiliates, course creators, coaches, consultants, agencies, and anyone selling online.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: SalesForge Pro – High-Converting Landing Page Build alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/723073
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SalesForge%20Pro%20%E2%80%93%20High-Converting%20Landing%20Page%20Build
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

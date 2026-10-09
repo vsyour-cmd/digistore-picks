@@ -55,6 +55,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> The Women's Hormone Blueprint — $37. This product is a digital guide for educational and informational purposes only. It is for educational and informational purposes only. Individual responses to hormonal phases vary. If you experience severe symptoms at any point in your cycle, please consult a qualified healthcare professional. © 2026 Zōē. All rights reserved.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57090-g1.webp
+- assets/products/57090-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Earn 65% Commission Promoting Women's Fitness Hormone Health alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/692123
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2065%25%20Commission%20Promoting%20Women's%20Fitness%20Hormone%20Health
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

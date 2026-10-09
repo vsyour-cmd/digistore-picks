@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> "Learn step-by-step online business strategies that actually work, helping you earn more, work less, and finally gain the freedom you’ve been chasing."
+> I was spinning my wheels online for months, trying every strategy, tool, and social platform, but my business wasn’t growing. The Digital Hustler gave me a step-by-step framework to identify high-impact strategies, focus on what actually works, and scale sustainably. For the first time, I feel confident in my decisions, and my online revenue is finally increasing consistently.
+> ✅ Step-by-step methods for generating traffic and building an online presence.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee specific earnings or results. Success depends on your efforts, skills, and market conditions. Always consult professional advice before making financial or business decisions. Legal Information
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee specific earnings or results. Success depends on your efforts, skills, and market conditions. Always consult professional advice before making financial or business decisions. Legal Information
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee specific earnings or results. Success depends on your efforts, skills, and market conditions. Always consult professional advice before making financial or business decisions. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53958-g1.webp
+- assets/products/53958-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Digital Hustler alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635388
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Digital%20Hustler
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -56,6 +56,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✓ Discover 9 business models you can understand quickly and start implementing step by step. ✓ Avoid random theory and focus on simple actions, platforms, offers, and monetization paths. ✓ Find the model that fits your strengths, your time, and your current resources.
+> Discover 9 practical online business models you can understand quickly and start implementing step by step. One-time payment. Instant download. Only $17.
+
+### 3c. Cautions
+
+> Create useful videos, build attention, and monetize through ads, affiliate links, products, or lead generation.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50004-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 9 Ways to build an Online Business alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/543164
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=9%20Ways%20to%20build%20an%20Online%20Business
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

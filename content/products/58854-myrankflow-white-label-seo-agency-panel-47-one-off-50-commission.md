@@ -59,6 +59,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Income disclaimer EVERY EFFORT HAS BEEN MADE TO ACCURATELY REPRESENT THIS PRODUCT AND IT'S POTENTIAL. THERE IS NO GUARANTEE THAT YOU WILL EARN ANY MONEY USING THE TECHNIQUES AND IDEAS IN THESE MATERIALS. THE STATEMENTS OF EARNINGS MADE ARE EXAMPLES OF THE SUCCESS THE AUTHOR HAS HAD IN USING THE TECHNIQUES OUTLINED IN THE PRODUCT THEY ARE SELLING. EXAMPLES IN THESE MATERIALS ARE NOT TO BE INTERPRETED AS A PROMISE OR GUARANTEE OF EARNINGS.
+> Results disclaimer MyRankFlow is a business tool. Any figures shown on this page are illustrations of what the system can do, not a forecast of what you will earn. Individual results vary with effort, experience and market conditions, and search rankings depend on factors outside anyone's control, including changes to search engine algorithms. We do not guarantee any specific ranking, traffic level or income.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58854-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: MyRankFlow: white-label SEO agency panel, $47 one-off, 50% commission alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/725875
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=MyRankFlow%3A%20white-label%20SEO%20agency%20panel%2C%20%2447%20one-off%2C%2050%25%20commission
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

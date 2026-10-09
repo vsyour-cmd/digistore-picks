@@ -62,6 +62,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Already, my friends and patients who have tried it are reporting that they feel a difference &mdash; often in as little as a few hours. 63, 64 That’s practically unheard of for a natural health discomfort supplement.
+
+### 3c. Cautions
+
+> * Above are actual reviews from our customers. These customer’s statements may not reflect the typical purchaser’s experience and are not intended to represent or guarantee that anyone will achieve the same or similar results. The reviews should not be taken as the results a typical user will get. Your results may vary.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50763-g1.webp
+- assets/products/50763-g2.webp
+- assets/products/50763-g3.webp
+- assets/products/50763-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Curcumitol-Q BioBDMC alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/580375
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Curcumitol-Q%20BioBDMC
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

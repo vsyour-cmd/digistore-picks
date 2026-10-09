@@ -68,6 +68,12 @@
 > This is a digital coaching program. No physical products are shipped. After completing your purchase, you will receive a confirmation email with your next steps and a link to schedule your onboarding consultation. Your personalised coaching begins after onboarding.
 > Because this journey involves real human coaching — Francesco writing and adjusting personal plans, Andreea conducting onboarding and final calls. Genuine attention has a capacity. We cap each cohort at 100 women so every member receives the level of care the journey promises. When this cohort fills, the next opens after these women complete their three months.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 50% Commission on a $2,397 Premium Coaching Program Online alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/706133
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=50%25%20Commission%20on%20a%20%242%2C397%20Premium%20Coaching%20Program%20Online
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

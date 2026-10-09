@@ -56,6 +56,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> This comprehensive guide takes you step-by-step through a proven system that shows remarkable results when everything else has failed.
+> The step-by-step "Gentle Intervention Framework" that breaks the grip of gaming addiction by working with your child's brain chemistry instead of against it. (One previously hopeless mom used this to help her son go from 16 hours of daily gaming to voluntarily joining sports teams in just 30 days!)
+> And because I know you're desperate for results now, I've organized everything into a clear, step-by-step system that any parent can implement immediately.
+
+### 3c. Cautions
+
+> 7 comprehensive modules packed with practical strategies so effective, they seem like magic. (Warning: Be prepared for teachers to ask what miracle caused your child's complete turnaround.)
+> I've spent years researching the neuroscience of gaming addiction, consulting with addiction specialists, brain researchers, and child psychologists to develop a completely different approach – one that works WITH a child's brain chemistry instead of against it.
+> I consulted with addiction specialists, child psychologists, and neuroscientists to create what eventually became the Game-Free Blueprint – a comprehensive system that has since helped thousands of families.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Game-Free Blueprint - eBook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/603009
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Game-Free%20Blueprint%20-%20eBook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -52,6 +52,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Absolutely. We believe that financial analysis isn't about complex calculus; it's about simple ratios. We walk you through how to calculate "Current minus Prior divided by Prior" step-by-step.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54982-g1.webp
+- assets/products/54982-g2.webp
+- assets/products/54982-g3.webp
+- assets/products/54982-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Interpret Growth via Music | High 60% Commission alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/656248
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Interpret%20Growth%20via%20Music%20%7C%20High%2060%25%20Commission
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

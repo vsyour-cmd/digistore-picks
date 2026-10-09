@@ -44,6 +44,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/595434
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=5-in-%201%20MEGA%20PLR%20BESTSELLER%3A%20the%20Social%20Media%20Bundle%2B%20BONUS
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

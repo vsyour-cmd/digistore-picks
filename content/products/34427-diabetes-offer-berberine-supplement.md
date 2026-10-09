@@ -56,6 +56,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> There’s a strong correlation between blood sugar and weight loss. Research on berberine for weight loss and fat-burning activity is limited but promising. In one 12-week study, subjects lost about 2.3% body weight — or 5 pounds — and lowered BMI and body fat percentage by 3.6% with a dosage of 3,500 mg per day.[*] Another 3-month study revealed a drop in BMI, from 31.5 to 27.4, in obese individuals, as well as a reduction in waist circumference.[*]
+> Now, it&#x27;s a known fact that for Berberine to have it’s best effects, the recommended daily dosage is around 1500mg.
+> The problem is Berberine is very potent stuff and consuming 1500mg in a single dosage can cause stomach discomfort, cramps and even have you running to the bathroom every 15 minutes.
+
+### 3c. Cautions
+
+> As a caregiver myself to a family member with symptoms of Type II, we tried a lot of the doctor&#x27;s mainstream advice (exercising, dieting) with very little success. It was through a consultation with a Traditional Chinese Medicine (TCM) practitioner did we learn about Berberine. The results we obtained through consuming Berberine were remarkable.
+> * Results may vary from person to person and are not typical. This product is not claiming to cure a medical condition. We offer a Money Back Guarantee should you not be satisfied with results.
+> To use Berberine to heal without side effects , the Beberine needs to pass 2 TESTS:
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/34427-g1.webp
+- assets/products/34427-g2.webp
+- assets/products/34427-g3.webp
+- assets/products/34427-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Diabetes Offer: Berberine Supplement alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/352613
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Diabetes%20Offer%3A%20Berberine%20Supplement
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

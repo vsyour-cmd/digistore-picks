@@ -55,6 +55,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I used to forget words, mix up grammar rules, and feel guilty for not sticking to one language at a time. Polyglot Secrets taught me how to use spaced repetition, strategic immersion, and mental associations to learn multiple languages efficiently. My confidence has skyrocketed, and I now enjoy learning instead of stressing over mistakes.
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace professional language instruction or formal training. Results may vary depending on effort, practice, and individual learning style. Always stay consistent and patient with your learning process. Legal Information
+> I used to forget words, mix up grammar rules, and feel guilty for not sticking to one language at a time. Polyglot Secrets taught me how to use spaced repetition, strategic immersion, and mental associations to learn multiple languages efficiently. My confidence has skyrocketed, and I now enjoy learning instead of stressing over mistakes.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace professional language instruction or formal training. Results may vary depending on effort, practice, and individual learning style. Always stay consistent and patient with your learning process. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace professional language instruction or formal training. Results may vary depending on effort, practice, and individual learning style. Always stay consistent and patient with your learning process. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53825-g1.webp
+- assets/products/53825-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Learn Multiple Languages at Once alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633832
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Learn%20Multiple%20Languages%20at%20Once
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

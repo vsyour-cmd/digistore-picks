@@ -56,6 +56,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ready to connect more deeply with the Deaf community? Are you yourself losing your hearing? Our American Sign Language 1 course makes learning engaging and accessible. Overcome communication barriers and build confidence with step-by-step guidance designed for beginners.
+> 15 lessons giving you a step-by-step program transforms beginners into skilled signers, giving you the tools to connect meaningfully and advocate for yourself and others.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57566-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: American Sign Language 1 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/711962
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=American%20Sign%20Language%201
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

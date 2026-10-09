@@ -55,6 +55,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only and does not guarantee financial or business outcomes. Results will vary based on individual effort, industry, and circumstances. Always apply strategies ethically and responsibly in your business practices. Legal Information
+> Disclaimer: This ebook is for educational purposes only and does not guarantee financial or business outcomes. Results will vary based on individual effort, industry, and circumstances. Always apply strategies ethically and responsibly in your business practices. Legal Information
+> Disclaimer: This ebook is for educational purposes only and does not guarantee financial or business outcomes. Results will vary based on individual effort, industry, and circumstances. Always apply strategies ethically and responsibly in your business practices. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53763-g1.webp
+- assets/products/53763-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Sell without Feeling Salesy alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633283
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sell%20without%20Feeling%20Salesy
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

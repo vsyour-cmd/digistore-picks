@@ -61,6 +61,12 @@
 
 - assets/products/54513-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Computer Literacy for Seniors | 4% CVR | $44.50/Sale alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/642084
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Computer%20Literacy%20for%20Seniors%20%7C%204%25%20CVR%20%7C%20%2444.50%2FSale
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

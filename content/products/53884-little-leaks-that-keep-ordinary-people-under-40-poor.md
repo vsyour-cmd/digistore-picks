@@ -59,6 +59,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Little Leaks That Keep Ordinary People Under 40 Poor alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633409
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Little%20Leaks%20That%20Keep%20Ordinary%20People%20Under%2040%20Poor
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

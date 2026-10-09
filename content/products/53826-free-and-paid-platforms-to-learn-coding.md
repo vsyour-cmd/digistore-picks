@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to navigate the jungle of Free vs. Paid resources. So many ambitious career-switchers are red-lining their brains on outdated YouTube tutorials, start 'priming' your career with the exact "Learning-Stack" hacks that cancel the mental tax of information overload, starting for the price of a coffee.
+> A step-by-step roadmap to navigate the jungle of Free vs. Paid resources. So many ambitious career-switchers are red-lining their brains on outdated YouTube tutorials, start 'priming' your career with the exact "Learning-Stack" hacks that cancel the mental tax of information overload, starting for the price of a coffee.
+> A step-by-step roadmap to navigate the jungle of Free vs. Paid resources. So many ambitious career-switchers are red-lining their brains on outdated YouTube tutorials, start 'priming' your career with the exact "Learning-Stack" hacks that cancel the mental tax of information overload, starting for the price of a coffee.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace formal training, accredited programs, or professional mentorship. Results may vary depending on effort, consistency, and individual learning style. Always keep practicing to strengthen your coding skills. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace formal training, accredited programs, or professional mentorship. Results may vary depending on effort, consistency, and individual learning style. Always keep practicing to strengthen your coding skills. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace formal training, accredited programs, or professional mentorship. Results may vary depending on effort, consistency, and individual learning style. Always keep practicing to strengthen your coding skills. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53826-g1.webp
+- assets/products/53826-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Free and Paid Platforms to Learn Coding alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633831
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Free%20and%20Paid%20Platforms%20to%20Learn%20Coding
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

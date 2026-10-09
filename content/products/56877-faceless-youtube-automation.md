@@ -57,6 +57,22 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Discover the exact step-by-step system to launch a fully automated, monetized YouTube channel within your first 14 days — using 100% free AI tools and stock footage. Zero camera. Zero editing experience. Zero excuses.
+> Step-by-step walkthrough of assembling professional-looking videos using only free tools and royalty-free stock footage. Add AI voiceovers, background music, and captions automatically. Your complete production workflow from idea to finished video in under 45 minutes.
+> I'm 58 years old and not tech-savvy at all. I was skeptical this would work for me. But the instructions were so clear, step by step, with no assumptions. I had my first video published within 3 days of buying. Four months later, I'm earning $640/month part time.
+
+### 3c. Cautions
+
+> Disclaimer: Results mentioned on this page are not typical and are not a guarantee of your future results. Individual results will vary based on effort, experience, and market conditions. This product is for educational purposes only. Testimonials shown are from real customers but your results may differ. This website is not affiliated with YouTube or Google LLC.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Faceless YouTube Automation alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/700751
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Faceless%20YouTube%20Automation
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

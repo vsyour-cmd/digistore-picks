@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to turn your chaotic schedule into a high-level success machine. Stop 'trying' to be productive and start 'being' effective with the exact habit-stacking methods used by top-tier founders, starting for the price of a coffee.
+> A step-by-step roadmap to turn your chaotic schedule into a high-level success machine. Stop 'trying' to be productive and start 'being' effective with the exact habit-stacking methods used by top-tier founders, starting for the price of a coffee.
+> A step-by-step roadmap to turn your chaotic schedule into a high-level success machine. Stop 'trying' to be productive and start 'being' effective with the exact habit-stacking methods used by top-tier founders, starting for the price of a coffee.
+
+### 3c. Cautions
+
+> Break through the invisible barrier of 'Reactive Living.' Stop checking your email the second you wake up and learn the 3-step 'Priority Anchor' that ensures your most important work is done before the world starts asking for your time.
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee specific outcomes. Results will vary depending on personal discipline, consistency, and circumstances. Always adapt strategies to fit your individual lifestyle and needs. Legal Information
+> Break through the invisible barrier of 'Reactive Living.' Stop checking your email the second you wake up and learn the 3-step 'Priority Anchor' that ensures your most important work is done before the world starts asking for your time.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53768-g1.webp
+- assets/products/53768-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Daily Routines of Successful People alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633282
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Daily%20Routines%20of%20Successful%20People
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

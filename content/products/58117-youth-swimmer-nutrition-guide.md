@@ -52,6 +52,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Is this medical advice? No. This is educational nutrition content. For medical or clinical concerns, please consult a qualified healthcare professional.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58117-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Youth Swimmer Nutrition Guide alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/715772
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Youth%20Swimmer%20Nutrition%20Guide
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

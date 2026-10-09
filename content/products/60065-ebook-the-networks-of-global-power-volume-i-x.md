@@ -58,6 +58,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ebook - The Networks of Global Power - Volume I-X alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/739502
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20The%20Networks%20of%20Global%20Power%20-%20Volume%20I-X
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Traveling used to be stressful because I didn’t understand signs, menus, or directions. Learning a Language for Travel and Tourism provides practical tools for understanding and responding in real-life situations. I now feel confident navigating new countries, asking questions, and interacting naturally. This book solved my biggest travel problem: language anxiety.
+> Traveling used to be stressful because I didn’t understand signs, menus, or directions. Learning a Language for Travel and Tourism provides practical tools for understanding and responding in real-life situations. I now feel confident navigating new countries, asking questions, and interacting naturally. This book solved my biggest travel problem: language anxiety.
+> Traveling used to be stressful because I didn’t understand signs, menus, or directions. Learning a Language for Travel and Tourism provides practical tools for understanding and responding in real-life situations. I now feel confident navigating new countries, asking questions, and interacting naturally. This book solved my biggest travel problem: language anxiety.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee fluency in any language. Results may vary depending on your effort, practice, and environment. Always practice responsibly and respect cultural norms while traveling. Legal Information
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee fluency in any language. Results may vary depending on your effort, practice, and environment. Always practice responsibly and respect cultural norms while traveling. Legal Information
+> Disclaimer: This ebook is for educational purposes only. It does not guarantee fluency in any language. Results may vary depending on your effort, practice, and environment. Always practice responsibly and respect cultural norms while traveling. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53859-g1.webp
+- assets/products/53859-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Learning a Language for Travel alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/634094
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Learning%20a%20Language%20for%20Travel
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

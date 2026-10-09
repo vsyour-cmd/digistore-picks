@@ -48,6 +48,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/56442-g1.webp
+- assets/products/56442-g2.webp
+- assets/products/56442-g3.webp
+- assets/products/56442-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/689417
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=500%2B%20AI%20Money%20Prompts%20%7C%20502%20Proven%20Prompts%20to%20Build%20Real%20Inc
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

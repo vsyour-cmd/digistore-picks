@@ -60,6 +60,12 @@
 - assets/products/50476-g3.webp
 - assets/products/50476-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Digital Wealth Academy: Top Trending Offer of 2025! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/581314
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Wealth%20Academy%3A%20Top%20Trending%20Offer%20of%202025!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

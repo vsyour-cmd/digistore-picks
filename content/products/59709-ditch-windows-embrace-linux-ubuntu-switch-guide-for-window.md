@@ -59,6 +59,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/701228
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ditch%20Windows%2C%20Embrace%20Linux%3A%20Ubuntu%20Switch%20Guide%20for%20Window
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

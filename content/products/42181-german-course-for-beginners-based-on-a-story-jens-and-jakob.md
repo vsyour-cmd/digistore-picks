@@ -54,6 +54,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: German course for beginners based on a story: Jens and Jakob alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/474924
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=German%20course%20for%20beginners%20based%20on%20a%20story%3A%20Jens%20and%20Jakob
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

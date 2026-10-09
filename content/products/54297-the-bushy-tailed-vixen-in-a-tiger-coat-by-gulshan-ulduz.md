@@ -44,6 +44,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: THE BUSHY-TAILED VIXEN IN A TIGER COAT by Gulshan Ulduz alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/638761
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=THE%20BUSHY-TAILED%20VIXEN%20IN%20A%20TIGER%20COAT%20by%20Gulshan%20Ulduz
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

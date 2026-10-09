@@ -55,6 +55,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> There are a lot of factors to consider when picking the right location to build your homestead. The soil quality, the local weather, and even the legalities of plopping one. They all affect how your homestead will function, and The Homesteaders Guide will show you all of the qualities to look out for. But there’s a silver lining… because inside the book you’ll see how to start a homestead even in a small urban apartment or within just 1 square foot.
+> The third exclusive bonus you’ll receive is called Survival Gardening . In it you’ll discover complete, easy-to-follow, step-by-step instructions for planning and growing your 3 foot self sufficient survival garden.
+
+### 3c. Cautions
+
+> Like we said, building a homestead will change your life. You’ll go on a journey that’ll leave you unrecognizable and wondering who you even were before. See, we don’t just want to save you money on groceries, as important as that is… we want you to never think about money again. When you’re in control of your sustenance, that’s what you should expect.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/46456-g2.webp
+- assets/products/46456-g3.webp
+- assets/products/46456-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Homesteaders Handbook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/516929
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Homesteaders%20Handbook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

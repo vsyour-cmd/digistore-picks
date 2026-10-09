@@ -74,6 +74,12 @@
 - assets/products/55677-g3.webp
 - assets/products/55677-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Meta Trim BHB™ alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/670141
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Meta%20Trim%20BHB%E2%84%A2
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

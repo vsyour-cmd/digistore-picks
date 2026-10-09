@@ -56,6 +56,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Is Pep Tonic safe for everyone? Pep Tonic is generally safe for most people. However, if you have a medical condition, are pregnant, or are nursing, we recommend consulting with your healthcare provider before starting any new supplement.
+> Can I take Pep Tonic with other supplements? Yes, Pep Tonic is designed to complement a healthy diet and other supplements. However, if you have specific concerns, consult your healthcare provider.
+> * Above are actual reviews from our customers. These customer’s statements may not reflect the typical purchaser’s experience and are not intended to represent or guarantee that anyone will achieve the same or similar results. The reviews should not be taken as the results a typical user will get. Your results may vary.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53184-g1.webp
+- assets/products/53184-g2.webp
+- assets/products/53184-g3.webp
+- assets/products/53184-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Pep Tonic alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/623254
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Pep%20Tonic
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

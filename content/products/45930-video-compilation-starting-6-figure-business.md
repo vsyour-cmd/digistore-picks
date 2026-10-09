@@ -48,6 +48,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Learn how to start a successful online business in just 30 days with our comprehensive training course:
+> Our expertly crafted program covers everything you need to know to avoid common pitfalls and build a thriving online business. Don't waste time and money on trial and error. Follow our proven step-by-step approach to success.
+> Learn how to start a successful online business in just 30 days with our comprehensive training course:
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/45930-g1.webp
+- assets/products/45930-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Video - Compilation | Starting 6-Figure Business alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/524547
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Video%20-%20Compilation%20%7C%20Starting%206-Figure%20Business
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

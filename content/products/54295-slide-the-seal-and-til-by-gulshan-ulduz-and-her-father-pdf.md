@@ -44,6 +44,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: SLIDE THE SEAL AND TIL by Gulshan Ulduz and her Father PDF alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/638889
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SLIDE%20THE%20SEAL%20AND%20TIL%20by%20Gulshan%20Ulduz%20and%20her%20Father%20PDF
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

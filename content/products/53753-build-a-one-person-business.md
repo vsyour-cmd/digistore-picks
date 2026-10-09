@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to turn your unique skills into a scalable income stream. Stop 'trading time for money' and start building a self-sustaining business that works for you, even while you sleep, in just 60 minutes a day.
+> A step-by-step roadmap to turn your unique skills into a scalable income stream. Stop 'trading time for money' and start building a self-sustaining business that works for you, even while you sleep, in just 60 minutes a day.
+> A step-by-step roadmap to turn your unique skills into a scalable income stream. Stop 'trading time for money' and start building a self-sustaining business that works for you, even while you sleep, in just 60 minutes a day.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only. Results may vary depending on effort, market conditions, and individual circumstances. Always consult a professional for personalized business advice. Legal Information
+> Disclaimer: This ebook is for educational purposes only. Results may vary depending on effort, market conditions, and individual circumstances. Always consult a professional for personalized business advice. Legal Information
+> Disclaimer: This ebook is for educational purposes only. Results may vary depending on effort, market conditions, and individual circumstances. Always consult a professional for personalized business advice. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53753-g1.webp
+- assets/products/53753-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Build A One Person Business alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633271
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Build%20A%20One%20Person%20Business
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

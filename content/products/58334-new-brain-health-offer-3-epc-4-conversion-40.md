@@ -74,6 +74,12 @@
 - assets/products/58334-g3.webp
 - assets/products/58334-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+ alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/713233
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%20Brain%20Health%20Offer%20%7C%20~%243%20EPC%20%7C%20~4%25%20Conversion%20%7C%2040%2B
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

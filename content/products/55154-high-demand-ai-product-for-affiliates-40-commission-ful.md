@@ -45,6 +45,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: High-Demand AI Product for Affiliates – 40% Commission + Ful alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/627444
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=High-Demand%20AI%20Product%20for%20Affiliates%20%E2%80%93%2040%25%20Commission%20%2B%20Ful
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

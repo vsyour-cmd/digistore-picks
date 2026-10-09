@@ -65,6 +65,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Remixable - Founder Edition alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/467549
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Remixable%20-%20Founder%20Edition
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

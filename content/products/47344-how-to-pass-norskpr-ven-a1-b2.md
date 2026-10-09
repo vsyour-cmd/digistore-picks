@@ -51,6 +51,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Yes, you will have access to about 500 example tasks from the written exam, listening comprehension, and reading comprehension, for the levels A1-B2. Please note it takes about 2 working days after you enroll for us to give you access to these example tasks (but you can work with the core of the course right away).
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/47344-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: How to pass Norskprøven (A1-B2) alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/530046
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=How%20to%20pass%20Norskpr%C3%B8ven%20(A1-B2)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

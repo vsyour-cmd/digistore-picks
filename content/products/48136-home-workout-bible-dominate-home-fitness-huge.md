@@ -45,6 +45,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Because there’s a lot of bad information about setting up a home gym online, I’ve put together a step-by-step guide to getting going the right way.
+> This guide is the next best thing to hiring a fitness expert, and you won’t spend hundreds or thousands of dollars when you get this step-by-step guide today...
+> I can keep telling you how GREAT this guide is, or I can just show you. You really need to see this with your own eyes to see just how step-by-step and easy-to-follow this really is.
+
+### 3c. Cautions
+
+> Although there are a lot of advantages to working out from home, many people struggle with it. That’s because, with a home workout program, the details are important...
+> Terms and Conditions | Privacy Policy | Refund Policy | Disclaimer Report Spam | Affiliates | Contact Us
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/48136-g1.webp
+- assets/products/48136-g2.webp
+- assets/products/48136-g3.webp
+- assets/products/48136-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Home Workout Bible - Dominate Home Fitness - Huge $$$$$ alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/551528
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Workout%20Bible%20-%20Dominate%20Home%20Fitness%20-%20Huge%20%24%24%24%24%24
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

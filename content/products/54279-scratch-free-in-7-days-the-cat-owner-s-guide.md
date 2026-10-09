@@ -68,6 +68,12 @@
 
 > Disclaimer: This is an educational product and is not intended as veterinary or behaviorist therapy advice. Individual results may vary based on effort, consistency, cat temperament, age, and adherence to the program guidelines. Always consult with your veterinarian before beginning any new training program, especially if your cat has existing health or behavioral issues. Declawing is considered inhumane and is illegal in many jurisdictions.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Scratch-Free in 7 Days: The Cat Owner's Guide alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/639524
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Scratch-Free%20in%207%20Days%3A%20The%20Cat%20Owner's%20Guide
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

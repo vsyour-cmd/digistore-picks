@@ -57,6 +57,12 @@
 - assets/products/60070-g2.webp
 - assets/products/60070-g3.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Content Marketing Blueprint Video Upgrade alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/735838
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Content%20Marketing%20Blueprint%20Video%20Upgrade
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -66,6 +66,12 @@
 
 > Disclaimer: This is an educational product and is not intended as medical or therapeutic advice. Individual results may vary based on effort, consistency, and adherence to the program. Always consult your healthcare provider before beginning any new program, especially if you have existing mental health conditions. The techniques have been tested with thousands of socially anxious people, but we make no guarantee of specific outcomes.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Complete Social Confidence System | Earn 75% Commissions alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/639544
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Complete%20Social%20Confidence%20System%20%7C%20Earn%2075%25%20Commissions
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

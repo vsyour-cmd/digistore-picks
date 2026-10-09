@@ -49,6 +49,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> What you'll get: Across 6 in-depth chapters, this guide takes you from the fundamentals all the way through to advanced application -- starting with “Understanding Blood Pressure and Cardiovascular Risk” and building step by step through to “Building Heart-Healthy Habits for Life.” Each chapter is written to stand on its own while building toward a complete, practical understanding of the topic.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Earn 70%  Promote the Understanding Hypertension Ebook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/639953
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2070%25%20%20Promote%20the%20Understanding%20Hypertension%20Ebook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

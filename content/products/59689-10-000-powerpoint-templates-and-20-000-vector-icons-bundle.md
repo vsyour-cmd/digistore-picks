@@ -58,6 +58,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Digital delivery: This is a digital product. No physical product will be shipped. After successful checkout, access instructions will be provided electronically through the Digistore24-managed product access process.
+
+### 3c. Cautions
+
+> Home Legal Information Privacy Terms Refund Policy Disclaimer Anti Spam Contact Us
+> This bundle brings together a large collection of editable presentation resources in one digital package for business users, freelancers, marketers, educators, consultants and other presentation creators.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59689-g1.webp
+- assets/products/59689-g2.webp
+- assets/products/59689-g3.webp
+- assets/products/59689-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 10,000 PowerPoint Templates and 20,000 Vector Icons Bundle alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/731786
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=10%2C000%20PowerPoint%20Templates%20and%2020%2C000%20Vector%20Icons%20Bundle
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

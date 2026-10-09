@@ -57,6 +57,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Does PLR guarantee copyright ownership? No. PLR describes contractual usage permissions. Copyright protection and ownership of AI-generated material can depend on jurisdiction and other circumstances.
+
+### 3c. Cautions
+
+> Important: The actual license supplied with your purchase is the authoritative source for all permissions and restrictions. Review it before publishing, selling, sublicensing or distributing the images.
+> Review relevant platform policies before using images in ads or marketplaces.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50064-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: AI Image Library PLR alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/575223
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Image%20Library%20PLR
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

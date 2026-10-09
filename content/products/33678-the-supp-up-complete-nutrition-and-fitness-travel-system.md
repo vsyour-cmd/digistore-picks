@@ -59,6 +59,12 @@
 > WARNING : The SUPP UP. Complete Travel System goes against what most guides tell you. Try not to get triggered and keep an open mind as the steps outlined will explain WHY you should be doing the opposite of what most guides dictate.
 > Executives/Consultants: Flying 2+ weeks/month, client dinners, hotel gyms.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The SUPP UP. Complete Nutrition and Fitness Travel System alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/338690
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20SUPP%20UP.%20Complete%20Nutrition%20and%20Fitness%20Travel%20System
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

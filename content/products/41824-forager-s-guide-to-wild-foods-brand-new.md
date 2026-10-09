@@ -50,6 +50,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Each plant that has medicinal properties also has a section on how to use it as a remedy.
+> You will also find instructions on how to prepare the wild foods for several purposes, how and when to harvest, depending on the season, and a few delicious time-tested recipes to prepare these wild foods like a seasoned forager.
+> If you find this yellow tree in your backyard, you’ll not only have a new food source but also one of the best chronic joint pain remedies that nature has to offer. Witch hazel, as it's called, is approved by the Food and Drug Administration (FDA), and it’s found in different medicines. With just a few simple instructions I provide inside the book, you can turn this tree into your own joint salve to use whenever you're in need.
+
+### 3c. Cautions
+
+> The most important thing that I would like to show you, and that many books lack, is how to correctly identify these plants.
+> If you see this plant invading your lawn, don’t immediately reach for your bottle of Round-Up. This seemingly annoying weed is edible and rich in many nutrients. Every 100g of this herb contains around 23g of protein and 25g of fiber, making it an amazing source of protein and fiber. Fiber is especially important since the majority of people living in the West today are fiber deficient. It can be cooked and eaten much like other greens, such as spinach and collards.
+> Haven’t you ever bumped into a mushroom, berry or plant and wondered if it’s edible or not? … and what to do with it? Maybe there are times when you're still not sure about a certain plant, and you need to consult the book, despite your vast experience. Or maybe you don’t have experience at all and just want to find wild goodies using the book.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Forager's Guide to Wild Foods – BRAND NEW! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/391226
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Forager's%20Guide%20to%20Wild%20Foods%20%E2%80%93%20BRAND%20NEW!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

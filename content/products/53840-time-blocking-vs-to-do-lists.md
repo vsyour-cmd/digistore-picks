@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> "Learn how to use the right system ,time blocking or to-do lists, to maximize focus, eliminate overwhelm, and accomplish more than you ever thought possible, without working longer hours."
+> Unlike generic productivity advice, Time Blocking vs. To-Do Lists gives you a balanced, side-by-side comparison of two popular methods, plus actionable tips on when and how to use them. It’s designed for real people with real responsibilities.
+> "Learn how to use the right system ,time blocking or to-do lists, to maximize focus, eliminate overwhelm, and accomplish more than you ever thought possible, without working longer hours."
+
+### 3c. Cautions
+
+> I was drowning in to-do lists that never seemed to end. Every day I rewrote tasks, felt busy, and still went to bed exhausted and unaccomplished. Time Blocking vs. To-Do Lists showed me why lists alone were sabotaging my productivity. Once I learned how to block time intentionally, my days became structured and realistic. I now finish important work, feel less stressed, and finally have evenings without guilt.
+> Disclaimer: This ebook is intended for educational and personal productivity purposes only. It does not replace professional coaching, therapy, or workplace training. Results may vary depending on effort, consistency, and personal circumstances. Legal Information
+> I was drowning in to-do lists that never seemed to end. Every day I rewrote tasks, felt busy, and still went to bed exhausted and unaccomplished. Time Blocking vs. To-Do Lists showed me why lists alone were sabotaging my productivity. Once I learned how to block time intentionally, my days became structured and realistic. I now finish important work, feel less stressed, and finally have evenings without guilt.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53840-g1.webp
+- assets/products/53840-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Time Blocking vs. To-Do Lists alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633819
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Time%20Blocking%20vs.%20To-Do%20Lists
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

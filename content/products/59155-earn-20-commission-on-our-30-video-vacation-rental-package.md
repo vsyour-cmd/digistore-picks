@@ -57,6 +57,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Earn 20% Commission on Our 30-Video Vacation-Rental Package alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/732626
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2020%25%20Commission%20on%20Our%2030-Video%20Vacation-Rental%20Package
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

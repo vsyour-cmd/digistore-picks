@@ -41,6 +41,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58472-g2.webp
+- assets/products/58472-g3.webp
+- assets/products/58472-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NEW: Genius Brain Energizer - Absolute Conversions Monster! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/723490
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Genius%20Brain%20Energizer%20-%20Absolute%20Conversions%20Monster!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

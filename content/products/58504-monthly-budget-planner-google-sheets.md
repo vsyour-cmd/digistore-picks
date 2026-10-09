@@ -55,6 +55,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Managing your money shouldn't feel confusing or overwhelming. Whether you're trying to stop overspending, save more, pay closer attention to where your money goes, or simply feel more in control of your finances, this Monthly Budget Planner for Google Sheets makes the process simple.
+> Managing your money shouldn't feel confusing or overwhelming. Whether you're trying to stop overspending, save more, pay closer attention to where your money goes, or simply feel more in control of your finances, this Monthly Budget Planner for Google Sheets makes the process simple.
+> Managing your money shouldn't feel confusing or overwhelming. Whether you're trying to stop overspending, save more, pay closer attention to where your money goes, or simply feel more in control of your finances, this Monthly Budget Planner for Google Sheets makes the process simple.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58504-g1.webp
+- assets/products/58504-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Monthly Budget Planner (Google Sheets) alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/724693
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Monthly%20Budget%20Planner%20(Google%20Sheets)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

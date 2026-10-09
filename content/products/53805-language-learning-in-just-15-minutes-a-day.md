@@ -55,6 +55,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I often felt guilty for not dedicating enough time to language learning. This book taught me how to use short daily sessions effectively, focus on high-impact exercises, and stay consistent. My progress and confidence have improved significantly. A few more examples of applying this method to advanced learners would have made it perfect, but the guidance is already life-changing.
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual effort, consistency, and practice habits. Always complement short sessions with real-world usage for best results. Legal Information
+> I often felt guilty for not dedicating enough time to language learning. This book taught me how to use short daily sessions effectively, focus on high-impact exercises, and stay consistent. My progress and confidence have improved significantly. A few more examples of applying this method to advanced learners would have made it perfect, but the guidance is already life-changing.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual effort, consistency, and practice habits. Always complement short sessions with real-world usage for best results. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual effort, consistency, and practice habits. Always complement short sessions with real-world usage for best results. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53805-g1.webp
+- assets/products/53805-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Language Learning in Just 15 Minutes a Day alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633487
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Language%20Learning%20in%20Just%2015%20Minutes%20a%20Day
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -70,6 +70,12 @@
 
 - assets/products/53886-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook. alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/634598
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%205-Minute%20Garden%3A%20Earn%2075%25%20Commissions%20on%20a%20Proven%20Ebook.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

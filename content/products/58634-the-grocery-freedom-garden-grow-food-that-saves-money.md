@@ -57,6 +57,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Grocery Freedom Garden: Grow Food That Saves Money alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/722515
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Grocery%20Freedom%20Garden%3A%20Grow%20Food%20That%20Saves%20Money
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

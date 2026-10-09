@@ -47,6 +47,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Du möchtest dein Zuhause stilvoll, harmonisch und zeitlos gestalten? Dann ist „Skandinavisch einrichten leicht gemacht“ dein idealer Begleiter. Dieses digitale Inspirationsbuch zeigt dir Schritt für Schritt, wie du den beliebten nordischen Wohnstil authentisch und gleichzeitig individuell umsetzen kannst.
+> Der skandinavische Stil überzeugt durch helle Farben, natürliche Materialien, funktionale Möbel und eine wohnliche Atmosphäre. Dieses Buch verbindet professionelle Einrichtungstipps mit leicht verständlichen Erklärungen und vielen praktischen Beispielen, sodass du deine Wohnräume Schritt für Schritt in echte Wohlfühlorte verwandeln kannst.
+> Du möchtest dein Zuhause stilvoll, harmonisch und zeitlos gestalten? Dann ist „Skandinavisch einrichten leicht gemacht“ dein idealer Begleiter. Dieses digitale Inspirationsbuch zeigt dir Schritt für Schritt, wie du den beliebten nordischen Wohnstil authentisch und gleichzeitig individuell umsetzen kannst.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57770-g1.webp
+- assets/products/57770-g2.webp
+- assets/products/57770-g3.webp
+- assets/products/57770-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Scandinavian Interiors made easy Premium alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/713102
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Scandinavian%20Interiors%20made%20easy%20Premium
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

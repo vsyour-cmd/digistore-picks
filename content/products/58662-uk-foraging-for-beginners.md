@@ -56,6 +56,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and circumstances.
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and circumstances.
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and circumstances.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58662-g1.webp
+- assets/products/58662-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: UK Foraging For Beginners alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/725802
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=UK%20Foraging%20For%20Beginners
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

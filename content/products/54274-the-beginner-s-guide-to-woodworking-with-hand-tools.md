@@ -66,6 +66,12 @@
 
 > Disclaimer: This is an educational product. Results depend on your effort, skill development, and adherence to safety guidelines. Always wear appropriate safety equipment and work in well-ventilated areas. Individual results will vary. Always follow local building codes and safety regulations when working with tools and wood.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Beginner's Guide to Woodworking with Hand Tools alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/639592
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Beginner's%20Guide%20to%20Woodworking%20with%20Hand%20Tools
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

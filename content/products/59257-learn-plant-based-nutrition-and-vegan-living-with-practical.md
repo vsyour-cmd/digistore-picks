@@ -55,6 +55,12 @@
 
 - assets/products/59257-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Learn Plant-Based Nutrition and Vegan Living with Practical alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/726391
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Learn%20Plant-Based%20Nutrition%20and%20Vegan%20Living%20with%20Practical
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

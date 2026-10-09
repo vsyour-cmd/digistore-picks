@@ -69,6 +69,12 @@
 - assets/products/56354-g3.webp
 - assets/products/56354-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Promote Manjuba Caps Now! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/685232
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20Manjuba%20Caps%20Now!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -58,6 +58,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Real pages from The New Era: SEO, AEO, GEO & AI Position — step-by-step methods you can apply to your own site.
+
+### 3c. Cautions
+
+> Important: This is the self-paced book edition; it does not include live classroom teaching or live 1-to-1 coaching.
+> Important: This is a selected review edition, not the complete paid publication.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59731-g1.webp
+- assets/products/59731-g2.webp
+- assets/products/59731-g3.webp
+- assets/products/59731-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The New Era: SEO, AEO, GEO, AI Position alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/733221
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20New%20Era%3A%20SEO%2C%20AEO%2C%20GEO%2C%20AI%20Position
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

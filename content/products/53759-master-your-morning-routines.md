@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I was frustrated because I never felt fully awake or motivated in the mornings. This book provided a clear, step-by-step guide to building a routine that energizes and focuses me. My productivity and mood have improved dramatically. I deducted one star only because a few more examples for families with kids would have made it perfect, but it’s already incredibly effective.
+> I was frustrated because I never felt fully awake or motivated in the mornings. This book provided a clear, step-by-step guide to building a routine that energizes and focuses me. My productivity and mood have improved dramatically. I deducted one star only because a few more examples for families with kids would have made it perfect, but it’s already incredibly effective.
+> I was frustrated because I never felt fully awake or motivated in the mornings. This book provided a clear, step-by-step guide to building a routine that energizes and focuses me. My productivity and mood have improved dramatically. I deducted one star only because a few more examples for families with kids would have made it perfect, but it’s already incredibly effective.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and individual lifestyle. Always adapt routines to your personal needs and circumstances. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and individual lifestyle. Always adapt routines to your personal needs and circumstances. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results will vary depending on consistency, effort, and individual lifestyle. Always adapt routines to your personal needs and circumstances. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53759-g1.webp
+- assets/products/53759-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Master Your Morning Routines alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633280
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Master%20Your%20Morning%20Routines
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

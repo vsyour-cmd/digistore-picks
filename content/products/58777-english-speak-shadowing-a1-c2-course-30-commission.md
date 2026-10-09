@@ -56,6 +56,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Reinforce vocabulary with listening exercises, translation practice in both directions, matching pairs and flashcards.
+> Choose a card to see the instructions and an example. These are illustrative previews of the course activities, with Polish translations used as examples.
+> New customers receive instructions to create a password. Existing customers can sign in with their purchase email. Use the same account in your browser or the Android app to access your purchased lessons.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58777-g1.webp
+- assets/products/58777-g2.webp
+- assets/products/58777-g3.webp
+- assets/products/58777-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: English Speak Shadowing | A1–C2 Course | 30% Commission alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/727591
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=English%20Speak%20Shadowing%20%7C%20A1%E2%80%93C2%20Course%20%7C%2030%25%20Commission
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

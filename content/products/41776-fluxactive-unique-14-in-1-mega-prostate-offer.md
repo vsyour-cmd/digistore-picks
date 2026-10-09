@@ -68,6 +68,12 @@
 - assets/products/41776-g3.webp
 - assets/products/41776-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/466656
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=FLUXACTIVE%3A%20Unique%2014-in-1%20MEGA%20PROSTATE%20Offer
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

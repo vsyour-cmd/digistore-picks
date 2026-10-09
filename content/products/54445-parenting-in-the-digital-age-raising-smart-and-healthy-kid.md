@@ -50,6 +50,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> This eBook contains 10 practical chapters covering screen-time, digital safety, emotional resilience, attention training, family systems, and preparing children for an AI-driven future.
+> The content in this eBook is for informational and educational purposes only. It should not be considered medical, legal, or professional advice. Always consult a qualified professional if you have serious concerns about your child’s health or well-being.
+> Privacy Policy • Disclaimer • Affiliate Disclosure • Refund Notice • Contact
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54445-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Parenting in the Digital Age - Raising Smart and Healthy Kid alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/642406
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Parenting%20in%20the%20Digital%20Age%20-%20Raising%20Smart%20and%20Healthy%20Kid
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

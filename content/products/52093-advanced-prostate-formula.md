@@ -58,6 +58,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Oyster mushrooms can help regulate your cholesterol levels, too. Studies show they significantly reduced triglycerides and cholesterol without any side effects. That’s because oyster mushrooms contain a natural statin called lovastatin, which may explain their cholesterol-lowering effect.
+> That’s important, because having urine left in your bladder gives you that annoying "gotta go again" feeling. Or forces you to strain to empty your bladder. Which can lead to embarrassing dribbles and stains on your clothes.
+> DIM is so important that I’m now suggesting a bigger dose for my patients, a full 300 mg a day. I’d also recommend&hellip;
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52093-g1.webp
+- assets/products/52093-g2.webp
+- assets/products/52093-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Advanced Prostate Formula alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/606698
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Prostate%20Formula
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -47,6 +47,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The exact, step-by-step blueprint to engage fat-burning hormones with delicious foods
+> In the Keto After 50 Diet Cookbook, you’ll get step-by-step guides to create hundreds of delicious meals as part of the program without complicated recipes or spending an arm and a leg.
+
+### 3c. Cautions
+
+> How to help fight major causes of heart disease & blood pressure without prescriptions, injections or nasty side effects
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/31477-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Keto After 50 - High Converting Keto Offer alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/292685
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Keto%20After%2050%20-%20High%20Converting%20Keto%20Offer
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

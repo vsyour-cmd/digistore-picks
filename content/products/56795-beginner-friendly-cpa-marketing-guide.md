@@ -60,6 +60,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> CPA Marketing Mastery is the step-by-step digital guide that shows complete beginners how to earn commissions online — without a product, a website, or any experience.
+> No ad budget needed. This blueprint breaks down 5 real zero-budget traffic channels — short-form video to niche forums — with step-by-step instructions for each so you can start sending traffic today.
+> Digital Item Included Real Market Value CPA Marketing Mastery — Full 8-Chapter Digital Guide PDF format · Complete beginner's system · Step-by-step walkthrough
+
+### 3c. Cautions
+
+> EARNINGS DISCLAIMER: Results mentioned on this page are not typical and are not a guarantee of what you will earn. Income results depend entirely on effort, commitment, skill, and market conditions. CPA Marketing Mastery is an educational digital product. We make no guarantee you will earn money using the techniques presented.
+> DISCLAIMER: This page is not affiliated with Facebook, Google, or any third-party platform. All product names, logos, and brands are property of their respective owners.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Beginner-Friendly CPA Marketing Guide alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/697434
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Beginner-Friendly%20CPA%20Marketing%20Guide
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -43,6 +43,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: California and Southwest USA Travel Guide (English) alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/658149
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=California%20and%20Southwest%20USA%20Travel%20Guide%20(English)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

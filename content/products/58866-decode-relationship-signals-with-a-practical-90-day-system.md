@@ -70,6 +70,12 @@
 
 - assets/products/58866-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Decode Relationship Signals With a Practical 90-Day System alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/728308
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Decode%20Relationship%20Signals%20With%20a%20Practical%2090-Day%20System
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

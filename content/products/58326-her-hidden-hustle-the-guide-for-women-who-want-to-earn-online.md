@@ -58,6 +58,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Her Hidden Hustle: The Guide For Women Who Want To Earn Online alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/721465
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Her%20Hidden%20Hustle%3A%20The%20Guide%20For%20Women%20Who%20Want%20To%20Earn%20Online
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

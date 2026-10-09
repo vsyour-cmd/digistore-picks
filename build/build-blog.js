@@ -189,12 +189,25 @@ ${tableRows(top)}
 </ul>
 
 <p>Every product links to a full data profile with cancel rate, vendor and listing age. Want the whole category? <a href="../category/${cat.file}.html">Browse all ${items.length} ${esc(label.toLowerCase())} offers</a>.</p>
+${DE_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="https://vsyour-cmd.github.io/digistore-picks-de/blog/guide-${DE_GUIDE_SLUGS[label]}.html" hreflang="de">Deutsch verfügbar</a>.</p>` : ""}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(label)}.html`), layout({ title: `${label} on Digistore24: ${items.length} offers analyzed — ${SITE_NAME}`, desc: `Data guide to ${items.length} ${label} products on Digistore24: prices, commissions, conversion. Updated ${UPDATED}.`, body, rel: "..", file: `guide-${slug(label)}.html` }));
   }
 }
 
 // ---------- 文章3: 买家/推广者核查清单(方法论,静态) ----------
+const DE_GUIDE_SLUGS = {
+  "Health & Fitness": "gesundheit-fitness",
+  "Personal Development": "pers-nlichkeitsentwicklung",
+  "Business & Investment": "business-investment",
+  "Education": "bildung",
+  "Online Marketing & E-Business": "online-marketing-e-business",
+  "Computer & Internet": "computer-internet",
+  "Family & Children": "familie-kinder",
+  "Dating, Relationships & Romance": "flirt-beziehungen-romantik",
+  "Software": "software",
+  "Social Media": "social-media",
+};
 function checklist() {
   const body = `
 <article class="review">

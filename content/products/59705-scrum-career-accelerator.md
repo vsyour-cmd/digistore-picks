@@ -61,6 +61,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Career, marketing & consulting video courses Practical skills for freelancing, consulting, and sharing your expertise online. See all 13 by name
+> 12 Scrum and Agile courses, 2 bonus Scrum courses, and 13 career, marketing and consulting courses. Full list below.
+> For later: 13 Career, Marketing & Consulting Courses Skip these for now if you only want Scrum. They teach marketing, content, and consulting skills for the day you decide to freelance or consult. They teach skills only and do not promise any income.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59705-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Scrum Career Accelerator alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/736035
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Scrum%20Career%20Accelerator
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

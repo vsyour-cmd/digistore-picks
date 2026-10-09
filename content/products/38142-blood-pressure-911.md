@@ -43,6 +43,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Blood Pressure 911 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/365097
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Blood%20Pressure%20911
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

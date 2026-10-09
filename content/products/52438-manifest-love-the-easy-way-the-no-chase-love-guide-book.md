@@ -56,6 +56,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Forget about confusing dating rules, endless apps and heartbreaking trial and error. This eBook is a clear, step by step guide that shows you exactly how to shift your mindset and energy to magnetize the love you want.
+> Forget about confusing dating rules, endless apps and heartbreaking trial and error. This eBook is a clear, step by step guide that shows you exactly how to shift your mindset and energy to magnetize the love you want.
+> Forget about confusing dating rules, endless apps and heartbreaking trial and error. This eBook is a clear, step by step guide that shows you exactly how to shift your mindset and energy to magnetize the love you want.
+
+### 3c. Cautions
+
+> The harder I tried to get his attention, the more distant he became.
+> *While our guidance and techniques for attracting love have resonated and help many, individual experiences and results may vary significantly based on personal circumstances. We encourage you to use this information as a supportive tool rather than a guaranteed solution, as no method can ensure specific outcomes in your journey toward love.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/52438-g1.webp
+- assets/products/52438-g2.webp
+- assets/products/52438-g3.webp
+- assets/products/52438-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Manifest Love The Easy Way - The No Chase Love Guide Book alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/612585
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Manifest%20Love%20The%20Easy%20Way%20-%20The%20No%20Chase%20Love%20Guide%20Book
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

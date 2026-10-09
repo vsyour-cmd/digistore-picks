@@ -106,6 +106,12 @@ for (const p of DATA.products) {
       lines.push("");
     }
   }
+  lines.push("### 3e. Related links & interaction");
+  lines.push("");
+  lines.push("- Related searches on the profile page: " + p.label + " alternatives · price & data · review & research");
+  lines.push("- Public Digistore24 product page: https://www.digistore24.com/product/" + p.productId);
+  lines.push("- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=" + encodeURIComponent(p.label));
+  lines.push("");
   lines.push("## 4. Editorial notes");
   lines.push("");
   lines.push("(reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)");

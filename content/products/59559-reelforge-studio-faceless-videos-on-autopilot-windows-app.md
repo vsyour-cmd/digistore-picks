@@ -58,6 +58,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Icon-driven doodle animation — a classic faceless explainer style for visual step-by-step storytelling.
+> Get Instant Access — $65 incl. VAT 🔒 Secure checkout powered by Digistore24 Total charged at checkout: $65 USD incl. VAT (gross) Digital access/download instructions are provided electronically after purchase.
+> Digital delivery: access/download instructions are supplied electronically after successful payment. AI features use free-tier community AI from OpenCode (primary) with fallback to Mercury AI text generator, plus optional Bring-Your-Own-Model. Publishing features may require your own third-party accounts (e.g. Google/YouTube) and are subject to those providers' accounts, limits, terms and availability — separate from this purchase. See Third-party services & requirements .
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59559-g1.webp
+- assets/products/59559-g2.webp
+- assets/products/59559-g3.webp
+- assets/products/59559-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ReelForge Studio - Faceless Videos on Autopilot (Windows App alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/735866
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=ReelForge%20Studio%20-%20Faceless%20Videos%20on%20Autopilot%20(Windows%20App
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

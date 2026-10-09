@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> "Learn step-by-step strategies to build powerful study routines that boost focus, retention, and productivity , so you can master subjects faster and finally achieve the grades and knowledge you’ve been aiming for."
+> "Learn step-by-step strategies to build powerful study routines that boost focus, retention, and productivity , so you can master subjects faster and finally achieve the grades and knowledge you’ve been aiming for."
+> "Learn step-by-step strategies to build powerful study routines that boost focus, retention, and productivity , so you can master subjects faster and finally achieve the grades and knowledge you’ve been aiming for."
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on effort, discipline, and individual learning styles. Always adapt study methods to your personal needs and consult educators or advisors when necessary. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on effort, discipline, and individual learning styles. Always adapt study methods to your personal needs and consult educators or advisors when necessary. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on effort, discipline, and individual learning styles. Always adapt study methods to your personal needs and consult educators or advisors when necessary. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53758-g1.webp
+- assets/products/53758-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Power of Study Routines alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633270
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Power%20of%20Study%20Routines
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

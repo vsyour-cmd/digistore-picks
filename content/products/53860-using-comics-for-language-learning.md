@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I always believed authentic content was only for advanced learners. Every time I tried reading news articles or novels, I felt overwhelmed and gave up. This book completely changed that mindset. It gave me clear strategies to approach real-world content step by step. I now read with confidence, retain vocabulary naturally, and finally feel connected to the language.
+> I always believed authentic content was only for advanced learners. Every time I tried reading news articles or novels, I felt overwhelmed and gave up. This book completely changed that mindset. It gave me clear strategies to approach real-world content step by step. I now read with confidence, retain vocabulary naturally, and finally feel connected to the language.
+> I always believed authentic content was only for advanced learners. Every time I tried reading news articles or novels, I felt overwhelmed and gave up. This book completely changed that mindset. It gave me clear strategies to approach real-world content step by step. I now read with confidence, retain vocabulary naturally, and finally feel connected to the language.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It does not guarantee fluency. Progress depends on practice, consistency, and personal effort. Always use authentic content responsibly and verify information from reliable sources. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not guarantee fluency. Progress depends on practice, consistency, and personal effort. Always use authentic content responsibly and verify information from reliable sources. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not guarantee fluency. Progress depends on practice, consistency, and personal effort. Always use authentic content responsibly and verify information from reliable sources. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53860-g1.webp
+- assets/products/53860-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Using Comics for Language Learning alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/634092
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Using%20Comics%20for%20Language%20Learning
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

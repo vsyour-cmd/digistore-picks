@@ -58,6 +58,30 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The practice from a tiny Virginia town that helped Americans survive the Spanish Flu — and how to use it against a viral outbreak
+> That fear almost stopped me too. So plainly: you don't need to be a doctor. That's the entire point. Every remedy is laid out in plain English, step by step — what it's for, where to get it, exactly how to use it. Open the index, find the problem, follow the instructions.
+
+### 3c. Cautions
+
+> But I'd quietly handed over the single most important thing — my family's health — to a system I just assumed would always be there.
+> The overwhelming majority of modern drugs began as something found in nature. A compound in a plant. A mold. A root. Aspirin came from willow bark. One of our most important heart medications came from a flower. Some of our most powerful painkillers trace straight back to a poppy.
+> They find what already works in nature. They isolate the one active piece. They patent that isolated version — because you can't patent a plant growing wild in your yard. Then they sell it back to you, at a markup, with a list of side effects as long as your arm.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/42151-g1.webp
+- assets/products/42151-g2.webp
+- assets/products/42151-g3.webp
+- assets/products/42151-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Doctor's Book Of Survival Home Remedies alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/467670
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Doctor's%20Book%20Of%20Survival%20Home%20Remedies
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

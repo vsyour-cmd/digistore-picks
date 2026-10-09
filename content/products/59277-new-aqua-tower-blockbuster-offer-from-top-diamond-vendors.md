@@ -43,6 +43,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Join these families who have already discovered how to build their own clean water source at home with this simple step-by-step blueprint.
+
+### 3c. Cautions
+
+> Get Started Now l Privacy l Terms and Conditions l Refunds l Disclaimer l Anti-Spam Policy l Affiliate l Disclosure l Contact Us
+> Some home alteration alternatives may be illegal in your town, city, state, province or country. It is your responsibility to inquire with your local authority about how to proceed if restrictions apply. The product is an experiment, it was not technically assessed and has not been individually producted nor small-scale produced or mass-produced. Although we have not encountered a problem, you still must consult with your local authority.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/732876
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Aqua%20Tower%20-%20Blockbuster%20Offer%20From%20Top%20Diamond%20Vendors
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

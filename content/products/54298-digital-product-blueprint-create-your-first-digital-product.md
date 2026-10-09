@@ -68,6 +68,12 @@
 
 > Disclaimer: This training is for educational purposes only. Results vary based on individual effort, market conditions, product quality, and implementation. While we've helped thousands launch digital products, specific income results are not guaranteed. This is a legitimate business-building system that requires consistent work. Past student performance does not guarantee future results.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Digital Product Blueprint: Create Your First Digital Product alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/639860
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Product%20Blueprint%3A%20Create%20Your%20First%20Digital%20Product
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

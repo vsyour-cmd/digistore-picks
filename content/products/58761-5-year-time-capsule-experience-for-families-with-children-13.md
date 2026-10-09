@@ -57,6 +57,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 5 Year Time Capsule Experience for Families with Children 13+ alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/727355
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=5%20Year%20Time%20Capsule%20Experience%20for%20Families%20with%20Children%2013%2B
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

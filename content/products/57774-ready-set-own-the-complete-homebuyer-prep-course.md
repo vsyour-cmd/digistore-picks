@@ -53,6 +53,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Learn step-by-step actions to accelerate your buying process without wasting time.
+> Think of it as your ultimate cheat code—step-by-step, rock-solid, and designed to make you a savvy buyer in no time.
+> Are you overwhelmed by the homebuying process, unsure of where to start or how to confidently make decisions? Ready, Set, Own: The Complete Homebuyer Prep Course offers a proven, step-by-step structure designed to guide you through every stage, from budgeting to closing. With practical tools and expert insights, you'll build the confidence needed to avoid costly mistakes and secure your dream home with certainty. Results may vary depending on individual effort and circumstances.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57774-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ready, Set, Own: The Complete Homebuyer Prep Course alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/715933
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ready%2C%20Set%2C%20Own%3A%20The%20Complete%20Homebuyer%20Prep%20Course
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

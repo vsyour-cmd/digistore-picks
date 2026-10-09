@@ -59,6 +59,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Spend hours conceptualising and researching online for inspiration and ideas. You save pennies and learn how to use countless software, spending hours designing, editing, and styling. Eventually, you have some graphics so you stitch everything together with a needle and thread. You know it looks ugly, and awful. But hey, you get to watch in disgust as your competitors hulk-smash you 6 feet under and leap away into the sky.
+
+### 3c. Cautions
+
+> Use arrows to direct your audience’s attention to key areas of your site such as your benefits, call-to-actions, and other areas to get the sale.
+> Capture visitors’ attention with unique, bold, and visually enticing headlines that will set the stage so they scroll down and go deeper into your site till they buy.
+> OBVIOUSLY! The reason why most businesses fail is because they have graphic designs as an afterthought and not as a necessity. They assume that their product will sell itself. The point-and-click software GETS YOU your designs and will save you time so that you can focus your attention on other parts of the business without an ounce of worry.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/39236-g1.webp
+- assets/products/39236-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/443167
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%20ClickDesigns%E2%84%A2%20%E2%9A%A1%20%24515%2FSale%20%E2%9A%A1%2050%25%20Coms%20%E2%9A%A1%20%24257.5%2FYours
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

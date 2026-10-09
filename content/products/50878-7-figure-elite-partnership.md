@@ -63,6 +63,12 @@
 - assets/products/50878-g3.webp
 - assets/products/50878-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 7-Figure ELITE Partnership alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/491495
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=7-Figure%20ELITE%20Partnership
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -57,6 +57,23 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The complete step-by-step guide to visa planning, documentation, and immigration success
+> "Clear, simple, and powerful. Finally understood how to apply legally without spending thousands on lawyers!"
+
+### 3c. Cautions
+
+> Disclaimer: This e-book is for educational and informational purposes only. Immigration laws can change. Always check official sources like USCIS.gov, or consult a licensed immigration attorney before making any legal decisions.
+> Legal Notice: This product is for educational purposes only and does not constitute legal advice. Immigration laws and policies may change. Always verify official information at USCIS.gov . If needed, consult a licensed immigration attorney.
+> 🚨 ATTENTION: This Is Your Chance to Change Your Life Before It's Too Late
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Building Your Legal Journey to the USA alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/645055
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Building%20Your%20Legal%20Journey%20to%20the%20USA
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

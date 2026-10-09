@@ -59,6 +59,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> ✓ Step-by-step exercise visuals ✓ Form checks and common mistakes ✓ Beginner options and safety notes ✓ Warm-up, walking, mobility and recovery
+> What is the Move Better bonus? + It is a 17-page visual exercise guide in PDF format with a 30-day movement plan, step-by-step visuals for bodyweight squats, incline push-ups and reverse lunges, form checks, beginner options, warm-up, walking, mobility, recovery and safety notes.
+
+### 3c. Cautions
+
+> This is a digital product (ebook) delivered instantly after payment. For educational purposes only. Results may vary. Always consult your doctor before starting any diet or exercise program.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54131-g1.webp
+- assets/products/54131-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 30 Day Healthy Habits Recipe Plan. alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635874
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=30%20Day%20Healthy%20Habits%20Recipe%20Plan.
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> You don’t struggle with time because your days aren’t full, you struggle because there’s never enough of it. Work piles up, personal obligations demand attention, and your to-do list keeps growing faster than you can tackle it. You feel stressed, behind, and exhausted, wondering how some people seem to get it all done while you’re constantly running on empty.
+> I was constantly busy from morning to night yet felt like nothing truly important was getting done. Time Management for Busy People helped me see how much time I was wasting on low-value tasks and distractions. The strategies are practical and realistic, even for packed schedules. I now feel in control of my day, less stressed, and finally able to make progress without exhaustion.
+> The secret to getting more done isn't working harder; it’s learning how to do less. We’re breaking down the "Negative-Time" paradox and showing you the unconventional shortcuts that allow high-performers to stay calm while everyone else is scrambling. Warning: This will make you want to delete half your calendar immediately.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53945-g1.webp
+- assets/products/53945-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Time Management for Busy People alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635401
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Time%20Management%20for%20Busy%20People
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

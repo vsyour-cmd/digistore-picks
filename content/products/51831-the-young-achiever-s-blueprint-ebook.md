@@ -57,6 +57,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step "Future Leader System" that transforms even struggling children into confident problem-solvers and innovative thinkers - no special talents or expensive tutoring required. (One formerly shy 9-year-old used this to start a community project that was featured on local news in just 4 weeks!)
+> You'll see them take initiative without being prompted. This isn't about following directions - it's about creating self-directed children who identify opportunities and take action independently.
+> A comprehensive step-by-step system for developing exceptional children even if they're currently struggling, unmotivated, or lost in the educational system.
+
+### 3c. Cautions
+
+> 12 proven projects packed with development strategies so effective, they should be mandatory in every school. (Warning: Teachers may call you in for conferences to ask what's behind your child's sudden transformation.)
+> The best part? His academic performance improved dramatically as a natural side effect.
+> And, most importantly, your child will become the confident, capable young person that stands out in a world of mediocrity.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Young Achiever's Blueprint - eBook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/602748
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Young%20Achiever's%20Blueprint%20-%20eBook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

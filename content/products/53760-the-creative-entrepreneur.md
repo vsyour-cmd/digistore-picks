@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I always struggled to turn my creative skills into a profitable business. I felt scattered, frustrated, and unsure of where to focus. The Creative Entrepreneur gave me step-by-step guidance on identifying my niche, marketing my skills, and creating consistent income streams. I now have a clear roadmap, and my confidence as a creative professional has skyrocketed.
+> I always struggled to turn my creative skills into a profitable business. I felt scattered, frustrated, and unsure of where to focus. The Creative Entrepreneur gave me step-by-step guidance on identifying my niche, marketing my skills, and creating consistent income streams. I now have a clear roadmap, and my confidence as a creative professional has skyrocketed.
+> I always struggled to turn my creative skills into a profitable business. I felt scattered, frustrated, and unsure of where to focus. The Creative Entrepreneur gave me step-by-step guidance on identifying my niche, marketing my skills, and creating consistent income streams. I now have a clear roadmap, and my confidence as a creative professional has skyrocketed.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It does not guarantee specific financial results. Success will vary based on creativity, effort, market conditions, and consistency. Always apply strategies responsibly and ethically in your business. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not guarantee specific financial results. Success will vary based on creativity, effort, market conditions, and consistency. Always apply strategies responsibly and ethically in your business. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not guarantee specific financial results. Success will vary based on creativity, effort, market conditions, and consistency. Always apply strategies responsibly and ethically in your business. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53760-g1.webp
+- assets/products/53760-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Creative Entrepreneur alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633279
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Creative%20Entrepreneur
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

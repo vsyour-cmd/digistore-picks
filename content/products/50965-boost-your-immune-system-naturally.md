@@ -48,6 +48,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> To make it easy, I’ve put together a step-by-step guide that will show you exactly how it’s done...
+> There are a lot of people that claim to offer a solution on how to start a profitable Online Coaching Business, so it’s understandable if you’re a little skeptical.
+> You can begin seeing results extremely quickly… Within days and sometimes even within hours of getting started. The more you make this a part of your daily life, the better the results you’ll get.
+
+### 3c. Cautions
+
+> Most people seem to pay more attention to their immune systems during the winter months.
+> This is especially important with the current coronavirus pandemic.
+> Privacy Policy | Disclaimer | Terms and Conditions | Refund Policy
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50965-g1.webp
+- assets/products/50965-g2.webp
+- assets/products/50965-g3.webp
+- assets/products/50965-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Boost Your Immune System Naturally alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/589747
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Boost%20Your%20Immune%20System%20Naturally
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

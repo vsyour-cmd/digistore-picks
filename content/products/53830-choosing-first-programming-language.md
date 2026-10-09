@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to turn 'Code-Fear' into 'Code-Fluency.' Stop 'studying' programming and start 'writing' software with the exact selection matrix used by self-taught engineers to land six-figure jobs, starting for the price of a coffee.
+> ✅ Step-by-step advice for taking your very first steps in coding.
+> A step-by-step roadmap to turn 'Code-Fear' into 'Code-Fluency.' Stop 'studying' programming and start 'writing' software with the exact selection matrix used by self-taught engineers to land six-figure jobs, starting for the price of a coffee.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace formal training, accredited programs, or professional mentorship. Results may vary depending on effort, consistency, and individual learning style. Always keep practicing to strengthen your coding skills. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace formal training, accredited programs, or professional mentorship. Results may vary depending on effort, consistency, and individual learning style. Always keep practicing to strengthen your coding skills. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace formal training, accredited programs, or professional mentorship. Results may vary depending on effort, consistency, and individual learning style. Always keep practicing to strengthen your coding skills. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53830-g1.webp
+- assets/products/53830-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Choosing First Programming Language alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633827
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Choosing%20First%20Programming%20Language
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

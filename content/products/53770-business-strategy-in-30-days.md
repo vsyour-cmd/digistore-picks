@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to turn your vague goals into a precise execution plan. Stop 'hoping' for success and start 'engineering' it with the exact strategic models used by top-tier consultants, simplified for the price of a lunch.
+> If you’re serious about developing a business strategy that works, this book is a must-read. The step-by-step, day-by-day format makes it impossible to procrastinate.
+> A step-by-step roadmap to turn your vague goals into a precise execution plan. Stop 'hoping' for success and start 'engineering' it with the exact strategic models used by top-tier consultants, simplified for the price of a lunch.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only and does not guarantee specific business outcomes. Results will vary depending on individual effort, industry, and market conditions. Always make strategic decisions responsibly. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only and does not guarantee specific business outcomes. Results will vary depending on individual effort, industry, and market conditions. Always make strategic decisions responsibly. Legal Information
+> A step-by-step roadmap to turn your vague goals into a precise execution plan. Stop 'hoping' for success and start 'engineering' it with the exact strategic models used by top-tier consultants, simplified for the price of a lunch.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53770-g1.webp
+- assets/products/53770-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Business Strategy in 30 Days alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633262
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Business%20Strategy%20in%2030%20Days
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

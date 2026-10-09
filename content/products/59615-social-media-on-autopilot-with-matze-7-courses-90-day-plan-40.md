@@ -63,6 +63,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Social Media on Autopilot with Matze – 7 Courses + 90-Day Plan | 40% alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/736681
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Social%20Media%20on%20Autopilot%20with%20Matze%20%E2%80%93%207%20Courses%20%2B%2090-Day%20Plan%20%7C%2040%25
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

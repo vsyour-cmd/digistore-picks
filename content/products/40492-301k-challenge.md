@@ -61,6 +61,12 @@
 - assets/products/40492-g1.webp
 - assets/products/40492-g2.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 301K Challenge alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/449013
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=301K%20Challenge
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

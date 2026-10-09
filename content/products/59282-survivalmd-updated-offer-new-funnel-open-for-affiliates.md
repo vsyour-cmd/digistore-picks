@@ -56,6 +56,31 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Survival MD closes the gap between what doctors know and what ordinary families are ever taught — using practical checklists, visual protocols and step-by-step explanations.
+> “Better than any first aid course I've taken. And I've taken 3. Dr Scurtu covers way more ground and explains it better. The images are high quality and the step by step instructions actually make sense. Wish I found this years ago.” Tonya Morse ★★★★★
+> “I'm so glad I purchased this. Everything is written concise and directions are very clear. I feel much better prepared for medical emergencies if no doctor is available.” Sharon Kinney ★★★★★
+
+### 3c. Cautions
+
+> Survival MD | When Medical Help Is No Longer An Option tags in your page if you can. They also work right here. --> A SURGEON'S EMERGENCY PLAYBOOK — WRITTEN FOR PEOPLE WITH NO MEDICAL TRAINING
+> But what do you do when medical attention is 20, 40, or 60 minutes away?
+> The bright-yellow root with real science behind it — and the warning that comes with it
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59282-g1.webp
+- assets/products/59282-g2.webp
+- assets/products/59282-g3.webp
+- assets/products/59282-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: SURVIVALMD - UPDATED OFFER + NEW FUNNEL|OPEN FOR AFFILIATES alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/492636
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SURVIVALMD%20-%20UPDATED%20OFFER%20%2B%20NEW%20FUNNEL%7COPEN%20FOR%20AFFILIATES
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

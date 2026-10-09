@@ -52,6 +52,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> We’ll also cover subjects in depth such as water, food preservation, off grid power, medicinal garden, you name it. We want to put in your hands helpful how-to illustrations … easy to follow, step-by-step advice … brilliant tips and ingenious time-savers. From all the projects you’ll find in The Self-Sufficient Backyard I’m pretty sure you’ll find some that are suitable for your property.
+> We’ve created what may well be the most comprehensive, step-by-step system to transform a regular homeowner or apartment dweller into an independent, self-sufficient homesteader.
+> I was a little disappointed when I pulled my book out of the package; it seemed as though it was on the short side. But then I realized two things. First, it is a full-sized book with regular-sized print and, second, Ron and Johanna get right to the point. They don't waste time with frivolous details. The result is a book that is just PACKED with essential, first-person detailed instructions and warning that I know will prove to be invaluable.
+
+### 3c. Cautions
+
+> But the most important thing is the feeling of not having to rely on anyone else for anything. It’s the feeling of being independent. Independent from the government's help or charity, grocery chains, utility and energy companies, corporations and the Grid.
+> ⭐⭐⭐⭐⭐ This book contains important information for our future survival
+> “This book contains critically important information for our individual and collective futures. I commend the authors for their commitment and spirit of re-pioneering how to live on the land sustainably and self-sufficiently.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40914-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: NEW: The Self-Sufficient Backyard alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/379127
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%20Self-Sufficient%20Backyard
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

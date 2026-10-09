@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I struggled to forgive past mistakes and often replayed regrets in my head. The Art of Letting Go guided me step by step in releasing guilt and accepting myself. I now approach life with less tension, more clarity, and a stronger sense of emotional freedom.
+> I struggled to forgive past mistakes and often replayed regrets in my head. The Art of Letting Go guided me step by step in releasing guilt and accepting myself. I now approach life with less tension, more clarity, and a stronger sense of emotional freedom.
+> I struggled to forgive past mistakes and often replayed regrets in my head. The Art of Letting Go guided me step by step in releasing guilt and accepting myself. I now approach life with less tension, more clarity, and a stronger sense of emotional freedom.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual effort, mindset, and personal circumstances. Always consult a qualified professional if you are experiencing serious mental health concerns. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual effort, mindset, and personal circumstances. Always consult a qualified professional if you are experiencing serious mental health concerns. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. Results may vary depending on individual effort, mindset, and personal circumstances. Always consult a qualified professional if you are experiencing serious mental health concerns. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53801-g1.webp
+- assets/products/53801-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Art of Letting Go_Mental Detox alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/633491
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Art%20of%20Letting%20Go_Mental%20Detox
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

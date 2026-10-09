@@ -53,6 +53,20 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Disclaimer: This program is for educational purposes. Consult with a healthcare provider before starting any diet or exercise program, especially if you have pre-existing health conditions. Results vary based on individual circumstances, adherence, and starting point. The information provided is not medical advice.
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Lose Your Belly Fat in 30 Days or Less – The Complete Guide alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/650092
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lose%20Your%20Belly%20Fat%20in%2030%20Days%20or%20Less%20%E2%80%93%20The%20Complete%20Guide
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

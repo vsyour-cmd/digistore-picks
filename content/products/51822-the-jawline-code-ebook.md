@@ -57,6 +57,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The step-by-step "Facial Reconstruction System" that transforms even the most baby-faced man into a chiseled head-turner - no surgery or special genetics required. (One formerly invisible office worker used this to completely transform his face in just 30 days!)
+> A comprehensive step-by-step system for transforming your facial structure even if you currently have a weak chin, undefined jaw, or "baby face."
+> It's the step-by-step system I wish I'd had when I was still a forgettable face in the crowd.
+
+### 3c. Cautions
+
+> Your social life will explode as people respond to your newfound masculine presence. And you'll feel like a different man, drunk on confidence and attracting attention while other average guys remain invisible.
+> Perfect for men tired of being overlooked and invisible and eager to develop the kind of masculine facial structure that attracts attention and respect.
+> 5 phases packed with scientific techniques so effective, they should be patented. (Warning: Deploy these consistently - people have been known to ask if you've had surgery after just a few weeks.)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The Jawline Code - ebook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/603194
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Jawline%20Code%20-%20ebook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

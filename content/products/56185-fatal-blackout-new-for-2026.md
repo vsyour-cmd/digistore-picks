@@ -71,6 +71,12 @@
 - assets/products/56185-g3.webp
 - assets/products/56185-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Fatal Blackout – NEW for 2026! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/671979
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fatal%20Blackout%20%E2%80%93%20NEW%20for%202026!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -71,6 +71,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: iGenics - Hot New Offer in the Vision Niche!(Text and Video) alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/454003
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=iGenics%20-%20Hot%20New%20Offer%20in%20the%20Vision%20Niche!(Text%20and%20Video)
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -42,6 +42,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> ‏Intelligence Subliminal is a guided audio program designed to support focus, mental clarity, and improve memory and learning efficiency through structured listening. This program is designed to support self-development and everyday mental performance. It helps improve attention, organize thoughts, and absorb information during studying, working, or various mental activities.
+> Improved focus and sustained attention Increased mental clarity and reduced distractions Support for short-term and long-term memory Enhanced learning and comprehension efficiency Calm and organized thinking during complex tasks Support for motivation and mental discipline Balance between analytical and creative thinking Important Note:
+> This program is for self-development purposes only. It is not a medical or psychological treatment, and results may vary from person to person.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54980-g1.webp
+- assets/products/54980-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Subliminal‏ Intelligence alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/656795
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Subliminal%E2%80%8F%20Intelligence
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> A step-by-step roadmap to internalize the 3 core "Power-Structures" that hold 95% of the language together. Stop 'guessing' endings and start 'executing' with the same linguistic shortcuts used by polyglots to reach fluency in weeks, not years, starting for the price of a coffee.
+> “I’ve studied grammar from textbooks and online resources for years, but nothing clicked the way this book did. Essential Grammar Tips for Language Learners breaks complex topics into clear, manageable ideas. I finally understand sentence structure and verb usage instead of memorizing rules blindly. This book filled in so many gaps for me.”
+> A step-by-step roadmap to internalize the 3 core "Power-Structures" that hold 95% of the language together. Stop 'guessing' endings and start 'executing' with the same linguistic shortcuts used by polyglots to reach fluency in weeks, not years, starting for the price of a coffee.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace professional language courses, tutoring, or immersive experiences. Results may vary depending on effort, practice, and learning style. Consistency and dedication are key to achieving fluency. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace professional language courses, tutoring, or immersive experiences. Results may vary depending on effort, practice, and learning style. Consistency and dedication are key to achieving fluency. Legal Information
+> Disclaimer: This ebook is intended for educational purposes only. It does not replace professional language courses, tutoring, or immersive experiences. Results may vary depending on effort, practice, and learning style. Consistency and dedication are key to achieving fluency. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53948-g1.webp
+- assets/products/53948-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Essential Grammar Tips alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635398
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Essential%20Grammar%20Tips
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

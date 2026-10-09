@@ -65,6 +65,12 @@
 - assets/products/40833-g2.webp
 - assets/products/40833-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Dominate the Diabetes Niche with Gluconite! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/443012
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Dominate%20the%20Diabetes%20Niche%20with%20Gluconite!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

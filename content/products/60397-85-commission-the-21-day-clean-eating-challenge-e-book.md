@@ -42,6 +42,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> 21-Day Step-by-Step Reset Plan A complete 3-week nutrition roadmap to follow from Day 1 to Day 21.
+
+### 3c. Cautions
+
+> The guides and e-books provided on this website reflect general nutritional principles for healthy individuals and are for educational purposes only. They do not replace personalized medical advice, diagnosis, or treatment. Please consult your physician or healthcare provider before making any major dietary changes. Individual results may vary.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60397-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/734044
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=85%25%20COMMISSION%20%E2%80%93%20The%2021-Day%20Clean%20Eating%20Challenge!%20%7C%20E-book
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

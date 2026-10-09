@@ -76,6 +76,12 @@
 - assets/products/40892-g3.webp
 - assets/products/40892-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ExpertSlides - The secret weapon for your presentations! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/456090
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=ExpertSlides%20-%20The%20secret%20weapon%20for%20your%20presentations!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

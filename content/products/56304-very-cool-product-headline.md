@@ -59,6 +59,21 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Skip to Heading section content This resource delivers step-by-step instructions to enhance your car’s style quickly. Access everything you need to install a sleek spoiler in your own time, no waiting or appointments required. Perfect for DIY enthusiasts who want results fast and at their own pace.
+> Enjoy easy-to-follow download instructions so you can start showcasing your spoilers confidently without any technical hassle.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Very cool product headline alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/685552
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Very%20cool%20product%20headline
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

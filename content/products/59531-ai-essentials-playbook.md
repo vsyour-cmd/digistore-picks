@@ -69,6 +69,12 @@
 - assets/products/59531-g3.webp
 - assets/products/59531-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: AI Essentials Playbook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/735955
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Essentials%20Playbook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

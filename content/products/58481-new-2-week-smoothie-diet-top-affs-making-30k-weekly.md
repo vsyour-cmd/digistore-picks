@@ -44,6 +44,24 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> With your step-by-step instructions, you will be able to take control of your body like never before. Losing weight will become a matter of following simple steps. It’s as easy as putting one foot in front of the other!
+
+### 3c. Cautions
+
+> And if you still believe that “breakfast is the most important meal of the day” ... you need to read Page 10 of your 2 Week Diet plan. It will shatter the old lie you’ve been told and give you the power to revolutionize your body like never before.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58481-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: ⚡️NEW: 2 Week Smoothie Diet⚡️ –Top Affs Making $30K+ Weekly! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/724261
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%EF%B8%8FNEW%3A%202%20Week%20Smoothie%20Diet%E2%9A%A1%EF%B8%8F%20%E2%80%93Top%20Affs%20Making%20%2430K%2B%20Weekly!
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

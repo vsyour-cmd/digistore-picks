@@ -56,6 +56,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Later, the priority shifts. Recovery, restoration, and replenishment become more important. That is why Alpha Dualis was built around a timed routine instead of a one-size-fits-all capsule.
+> Yes. Alpha Dualis is manufactured in certified U.S. facilities compliant with NSF/ANSI 455-2 standards. The formula is non-psychoactive, non-habit-forming, and designed for daily use. As with any supplement, consult your healthcare provider if you take medications.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57493-g1.webp
+- assets/products/57493-g2.webp
+- assets/products/57493-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Alpha Dualis Men - Men's Health Supplement - 50% Affiliate C alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/709652
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Alpha%20Dualis%20Men%20-%20Men's%20Health%20Supplement%20-%2050%25%20Affiliate%20C
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

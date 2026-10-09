@@ -43,6 +43,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> In a world dominated by distraction, social pressure, constant stimulation, external expectations, and endless demands for attention, many people feel increasingly disconnected from themselves.
+> UNDERSTANDING HOW MODERN SOCIETY SHAPES ATTENTION, IDENTITY, AND FULFILLMENT
+> The first framework, The Human Condition System , examines one of the most important realities of modern life:
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/57168-g1.webp
+- assets/products/57168-g2.webp
+- assets/products/57168-g3.webp
+- assets/products/57168-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ebook - My Human Quest alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/706747
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20My%20Human%20Quest
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

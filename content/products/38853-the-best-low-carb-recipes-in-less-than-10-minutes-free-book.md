@@ -61,6 +61,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> The book will be sent to you immediately upon purchase. You will receive an email with all the important information.
+> Disclaimer: All statements on this website reflect the specific user experiences of the users of makeyouslim.info and do not have to be typical, nor can the results be guaranteed. Results may vary from person to person.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/38853-g1.webp
+- assets/products/38853-g2.webp
+- assets/products/38853-g3.webp
+- assets/products/38853-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The best Low Carb Recipes in less than 10 minutes free book alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/424858
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20best%20Low%20Carb%20Recipes%20in%20less%20than%2010%20minutes%20free%20book
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

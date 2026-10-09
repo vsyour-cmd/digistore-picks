@@ -64,6 +64,12 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Bad B Rebirth - eBook alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/599006
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Bad%20B%20Rebirth%20-%20eBook
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

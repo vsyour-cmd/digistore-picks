@@ -55,6 +55,28 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> BUY NOW — $40 Digital delivery: This is a digital product. No physical product will be shipped. After successful checkout, access instructions will be provided electronically through the Digistore24-managed product access process.
+> How will I receive the templates after payment? After completing your purchase through Digistore24, access/download instructions will be provided electronically. Delivery and access are handled through the Digistore24-managed product access process.
+
+### 3c. Cautions
+
+> Home Legal Information Privacy Terms Refund Policy Disclaimer Anti Spam Contact Us
+> Home | Legal Information | Privacy | Terms | Refund Policy | Disclaimer | Anti Spam | Contact Us
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59272-g1.webp
+- assets/products/59272-g2.webp
+- assets/products/59272-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 1000+ Excel Templates Bundle | Budget, Finance, Business, HR alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/719715
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=1000%2B%20Excel%20Templates%20Bundle%20%7C%20Budget%2C%20Finance%2C%20Business%2C%20HR
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

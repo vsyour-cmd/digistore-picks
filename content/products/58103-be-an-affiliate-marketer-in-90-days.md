@@ -59,6 +59,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Ready to become an affiliate star in just 90 days? Access this fun, straightforward resource designed to give you quick wins and build your confidence step by step. No fluff—just simple strategies to jumpstart your journey!
+> Discover step-by-step guides designed to boost your confidence and turn your ideas into real income.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58103-g2.webp
+- assets/products/58103-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Be an Affiliate Marketer in 90 Days alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/718165
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Be%20an%20Affiliate%20Marketer%20in%2090%20Days
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

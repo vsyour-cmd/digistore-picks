@@ -47,6 +47,26 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Some home alteration alternatives may be illegal in your town, city, state, province or country. It is your responsibility to inquire with your local authority about how to proceed if restrictions apply. The product is an experiment, it was not technically assessed and has not been individually producted nor small-scale produced or mass-produced. Although we have not encountered a problem, you still must consult with your local authority.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/43391-g1.webp
+- assets/products/43391-g2.webp
+- assets/products/43391-g3.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Ultimate OFF-GRID Generator - Top Performer for 2023 alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/491275
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ultimate%20OFF-GRID%20Generator%20-%20Top%20Performer%20for%202023
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -73,6 +73,12 @@
 - assets/products/38702-g3.webp
 - assets/products/38702-g4.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Glucotrust: New Killer Blood Sugar Supplement alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/419540
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Glucotrust%3A%20New%20Killer%20Blood%20Sugar%20Supplement
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

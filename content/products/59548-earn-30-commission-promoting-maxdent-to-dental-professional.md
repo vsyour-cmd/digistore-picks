@@ -64,6 +64,12 @@
 
 - assets/products/59548-g1.webp
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Earn 30% commission promoting MaxDent to dental professional alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/732542
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2030%25%20commission%20promoting%20MaxDent%20to%20dental%20professional
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

@@ -36,6 +36,12 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Little Farmers Learning Bundle + Bonus Digital Learning Tool alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/702066
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Little%20Farmers%20Learning%20Bundle%20%2B%20Bonus%20Digital%20Learning%20Tool
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

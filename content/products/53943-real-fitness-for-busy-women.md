@@ -55,6 +55,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> You don’t struggle with fitness because you’re lazy, you struggle because life is full, your schedule is packed, and every extra minute feels impossible to find. Between work, family, and endless responsibilities, your health often takes a backseat, leaving you frustrated, low on energy, and unsure how to start or restart a fitness routine that actually works.
+> You don’t struggle with fitness because you’re lazy, you struggle because life is full, your schedule is packed, and every extra minute feels impossible to find. Between work, family, and endless responsibilities, your health often takes a backseat, leaving you frustrated, low on energy, and unsure how to start or restart a fitness routine that actually works.
+> You don’t struggle with fitness because you’re lazy, you struggle because life is full, your schedule is packed, and every extra minute feels impossible to find. Between work, family, and endless responsibilities, your health often takes a backseat, leaving you frustrated, low on energy, and unsure how to start or restart a fitness routine that actually works.
+
+### 3c. Cautions
+
+> Disclaimer: This ebook is for educational purposes only and does not replace professional medical or fitness advice. Results may vary depending on individual health conditions and consistency. Always consult a healthcare provider before beginning a new fitness program. Legal Information
+> Disclaimer: This ebook is for educational purposes only and does not replace professional medical or fitness advice. Results may vary depending on individual health conditions and consistency. Always consult a healthcare provider before beginning a new fitness program. Legal Information
+> Disclaimer: This ebook is for educational purposes only and does not replace professional medical or fitness advice. Results may vary depending on individual health conditions and consistency. Always consult a healthcare provider before beginning a new fitness program. Legal Information
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53943-g1.webp
+- assets/products/53943-g2.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Real Fitness for Busy Women alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/635403
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Real%20Fitness%20for%20Busy%20Women
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

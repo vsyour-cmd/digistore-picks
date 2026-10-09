@@ -52,6 +52,27 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The complete blueprint with step-by-step instructions is being revealed right now. Don't miss it.
+
+### 3c. Cautions
+
+> Please take into consideration that results may vary. The information contained in this site is provided for informational purposes only, and should not be construed as advice on any subject matter. You should not act or refrain from acting on the basis of any content included in this site without seeking professional advice. Reliance on any information provided by this site and others appearing on the site is solely at your own risk. The site and its contents are provided on an "as is" basis.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/36207-g1.webp
+- assets/products/36207-g2.webp
+- assets/products/36207-g3.webp
+- assets/products/36207-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Water Freedom System: The 2026 Water Converter Breakthrough alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/569324
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Water%20Freedom%20System%3A%20The%202026%20Water%20Converter%20Breakthrough
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

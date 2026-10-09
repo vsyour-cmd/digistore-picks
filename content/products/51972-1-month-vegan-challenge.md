@@ -60,6 +60,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> I've spent years refining this program, investing countless hours and resources to create a proven and effective plan for embracing a plant-based diet. This isn't just another vegan guide – it's a step-by-step roadmap designed to transform your health, well-being, and confidence in just 30 days.
+> ✓ 114 Page Step-By-Step Plan — Know exactly what to cook every single day.
+> Wondering how to start? You'll get practical tips on what to expect during the transition and a complete guide to stocking your new vegan kitchen.
+
+### 3c. Cautions
+
+> Privacy Policy — Terms of Service — Return Policy — Contact Us Disclaimer: The information provided on this website is for informational purposes only and is not intended as a substitute for advice from your physician or other health care professional. You should consult with a healthcare professional before starting any diet, exercise or supplementation program, before taking any medication, or if you have or suspect you might have a health problem.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51972-g1.webp
+- assets/products/51972-g2.webp
+- assets/products/51972-g3.webp
+- assets/products/51972-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: 1 Month Vegan Challenge alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/605910
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=1%20Month%20Vegan%20Challenge
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

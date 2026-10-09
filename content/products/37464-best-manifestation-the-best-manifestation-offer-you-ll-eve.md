@@ -46,6 +46,29 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> As a Marketing Test, because we are just getting started, we are offering this course for the price of just $38 .
+
+### 3c. Cautions
+
+> There is most likely nothing more important for you, even considering what happens to you after death than to learn how to live and experience your wildest fantasies!
+> And long after this life ends, you will be thanking yourself for paying attention and interest to your Spirit right now
+> And it may be cliché… but it’s true… only when you have a serious health condition, do you finally realize how valuable and important your health is…
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/37464-g1.webp
+- assets/products/37464-g2.webp
+- assets/products/37464-g3.webp
+- assets/products/37464-g4.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Best Manifestation – The Best Manifestation Offer You’ll Eve alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/399213
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Best%20Manifestation%20%E2%80%93%20The%20Best%20Manifestation%20Offer%20You%E2%80%99ll%20Eve
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

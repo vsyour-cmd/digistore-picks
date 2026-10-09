@@ -68,6 +68,12 @@
 
 > © 2025 The Local Lead Generation Blueprint. All rights reserved. Disclaimer: This is an educational product. Results depend on your effort, consistency, and implementation. We make no guarantees about income, client acquisition, or specific business outcomes. Individual results will vary. This product is for educational purposes only.
 
+### 3e. Related links & interaction
+
+- Related searches on the profile page: Local Lead Generation Blueprint | Earn 75% Commissions alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/639579
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Local%20Lead%20Generation%20Blueprint%20%7C%20Earn%2075%25%20Commissions
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)

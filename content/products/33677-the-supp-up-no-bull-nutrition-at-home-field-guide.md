@@ -52,6 +52,25 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Meal planning services charge $150-$200/month indefinitely. This guide gives you lifetime ownership in 2 hours of reading. That's $37.50/hour for research-backed, field-tested instruction vs. endless subscription fees.
+> Tired of logging every meal? This guide provides step-by-step instructions with a visual system. You'll know exactly what to put on your plate without an app.
+
+### 3c. Cautions
+
+> WARNING : The SUPP UP. No Bull Nutrition At Home Field Guide goes against what most nutrition guides tell you. Try not to get triggered and keep an open mind as the steps outlined will explain WHY you should be doing the opposite of what most guides dictate.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/33677-g1.webp
+
+### 3e. Related links & interaction
+
+- Related searches on the profile page: The SUPP UP. No Bull Nutrition At Home Field Guide alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.digistore24.com/product/338618
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20SUPP%20UP.%20No%20Bull%20Nutrition%20At%20Home%20Field%20Guide
+
 ## 4. Editorial notes
 
 (reserved for hands-on review notes — must be based on actual purchase and use; screenshots own)
