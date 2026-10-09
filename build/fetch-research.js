@@ -67,6 +67,25 @@ function extract(html) {
   const excerpts = [...html.matchAll(/<p[^>]*>([\s\S]{40,600}?)<\/p>/gi)]
     .map((m) => decode(m[1])).filter((t) => t.length > 80 && !/^(terms|privacy|copyright|©|all rights)/i.test(t));
 
+  // 兜底:div/section/li 等块级文本(funnel 页常不用 <p>)
+  let excerptOut = excerpts.slice(0, 4);
+  if (excerptOut.length < 3) {
+    const noScript = html.replace(/<script[\s\S]*?<\/script>/gi, " ").replace(/<style[\s\S]*?<\/style>/gi, " ")
+      .replace(/<(?:nav|footer|form|noscript)[\s\S]*?<\/(?:nav|footer|form|noscript)>/gi, " ");
+    const blocks = noScript.split(/<\/(?:div|section|li|td|blockquote)>/i)
+      .map((s) => decode(s.replace(/<[^>]+>/g, " ")))
+      .filter((t) => t.length > 100 && t.length < 600 && !/^(terms|privacy|copyright|©|all rights|cookie|log in|sign up)/i.test(t));
+    for (const b of blocks) {
+      if (excerptOut.length >= 4) break;
+      if (!excerptOut.some((x) => x.slice(0, 60) === b.slice(0, 60))) excerptOut.push(b);
+    }
+  }
+
+  // FAQ 问题(h3/strong/b 里以问号结尾的短句)
+  const faqQ = [...html.matchAll(/<(?:h3|h4|strong|b)[^>]*>([\s\S]{8,200}?)<\/(?:h3|h4|strong|b)>/gi)]
+    .map((m) => decode(m[1])).filter((t) => t.endsWith("?") && t.split(/\s+/).length > 3 && t.length < 160);
+  const faqQuestions = [...new Set(faqQ)].slice(0, 10);
+
   return {
     title: pick(/<title[^>]*>([\s\S]{3,300}?)<\/title>/i),
     metaDescription: metaContent("description"),
@@ -74,11 +93,13 @@ function extract(html) {
     ogImage: metaContent("og:image"),
     h1: heads("h1", 3),
     h2: heads("h2", 10),
+    h3: heads("h3", 8),
     priceMentions: prices,
     guaranteeMention: guarantee,
     checkoutLinks,
     ctaTexts: [...new Set(ctas)].slice(0, 6),
-    excerpt: excerpts.slice(0, 3),
+    excerpt: excerptOut,
+    faqQuestions,
     wordCount,
     quality: wordCount > 400 && (heads("h1", 1).length || prices.length) ? "rich" : wordCount > 120 ? "medium" : "thin",
   };
@@ -87,18 +108,29 @@ function extract(html) {
 async function fetchOne(p) {
   const url = p.salesPageUrl || "";
   if (!url || !/^https?:/i.test(url)) return { error: "no sales page url" };
-  const ctl = new AbortController();
-  const t = setTimeout(() => ctl.abort(), 15000);
+  const doFetch = async (u) => {
+    const ctl = new AbortController();
+    const t = setTimeout(() => ctl.abort(), 15000);
+    try {
+      return await fetch(u, {
+        signal: ctl.signal,
+        redirect: "follow",
+        headers: {
+          "user-agent": UA,
+          accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+          "accept-language": "en-US,en;q=0.9",
+        },
+      });
+    } finally { clearTimeout(t); }
+  };
   try {
-    const res = await fetch(url.replace(/^http:/i, "https:"), {
-      signal: ctl.signal,
-      redirect: "follow",
-      headers: {
-        "user-agent": UA,
-        accept: "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-        "accept-language": "en-US,en;q=0.9",
-      },
-    });
+    let res;
+    try {
+      res = await doFetch(url.replace(/^http:/i, "https:"));
+    } catch (e) {
+      if (/^http:\/\//i.test(url)) res = await doFetch(url); // https 不通时回退 http
+      else throw e;
+    }
     const ct = res.headers.get("content-type") || "";
     if (!res.ok) return { error: `HTTP ${res.status}`, quality: "thin" };
     if (!/html/i.test(ct)) return { error: `non-html: ${ct.slice(0, 40)}`, quality: "thin" };
@@ -107,7 +139,7 @@ async function fetchOne(p) {
     return { finalUrl: res.url, ...extract(html) };
   } catch (e) {
     return { error: String(e.name === "AbortError" ? "timeout" : e.message).slice(0, 80) };
-  } finally { clearTimeout(t); }
+  }
 }
 
 (async () => {

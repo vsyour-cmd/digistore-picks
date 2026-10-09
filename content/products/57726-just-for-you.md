@@ -32,6 +32,12 @@
 
 - **Page title:** Bottle Holder - Digistore24
 - **OG title:** Bottle Holder
+- **Section headlines (H3):**
+  - Bottle Holder
+  - Bottle
+  - Bottle Holder
+  - Bottle Holder
+  - Bottle
 - **Price mentions on page:** $10, $18.00, $5.59, $0.00, $18, $18.
 - **Page word count:** 192
 - **OG image:** https://www.digistore24.com/pb/webinc/9ddc0b8f/images/brand/digistore/defaults/product_thumb.png

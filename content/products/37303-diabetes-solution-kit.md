@@ -1,7 +1,7 @@
 # DIABETES SOLUTION KIT
 
 > Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](../../reviews/diabetes-solution-kit-37303.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,21 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 3 Drinks
+- **OG title:** Fix Blood Sugar - Watch Now
+- **Meta description:** Take control of your health. Discover how to use all-natural remedies to fix your blood sugar!
+- **Section headlines (H3):**
+  - In this video we cover:
+  - Scott Saunders, MD Medical & Nutrition Advisor
+- **Guarantee mention:** "90-day money back guarantee" (verify on the official page before relying on it)
+- **CTA button texts:** "Click herefor research references"
+- **Opening copy (first paragraphs):**
+  > PlaySkip BackwardSkip ForwardMuteCurrent Time /Duration Loaded: 0%Stream Type LIVESeek to live, currently behind liveLIVERemaining Time - 1xPlayback RateChaptersChaptersDescriptionsdescriptions off, selectedCaptionscaptions settings, opens captions settings dialogcaptions off, selectedAudio TrackPicture-in-PictureFullscreen
+  > TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaqueFont Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall CapsReset restore all settings to the default valuesDone
+  > TextColorWhiteBlackRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentText BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityOpaqueSemi-TransparentTransparentCaption Area BackgroundColorBlackWhiteRedGreenBlueYellowMagentaCyanOpacityTransparentSemi-TransparentOpaque
+  > Font Size50%75%100%125%150%175%200%300%400%Text Edge StyleNoneRaisedDepressedUniformDrop shadowFont FamilyProportional Sans-SerifMonospace Sans-SerifProportional SerifMonospace SerifCasualScriptSmall Caps
+- **Page word count:** 372
+- **OG image:** https://dndngvalp4jdj.cloudfront.net/fixbloodsugar.com/images/global/og-group-play.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

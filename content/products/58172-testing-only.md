@@ -32,8 +32,14 @@
 
 - **Page title:** this is just a test - Digistore24
 - **OG title:** this is just a test
+- **Section headlines (H3):**
+  - this is just a test
+  - Copy of this is just a test
+  - this is just a test
+  - this is just a test
+  - Copy of this is just a test
 - **Price mentions on page:** $10, $37.00, $10.00, $0.00, $37, $27
-- **Page word count:** 141
+- **Page word count:** 168
 - **OG image:** https://www.digistore24.com/pb/webinc/9ddc0b8f/images/brand/digistore/defaults/product_thumb.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

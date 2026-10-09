@@ -35,6 +35,18 @@
 - **Meta description:** Everything you need to start, plan, and grow your digital business — in one powerful bundle. ✅ Educational Guides ✅ Editable Templates ✅ Printable PDFs ✅ In Arabic & English 🎁 Includes 8 ready-to-use files 💻 Format: PDF + Markdown 🔘 Get Instant Access – Only $12,57
 - **Price mentions on page:** $12,57, $12.57
 - **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Whether you're a freelancer, content creator, coach, or aspiring entrepreneur — this kit is the perfect launchpad for your digital journey.
+  > Learn the fundamentals of digital marketing including content strategy, social media, email marketing, and analytics.
+  > A structured, fill-in-the-blank template to clarify your goals, revenue streams, target audience, and more.
+  > Empowering you to take decisive action and establish your digital presence with clarity and confidence.
+- **Questions the sales page answers:**
+  - Q1: Is this bundle suitable for beginners?
+  - Q2: What formats are included?
+  - Q3: Can I use the templates for my own clients?
+  - Q4: Do I need special software to use this bundle?
+  - Q5: Is there a money-back guarantee?
+  - Q6: When will I receive the product?
 - **Page word count:** 825
 - **OG image:** https://assets.api.gamma.app/4dqgsb1um92kwc1/screenshots/njggwudymnijisu/50ldrxcsrvnx00t/slide/luxoUQMWS1km2iot3HXzAERM0C4
 

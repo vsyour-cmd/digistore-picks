@@ -33,6 +33,13 @@
 
 - **Page title:** Top T - 5 bottles - Digistore24
 - **OG title:** Top T - 5 bottles
+- **Section headlines (H3):**
+  - Top T - 5 bottles
+  - Top T - 5 bottles
+  - Top T - 5 bottles
+  - Top T - 5 bottles
+  - Top T - 5 bottles
+  - Top T - 5 bottles
 - **Price mentions on page:** $10, $262.46, $0.00, $262.46,
 - **Page word count:** 166
 - **OG image:** https://www.digistore24.com/pb/img/merchant_2718508/image/product/1QHOQJ42.png

@@ -36,6 +36,11 @@
 - **CTA button texts:** "Get Started"
 - **Digistore24 checkout links found:**
   - https://www.digistore24.com/product/319147
+- **Opening copy (first paragraphs):**
+  > --> Ordinary People All Over the World Are Using this “One Weird Trick” To Win Playing at Slots - Casinos are PISSED!
+  > Get Started | Slot Machine System Members | Disclaimer | Anti-Spam Policy | Privacy | Terms and Conditions |
+  > 2020 © Digistore24 Inc, United States Inc. and/or its licensors. Review legal terms of use here and privacy policy here. Contact us here.
+  > Legal Disclaimer: Most of Slot Machine System customers will not win substantial money from slots, and you should not expect to win substantial money using Slot Machine System or following the program. We provide advice on the best way to play each game to have the best odds possible of winning. These testimonials do not reflect the typical user's experience. This website and the Slot Machine System product are for informational and entertainment purposes only and do not constitute investing advice. Please play at the casino responsibly and seek help if you have a gambling problem. <!--
 - **Page word count:** 200
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

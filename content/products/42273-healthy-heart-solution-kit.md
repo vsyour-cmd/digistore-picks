@@ -1,7 +1,7 @@
 # Healthy Heart Solution Kit
 
 > Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](../../reviews/healthy-heart-solution-kit-42273.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,23 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Island Cleanse
+- **OG title:** Healthy Heart Solution - Watch Now
+- **Meta description:** Take control of your health. Discover how to use all-natural remedies to fix your blood sugar!
+- **Final URL after redirects:** https://healthyheartsolution.com/ptn/digi/1
+- **Headline (H1):**
+  > Why lowering the number isn't the whole story (and what to do instead)
+  > Take Full Advantage of Barton's 100% NO RISK MONEY BACK GUARANTEE
+- **Section headlines (H3):**
+  - Scott Saunders, MD Medical & Nutrition Advisor
+  - In this video we cover:
+- **Opening copy (first paragraphs):**
+  > Why lowering the number isn't the whole story (and what to do instead) Your Video Is Playing Click To Unmute Powered by Vidalytics
+  > Disillusioned with the current state of affairs in modern healthcare, Dr. Saunders decided to leave the traditional world of medicine to start his own clinic in Santa Barbara county in California. He graduated from UCLA Medical School, but grew frustrated with "the system" which didn't allow much for alternative remedies - even though he knew they were more effective with less side effects. He is now the director of The Integrative Medicine Center of Santa Barbara, which balances conventional medicine with alternative healing modalities to achieve optimal wellness.
+  > In this video we cover: The forgotten island ritual that helps keep arteries clear. Why lowering blood pressure and cholesterol isn't the full solution. A quick 1-minute Harvard test to gauge your heart risk. Three common "healthy" habits that may quietly raise your risk
+  > Take Full Advantage of Barton's 100% NO RISK MONEY BACK GUARANTEE The Healthy Heart Solution Kit comes with a 365 Day, 100% Money Back Guarantee. That means if you change your mind about this decision at any point in the next 365 days... all you need to do is contact our US based Customer Service and we will refund your purchase. We're so excited to have you join the hundreds of thousands of people who have already changed their lives with The Healthy Heart Solution Kit.
+- **Page word count:** 410
+- **OG image:** https://dndngvalp4jdj.cloudfront.net/healthyheartsolution.com/images/global/og-group-play.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

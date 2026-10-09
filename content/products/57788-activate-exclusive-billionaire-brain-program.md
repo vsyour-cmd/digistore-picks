@@ -1,7 +1,7 @@
 # Activate exclusive billionaire brain program
 
 > Product ID `57788` · Digistore24 productId `716442` · [HTML profile page](../../reviews/activate-exclusive-billionaire-brain-program-57788.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -28,7 +28,13 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 404: This page could not be found
+- **Final URL after redirects:** https://activateexclusivebillionairebrainprogram-zf3.plannerpack.co/
+- **Headline (H1):**
+  > 404
+- **Section headlines (H2):**
+  - This page could not be found .
+- **Page word count:** 15
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

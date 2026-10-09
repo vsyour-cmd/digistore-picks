@@ -1,7 +1,7 @@
 # ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale
 
 > Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](../../reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,21 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Secret Gift For You
+- **Meta description:** Wait! This Page Only Appears Once!
+- **Headline (H1):**
+  > If you leave this page you WON'T get your:
+- **Section headlines (H2):**
+  - - or -
+  - Working...
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/283755?aff=kate28422
+- **Opening copy (first paragraphs):**
+  > If you leave this page you WON'T get your: 30-Day Keto Meal Plan Complete Keto Food List 77 Keto Dessert Recipes ​100 Keto Carb Recipes CUSTOM JAVASCRIPT / HTML Stay On This Page
+  > Your Download Button Will Appear [Here] In A Few Seconds... Your Keto Gift Package Will Be Unlocked In... 00Hour04Minutes45Seconds Get Ready To Download Your Keto Kickstart Package... Watch the whole video! Your Recipes Can't Be Guaranteed Past Oct 10, 2026
+  > CUSTOM JAVASCRIPT / HTML - or - YES! I Want To Start My Free TRIALPay $0 now, and $29 after 7 days 00Hour00Minute20Seconds 00Hour02Minutes00Second 00Hour05Minutes55Seconds
+  > Rest easy knowing that all purchases are backed by our 60-day money-back guarantee. If for any reason you're not satisfied with your product, simply contact us at info@cj-caldwell.com for a hassle-free refund.
+- **Page word count:** 59
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

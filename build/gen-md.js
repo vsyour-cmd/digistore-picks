@@ -66,11 +66,13 @@ for (const p of DATA.products) {
     if (r.finalUrl && r.finalUrl !== p.salesPageUrl) lines.push(`- **Final URL after redirects:** ${r.finalUrl}`);
     if (r.h1 && r.h1.length) { lines.push(`- **Headline (H1):**`); r.h1.forEach((h) => lines.push(`  > ${h}`)); }
     if (r.h2 && r.h2.length) { lines.push(`- **Section headlines (H2):**`); r.h2.forEach((h) => lines.push(`  - ${h}`)); }
+    else if (r.h3 && r.h3.length) { lines.push(`- **Section headlines (H3):**`); r.h3.forEach((h) => lines.push(`  - ${h}`)); }
     if (r.priceMentions && r.priceMentions.length) lines.push(`- **Price mentions on page:** ${r.priceMentions.join(", ")}`);
     if (r.guaranteeMention) lines.push(`- **Guarantee mention:** "${r.guaranteeMention}" (verify on the official page before relying on it)`);
     if (r.ctaTexts && r.ctaTexts.length) lines.push(`- **CTA button texts:** ${r.ctaTexts.map((t) => `"${t}"`).join(", ")}`);
     if (r.checkoutLinks && r.checkoutLinks.length) { lines.push(`- **Digistore24 checkout links found:**`); r.checkoutLinks.forEach((u) => lines.push(`  - ${u}`)); }
     if (r.excerpt && r.excerpt.length) { lines.push(`- **Opening copy (first paragraphs):**`); r.excerpt.forEach((t) => lines.push(`  > ${t}`)); }
+    if (r.faqQuestions && r.faqQuestions.length) { lines.push(`- **Questions the sales page answers:**`); r.faqQuestions.forEach((q) => lines.push(`  - ${q}`)); }
     lines.push(`- **Page word count:** ${r.wordCount}`);
     if (r.ogImage) lines.push(`- **OG image:** ${r.ogImage}`);
   } else if (r && r.error) {

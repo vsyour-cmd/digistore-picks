@@ -32,9 +32,18 @@
 
 - **Page title:** The Power of Positive Thinking - Digistore24
 - **OG title:** The Power of Positive Thinking
+- **Section headlines (H3):**
+  - The Power of Positive Thinking
+  - The Power of Positive Thinking
+  - The Power of Positive Thinking
 - **Price mentions on page:** $10, €3.58
 - **CTA button texts:** "Buy now"
-- **Page word count:** 519
+- **Opening copy (first paragraphs):**
+  > 1 – How to make your attitude your ally How to progress, make the most of it and take advantage of some of the precious things that life has to offer…
+  > 2 – The Power of Positive Thinking How to Deal with Frustrating Moments and Transform Bad Situations into a Productive Environment!
+  > 3 – Secrets of innovative thinking exposed Deriving new inventions and ideas from innovative thinking…
+  > 4 – How to adopt creative thinking How to generate innovative ideas and add value to your organizational skills…
+- **Page word count:** 516
 - **OG image:** https://www.digistore24.com/pb/img/merchant_3519510/image/product/M7MI49OR.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

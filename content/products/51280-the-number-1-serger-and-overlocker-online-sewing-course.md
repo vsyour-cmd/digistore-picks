@@ -1,7 +1,7 @@
 # The Number 1 Serger and Overlocker Online Sewing Course
 
 > Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](../../reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,32 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Serger overlocker course - sewing lessons - love your serger
+- **Headline (H1):**
+  > Your Serger Sewing Course "Love Your Serger" - Learn Professional Serger Sewing from Home
+- **Section headlines (H2):**
+  - That's what more than 14,000 happy students say
+  - What to expect
+  - What you’ll learn in the course:
+  - Projects shared by our happy students
+  - Enjoy the freedom and joy of an online serger course
+  - Your serger online sewing course “Love your serger” is suitable for beginners and advanced sewers
+  - You get a 60-day money-back guarantee
+  - Sign up now for your course!
+  - Learn with your course tutor, Nicole
+  - Do you still have questions about your course?
+- **Price mentions on page:** $169, $15, $199, $67, $24
+- **Guarantee mention:** "60-day money-back guarantee" (verify on the official page before relying on it)
+- **CTA button texts:** "Add to cart"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/561361?currency=USD&?utm_campaign=spabcontrolvaa
+- **Opening copy (first paragraphs):**
+  > To provide the best experiences, we use technologies like cookies to store and/or access device information. Consenting to these technologies will allow us to process data such as browsing behavior or unique IDs on this site. Not consenting or withdrawing consent, may adversely affect certain features and functions.
+  > Functional Functional Always active The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+  > The technical storage or access is strictly necessary for the legitimate purpose of enabling the use of a specific service explicitly requested by the subscriber or user, or for the sole purpose of carrying out the transmission of a communication over an electronic communications network.
+  > Preferences Preferences The technical storage or access is necessary for the legitimate purpose of storing preferences that are not requested by the subscriber or user.
+- **Page word count:** 2548
+- **OG image:** https://www.your-creatory.com/wp-content/uploads/2026/03/thread-tension-masterclass.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

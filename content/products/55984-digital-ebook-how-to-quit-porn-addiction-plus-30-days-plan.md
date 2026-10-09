@@ -32,8 +32,17 @@
 
 - **Page title:** DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan - Digistore24
 - **OG title:** DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan
+- **Section headlines (H3):**
+  - DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan
+  - DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan
+  - DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan
 - **Price mentions on page:** $10, €22.00, €22
 - **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan - Digistore24
+  > 675871 DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan Angular equivalent:
+  > Product Price 675871 DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan Angular equivalent:
+  > 1x DIGITAL BOOK HIJACKED How Porn Rewires Your Brain — and How to Take Control Back + 30 days plan You will receive the e-book to download
 - **Page word count:** 235
 - **OG image:** https://www.digistore24.com/pb/img/merchant_5372380/image/product/RL42K122.png
 

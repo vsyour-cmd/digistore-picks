@@ -32,8 +32,17 @@
 
 - **Page title:** 7X | Bundle Undiscovered Secrets of Coaching Business Succes - Digistore24
 - **OG title:** 7X | Bundle Undiscovered Secrets of Coaching Business Succes
+- **Section headlines (H3):**
+  - 7X | Bundle Undiscovered Secrets of Coaching Business Succes
+  - 7X | Bundle Undiscovered Secrets of Coaching Business Succes
+  - 7X | Bundle Undiscovered Secrets of Coaching Business Succes
 - **Price mentions on page:** $10, €4.99
 - **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > Bestseller with a powerful knowledge of world-class Coaches bundled in 7 E-Books : Coaching Business Success
+  > Product Price 523814 7X | Bundle Undiscovered Secrets of Coaching Business Succes Angular equivalent:
+  > 1x 7X | Bundle Undiscovered Secrets of Coaching Business Succes You will receive the e-book to download
+  > Vendor and contractual partner is Digistore24 GmbH. Our Terms and Conditions and our Return Policy apply.
 - **Page word count:** 866
 - **OG image:** https://www.digistore24.com/pb/img/merchant_274839/image/product/ZR981Y2F.png
 

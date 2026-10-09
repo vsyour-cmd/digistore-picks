@@ -33,6 +33,8 @@
 
 - **Page title:** Claritrix — Weighted Decision Scorecards for B2B Teams
 - **Meta description:** Turn vendor selection, hiring, and business & finance decisions into weighted scorecards your team can defend. Runs in the browser — no account needed.
+- **Opening copy (first paragraphs):**
+  > Claritrix — Weighted Decision Scorecards for B2B Teams so it's available as early as possible (matches Reddit's own install guidance); the Plerdy tag it was asked to sit "alongside" is actually in near the closing tag, not — see the BEGIN/END PLERDY CODE block below. Left Plerdy exactly where it is; this is additive only. -->
 - **Page word count:** 167
 - **OG image:** https://claritrix.io/landing/og-image-v2.png
 

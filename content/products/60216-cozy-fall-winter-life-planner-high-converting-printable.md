@@ -32,9 +32,18 @@
 
 - **Page title:** 2026-2027 Cozy Fall and Winter Life and Habit Planner - Digistore24
 - **OG title:** 2026-2027 Cozy Fall and Winter Life and Habit Planner
+- **Section headlines (H3):**
+  - 2026-2027 Cozy Fall and Winter Life and Habit Planner
+  - 2026-2027 Cozy Fall and Winter Life and Habit Planner
+  - 2026-2027 Cozy Fall and Winter Life and Habit Planner
 - **Price mentions on page:** $10, $14.99, $7.99
 - **CTA button texts:** "Buy now"
-- **Page word count:** 476
+- **Opening copy (first paragraphs):**
+  > Stay organized, focused, and mindful throughout autumn and winter! This 5-page printable and editable Canva template is designed with a warm neutral aesthetic.
+  > Features: Instant Digital Download, High-Resolution Printable PDF (A4/US Letter), and 100% Editable Canva Template Link.
+  > 1x 2026-2027 Cozy Fall and Winter Life and Habit Planner You will receive the product to download or as a video stream
+  > Vendor and contractual partner is Digistore24 GmbH. Our Terms and Conditions and our Return Policy apply.
+- **Page word count:** 479
 - **OG image:** https://www.digistore24.com/pb/img/merchant_5932695/image/product/LFRHOSKS.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

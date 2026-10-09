@@ -32,8 +32,12 @@
 
 - **Page title:** Test Slimming - Digistore24
 - **OG title:** Test Slimming
+- **Section headlines (H3):**
+  - Test Slimming
+  - Test Slimming
+  - Test Slimming
 - **Price mentions on page:** $10, €44.70, €0.00
-- **Page word count:** 102
+- **Page word count:** 100
 - **OG image:** https://www.digistore24.com/pb/webinc/9ddc0b8f/images/brand/digistore/defaults/product_thumb.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

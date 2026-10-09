@@ -32,8 +32,15 @@
 
 - **Page title:** Unchosen Encounter - Digistore24
 - **OG title:** Unchosen Encounter
+- **Section headlines (H3):**
+  - Unchosen Encounter
+  - Unchosen Encounter
 - **Price mentions on page:** $10, $12.99
 - **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Unchosen Encounter is a contemporary, character-driven romantic drama about two people brought together by a meeting neither of them chose.
+  > Through slow-burn tension, emotional distance, and a connection that develops gradually, the story explores choice, compatibility, and the uncertain path toward a shared life.
+  > If you are not satisfied with your purchase for any reason, you may request a full refund within 60 days of the purchase date by contacting Digistore24 customer support.
 - **Page word count:** 272
 - **OG image:** https://www.digistore24.com/pb/img/merchant_5712431/image/product/MA3JWIQ6.jpg
 

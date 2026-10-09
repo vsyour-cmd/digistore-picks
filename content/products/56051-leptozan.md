@@ -1,7 +1,7 @@
 # Leptozan
 
 > Product ID `56051` · Digistore24 productId `644649` · [HTML profile page](../../reviews/leptozan-56051.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,39 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Home
+- **Headline (H1):**
+  > Discover The Dead Sea Secret To Healthy Weight Loss
+  > Discover The Dead Sea Secret To Healthy Weight Loss
+- **Section headlines (H2):**
+  - Natural Weight Loss Designed For Your Body
+  - Harness The Power Of These Research-Backed Dead Sea Minerals
+  - Claim Your Discounted LEPTOZAN Now While Supplies Last!
+  - 2 for You
+  - Best Offer!
+  - 3 for You
+  - Your Leptozan Guarantee
+  - Frequently Asked Questions
+  - Do I need to change my lifestyle to see results?
+  - Is Leptozan safe for daily use?
+- **Price mentions on page:** $79, $200, $158, $49, $780, $294, $69, $360, $207
+- **Guarantee mention:** "90 Days Guarantee" (verify on the official page before relying on it)
+- **CTA button texts:** "BUY NOW", "BUY NOW Basic Offer!", "BUY NOW Best Offer!", "BUY NOW Good Offer!", "click here"
+- **Opening copy (first paragraphs):**
+  > Discover The Dead Sea Secret To Healthy Weight Loss Finally, The Easiest Way To Achieve Your Dream Body BUY NOW Discover The Dead Sea Secret To Healthy Weight Loss BUY NOW Finally, The Easiest Way To Achieve Your Dream Body
+  > Discover The Dead Sea Secret To Healthy Weight Loss Finally, The Easiest Way To Achieve Your Dream Body BUY NOW
+  > Discover The Dead Sea Secret To Healthy Weight Loss BUY NOW Finally, The Easiest Way To Achieve Your Dream Body
+  > Natural Weight Loss Designed For Your Body Use LEPTOZAN to kickstart your fat-burning processes in a healthy, natural way.
+- **Questions the sales page answers:**
+  - Do I need to change my lifestyle to see results?
+  - Is Leptozan safe for daily use?
+  - When can I expect to notice changes?
+  - Can Leptozan be taken alongside my current diet plan?
+  - How much Leptozan should I buy for the best results?
+  - What if I don’t get the results I was hoping for?
+  - How long does shipping take?
+  - How should I take Leptozan for maximum effectiveness?
+- **Page word count:** 1655
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

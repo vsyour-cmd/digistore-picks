@@ -32,7 +32,15 @@
 
 - **Page title:** Dietary Supplement - Digistore24
 - **OG title:** Dietary Supplement
+- **Section headlines (H3):**
+  - Dietary Supplement
+  - Accessory 1
+  - Dietary Supplement
+  - Dietary Supplement
+  - Accessory 1
 - **Price mentions on page:** $10, $37.00, $4.99, $0.00, $37, $40
+- **Opening copy (first paragraphs):**
+  > 1x Dietary Supplement You receive the software as a download, SaaS (Software as a Service), or licence key.
 - **Page word count:** 179
 - **OG image:** https://www.digistore24.com/pb/webinc/9ddc0b8f/images/brand/digistore/defaults/product_thumb.png
 

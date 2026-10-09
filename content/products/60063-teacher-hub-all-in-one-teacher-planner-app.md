@@ -1,7 +1,7 @@
 # Teacher Hub: All-in-One Teacher Planner App
 
 > Product ID `60063` · Digistore24 productId `736454` · [HTML profile page](../../reviews/teacher-hub-all-in-one-teacher-planner-app-60063.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,8 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Teacher Hub
+- **Page word count:** 2
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -1,7 +1,7 @@
 # Gluco Ally
 
 > Product ID `50336` · Digistore24 productId `576400` · [HTML profile page](../../reviews/gluco-ally-50336.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,8 +31,7 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-- **Page title:** Loading...
-- **Page word count:** 1
+> Sales page not yet researched. This section will be filled by the next research run.
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

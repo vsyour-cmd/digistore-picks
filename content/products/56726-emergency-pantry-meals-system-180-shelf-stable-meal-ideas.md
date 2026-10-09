@@ -1,7 +1,7 @@
 # Emergency Pantry Meals System - 180+ Shelf-Stable Meal Ideas
 
 > Product ID `56726` · Digistore24 productId `696111` · [HTML profile page](../../reviews/emergency-pantry-meals-system-180-shelf-stable-meal-ideas-56726.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,15 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 请稍候…
+- **Headline (H1):**
+  > emergencypantrymeals.com
+- **Section headlines (H2):**
+  - 正在进行安全验证
+  - 验证成功。正在等待 emergencypantrymeals.com 响应
+- **Opening copy (first paragraphs):**
+  > emergencypantrymeals.com正在进行安全验证本网站使用安全服务防护恶意自动程序。在验证您不是自动程序期间，将显示此页面。验证成功。正在等待 emergencypantrymeals.com 响应<div class="h2"><span id="challenge-error-text">Enable JavaScript and cookies to continue</span></div>
+- **Page word count:** 10
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

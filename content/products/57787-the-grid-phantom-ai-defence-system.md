@@ -37,6 +37,8 @@
 - **Guarantee mention:** "60" (verify on the official page before relying on it)
 - **Digistore24 checkout links found:**
   - https://www.digistore24.com/product/692950
+- **Opening copy (first paragraphs):**
+  > Grid Phantom - Protect Against AI Mini Documentary Explains The Horror of AI That The Elites Are Hiding From You…
 - **Page word count:** 63
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

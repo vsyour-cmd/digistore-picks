@@ -1,7 +1,7 @@
 # A Journey with the Living Letters – Illustrated Children’s e
 
 > Product ID `58932` · Digistore24 productId `720098` · [HTML profile page](../../reviews/a-journey-with-the-living-letters-illustrated-children-s-e-58932.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -32,9 +32,17 @@
 
 - **Page title:** A Journey with the Living Letters - Digistore24
 - **OG title:** A Journey with the Living Letters
+- **Section headlines (H3):**
+  - A Journey with the Living Letters
+  - A Journey with the Living Letters
 - **Price mentions on page:** $10, $12.99
 - **Guarantee mention:** "60" (verify on the official page before relying on it)
-- **Page word count:** 466
+- **Opening copy (first paragraphs):**
+  > A Journey with the Living Letters is an illustrated English children's eBook designed to introduce young readers to letters, words, and early reading through an imaginative story.
+  > This purchase includes the digital EPUB edition only. No physical product will be shipped. After successful payment, the eBook will be available for download.
+  > This is a digital product (EPUB eBook). No physical product will be shipped. After successful payment, your download will be available instantly.
+  > If you are not satisfied with your purchase for any reason, you may request a full refund within 60 days of the purchase date by contacting Digistore24 customer support.
+- **Page word count:** 330
 - **OG image:** https://www.digistore24.com/pb/img/merchant_5712431/image/product/IXX3YIX3.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

@@ -1,7 +1,7 @@
 # Pagewheel: AI Product and Funnel Builder | SAAS + Training
 
 > Product ID `54999` · Digistore24 productId `653506` · [HTML profile page](../../reviews/pagewheel-ai-product-and-funnel-builder-saas-training-54999.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,7 +30,33 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Pagewheel — Get Your Sales Page Built in Minutes
+- **Meta description:** Describe what you sell in one sentence — and Pagewheel instantly builds you a high-converting sales page and automated delivery funnel in minutes.
+- **Headline (H1):**
+  > You Have Something to Sell. Get a Landing Page That Converts in Minutes.
+- **Section headlines (H2):**
+  - From Idea to Live Landing Page in Minutes
+  - What One Sentence Turns Into
+  - Stop Paying For 5 Different Tools. Pagewheel is the Ultimate All-in-One Solution
+  - Still On the Fence? See How Pagewheel Stacks Up
+  - Why Coaches, Authors, and Digital Creators Love Pagewheel
+  - We Don't Just Give You the Tools. We Give You the Coaching & Community to Succeed.
+  - Stop Preparing to Sell. Start Selling This Afternoon.
+  - Stop Staring at a Blank Screen. Get Your Landing Page Built in Minutes.
+  - Frequently Asked Questions
+- **Price mentions on page:** $97, $297, $49, $199, $10, $47, $20, $99, $29, $150, $15, $50
+- **Guarantee mention:** "30" (verify on the official page before relying on it)
+- **CTA button texts:** "Try Pagewheel Free for 7 Days &rarr;", "Start My 7-Day Free Trial &rarr;"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/653506?plan=1439623&amp;hide_plans
+  - https://www.digistore24.com/product/653506?plan=1439623&amp;hide_plans&amp;_gl=1*i6jdc3*_gcl_au*MTI5MDEzNDQ4MS4xNzg2NDc5Njcz*_ga*ODgxMjY3Njg5LjE3ODY0Nzk2NzE.*_ga_RGC73SR3CS*czE3ODY2Mjk0NDgkbzEyJGcxJHQxNzg2NjM0ODEyJGo2MCRsMCRoMTk5MDAzNjc4Mw..*_fplc*MGlWblRVOWpLRTVza045NGw2cXZVZmFocThrbEtESHJMSDBGUmpLTWI5USUyQlZBRjRBWW5Hd2U5Q2IlMkJWNzFlaFU1MlFzdHJoQzhQcGg4amZaVjg4ZEREb1NLZkc3WlA3ZDVIT05zMmt6aHMlMkZoZWVvbFIyendHTXU4aTElMkY2SEElM0QlM0Q.*_ga_VB0W1PLC6M*czE3ODY2Mjk0NDgkbzEyJGcxJHQxNzg2NjM0ODEyJGo2MCRsMCRoNDMxNDc0MDM0
+  - https://www.digistore24.com/product/653506?plan=1439623&hide_plans
+- **Opening copy (first paragraphs):**
+  > Describe what you sell in one sentence and Pagewheel instantly builds you a high-converting landing page, secure checkout, and automated delivery funnel in minutes.
+  > Describe your product in one sentence No lengthy briefs. No complicated prompts. Just tell Pagewheel what you sell.
+  > AI builds your page — copy, design & funnel Our AI writes conversion-optimized copy, designs a beautiful, converting page, and assembles your full funnel — in under 2 minutes.
+  > Connect your payment provider. Checkout, product delivery, and welcome emails are handled automatically.
+- **Page word count:** 1559
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

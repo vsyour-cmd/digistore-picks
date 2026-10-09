@@ -32,8 +32,16 @@
 
 - **Page title:** Progressing Backward and Rising to the Bottom - Digistore24
 - **OG title:** Progressing Backward and Rising to the Bottom
+- **Section headlines (H3):**
+  - Progressing Backward and Rising to the Bottom
+  - Progressing Backward and Rising to the Bottom
+  - Progressing Backward and Rising to the Bottom
 - **Price mentions on page:** $10, $12.99
 - **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > Progressing Backward... and Rising to the Bottom is a symbolic and reflective work of social fiction about success, loss, ambition, and the hidden meaning of falling “to the bottom.”
+  > This is a digital product (EPUB eBook). No physical product will be shipped. After successful payment, your download will be available instantly.
+  > If you are not satisfied with your purchase for any reason, you may request a full refund within 60 days of the purchase date by contacting Digistore24 customer support.
 - **Page word count:** 459
 - **OG image:** https://www.digistore24.com/pb/img/merchant_5712431/image/product/95PJVI4E.jpg
 

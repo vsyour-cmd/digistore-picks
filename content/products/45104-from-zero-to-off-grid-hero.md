@@ -1,7 +1,7 @@
 # From Zero To Off-Grid Hero
 
 > Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,37 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Live The Off-Grid Dream Course & Consulting
+- **Meta description:** How to Bring Your Off-Grid Dream To Life...
+- **Final URL after redirects:** https://www.livingtheoffgriddream.com/thank-you-568651501691020030497
+- **Headline (H1):**
+  > Get The System We Used To Find Land And Build An Off-Grid Homestead, Retreat & Farm That Earns Nearly Passive Income... Starting With No Money.
+  > + See How This Has Worked For Other People Too
+  > (Bonus ending soon)
+- **Section headlines (H2):**
+  - ⭐⭐⭐⭐⭐Over 4500 people helped, in 21 countries
+  - This training will increase to $197. Get it for...
+  - You get unlimited access + our Strategy eBook
+  - How to raise money to buy land: rent-to-own, investors (and how to keep buy-back rights and control), crowdfunding, and using the land to cover it's own cost. And how to find land for $1 down and low monthly payments. See client stories below!
+  - How to use the government mapping systems to find land with no-zoning that you can do almost whatever you want on. Unlimited structures and people, no by-laws, don't need a license to make money on it, etc.
+  - The tool we use to generate six figures per year on our land. How to take all your ideas and measure which one will work best. What we do for income and how we nearly automate it so we can spend time on things we enjoy.
+  - How to get expert help (for free) you create your vision in areas that you don't know how. And how to find people to help take the workload off you so you can spend time doing what you enjoy.
+  - How to make sure your property has good water. What equipment to use (or to avoid) for generating your own power. What structures to get first, how to fund them even if you're starting from nothing.
+  - How to design your land using permaculture methods so you do things right the first time and don't break the budget. Keeping your land protected from wildfires and operating efficiently.
+  - These folks raised funds within 90 days after working with us to get their dream properties.
+- **Price mentions on page:** $197., $17, $400,000, $200,000, $180., $30
+- **Guarantee mention:** "refund within 60 day" (verify on the official page before relying on it)
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/510033
+- **Opening copy (first paragraphs):**
+  > Get The System We Used To Find Land And Build An Off-Grid Homestead, Retreat & Farm That Earns Nearly Passive Income... Starting With No Money. + See How This Has Worked For Other People Too (Bonus ending soon)
+  > Get The System We Used To Find Land And Build An Off-Grid Homestead, Retreat & Farm That Earns Nearly Passive Income... Starting With No Money.
+  > This is for you if you want to get land, start a homestead, have rental income, a retreat centre, regenerative farm, or community and live in alignment with nature. The world needs more of this! We bought 160 acres and our own mountain and did exactly that. Even though we started out broke. I recorded a virtual training that shows you how we (and many others) have done it. It covers raising money, finding land, generating an income, making it passive, finding people to help you... Water, power, structures... what to buy, what NOT to, and how to save money. Ready to make this actually happen?
+  > The world needs more of this! We bought 160 acres and our own mountain and did exactly that. Even though we started out broke. I recorded a virtual training that shows you how we (and many others) have done it. It covers raising money, finding land, generating an income, making it passive, finding people to help you... Water, power, structures... what to buy, what NOT to, and how to save money. Ready to make this actually happen?
+- **Questions the sales page answers:**
+  - Wanna Talk To Someone On Our Team?
+- **Page word count:** 1494
+- **OG image:** https://www.livingtheoffgriddream.com/hosted/images/bf/65465d88664689b997c1f68a5d989b/RemoteMediaFile_6553865_0_2021_07_18_18_52_34.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

@@ -36,6 +36,9 @@
 - **Final URL after redirects:** https://calmfuture.online/
 - **Price mentions on page:** $31
 - **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > A simple, step-by-step guide to interrupt overthinking, calm your nervous system, and restore mental clarity.
+  > Your thoughts, emotions, and energy shape your reality. When your mind is stuck in overthinking, it blocks clarity, peace, and manifestation.
 - **Page word count:** 547
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

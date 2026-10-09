@@ -30,10 +30,16 @@
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-- **Page title:** Golden Pet Paradise - Digistore24
-- **OG title:** Golden Pet Paradise
-- **Price mentions on page:** $10, $27.00, $0.00, $27
-- **Page word count:** 123
+- **Page title:** All in 1 Pet Supreme Food - All Life Stages - Digistore24
+- **OG title:** All in 1 Pet Supreme Food - All Life Stages
+- **Section headlines (H3):**
+  - All in 1 Pet Supreme Food - All Life Stages
+  - Golden Pet Paradise
+  - All in 1 Pet Supreme Food - All Life Stages
+  - All in 1 Pet Supreme Food - All Life Stages
+  - Golden Pet Paradise
+- **Price mentions on page:** $10, $270.00, $0.00, $270
+- **Page word count:** 217
 - **OG image:** https://www.digistore24.com/pb/webinc/9ddc0b8f/images/brand/digistore/defaults/product_thumb.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
