@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Category guides expanded to all categories (blog 13→42 pages EN), internal-link audit completed (fixed monthly-new orphan), schema-rating skipped honestly (no verifiable rating data). Credibility scores: all page types >=60.",
+      "changes": [
+        "29 new EN category data guides (every category with 5+ offers)",
+        "Internal-link audit tool added (audit-inlinks.js); monthly-new orphan fixed via sitewide footer link",
+        "QA: all gates green across 6271 pages"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Credibility overhaul: publisher Organization on every page, evidence & verification-conditions box on every product page, linked FAQ answers, category FAQs with FAQPage JSON-LD, image sitemap, full-text RSS, monthly-new page, llms-full.txt. Credibility audit: all 6240 pages now score >=60 (products 100/100).",
       "changes": [
         "Schema: Product sku/itemCondition/seller/intended-use; Organization with address & sameAs on every page",

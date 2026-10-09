@@ -103,7 +103,7 @@ ${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Rankings on this page are computed from official Digistore24 marketplace statistics and are not a forecast of your results or an endorsement of outcomes.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${UPDATED}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${UPDATED}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="${rel}/monthly-new.html">New this month</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -174,7 +174,7 @@ ${tableRows(list)}
 
 // ---------- 文章2: 大分类指南 ----------
 function categoryGuides() {
-  const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Food Supplements", "Software", "Dating, Relationships & Romance", "Family & Children", "Social Media"];
+  const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
   for (const label of majors) {
     const cat = DATA.categories.find((c) => c.label === label);
     if (!cat) continue;
@@ -276,7 +276,7 @@ function blogIndex() {
     ["top-20-highest-earning-digistore24-products.html", "The 20 highest-earning Digistore24 products (by the numbers)", `All ${DATA.total} English offers ranked by official earnings-per-sale. Auto-refreshed.`],
     ["digistore24-numbers-checklist.html", "Before you buy (or promote): a 6-point numbers check", "The method behind every profile on this site — usable on any offer you're evaluating."],
   ];
-  const majors = ["Health & Fitness", "Personal Development", "Business & Investment", "Education", "Online Marketing & E-Business", "Food Supplements", "Software", "Dating, Relationships & Romance", "Family & Children", "Social Media"];
+  const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
   for (const label of majors) {
     const cat = DATA.categories.find((c) => c.label === label);
     if (!cat) continue;

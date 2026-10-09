@@ -263,7 +263,7 @@ function homePage() {
 <ul>
 <li>${DATA.total} English-language Digistore24 offers tracked across ${DATA.categories.length} categories.</li>
 <li>Every page labels its evidence: official marketplace stats vs vendor sales-page claims.</li>
-<li>New here? Start with the top list below or the <a href="blog/digistore24-numbers-checklist.html">6-point evaluation method</a>.</li>
+<li>New here? Start with the top list below, the <a href="monthly-new.html">newest offers</a>, or the <a href="blog/digistore24-numbers-checklist.html">6-point evaluation method</a>.</li>
 </ul></div>
 <h2>Top products by affiliate earnings per sale</h2>
 <p class="sub">Ranked by marketplace-reported earnings per sale. Official marketplace statistics, not our predictions.</p>
