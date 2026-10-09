@@ -109,11 +109,11 @@ ${top.map((p) => productCard(p)).join("\n")}
 ${cats
   .map(
     (c) =>
-      `<a href="${BASE}/category/${c.slug}.html"><span>${esc(c.label)}</span><span class="n">${c.count} products</span></a>`
+      `<a href="category/${c.slug}.html"><span>${esc(c.label)}</span><span class="n">${c.count} products</span></a>`
   )
   .join("\n")}
 </div>
-<p class="sub" style="margin-top:26px">Looking for honest, hands-on reviews? See our <a href="${BASE}/reviews/index.html">review index</a> — every review is labeled by how it was researched.</p>`;
+<p class="sub" style="margin-top:26px">Looking for honest, hands-on reviews? See our <a href="reviews/index.html">review index</a> — every review is labeled by how it was researched.</p>`;
   fs.writeFileSync(outPath("index.html"), layout({ title: `${SITE_NAME} — Digistore24 product directory & reviews`, desc: `Directory of ${DATA.total} Digistore24 products with official price, commission and conversion data. Independent reviews.`, body }));
 }
 
@@ -135,7 +135,7 @@ function categoryPages() {
     const items = withSlug.filter((p) => (p.categoryIds || []).includes(String(c.catId)));
     const body = `
 <h1>${esc(c.label)}</h1>
-<p class="sub">${items.length} product${items.length === 1 ? "" : "s"} in this Digistore24 marketplace category · Part of: ${esc(c.section)} · <a href="${BASE}/../index.html">all categories</a></p>
+<p class="sub">${items.length} product${items.length === 1 ? "" : "s"} in this Digistore24 marketplace category · Part of: ${esc(c.section)} · <a href="../index.html">all categories</a></p>
 <div class="grid">
 ${items.map((p) => productCard(p, "..")).join("\n")}
 </div>
@@ -187,7 +187,7 @@ ${p.description ? `Vendor's own description: “${esc(p.description)}”` : ""}<
   const written = articleIds.size
     ? `<h2>Hands-on reviews</h2><ul>${[...articleIds].map((id) => {
         const p = withSlug.find((x) => String(x.id) === String(id));
-        return p ? `<li><a href="${BASE}/${p.slug}.html">${esc(p.label)}</a> — hands-on</li>` : "";
+        return p ? `<li><a href="${p.slug}.html">${esc(p.label)}</a> — hands-on</li>` : "";
       }).join("")}</ul>`
     : "";
   const profileList = chosen.map((p) => `<li><a href="${p.slug}.html">${esc(p.label)}</a> — data profile (${money(p.earningsPerSale, p.currency)} earnings/sale, ${pct(p.commission)} commission)</li>`).join("\n");
