@@ -123,3 +123,12 @@ node build/ping-indexnow.js       # 德语目录名版(kategorie/empfehlungen/al
 - 改进清单: G:/Digistore24/improvements-backlog.json(每项 {id, site: both/en/de, title, done, doneDate})。每日取第一个未完成且匹配的项执行,完成标记 done+doneDate;失败的标记 done+note 并顺延下一项。
 - 每日总结: 两站 build/changelog.json 顶部插入今日条目 {date, summary, changes[]},保留≤60条;build-site 渲染为公开页 /changelog.html(What's new / Neuigkeiten),页脚有入口,sitemap 收录。
 - QA 门禁(qa-links.js): 死链=0、模板泄漏=0、标题>70=0、DE无correction残留。不过不提交。
+
+
+## Reddit 发帖轮换(每日)
+
+- 轮换映射: G:/Digistore24/research-notes/reddit-rotation.json(14条,产品↔subreddit↔角度)
+- 问题库: research-notes/reddit-questions-{en|de-market}.md(每产品20问:认知/对比/决策×身份×场景)
+- 每日任务第9步: dayOfYear % 14 取今日条目 → 结合近期数据变化起草 标题/内容/sub链接/关联产品
+- 发帖三规则: 读sub规则(常见9:1) → 如实披露affiliate身份 → 价值优先不发广告帖
+- 红线: 不冒充用户发假问题;AI模拟内容如实标注
