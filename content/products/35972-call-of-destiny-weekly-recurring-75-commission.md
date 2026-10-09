@@ -63,6 +63,15 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Privacy Terms Scientific References Contact Us Disclaimer Refunds Affiliates &copy; 2026 All Rights Reserved. CallOfDestiny.org
+> Facebook Disclaimer: This website is not a part of Facebook or Facebook Inc. Additionally, this site is Not endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK Inc.
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: serimon, listed since 2021-01-26

@@ -14,7 +14,7 @@ categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-10-28"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "rich"
 promo_link: "https://www.leptozan.com/ds/newdiscovery/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.leptozan.com/ds/newdiscovery/"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # Explode Your Earnings with Leptozan • Fat Burner Science
 
 > Product ID `54630` · Digistore24 productId `644659` · [HTML profile page](../../reviews/explode-your-earnings-with-leptozan-fat-burner-science-54630.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,37 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Leptozan
+- **Final URL after redirects:** https://www.leptozan.com/ds/newdiscovery/?v=vsl02b
+- **Headline (H1):**
+  > Doctor Reveals A Strange Dead Sea SecretThat Melts Pounds Overnight
+- **Section headlines (H2):**
+  - Claim Your Discounted LEPTOZAN Now While Supplies Last!
+  - 2 for You
+  - Best Offer!
+  - 3 for You
+  - Your Leptozan Guarantee
+  - Frequently Asked Questions
+  - Do I need to change my lifestyle to see results?
+  - Is Leptozan safe for daily use?
+  - When can I expect to notice changes?
+  - Can Leptozan be taken alongside my current diet plan?
+- **CTA button texts:** "BUY NOW Basic Offer!", "BUY NOW Best Offer!", "BUY NOW Good Offer!", "click here"
+- **Opening copy (first paragraphs):**
+  > Over 35 And Can't Lose Belly Fat? Doctor Reveals A Strange Dead Sea SecretThat Melts Pounds Overnight (and How to Activate This "Switch" Before Going Bed Today!)
+  > Claim Your Discounted LEPTOZAN Now While Supplies Last! 2 for You 60 Days, 2 Bottles $79Per Bottle You save $200! 90 Days Guarantee BUY NOW Basic Offer! TOTAL: $158 + 9.95 Shipping Best Offer! 180 Days, 6 Bottles $49Per Bottle You save $780! Biggest Discount 90 Days Guarantee BUY NOW Best Offer! TOTAL: $294 Free Shipping 3 for You 90 Days, 3 Bottles $69Per Bottle You save $360! 90 Days Guarantee BUY NOW Good Offer! TOTAL: $207 Free Shipping
+  > 2 for You 60 Days, 2 Bottles $79Per Bottle You save $200! 90 Days Guarantee BUY NOW Basic Offer! TOTAL: $158 + 9.95 Shipping Best Offer! 180 Days, 6 Bottles $49Per Bottle You save $780! Biggest Discount 90 Days Guarantee BUY NOW Best Offer! TOTAL: $294 Free Shipping 3 for You 90 Days, 3 Bottles $69Per Bottle You save $360! 90 Days Guarantee BUY NOW Good Offer! TOTAL: $207 Free Shipping
+  > 2 for You 60 Days, 2 Bottles $79Per Bottle You save $200! 90 Days Guarantee BUY NOW Basic Offer! TOTAL: $158 + 9.95 Shipping
+- **Questions the sales page answers:**
+  - Do I need to change my lifestyle to see results?
+  - Is Leptozan safe for daily use?
+  - When can I expect to notice changes?
+  - Can Leptozan be taken alongside my current diet plan?
+  - How much Leptozan should I buy for the best results?
+  - What if I don’t get the results I was hoping for?
+  - How long does shipping take?
+  - How should I take Leptozan for maximum effectiveness?
+- **Page word count:** 620
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

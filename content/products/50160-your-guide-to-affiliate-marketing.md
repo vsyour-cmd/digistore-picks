@@ -77,6 +77,20 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Recognize frequent beginner mistakes before they become habits that waste time, attention or traffic.
+> By the time you finish working through it, you should have a clearer picture of what deserves your attention next.
+> Important: Your Guide to Affiliate Marketing is an educational digital product. No income, commissions, sales, leads, traffic, conversions or business results are guaranteed. Results vary and depend on factors including your niche, audience, offers, traffic sources, content, implementation, testing and consistency. Payment and product access are processed through Digistore24 and are subject to the terms presented during checkout.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/50160-g1.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-19

@@ -79,6 +79,19 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Skip to Paragraph section content Yo, listen up! When it comes to launching your new product, you gotta get it right from the jump. That’s where our New Product Approval Test on September 11th steps in, ready to level up your game. This ain't just another test—it's a step-by-step blueprint designed to crush your goals and make sure your product hits the streets with maximum impact.
+> Enroll now and tap into a system built for winners. With our step-by-step approach, you’ll see your product not just approved, but dominating the shelves. Remember, success favors the prepared—so get in on September 11th, and let’s make moves together!
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59126-g2.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: team24-mmichalowski, listed since 2026-09-11

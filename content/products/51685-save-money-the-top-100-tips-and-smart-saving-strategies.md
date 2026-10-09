@@ -70,6 +70,18 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Welcome to the world of smart saving! 🏦💡 In times of rising costs and economic uncertainty, managing money wisely is more important than ever. But how do you save effectively without sacrificing your quality of life?
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51685-g1.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-03-09

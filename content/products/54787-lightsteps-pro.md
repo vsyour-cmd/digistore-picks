@@ -77,6 +77,21 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> This step-by-step protocol is your personal mobility coach, designed to unlock tight hips, help with flexibility, and make every step feel effortless.
+
+### 3c. Cautions
+
+> Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54787-g1.webp
+- assets/products/54787-g2.webp
+- assets/products/54787-g3.webp
+- assets/products/54787-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: LightStepsPro, listed since 2025-11-28

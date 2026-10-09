@@ -70,6 +70,18 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> In this book, we've compiled the top 100 tips against procrastination for you. These tips are based on proven methods and the latest insights from psychology and neuroscience. They are practical, easy to implement, and most importantly – they work! ✅
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/51683-g1.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-03-09

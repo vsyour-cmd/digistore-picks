@@ -72,6 +72,20 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Thoughts create reality. You shape and form reality based on your imagination. With “Imagination,” you have a guided instruction manual for creating circumstances and situations out of your heart.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/54832-g1.webp
+- assets/products/54832-g3.webp
+- assets/products/54832-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Matrixreport, listed since 2025-10-18

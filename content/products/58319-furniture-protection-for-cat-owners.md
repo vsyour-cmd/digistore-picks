@@ -79,6 +79,19 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Download our step-by-step guide to install no-fail barriers and deterrents.
+
+### 3c. Cautions
+
+> Stop risking your furniture with ineffective solutions. Access proven strategies that keep cats off your furniture without sacrificing their happiness. This resource offers straightforward tips backed by Results may vary depending on individual effort and circumstances..
+> Results may vary depending on individual effort and circumstances.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58319-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: decodivagmm4506, listed since 2026-08-12

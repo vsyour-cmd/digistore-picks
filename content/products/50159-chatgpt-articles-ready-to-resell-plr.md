@@ -76,6 +76,15 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Read the article and the supplied PLR license before deciding how to use it.
+
+### 3c. Cautions
+
+> Perform a final accuracy and quality review before using or selling the finished asset.
+> Important: The actual license delivered with the product is the authoritative source for permissions and restrictions. No downstream right to sell PLR rights themselves is promised here unless the supplied license explicitly permits it.
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-21

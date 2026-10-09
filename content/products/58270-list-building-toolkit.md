@@ -77,6 +77,18 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Skip to Heading section content Need More Support? Join Growth Club for Coaches & Consultants by September 25 & Take Advantage of Founding Member Pricing, Grandfathered for Life!
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/58270-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: nimollc, listed since 2026-08-10

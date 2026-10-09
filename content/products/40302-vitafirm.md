@@ -22,7 +22,7 @@ language: "en"
 # VitaFirm
 
 > Product ID `40302` · Digistore24 productId `443930` · [HTML profile page](../../reviews/vitafirm-40302.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,6 +52,8 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
+- **Page title:** ...
+- **Final URL after redirects:** https://depressively.com/go/3272938?ref=&subid1=&subid2=vitafirmsecret.com
 - **Page word count:** 0
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

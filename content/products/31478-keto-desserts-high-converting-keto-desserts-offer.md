@@ -71,6 +71,18 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Step-by-step instructions for creating every single delicious recipe
+
+### 3c. Cautions
+
+> So, go ahead and reach for another cookie, a second slice of cake, or a third scoop of ice cream because although it’s still important to not binge on these perfect desserts, you don’t have to feel guilty because even one serving can help curb cravings.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/31478-g1.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: raposo1, listed since 2019-10-24

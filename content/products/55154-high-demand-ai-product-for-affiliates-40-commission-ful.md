@@ -66,6 +66,21 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Not at all. The content was designed with simplicity and clarity in mind — no technical background needed. You’ll be guided step by step.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/55154-g1.webp
+- assets/products/55154-g2.webp
+- assets/products/55154-g3.webp
+- assets/products/55154-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-08-02

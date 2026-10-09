@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Browser-render retry for unreachable sales pages: 6 EN offers recovered (Internet Millionaire, Sales Page Ready, Dance School leads, Dead Sea Secret, Black Ox, more). Truly dead domains stay labeled as such.",
+      "changes": [
+        "6 EN + 16 DE offers recovered from unreachable/thin to real research via browser rendering",
+        "Research coverage now: EN 1210/1243, DE 3720+/4271",
+        "Backlog item render-retry completed"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Image galleries extended to the top 2000 offers by earnings: 475 products now show real sales-page imagery (up from 431). German site: 620 products (up from 385).",
       "changes": [
         "Galleries added to 44 more EN offers and 235 more DE offers (fetched from vendor sales pages, compressed to WebP)",

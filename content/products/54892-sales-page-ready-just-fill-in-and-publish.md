@@ -22,7 +22,7 @@ language: "en"
 # Sales Page Ready Just Fill In and Publish
 
 > Product ID `54892` · Digistore24 productId `650825` · [HTML profile page](../../reviews/sales-page-ready-just-fill-in-and-publish-54892.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -54,13 +54,16 @@ language: "en"
 
 - **Page title:** Sales Page Generator – Instant Access - Digistore24
 - **OG title:** Sales Page Generator – Instant Access
-- **Price mentions on page:** $10, €536.38, €399.61
+- **Section headlines (H3):**
+  - Sales Page Generator – Instant Access
+- **Price mentions on page:** $600.00,, $447.00, $600.00
 - **CTA button texts:** "Buy now"
 - **Opening copy (first paragraphs):**
-  > Sales Page Ready Just Fill In and Publish – Create professional and responsive sales pages in minutes.
-  > Featuring ready-to-use templates, image/video support, a benefit builder, testimonials, FAQs, countdown timers, shareable page links for promotion, and full HTML export.
-  > Sales Page Ready Just Fill In and Publish – Create professional and responsive sales pages in minutes.
-- **Page word count:** 326
+  > This version of the order form is not public yet. There is a newer version of this order form that is not public yet. .publish-message-msg { position: absolute; top: 0; width: 100%; background: orange; text-align: center; padding: 5px 3px; z-index: 5; } #publish-message-outdated, #publish-message-not_published { display: none; }
+  > 650825Sales Page Generator – Instant Access Here is the translation including the additional information: Sales Page Ready Just Fill In and Publish – Create professional and responsive sales pages in minutes. Featuring ready-to-use templates, image/video support, a benefit builder, testimonials, FAQs, countdown timers, shareable page links for promotion, and full HTML export. Instant access. No subscription. Works on all devices.PriceRegular price $600.00, now $447.00$447.00$600.00Total$447.00Express CheckoutOr
+  > 650825Sales Page Generator – Instant Access Here is the translation including the additional information: Sales Page Ready Just Fill In and Publish – Create professional and responsive sales pages in minutes. Featuring ready-to-use templates, image/video support, a benefit builder, testimonials, FAQs, countdown timers, shareable page links for promotion, and full HTML export. Instant access. No subscription. Works on all devices.PriceRegular price $600.00, now $447.00$447.00$600.00
+  > Here is the translation including the additional information: Sales Page Ready Just Fill In and Publish – Create professional and responsive sales pages in minutes. Featuring ready-to-use templates, image/video support, a benefit builder, testimonials, FAQs, countdown timers, shareable page links for promotion, and full HTML export. Instant access. No subscription. Works on all devices.
+- **Page word count:** 312
 - **OG image:** https://www.digistore24.com/pb/img/merchant_4856566/image/product/E4SQLMTH.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

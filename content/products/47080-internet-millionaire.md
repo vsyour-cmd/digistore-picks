@@ -65,6 +65,11 @@ language: "en"
   - ✅ How this fits alongside a normal job or schedule...
   - Working...
 - **CTA button texts:** "Join the Webinar Now Watch the FREE Presentation"
+- **Opening copy (first paragraphs):**
+  > +1 (United States) +61 (Australia) +43 (Austria) +32 (Belgium) +55 (Brazil) +1 (Canada) +86 (China) +57 (Colombia) +506 (Costa Rica) +45 (Denmark) +20 (Egypt) +358 (Finland) +33 (France) +49 (Germany) +30 (Greece) +852 (Hong Kong) +91 (India) +62 (Indonesia) +353 (Ireland) +39 (Italy) +81 (Japan) +60 (Malaysia) +52 (Mexico) +31 (Netherlands) +64 (New Zealand) +47 (Norway) +234 (Nigeria) +63 (Philippines) +48 (Poland) +351 (Portugal) +40 (Romania) +65 (Singapore) +27 (South Africa) +82 (South Korea) +34 (Spain) +46 (Sweden) +41 (Switzerland) +886 (Taiwan) +44 (United Kingdom) Other
+  > Next webinar session starting... 00Hour04Minutes59Seconds After watching this FREE webinar, you'll be able to: ✅ How to spot simple digital product ideas people already pay for ✅ What to create first (and what to ignore) to avoid overcomplicating ✅ The easiest digital product formats to start with — no tech required ✅ How one product can be sold repeatedly without constant creation ✅ A clear path from idea → product → first sales ✅ How this fits alongside a normal job or schedule... Join the Webinar Now Watch the FREE Presentation
+  > After watching this FREE webinar, you'll be able to: ✅ How to spot simple digital product ideas people already pay for ✅ What to create first (and what to ignore) to avoid overcomplicating ✅ The easiest digital product formats to start with — no tech required ✅ How one product can be sold repeatedly without constant creation ✅ A clear path from idea → product → first sales ✅ How this fits alongside a normal job or schedule... Join the Webinar Now Watch the FREE Presentation
+  > This site is not a part of the Facebook website or Facebook Inc. Additionally, This site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.
 - **Page word count:** 336
 - **OG image:** https://www.internetmillionaire.com/hosted/images/02/394007403e40099c32d8dbea70bd3f/thumbnail.png
 

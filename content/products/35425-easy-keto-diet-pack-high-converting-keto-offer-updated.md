@@ -77,6 +77,20 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> The keto diet, for instance, is one of the most effective diets for losing weight, but most people don't know how to start it. Since it requires you to basically reject the standard American diet, many dieters have no clue how to go about the keto diet.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/35425-g2.webp
+- assets/products/35425-g3.webp
+- assets/products/35425-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: health4woman, listed since 2021-01-08

@@ -76,6 +76,20 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> You keep showing up for everyone else, but your goals are still waiting. Put Yourself Back On The List is a step by step program designed to help you reclaim your time, rebuild your confidence, and create progress you can actually sustain. Here is the surprising truth: prioritizing yourself is not selfish; it is the foundation for better work, stronger relationships, and lasting growth. Follow the structure, take consistent action, and watch your next chapter take shape.
+> This step-by-step program gives you a clear path to reset your priorities, rebuild your confidence, and take real action. No overwhelm. No vague advice. Just practical tools, honest reflection, and steady progress you can feel.
+> Put Yourself Back On The List gives you a clear, step-by-step path to stop putting your needs last and start creating meaningful change. You’ll gain practical tools, renewed confidence, and the momentum to prioritize yourself without guilt. Enroll today and turn feeling stuck, depleted, and overlooked into a life where you feel energized, empowered, and fully present.
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60204-g2.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: JettVitalWomen, listed since 2026-10-05

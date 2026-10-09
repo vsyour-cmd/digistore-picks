@@ -22,7 +22,7 @@ language: "en"
 # Black Ox - Hardcore Test Enhancer
 
 > Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](../../reviews/black-ox-hardcore-test-enhancer-44566.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -54,12 +54,15 @@ language: "en"
 
 - **Page title:** Black Ox Testosterone Booster - Digistore24
 - **OG title:** Black Ox Testosterone Booster
-- **Price mentions on page:** $10, $68.39, $0.00
+- **Section headlines (H3):**
+  - Black Ox Testosterone Booster
+- **Price mentions on page:** $68.39, $0.00, $7.01, $75.40
 - **Opening copy (first paragraphs):**
+  > This version of the order form is not public yet. There is a newer version of this order form that is not public yet. .publish-message-msg { position: absolute; top: 0; width: 100%; background: orange; text-align: center; padding: 5px 3px; z-index: 5; } #publish-message-outdated, #publish-message-not_published { display: none; }
+  > 502452Black Ox Testosterone Booster Black Ox's comprehensive two-in-one formula utilizes 11 scientifically proven substances in full therapeutic dosages to naturally enhance testosterone and regulate estrogen, thereby removing the metabolites that can cause health concerns like water retention and gynecomastia. This formula is "two-in-one," meaning that it is effective for both hard-core and natural users. Don't make the mistake of believing that Black Ox is only suitable for hardcore users.Price1234567891010+$68.39
+  > Black Ox's comprehensive two-in-one formula utilizes 11 scientifically proven substances in full therapeutic dosages to naturally enhance testosterone and regulate estrogen, thereby removing the metabolites that can cause health concerns like water retention and gynecomastia. This formula is "two-in-one," meaning that it is effective for both hard-core and natural users. Don't make the mistake of believing that Black Ox is only suitable for hardcore users.
   > Black Ox's comprehensive two-in-one formula utilizes 11 scientifically proven substances in full therapeutic dosages to naturally enhance testosterone and regulate estrogen, thereby removing the metabolites that can cause health concerns like water retention and gynecomastia. This formula is "two-in-one," meaning that it is effective for both hard-core and natural users.
-  > Don't make the mistake of believing that Black Ox is only suitable for hardcore users.
-  > Black Ox's comprehensive two-in-one formula utilizes 11 scientifically proven substances in full therapeutic dosages to naturally enhance testosterone and regulate estrogen, thereby removing the metabolites that can cause health concerns like water retention and gynecomastia. This formula is "two-in-one," meaning that it is effective for both hard-core and natural users.
-- **Page word count:** 361
+- **Page word count:** 348
 - **OG image:** https://www.digistore24.com/pb/img/merchant_2718508/image/product/5ANJ5ID5.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

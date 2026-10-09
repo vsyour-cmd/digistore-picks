@@ -82,6 +82,18 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Whether you offer coaching, consulting, creative services, education, or professional support, your business should reflect the quality of what you provide. That starts with a clear message, a strong presence, and an experience that makes people feel confident choosing you.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/59146-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: tornikeinjgiaaa87, listed since 2026-09-12

@@ -69,6 +69,23 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> "Unlock the Secrets on How to Use LinkedIn to Generate Targeted Leads and Dramatically Increase Sales for Your Business"
+> "Unlock the Secrets on How to Use LinkedIn to Generate Targeted Leads and Dramatically Increase Sales for Your Business"
+> If you're ready to ditch the excuses and finally tap into the power of LinkedIn, you're in luck, because I've compiled a comprehensive guide that will show you how to use LinkedIn to generate targeted leads and dramatically increase sales for your business.
+
+### 3c. Cautions
+
+> Learn why it's important to measure and monitor the results of your marketing efforts on LinkedIn.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/34351-g1.webp
+- assets/products/34351-g2.webp
+- assets/products/34351-g3.webp
+- assets/products/34351-g4.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: familiensparplan, listed since 2020-09-25

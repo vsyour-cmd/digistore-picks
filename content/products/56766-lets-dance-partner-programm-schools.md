@@ -14,7 +14,7 @@ categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
 listed_since: "2026-05-31"
 marketplace_data_date: "2026-10-09"
 research_date: "2026-10-09"
-research_quality: "none"
+research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/693097/adminstore"
 sales_page: "https://lets-dance.net/en-US/premium-sales-schools?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # Lets-Dance - Partner Programm Schools
 
 > Product ID `56766` · Digistore24 productId `693097` · [HTML profile page](../../reviews/lets-dance-partner-programm-schools-56766.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,24 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Premium for Dance Schools – More Inquiries in Your City | Lets-Dance
+- **Meta description:** More visibility and more inquiries for your dance school. With Premium and Premium Plus on Lets-Dance.
+- **Headline (H1):**
+  > More Inquiries for Your Dance School
+- **Section headlines (H2):**
+  - Become a Premium Member
+  - What's included?
+  - Direct sales
+  - Frequently Asked Questions
+- **Price mentions on page:** $39, $79, $0.49
+- **CTA button texts:** "Start for free"
+- **Opening copy (first paragraphs):**
+  > For dance schoolsMore Inquiries for Your Dance SchoolPremium ensures your profile and events are visible where dancers are actually searching.
+  > Higher ranking in search results.Your events appear automatically in the Lets-Dance newsletter.Up to 7 active events at a time (24 with Premium Plus). Courses and regular socials are unlimited.Direct contact from dancers in your region.Early access to new features for dance schools.
+  > Free€03 one-off active events at a timeUnlimited courses & socialsEvents on city pages1 own video in the dance feedEvents in Newsletter & Lets-Dance Social Channels1 trial-lesson or course enquiry / month freeAll booking requests for your eventsStart for free
+  > 3 one-off active events at a timeUnlimited courses & socialsEvents on city pages1 own video in the dance feedEvents in Newsletter & Lets-Dance Social Channels1 trial-lesson or course enquiry / month freeAll booking requests for your eventsStart for free
+- **Page word count:** 539
+- **OG image:** https://pics.lets-dance.net/design/large/dancing-people-default.webp
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 

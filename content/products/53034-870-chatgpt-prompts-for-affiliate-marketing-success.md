@@ -80,6 +80,20 @@ language: "en"
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3b. Usage (vendor claims, not verified by us)
+
+> Use AI as a starting point for exploring products, positioning, audience questions and research directions that still require verification.
+
+### 3c. Cautions
+
+> Better results usually come from adding relevant context, reviewing the response and applying human judgment before using AI-generated material in your business.
+> Important: The license delivered with the product is the authoritative source for all permitted and restricted uses. Review it before editing, distributing or reselling the material.
+> Do I need advanced ChatGPT experience? No. The prompts provide starting structures that can be used by beginners as well as marketers who already use AI. Adding your own context and reviewing the output is still important.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/53034-g1.webp
+
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-06-20
