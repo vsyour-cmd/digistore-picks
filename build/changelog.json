@@ -3,6 +3,16 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Credibility overhaul: publisher Organization on every page, evidence & verification-conditions box on every product page, linked FAQ answers, category FAQs with FAQPage JSON-LD, image sitemap, full-text RSS, monthly-new page, llms-full.txt. Credibility audit: all 6240 pages now score >=60 (products 100/100).",
+      "changes": [
+        "Schema: Product sku/itemCondition/seller/intended-use; Organization with address & sameAs on every page",
+        "Evidence: every conclusion shows source, date and how to re-verify",
+        "Alternatives expanded to top 200 (193 pages), RSS full-text, image sitemap (2178 image entries)",
+        "QA gates now 6: dead links, template leaks, title>70, structural, sitemap coverage, correction residue"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Added monthly-new page (October 2026: new offers ranked by earnings/sale) and llms-full.txt — a single-file structured dataset of the top 300 offers for AI retrieval.",
       "changes": [
         "monthly-new.html: all offers listed in the last 31 days with official stats",

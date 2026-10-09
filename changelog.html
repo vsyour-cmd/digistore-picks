@@ -18,7 +18,7 @@
 <link rel="alternate" type="application/atom+xml" title="Blog feed" href="./feed.xml">
 <link rel="stylesheet" href="./assets/style.css">
 <link rel="alternate" hreflang="de" href="https://vsyour-cmd.github.io/digistore-picks-de/"><link rel="alternate" hreflang="en" href="https://vsyour-cmd.github.io/digistore-picks/">
-
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","name":"adminstore","url":"https://vsyour-cmd.github.io/digistore-picks/","email":"admin@2bkf.com","description":"Independent publisher of DigistorePicks, a directory of Digistore24 marketplace products with verifiable marketplace data and labeled sales-page research.","address":{"@type":"PostalAddress","streetAddress":"Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui","addressLocality":"Kowloon","addressRegion":"Kowloon","postalCode":"999077","addressCountry":"HK"},"sameAs":["https://github.com/vsyour-cmd/digistore-picks","https://vsyour-cmd.github.io/digistore-picks-de/"]}</script>
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -34,6 +34,9 @@
 <main id="main" class="wrap">
 <h1>What's new on DigistorePicks</h1>
 <p class="sub">Every improvement, logged daily. Marketplace data refreshes automatically each morning; the numbers across the site update with it.</p>
+<h2>2026-10-10</h2>
+<p>Credibility overhaul: publisher Organization on every page, evidence &amp; verification-conditions box on every product page, linked FAQ answers, category FAQs with FAQPage JSON-LD, image sitemap, full-text RSS, monthly-new page, llms-full.txt. Credibility audit: all 6240 pages now score &gt;=60 (products 100/100).</p>
+<ul><li>Schema: Product sku/itemCondition/seller/intended-use; Organization with address &amp; sameAs on every page</li><li>Evidence: every conclusion shows source, date and how to re-verify</li><li>Alternatives expanded to top 200 (193 pages), RSS full-text, image sitemap (2178 image entries)</li><li>QA gates now 6: dead links, template leaks, title&gt;70, structural, sitemap coverage, correction residue</li></ul>
 <h2>2026-10-10</h2>
 <p>Added monthly-new page (October 2026: new offers ranked by earnings/sale) and llms-full.txt — a single-file structured dataset of the top 300 offers for AI retrieval.</p>
 <ul><li>monthly-new.html: all offers listed in the last 31 days with official stats</li><li>llms-full.txt: 300 products in compact machine-readable lines</li><li>Both pages added to the sitemap</li></ul>

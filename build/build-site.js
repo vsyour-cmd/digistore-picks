@@ -88,6 +88,28 @@ const TYPE_USAGE_EN = {
 
 const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
+// 发布者 Organization 实体(全站每页注入,AI/Google 实体识别)
+const ORG_LD = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "adminstore",
+  url: SITE_URL + "/",
+  email: "admin@2bkf.com",
+  description: "Independent publisher of DigistorePicks, a directory of Digistore24 marketplace products with verifiable marketplace data and labeled sales-page research.",
+  address: {
+    "@type": "PostalAddress",
+    streetAddress: "Room 70, Unit 10B, 7/F, Tower B, New Mandarin Plaza, 14 Science Museum Road, Tsim Sha Tsui",
+    addressLocality: "Kowloon",
+    addressRegion: "Kowloon",
+    postalCode: "999077",
+    addressCountry: "HK",
+  },
+  sameAs: [
+    "https://github.com/vsyour-cmd/digistore-picks",
+    "https://vsyour-cmd.github.io/digistore-picks-de/",
+  ],
+};
+
 function crumbs(items) {
   return `<nav class="crumbs" aria-label="Breadcrumb">${items
     .map((c, i) => (i === items.length - 1 ? `<span>${esc(c.label)}</span>` : `<a href="${c.href}">${esc(c.label)}</a>`))
@@ -111,6 +133,7 @@ const capDesc = (s, max = 158) => {
 };
 
 function layout({ title, desc, body, rel = ".", path = "", ogType = "website", ogImage = null, jsonLd = [], crumb = null, hreflangLinks = "" }) {
+  const allLd = [ORG_LD, ...jsonLd];
   const canonical = SITE_URL + "/" + path;
   const ogImg = ogImage
     ? (ogImage.startsWith("http") ? ogImage : SITE_URL + "/" + ogImage.replace(/^(\.\.\/)+/, ""))
@@ -133,7 +156,7 @@ ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitt
 <link rel="alternate" type="application/atom+xml" title="Blog feed" href="${rel}/feed.xml">
 <link rel="stylesheet" href="${rel}/assets/style.css">
 ${hreflangLinks}${VERIFY_META}
-${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
+${allLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
 <a class="skip-link" href="#main">Skip to content</a>
@@ -188,7 +211,7 @@ function productCard(p, rel = ".") {
 }
 
 const products = DATA.products
-  .map((p) => ({ ...p, slug: slug(p.label) + "-" + p.id }))
+  .map((p) => ({ ...p, label: p.label || `Digistore24 product ${p.id}`, slug: slug(p.label || `product-${p.id}`) + "-" + p.id }))
   .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
 const byId = new Map(products.map((p) => [String(p.id), p]));
 
@@ -236,6 +259,12 @@ function homePage() {
   const body = `
 <h1>Digistore24 products, sorted by the numbers</h1>
 <p class="sub">An independent directory of ${DATA.total} English-language products in the Digistore24 marketplace — ${DATA.categories.length} categories, official pricing and commission data, sales-page research on ${DATA.withResearch} offers. Marketplace data refreshed ${datemark(DATA.scrapedAt)}.</p>
+<div class="tldr"><b>At a glance</b> (data of ${datemark(DATA.scrapedAt)}):
+<ul>
+<li>${DATA.total} English-language Digistore24 offers tracked across ${DATA.categories.length} categories.</li>
+<li>Every page labels its evidence: official marketplace stats vs vendor sales-page claims.</li>
+<li>New here? Start with the top list below or the <a href="blog/digistore24-numbers-checklist.html">6-point evaluation method</a>.</li>
+</ul></div>
 <h2>Top products by affiliate earnings per sale</h2>
 <p class="sub">Ranked by marketplace-reported earnings per sale. Official marketplace statistics, not our predictions.</p>
 <div class="grid">
@@ -301,6 +330,9 @@ ${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
         })),
       };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Short on time? See <a href="../best-of/best-${c.file}.html">our best picks in ${esc(c.label)}</a> — computed from the same data.</p>` : "";
+      const tldrBlock = idx === 0 && isRealCat && items.length >= 8 ? `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>` : "";
+      const methodLine = `<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>.</p>`;
+      const evidenceLine = `<p class="sub">Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); always verify current prices on official pages.</p>`;
       const body = `
 <h1>${esc(c.label)}</h1>
 <p class="sub">${items.length} product${items.length === 1 ? "" : "s"} · Part of: ${esc(c.section)}${pageSub} · <a href="../index.html">all categories</a> · <a href="../reviews/index.html">all products A–Z</a></p>
@@ -311,6 +343,9 @@ ${chunk.map((p) => productCard(p, "..")).join("\n")}
 </div>
 ${pager(idx)}
 ${idx === 0 ? faqBlock : ""}
+${tldrBlock}
+${methodLine}
+${evidenceLine}
 <p class="sub" style="margin-top:22px">* Marketplace statistics are reported by Digistore24 for the vendor's traffic and depend on traffic quality; they are not a forecast of your results.</p>`;
       const jsonLd = [
         ...(idx === 0 ? [faqLd] : []),
@@ -489,6 +524,8 @@ ${galleryBlock(p)}
 
 ${cautionSection(p)}
 
+${evidenceBox(p)}
+
 ${faqBlock}
 
 ${relatedBlock}
@@ -527,14 +564,22 @@ ${stickyCta}`;
         name: p.label,
         description: (p.research && p.research.metaDescription) || p.description || `${p.label} — ${p.type} on the Digistore24 marketplace`,
         ...(localImg ? { image: SITE_URL + "/" + localImg.path } : {}),
+        sku: "DS24-" + p.productId,
         brand: { "@type": "Brand", name: p.vendorName },
         category: (p.categories || [])[0] || "Uncategorized",
+        additionalProperty: [{
+          "@type": "PropertyValue",
+          name: "Intended use",
+          value: (TYPE_USAGE_EN[p.type] || `Delivered digitally via Digistore24 after checkout; see the vendor's sales page for exact usage.`).split(";")[0].trim(),
+        }],
         offers: {
           "@type": "Offer",
           price: Number(Number(p.price).toFixed(2)),
           priceCurrency: p.currency === "EUR" ? "EUR" : "USD",
           availability: "https://schema.org/InStock",
+          itemCondition: "https://schema.org/NewCondition",
           url: `${SITE_URL}/reviews/${p.slug}.html`,
+          seller: { "@type": "Organization", name: p.vendorName },
         },
       },
       {
@@ -877,6 +922,20 @@ Found a wrong number? <a href="mailto:admin@2bkf.com?subject=${mail}">Report a c
 }
 
 // FAQ:答案全部来自官方市场数据(计算)或厂商销售页宣称(标注),不编造;答案内嵌真实内链
+// 证据与验证条件:每类结论 → 来源 → 日期 → 读者自查路径
+function evidenceBox(p) {
+  const res = p.research && !p.research.error;
+  const srcPage = res ? (p.research.finalUrl || p.salesPageUrl) : p.salesPageUrl;
+  const method = res && p.research.method === "browser-render" ? "browser-rendered" : "raw HTML";
+  return `<div class="tldr"><b>Evidence base & verification conditions</b>
+<ul>
+<li><b>Marketplace figures</b> (price, commission, conversion, cancel rate) — source: official Digistore24 marketplace API, affiliate view, snapshot <b>${datemark(DATA.scrapedAt)}</b>. Re-check: marketplace search for product ID ${p.productId}.</li>
+<li><b>Sales-page quotes & headline</b> — source: ${esc(srcPage || "official sales page")}, fetched <b>${datemark(DATA.researchedAt) || "—"}</b> (method: ${method}). Verify: open the official page.</li>
+<li><b>Guarantee / refund</b> — set by the vendor; confirm on the sales page at purchase time.</li>
+<li><b>Not verified by us:</b> product quality, outcomes, testimonials — no hands-on test has been performed for this listing.</li>
+</ul></div>`;
+}
+
 function faqData(p, altData) {
   const gm = p.research && !p.research.error && p.research.guaranteeMention;
   const q = encodeURIComponent(p.label);
@@ -913,11 +972,16 @@ function faqData(p, altData) {
     q: `Where can I buy ${p.label} safely?`,
     a: `Only through the <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">official sales page</a> linked on this site (checkout and refunds run via Digistore24). Verify the price and guarantee there before ordering. That link is an affiliate link — buying through it supports this site at no extra cost to you.`,
   });
+  qas.push({
+    q: `How do I get ${p.label} after paying?`,
+    a: `Checkout runs on Digistore24: after payment you receive <b>${(p.billingTypes || []).join(" or ").toLowerCase().includes("subscription") ? "access credentials and your subscription dashboard" : TYPE_USAGE_EN[p.type] ? "your access or download by email and in your Digistore24 customer account" : "delivery or access details by email and in your Digistore24 customer account"}</b>. Delivery details for this product type: ${esc((TYPE_USAGE_EN[p.type] || "see the vendor's sales page").replace(/\.$/, ""))}. If anything fails, Digistore24 buyer support can recover your order.`,
+  });
   return qas;
 }
 
 function faqSection(p, qas) {
   return `<h2 id="faq">Frequently asked questions about ${esc(p.label)}</h2>
+<p class="sub">Answers compiled from the marketplace snapshot (${datemark(DATA.scrapedAt)}) and vendor sales-page research (${datemark(DATA.researchedAt) || "—"}); vendor claims are labeled inline.</p>
 ${qas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
 }
 

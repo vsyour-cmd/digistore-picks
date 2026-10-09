@@ -45,6 +45,15 @@ const capDesc = (s, max = 158) => {
   return (sp > 80 ? cut.slice(0, sp) : cut).replace(/[\s,;]+$/g, "").replace(/[\s,;]+$/, "") + "…";
 };
 
+const ORG_LD = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: "adminstore",
+  url: SITE_URL + "/",
+  email: "admin@2bkf.com",
+  sameAs: ["https://github.com/vsyour-cmd/digistore-picks"],
+};
+
 function layout({ title, desc, body, rel = "..", file = "", jsonLd = [] }) {
   const canonical = SITE_URL + "/blog/" + file;
   const article = {
@@ -74,6 +83,7 @@ function layout({ title, desc, body, rel = "..", file = "", jsonLd = [] }) {
 <meta name="twitter:card" content="summary">
 <link rel="stylesheet" href="${rel}/assets/style.css">
 <script type="application/ld+json">${jsonSafe(article)}</script>
+<script type="application/ld+json">${jsonSafe(ORG_LD)}</script>
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
@@ -154,6 +164,7 @@ ${tableRows(list)}
 </ul>
 
 <h2>Where to verify everything</h2>
+<p class="sub">Evaluate any offer with our <a href="digistore24-numbers-checklist.html">6-point numbers check</a> — the method behind every page on this site.</p>
 <p>Each product name above links to our data profile with its full marketplace record. You can also verify any figure directly in the <a href="https://www.digistore24.com" rel="noopener nofollow">Digistore24 marketplace</a> — the same numbers we publish are shown to any registered affiliate.</p>
 <p><a class="cta" href="../index.html">Browse all ${DATA.categories.length} categories</a></p>
 </article>`;
@@ -204,7 +215,7 @@ ${tableRows(top)}
 <li><b>Freshness:</b> the newest offer in this category was listed ${new Date(Math.max(...items.map(p => new Date(p.createdAt).getTime()))).toISOString().slice(0, 10)}.</li>
 </ul>
 
-<p>Every product links to a full data profile with cancel rate, vendor and listing age. Want the whole category? <a href="../category/${cat.file}.html">Browse all ${items.length} ${esc(label.toLowerCase())} offers</a>.</p>
+<p>Every product links to a full data profile with cancel rate, vendor and listing age. Want the whole category? <a href="../category/${cat.file}.html">Browse all ${items.length} ${esc(label.toLowerCase())} offers</a>. Evaluate any offer with our <a href="digistore24-numbers-checklist.html">6-point numbers check</a> — the method behind this guide.</p>
 ${DE_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="https://vsyour-cmd.github.io/digistore-picks-de/blog/guide-${DE_GUIDE_SLUGS[label]}.html" hreflang="de">Deutsch verfügbar</a>.</p>` : ""}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(label)}.html`), layout({ title: `${label} on Digistore24: ${items.length} offers analyzed — ${SITE_NAME}`, desc: `Data guide to ${items.length} ${label} products on Digistore24: prices, commissions, conversion. Updated ${UPDATED}.`, body, rel: "..", file: `guide-${slug(label)}.html` }));
@@ -250,6 +261,7 @@ function checklist() {
 <h2>6. Who's telling you about it</h2>
 <p>Anyone can quote the marketplace numbers above — including us. What they can't fake is hands-on use. That's why every page on ${SITE_NAME} carries a research label: a <b>data profile</b> (marketplace + sales-page facts only) or a <b>hands-on review</b> (we bought it, screenshots are ours). If a review site doesn't tell you which one you're reading, treat it as marketing.</p>
 
+<p class="sub">This page is our 6-point evaluation method — the standard every profile on DigistorePicks is held to.</p>
 <h2>The one-line version</h2>
 <p><b>Earnings/sale ÷ cancel-rate skepticism × funnel fit — checked against the official page before any claim.</b> That's how every page here is built.</p>
 <p><a class="cta" href="../index.html">Start with the full product directory</a></p>
