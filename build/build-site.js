@@ -29,7 +29,10 @@ const IMG_DIR = path.join(ROOT, "assets", "products");
 function localImage(id) {
   const m = path.join(IMG_DIR, id + ".img.json");
   if (fs.existsSync(m)) {
-    try { const j = JSON.parse(fs.readFileSync(m, "utf8")); if (j.local) return j.local; } catch {}
+    try {
+      const j = JSON.parse(fs.readFileSync(m, "utf8"));
+      if (j.local) return { path: j.local, w: j.width || null, h: j.height || null };
+    } catch {}
   }
   return null;
 }
@@ -45,6 +48,8 @@ const VERIFY_META = (() => {
   const f = path.join(ROOT, "build", "verify-meta.txt");
   try { return fs.readFileSync(f, "utf8").trim(); } catch { return ""; }
 })();
+
+const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
 
 function crumbs(items) {
   return `<nav class="crumbs" aria-label="Breadcrumb">${items
@@ -92,14 +97,16 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
   <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a></div>
 </div></footer>
+${GOATCOUNTER}
 </body>
 </html>`;
 }
 
 function imgRel(p, rel, attrs = "") {
-  const local = localImage(p.id);
-  if (!local) return "";
-  return `<img src="${rel}/${local}" ${attrs} loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'">`;
+  const im = localImage(p.id);
+  if (!im) return "";
+  const dims = im.w && im.h ? `width="${im.w}" height="${im.h}"` : "";
+  return `<img src="${rel}/${im.path}" ${dims} ${attrs} loading="lazy" alt="${esc(p.label)}" onerror="this.style.display='none'">`;
 }
 
 function productCard(p, rel = ".") {
@@ -188,43 +195,62 @@ ${uncategorized ? `\n<a href="category/uncategorized.html"><span>Uncategorized</
 function categoryPages() {
   const dir = outPath("category");
   fs.mkdirSync(dir, { recursive: true });
+  const CHUNK = 60;
   const writeCat = (c, items, extraIntro = "") => {
+    const pages = [];
+    for (let i = 0; i < items.length; i += CHUNK) pages.push(items.slice(i, i + CHUNK));
+    if (!pages.length) pages.push([]);
     const avg = items.length ? items.reduce((a, p) => a + (p.price || 0), 0) / items.length : 0;
     const minC = items.length ? Math.min(...items.map((p) => p.commission || 0)) : 0;
     const maxC = items.length ? Math.max(...items.map((p) => p.commission || 0)) : 0;
-    const intro = `<p class="lead">${extraIntro}The <b>${esc(c.label)}</b> category on the Digistore24 marketplace lists <b>${items.length} English-language offers</b> (as of ${datemark(DATA.scrapedAt)}). Average list price: <b>${money(avg, "USD")}</b>; affiliate commissions run from <b>${pct(minC)}</b> to <b>${pct(maxC)}</b>. All statistics below are reported by Digistore24 for vendor-side traffic and depend on traffic quality.</p>`;
-    const body = `
+    const pager = (idx) => {
+      if (pages.length === 1) return "";
+      const link = (i) =>
+        i === idx
+          ? `<b>${i + 1}</b>`
+          : `<a href="${i === 0 ? c.file + ".html" : c.file + "-p" + (i + 1) + ".html"}">${i + 1}</a>`;
+      return `<p class="pager">Pages: ${Array.from({ length: pages.length }, (_, i) => link(i)).join(" · ")}</p>`;
+    };
+    pages.forEach((chunk, idx) => {
+      const file = idx === 0 ? c.file + ".html" : `${c.file}-p${idx + 1}.html`;
+      const pageSub = pages.length > 1 ? ` · Page ${idx + 1} of ${pages.length}` : "";
+      const intro = `<p class="lead">${extraIntro}The <b>${esc(c.label)}</b> category on the Digistore24 marketplace lists <b>${items.length} English-language offers</b> (as of ${datemark(DATA.scrapedAt)}). Average list price: <b>${money(avg, "USD")}</b>; affiliate commissions run from <b>${pct(minC)}</b> to <b>${pct(maxC)}</b>. All statistics below are reported by Digistore24 for vendor-side traffic and depend on traffic quality.</p>`;
+      const bestOf = idx === 0 && items.length >= 8 ? `<p class="sub">Short on time? See <a href="../best-of/best-${c.file}.html">our best picks in ${esc(c.label)}</a> — computed from the same data.</p>` : "";
+      const body = `
 <h1>${esc(c.label)}</h1>
-<p class="sub">${items.length} product${items.length === 1 ? "" : "s"} · Part of: ${esc(c.section)} · <a href="../index.html">all categories</a> · <a href="../reviews/index.html">all products A–Z</a></p>
+<p class="sub">${items.length} product${items.length === 1 ? "" : "s"} · Part of: ${esc(c.section)}${pageSub} · <a href="../index.html">all categories</a> · <a href="../reviews/index.html">all products A–Z</a></p>
 ${intro}
+${bestOf}
 <div class="grid">
-${items.map((p) => productCard(p, "..")).join("\n")}
+${chunk.map((p) => productCard(p, "..")).join("\n")}
 </div>
+${pager(idx)}
 <p class="sub" style="margin-top:22px">* Marketplace statistics are reported by Digistore24 for the vendor's traffic and depend on traffic quality; they are not a forecast of your results.</p>`;
-    const jsonLd = [
-      {
-        "@context": "https://schema.org",
-        "@type": "CollectionPage",
-        name: `${c.label} — Digistore24 products`,
-        description: `${items.length} Digistore24 products in ${c.label} with official price, commission and marketplace statistics.`,
-        url: `${SITE_URL}/category/${c.file}.html`,
-        isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL + "/" },
-      },
-      {
-        "@context": "https://schema.org",
-        "@type": "BreadcrumbList",
-        itemListElement: [
-          { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL + "/" },
-          { "@type": "ListItem", position: 2, name: c.label, item: `${SITE_URL}/category/${c.file}.html` },
-        ],
-      },
-    ];
-    fs.writeFileSync(path.join(dir, c.file + ".html"), layout({
-      title: `${c.label} — ${items.length} Digistore24 products: prices & commissions`,
-      desc: `${items.length} Digistore24 products in ${c.label}: official prices, commissions (avg ${money(avg, "USD")}), conversion and cancel rates. Updated ${datemark(DATA.scrapedAt)}.`,
-      body, rel: "..", path: `category/${c.file}.html`, jsonLd,
-      crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${c.file}.html` }],
-    }));
+      const jsonLd = [
+        {
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          name: `${c.label} — Digistore24 products`,
+          description: `${items.length} Digistore24 products in ${c.label} with official price, commission and marketplace statistics.`,
+          url: `${SITE_URL}/category/${file}`,
+          isPartOf: { "@type": "WebSite", name: SITE_NAME, url: SITE_URL + "/" },
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "BreadcrumbList",
+          itemListElement: [
+            { "@type": "ListItem", position: 1, name: "Home", item: SITE_URL + "/" },
+            { "@type": "ListItem", position: 2, name: c.label, item: `${SITE_URL}/category/${file}` },
+          ],
+        },
+      ];
+      fs.writeFileSync(path.join(dir, file), layout({
+        title: `${c.label} — ${items.length} Digistore24 products: prices & commissions${pages.length > 1 ? ` (page ${idx + 1})` : ""}`,
+        desc: `${items.length} Digistore24 products in ${c.label}: official prices, commissions (avg ${money(avg, "USD")}), conversion and cancel rates. Updated ${datemark(DATA.scrapedAt)}.`,
+        body, rel: "..", path: `category/${file}`, jsonLd,
+        crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${file}` }],
+      }));
+    });
   };
   for (const c of DATA.categories) {
     const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)));
@@ -262,14 +288,14 @@ function researchSection(p) {
 ${parts.join("\n")}`;
 }
 
-function profilePages() {
+function profilePages(altSlugs) {
   const dir = outPath("reviews");
   fs.mkdirSync(dir, { recursive: true });
   for (const p of products) {
     const file = path.join(dir, p.slug + ".html");
     if (articleIds.has(String(p.id)) && fs.existsSync(file)) continue;
     const cats = (p.categories || []).map((c) => esc(c)).join(", ");
-    const imgTag = imgRel(p, "..", `style="max-width:340px;width:100%;border:1px solid var(--line);border-radius:8px"`);
+    const imgTag = imgRel(p, "..", `style="max-width:340px;height:auto;border:1px solid var(--line);border-radius:8px"`);
     const localImg = localImage(p.id);
 
     // 相关产品:同主分类,按收益,排除自己
@@ -281,10 +307,27 @@ function profilePages() {
 <div class="grid">${related.map((x) => productCard(x, "..")).join("\n")}</div>`
       : "";
 
+    // 同厂商其他产品
+    const vendorSiblings = products.filter((x) => x.id !== p.id && x.vendorName === p.vendorName).slice(0, 4);
+    const vendorBlock = vendorSiblings.length
+      ? `<h2>Other offers by ${esc(p.vendorName)}</h2>
+<div class="grid">${vendorSiblings.map((x) => productCard(x, "..")).join("\n")}</div>`
+      : "";
+
+    const altLink = altSlugs && altSlugs.has(p.slug)
+      ? `<p class="sub">Comparing options? See <a href="../alternatives/${p.slug}.html">${esc(p.label)} vs its closest alternatives</a> — side-by-side marketplace numbers.</p>`
+      : "";
+
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Home", href: "../index.html" }];
     if (primaryCat) crumbItems.push({ label: primaryCat.label, href: `../category/${primaryCat.file}.html` });
     crumbItems.push({ label: p.label, href: `../reviews/${p.slug}.html` });
+
+    const topCta = `<div class="cta-row">
+<p><b>Interested in ${esc(p.label)}?</b> The current price, bonuses and guarantee terms live on the vendor's official page:</p>
+<p><a class="cta" href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">Check the official sales page</a><br>
+<span class="cta-note">Affiliate link — we may earn a commission at no extra cost to you.</span></p>
+</div>`;
 
     const body = `
 <h1>${esc(p.label)}</h1>
@@ -293,6 +336,8 @@ function profilePages() {
 <div class="notice"><b>How this page was researched:</b> a <b>data profile</b> — official Digistore24 marketplace record plus verbatim extracts from the vendor's public sales page. Not a hands-on review. A hands-on review will follow only after we have purchased and used the product.</div>
 
 ${tldr(p)}
+
+${topCta}
 
 ${imgTag}
 
@@ -312,6 +357,10 @@ ${researchSection(p)}
 
 ${relatedBlock}
 
+${vendorBlock}
+
+${altLink}
+
 <h2>Where to check it out</h2>
 <p>Read the vendor's full sales page (current price, guarantee terms and bonuses are listed there):<br>
 <a class="cta" href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">View official sales page</a></p>
@@ -323,7 +372,7 @@ ${relatedBlock}
         "@type": "Product",
         name: p.label,
         description: (p.research && p.research.metaDescription) || p.description || `${p.label} — ${p.type} on the Digistore24 marketplace`,
-        ...(localImg ? { image: SITE_URL + "/" + localImg } : {}),
+        ...(localImg ? { image: SITE_URL + "/" + localImg.path } : {}),
         brand: { "@type": "Brand", name: p.vendorName },
         category: (p.categories || [])[0] || "Uncategorized",
         offers: {
@@ -348,7 +397,7 @@ ${relatedBlock}
     fs.writeFileSync(file, layout({
       title: `${p.label} — price, commission & sales-page research (${p.type})`,
       desc: `${p.label}: ${p.type} by ${p.vendorName} on Digistore24. Price ${money(p.price, p.currency)}, ${pct(p.commission)} commission, marketplace stats and verbatim sales-page research. Updated ${datemark(DATA.scrapedAt)}.`,
-      body, rel: "..", path: `reviews/${p.slug}.html`, ogImage: localImg, jsonLd,
+      body, rel: "..", path: `reviews/${p.slug}.html`, ogImage: localImg ? localImg.path : null, jsonLd,
       crumb: crumbItems,
     }));
   }
@@ -383,6 +432,176 @@ ${az.map((p) => `<li><a href="${p.slug}.html">${esc(p.label)}</a></li>`).join("\
 }
 
 // ---------- about ----------
+// ---------- Alternatives 对比页(收益 Top 60,同分类最近邻) ----------
+function computeAltSlugs() {
+  const set = new Set();
+  for (const p of products.slice(0, 60)) {
+    const primaryCatId = (p.categoryIds || [])[0];
+    if (!primaryCatId) continue;
+    const alts = products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String(primaryCatId))).slice(0, 4);
+    if (alts.length >= 3) set.add(p.slug);
+  }
+  return set;
+}
+
+function alternativesPages(altSlugs) {
+  const dir = outPath("alternatives");
+  fs.mkdirSync(dir, { recursive: true });
+  let built = 0;
+  for (const p of products) {
+    if (!altSlugs.has(p.slug)) continue;
+    const primaryCatId = (p.categoryIds || [])[0];
+    const alts = products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String(primaryCatId))).slice(0, 4);
+    if (alts.length < 3) continue;
+    const row = (x) => `<tr>
+<td><a href="../reviews/${x.slug}.html">${esc(x.label)}</a></td>
+<td>${esc(x.type)}</td>
+<td><b>${money(x.price, x.currency)}</b></td>
+<td>${pct(x.commission)}</td>
+<td>${pct(x.conversionRate)}</td>
+<td>${pct(x.cancelRate)}</td>
+<td><b>${money(x.earningsPerSale, x.currency)}</b></td>
+</tr>`;
+    const body = `
+<h1>${esc(p.label)}: alternatives &amp; comparison</h1>
+<p class="sub">${DATA.categories.find((c) => String(c.catId) === String(primaryCatId)) ? esc(DATA.categories.find((c) => String(c.catId) === String(primaryCatId)).label) : ""} · Marketplace data ${datemark(DATA.scrapedAt)} · <a href="../reviews/${p.slug}.html">full ${esc(p.label)} profile</a></p>
+<div class="tldr"><b>At a glance:</b> the closest Digistore24 offers to <b>${esc(p.label)}</b> (${esc(p.type)}, ${money(p.price, p.currency)}, ${money(p.earningsPerSale, p.currency)} earnings/sale), compared by official marketplace statistics. "Closest" means same category, ranked by earnings per sale — an objective measure, not a recommendation.</div>
+<table class="specs">
+<tr><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Cart conv.*</th><th>Cancel*</th><th>Earn./sale</th></tr>
+<tr class="self"><td><b>${esc(p.label)}</b> (this page)</td><td>${esc(p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td></tr>
+${alts.map(row).join("\n")}
+</table>
+<p class="sub">* Vendor-side marketplace statistics reported by Digistore24; they depend on traffic quality and are not a forecast. Price/commission change often — the numbers above are a snapshot, the official pages are the source of truth.</p>
+<h2>How to choose between them (by the numbers)</h2>
+<ul>
+<li><b>Highest earnings/sale:</b> ${esc([p, ...alts].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0].label)} (${money(Math.max(...[p, ...alts].map((x) => x.earningsPerSale || 0)), "USD")}).</li>
+<li><b>Best cart conversion:</b> ${esc([p, ...alts].sort((a, b) => (b.conversionRate || 0) - (a.conversionRate || 0))[0].label)} (${pct(Math.max(...[p, ...alts].map((x) => x.conversionRate || 0)))}).</li>
+<li><b>Lowest cancel rate:</b> ${esc([p, ...alts].sort((a, b) => (a.cancelRate || 99) - (b.cancelRate || 99))[0].label)} (${pct(Math.min(...[p, ...alts].map((x) => x.cancelRate || 99)))}) — fewer refund regrets.</li>
+<li><b>Lowest price:</b> ${esc([p, ...alts].sort((a, b) => (a.price || 1e9) - (b.price || 1e9))[0].label)} (${money(Math.min(...[p, ...alts].map((x) => x.price || 1e9)), p.currency)}).</li>
+</ul>
+<p>Every product links to a full profile with verbatim sales-page research. Always confirm price and guarantee on the official page before buying.</p>`;
+    const jsonLd = [{
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `${p.label} alternatives on Digistore24`,
+      itemListElement: [p, ...alts].map((x, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `${SITE_URL}/reviews/${x.slug}.html`,
+        name: x.label,
+      })),
+    }];
+    fs.writeFileSync(path.join(dir, p.slug + ".html"), layout({
+      title: `${p.label} alternatives: 4 closest Digistore24 offers compared`,
+      desc: `${p.label} (${money(p.price, p.currency)}) vs its closest alternatives in ${p.categories[0] || "the marketplace"}: price, commission, conversion and cancel rate side by side. Official marketplace data.`,
+      body, rel: "..", path: `alternatives/${p.slug}.html`, jsonLd,
+      crumb: [{ label: "Home", href: "../index.html" }, { label: p.label, href: `../reviews/${p.slug}.html` }, { label: "Alternatives", href: `../alternatives/${p.slug}.html` }],
+    }));
+    built++;
+  }
+  return built;
+}
+
+// ---------- Best-of 聚合页(≥8 产品的分类) ----------
+function bestOfPages() {
+  const dir = outPath("best-of");
+  fs.mkdirSync(dir, { recursive: true });
+  let built = 0;
+  for (const c of DATA.categories) {
+    if (c.count < 8) continue;
+    const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)));
+    if (items.length < 8) continue;
+    const byEps = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+    const bestOverall = byEps[0];
+    const bestConv = [...items].sort((a, b) => (b.conversionRate || 0) - (a.conversionRate || 0))[0];
+    const budget = [...items].sort((a, b) => (a.price || 1e9) - (b.price || 1e9)).find((p) => (p.earningsPerSale || 0) > 0);
+    const pick = (label, p, why) => `<div class="card">
+  <div class="title">${label}: <a href="../reviews/${p.slug}.html">${esc(p.label)}</a></div>
+  <div class="meta"><span>Price <b>${money(p.price, p.currency)}</b></span><span>Commission <b>${pct(p.commission)}</b></span><span>Earn./sale <b>${money(p.earningsPerSale, p.currency)}</b></span></div>
+  <p class="desc">${why}</p>
+</div>`;
+    const avg = items.reduce((a, p) => a + (p.price || 0), 0) / items.length;
+    const body = `
+<h1>Best ${esc(c.label)} products on Digistore24 (${new Date().getFullYear()} edition, by the numbers)</h1>
+<p class="sub">Data-driven picks · ${items.length} offers analyzed · Marketplace data ${datemark(DATA.scrapedAt)} · <a href="../category/${c.file}.html">browse the full category</a></p>
+<div class="tldr"><b>Key takeaways:</b>
+<ul>
+<li>The ${esc(c.label)} shelf lists <b>${items.length} English-language offers</b> with an average price of <b>${money(avg, "USD")}</b>.</li>
+<li>Highest earnings/sale right now: <b>${esc(bestOverall.label)}</b> at <b>${money(bestOverall.earningsPerSale, bestOverall.currency)}</b> (${pct(bestOverall.commission)} commission).</li>
+<li>Best cart conversion: <b>${esc(bestConv.label)}</b> at <b>${pct(bestConv.conversionRate)}</b>. All figures are vendor-side marketplace data, not forecasts.</li>
+</ul>
+</div>
+<div class="notice"><b>How these picks were made:</b> computed mechanically from official Digistore24 marketplace statistics — no sponsorship, no hands-on testing. "Best" here means best on one measured dimension; it is not a quality endorsement.</div>
+<h2>The picks</h2>
+<div class="grid">
+${pick("🏆 Best overall (earnings/sale)", bestOverall, `Pays affiliates the most per sale in this category (${money(bestOverall.earningsPerSale, bestOverall.currency)}), listed since ${datemark(bestOverall.createdAt)}.`)}
+${pick("⚡ Best conversion", bestConv, `Highest cart conversion in the category (${pct(bestConv.conversionRate)}) — the offer's funnel closes best, at least for the vendor's own traffic.`)}
+${budget && budget.id !== bestOverall.id && budget.id !== bestConv.id ? pick("💡 Budget pick", budget, `Lowest entry price (${money(budget.price, budget.currency)}) among offers with meaningful earnings/sale (${money(budget.earningsPerSale, budget.currency)}).`) : ""}
+</div>
+<h2>Top 10 in ${esc(c.label)} by earnings/sale</h2>
+<table class="specs">
+<tr><th>#</th><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Earn./sale</th><th>Cart conv.*</th></tr>
+${byEps.slice(0, 10).map((p, i) => `<tr><td>${i + 1}</td><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td></tr>`).join("\n")}
+</table>
+<p class="sub">* Vendor-side marketplace statistics; they depend on traffic quality and are not a forecast of your results. Verify current prices and guarantees on each official sales page.</p>`;
+    const jsonLd = [{
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `Best ${c.label} products on Digistore24`,
+      description: `Top ${esc(c.label)} offers on the Digistore24 marketplace, ranked by official earnings-per-sale statistics.`,
+      itemListElement: byEps.slice(0, 10).map((x, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        url: `${SITE_URL}/reviews/${x.slug}.html`,
+        name: x.label,
+      })),
+    }];
+    fs.writeFileSync(path.join(dir, `best-${c.file}.html`), layout({
+      title: `Best ${c.label} products on Digistore24 (${items.length} analyzed)`,
+      desc: `Best ${c.label} offers on Digistore24, picked by official marketplace numbers: earnings/sale, conversion, price. ${items.length} offers analyzed, updated ${datemark(DATA.scrapedAt)}.`,
+      body, rel: "..", path: `best-of/best-${c.file}.html`, jsonLd,
+      crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${c.file}.html` }, { label: "Best picks", href: `../best-of/best-${c.file}.html` }],
+    }));
+    built++;
+  }
+  return built;
+}
+
+// ---------- 自定义 404(绝对路径,GitHub Pages 自动启用) ----------
+function notFoundPage() {
+  const cats = DATA.categories.slice().sort((a, b) => b.count - a.count).slice(0, 8);
+  const html = `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Page not found — ${SITE_NAME}</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="/digistore-picks/assets/style.css">
+</head>
+<body>
+<header class="site"><div class="wrap"><a class="brand" href="/digistore-picks/">${SITE_NAME}<span>.com</span></a></div></header>
+<main class="wrap">
+<h1>Page not found</h1>
+<p class="sub">The page you asked for doesn't exist (or was renamed when the marketplace data refreshed). Everything is one click away:</p>
+<p><a class="cta" href="/digistore-picks/">Browse the full directory</a></p>
+<p>Or search Google for it:<br>
+<form onsubmit="location.href='https://www.google.com/search?q=site:vsyour-cmd.github.io/digistore-picks+'+encodeURIComponent(this.q.value);return false">
+<input type="text" name="q" placeholder="e.g. AMS Method" style="padding:10px 14px;border:1px solid var(--line);border-radius:8px;min-width:260px">
+<button type="submit" style="padding:10px 16px;border:0;border-radius:8px;background:var(--accent);color:#fff;font-weight:600;cursor:pointer">Search</button>
+</form></p>
+<h2>Popular categories</h2>
+<div class="cat-index">
+${cats.map((c) => `<a href="/digistore-picks/category/${c.file}.html"><span>${esc(c.label)}</span><span class="n">${c.count} products</span></a>`).join("\n")}
+</div>
+</main>
+<footer class="site"><div class="wrap"><div>© ${new Date().getFullYear()} ${SITE_NAME} · <a href="/digistore-picks/about.html">About &amp; disclosure</a></div></div></footer>
+${GOATCOUNTER}
+</body>
+</html>`;
+  fs.writeFileSync(outPath("404.html"), html);
+}
+
 function aboutPage() {
   const body = `
 <h1>About ${SITE_NAME}</h1>
@@ -410,8 +629,12 @@ function aboutPage() {
   }));
 }
 
+const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
-profilePages();
+profilePages(altSlugs);
+const altCount = alternativesPages(altSlugs);
+const bestCount = bestOfPages();
 aboutPage();
-console.log(`Built: index, about, ${DATA.categories.length}+1 category pages, ${products.length} product profiles (SEO/GEO: canonical, OG, JSON-LD, TL;DR, breadcrumbs). Articles protected: ${articleIds.size}`);
+notFoundPage();
+console.log(`Built: index, about, 404, categories (paginated), ${products.length} product profiles, ${altCount} alternatives pages, ${bestCount} best-of pages. Articles protected: ${articleIds.size}`);

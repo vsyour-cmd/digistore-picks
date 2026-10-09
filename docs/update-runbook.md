@@ -61,6 +61,16 @@ git push origin main
 ```
 GitHub Pages 约1分钟生效。验证 https://vsyour-cmd.github.io/digistore-picks/
 
+## 阶段 6:IndexNow 实时推送(Bing/ChatGPT 搜索源)
+
+```
+# 等 Pages 构建完成后再执行(约60-90秒):
+node build/ping-indexnow.js
+```
+- 默认提交最近一次 commit 变动的 .html + 首页/博客/产品索引(上限100条)
+- `--all` 提交全部分类页+博客(~62条,仅全量重建后用)
+- key 文件 `{32位hex}.txt` 在站点根目录(必须永久保留);GitHub Pages 项目站无法放域名根,脚本用 keyLocation 参数声明位置,勿删该参数
+
 ## 手写文章(不覆盖机制)
 
 - 手写评测放 `site/reviews/{slug}.html` + 登记 `site/build/articles.json`(`[{productId}]`)→ 构建跳过

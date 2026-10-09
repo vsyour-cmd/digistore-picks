@@ -103,3 +103,12 @@ footer.site { background: var(--card); border-top: 1px solid var(--line); paddin
 p.lead { font-size: 1.05rem; max-width: 780px; }
 ul.az li { break-inside: avoid; }
 @media (max-width: 640px) { ul.az { columns: 1 !important; } }
+
+/* CTA row / pagination */
+.cta-row { background: var(--accent-soft); border: 1px solid #cfe5dd; border-radius: var(--radius); padding: 16px 20px; margin: 22px 0; }
+.cta-row p { margin: 0 0 10px; }
+.cta-row .cta { margin-right: 0; }
+.cta-note { font-size: 0.82rem; color: var(--ink-soft); }
+.pager { margin: 20px 0; font-size: 0.95rem; }
+.pager a { margin: 0 2px; }
+tr.self { background: var(--accent-soft); }

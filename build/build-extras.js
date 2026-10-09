@@ -30,14 +30,13 @@ const add = (u, date) => urls.push({ loc: SITE_URL + "/" + u, lastmod: date || T
 add("", DATA_DATE);
 add("about.html", TODAY);
 add("reviews/index.html", DATA_DATE);
-for (const c of DATA.categories) add(`category/${c.file}.html`, DATA_DATE);
-if (DATA.products.some((p) => !(p.categories || []).length)) add("category/uncategorized.html", DATA_DATE);
-for (const p of DATA.products) add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE);
-// 博客:扫描已生成的 HTML
-const blogDir = path.join(ROOT, "blog");
-if (fs.existsSync(blogDir)) {
-  for (const f of fs.readdirSync(blogDir).filter((f) => f.endsWith(".html"))) add(`blog/${f}`, TODAY);
+// 目录扫描:分类(含分页)/对比页/Best-of/博客
+for (const d of ["category", "alternatives", "best-of", "blog"]) {
+  const dir = path.join(ROOT, d);
+  if (!fs.existsSync(dir)) continue;
+  for (const f of fs.readdirSync(dir).filter((f) => f.endsWith(".html"))) add(`${d}/${f}`, d === "blog" ? TODAY : DATA_DATE);
 }
+for (const p of DATA.products) add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE);
 
 // ---------- sitemap.xml ----------
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
@@ -93,6 +92,7 @@ All numbers originate from the official Digistore24 marketplace (logged-in affil
 fs.writeFileSync(path.join(ROOT, "llms.txt"), llms);
 
 // ---------- feed.xml (Atom, 博客) ----------
+const blogDir = path.join(ROOT, "blog");
 const blogFiles = [];
 const blogMeta = {
   "top-20-highest-earning-digistore24-products.html": "The 20 highest-earning Digistore24 products (by the numbers)",

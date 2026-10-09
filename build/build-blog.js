@@ -27,6 +27,8 @@ const catSlugMap = {};
 
 const products = DATA.products.map((p) => ({ ...p, slug: slug(p.label) + "-" + p.id }));
 
+const GOATCOUNTER = '<script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>';
+
 function layout({ title, desc, body, rel = "..", file = "", jsonLd = [] }) {
   const canonical = SITE_URL + "/blog/" + file;
   const article = {
@@ -76,6 +78,7 @@ ${body}
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Rankings on this page are computed from official Digistore24 marketplace statistics and are not a forecast of your results or an endorsement of outcomes.</div>
   <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${UPDATED}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a></div>
 </div></footer>
+${GOATCOUNTER}
 </body>
 </html>`;
 }
@@ -241,6 +244,11 @@ function blogIndex() {
   const body = `
 <h1>Blog</h1>
 <p class="sub">Data-driven guides to the Digistore24 marketplace. Every figure comes from the official marketplace record; every page shows its refresh date.</p>
+<h2>Best-of picks (computed from marketplace data)</h2>
+<ul style="line-height:2.1;max-width:760px">
+${DATA.categories.filter((c) => c.count >= 8).sort((a, b) => b.count - a.count).slice(0, 10).map((c) => `<li><a href="../best-of/best-${c.file}.html"><b>Best ${esc(c.label)} products on Digistore24</b></a><br><span class="sub">${c.count} offers analyzed, picks computed from official statistics.</span></li>`).join("\n")}
+</ul>
+<h2>Guides &amp; rankings</h2>
 <ul style="line-height:2.1;max-width:760px">
 ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span class="sub">${esc(d)}</span></li>`).join("\n")}
 </ul>`;
