@@ -40,6 +40,12 @@ const articleIds = new Set(
     : []
 );
 
+// 搜索引擎站点验证标记(GSC/Bing):把 <meta ...> 整行放进 build/verify-meta.txt 即可注入全站
+const VERIFY_META = (() => {
+  const f = path.join(ROOT, "build", "verify-meta.txt");
+  try { return fs.readFileSync(f, "utf8").trim(); } catch { return ""; }
+})();
+
 function crumbs(items) {
   return `<nav class="crumbs" aria-label="Breadcrumb">${items
     .map((c, i) => (i === items.length - 1 ? `<span>${esc(c.label)}</span>` : `<a href="${c.href}">${esc(c.label)}</a>`))
@@ -66,6 +72,7 @@ function layout({ title, desc, body, rel = ".", path = "", ogType = "website", o
 <meta property="og:url" content="${canonical}">
 ${ogImg ? `<meta property="og:image" content="${esc(ogImg)}">\n<meta name="twitter:card" content="summary_large_image">\n<meta name="twitter:image" content="${esc(ogImg)}">` : '<meta name="twitter:card" content="summary">'}
 <link rel="stylesheet" href="${rel}/assets/style.css">
+${VERIFY_META}
 ${jsonLd.map((j) => `<script type="application/ld+json">${jsonSafe(j)}</script>`).join("\n")}
 </head>
 <body>
