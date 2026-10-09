@@ -332,7 +332,9 @@ ${idx === 0 ? faqBlock : ""}
         },
       ];
       fs.writeFileSync(path.join(dir, file), layout({
-        title: `${c.label} — ${items.length} Digistore24 products: prices & commissions${pages.length > 1 ? ` (page ${idx + 1})` : ""}`,
+        title: idx === 0
+          ? `${c.label} — ${items.length} Digistore24 products: prices & commissions`
+          : `${c.label} (${idx + 1}/${pages.length}) — ${items.length} Digistore24 products`,
         desc: `${items.length} Digistore24 products in ${c.label}: official prices, commissions (avg ${money(avg, "USD")}), conversion and cancel rates. Updated ${datemark(DATA.scrapedAt)}.`,
         body, rel: "..", path: `category/${file}`, jsonLd, hreflangLinks: deCatHref(c.catId) || "",
         crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${file}` }],
@@ -644,7 +646,7 @@ ${alts.map(row).join("\n")}
       })),
     }];
     fs.writeFileSync(path.join(dir, p.slug + ".html"), layout({
-      title: `${p.label} alternatives: 4 closest Digistore24 offers compared`,
+      title: `Alternatives to ${p.label}: 4 closest offers compared`,
       desc: `${p.label} (${money(p.price, p.currency)}) vs its closest alternatives in ${p.categories[0] || "the marketplace"}: price, commission, conversion and cancel rate side by side. Official marketplace data.`,
       body, rel: "..", path: `alternatives/${p.slug}.html`, jsonLd,
       crumb: [{ label: "Home", href: "../index.html" }, { label: p.label, href: `../reviews/${p.slug}.html` }, { label: "Alternatives", href: `../alternatives/${p.slug}.html` }],
