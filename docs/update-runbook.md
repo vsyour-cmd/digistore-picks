@@ -39,8 +39,9 @@ node build/fetch-images.js          # marketplace 官方图优先,og:image 兜�
 ```
 node build/build-dataset.js         # 合并 marketplace + research → site/data/dataset.json
 node build/gen-md.js                # 每产品 MD 档案 → site/content/products/ (1243个)
-node build/build-site.js            # 全产品 HTML 档案页 + 分类页 + 首页 + about
-node build/build-blog.js            # 数据驱动博客
+node build/build-site.js            # 全产品 HTML 档案页 + 分类页 + 首页 + about(SEO/GEO: canonical/OG/JSON-LD/TL;DR/面包屑)
+node build/build-blog.js            # 数据驱动博客(Article JSON-LD + Key takeaways)
+node build/build-extras.js          # sitemap.xml / robots.txt / llms.txt / feed.xml(必须在最后)
 ```
 
 数据文件结构(dataset.json):`{affiliateId:'adminstore', scrapedAt, researchedAt, total, withResearch, categories:[{catId,section,label,count}], products:[{id,productId,label,type,price,currency,commission,conversionRate,cancelRate,earningsPerSale,earningsPerClick,vendorName,description,imageUrl,salesPageUrl,promoLink,affiliateSupportPageUrl,autoAccept,billingTypes,createdAt,categories,categoryIds,research?}]}`
