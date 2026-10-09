@@ -92,3 +92,27 @@ node build/ping-indexnow.js
 - 不伪造使用体验;手写页必须标注研究方式(data profile / hands-on)
 - FTC affiliate 披露每页必有(模板已内置)
 - 退款天数以官方销售页实时为准,不缓存具体天数
+
+## 德语站(site-de)
+
+数据目录 `G:/Digistore24/data-de/`(products-de.json / categories-de.json / research-de.json);推广链接 overrides 共用英文站的 promo-updates.json(按 productId,与语言无关)。
+
+```
+cd G:/Digistore24/site-de
+node build/build-dataset-de.js    # 合并(分类名经 LABEL_DE 映射转德语)
+node build/fetch-research.js      # 默认即指向 data-de,无需环境变量
+node build/fetch-images.js        # DE 已下 Top2000,日常增量
+node build/optimize-images.js
+node build/gen-md.js              # MD 链接指向 /produkte/
+node build/build-site.js          # 德语UI+Impressum/Datenschutz;路径 /kategorie/ /produkte/ /alternativen/ /empfehlungen/
+node build/build-blog.js          # 德语博客(Top20+checklist+10分类指南)
+node build/build-extras.js        # sitemap(4595 URL)/llms.txt/feed
+node build/ping-indexnow.js       # 德语目录名版(kategorie/empfehlungen/alternativen)
+```
+
+德语站注意事项:
+- Impressum/Datenschutz 真实身份在 build-site.js 的 staticPages();身份变更在这里改
+- 分类文件名用英文 label slug(如 kategorie/health-fitness.html),显示名德语
+- 研究覆盖率约86%,余为死链德语域名(如实标注,勿强行补)
+- 仓库: vsyour-cmd/digistore-picks-de;GSC/Bing 提交: https://vsyour-cmd.github.io/digistore-picks-de/sitemap.xml
+- 双站互链与 hreflang 已内置(页脚语言切换),构建时自动生成
