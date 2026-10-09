@@ -74,6 +74,13 @@
 - assets/products/39236-g1.webp
 - assets/products/39236-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: clickdesigns, listed since 2022-05-17
+- How much? — 74.9462 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours alternatives · price & data · review & research

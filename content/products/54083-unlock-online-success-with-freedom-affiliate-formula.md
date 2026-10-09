@@ -62,6 +62,13 @@
 
 - assets/products/54083-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: commissionhero, listed since 2025-06-25
+- How much? — 74.9462 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Online Success With Freedom Affiliate Formula alternatives · price & data · review & research

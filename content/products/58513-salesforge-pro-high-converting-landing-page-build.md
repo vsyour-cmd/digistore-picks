@@ -67,6 +67,13 @@
 > “I use it for my consulting clients. The WhatsApp integration generated over 200 conversations in 2 weeks. Indispensable tool.” — Carlos Mendes
 > Who is this for? Entrepreneurs, affiliates, course creators, coaches, consultants, agencies, and anyone selling online.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: manuelcosta, listed since 2026-08-22
+- How much? — 447 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SalesForge Pro – High-Converting Landing Page Build alternatives · price & data · review & research

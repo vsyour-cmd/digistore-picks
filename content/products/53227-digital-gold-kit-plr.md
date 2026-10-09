@@ -51,6 +51,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: daianeandrew, listed since 2025-07-17
+- How much? — 55.93 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Gold Kit Plr alternatives · price & data · review & research

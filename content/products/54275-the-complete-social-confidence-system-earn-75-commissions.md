@@ -66,6 +66,13 @@
 
 > Disclaimer: This is an educational product and is not intended as medical or therapeutic advice. Individual results may vary based on effort, consistency, and adherence to the program. Always consult your healthcare provider before beginning any new program, especially if you have existing mental health conditions. The techniques have been tested with thousands of socially anxious people, but we make no guarantee of specific outcomes.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
+- How much? — 155.4854 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Complete Social Confidence System | Earn 75% Commissions alternatives · price & data · review & research

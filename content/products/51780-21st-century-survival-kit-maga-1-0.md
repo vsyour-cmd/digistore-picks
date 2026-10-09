@@ -66,6 +66,13 @@
 - assets/products/51780-g3.webp
 - assets/products/51780-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Survival777, listed since 2025-03-16
+- How much? — 1118.6000000000001 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 21st Century Survival Kit - MAGA 1.0 alternatives · price & data · review & research

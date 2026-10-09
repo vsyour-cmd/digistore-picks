@@ -65,6 +65,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ZeroToCommission, listed since 2026-07-02
+- How much? — 97 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TikTok Cash Formula alternatives · price & data · review & research

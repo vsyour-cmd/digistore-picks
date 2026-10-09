@@ -64,6 +64,13 @@
 - assets/products/52948-g3.webp
 - assets/products/52948-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: puralityhealth, listed since 2025-05-09
+- How much? — 60.348470000000006 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote Liposomal Hair Renewal Now! alternatives · price & data · review & research

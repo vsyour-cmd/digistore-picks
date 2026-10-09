@@ -68,6 +68,13 @@
 > Rebuild your attention span from fragmented to laser-sharp with specific cognitive protocols.
 > Focus Recovery Techniques — Rebuild your attention span from fragmented to laser-focused
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
+- How much? — 102.91120000000001 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Declutter: Break Phone Addiction | 75% Commissions alternatives · price & data · review & research

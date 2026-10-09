@@ -65,6 +65,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - for slimming, vendor: nexmmedia5a4e, listed since 2026-06-01
+- How much? — 158 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 65% Commission Promoting WeGoSlim - Weight Loss alternatives · price & data · review & research

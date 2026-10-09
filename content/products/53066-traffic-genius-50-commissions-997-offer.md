@@ -64,6 +64,13 @@
 - assets/products/53066-g2.webp
 - assets/products/53066-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: viddeosai, listed since 2025-06-04
+- How much? — 1497 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traffic Genius | 50% Commissions | $997 Offer alternatives · price & data · review & research

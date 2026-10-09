@@ -58,6 +58,13 @@
 - assets/products/52072-g3.webp
 - assets/products/52072-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-29
+- How much? — 37.596146 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Photomizer 3 Premium – Intelligent Photo Enhancement alternatives · price & data · review & research

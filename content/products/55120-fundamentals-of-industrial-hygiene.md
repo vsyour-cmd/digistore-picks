@@ -70,6 +70,13 @@
 - assets/products/55120-g3.webp
 - assets/products/55120-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: WirtschaftspraxisJuergens, listed since 2025-12-10
+- How much? — 99.5554 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fundamentals of industrial hygiene alternatives · price & data · review & research

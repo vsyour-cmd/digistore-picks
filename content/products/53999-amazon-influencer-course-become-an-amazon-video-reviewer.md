@@ -51,6 +51,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-09-10
+- How much? — 30.2022 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazon Influencer Course – Become an Amazon Video Reviewer alternatives · price & data · review & research

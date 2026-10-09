@@ -67,6 +67,13 @@
 - assets/products/54669-g3.webp
 - assets/products/54669-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: megadrought, listed since 2025-08-19
+- How much? — 81.064942 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Joseph’s Well – Blockbuster Offer From Top Diamond Vendor alternatives · price & data · review & research

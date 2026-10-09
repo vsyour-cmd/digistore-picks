@@ -74,6 +74,13 @@
 - assets/products/54413-g3.webp
 - assets/products/54413-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: ViriFlow, listed since 2025-10-16
+- How much? — 245.018144 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ViriFlow alternatives · price & data · review & research

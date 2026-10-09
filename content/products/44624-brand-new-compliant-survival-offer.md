@@ -57,6 +57,13 @@
 
 - assets/products/44624-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: savstash, listed since 2023-06-09
+- How much? — 74.9462 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Brand NEW Compliant Survival Offer alternatives · price & data · review & research

@@ -63,6 +63,13 @@
 > Self-Awareness in the Information Age: Understand your attention, manage digital distractions, and enhance your digital well-being.
 > Silence the endless notifications and reclaim your focus by understanding how AI impacts your attention. (From: Self-Awareness in the Information Age)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: tom_cruise, listed since 2025-08-22
+- How much? — 20 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Your Full Potential with AI For Life Bundle alternatives · price & data · review & research

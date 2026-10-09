@@ -69,6 +69,13 @@
 
 - assets/products/60000-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: PharmaNutrition_glow, listed since 2026-09-28
+- How much? — 29.9 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pharmacology Made Easy and Unforgettable alternatives · price & data · review & research

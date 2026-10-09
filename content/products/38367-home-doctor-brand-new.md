@@ -68,6 +68,13 @@
 > Inside the Home Doctor , you’ll also learn about the biggest medical mistakes you can make in a blackout and what to do with important medications that require refrigeration, like insulin or Humira.
 > So, pay close attention to this chapter before you throw away your so called “expired” medication.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: homedoctor, listed since 2021-06-17
+- How much? — 47.473383999999996 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Doctor – BRAND NEW! alternatives · price & data · review & research

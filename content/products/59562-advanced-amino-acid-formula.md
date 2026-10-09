@@ -48,6 +48,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: aleem604, listed since 2026-09-23
+- How much? — 39.95 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Amino Acid Formula alternatives · price & data · review & research

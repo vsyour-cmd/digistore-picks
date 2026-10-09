@@ -74,6 +74,13 @@
 - assets/products/54451-g2.webp
 - assets/products/54451-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: lottokey, listed since 2025-09-24
+- How much? — 197.9922 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Lotto Master Key alternatives · price & data · review & research

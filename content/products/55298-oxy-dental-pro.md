@@ -50,6 +50,13 @@
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: OxyDentalPro, listed since 2026-01-23
+- How much? — 0 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Oxy Dental Pro alternatives · price & data · review & research

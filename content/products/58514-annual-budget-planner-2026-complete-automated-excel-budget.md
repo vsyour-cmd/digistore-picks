@@ -60,6 +60,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: GreatDigital, listed since 2026-08-22
+- How much? — 47 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Annual Budget Planner 2026 – Complete Automated Excel Budget alternatives · price & data · review & research

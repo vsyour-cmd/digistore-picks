@@ -64,6 +64,13 @@
 - assets/products/58850-g2.webp
 - assets/products/58850-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: KeraFirm, listed since 2026-09-01
+- How much? — 158 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: KeraFirm Pro alternatives · price & data · review & research

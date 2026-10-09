@@ -58,6 +58,13 @@
 - assets/products/53234-g3.webp
 - assets/products/53234-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-07-17
+- How much? — 19.5755 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn Big Promoting the Notion Pro AI System – Resell Rights alternatives · price & data · review & research

@@ -52,6 +52,13 @@
 > Get Started Now l Privacy l Terms and Conditions l Refunds l Disclaimer l Anti-Spam Policy l Affiliate l Disclosure l Contact Us
 > Some home alteration alternatives may be illegal in your town, city, state, province or country. It is your responsibility to inquire with your local authority about how to proceed if restrictions apply. The product is an experiment, it was not technically assessed and has not been individually producted nor small-scale produced or mass-produced. Although we have not encountered a problem, you still must consult with your local authority.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: energyofren, listed since 2026-09-16
+- How much? — 39 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors alternatives · price & data · review & research

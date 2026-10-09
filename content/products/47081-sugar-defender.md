@@ -69,6 +69,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: I868696, listed since 2024-01-30
+- How much? — 177.890958 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sugar Defender alternatives · price & data · review & research

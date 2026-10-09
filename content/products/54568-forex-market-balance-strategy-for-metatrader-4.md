@@ -61,6 +61,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: forexobroker, listed since 2025-11-04
+- How much? — 41.388200000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forex Market Balance Strategy For MetaTrader 4 alternatives · price & data · review & research

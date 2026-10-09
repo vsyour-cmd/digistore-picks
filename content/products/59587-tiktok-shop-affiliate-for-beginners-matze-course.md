@@ -60,6 +60,13 @@
 - assets/products/59587-g3.webp
 - assets/products/59587-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
+- How much? — 88.3694 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TikTok Shop Affiliate for Beginners – Matze Course alternatives · price & data · review & research

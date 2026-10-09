@@ -60,6 +60,13 @@
 
 > The Systemic Balance Decoder is strictly an educational course based on physiological observation. We are not physicians. This protocol is not medical advice, a diagnosis, or a prescribed treatment for chronic fatigue syndrome, autoimmune disorders, or chronic inflammation. Always consult with a licensed healthcare provider before making lifestyle changes.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: PlanetaVida, listed since 2026-01-14
+- How much? — 21.2534 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 75% Comm | The "Systemic Balance" Funnel | Holistic Health | alternatives · price & data · review & research

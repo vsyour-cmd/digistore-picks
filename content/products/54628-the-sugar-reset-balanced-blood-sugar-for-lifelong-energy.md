@@ -62,6 +62,13 @@
 > Learn why these hidden disruptors are just as important as the food on your plate, and simple strategies to optimize both.
 > Disclaimer: The information provided in this program is for educational purposes only and is not intended as medical advice. Always consult with your healthcare provider before making any changes to your diet, exercise, or medication regimen. Individual results may vary.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-11-07
+- How much? — 33.558 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Sugar Reset: Balanced Blood Sugar for Lifelong Energy alternatives · price & data · review & research

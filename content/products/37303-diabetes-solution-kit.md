@@ -57,6 +57,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: BartonPublishing, listed since 2021-04-22
+- How much? — 22.338442 USD
+- Guarantee? — 90-day money back guarantee
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DIABETES SOLUTION KIT alternatives · price & data · review & research

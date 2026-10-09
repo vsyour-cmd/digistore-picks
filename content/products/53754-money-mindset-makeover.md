@@ -70,6 +70,13 @@
 - assets/products/53754-g1.webp
 - assets/products/53754-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-02
+- How much? — 46.99 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Money Mindset Makeover alternatives · price & data · review & research

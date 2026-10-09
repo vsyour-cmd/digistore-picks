@@ -64,6 +64,13 @@
 > Food Analyzer provides informational nutrition estimates and is not medical advice. Always consult a qualified healthcare professional before making dietary changes.
 > Pricing Privacy Policy Terms of Service Disclaimer Refund Policy Ads & Sponsorship Policy Affiliate Program Contact
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: goldinline, listed since 2025-08-27
+- How much? — 97.3182 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Food Analysis Tool – AI Nutrition Scanner with High Funnel alternatives · price & data · review & research

@@ -106,6 +106,13 @@ for (const p of DATA.products) {
       lines.push("");
     }
   }
+  lines.push("### 3f. FAQ (answers from official marketplace data / vendor claims)");
+  lines.push("");
+  lines.push("- What is it? — Type: " + p.type + ", vendor: " + p.vendorName + ", listed since " + (p.createdAt || "").slice(0, 10));
+  lines.push("- How much? — " + p.price + " " + (p.currency || "USD"));
+  lines.push("- Guarantee? — " + ((p.research && p.research.guaranteeMention) ? p.research.guaranteeMention : "not found in our research, verify on the official page"));
+  lines.push("- Alternatives? — see the comparison table on the profile / alternatives page");
+  lines.push("");
   lines.push("### 3e. Related links & interaction");
   lines.push("");
   lines.push("- Related searches on the profile page: " + p.label + " alternatives · price & data · review & research");

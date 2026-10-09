@@ -54,6 +54,13 @@
 
 > Disclaimer: This product is not intended to diagnose, treat, cure or prevent any disease. All featured feedback originates from real users, and user experiences may be dramatized via digital avatars to protect consumer privacy, some of whom have a personal connection to the creators.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: geniusofren, listed since 2026-09-28
+- How much? — 39 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Genius Brain Switch - Absolute Media Monster 2026 alternatives · price & data · review & research

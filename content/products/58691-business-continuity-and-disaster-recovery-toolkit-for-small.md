@@ -59,6 +59,13 @@
 
 > Important: This toolkit provides planning, assessment, and documentation tools. It does not replace professional legal, cybersecurity, insurance, regulatory, emergency-management, or technical advice. Recovery procedures, backup systems, contracts, safety procedures, and regulatory requirements should always be independently verified for your particular organization.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: IoTSystemsGrowthSolutions, listed since 2026-08-26
+- How much? — 99 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Business Continuity and Disaster Recovery Toolkit for Small alternatives · price & data · review & research

@@ -63,6 +63,13 @@
 - assets/products/45930-g1.webp
 - assets/products/45930-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: ykarabacak, listed since 2023-11-09
+- How much? — 12.450018000000002 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Video - Compilation | Starting 6-Figure Business alternatives · price & data · review & research

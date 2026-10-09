@@ -61,6 +61,13 @@
 - assets/products/43391-g2.webp
 - assets/products/43391-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: infiniteensys, listed since 2023-03-28
+- How much? — 54.8114 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ultimate OFF-GRID Generator - Top Performer for 2023 alternatives · price & data · review & research

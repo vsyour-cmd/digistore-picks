@@ -51,6 +51,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: Nancy021, listed since 2026-05-23
+- How much? — 16 USD
+- Guarantee? — 011
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Invitation – Promote 7‑Day Balanced Meal Plan alternatives · price & data · review & research

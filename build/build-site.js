@@ -390,6 +390,9 @@ ${deList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks-d
       : "";
     const methodBox = `<h2 id="method">How we evaluate products like ${esc(p.label)}</h2>
 <p class="sub">Six checks, all on official marketplace numbers — earnings/sale ÷ cancel-rate skepticism × funnel fit. <a href="../blog/digistore24-numbers-checklist.html">Read the full evaluation method</a> · <a href="../about.html">our research standards &amp; labeling</a>.</p>`;
+    const faqQas = faqData(p, altData);
+    const faqBlock = faqSection(p, faqQas);
+    const faqLd = faqJsonLd(p, faqQas);
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Home", href: "../index.html" }];
@@ -433,6 +436,8 @@ ${usageSection(p)}
 ${galleryBlock(p)}
 
 ${cautionSection(p)}
+
+${faqBlock}
 
 ${relatedBlock}
 
@@ -492,7 +497,7 @@ ${interactionBlock}`;
     fs.writeFileSync(file, layout({
       title: `${p.label} — price, commission & sales-page research (${p.type})`,
       desc: `${p.label}: ${p.type} by ${p.vendorName} on Digistore24. Price ${money(p.price, p.currency)}, ${pct(p.commission)} commission, marketplace stats and verbatim sales-page research. Updated ${datemark(DATA.scrapedAt)}.`,
-      body, rel: "..", path: `reviews/${p.slug}.html`, ogImage: localImg ? localImg.path : null, jsonLd,
+      body, rel: "..", path: `reviews/${p.slug}.html`, ogImage: localImg ? localImg.path : null, jsonLd: [...jsonLd, faqLd],
       crumb: crumbItems,
     }));
   }
@@ -789,6 +794,7 @@ function relatedSearches(p, altSlugs) {
     pills.push([`${cat.label} on Digistore24`, `../category/${cat.file}.html`]);
     if (cat.count >= 8) pills.push([`Best ${cat.label} products`, `../best-of/best-${cat.file}.html`]);
   }
+  pills.push([`${p.label} FAQ`, "#faq"]);
   pills.push([`How we evaluate products`, `../blog/digistore24-numbers-checklist.html`]);
   return `<h2>Related searches</h2>
 <div class="pills">
@@ -814,6 +820,59 @@ function interactionBlock(p) {
 <p>We publish hands-on reviews only after buying a product ourselves — but your experience helps other readers:
 <a href="https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=${q}" rel="noopener" target="_blank">start or join the discussion about ${esc(p.label)} on GitHub</a>.
 Found a wrong number? <a href="mailto:admin@2bkf.com?subject=${mail}">Report a correction</a> — every page shows its data dates, and corrections are applied to the whole site.</p>`;
+}
+
+// FAQ:答案全部来自官方市场数据(计算)或厂商销售页宣称(标注),不编造
+function faqData(p, altData) {
+  const gm = p.research && !p.research.error && p.research.guaranteeMention;
+  const cat = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+  const qas = [];
+  qas.push({
+    q: `What is ${p.label}?`,
+    a: `${p.label} is a ${p.type.toLowerCase()} sold through the Digistore24 marketplace by vendor ${p.vendorName}, listed since ${datemark(p.createdAt)}.${(p.categories || []).length ? ` It is filed under ${p.categories.slice(0, 2).join(" and ")}.` : ""} Digistore24 handles checkout, delivery and refunds for this product.`,
+  });
+  qas.push({
+    q: `How much does ${p.label} cost?`,
+    a: `The Digistore24 marketplace lists it at ${money(p.price, p.currency)} (${(p.billingTypes || []).join(", ").toLowerCase() || "see sales page"}). Prices are set by the vendor and can change — the official sales page shows the current price.`,
+  });
+  qas.push({
+    q: `Is there a money-back guarantee for ${p.label}?`,
+    a: gm
+      ? `The vendor's sales page advertises: “${p.research.guaranteeMention}”. The guarantee window is set by the vendor — confirm the current terms on the official page before buying. Digistore24 handles the refund process.`
+      : `Our sales-page research did not find explicit guarantee language. Many Digistore24 products carry a 60-day money-back guarantee, but this is set per product by the vendor — confirm on the official sales page before buying.`,
+  });
+  qas.push({
+    q: `Is ${p.label} legit?`,
+    a: `We don't rate legitimacy — we publish verifiable data instead: vendor ${p.vendorName} (listed on Digistore24 since ${datemark(p.createdAt)}), cart conversion ${pct(p.conversionRate)}, cancel rate ${pct(p.cancelRate)}, affiliate earnings/sale ${money(p.earningsPerSale, p.currency)} (all vendor-side marketplace statistics). Read our research standards before deciding, and judge with the numbers.`,
+  });
+  if (altData && altData.length >= 3) {
+    qas.push({
+      q: `Are there alternatives to ${p.label}?`,
+      a: `Yes — the closest same-category offers are ${altData.slice(0, 3).map((x) => x.label).join(", ")}. See the comparison table above or the full alternatives page for side-by-side marketplace numbers.`,
+    });
+  }
+  qas.push({
+    q: `Where can I buy ${p.label} safely?`,
+    a: `Only through the official sales page linked on this site (checkout and refunds run via Digistore24). Verify the price and guarantee there before ordering. That link is an affiliate link — buying through it supports this site at no extra cost to you.`,
+  });
+  return qas;
+}
+
+function faqSection(p, qas) {
+  return `<h2 id="faq">Frequently asked questions about ${esc(p.label)}</h2>
+${qas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
+}
+
+function faqJsonLd(p, qas) {
+  return {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: qas.map(({ q, a }) => ({
+      "@type": "Question",
+      name: q,
+      acceptedAnswer: { "@type": "Answer", text: a.replace(/<[^>]+>/g, "") },
+    })),
+  };
 }
 
 function aboutPage() {

@@ -71,6 +71,13 @@
 - assets/products/59272-g2.webp
 - assets/products/59272-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: aaravom, listed since 2026-09-16
+- How much? — 40 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1000+ Excel Templates Bundle | Budget, Finance, Business, HR alternatives · price & data · review & research

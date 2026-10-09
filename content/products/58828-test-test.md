@@ -72,6 +72,13 @@
 
 - assets/products/58828-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: team24-mmichalowski, listed since 2026-09-01
+- How much? — 124.16460000000001 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Test Test alternatives · price & data · review & research

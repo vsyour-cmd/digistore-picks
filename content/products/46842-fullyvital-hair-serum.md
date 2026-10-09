@@ -64,6 +64,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: fullyvital25, listed since 2024-09-10
+- How much? — 174.5016 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FullyVital Hair Serum alternatives · price & data · review & research

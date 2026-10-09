@@ -58,6 +58,13 @@
 
 > Privacy Policy | Disclaimer | Terms and Conditions | Refunds Policy
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: nogridpr, listed since 2022-11-21
+- How much? — 37 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: No Grid Survival Projects – BRAND NEW! alternatives · price & data · review & research

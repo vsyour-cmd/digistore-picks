@@ -76,6 +76,13 @@
 - assets/products/42151-g3.webp
 - assets/products/42151-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: docsrem, listed since 2022-11-02
+- How much? — 42.41 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Doctor's Book Of Survival Home Remedies alternatives · price & data · review & research

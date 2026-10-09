@@ -72,6 +72,13 @@
 
 - assets/products/58854-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: eagerdragonpublishin22b2, listed since 2026-09-01
+- How much? — 47 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MyRankFlow: white-label SEO agency panel, $47 one-off, 50% commission alternatives · price & data · review & research

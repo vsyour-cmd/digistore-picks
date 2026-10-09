@@ -61,6 +61,13 @@
 
 > Is this a meal plan or medical advice? No. This is a recipe collection for educational and culinary purposes. For personalized nutrition or medical advice, please consult a qualified healthcare professional.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: PharmaNutrition_glow, listed since 2026-08-06
+- How much? — 37 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The High-Protein Fat Loss Cookbook alternatives · price & data · review & research

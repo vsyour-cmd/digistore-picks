@@ -58,6 +58,13 @@
 > Read an exciting story in your desired language and in this way learn the most important vocabulary for daily conversations quickly and easily!
 > Furthermore we recommend that you use the exclusive vocabulary trainer available on our website. The text is based on the most important words for everyday use of language.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: Natural-Learning, listed since 2014-11-09
+- How much? — 23.4906 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Learn Spanish by speaking! alternatives · price & data · review & research

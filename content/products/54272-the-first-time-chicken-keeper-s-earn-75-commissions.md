@@ -68,6 +68,13 @@
 
 > Disclaimer: This is an educational product. Results depend on your effort, local conditions, climate, and consistency in applying the methods taught. We make no guarantees about animal health outcomes, egg production, or specific results. Always consult local veterinarians for health concerns. The 60-day refund policy applies to the purchase price only.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
+- How much? — 164.4342 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The First-Time Chicken Keeper's  | Earn 75% Commissions alternatives · price & data · review & research

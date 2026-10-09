@@ -75,6 +75,13 @@
 - assets/products/59559-g3.webp
 - assets/products/59559-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: ramib6566a327, listed since 2026-09-22
+- How much? — 65 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ReelForge Studio - Faceless Videos on Autopilot (Windows App alternatives · price & data · review & research

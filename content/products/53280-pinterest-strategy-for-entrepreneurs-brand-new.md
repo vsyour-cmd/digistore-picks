@@ -58,6 +58,13 @@
 - assets/products/53280-g1.webp
 - assets/products/53280-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: Soph07, listed since 2025-07-09
+- How much? — 30.2022 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pinterest Strategy for Entrepreneurs - Brand new alternatives · price & data · review & research

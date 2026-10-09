@@ -58,6 +58,13 @@
 - assets/products/58346-g3.webp
 - assets/products/58346-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: infocbbc, listed since 2026-08-14
+- How much? — 60 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Comm | High-Converting Business Ebook! alternatives · price & data · review & research

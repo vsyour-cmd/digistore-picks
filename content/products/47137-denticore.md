@@ -69,6 +69,13 @@
 - assets/products/47137-g3.webp
 - assets/products/47137-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: DentiCore, listed since 2024-02-15
+- How much? — 184.367652 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DentiCore alternatives · price & data · review & research

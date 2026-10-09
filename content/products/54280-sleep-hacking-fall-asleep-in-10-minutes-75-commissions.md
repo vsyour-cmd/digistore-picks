@@ -67,6 +67,13 @@
 > Even if you've struggled with insomnia for years, this neurological method shuts down the exact brain process keeping you awake — no medications, no side effects.
 > Yes — never stop medication without consulting your doctor first. Many people use Sleep Hacking alongside their current treatment initially, then work with their doctor to reduce medications as their natural sleep improves. 76% of our test subjects were able to eliminate sleep aids completely within 30 days.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
+- How much? — 117.453 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions alternatives · price & data · review & research

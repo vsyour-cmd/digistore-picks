@@ -61,6 +61,13 @@
 - assets/products/52011-g3.webp
 - assets/products/52011-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-04-09
+- How much? — 52.574200000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Escape the 9-5- Create Multiple Income Streams Guide alternatives · price & data · review & research

@@ -67,6 +67,13 @@
 - assets/products/54877-g3.webp
 - assets/products/54877-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: patricia_sekael, listed since 2025-12-03
+- How much? — 30.2022 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stop Fearing the Math in Accounting | High 60% Commission alternatives · price & data · review & research

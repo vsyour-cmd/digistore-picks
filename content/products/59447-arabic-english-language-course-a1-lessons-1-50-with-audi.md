@@ -52,6 +52,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: nowdigitalproducts, listed since 2026-09-21
+- How much? — 16.66714 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Arabic-English Language Course A1 Lessons 1–50 with Audi alternatives · price & data · review & research

@@ -71,6 +71,13 @@
 - assets/products/57738-g2.webp
 - assets/products/57738-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: boundcolorado07f404, listed since 2026-07-25
+- How much? — 37 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Day Life Reset Planner alternatives · price & data · review & research

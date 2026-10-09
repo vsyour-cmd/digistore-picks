@@ -71,6 +71,13 @@
 - assets/products/57493-g2.webp
 - assets/products/57493-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: 65187541348b1, listed since 2026-07-11
+- How much? — 77 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Alpha Dualis Men - Men's Health Supplement - 50% Affiliate C alternatives · price & data · review & research

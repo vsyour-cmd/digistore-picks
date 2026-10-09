@@ -51,6 +51,13 @@
 
 > Disclaimer: This product is not intended to diagnose, treat, cure, or prevent any disease. All featured feedback originates from real users, and user experiences may be dramatized via digital avatars to protect consumer privacy, some of whom have a personal connection to the creators. Some visuals and images may be dramatized or actor portrayals, to better illustrate key scientific findings. Their statements reflect individual experiences.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: energyofren, listed since 2026-09-19
+- How much? — 39 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Money Script Secrets -Monster Offer From Top Platinum Vendor alternatives · price & data · review & research

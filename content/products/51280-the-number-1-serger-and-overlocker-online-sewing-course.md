@@ -68,6 +68,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: creatory, listed since 2024-07-16
+- How much? — 75.91432101338175 USD
+- Guarantee? — 60-day money-back guarantee
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Number 1 Serger and Overlocker Online Sewing Course alternatives · price & data · review & research

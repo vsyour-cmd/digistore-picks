@@ -68,6 +68,13 @@
 
 > Disclaimer: This training is for educational purposes only. Results vary based on individual effort, market conditions, product quality, and implementation. While we've helped thousands launch digital products, specific income results are not guaranteed. This is a legitimate business-building system that requires consistent work. Past student performance does not guarantee future results.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-06
+- How much? — 149.8924 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Product Blueprint: Create Your First Digital Product alternatives · price & data · review & research

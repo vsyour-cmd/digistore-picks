@@ -71,6 +71,13 @@
 - assets/products/55862-g3.webp
 - assets/products/55862-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - for slimming, vendor: soundview, listed since 2025-08-01
+- How much? — 140.97 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GLP-1 Plus alternatives · price & data · review & research

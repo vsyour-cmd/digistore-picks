@@ -54,6 +54,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: premvitality, listed since 2026-07-16
+- How much? — 138 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nail Refresh alternatives · price & data · review & research

@@ -61,6 +61,13 @@
 > He spent 3 years auditing the human body, discovering that weight loss is the side effect of a balanced biology. The Metabolic Roots Decoder is his framework for bypassing willpower and using clinical logic to dismantle insulin resistance and hormonal chaos.
 > The Metabolic Roots Decoder is strictly an educational course based on physiological observation. We are not physicians. This protocol is not medical advice, a diagnosis, or a prescribed treatment for obesity, thyroid conditions, or insulin resistance. Always consult with a licensed healthcare provider before making lifestyle or nutritional changes.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: PlanetaVida, listed since 2026-01-14
+- How much? — 21.2534 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 75% Comm | The "Metabolic Safety" Funnel | Lifetime Cookies alternatives · price & data · review & research

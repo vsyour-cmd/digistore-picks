@@ -68,6 +68,13 @@
 
 - assets/products/40914-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: sbackyard, listed since 2021-03-15
+- How much? — 49.531608000000006 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Self-Sufficient Backyard alternatives · price & data · review & research

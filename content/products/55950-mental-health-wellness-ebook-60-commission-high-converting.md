@@ -64,6 +64,13 @@
 
 - assets/products/55950-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: wellnesswithsher, listed since 2026-03-15
+- How much? — 21.924560000000003 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mental Health  Wellness eBook 60%Commission High-Converting alternatives · price & data · review & research

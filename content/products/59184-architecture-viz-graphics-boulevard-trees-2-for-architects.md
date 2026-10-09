@@ -64,6 +64,13 @@
 
 - assets/products/59184-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: Tonytextures, listed since 2026-09-13
+- How much? — 159 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Architecture VIZ Graphics – Boulevard Trees 2 for Architects alternatives · price & data · review & research

@@ -56,6 +56,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: penneymegginson9f1b, listed since 2026-04-03
+- How much? — 52.574200000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 28-Day Gut and Inflammation Reset alternatives · price & data · review & research

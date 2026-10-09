@@ -73,6 +73,13 @@
 - assets/products/53788-g3.webp
 - assets/products/53788-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-08-18
+- How much? — 99.186262 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BrainAMP - Switch On Focus, Energy, and Calm alternatives · price & data · review & research

@@ -63,6 +63,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-12
+- How much? — 20.123614 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Negotiation Ninja–Deal Winning Art alternatives · price & data · review & research

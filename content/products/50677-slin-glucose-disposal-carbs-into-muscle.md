@@ -52,6 +52,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - for slimming, vendor: enhancedlabs, listed since 2024-12-03
+- How much? — 257.278 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SLIN — Glucose Disposal "Carbs into Muscle" alternatives · price & data · review & research

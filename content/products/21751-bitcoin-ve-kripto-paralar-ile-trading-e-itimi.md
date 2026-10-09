@@ -66,6 +66,13 @@
 - assets/products/21751-g3.webp
 - assets/products/21751-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Positivemind, listed since 2017-11-02
+- How much? — 1113.007 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bitcoin ve Kripto paraları ile trading eğitimi alternatives · price & data · review & research

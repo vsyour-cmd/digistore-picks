@@ -66,6 +66,13 @@
 - assets/products/50596-g3.webp
 - assets/products/50596-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: LottoChamp, listed since 2024-11-19
+- How much? — 201.72832400000001 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lotto Champ alternatives · price & data · review & research

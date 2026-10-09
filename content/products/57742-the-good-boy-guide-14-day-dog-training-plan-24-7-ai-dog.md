@@ -72,6 +72,13 @@
 - assets/products/57742-g3.webp
 - assets/products/57742-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: vfdigitaldesign, listed since 2026-07-25
+- How much? — 27 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Good Boy Guide — 14-Day Dog Training Plan + 24/7 AI Dog alternatives · price & data · review & research

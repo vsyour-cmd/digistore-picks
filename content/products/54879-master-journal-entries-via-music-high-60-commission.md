@@ -67,6 +67,13 @@
 - assets/products/54879-g3.webp
 - assets/products/54879-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: patricia_sekael, listed since 2025-12-08
+- How much? — 30.2022 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Master Journal Entries via Music | High 60% Commission alternatives · price & data · review & research

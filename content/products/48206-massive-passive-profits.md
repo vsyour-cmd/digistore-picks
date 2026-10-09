@@ -52,6 +52,13 @@
 - assets/products/48206-g2.webp
 - assets/products/48206-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: massiveai, listed since 2024-05-21
+- How much? — 41.388200000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Massive Passive Profits alternatives · price & data · review & research

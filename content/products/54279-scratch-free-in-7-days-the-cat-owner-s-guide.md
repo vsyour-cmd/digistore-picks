@@ -68,6 +68,13 @@
 
 > Disclaimer: This is an educational product and is not intended as veterinary or behaviorist therapy advice. Individual results may vary based on effort, consistency, cat temperament, age, and adherence to the program guidelines. Always consult with your veterinarian before beginning any new training program, especially if your cat has existing health or behavioral issues. Declawing is considered inhumane and is illegal in many jurisdictions.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
+- How much? — 135.35060000000001 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Scratch-Free in 7 Days: The Cat Owner's Guide alternatives · price & data · review & research

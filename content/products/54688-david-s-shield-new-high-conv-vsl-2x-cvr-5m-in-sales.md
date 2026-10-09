@@ -64,6 +64,13 @@
 - assets/products/54688-g3.webp
 - assets/products/54688-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: blackoutusa, listed since 2025-09-19
+- How much? — 79.57720400000001 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales alternatives · price & data · review & research

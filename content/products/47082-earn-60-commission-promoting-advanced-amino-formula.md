@@ -64,6 +64,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: soundview, listed since 2022-12-01
+- How much? — 119.063784 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Commission Promoting Advanced Amino Formula alternatives · price & data · review & research

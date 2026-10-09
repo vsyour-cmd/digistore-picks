@@ -71,6 +71,13 @@
 - assets/products/53752-g3.webp
 - assets/products/53752-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-08-20
+- How much? — 78.24607 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Vision Formula alternatives · price & data · review & research

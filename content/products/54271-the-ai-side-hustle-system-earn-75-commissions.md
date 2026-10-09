@@ -68,6 +68,13 @@
 
 > Disclaimer: This is an educational product designed to teach AI-powered content creation techniques. Results depend on your effort, consistency, and implementation of the strategies provided. We make no guarantees about income, success, or specific outcomes. Individual results will vary based on skills, experience, and dedication to applying the methods taught. Any income examples are for educational purposes only and do not represent typical results.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
+- How much? — 171.1458 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The AI Side Hustle System | Earn 75% Commissions alternatives · price & data · review & research

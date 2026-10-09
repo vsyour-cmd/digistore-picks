@@ -54,6 +54,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: shopysmiles, listed since 2026-09-07
+- How much? — 20 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quick and Smart Canva Essentials - Illustrated PDF Guide alternatives · price & data · review & research

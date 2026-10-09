@@ -65,6 +65,13 @@
 
 - assets/products/33677-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: MBM007, listed since 2020-07-28
+- How much? — 75 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The SUPP UP. No Bull Nutrition At Home Field Guide alternatives · price & data · review & research

@@ -54,6 +54,13 @@
 
 - assets/products/48030-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: thewealthsignal, listed since 2024-04-28
+- How much? — 49.856002000000004 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Wealth Signal alternatives · price & data · review & research

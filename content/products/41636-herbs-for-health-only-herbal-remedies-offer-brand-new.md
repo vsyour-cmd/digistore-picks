@@ -75,6 +75,13 @@
 - assets/products/41636-g3.webp
 - assets/products/41636-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: homeprepper, listed since 2022-10-24
+- How much? — 21.42119 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Herbs for Health- Only Herbal Remedies Offer! (Brand New) alternatives · price & data · review & research

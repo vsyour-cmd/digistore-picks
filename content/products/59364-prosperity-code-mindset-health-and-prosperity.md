@@ -70,6 +70,13 @@
 > But there comes a point when another question becomes much more important:
 > By the time you finish the book, you will have examined how you define prosperity, where that definition came from, what beliefs may be quietly influencing you, what information and environments repeatedly shape your thinking, and what parts of your life deserve your attention now.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: john53ac, listed since 2026-09-19
+- How much? — 27.73 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Prosperity Code - Mindset, Health and Prosperity alternatives · price & data · review & research

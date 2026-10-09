@@ -59,6 +59,13 @@
 > With extremely high levels of pollen production, the poppy is an important food source for beneficial insects. It also needs very little water, so the other plants will get more.
 > When most people hear marshmallow, they tend to picture the white fluffy treat commonly roasted over a campfire. Traditionally these were made from the root of the marshmallow plant, a powerful medicinal herb that you’ll want to grow yourself at home. Its leaves and root are antibacterial , and most importantly, they contain a sap-like substance called mucilage.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: bookofren, listed since 2021-03-19
+- How much? — 70.829752 USD
+- Guarantee? — 365
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Medicinal Garden Kit – BRAND NEW! alternatives · price & data · review & research

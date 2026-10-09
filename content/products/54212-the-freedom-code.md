@@ -74,6 +74,13 @@
 - assets/products/54212-g3.webp
 - assets/products/54212-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: AspireVerse, listed since 2025-09-28
+- How much? — 22.360813999999998 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Freedom Code alternatives · price & data · review & research

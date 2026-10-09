@@ -69,6 +69,13 @@
 - assets/products/46831-g3.webp
 - assets/products/46831-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: Kerassentials, listed since 2024-01-11
+- How much? — 236.29306400000002 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kerassentials alternatives · price & data · review & research

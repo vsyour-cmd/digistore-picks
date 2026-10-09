@@ -60,6 +60,13 @@
 
 > This product is not a substitute for medical or mental health treatment. If you are experiencing severe or persistent anxiety, please consult a licensed doctor or therapist.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: ZeroToCommission, listed since 2026-03-14
+- How much? — 37 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Calm Code alternatives · price & data · review & research

@@ -69,6 +69,13 @@
 - assets/products/58511-g1.webp
 - assets/products/58511-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: Book2Book, listed since 2026-08-22
+- How much? — 37.99 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Garden Planner and Logbook (Printable PDFs) alternatives · price & data · review & research

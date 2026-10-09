@@ -70,6 +70,13 @@
 - assets/products/47378-g2.webp
 - assets/products/47378-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2024-03-05
+- How much? — 77.1834 USD
+- Guarantee? — 365
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote Pineal Guard Now! alternatives · price & data · review & research

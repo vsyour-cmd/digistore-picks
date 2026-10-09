@@ -77,6 +77,13 @@
 - assets/products/50763-g3.webp
 - assets/products/50763-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: soundview, listed since 2024-11-13
+- How much? — 55.87407 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Curcumitol-Q BioBDMC alternatives · price & data · review & research

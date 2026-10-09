@@ -74,6 +74,13 @@
 - assets/products/48346-g2.webp
 - assets/products/48346-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: alphadrive24, listed since 2024-05-21
+- How much? — 137.07324400000002 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ProstaPure 24 alternatives · price & data · review & research

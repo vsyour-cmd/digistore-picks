@@ -68,6 +68,13 @@
 
 - assets/products/58865-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ramib6566a327, listed since 2026-09-02
+- How much? — 67 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 140 Trading Patterns in One Practical Visual Field Manual alternatives · price & data · review & research

@@ -62,6 +62,13 @@
 - assets/products/34077-g3.webp
 - assets/products/34077-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Perpincome, listed since 2020-06-27
+- How much? — 52.574200000000005 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Perpetual Income 365 alternatives · price & data · review & research

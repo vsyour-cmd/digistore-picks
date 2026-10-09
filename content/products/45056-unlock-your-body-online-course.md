@@ -57,6 +57,13 @@
 - assets/products/45056-g2.webp
 - assets/products/45056-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: timboettner, listed since 2023-08-07
+- How much? — 99.5554 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Your Body [Online Course] alternatives · price & data · review & research

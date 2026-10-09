@@ -68,6 +68,13 @@
 > Legal Notice: This product is for educational purposes only and does not constitute legal advice. Immigration laws and policies may change. Always verify official information at USCIS.gov . If needed, consult a licensed immigration attorney.
 > 🚨 ATTENTION: This Is Your Chance to Change Your Life Before It's Too Late
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-10-29
+- How much? — 32.4394 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Building Your Legal Journey to the USA alternatives · price & data · review & research

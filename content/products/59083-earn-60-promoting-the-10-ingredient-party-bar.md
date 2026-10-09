@@ -68,6 +68,13 @@
 - assets/products/59083-g3.webp
 - assets/products/59083-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: vfdigitaldesign, listed since 2026-09-10
+- How much? — 37 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Promoting the 10-Ingredient Party Bar alternatives · price & data · review & research

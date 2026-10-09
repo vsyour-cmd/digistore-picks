@@ -59,6 +59,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: mohdnamatef97, listed since 2026-03-18
+- How much? — 558.1814 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Medical Content Generator – Yearly alternatives · price & data · review & research

@@ -55,6 +55,13 @@
 - assets/products/50401-g1.webp
 - assets/products/50401-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ManikandanP, listed since 2024-11-13
+- How much? — 59 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mastering SEO alternatives · price & data · review & research

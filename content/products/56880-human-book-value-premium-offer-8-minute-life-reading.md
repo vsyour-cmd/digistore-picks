@@ -67,6 +67,13 @@
 
 - assets/products/56880-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Remote service provided electronically, vendor: contact4241, listed since 2026-06-13
+- How much? — 19.99 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Human Book Value™ | Premium Offer | 8-Minute Life Reading alternatives · price & data · review & research

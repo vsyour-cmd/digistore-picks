@@ -61,6 +61,13 @@
 - assets/products/54221-g3.webp
 - assets/products/54221-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: thyrafemme, listed since 2025-09-22
+- How much? — 141.312738 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Thyrafemme Balance - New Japanese-Inspired Thyroid Offer alternatives · price & data · review & research

@@ -68,6 +68,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Pagewheel, listed since 2025-12-05
+- How much? — 47 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pagewheel: AI Product and Funnel Builder | SAAS + Training alternatives · price & data · review & research

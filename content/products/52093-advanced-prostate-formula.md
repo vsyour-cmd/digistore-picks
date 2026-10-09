@@ -74,6 +74,13 @@
 - assets/products/52093-g2.webp
 - assets/products/52093-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-04-10
+- How much? — 55.87407 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Prostate Formula alternatives · price & data · review & research

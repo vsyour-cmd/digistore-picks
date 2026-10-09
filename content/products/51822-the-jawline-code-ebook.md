@@ -69,6 +69,13 @@
 > Perfect for men tired of being overlooked and invisible and eager to develop the kind of masculine facial structure that attracts attention and respect.
 > 5 phases packed with scientific techniques so effective, they should be patented. (Warning: Deploy these consistently - people have been known to ask if you've had surgery after just a few weeks.)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: AAnchorBiz, listed since 2025-03-22
+- How much? — 108.5042 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Jawline Code - ebook alternatives · price & data · review & research

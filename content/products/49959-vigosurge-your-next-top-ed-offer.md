@@ -64,6 +64,13 @@
 - assets/products/49959-g2.webp
 - assets/products/49959-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: vigosurge, listed since 2024-09-18
+- How much? — 88.3694 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VigoSurge - Your Next Top ED Offer alternatives · price & data · review & research

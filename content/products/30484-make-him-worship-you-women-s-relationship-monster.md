@@ -57,6 +57,13 @@
 - assets/products/30484-g1.webp
 - assets/products/30484-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: digitalromance, listed since 2019-06-14
+- How much? — 41.388200000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Make Him Worship You - Women's Relationship Monster alternatives · price & data · review & research

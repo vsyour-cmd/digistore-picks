@@ -66,6 +66,13 @@
 - assets/products/53549-g3.webp
 - assets/products/53549-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: DS123456789, listed since 2025-08-11
+- How much? — 54.8114 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Weight Loss 2.0 alternatives · price & data · review & research

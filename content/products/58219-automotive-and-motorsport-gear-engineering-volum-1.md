@@ -59,6 +59,13 @@
 - assets/products/58219-g3.webp
 - assets/products/58219-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-08
+- How much? — 44.744 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Automotive and Motorsport Gear Engineering – Volumе 1 alternatives · price & data · review & research

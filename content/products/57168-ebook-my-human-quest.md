@@ -60,6 +60,13 @@
 - assets/products/57168-g3.webp
 - assets/products/57168-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-06-29
+- How much? — 82.16117000000001 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - My Human Quest alternatives · price & data · review & research

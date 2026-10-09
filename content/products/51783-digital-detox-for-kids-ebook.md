@@ -68,6 +68,13 @@
 > I consulted with experts in pediatric neurology, behavioral psychology, and family therapy.
 > And, most importantly, you'll become the parent your child needs to thrive in the digital age - confident, connected, and in control.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: AAnchorBiz, listed since 2025-03-19
+- How much? — 15.649214 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Detox for Kids - eBook alternatives · price & data · review & research

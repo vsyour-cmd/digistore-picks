@@ -61,6 +61,13 @@
 - assets/products/40492-g1.webp
 - assets/products/40492-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: igorkheifets, listed since 2022-06-29
+- How much? — 1055.2201240000002 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 301K Challenge alternatives · price & data · review & research

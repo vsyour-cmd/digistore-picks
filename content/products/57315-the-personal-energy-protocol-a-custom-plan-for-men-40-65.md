@@ -66,6 +66,13 @@
 - assets/products/57315-g1.webp
 - assets/products/57315-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: Alencarjp, listed since 2026-06-30
+- How much? — 27 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Personal Energy Protocol — A Custom Plan for Men 40–65 alternatives · price & data · review & research

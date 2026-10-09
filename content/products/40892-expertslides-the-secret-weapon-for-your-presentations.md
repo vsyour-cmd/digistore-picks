@@ -76,6 +76,13 @@
 - assets/products/40892-g3.webp
 - assets/products/40892-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: expertslides, listed since 2022-08-17
+- How much? — 255.04080000000002 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ExpertSlides - The secret weapon for your presentations! alternatives · price & data · review & research

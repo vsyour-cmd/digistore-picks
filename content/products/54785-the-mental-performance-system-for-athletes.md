@@ -68,6 +68,13 @@
 
 - assets/products/54785-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: Grace333, listed since 2025-09-18
+- How much? — 27 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Mental Performance System for Athletes ‎ alternatives · price & data · review & research

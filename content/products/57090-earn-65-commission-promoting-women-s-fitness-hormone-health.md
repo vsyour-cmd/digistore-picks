@@ -68,6 +68,13 @@
 - assets/products/57090-g1.webp
 - assets/products/57090-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ZoeWomen, listed since 2026-06-20
+- How much? — 57 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 65% Commission Promoting Women's Fitness Hormone Health alternatives · price & data · review & research

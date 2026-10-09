@@ -71,6 +71,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: igenics, listed since 2022-08-03
+- How much? — 172.689468 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: iGenics - Hot New Offer in the Vision Niche!(Text and Video) alternatives · price & data · review & research

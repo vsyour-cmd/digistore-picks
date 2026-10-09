@@ -64,6 +64,13 @@
 
 - assets/products/59548-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: maxdent, listed since 2026-09-22
+- How much? — 180 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 30% commission promoting MaxDent to dental professional alternatives · price & data · review & research

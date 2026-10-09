@@ -67,6 +67,13 @@
 
 > Disclaimer: Results mentioned on this page are not typical and are not a guarantee of your future results. Individual results will vary based on effort, experience, and market conditions. This product is for educational purposes only. Testimonials shown are from real customers but your results may differ. This website is not affiliated with YouTube or Google LLC.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ZeroToCommission, listed since 2026-06-13
+- How much? — 47 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Faceless YouTube Automation alternatives · price & data · review & research

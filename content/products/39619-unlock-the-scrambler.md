@@ -54,6 +54,13 @@
 - assets/products/39619-g1.webp
 - assets/products/39619-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: bobbyrio, listed since 2022-02-04
+- How much? — 88.3694 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock the Scrambler alternatives · price & data · review & research

@@ -61,6 +61,13 @@
 
 > Disclaimer: This program is for educational purposes. Consult with a healthcare provider before starting any diet or exercise program, especially if you have pre-existing health conditions. Results vary based on individual circumstances, adherence, and starting point. The information provided is not medical advice.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-11-21
+- How much? — 19.0162 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lose Your Belly Fat in 30 Days or Less – The Complete Guide alternatives · price & data · review & research

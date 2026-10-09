@@ -62,6 +62,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: FIMA2011, listed since 2019-05-10
+- How much? — 27.953813999999998 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raspberry Pi for Beginners (Mac+PC) alternatives · price & data · review & research

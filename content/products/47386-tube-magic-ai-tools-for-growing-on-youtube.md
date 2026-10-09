@@ -71,6 +71,13 @@
 - assets/products/47386-g3.webp
 - assets/products/47386-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: tubemagic, listed since 2024-02-23
+- How much? — 1026.304314 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tube Magic - AI Tools For Growing on YouTube alternatives · price & data · review & research

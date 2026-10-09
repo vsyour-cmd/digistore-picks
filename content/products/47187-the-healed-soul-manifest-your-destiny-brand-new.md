@@ -73,6 +73,13 @@
 - assets/products/47187-g3.webp
 - assets/products/47187-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: TheHealedSoul, listed since 2024-02-21
+- How much? — 37.282938 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Healed Soul "MANIFEST YOUR DESTINY" - BRAND NEW alternatives · price & data · review & research

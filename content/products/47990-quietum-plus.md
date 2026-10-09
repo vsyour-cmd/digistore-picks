@@ -72,6 +72,13 @@
 - assets/products/47990-g3.webp
 - assets/products/47990-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: QuietumPlus, listed since 2024-04-25
+- How much? — 267.524376 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quietum Plus alternatives · price & data · review & research

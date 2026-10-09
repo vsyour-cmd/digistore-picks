@@ -65,6 +65,13 @@
 - assets/products/47506-g1.webp
 - assets/products/47506-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: UsefulPrograms, listed since 2024-03-18
+- How much? — 33.546814 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Sleep Reset: 14 Nights to Rebooting Your Rest alternatives · price & data · review & research

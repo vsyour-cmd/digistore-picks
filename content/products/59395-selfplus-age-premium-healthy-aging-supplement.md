@@ -65,6 +65,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: selfplus, listed since 2026-09-19
+- How much? — 324 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SelfPlus AGE+ – Premium Healthy Aging Supplement alternatives · price & data · review & research

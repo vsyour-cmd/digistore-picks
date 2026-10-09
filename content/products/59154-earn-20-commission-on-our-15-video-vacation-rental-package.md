@@ -57,6 +57,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Remote service provided electronically, vendor: wdpxdigitalproducts, listed since 2026-09-13
+- How much? — 2012.3614 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 20% Commission on Our 15-Video Vacation-Rental Package alternatives · price & data · review & research

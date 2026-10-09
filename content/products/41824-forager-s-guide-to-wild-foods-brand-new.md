@@ -62,6 +62,13 @@
 > If you see this plant invading your lawn, don’t immediately reach for your bottle of Round-Up. This seemingly annoying weed is edible and rich in many nutrients. Every 100g of this herb contains around 23g of protein and 25g of fiber, making it an amazing source of protein and fiber. Fiber is especially important since the majority of people living in the West today are fiber deficient. It can be cooked and eaten much like other greens, such as spinach and collards.
 > Haven’t you ever bumped into a mushroom, berry or plant and wondered if it’s edible or not? … and what to do with it? Maybe there are times when you're still not sure about a certain plant, and you need to consult the book, despite your vast experience. Or maybe you don’t have experience at all and just want to find wild goodies using the book.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: fguide, listed since 2021-05-24
+- How much? — 48.591984 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forager's Guide to Wild Foods – BRAND NEW! alternatives · price & data · review & research

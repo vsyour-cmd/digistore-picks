@@ -61,6 +61,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ahmadrrrtx3332f1e, listed since 2026-03-01
+- How much? — 19.0162 USD
+- Guarantee? — 30
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 90 Days of Martial Arts at Home —  No Equipment Training 50% alternatives · price & data · review & research

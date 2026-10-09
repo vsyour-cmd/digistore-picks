@@ -65,6 +65,13 @@
 - assets/products/40833-g2.webp
 - assets/products/40833-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: mysteryoffers, listed since 2022-05-16
+- How much? — 77.1834 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dominate the Diabetes Niche with Gluconite! alternatives · price & data · review & research

@@ -70,6 +70,13 @@
 
 - assets/products/53886-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-09-09
+- How much? — 27.90907 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook. alternatives · price & data · review & research

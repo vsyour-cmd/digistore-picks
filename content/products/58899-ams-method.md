@@ -59,6 +59,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: novodigiif038, listed since 2026-09-04
+- How much? — 4499 USD
+- Guarantee? — 60-Day Money-Back Guarantee
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AMS Method alternatives · price & data · review & research

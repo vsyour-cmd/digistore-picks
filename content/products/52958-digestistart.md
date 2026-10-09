@@ -65,6 +65,13 @@
 - assets/products/52958-g2.webp
 - assets/products/52958-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: DigestiStart, listed since 2025-06-23
+- How much? — 176.7388 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DigestiStart alternatives · price & data · review & research

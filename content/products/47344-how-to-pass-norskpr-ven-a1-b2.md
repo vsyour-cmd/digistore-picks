@@ -63,6 +63,13 @@
 
 - assets/products/47344-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2023-12-15
+- How much? — 110.7414 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: How to pass Norskprøven (A1-B2) alternatives · price & data · review & research

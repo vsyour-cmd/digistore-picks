@@ -68,6 +68,13 @@
 - assets/products/41776-g3.webp
 - assets/products/41776-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: fluxactive, listed since 2022-10-26
+- How much? — 88.3694 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer alternatives · price & data · review & research

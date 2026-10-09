@@ -79,6 +79,13 @@
 - assets/products/55833-g3.webp
 - assets/products/55833-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: detoxtransformation, listed since 2026-02-26
+- How much? — 49 USD
+- Guarantee? — 14
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quit Smoking Weed and Transformation Program alternatives · price & data · review & research

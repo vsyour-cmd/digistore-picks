@@ -72,6 +72,13 @@
 
 - assets/products/50065-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-13
+- How much? — 20.02294 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ChatGPT-Expertise-PLR alternatives · price & data · review & research

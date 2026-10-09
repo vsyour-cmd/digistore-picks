@@ -71,6 +71,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: destinyaff, listed since 2026-01-20
+- How much? — 48.625542 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dubai Wealth Secret - Monster Offer From Top Platinum Vendor alternatives · price & data · review & research

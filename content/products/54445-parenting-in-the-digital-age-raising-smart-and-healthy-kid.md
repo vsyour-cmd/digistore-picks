@@ -64,6 +64,13 @@
 
 - assets/products/54445-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: AspireVerse, listed since 2025-10-20
+- How much? — 30.2022 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Parenting in the Digital Age - Raising Smart and Healthy Kid alternatives · price & data · review & research

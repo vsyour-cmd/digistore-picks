@@ -51,6 +51,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: engelmann-software, listed since 2025-04-07
+- How much? — 28.18872 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MyFormatConverter – Your All-in-One Solution for Media Files alternatives · price & data · review & research

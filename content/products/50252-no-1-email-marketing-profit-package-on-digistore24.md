@@ -71,6 +71,13 @@
 
 - assets/products/50252-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-27
+- How much? — 54.8114 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: No. 1 Email Marketing Profit Package on Digistore24 alternatives · price & data · review & research

@@ -59,6 +59,13 @@
 - assets/products/43510-g2.webp
 - assets/products/43510-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: pegrom, listed since 2023-04-10
+- How much? — 77.1834 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fast Brain Booster alternatives · price & data · review & research

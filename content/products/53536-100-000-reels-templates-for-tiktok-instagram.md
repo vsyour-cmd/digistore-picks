@@ -70,6 +70,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: enginucar, listed since 2025-08-17
+- How much? — 33.558 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 100,000+ Reels Templates for TikTok & Instagram alternatives · price & data · review & research

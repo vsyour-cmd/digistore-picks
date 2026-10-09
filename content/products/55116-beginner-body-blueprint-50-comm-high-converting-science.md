@@ -59,6 +59,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: DIGJITL, listed since 2025-12-15
+- How much? — 30.2022 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beginner Body Blueprint | 50% Comm | High-Converting Science alternatives · price & data · review & research

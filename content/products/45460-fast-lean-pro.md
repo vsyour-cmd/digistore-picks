@@ -73,6 +73,13 @@
 - assets/products/45460-g3.webp
 - assets/products/45460-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - for slimming, vendor: FastLeanPro, listed since 2023-09-26
+- How much? — 176.7388 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fast Lean Pro alternatives · price & data · review & research

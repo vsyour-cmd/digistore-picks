@@ -69,6 +69,13 @@
 - assets/products/43300-g3.webp
 - assets/products/43300-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2022-11-21
+- How much? — 77.1834 USD
+- Guarantee? — 14
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Flamenco Guitar Online Course alternatives · price & data · review & research

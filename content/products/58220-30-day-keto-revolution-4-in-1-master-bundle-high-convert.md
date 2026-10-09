@@ -56,6 +56,13 @@
 > Results Disclaimer: Individual results may vary depending on starting point, metabolic rate, physical activity, and overall adherence to the program.
 > Medical & Health Disclaimer: The information provided in this 4-in-1 bundle is for educational purposes only and is not intended as medical advice. Always consult with a qualified physician or healthcare professional before starting any new diet or workout program.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: Khumee, listed since 2026-08-08
+- How much? — 37 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert alternatives · price & data · review & research

@@ -68,6 +68,13 @@
 > The breakthrough came when I realized I had the whole thing backwards. Most methods rely on punishment and complicated schedules. After deep research into canine behavior and consultations with veterinarians, I discovered that dogs learn through clear, consistent patterns that fit their instincts — not punishments or routines designed for humans. That became the 7-Day Accident-Free Method.
 > Yes — this system was designed specifically for full-time workers. You'll get exact schedules built around typical work hours. Most owners manage the full program in about 30–45 minutes of active attention per day.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
+- How much? — 134.232 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dog Potty Training in 7 Days | Earn 75% on Proven System alternatives · price & data · review & research

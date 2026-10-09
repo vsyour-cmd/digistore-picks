@@ -54,6 +54,13 @@
 
 - assets/products/51615-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: verifydata, listed since 2025-02-24
+- How much? — 41.388200000000005 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Urgent Millionaire Switch alternatives · price & data · review & research

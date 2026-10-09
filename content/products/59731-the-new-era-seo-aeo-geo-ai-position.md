@@ -74,6 +74,13 @@
 - assets/products/59731-g3.webp
 - assets/products/59731-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: pranjul62328f4e, listed since 2026-09-25
+- How much? — 49.99 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The New Era: SEO, AEO, GEO, AI Position alternatives · price & data · review & research

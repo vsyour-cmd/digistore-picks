@@ -70,6 +70,13 @@
 
 - assets/products/50064-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-14
+- How much? — 30.2022 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Image Library PLR alternatives · price & data · review & research

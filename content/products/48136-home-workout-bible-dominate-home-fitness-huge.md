@@ -63,6 +63,13 @@
 - assets/products/48136-g3.webp
 - assets/products/48136-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: emrkts, listed since 2024-05-08
+- How much? — 19.0162 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Workout Bible - Dominate Home Fitness - Huge $$$$$ alternatives · price & data · review & research

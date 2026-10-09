@@ -58,6 +58,13 @@
 - assets/products/58667-g3.webp
 - assets/products/58667-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: energy4oren, listed since 2026-08-25
+- How much? — 27 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Smoothie Sweets - Conversion Monster! $20K Contest! alternatives · price & data · review & research

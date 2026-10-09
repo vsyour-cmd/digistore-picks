@@ -67,6 +67,13 @@
 > Disclaimer: This is an educational product. Results depend on your effort, consistency, and implementation of strategies provided. We make no guarantees about specific savings amounts. Individual results vary based on current spending habits, family size, location, and dedication. Savings potential varies by individual circumstances.
 > Financial Disclaimer: This product is for educational purposes only. Any savings examples mentioned are illustrative and do not represent typical results.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
+- How much? — 159.9598 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Frugal Freedom | Earn 75% Commissions alternatives · price & data · review & research

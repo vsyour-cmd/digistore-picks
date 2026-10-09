@@ -58,6 +58,13 @@
 - assets/products/55055-g2.webp
 - assets/products/55055-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: frequencies8888, listed since 2025-12-30
+- How much? — 36.9138 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silent Subliminals – Intelligence alternatives · price & data · review & research

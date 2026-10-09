@@ -58,6 +58,13 @@
 - assets/products/52073-g3.webp
 - assets/products/52073-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-29
+- How much? — 28.18872 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SecuPerts Rescue Stick – Your Digital Emergency Assistant alternatives · price & data · review & research

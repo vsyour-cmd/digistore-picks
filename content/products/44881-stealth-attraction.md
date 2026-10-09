@@ -61,6 +61,13 @@
 - assets/products/44881-g3.webp
 - assets/products/44881-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: seductiongurus, listed since 2023-04-26
+- How much? — 78.24607 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stealth Attraction alternatives · price & data · review & research

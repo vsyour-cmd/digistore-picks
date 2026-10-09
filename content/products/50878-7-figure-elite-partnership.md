@@ -63,6 +63,13 @@
 - assets/products/50878-g3.webp
 - assets/products/50878-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Perpincome, listed since 2023-03-29
+- How much? — 1030.443134 USD
+- Guarantee? — 14
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7-Figure ELITE Partnership alternatives · price & data · review & research

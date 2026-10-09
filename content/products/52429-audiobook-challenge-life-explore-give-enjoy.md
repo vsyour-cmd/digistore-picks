@@ -78,6 +78,13 @@
 - assets/products/52429-g3.webp
 - assets/products/52429-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Audio book (download), vendor: imarketingcode, listed since 2025-04-27
+- How much? — 30.2022 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Audiobook: Challenge - Life - Explore - Give - Enjoy alternatives · price & data · review & research

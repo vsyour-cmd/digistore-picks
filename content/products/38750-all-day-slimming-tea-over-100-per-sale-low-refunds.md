@@ -66,6 +66,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - for slimming, vendor: alldayslimtea, listed since 2021-12-13
+- How much? — 328.8684 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds alternatives · price & data · review & research

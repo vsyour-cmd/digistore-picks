@@ -62,6 +62,13 @@
 
 - assets/products/50063-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: astral43, listed since 2024-10-10
+- How much? — 59.2858 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Shifting Vibrations - Proven Digital Manifestation Offer alternatives · price & data · review & research

@@ -68,6 +68,13 @@
 > I've spent years researching the neuroscience of gaming addiction, consulting with addiction specialists, brain researchers, and child psychologists to develop a completely different approach – one that works WITH a child's brain chemistry instead of against it.
 > I consulted with addiction specialists, child psychologists, and neuroscientists to create what eventually became the Game-Free Blueprint – a comprehensive system that has since helped thousands of families.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: AAnchorBiz, listed since 2025-03-21
+- How much? — 15.693958 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Game-Free Blueprint - eBook alternatives · price & data · review & research

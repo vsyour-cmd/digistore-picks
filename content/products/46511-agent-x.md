@@ -67,6 +67,13 @@
 - assets/products/46511-g3.webp
 - assets/products/46511-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: remixable, listed since 2023-11-29
+- How much? — 531.335 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Agent X alternatives · price & data · review & research

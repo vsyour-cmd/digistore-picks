@@ -57,6 +57,13 @@
 - assets/products/60070-g2.webp
 - assets/products/60070-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: Hamzaali036, listed since 2026-09-30
+- How much? — 160 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Content Marketing Blueprint Video Upgrade alternatives · price & data · review & research

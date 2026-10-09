@@ -68,6 +68,13 @@
 - assets/products/47421-g3.webp
 - assets/products/47421-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: NanoDefensePro, listed since 2024-03-04
+- How much? — 200.274144 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NanoDefense Pro alternatives · price & data · review & research

@@ -73,6 +73,13 @@
 - assets/products/55736-g3.webp
 - assets/products/55736-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: premvitality, listed since 2025-11-28
+- How much? — 77.1834 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nerve Soothe alternatives · price & data · review & research

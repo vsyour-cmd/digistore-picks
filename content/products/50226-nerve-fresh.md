@@ -73,6 +73,13 @@
 - assets/products/50226-g3.webp
 - assets/products/50226-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: premvitality, listed since 2024-10-15
+- How much? — 181.15726999999998 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nerve Fresh alternatives · price & data · review & research

@@ -72,6 +72,13 @@
 - assets/products/57569-g3.webp
 - assets/products/57569-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: Hustler_academy, listed since 2026-07-16
+- How much? — 31.253684000000003 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Complete Muscle-Building System for Beginners and Intermedia alternatives · price & data · review & research

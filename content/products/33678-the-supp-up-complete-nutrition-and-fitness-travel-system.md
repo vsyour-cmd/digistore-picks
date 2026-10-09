@@ -59,6 +59,13 @@
 > WARNING : The SUPP UP. Complete Travel System goes against what most guides tell you. Try not to get triggered and keep an open mind as the steps outlined will explain WHY you should be doing the opposite of what most guides dictate.
 > Executives/Consultants: Flying 2+ weeks/month, client dinners, hotel gyms.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: MBM007, listed since 2020-07-28
+- How much? — 247 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The SUPP UP. Complete Nutrition and Fitness Travel System alternatives · price & data · review & research

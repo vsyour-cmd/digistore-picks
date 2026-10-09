@@ -64,6 +64,13 @@
 - assets/products/50192-g2.webp
 - assets/products/50192-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2024-10-23
+- How much? — 77.1834 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote MannaFlux Now! alternatives · price & data · review & research

@@ -70,6 +70,13 @@
 
 - assets/products/50425-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-11-08
+- How much? — 23.4906 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Join Our Affiliate Program on Digistore24 and Earn Big! alternatives · price & data · review & research

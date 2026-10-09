@@ -60,6 +60,13 @@
 
 - assets/products/54990-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: astral43, listed since 2025-12-05
+- How much? — 41.388200000000005 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Genius Brain Signal alternatives · price & data · review & research

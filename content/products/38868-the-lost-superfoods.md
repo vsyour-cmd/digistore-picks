@@ -63,6 +63,13 @@
 > So all and all, this book has lots of good info, and in the times we are living in now, this information is more important than ever. I highly recommend it! ”
 > Privacy Policy | Disclaimer | Terms and Conditions | Refund Policy
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: lostrec, listed since 2021-03-04
+- How much? — 54.285658000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Lost SuperFoods alternatives · price & data · review & research

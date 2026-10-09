@@ -67,6 +67,13 @@
 - assets/products/54239-g3.webp
 - assets/products/54239-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: Synadentix, listed since 2025-10-01
+- How much? — 260.108058 USD
+- Guarantee? — 90
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Synadentix alternatives · price & data · review & research

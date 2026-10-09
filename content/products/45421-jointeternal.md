@@ -69,6 +69,13 @@
 - assets/products/45421-g3.webp
 - assets/products/45421-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: naturalcell, listed since 2023-07-25
+- How much? — 65.9974 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: JointEternal alternatives · price & data · review & research

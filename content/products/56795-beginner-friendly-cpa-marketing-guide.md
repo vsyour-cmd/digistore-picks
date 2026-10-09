@@ -71,6 +71,13 @@
 > EARNINGS DISCLAIMER: Results mentioned on this page are not typical and are not a guarantee of what you will earn. Income results depend entirely on effort, commitment, skill, and market conditions. CPA Marketing Mastery is an educational digital product. We make no guarantee you will earn money using the techniques presented.
 > DISCLAIMER: This page is not affiliated with Facebook, Google, or any third-party platform. All product names, logos, and brands are property of their respective owners.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ZeroToCommission, listed since 2026-06-03
+- How much? — 27 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beginner-Friendly CPA Marketing Guide alternatives · price & data · review & research

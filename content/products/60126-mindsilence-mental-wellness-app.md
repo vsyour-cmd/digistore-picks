@@ -64,6 +64,13 @@
 
 - assets/products/60126-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Ademun, listed since 2026-10-02
+- How much? — 177 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MindSilence mental wellness app alternatives · price & data · review & research

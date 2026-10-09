@@ -45,6 +45,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: El_patronship, listed since 2026-01-31
+- How much? — 22.26014 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Open — A Complete Social Media Operating System (EN/AR/FR) alternatives · price & data · review & research

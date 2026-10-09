@@ -66,6 +66,13 @@
 - assets/products/51592-g2.webp
 - assets/products/51592-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: LungExpandPro, listed since 2025-02-25
+- How much? — 77.1834 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LungExpand Pro alternatives · price & data · review & research

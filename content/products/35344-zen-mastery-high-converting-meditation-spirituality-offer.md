@@ -71,6 +71,13 @@
 - assets/products/35344-g3.webp
 - assets/products/35344-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: livingspirit, listed since 2021-01-12
+- How much? — 14.530614 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zen Mastery - High Converting Meditation/Spirituality Offer alternatives · price & data · review & research

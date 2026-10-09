@@ -59,6 +59,13 @@
 - assets/products/40563-g2.webp
 - assets/products/40563-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: azcode08, listed since 2022-07-11
+- How much? — 72.809674 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The AZ Code alternatives · price & data · review & research

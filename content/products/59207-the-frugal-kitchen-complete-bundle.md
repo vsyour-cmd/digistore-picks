@@ -73,6 +73,13 @@
 
 - assets/products/59207-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: tworebelsoffgrid916f, listed since 2026-09-14
+- How much? — 24.99 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Frugal Kitchen Complete Bundle alternatives · price & data · review & research

@@ -71,6 +71,13 @@
 
 - assets/products/53539-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: IsMaria, listed since 2025-07-22
+- How much? — 48.580798 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 81 % Commission on US Immigration Survival PRO Bundle alternatives · price & data · review & research

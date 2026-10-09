@@ -77,6 +77,13 @@
 - assets/products/48043-g3.webp
 - assets/products/48043-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: plantbasedresource, listed since 2024-05-04
+- How much? — 17 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Complete Plant Based Recipe Cookbook - 200+ Vegan Recipe alternatives · price & data · review & research

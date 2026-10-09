@@ -71,6 +71,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: midasman88, listed since 2025-10-08
+- How much? — 184.546628 USD
+- Guarantee? — 365
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SPARTAMAX Male Enhancement Gummies | High EPC and Commission alternatives · price & data · review & research

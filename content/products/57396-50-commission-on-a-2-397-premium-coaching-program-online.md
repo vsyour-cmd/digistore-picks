@@ -68,6 +68,13 @@
 > This is a digital coaching program. No physical products are shipped. After completing your purchase, you will receive a confirmation email with your next steps and a link to schedule your onboarding consultation. Your personalised coaching begins after onboarding.
 > Because this journey involves real human coaching — Francesco writing and adjusting personal plans, Andreea conducting onboarding and final calls. Genuine attention has a capacity. We cap each cohort at 100 women so every member receives the level of care the journey promises. When this cohort fills, the next opens after these women complete their three months.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Online coaching, vendor: ZoeWomen, listed since 2026-07-04
+- How much? — 2397 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Commission on a $2,397 Premium Coaching Program Online alternatives · price & data · review & research

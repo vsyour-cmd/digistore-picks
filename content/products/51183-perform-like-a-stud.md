@@ -71,6 +71,13 @@
 - assets/products/51183-g3.webp
 - assets/products/51183-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: ClubhouseStud, listed since 2025-01-15
+- How much? — 164.4342 USD
+- Guarantee? — 180
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Perform like a STUD alternatives · price & data · review & research

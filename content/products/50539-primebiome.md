@@ -66,6 +66,13 @@
 - assets/products/50539-g2.webp
 - assets/products/50539-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: PrimeBiome, listed since 2024-11-27
+- How much? — 249.99591400000003 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PrimeBiome alternatives · price & data · review & research

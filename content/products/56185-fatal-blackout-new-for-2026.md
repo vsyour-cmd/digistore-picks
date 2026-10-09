@@ -71,6 +71,13 @@
 - assets/products/56185-g3.webp
 - assets/products/56185-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Book (printed), vendor: FatalBlackout, listed since 2026-02-26
+- How much? — 74.9462 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fatal Blackout – NEW for 2026! alternatives · price & data · review & research

@@ -63,6 +63,13 @@
 - assets/products/56442-g3.webp
 - assets/products/56442-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: sayservices, listed since 2026-05-01
+- How much? — 47 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc alternatives · price & data · review & research

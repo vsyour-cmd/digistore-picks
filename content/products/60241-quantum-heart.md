@@ -63,6 +63,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Deliverable, vendor: quantumh, listed since 2026-10-06
+- How much? — 679 USD
+- Guarantee? — 60-day money-back guarantee
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quantum Heart alternatives · price & data · review & research

@@ -66,6 +66,13 @@
 
 - assets/products/57688-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: deannawheeler, listed since 2026-07-22
+- How much? — 77 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Scripture Meditation Journal alternatives · price & data · review & research

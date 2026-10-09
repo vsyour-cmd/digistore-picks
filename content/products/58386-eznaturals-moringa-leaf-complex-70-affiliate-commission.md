@@ -76,6 +76,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: eznaturals, listed since 2026-08-15
+- How much? — 249 USD
+- Guarantee? — 60-Day Money-Back Guarantee
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EZNaturals Moringa Leaf Complex | 70% Affiliate Commission alternatives · price & data · review & research

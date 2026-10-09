@@ -74,6 +74,13 @@
 - assets/products/56136-g3.webp
 - assets/products/56136-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Audio book (download), vendor: heric0051, listed since 2026-04-01
+- How much? — 65.9974 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote the Quantum Brainwave Protocol Now! alternatives · price & data · review & research

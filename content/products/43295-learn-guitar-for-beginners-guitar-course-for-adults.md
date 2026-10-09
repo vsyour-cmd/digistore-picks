@@ -65,6 +65,13 @@
 
 (no explicit caution paragraphs found; see marketplace stats above)
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2023-03-05
+- How much? — 107.38560000000001 USD
+- Guarantee? — 14
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Learn Guitar For Beginners - Guitar Course For Adults alternatives · price & data · review & research

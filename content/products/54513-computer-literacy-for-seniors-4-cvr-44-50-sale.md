@@ -61,6 +61,13 @@
 
 - assets/products/54513-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: MasterYourMachineIn90Days, listed since 2025-10-17
+- How much? — 99.5554 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Computer Literacy for Seniors | 4% CVR | $44.50/Sale alternatives · price & data · review & research

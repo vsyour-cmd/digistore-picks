@@ -67,6 +67,13 @@
 - assets/products/55360-g3.webp
 - assets/products/55360-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: patricia_sekael, listed since 2026-01-15
+- How much? — 30.2022 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Predict Future with AI via Music | High 60% Commission alternatives · price & data · review & research

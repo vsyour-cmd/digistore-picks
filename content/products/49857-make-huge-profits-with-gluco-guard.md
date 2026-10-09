@@ -68,6 +68,13 @@
 > IMPORTANT: Your video may take 10 seconds to load. Make sure your sound is on.
 > *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. Use only as directed. The information provided herein is intended for your general knowledge only and is not intended to be, nor is it, medical advice or a substitute for medical advice. If you have or suspect you have, a specific medical condition or disease, please consult your healthcare provider.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: nutrateam, listed since 2024-09-22
+- How much? — 65.9974 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Make Huge Profits with Gluco Guard!  alternatives · price & data · review & research

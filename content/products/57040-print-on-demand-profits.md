@@ -64,6 +64,13 @@
 
 > Attention: Complete Beginners & Failed POD Sellers Sell on 3 Platforms at Once. No Inventory. No Shipping. No Design Skills.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: ZeroToCommission, listed since 2026-06-18
+- How much? — 97 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Print on Demand Profits alternatives · price & data · review & research

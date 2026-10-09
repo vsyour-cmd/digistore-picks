@@ -73,6 +73,13 @@
 
 - assets/products/59604-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: hirakhadimshapora17e1a, listed since 2026-09-23
+- How much? — 48 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The ultimate creators toolkit: 30 days edition alternatives · price & data · review & research

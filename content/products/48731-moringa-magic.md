@@ -78,6 +78,13 @@
 
 - assets/products/48731-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: offersconnect, listed since 2024-07-22
+- How much? — 221.326196 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Moringa Magic alternatives · price & data · review & research

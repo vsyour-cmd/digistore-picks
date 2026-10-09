@@ -70,6 +70,13 @@
 
 - assets/products/57561-g1.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: AprilBrumm, listed since 2026-07-16
+- How much? — 147 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Marketing Made Simple alternatives · price & data · review & research

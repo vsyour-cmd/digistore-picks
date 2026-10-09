@@ -60,6 +60,13 @@
 - assets/products/59398-g1.webp
 - assets/products/59398-g2.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-19
+- How much? — 39 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Virtual Assistant Client Onboarding Toolkit - English Templates alternatives · price & data · review & research

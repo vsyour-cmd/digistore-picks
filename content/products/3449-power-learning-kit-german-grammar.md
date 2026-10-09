@@ -77,6 +77,13 @@
 - assets/products/3449-g3.webp
 - assets/products/3449-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: easydaf, listed since 2014-01-08
+- How much? — 41.500060000000005 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: POWER-Learning-Kit German Grammar alternatives · price & data · review & research

@@ -53,6 +53,13 @@
 
 > Home | TESTIMONIALS | Privacy Policy | Terms of Service | Earnings Disclaimer | Support | Refund Policy | Legal Information | VIP MEMBER LOGIN
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Member area and video courses, vendor: IC2020, listed since 2020-12-17
+- How much? — 2233.8442 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Intelligent Cryptocurrency VIP alternatives · price & data · review & research

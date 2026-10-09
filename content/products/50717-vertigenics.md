@@ -64,6 +64,13 @@
 - assets/products/50717-g2.webp
 - assets/products/50717-g3.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Supplements - health, vendor: Vertigenics, listed since 2024-11-27
+- How much? — 175.877478 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vertigenics alternatives · price & data · review & research

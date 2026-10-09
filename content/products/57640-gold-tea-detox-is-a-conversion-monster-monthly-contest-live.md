@@ -57,6 +57,13 @@
 - assets/products/57640-g2.webp
 - assets/products/57640-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: goldteadetox, listed since 2026-07-20
+- How much? — 27 USD
+- Guarantee? — not found in our research, verify on the official page
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gold Tea Detox Is A Conversion Monster! Monthly Contest Live alternatives · price & data · review & research

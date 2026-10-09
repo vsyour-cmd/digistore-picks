@@ -66,6 +66,13 @@
 
 > Disclaimer: This is an educational product. Results depend on your effort, skill development, and adherence to safety guidelines. Always wear appropriate safety equipment and work in well-ventilated areas. Individual results will vary. Always follow local building codes and safety regulations when working with tools and wood.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
+- How much? — 127.52040000000001 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Beginner's Guide to Woodworking with Hand Tools alternatives · price & data · review & research

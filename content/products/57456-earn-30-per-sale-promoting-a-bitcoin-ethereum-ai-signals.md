@@ -72,6 +72,13 @@
 - assets/products/57456-g3.webp
 - assets/products/57456-g4.webp
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Software, vendor: btcbeep, listed since 2026-07-08
+- How much? — 69 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn $30 Per Sale Promoting a Bitcoin / Ethereum AI Signals alternatives · price & data · review & research

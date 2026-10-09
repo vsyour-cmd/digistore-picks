@@ -65,6 +65,13 @@
 > This is not a one-time fix. Set the routine up once, then come back each month to review what happened and tighten what needs attention.
 > Terms, license, and disclaimer The Chargeback Prevention Masterclass is proprietary to NEXTMETHOD and licensed to one paid user or one licensed business, for internal business use only. No portion may be copied, shared, resold, redistributed, publicly posted, recreated, repackaged, or used to build a competing product, service, template, or training. Purchase grants access only and does not transfer ownership of the intellectual property. NEXTMETHOD retains all rights.
 
+### 3f. FAQ (answers from official marketplace data / vendor claims)
+
+- What is it? — Type: Downloads, vendor: NEXTMETHOD, listed since 2026-09-10
+- How much? — 225 USD
+- Guarantee? — 60
+- Alternatives? — see the comparison table on the profile / alternatives page
+
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Chargeback Prevention Masterclass for Business Owners | $225 alternatives · price & data · review & research
