@@ -1134,7 +1134,7 @@ function vendorHubs() {
     .filter(([, arr]) => arr.length >= 2)
     .map(([k, arr]) => ({ name: k, items: arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }))
     .sort((a, b) => b.items.length - a.items.length)
-    .slice(0, 40);
+    .slice(0, 100);
   const dir = outPath("vendors");
   fs.mkdirSync(dir, { recursive: true });
   for (const v of vendors) {
@@ -1164,10 +1164,16 @@ ${catObj ? `<p>Primary category: <a href="../category/${catObj.file}.html">${esc
     }];
     fs.writeFileSync(path.join(dir, vslug + ".html"), layout({ title: `${v.name} — ${n} products, prices & marketplace data`, desc: `All ${n} Digistore24 products by vendor ${v.name}: prices, commissions, conversion and cancel rates. Official marketplace data, updated ${datemark(DATA.scrapedAt)}.`, body, rel: "..", path: `vendors/${vslug}.html`, jsonLd, crumb: [{ label: "Home", href: "../index.html" }, { label: v.name, href: `../vendors/${vslug}.html` }] }));
   }
+  // hub 页是生成物:清理不在当前集合里的过期 hub(厂商改名/掉出 Top100)
+  const wantedHubs = new Set(vendors.map((v) => slug(v.name) + ".html"));
+  let prunedHubs = 0;
+  for (const f of fs.readdirSync(dir)) {
+    if (f.endsWith(".html") && f !== "index.html" && !wantedHubs.has(f)) { fs.unlinkSync(path.join(dir, f)); prunedHubs++; }
+  }
   const list = vendors.map((v) => `<li><a href="${slug(v.name)}.html">${esc(v.name)}</a> — ${v.items.length} products</li>`).join("");
   const idxBody = `<h1>Vendors on Digistore24 (top ${vendors.length} by catalog size)</h1><p class="sub">Vendor hubs with all their listings and marketplace data. Updated ${datemark(DATA.scrapedAt)}.</p><ul style="line-height:2">${list}</ul>`;
   fs.writeFileSync(path.join(dir, "index.html"), layout({ title: `Vendor directory — ${SITE_NAME}`, desc: `Top Digistore24 vendors with their products and official marketplace statistics.`, body: idxBody, rel: "..", path: "vendors/index.html" }));
-  console.log("vendor hubs:", vendors.length);
+  console.log("vendor hubs:", vendors.length + (prunedHubs ? ", " + prunedHubs + " stale pruned" : ""));
 }
 
 function trustPages() {
