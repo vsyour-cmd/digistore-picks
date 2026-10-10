@@ -9,7 +9,7 @@ const DATA = {
 };
 const ROOTS = { en: "G:/Digistore24/site", de: "G:/Digistore24/site-de" };
 const SITE_URLS = { en: "https://vsyour-cmd.github.io/digistore-picks", de: "https://vsyour-cmd.github.io/digistore-picks-de" };
-const DIRS = { en: ["reviews", "category", "alternatives", "best-of", "blog", "."], de: ["produkte", "kategorie", "alternativen", "empfehlungen", "blog", "."] };
+const DIRS = { en: ["reviews", "category", "alternatives", "best-of", "blog", "vendors", "vendors", "."], de: ["produkte", "kategorie", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "."] };
 const PAGE_DIR = { en: "reviews", de: "produkte" };
 const EXEMPT = /^(404|google[0-9a-f]+)\.html$/;
 

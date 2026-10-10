@@ -1121,6 +1121,53 @@ ${rows.join("\n")}
   }));
 }
 
+// ---------- 厂商 Hub 页(实体聚合,≥2 产品的厂商) ----------
+function vendorHubs() {
+  const vmap = new Map();
+  for (const p of products) {
+    const k = p.vendorName;
+    if (!vmap.has(k)) vmap.set(k, []);
+    vmap.get(k).push(p);
+  }
+  const vendors = [...vmap.entries()]
+    .filter(([, arr]) => arr.length >= 2)
+    .map(([k, arr]) => ({ name: k, items: arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }))
+    .sort((a, b) => b.items.length - a.items.length)
+    .slice(0, 40);
+  const dir = outPath("vendors");
+  fs.mkdirSync(dir, { recursive: true });
+  for (const v of vendors) {
+    const vslug = slug(v.name);
+    const n = v.items.length;
+    const totalEps = v.items.reduce((a, p) => a + (p.earningsPerSale || 0), 0);
+    const earliest = datemark(v.items.map((x) => x.createdAt).sort()[0]);
+    const rows = v.items.map((p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.cancelRate)}</td><td>${datemark(p.createdAt)}</td></tr>`).join("\n");
+    const topCat = (v.items[0].categories || [])[0];
+    const catObj = topCat ? DATA.categories.find((c) => c.label === topCat) : null;
+    const body = `<h1>${esc(v.name)} — ${n} products on Digistore24</h1>
+<p class="sub">Vendor hub · Marketplace data ${datemark(DATA.scrapedAt)} · Active since ${earliest}</p>
+<div class="tldr"><b>At a glance:</b> <ul><li><b>${n} listings</b> under this vendor, combined earnings/sale across listings: <b>${money(totalEps, v.items[0].currency)}</b> (sum, vendor-reported).</li><li>Top listing: <a href="../reviews/${v.items[0].slug}.html">${esc(v.items[0].label)}</a>.</li><li>All figures are vendor-side marketplace statistics — a large catalog is not a quality guarantee.</li></ul></div>
+<h2>All products by ${esc(v.name)}</h2>
+<table class="specs"><tr><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Earn./sale</th><th>Cancel*</th><th>Listed</th></tr>
+${rows}
+</table>
+<p class="sub">* Vendor-side marketplace statistics reported by Digistore24; they depend on traffic quality and are not a forecast. Verify prices and guarantees on official pages.</p>
+<h2>Where to go next</h2>
+${catObj ? `<p>Primary category: <a href="../category/${catObj.file}.html">${esc(catObj.label)}</a> (${catObj.count} products) · Method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</p>` : ""}`;
+    const jsonLd = [{
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `${v.name} — all products on Digistore24`,
+      itemListElement: v.items.map((x, i) => ({ "@type": "ListItem", position: i + 1, url: `${SITE_URL}/reviews/${x.slug}.html`, name: x.label })),
+    }];
+    fs.writeFileSync(path.join(dir, vslug + ".html"), layout({ title: `${v.name} — ${n} products, prices & marketplace data`, desc: `All ${n} Digistore24 products by vendor ${v.name}: prices, commissions, conversion and cancel rates. Official marketplace data, updated ${datemark(DATA.scrapedAt)}.`, body, rel: "..", path: `vendors/${vslug}.html`, jsonLd, crumb: [{ label: "Home", href: "../index.html" }, { label: v.name, href: `../vendors/${vslug}.html` }] }));
+  }
+  const list = vendors.map((v) => `<li><a href="${slug(v.name)}.html">${esc(v.name)}</a> — ${v.items.length} products</li>`).join("");
+  const idxBody = `<h1>Vendors on Digistore24 (top ${vendors.length} by catalog size)</h1><p class="sub">Vendor hubs with all their listings and marketplace data. Updated ${datemark(DATA.scrapedAt)}.</p><ul style="line-height:2">${list}</ul>`;
+  fs.writeFileSync(path.join(dir, "index.html"), layout({ title: `Vendor directory — ${SITE_NAME}`, desc: `Top Digistore24 vendors with their products and official marketplace statistics.`, body: idxBody, rel: "..", path: "vendors/index.html" }));
+  console.log("vendor hubs:", vendors.length);
+}
+
 function changelogPage() {
   const f = path.join(ROOT, "build", "changelog.json");
   if (!fs.existsSync(f)) return;
@@ -1142,5 +1189,6 @@ const bestCount = bestOfPages();
 aboutPage();
 monthlyNewPage();
 changelogPage();
+vendorHubs();
 notFoundPage();
 console.log(`Built: index, about, 404, categories (paginated), ${products.length} product profiles, ${altCount} alternatives pages, ${bestCount} best-of pages. Articles protected: ${articleIds.size}`);

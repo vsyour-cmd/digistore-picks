@@ -77,8 +77,8 @@ function report(r, label) {
   r.structural.slice(0, 5).forEach((x) => console.log(`  ${label} STRUCT`, x));
 }
 
-const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog"]);
-const de = qaSite("G:/Digistore24/site-de", "DE", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]);
+const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "vendors", "vendors", "vendors", "vendors", "vendors"]);
+const de = qaSite("G:/Digistore24/site-de", "DE", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller"]);
 report(en, "EN");
 report(de, "DE");
 

@@ -1,0 +1,46 @@
+// ---------- Anbieter-Hub-Seiten (≥2 Produkte) ----------
+function vendorHubs() {
+  const vmap = new Map();
+  for (const p of products) {
+    const k = p.vendorName;
+    if (!vmap.has(k)) vmap.set(k, []);
+    vmap.get(k).push(p);
+  }
+  const vendors = [...vmap.entries()]
+    .filter(([, arr]) => arr.length >= 2)
+    .map(([k, arr]) => ({ name: k, items: arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }))
+    .sort((a, b) => b.items.length - a.items.length)
+    .slice(0, 40);
+  const dir = outPath("hersteller");
+  fs.mkdirSync(dir, { recursive: true });
+  for (const v of vendors) {
+    const vslug = slug(v.name);
+    const n = v.items.length;
+    const totalEps = v.items.reduce((a, p) => a + (p.earningsPerSale || 0), 0);
+    const earliest = datemark(v.items.map((x) => x.createdAt).sort()[0]);
+    const rows = v.items.map((p) => `<tr><td><a href="../produkte/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.typeDe)}</td><td>${money(p.price, p.currency)}</td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.cancelRate)}</td><td>${datemark(p.createdAt)}</td></tr>`).join("\n");
+    const topCat = (v.items[0].categories || [])[0];
+    const catObj = topCat ? DATA.categories.find((c) => c.label === topCat) : null;
+    const body = `<h1>${esc(v.name)} — ${n} Produkte auf Digistore24</h1>
+<p class="sub">Anbieter-Hub · Marktplatz-Daten ${datemark(DATA.scrapedAt)} · Aktiv seit ${earliest}</p>
+<div class="tldr"><b>Auf einen Blick:</b> <ul><li><b>${n} Listings</b> dieses Anbieters, kombinierter Verdienst/Verkauf: <b>${money(totalEps, v.items[0].currency)}</b> (Summe, Anbieter-gemeldet).</li><li>Top-Listing: <a href="../produkte/${v.items[0].slug}.html">${esc(v.items[0].label)}</a>.</li><li>Alle Zahlen sind Anbieter-seitige Marktplatz-Statistiken — ein großes Katalog ist kein Qualitätsversprechen.</li></ul></div>
+<h2>Alle Produkte von ${esc(v.name)}</h2>
+<table class="specs"><tr><th>Produkt</th><th>Typ</th><th>Preis</th><th>Provision</th><th>Verdienst/Verkauf</th><th>Storno*</th><th>Gelistet</th></tr>
+${rows}
+</table>
+<p class="sub">* Anbieter-seitige Marktplatz-Statistiken von Digistore24; abhängig von der Traffic-Qualität, keine Prognose. Preise und Garantien auf offiziellen Seiten prüfen.</p>
+<h2>Weiterlesen</h2>
+${catObj ? `<p>Primärkategorie: <a href="../kategorie/${catObj.file}.html">${esc(catName(catObj))}</a> (${catObj.count} Produkte) · Methode: <a href="../blog/digistore24-zahlen-checkliste.html">6-Punkte-Check</a>.</p>` : ""}`;
+    const jsonLd = [{
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      name: `${v.name} — alle Produkte auf Digistore24`,
+      itemListElement: v.items.map((x, i) => ({ "@type": "ListItem", position: i + 1, url: `${SITE_URL}/produkte/${x.slug}.html`, name: x.label })),
+    }];
+    fs.writeFileSync(path.join(dir, vslug + ".html"), layout({ title: `${v.name} — ${n} Produkte, Preise & Marktplatz-Daten`, desc: `Alle ${n} Digistore24-Produkte des Anbieters ${v.name}: Preise, Provisionen, Konversion und Stornoquoten. Offizielle Marktplatz-Daten, Stand ${datemark(DATA.scrapedAt)}.`, body, rel: "..", path: `hersteller/${vslug}.html`, jsonLd, crumb: [{ label: "Start", href: "../index.html" }, { label: v.name, href: `../hersteller/${vslug}.html` }] }));
+  }
+  const list = vendors.map((v) => `<li><a href="${slug(v.name)}.html">${esc(v.name)}</a> — ${v.items.length} Produkte</li>`).join("");
+  const idxBody = `<h1>Anbieter auf Digistore24 (Top ${vendors.length} nach Kataloggröße)</h1><p class="sub">Anbieter-Hubs mit allen Listings und Marktplatz-Daten. Stand ${datemark(DATA.scrapedAt)}.</p><ul style="line-height:2">${list}</ul>`;
+  fs.writeFileSync(path.join(dir, "index.html"), layout({ title: `Anbieter-Verzeichnis — ${SITE_NAME}`, desc: `Top Digistore24-Anbieter mit ihren Produkten und offiziellen Marktplatz-Statistiken.`, body: idxBody, rel: "..", path: "hersteller/index.html" }));
+  console.log("vendor hubs:", vendors.length);
+}

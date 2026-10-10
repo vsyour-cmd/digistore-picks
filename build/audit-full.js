@@ -4,8 +4,8 @@ const fs = require("fs");
 const path = require("path");
 
 const SITES = [
-  { root: "G:/Digistore24/site", lang: "en", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog"], pageDir: "reviews", otherRoot: "G:/Digistore24/site-de", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks-de/", otherPageDir: "produkte" },
-  { root: "G:/Digistore24/site-de", lang: "de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"], pageDir: "produkte", otherRoot: "G:/Digistore24/site", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks/", otherPageDir: "reviews" },
+  { root: "G:/Digistore24/site", lang: "en", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "vendors", "vendors", "vendors"], pageDir: "reviews", otherRoot: "G:/Digistore24/site-de", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks-de/", otherPageDir: "produkte" },
+  { root: "G:/Digistore24/site-de", lang: "de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "hersteller", "hersteller"], pageDir: "produkte", otherRoot: "G:/Digistore24/site", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks/", otherPageDir: "reviews" },
 ];
 
 function collect(root, dirs) {
