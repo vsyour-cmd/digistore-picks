@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Leadership & Management"]
 listed_since: "2026-08-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/720523?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/720523"
@@ -22,7 +22,7 @@ language: "en"
 # 10 Guides in 1 Bundle: 270€ Value, Now for 47€
 
 > Product ID `58262` · Digistore24 productId `720523` · [HTML profile page](../../reviews/10-guides-in-1-bundle-270-value-now-for-47-58262.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-09-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://shop.boostedflow.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.boostedflow.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Clear Flux Blood Support Supplement
 
 > Product ID `54396` · Digistore24 productId `638043` · [HTML profile page](../../reviews/clear-flux-blood-support-supplement-54396.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

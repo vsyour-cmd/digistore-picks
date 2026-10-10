@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2025-09-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633831?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633831"
@@ -22,7 +22,7 @@ language: "en"
 # Free and Paid Platforms to Learn Coding
 
 > Product ID `53826` · Digistore24 productId `633831` · [HTML profile page](../../reviews/free-and-paid-platforms-to-learn-coding-53826.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

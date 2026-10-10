@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://kevinmanke.com/affirmation-english/?aff=adminstore#aff=adminstore"
 sales_page: "https://kevinmanke.com/affirmation-english/"
@@ -22,7 +22,7 @@ language: "en"
 # Affirmation | Guided Meditation and Mindset Upgrade
 
 > Product ID `54831` · Digistore24 productId `643699` · [HTML profile page](../../reviews/affirmation-guided-meditation-and-mindset-upgrade-54831.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

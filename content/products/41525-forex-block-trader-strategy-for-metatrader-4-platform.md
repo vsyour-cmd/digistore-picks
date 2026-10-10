@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://forexprofitkeeper.com/forex-4d-trader-strategy-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-4d-trader-strategy-dg/"
@@ -22,7 +22,7 @@ language: "en"
 # Forex Block Trader Strategy For MetaTrader 4 Platform
 
 > Product ID `41525` · Digistore24 productId `646119` · [HTML profile page](../../reviews/forex-block-trader-strategy-for-metatrader-4-platform-41525.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

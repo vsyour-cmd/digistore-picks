@@ -13,7 +13,7 @@ cancel_rate_pct: 22.85
 categories: ["Software"]
 listed_since: "2022-11-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://remixable.net/join/?aff=adminstore#aff=adminstore"
 sales_page: "https://remixable.net/join/"
@@ -22,7 +22,7 @@ language: "en"
 # Remixable - Founder Edition
 
 > Product ID `41713` · Digistore24 productId `467549` · [HTML profile page](../../reviews/remixable-founder-edition-41713.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

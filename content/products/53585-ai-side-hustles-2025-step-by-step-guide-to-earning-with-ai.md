@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2025-08-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/628615?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/628615"
@@ -22,7 +22,7 @@ language: "en"
 # AI Side Hustles 2025 – Step-by-Step Guide to Earning with AI
 
 > Product ID `53585` · Digistore24 productId `628615` · [HTML profile page](../../reviews/ai-side-hustles-2025-step-by-step-guide-to-earning-with-ai-53585.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

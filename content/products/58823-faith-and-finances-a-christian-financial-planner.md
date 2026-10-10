@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://faithfinanceschristian-7mh.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://faithfinanceschristian-7mh.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Faith and Finances: A Christian Financial Planner
 
 > Product ID `58823` · Digistore24 productId `728374` · [HTML profile page](../../reviews/faith-and-finances-a-christian-financial-planner-58823.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

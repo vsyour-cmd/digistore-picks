@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick"
@@ -22,7 +22,7 @@ language: "en"
 # The Complete Social Confidence System | Earn 75% Commissions
 
 > Product ID `54275` · Digistore24 productId `639544` · [HTML profile page](../../reviews/the-complete-social-confidence-system-earn-75-commissions-54275.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Personal Development"]
 listed_since: "2026-02-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://wellnesswithsher.neocities.org/?aff=adminstore#aff=adminstore"
 sales_page: "https://wellnesswithsher.neocities.org/"
@@ -22,7 +22,7 @@ language: "en"
 # High-Converting Herbal Health Offer Solve 28+ Common Problem
 
 > Product ID `55786` · Digistore24 productId `668910` · [HTML profile page](../../reviews/high-converting-herbal-health-offer-solve-28-common-problem-55786.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

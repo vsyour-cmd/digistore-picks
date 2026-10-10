@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-05-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html"
@@ -22,7 +22,7 @@ language: "en"
 # Easy AI eBook Writer
 
 > Product ID `56750` · Digistore24 productId `696560` · [HTML profile page](../../reviews/easy-ai-ebook-writer-56750.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

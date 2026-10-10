@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-05-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://nexilolab.com/usa/?aff=adminstore#aff=adminstore"
 sales_page: "https://nexilolab.com/usa/"
@@ -22,7 +22,7 @@ language: "en"
 # Monthly Bill Cut Assistant Premium – Windows Software
 
 > Product ID `56675` · Digistore24 productId `690415` · [HTML profile page](../../reviews/monthly-bill-cut-assistant-premium-windows-software-56675.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/634897?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/634897"
@@ -22,7 +22,7 @@ language: "en"
 # Amazon Influencer Course – Become an Amazon Video Reviewer
 
 > Product ID `53999` · Digistore24 productId `634897` · [HTML profile page](../../reviews/amazon-influencer-course-become-an-amazon-video-reviewer-53999.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-07-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://digitaldating.socialnestmarketing.com?aff=adminstore#aff=adminstore"
 sales_page: "https://digitaldating.socialnestmarketing.com"
@@ -22,7 +22,7 @@ language: "en"
 # Promote a $29 dating self-audit guide + $49 upsell — 50% com
 
 > Product ID `57489` · Digistore24 productId `710265` · [HTML profile page](../../reviews/promote-a-29-dating-self-audit-guide-49-upsell-50-com-57489.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

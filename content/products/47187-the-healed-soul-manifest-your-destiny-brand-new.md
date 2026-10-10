@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-02-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://bottomlinemanifesting.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://bottomlinemanifesting.com/"
@@ -22,7 +22,7 @@ language: "en"
 # The Healed Soul "MANIFEST YOUR DESTINY" - BRAND NEW
 
 > Product ID `47187` · Digistore24 productId `540121` · [HTML profile page](../../reviews/the-healed-soul-manifest-your-destiny-brand-new-47187.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

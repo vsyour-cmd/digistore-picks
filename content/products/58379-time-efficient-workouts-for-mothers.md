@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://workoutsformoms-8af.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://workoutsformoms-8af.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Time-efficient workouts for mothers
 
 > Product ID `58379` · Digistore24 productId `722616` · [HTML profile page](../../reviews/time-efficient-workouts-for-mothers-58379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

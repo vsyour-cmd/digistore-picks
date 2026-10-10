@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2021-01-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://51percent.wixsite.com/mykidpreneurs?aff=adminstore#aff=adminstore"
 sales_page: "https://51percent.wixsite.com/mykidpreneurs"
@@ -22,7 +22,7 @@ language: "en"
 # myKidPrenuers : The StartUp Generation
 
 > Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](../../reviews/mykidprenuers-the-startup-generation-35283.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

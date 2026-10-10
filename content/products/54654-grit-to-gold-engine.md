@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-11-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/646059?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/646059"
@@ -22,7 +22,7 @@ language: "en"
 # Grit to Gold Engine™
 
 > Product ID `54654` · Digistore24 productId `646059` · [HTML profile page](../../reviews/grit-to-gold-engine-54654.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

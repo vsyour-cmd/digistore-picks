@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music","Health & Fitness"]
 listed_since: "2025-05-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://naturalpowerbodyprograms.com/german-diction-masterprogram/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturalpowerbodyprograms.com/german-diction-masterprogram/"
@@ -22,7 +22,7 @@ language: "en"
 # German Diction Master Program
 
 > Product ID `52543` · Digistore24 productId `612441` · [HTML profile page](../../reviews/german-diction-master-program-52543.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

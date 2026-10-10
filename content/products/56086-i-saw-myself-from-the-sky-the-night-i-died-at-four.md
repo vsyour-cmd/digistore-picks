@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-03-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/680242?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/680242"
@@ -22,7 +22,7 @@ language: "en"
 # I Saw Myself from the Sky The Night I Died at Four
 
 > Product ID `56086` · Digistore24 productId `680242` · [HTML profile page](../../reviews/i-saw-myself-from-the-sky-the-night-i-died-at-four-56086.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

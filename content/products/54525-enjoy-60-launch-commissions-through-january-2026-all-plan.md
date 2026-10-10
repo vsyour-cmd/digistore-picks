@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Fun & Games"]
 listed_since: "2025-10-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://soultribe.digital/sales?aff=adminstore#aff=adminstore"
 sales_page: "https://soultribe.digital/sales"
@@ -22,7 +22,7 @@ language: "en"
 # “Enjoy 60% launch commissions through January 2026! All plan
 
 > Product ID `54525` · Digistore24 productId `644279` · [HTML profile page](../../reviews/enjoy-60-launch-commissions-through-january-2026-all-plan-54525.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

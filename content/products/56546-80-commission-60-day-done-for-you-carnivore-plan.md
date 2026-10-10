@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Survival"]
 listed_since: "2026-05-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://healthhealing.net/carnivore-diet/aff?aff=adminstore#aff=adminstore"
 sales_page: "https://healthhealing.net/carnivore-diet/aff"
@@ -22,7 +22,7 @@ language: "en"
 # 80% Commission · 60-Day Done-For-You Carnivore Plan
 
 > Product ID `56546` · Digistore24 productId `693519` · [HTML profile page](../../reviews/80-commission-60-day-done-for-you-carnivore-plan-56546.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

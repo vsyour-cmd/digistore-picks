@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Hobby & Craft"]
 listed_since: "2026-07-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Games and Puzzles for Creatives - Activity eBook
 
 > Product ID `57588` · Digistore24 productId `712937` · [HTML profile page](../../reviews/games-and-puzzles-for-creatives-activity-ebook-57588.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 9.89
 categories: ["Survival"]
 listed_since: "2025-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://thedavidsshield.com/d/daff/?aff=adminstore#aff=adminstore"
 sales_page: "https://thedavidsshield.com/d/daff/"
@@ -22,7 +22,7 @@ language: "en"
 # David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales
 
 > Product ID `54688` · Digistore24 productId `631625` · [HTML profile page](../../reviews/david-s-shield-new-high-conv-vsl-2x-cvr-5m-in-sales-54688.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 11.7
 categories: ["Food Supplements"]
 listed_since: "2024-04-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://claritox24.com/text2.php?aff=adminstore#aff=adminstore"
 sales_page: "https://claritox24.com/text2.php"
@@ -22,7 +22,7 @@ language: "en"
 # Claritox
 
 > Product ID `48046` · Digistore24 productId `550416` · [HTML profile page](../../reviews/claritox-48046.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

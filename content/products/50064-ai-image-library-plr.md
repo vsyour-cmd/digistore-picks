@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-10-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-ai-image-library?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/the-ai-image-library"
@@ -22,7 +22,7 @@ language: "en"
 # AI Image Library PLR
 
 > Product ID `50064` · Digistore24 productId `575223` · [HTML profile page](../../reviews/ai-image-library-plr-50064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

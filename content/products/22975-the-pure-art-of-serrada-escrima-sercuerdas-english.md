@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-02-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/?aff=adminstore#aff=adminstore"
 sales_page: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/"
@@ -22,7 +22,7 @@ language: "en"
 # The Pure Art of Serrada Escrima SerCuerdas English
 
 > Product ID `22975` · Digistore24 productId `203487` · [HTML profile page](../../reviews/the-pure-art-of-serrada-escrima-sercuerdas-english-22975.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

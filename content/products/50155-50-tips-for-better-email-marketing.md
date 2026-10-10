@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-03-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/50-Tips-for-better-Email-Marketing/?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/50-Tips-for-better-Email-Marketing/"
@@ -22,7 +22,7 @@ language: "en"
 # 50 Tips for better Email Marketing
 
 > Product ID `50155` · Digistore24 productId `542941` · [HTML profile page](../../reviews/50-tips-for-better-email-marketing-50155.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

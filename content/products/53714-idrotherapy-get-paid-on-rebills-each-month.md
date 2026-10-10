@@ -13,7 +13,7 @@ cancel_rate_pct: 1.97
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2025-08-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://e-idrotherapylove.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-idrotherapylove.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Idrotherapy *GET PAID ON REBILLS EACH MONTH*
 
 > Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](../../reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-03-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://forexbee.co/supply-and-demand-indicator-digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexbee.co/supply-and-demand-indicator-digi/"
@@ -22,7 +22,7 @@ language: "en"
 # ⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡
 
 > Product ID `40517` · Digistore24 productId `435925` · [HTML profile page](../../reviews/supply-and-demand-indicator-best-price-action-indicator-40517.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

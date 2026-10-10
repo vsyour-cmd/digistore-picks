@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-10-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://manifestationmastery.aspireonecs.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://manifestationmastery.aspireonecs.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Manifestation Mastery - Rewrite your mind for desired life
 
 > Product ID `54360` · Digistore24 productId `640866` · [HTML profile page](../../reviews/manifestation-mastery-rewrite-your-mind-for-desired-life-54360.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

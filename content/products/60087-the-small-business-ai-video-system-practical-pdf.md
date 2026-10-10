@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
 listed_since: "2026-10-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "http://www.floxflow.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.floxflow.com"
@@ -22,7 +22,7 @@ language: "en"
 # The Small Business AI Video System | Practical PDF
 
 > Product ID `60087` · Digistore24 productId `736919` · [HTML profile page](../../reviews/the-small-business-ai-video-system-practical-pdf-60087.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

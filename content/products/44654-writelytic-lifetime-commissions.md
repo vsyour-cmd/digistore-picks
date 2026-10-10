@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2023-05-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://writelytic.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://writelytic.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Writelytic - Lifetime Commissions
 
 > Product ID `44654` · Digistore24 productId `497626` · [HTML profile page](../../reviews/writelytic-lifetime-commissions-44654.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

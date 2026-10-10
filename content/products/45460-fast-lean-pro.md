@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-09-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://fastleanpro24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://fastleanpro24.com/text.php"
@@ -22,7 +22,7 @@ language: "en"
 # Fast Lean Pro
 
 > Product ID `45460` · Digistore24 productId `518192` · [HTML profile page](../../reviews/fast-lean-pro-45460.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development"]
 listed_since: "2024-10-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://individual-therapy-berlin.de/online-courses/?aff=adminstore#aff=adminstore"
 sales_page: "https://individual-therapy-berlin.de/online-courses/"
@@ -22,7 +22,7 @@ language: "en"
 # Heal Your Parent Wound
 
 > Product ID `50698` · Digistore24 productId `576752` · [HTML profile page](../../reviews/heal-your-parent-wound-50698.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

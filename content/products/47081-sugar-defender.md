@@ -13,7 +13,7 @@ cancel_rate_pct: 11.15
 categories: ["Food Supplements"]
 listed_since: "2024-01-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore"
 sales_page: "https://sugardefender24.com/d/order-now.php"
@@ -22,7 +22,7 @@ language: "en"
 # Sugar Defender
 
 > Product ID `47081` · Digistore24 productId `536868` · [HTML profile page](../../reviews/sugar-defender-47081.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

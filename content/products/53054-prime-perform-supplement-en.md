@@ -13,7 +13,7 @@ cancel_rate_pct: 8.56
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-06-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://primeperformpro.com/welcome/?aff=adminstore#aff=adminstore"
 sales_page: "https://primeperformpro.com/welcome/"
@@ -22,7 +22,7 @@ language: "en"
 # Prime Perform Supplement EN
 
 > Product ID `53054` · Digistore24 productId `619569` · [HTML profile page](../../reviews/prime-perform-supplement-en-53054.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

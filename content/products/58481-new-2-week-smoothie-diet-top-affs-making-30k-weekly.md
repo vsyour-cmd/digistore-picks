@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-08-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://puredaily-health.com/free-smoothies?aff=adminstore#aff=adminstore"
 sales_page: "https://puredaily-health.com/free-smoothies"
@@ -22,7 +22,7 @@ language: "en"
 # ⚡️NEW: 2 Week Smoothie Diet⚡️ –Top Affs Making $30K+ Weekly!
 
 > Product ID `58481` · Digistore24 productId `724261` · [HTML profile page](../../reviews/new-2-week-smoothie-diet-top-affs-making-30k-weekly-58481.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

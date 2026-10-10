@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "http://reading.callofdestiny.org?aff=adminstore#aff=adminstore"
 sales_page: "http://reading.callofdestiny.org"
@@ -22,7 +22,7 @@ language: "en"
 # Call of Destiny - Weekly Recurring 75% Commission
 
 > Product ID `35972` · Digistore24 productId `370248` · [HTML profile page](../../reviews/call-of-destiny-weekly-recurring-75-commission-35972.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 13.58
 categories: ["Food Supplements"]
 listed_since: "2022-10-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore"
 sales_page: "http://healthyheartsolution.com/ptn/digi/1"
@@ -22,7 +22,7 @@ language: "en"
 # Healthy Heart Solution Kit
 
 > Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](../../reviews/healthy-heart-solution-kit-42273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft","Survival"]
 listed_since: "2025-10-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://easybatteryfixed.com/index_dg24/?aff=adminstore#aff=adminstore"
 sales_page: "https://easybatteryfixed.com/index_dg24/"
@@ -22,7 +22,7 @@ language: "en"
 # Promote Easy Battery Fix Now!
 
 > Product ID `54335` · Digistore24 productId `640412` · [HTML profile page](../../reviews/promote-easy-battery-fix-now-54335.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

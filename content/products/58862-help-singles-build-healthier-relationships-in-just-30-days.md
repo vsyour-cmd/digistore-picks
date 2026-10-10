@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-09-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://love.esr.mobi/digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://love.esr.mobi/digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # Help Singles Build Healthier Relationships in Just 30 Days
 
 > Product ID `58862` · Digistore24 productId `728264` · [HTML profile page](../../reviews/help-singles-build-healthier-relationships-in-just-30-days-58862.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

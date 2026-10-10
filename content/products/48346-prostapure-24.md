@@ -13,7 +13,7 @@ cancel_rate_pct: 15.22
 categories: ["Food Supplements"]
 listed_since: "2024-05-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://prostapure24.com/ancient-secret-8817-d?aff=adminstore#aff=adminstore"
 sales_page: "https://prostapure24.com/ancient-secret-8817-d"
@@ -22,7 +22,7 @@ language: "en"
 # ProstaPure 24
 
 > Product ID `48346` · Digistore24 productId `553211` · [HTML profile page](../../reviews/prostapure-24-48346.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

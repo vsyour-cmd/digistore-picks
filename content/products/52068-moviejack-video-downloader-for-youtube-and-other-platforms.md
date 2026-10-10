@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Software"]
 listed_since: "2023-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/516334?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/516334"
@@ -22,7 +22,7 @@ language: "en"
 # MovieJack – Video Downloader for YouTube and Other Platforms
 
 > Product ID `52068` · Digistore24 productId `516334` · [HTML profile page](../../reviews/moviejack-video-downloader-for-youtube-and-other-platforms-52068.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

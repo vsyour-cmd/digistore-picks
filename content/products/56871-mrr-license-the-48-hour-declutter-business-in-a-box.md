@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-06-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://www.affyro.com/MRR48HourDeclutter.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/MRR48HourDeclutter.html"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # MRR License The 48 Hour Declutter (Business in a Box)
 
 > Product ID `56871` · Digistore24 productId `700217` · [HTML profile page](../../reviews/mrr-license-the-48-hour-declutter-business-in-a-box-56871.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,28 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** MRR License: The 48-Hour Declutter | AFFYRO
+- **Headline (H1):**
+  > Access the Minimalist Lifestyle MRR Package.
+- **Section headlines (H2):**
+  - The Complete MRR Asset Package
+  - The Value of the MRR License
+  - Terms and Conditions
+  - Privacy Policy
+  - Refund Policy
+  - Contact Us
+  - Unsubscribe
+- **Price mentions on page:** $99.00
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Get MRR License - $99.00", "Get Instant Access - $99.00"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/700217
+- **Opening copy (first paragraphs):**
+  > Get the official Master Resell Rights to the guide "The 48-Hour Declutter" and add a ready-made digital asset to your portfolio.
+  > With this MRR license, you acquire a complete digital asset package designed for the home organization and minimalist lifestyle niche.
+  > By purchasing this package, you acquire not only a premium guide for yourself, but the official Master Resell Rights.
+  > Important Notice: Purchasing this license grants you the right to resell the product. This explicitly does not constitute an income promise or earnings claim. Your success depends entirely on your own independent marketing efforts.
+- **Page word count:** 530
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -60,7 +81,7 @@ language: "en"
 
 - What is it? — Type: E-books, vendor: MichaMH, listed since 2026-06-12
 - How much? — 99 USD
-- Guarantee? — not found in our research, verify on the official page
+- Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction

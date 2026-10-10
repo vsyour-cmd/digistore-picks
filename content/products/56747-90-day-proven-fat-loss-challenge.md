@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-05-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi"
@@ -22,7 +22,7 @@ language: "en"
 # 90-Day Proven Fat Loss Challenge
 
 > Product ID `56747` · Digistore24 productId `696162` · [HTML profile page](../../reviews/90-day-proven-fat-loss-challenge-56747.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

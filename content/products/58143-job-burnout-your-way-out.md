@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/718157?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718157"
@@ -22,7 +22,7 @@ language: "en"
 # Job Burnout – Your Way Out
 
 > Product ID `58143` · Digistore24 productId `718157` · [HTML profile page](../../reviews/job-burnout-your-way-out-58143.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

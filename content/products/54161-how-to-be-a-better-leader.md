@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2025-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/637576?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/637576"
@@ -22,7 +22,7 @@ language: "en"
 # How to Be a Better Leader
 
 > Product ID `54161` · Digistore24 productId `637576` · [HTML profile page](../../reviews/how-to-be-a-better-leader-54161.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://digistore24.getstartdictate.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://digistore24.getstartdictate.com/"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # Dictate Book Blueprint — $27 Book-Planning Service | 75% Commission
 
 > Product ID `60253` · Digistore24 productId `736154` · [HTML profile page](../../reviews/dictate-book-blueprint-27-book-planning-service-75-commission-60253.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,33 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Dictate Book Blueprint
+- **OG title:** Dictate — Turn Your Expertise Into a Published Book
+- **Meta description:** AI-powered book writing service. Speak your book into existence through guided interviews. Your voice, your ideas, your copyright.
+- **Headline (H1):**
+  > Dictate Book Blueprint
+- **Section headlines (H2):**
+  - What kind of product this is
+  - What you receive
+  - How it works and how long it takes
+  - What is not included
+  - Optional add-ons
+  - Refund policy
+  - Questions
+- **Price mentions on page:** $27, $97, $50, $100, $197, $77, $231, $12
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Buy the Book Blueprint — $27"
+- **Opening copy (first paragraphs):**
+  > Personalized book-planning service Dictate Book Blueprint A personalized written plan for your nonfiction book, created from one guided phone interview about your expertise. You talk; we turn what you say into a structured book plan you can write from yourself or hand to a writer.
+  > Optional on the order form: Competitive Gap Report, $27 more. It is only added if you tick it. Applicable sales tax or VAT is shown before you pay.
+  > 60-day money-back guarantee: if you are not satisfied for any reason, request a refund within 60 days of purchase and you get a full refund. No questions asked, no conditions, nothing to return.
+  > The Book Blueprint is a remote service, not an instant download. It is personalized from a live interview, so your written plan is created after you complete that interview. Right after payment you get your order confirmation page, where you book your strategy call. The plan is delivered by email after your interview.
+- **Questions the sales page answers:**
+  - Do I have to write anything?
+  - Is the interviewer a person?
+  - Who owns the material?
+- **Page word count:** 954
+- **OG image:** https://startdictate.com/og/og-home.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -60,7 +86,7 @@ language: "en"
 
 - What is it? — Type: Remote service provided electronically, vendor: dictate, listed since 2026-10-06
 - How much? — 27 USD
-- Guarantee? — not found in our research, verify on the official page
+- Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction

@@ -13,7 +13,7 @@ cancel_rate_pct: 6.72
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-02-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 60% Commission Promoting CircO2 Nitric Oxide Booster
 
 > Product ID `47238` · Digistore24 productId `538695` · [HTML profile page](../../reviews/earn-60-commission-promoting-circo2-nitric-oxide-booster-47238.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2025-05-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/613374?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/613374"
@@ -22,7 +22,7 @@ language: "en"
 # Tech House Track by Jay V Flyy | My Feelings (Radio Edit)
 
 > Product ID `52554` · Digistore24 productId `613374` · [HTML profile page](../../reviews/tech-house-track-by-jay-v-flyy-my-feelings-radio-edit-52554.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

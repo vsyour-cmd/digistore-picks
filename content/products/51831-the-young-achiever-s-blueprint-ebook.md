@@ -13,7 +13,7 @@ cancel_rate_pct: 7.68
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-03-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://aanchorbiz.com/the-young-achievers-blueprint-frontend/?aff=adminstore#aff=adminstore"
 sales_page: "https://aanchorbiz.com/the-young-achievers-blueprint-frontend/"
@@ -22,7 +22,7 @@ language: "en"
 # The Young Achiever's Blueprint - eBook
 
 > Product ID `51831` · Digistore24 productId `602748` · [HTML profile page](../../reviews/the-young-achiever-s-blueprint-ebook-51831.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

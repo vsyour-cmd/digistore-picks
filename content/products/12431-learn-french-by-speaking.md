@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2016-07-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://www.natural-language-system.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.natural-language-system.com"
@@ -22,7 +22,7 @@ language: "en"
 # Learn French by speaking!
 
 > Product ID `12431` · Digistore24 productId `88793` · [HTML profile page](../../reviews/learn-french-by-speaking-12431.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

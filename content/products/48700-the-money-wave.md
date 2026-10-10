@@ -13,7 +13,7 @@ cancel_rate_pct: 12.69
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Finances"]
 listed_since: "2024-07-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://getmoneywave.com/DS/vsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://getmoneywave.com/DS/vsl/"
@@ -22,7 +22,7 @@ language: "en"
 # The Money Wave
 
 > Product ID `48700` · Digistore24 productId `560807` · [HTML profile page](../../reviews/the-money-wave-48700.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

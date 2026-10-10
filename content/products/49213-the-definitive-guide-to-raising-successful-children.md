@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2024-05-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/553978?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/553978"
@@ -22,7 +22,7 @@ language: "en"
 # The Definitive Guide to Raising Successful Children
 
 > Product ID `49213` · Digistore24 productId `553978` · [HTML profile page](../../reviews/the-definitive-guide-to-raising-successful-children-49213.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

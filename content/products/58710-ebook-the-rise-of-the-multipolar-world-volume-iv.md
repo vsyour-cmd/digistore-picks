@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726718?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726718"
@@ -22,7 +22,7 @@ language: "en"
 # Ebook - The Rise of the Multipolar World - Volume IV
 
 > Product ID `58710` · Digistore24 productId `726718` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-iv-58710.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://journalforpeace-mg2.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://journalforpeace-mg2.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Journal For Peace
 
 > Product ID `59614` · Digistore24 productId `736678` · [HTML profile page](../../reviews/journal-for-peace-59614.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

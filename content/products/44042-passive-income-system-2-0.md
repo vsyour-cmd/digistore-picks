@@ -13,7 +13,7 @@ cancel_rate_pct: 19.2
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://vipliveclass.com/aff?aff=adminstore#aff=adminstore"
 sales_page: "https://vipliveclass.com/aff"
@@ -22,7 +22,7 @@ language: "en"
 # Passive Income System 2.0
 
 > Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](../../reviews/passive-income-system-2-0-44042.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

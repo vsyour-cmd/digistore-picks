@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-12-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://getglucotrust.co/?aff=adminstore#aff=adminstore"
 sales_page: "https://getglucotrust.co/"
@@ -22,7 +22,7 @@ language: "en"
 # Glucotrust: New Killer Blood Sugar Supplement
 
 > Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](../../reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

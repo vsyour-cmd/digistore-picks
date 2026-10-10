@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2022-12-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds"
@@ -22,7 +22,7 @@ language: "en"
 # German course for beginners based on a story: Jens and Jakob
 
 > Product ID `42181` · Digistore24 productId `474924` · [HTML profile page](../../reviews/german-course-for-beginners-based-on-a-story-jens-and-jakob-42181.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

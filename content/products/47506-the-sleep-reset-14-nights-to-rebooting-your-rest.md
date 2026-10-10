@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-03-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/544084?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/544084"
@@ -22,7 +22,7 @@ language: "en"
 # The Sleep Reset: 14 Nights to Rebooting Your Rest
 
 > Product ID `47506` · Digistore24 productId `544084` · [HTML profile page](../../reviews/the-sleep-reset-14-nights-to-rebooting-your-rest-47506.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736187?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736187"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # Home Alarm System Buyer’s Guide and Workbook, 50% Commission
 
 > Product ID `59664` · Digistore24 productId `736187` · [HTML profile page](../../reviews/home-alarm-system-buyer-s-guide-and-workbook-50-commission-59664.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,23 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** The Home Security Buyer’s Guide and Planning Workbook - Digistore24
+- **OG title:** The Home Security Buyer’s Guide and Planning Workbook
+- **Section headlines (H3):**
+  - The Home Security Buyer’s Guide and Planning Workbook
+  - The Home Security Buyer’s Guide and Planning Workbook
+  - The Home Security Buyer’s Guide and Planning Workbook
+- **Price mentions on page:** $19.99
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > The Home Security Buyer’s Guide and Planning Workbook combines independent buyer guidance, practical installer insights, and printable planning tools for homeowners considering DIY or professionally installed alarm systems.
+  > Define what your system needs to accomplish, compare products and providers on consistent terms, and understand how to verify the completed system.
+  > Developed from over 20 years of experience designing, installing, servicing, and troubleshooting residential and commercial security and technology systems, the guide explores questions that equipment listings and sales presentations often leave unanswered.
+  > The complete guide contains 114 pages , but no cover-to-cover reading is required.
+- **Questions the sales page answers:**
+  - Considering Ring Alarm, SimpliSafe, or another DIY system?
+- **Page word count:** 1526
+- **OG image:** https://www.digistore24.com/pb/img/merchant_5133555/image/product/XKNU8ZZI.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -59,7 +75,7 @@ language: "en"
 
 - What is it? — Type: Downloads, vendor: SmartHomeSystemsAdvisor, listed since 2026-09-24
 - How much? — 19.99 USD
-- Guarantee? — not found in our research, verify on the official page
+- Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction

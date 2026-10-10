@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/"
@@ -22,7 +22,7 @@ language: "en"
 # 85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book
 
 > Product ID `60397` · Digistore24 productId `734044` · [HTML profile page](../../reviews/85-commission-the-21-day-clean-eating-challenge-e-book-60397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

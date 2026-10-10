@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mfl.academy/?dig=607649&aff=adminstore#aff=adminstore"
 sales_page: "https://mfl.academy/?dig=607649"
@@ -22,7 +22,7 @@ language: "en"
 # Online Piercing Training since 2020
 
 > Product ID `53737` · Digistore24 productId `607649` · [HTML profile page](../../reviews/online-piercing-training-since-2020-53737.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

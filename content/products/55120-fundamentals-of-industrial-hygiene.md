@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-12-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch?aff=adminstore#aff=adminstore"
 sales_page: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch"
@@ -22,7 +22,7 @@ language: "en"
 # Fundamentals of industrial hygiene
 
 > Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](../../reviews/fundamentals-of-industrial-hygiene-55120.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

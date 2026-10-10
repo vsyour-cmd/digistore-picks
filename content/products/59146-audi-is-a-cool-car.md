@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://auditete-ql6.plannerpack.fun?aff=adminstore#aff=adminstore"
 sales_page: "https://auditete-ql6.plannerpack.fun"
@@ -22,7 +22,7 @@ language: "en"
 # Audi is a Cool Car
 
 > Product ID `59146` · Digistore24 productId `732701` · [HTML profile page](../../reviews/audi-is-a-cool-car-59146.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

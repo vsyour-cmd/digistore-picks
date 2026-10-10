@@ -13,7 +13,7 @@ cancel_rate_pct: 5.92
 categories: ["Business & Investment"]
 listed_since: "2026-02-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://scorpioscalper.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://scorpioscalper.site/"
@@ -22,7 +22,7 @@ language: "en"
 # Scorpio Scalper
 
 > Product ID `55847` · Digistore24 productId `670693` · [HTML profile page](../../reviews/scorpio-scalper-55847.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

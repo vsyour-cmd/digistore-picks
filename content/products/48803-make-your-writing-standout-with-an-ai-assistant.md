@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Betting Systems","Software","Online Marketing"]
 listed_since: "2024-08-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore"
 sales_page: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching"
@@ -22,7 +22,7 @@ language: "en"
 # Make your writing standout with an AI Assistant
 
 > Product ID `48803` · Digistore24 productId `564237` · [HTML profile page](../../reviews/make-your-writing-standout-with-an-ai-assistant-48803.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

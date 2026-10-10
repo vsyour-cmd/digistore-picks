@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-03-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/ai-workout-generator-freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/ai-workout-generator-freebie"
@@ -22,7 +22,7 @@ language: "en"
 # AI Fitness System | 5-Product Funnel | 50% Commission
 
 > Product ID `56030` · Digistore24 productId `676273` · [HTML profile page](../../reviews/ai-fitness-system-5-product-funnel-50-commission-56030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

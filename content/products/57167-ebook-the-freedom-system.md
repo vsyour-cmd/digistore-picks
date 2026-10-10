@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-06-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706743?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706743"
@@ -22,7 +22,7 @@ language: "en"
 # Ebook - The Freedom System
 
 > Product ID `57167` · Digistore24 productId `706743` · [HTML profile page](../../reviews/ebook-the-freedom-system-57167.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

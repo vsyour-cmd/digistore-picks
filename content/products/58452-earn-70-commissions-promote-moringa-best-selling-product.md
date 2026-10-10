@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Food Supplements"]
 listed_since: "2026-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://eznaturals.co/moringa-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://eznaturals.co/moringa-digistore24/"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 70% Commissions Promote Moringa - Best Selling Product
 
 > Product ID `58452` · Digistore24 productId `692712` · [HTML profile page](../../reviews/earn-70-commissions-promote-moringa-best-selling-product-58452.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

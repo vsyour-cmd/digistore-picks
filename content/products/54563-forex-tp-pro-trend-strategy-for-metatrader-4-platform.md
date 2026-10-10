@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Software","Trading Products"]
 listed_since: "2025-11-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://forexprofitkeeper.com/forex-tp-pro-trend-strategy-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-tp-pro-trend-strategy-dg/"
@@ -22,7 +22,7 @@ language: "en"
 # Forex TP PRO Trend Strategy For MetaTrader 4 Platform
 
 > Product ID `54563` · Digistore24 productId `646146` · [HTML profile page](../../reviews/forex-tp-pro-trend-strategy-for-metatrader-4-platform-54563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

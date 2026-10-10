@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Social Media"]
 listed_since: "2025-03-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/602787?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/602787"
@@ -22,7 +22,7 @@ language: "en"
 # Promote the Etsy Profits Playbook with Commission
 
 > Product ID `51792` · Digistore24 productId `602787` · [HTML profile page](../../reviews/promote-the-etsy-profits-playbook-with-commission-51792.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

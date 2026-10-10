@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-02-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/598501?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/598501"
@@ -22,7 +22,7 @@ language: "en"
 # The Instagram Growth Blueprint + The Pathway to Profits
 
 > Product ID `51493` · Digistore24 productId `598501` · [HTML profile page](../../reviews/the-instagram-growth-blueprint-the-pathway-to-profits-51493.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

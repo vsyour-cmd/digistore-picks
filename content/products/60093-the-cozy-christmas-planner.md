@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://thecozychristmasplanner-3rh.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://thecozychristmasplanner-3rh.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # The Cozy Christmas Planner
 
 > Product ID `60093` · Digistore24 productId `739892` · [HTML profile page](../../reviews/the-cozy-christmas-planner-60093.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

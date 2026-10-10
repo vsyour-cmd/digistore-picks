@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft","Profession & Job"]
 listed_since: "2026-08-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/718955?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718955"
@@ -22,7 +22,7 @@ language: "en"
 # Automotive and Motorsport Gear Engineering – Volumе 1
 
 > Product ID `58219` · Digistore24 productId `718955` · [HTML profile page](../../reviews/automotive-and-motorsport-gear-engineering-volum-1-58219.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

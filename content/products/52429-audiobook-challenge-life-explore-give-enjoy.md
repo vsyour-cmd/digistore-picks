@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-04-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.kharabanda.com/digi_audiobook_funnel?aff=adminstore#aff=adminstore"
 sales_page: "https://www.kharabanda.com/digi_audiobook_funnel"
@@ -22,7 +22,7 @@ language: "en"
 # Audiobook: Challenge - Life - Explore - Give - Enjoy
 
 > Product ID `52429` · Digistore24 productId `609597` · [HTML profile page](../../reviews/audiobook-challenge-life-explore-give-enjoy-52429.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

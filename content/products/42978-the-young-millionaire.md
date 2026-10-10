@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2023-03-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/488392?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/488392"
@@ -22,7 +22,7 @@ language: "en"
 # The Young Millionaire
 
 > Product ID `42978` · Digistore24 productId `488392` · [HTML profile page](../../reviews/the-young-millionaire-42978.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

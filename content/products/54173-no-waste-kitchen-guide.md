@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children","Food & Drink","Hobby & Craft"]
 listed_since: "2025-09-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/637564?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/637564"
@@ -22,7 +22,7 @@ language: "en"
 # No-Waste Kitchen Guide
 
 > Product ID `54173` · Digistore24 productId `637564` · [HTML profile page](../../reviews/no-waste-kitchen-guide-54173.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

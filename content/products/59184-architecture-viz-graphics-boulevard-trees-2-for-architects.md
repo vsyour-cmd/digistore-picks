@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden","Photography & Film","Profession & Job"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/"
@@ -22,7 +22,7 @@ language: "en"
 # Architecture VIZ Graphics – Boulevard Trees 2 for Architects
 
 > Product ID `59184` · Digistore24 productId `593591` · [HTML profile page](../../reviews/architecture-viz-graphics-boulevard-trees-2-for-architects-59184.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

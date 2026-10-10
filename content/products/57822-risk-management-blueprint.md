@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Project Management"]
 listed_since: "2026-07-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/risk-management-course/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/risk-management-course/"
@@ -22,7 +22,7 @@ language: "en"
 # Risk Management Blueprint
 
 > Product ID `57822` · Digistore24 productId `589118` · [HTML profile page](../../reviews/risk-management-blueprint-57822.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

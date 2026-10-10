@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2022-11-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.guitarschool24.com/flamenco-guitar-method?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool24.com/flamenco-guitar-method"
@@ -22,7 +22,7 @@ language: "en"
 # Flamenco Guitar Online Course
 
 > Product ID `43300` · Digistore24 productId `470989` · [HTML profile page](../../reviews/flamenco-guitar-online-course-43300.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

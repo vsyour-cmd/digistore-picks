@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-10-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://getfluxactive.cc/vslv1/?aff=adminstore#aff=adminstore"
 sales_page: "https://getfluxactive.cc/vslv1/"
@@ -22,7 +22,7 @@ language: "en"
 # FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer
 
 > Product ID `41776` · Digistore24 productId `466656` · [HTML profile page](../../reviews/fluxactive-unique-14-in-1-mega-prostate-offer-41776.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

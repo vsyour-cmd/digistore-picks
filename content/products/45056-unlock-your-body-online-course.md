@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/510562?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/510562"
@@ -22,7 +22,7 @@ language: "en"
 # Unlock Your Body [Online Course]
 
 > Product ID `45056` · Digistore24 productId `510562` · [HTML profile page](../../reviews/unlock-your-body-online-course-45056.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

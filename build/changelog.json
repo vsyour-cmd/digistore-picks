@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Research backfill: 23 previously missing sales-page studies recovered (coverage now 1220/1255, 97.2%); daily improvement queue refilled with 8 new items.",
+      "changes": [
+        "fetch-research default run recovered 23 offers; 35 dead domains stay honestly labeled",
+        "improvements-backlog.json: 8 new rotation items queued (promo-link health audit, head-to-head expansion, vendor hubs to Top100, price-watch page, blog crosslinking, llms-full expansion)",
+        "prune-stale.js confirmed 0 stale files after rebuild"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Error-check pass: audit tooling fixed (schema audit now actually validates @graph entities — Product/Breadcrumb/Organization across 6452 pages, all pass), false duplicate-title hits removed, vendor-directory cross-links added, CJK-contaminated vendor descriptions cleaned, delisted-offer ghost pages pruned via new prune-stale.js step. QA gates all green.",
       "changes": [
         "audit-schema.js: @graph flattening + stats key fix — Product/Breadcrumb/Organization validation now real",

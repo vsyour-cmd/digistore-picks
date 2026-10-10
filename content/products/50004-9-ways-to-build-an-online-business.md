@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-03-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/9-ways-to-your-online-business?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/9-ways-to-your-online-business"
@@ -22,7 +22,7 @@ language: "en"
 # 9 Ways to build an Online Business
 
 > Product ID `50004` · Digistore24 productId `543164` · [HTML profile page](../../reviews/9-ways-to-build-an-online-business-50004.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

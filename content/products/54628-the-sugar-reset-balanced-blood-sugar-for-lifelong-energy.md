@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-11-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sugarresetpage.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://sugarresetpage.netlify.app/"
@@ -22,7 +22,7 @@ language: "en"
 # The Sugar Reset: Balanced Blood Sugar for Lifelong Energy
 
 > Product ID `54628` · Digistore24 productId `646770` · [HTML profile page](../../reviews/the-sugar-reset-balanced-blood-sugar-for-lifelong-energy-54628.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-06-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore"
 sales_page: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us"
@@ -22,7 +22,7 @@ language: "en"
 # 75% Comm | The "Anti-Pill" Mental Health Funnel | Massive Co
 
 > Product ID `52921` · Digistore24 productId `617915` · [HTML profile page](../../reviews/75-comm-the-anti-pill-mental-health-funnel-massive-co-52921.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

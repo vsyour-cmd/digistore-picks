@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media","Real Estate","Marketing Services"]
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://airbnb.wdpx.de/video-pakete/?aff=adminstore#aff=adminstore"
 sales_page: "https://airbnb.wdpx.de/video-pakete/"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 20% Commission on Our 30-Video Vacation-Rental Package
 
 > Product ID `59155` · Digistore24 productId `732626` · [HTML profile page](../../reviews/earn-20-commission-on-our-30-video-vacation-rental-package-59155.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

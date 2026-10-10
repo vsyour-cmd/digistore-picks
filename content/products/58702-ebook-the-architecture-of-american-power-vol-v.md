@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726707?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726707"
@@ -22,7 +22,7 @@ language: "en"
 # Ebook - The Architecture of American Power Vol V
 
 > Product ID `58702` · Digistore24 productId `726707` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-v-58702.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 10.3
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2023-09-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://endopeak24.com/d/order-now.php?aff=adminstore#aff=adminstore"
 sales_page: "https://endopeak24.com/d/order-now.php"
@@ -22,7 +22,7 @@ language: "en"
 # EndoPeak
 
 > Product ID `45462` · Digistore24 productId `516991` · [HTML profile page](../../reviews/endopeak-45462.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

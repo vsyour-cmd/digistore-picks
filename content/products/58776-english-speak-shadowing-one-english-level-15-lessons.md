@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-08-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://englishspeakshadowing.pl/course?aff=adminstore#aff=adminstore"
 sales_page: "https://englishspeakshadowing.pl/course"
@@ -22,7 +22,7 @@ language: "en"
 # English Speak Shadowing — One English Level (15 Lessons)
 
 > Product ID `58776` · Digistore24 productId `727603` · [HTML profile page](../../reviews/english-speak-shadowing-one-english-level-15-lessons-58776.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

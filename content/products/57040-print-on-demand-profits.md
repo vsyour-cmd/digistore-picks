@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.offerlaunchpad.site/print-on-demand-profits?aff=adminstore#aff=adminstore"
 sales_page: "https://www.offerlaunchpad.site/print-on-demand-profits"
@@ -22,7 +22,7 @@ language: "en"
 # Print on Demand Profits
 
 > Product ID `57040` · Digistore24 productId `702929` · [HTML profile page](../../reviews/print-on-demand-profits-57040.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

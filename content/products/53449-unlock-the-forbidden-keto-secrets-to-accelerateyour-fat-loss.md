@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Online Marketing & E-Business"]
 listed_since: "2025-08-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630881?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/630881"
@@ -22,7 +22,7 @@ language: "en"
 # Unlock the Forbidden Keto Secrets to AccelerateYour Fat Loss
 
 > Product ID `53449` · Digistore24 productId `630881` · [HTML profile page](../../reviews/unlock-the-forbidden-keto-secrets-to-accelerateyour-fat-loss-53449.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

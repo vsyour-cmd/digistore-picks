@@ -13,7 +13,7 @@ cancel_rate_pct: 4.76
 categories: ["Education","Law & Justice","Online Marketing & E-Business"]
 listed_since: "2025-07-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://sales-page-4d8.pages.dev?aff=adminstore#aff=adminstore"
 sales_page: "http://sales-page-4d8.pages.dev"
@@ -22,7 +22,7 @@ language: "en"
 # 81 % Commission on US Immigration Survival PRO Bundle
 
 > Product ID `53539` · Digistore24 productId `625471` · [HTML profile page](../../reviews/81-commission-on-us-immigration-survival-pro-bundle-53539.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

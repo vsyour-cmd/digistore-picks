@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore"
 sales_page: "https://wellnessworld.ee/10daysabundance"
@@ -22,7 +22,7 @@ language: "en"
 # 10 Days to Abundance — A Guided Inner Journey
 
 > Product ID `54353` · Digistore24 productId `640611` · [HTML profile page](../../reviews/10-days-to-abundance-a-guided-inner-journey-54353.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 6.66
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2022-12-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 60% Commission Promoting Advanced Amino Formula
 
 > Product ID `47082` · Digistore24 productId `472943` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-amino-formula-47082.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

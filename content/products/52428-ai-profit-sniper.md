@@ -13,7 +13,7 @@ cancel_rate_pct: 27.21
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2025-05-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.aiprofitsniper.com/dindex1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aiprofitsniper.com/dindex1.html"
@@ -22,7 +22,7 @@ language: "en"
 # AI Profit Sniper
 
 > Product ID `52428` · Digistore24 productId `610341` · [HTML profile page](../../reviews/ai-profit-sniper-52428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

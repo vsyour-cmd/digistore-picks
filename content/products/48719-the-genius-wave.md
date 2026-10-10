@@ -13,7 +13,7 @@ cancel_rate_pct: 7.79
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://ingeniuswave.com/DSvsl/"
@@ -22,7 +22,7 @@ language: "en"
 # The Genius Wave
 
 > Product ID `48719` · Digistore24 productId `547017` · [HTML profile page](../../reviews/the-genius-wave-48719.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

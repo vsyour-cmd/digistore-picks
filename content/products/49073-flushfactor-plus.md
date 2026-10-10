@@ -13,7 +13,7 @@ cancel_rate_pct: 13.68
 categories: ["Food Supplements"]
 listed_since: "2024-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://flushfactorplus24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://flushfactorplus24.com/text.php"
@@ -22,7 +22,7 @@ language: "en"
 # FlushFactor Plus
 
 > Product ID `49073` · Digistore24 productId `567220` · [HTML profile page](../../reviews/flushfactor-plus-49073.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

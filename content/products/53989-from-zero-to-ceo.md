@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
 listed_since: "2025-09-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/635580?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/635580"
@@ -22,7 +22,7 @@ language: "en"
 # From Zero to CEO
 
 > Product ID `53989` · Digistore24 productId `635580` · [HTML profile page](../../reviews/from-zero-to-ceo-53989.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

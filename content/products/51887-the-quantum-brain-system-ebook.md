@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2025-03-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://aanchorbiz.com/the-quantum-brain-system-frontend/?aff=adminstore#aff=adminstore"
 sales_page: "https://aanchorbiz.com/the-quantum-brain-system-frontend/"
@@ -22,7 +22,7 @@ language: "en"
 # The Quantum Brain System - eBook
 
 > Product ID `51887` · Digistore24 productId `603909` · [HTML profile page](../../reviews/the-quantum-brain-system-ebook-51887.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

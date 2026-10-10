@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Languages","Personal Development"]
 listed_since: "2025-07-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://tysimmons.teachable.com/p/ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://tysimmons.teachable.com/p/ds24"
@@ -22,7 +22,7 @@ language: "en"
 # Sound Better than Your American Friends
 
 > Product ID `53646` · Digistore24 productId `625540` · [HTML profile page](../../reviews/sound-better-than-your-american-friends-53646.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

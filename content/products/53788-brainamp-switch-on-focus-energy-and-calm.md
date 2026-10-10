@@ -13,7 +13,7 @@ cancel_rate_pct: 45.96
 categories: ["Animals & Pets","Food & Drink","Food Supplements"]
 listed_since: "2025-08-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm"
@@ -22,7 +22,7 @@ language: "en"
 # BrainAMP - Switch On Focus, Energy, and Calm
 
 > Product ID `53788` · Digistore24 productId `630380` · [HTML profile page](../../reviews/brainamp-switch-on-focus-energy-and-calm-53788.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

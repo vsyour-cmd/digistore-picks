@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Software"]
 listed_since: "2025-07-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://cute-fairy-779047.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://cute-fairy-779047.netlify.app/"
@@ -22,7 +22,7 @@ language: "en"
 # Earn Big Promoting the Notion Pro AI System – Resell Rights
 
 > Product ID `53234` · Digistore24 productId `624660` · [HTML profile page](../../reviews/earn-big-promoting-the-notion-pro-ai-system-resell-rights-53234.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

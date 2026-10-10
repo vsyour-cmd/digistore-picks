@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2026-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://nextmethod-chargeback.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://nextmethod-chargeback.netlify.app/"
@@ -22,7 +22,7 @@ language: "en"
 # Chargeback Prevention Masterclass for Business Owners | $225
 
 > Product ID `59085` · Digistore24 productId `726450` · [HTML profile page](../../reviews/chargeback-prevention-masterclass-for-business-owners-225-59085.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2021-04-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/383879/adminstore"
 sales_page: "https://bookcoverly.com/bookcoverly-book-cover-software//?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "en"
 # BookCoverly Book Cover Software for Paperback and Ebooks
 
 > Product ID `36358` · Digistore24 productId `383879` · [HTML profile page](../../reviews/bookcoverly-book-cover-software-for-paperback-and-ebooks-36358.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

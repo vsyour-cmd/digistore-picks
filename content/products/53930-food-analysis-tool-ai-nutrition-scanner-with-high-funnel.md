@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Software"]
 listed_since: "2025-08-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://foodanalysistool.com/pitch?network=digistore24&aff=adminstore#aff=adminstore"
 sales_page: "https://foodanalysistool.com/pitch?network=digistore24"
@@ -22,7 +22,7 @@ language: "en"
 # Food Analysis Tool – AI Nutrition Scanner with High Funnel
 
 > Product ID `53930` · Digistore24 productId `632164` · [HTML profile page](../../reviews/food-analysis-tool-ai-nutrition-scanner-with-high-funnel-53930.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

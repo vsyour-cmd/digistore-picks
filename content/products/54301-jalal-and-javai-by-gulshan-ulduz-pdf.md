@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638763?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638763"
@@ -22,7 +22,7 @@ language: "en"
 # JALAL AND JAVAI by Gulshan Ulduz PDF
 
 > Product ID `54301` · Digistore24 productId `638763` · [HTML profile page](../../reviews/jalal-and-javai-by-gulshan-ulduz-pdf-54301.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2022-11-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/"
@@ -22,7 +22,7 @@ language: "en"
 # No Grid Survival Projects – BRAND NEW!
 
 > Product ID `41823` · Digistore24 productId `471054` · [HTML profile page](../../reviews/no-grid-survival-projects-brand-new-41823.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

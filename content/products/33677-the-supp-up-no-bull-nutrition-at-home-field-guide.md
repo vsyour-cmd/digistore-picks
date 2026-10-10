@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2020-07-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://supp-up.com/ds24-nutrition-at-home-field-guide?aff=adminstore#aff=adminstore"
 sales_page: "https://supp-up.com/ds24-nutrition-at-home-field-guide"
@@ -22,7 +22,7 @@ language: "en"
 # The SUPP UP. No Bull Nutrition At Home Field Guide
 
 > Product ID `33677` · Digistore24 productId `338618` · [HTML profile page](../../reviews/the-supp-up-no-bull-nutrition-at-home-field-guide-33677.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

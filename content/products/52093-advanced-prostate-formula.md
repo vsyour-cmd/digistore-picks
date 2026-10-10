@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-04-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm"
@@ -22,7 +22,7 @@ language: "en"
 # Advanced Prostate Formula
 
 > Product ID `52093` · Digistore24 productId `606698` · [HTML profile page](../../reviews/advanced-prostate-formula-52093.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

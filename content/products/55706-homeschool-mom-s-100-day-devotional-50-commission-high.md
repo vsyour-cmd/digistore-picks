@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/669825?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/669825"
@@ -22,7 +22,7 @@ language: "en"
 # Homeschool Mom’s 100-Day Devotional - 50% Commission - High-
 
 > Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](../../reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

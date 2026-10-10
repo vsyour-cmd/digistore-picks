@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-08-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/720524?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/720524"
@@ -22,7 +22,7 @@ language: "en"
 # 15 Minute Healthy Meals
 
 > Product ID `58306` · Digistore24 productId `720524` · [HTML profile page](../../reviews/15-minute-healthy-meals-58306.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

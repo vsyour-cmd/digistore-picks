@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://forexprofitkeeper.com/forex-c-15-trader-strategy-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-c-15-trader-strategy-dg/"
@@ -22,7 +22,7 @@ language: "en"
 # Forex C 15 Trader Strategy For MetaTrader 4 Platform
 
 > Product ID `54584` · Digistore24 productId `646620` · [HTML profile page](../../reviews/forex-c-15-trader-strategy-for-metatrader-4-platform-54584.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

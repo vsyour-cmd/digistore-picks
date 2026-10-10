@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-04-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.free-ketorecipe.com/"
@@ -22,7 +22,7 @@ language: "en"
 # ⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital
 
 > Product ID `47757` · Digistore24 productId `547184` · [HTML profile page](../../reviews/the-ultimate-keto-bundle-high-converting-offer-digital-47757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

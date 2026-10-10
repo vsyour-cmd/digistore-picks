@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2023-12-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norskproven/?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/norskproven/"
@@ -22,7 +22,7 @@ language: "en"
 # How to pass Norskprøven (A1-B2)
 
 > Product ID `47344` · Digistore24 productId `530046` · [HTML profile page](../../reviews/how-to-pass-norskpr-ven-a1-b2-47344.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

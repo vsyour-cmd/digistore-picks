@@ -13,7 +13,7 @@ cancel_rate_pct: 12.05
 categories: ["Email Marketing"]
 listed_since: "2023-03-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration?aff=adminstore#aff=adminstore"
 sales_page: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration"
@@ -22,7 +22,7 @@ language: "en"
 # 7-Figure ELITE Partnership
 
 > Product ID `50878` · Digistore24 productId `491495` · [HTML profile page](../../reviews/7-figure-elite-partnership-50878.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

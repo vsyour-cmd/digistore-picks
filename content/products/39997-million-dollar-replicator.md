@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-04-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://mdreplicator.com/digi?aff=adminstore#aff=adminstore"
 sales_page: "https://mdreplicator.com/digi"
@@ -22,7 +22,7 @@ language: "en"
 # Million Dollar Replicator
 
 > Product ID `39997` · Digistore24 productId `438218` · [HTML profile page](../../reviews/million-dollar-replicator-39997.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

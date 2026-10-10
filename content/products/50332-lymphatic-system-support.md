@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://lymphflowsupport.com/presentation-2?aff=adminstore#aff=adminstore"
 sales_page: "https://lymphflowsupport.com/presentation-2"
@@ -22,7 +22,7 @@ language: "en"
 # Lymphatic System Support
 
 > Product ID `50332` · Digistore24 productId `572520` · [HTML profile page](../../reviews/lymphatic-system-support-50332.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

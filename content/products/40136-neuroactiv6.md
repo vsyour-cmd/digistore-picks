@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-05-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.naturalcell.com/mental-energy/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.naturalcell.com/mental-energy/"
@@ -22,7 +22,7 @@ language: "en"
 # NeuroActiv6
 
 > Product ID `40136` · Digistore24 productId `442614` · [HTML profile page](../../reviews/neuroactiv6-40136.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

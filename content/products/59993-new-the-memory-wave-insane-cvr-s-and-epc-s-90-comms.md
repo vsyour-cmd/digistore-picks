@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://puredaily-health.com/better-memory?aff=adminstore#aff=adminstore"
 sales_page: "http://puredaily-health.com/better-memory"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: The Memory Wave - Insane CVR's and EPC's - 90% Comms
 
 > Product ID `59993` · Digistore24 productId `738157` · [HTML profile page](../../reviews/new-the-memory-wave-insane-cvr-s-and-epc-s-90-comms-59993.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

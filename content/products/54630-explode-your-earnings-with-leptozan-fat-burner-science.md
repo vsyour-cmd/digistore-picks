@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-10-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.leptozan.com/ds/newdiscovery/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.leptozan.com/ds/newdiscovery/"
@@ -22,7 +22,7 @@ language: "en"
 # Explode Your Earnings with Leptozan • Fat Burner Science
 
 > Product ID `54630` · Digistore24 productId `644659` · [HTML profile page](../../reviews/explode-your-earnings-with-leptozan-fat-burner-science-54630.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2021-04-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://sites.google.com/view/emailmktgsuccess/home?aff=adminstore#aff=adminstore"
 sales_page: "https://sites.google.com/view/emailmktgsuccess/home"
@@ -22,7 +22,7 @@ language: "en"
 # Email Marketing Success
 
 > Product ID `36323` · Digistore24 productId `382722` · [HTML profile page](../../reviews/email-marketing-success-36323.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

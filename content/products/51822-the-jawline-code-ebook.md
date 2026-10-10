@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2025-03-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://aanchorbiz.com/the-jawline-code-frontend/?aff=adminstore#aff=adminstore"
 sales_page: "https://aanchorbiz.com/the-jawline-code-frontend/"
@@ -22,7 +22,7 @@ language: "en"
 # The Jawline Code - ebook
 
 > Product ID `51822` · Digistore24 productId `603194` · [HTML profile page](../../reviews/the-jawline-code-ebook-51822.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

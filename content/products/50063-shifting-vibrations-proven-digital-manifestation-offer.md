@@ -13,7 +13,7 @@ cancel_rate_pct: 24.19
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-10-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://astralhq.com/ds-shifting/?aff=adminstore#aff=adminstore"
 sales_page: "https://astralhq.com/ds-shifting/"
@@ -22,7 +22,7 @@ language: "en"
 # Shifting Vibrations - Proven Digital Manifestation Offer
 
 > Product ID `50063` · Digistore24 productId `574669` · [HTML profile page](../../reviews/shifting-vibrations-proven-digital-manifestation-offer-50063.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

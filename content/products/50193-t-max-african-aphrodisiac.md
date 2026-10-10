@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-10-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://partners.primalforce.net/sp/sex-root-video-digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://partners.primalforce.net/sp/sex-root-video-digi/"
@@ -22,7 +22,7 @@ language: "en"
 # T-Max - African Aphrodisiac
 
 > Product ID `50193` · Digistore24 productId `577057` · [HTML profile page](../../reviews/t-max-african-aphrodisiac-50193.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

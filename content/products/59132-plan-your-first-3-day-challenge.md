@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Trading Products"]
 listed_since: "2026-09-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/"
@@ -22,7 +22,7 @@ language: "en"
 # Plan Your First 3-Day Challenge
 
 > Product ID `59132` · Digistore24 productId `731793` · [HTML profile page](../../reviews/plan-your-first-3-day-challenge-59132.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

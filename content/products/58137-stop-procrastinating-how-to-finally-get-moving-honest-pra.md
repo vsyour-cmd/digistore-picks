@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Leadership & Management"]
 listed_since: "2026-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/718317?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718317"
@@ -22,7 +22,7 @@ language: "en"
 # Stop Procrastinating How to Finally Get Moving – Honest, Pra
 
 > Product ID `58137` · Digistore24 productId `718317` · [HTML profile page](../../reviews/stop-procrastinating-how-to-finally-get-moving-honest-pra-58137.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

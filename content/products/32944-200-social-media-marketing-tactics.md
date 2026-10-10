@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-05-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://digiworldgaz.wixsite.com/200socialmediatactic?aff=adminstore#aff=adminstore"
 sales_page: "https://digiworldgaz.wixsite.com/200socialmediatactic"
@@ -22,7 +22,7 @@ language: "en"
 # 200 Social Media Marketing Tactics
 
 > Product ID `32944` · Digistore24 productId `328658` · [HTML profile page](../../reviews/200-social-media-marketing-tactics-32944.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

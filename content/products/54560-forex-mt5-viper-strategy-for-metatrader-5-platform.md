@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://forexprofitkeeper.com/forex-mt5-viper-strategy-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-mt5-viper-strategy-dg/"
@@ -22,7 +22,7 @@ language: "en"
 # Forex MT5 Viper Strategy For MetaTrader 5 Platform
 
 > Product ID `54560` · Digistore24 productId `646154` · [HTML profile page](../../reviews/forex-mt5-viper-strategy-for-metatrader-5-platform-54560.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

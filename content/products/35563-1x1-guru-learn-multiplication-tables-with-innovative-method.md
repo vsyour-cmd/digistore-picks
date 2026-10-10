@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore"
 sales_page: "https://www.1x1.guru/?lang=en"
@@ -22,7 +22,7 @@ language: "en"
 # 1x1 Guru: Learn multiplication tables with innovative method
 
 > Product ID `35563` · Digistore24 productId `364765` · [HTML profile page](../../reviews/1x1-guru-learn-multiplication-tables-with-innovative-method-35563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

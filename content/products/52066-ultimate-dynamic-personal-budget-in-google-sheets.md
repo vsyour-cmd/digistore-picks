@@ -13,7 +13,7 @@ cancel_rate_pct: 16.89
 categories: ["Business & Investment","Finances"]
 listed_since: "2025-03-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digital-planning-studio.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digital-planning-studio.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Ultimate Dynamic Personal Budget in Google Sheets
 
 > Product ID `52066` · Digistore24 productId `604596` · [HTML profile page](../../reviews/ultimate-dynamic-personal-budget-in-google-sheets-52066.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

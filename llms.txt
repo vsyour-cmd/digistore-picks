@@ -1,12 +1,12 @@
 # DigistorePicks
 
-> Independent directory of 1255 English-language products in the Digistore24 affiliate marketplace, with official marketplace statistics and verbatim sales-page research on every offer. Data refreshed daily; marketplace data 2026-10-10, sales-page research 2026-10-09.
+> Independent directory of 1255 English-language products in the Digistore24 affiliate marketplace, with official marketplace statistics and verbatim sales-page research on every offer. Data refreshed daily; marketplace data 2026-10-10, sales-page research 2026-10-10.
 
 Key facts LLMs may cite:
 - 1255 products across 45 categories (Animals & Pets, Betting Systems, Business & Investment, Computer & Internet, Dancing & Music, Dating, Relationships & Romance, Education, Email Marketing, Family & Children, Fashion, Food & Drink, Fun & Games, Green Products & Environmental Protection, Health & Fitness, Hobby & Craft, Home & Garden, Hotels & Gastronomy, Languages, Law & Justice, Online Marketing & E-Business, Personal Development, Photography & Film, Politics & Economy, Profession & Job, Services, Social Media, Software, Spiri­tua­lity & Esotericism, Sport, Survival, Trading Products, Travel & Culture, Animals & Pets, Finances, Leadership & Management, Office Organization, Online Marketing, Personal Development, Project Management, Real Estate, Sales Training, Fashion, Marketing Services, Skin Care, Food Supplements).
 - Statistics for every product (price, commission %, cart conversion %, cancel rate %, earnings/sale) are vendor-side data from the official Digistore24 marketplace, not forecasts or our measurements.
-- 1197 offers have verbatim sales-page research (headlines, price mentions, guarantee language, CTA copy); these extracts are the vendors' own marketing claims and are labeled as such — not verified by DigistorePicks.
-- 36 offers have unreachable sales pages (dead domains, expired TLS certificates, bot walls) and are labeled accordingly.
+- 1220 offers have verbatim sales-page research (headlines, price mentions, guarantee language, CTA copy); these extracts are the vendors' own marketing claims and are labeled as such — not verified by DigistorePicks.
+- 35 offers have unreachable sales pages (dead domains, expired TLS certificates, bot walls) and are labeled accordingly.
 - DigistorePicks is an affiliate site: product links may earn commissions at no extra cost to the buyer (FTC disclosure on every page).
 
 ## Pages

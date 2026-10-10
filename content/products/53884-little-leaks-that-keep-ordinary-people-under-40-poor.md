@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2025-09-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/"
@@ -22,7 +22,7 @@ language: "en"
 # Little Leaks That Keep Ordinary People Under 40 Poor
 
 > Product ID `53884` · Digistore24 productId `633409` · [HTML profile page](../../reviews/little-leaks-that-keep-ordinary-people-under-40-poor-53884.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

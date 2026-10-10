@@ -13,7 +13,7 @@ cancel_rate_pct: 12.66
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.dubaiwealthsecret.com/ds-dws-vsl?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dubaiwealthsecret.com/ds-dws-vsl"
@@ -22,7 +22,7 @@ language: "en"
 # Dubai Wealth Secret - Monster Offer From Top Platinum Vendor
 
 > Product ID `55295` · Digistore24 productId `662877` · [HTML profile page](../../reviews/dubai-wealth-secret-monster-offer-from-top-platinum-vendor-55295.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

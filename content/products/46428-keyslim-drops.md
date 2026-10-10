@@ -13,8 +13,8 @@ cancel_rate_pct: 14
 categories: []
 listed_since: "2023-11-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://getkeyslimdrops.cc/vsl1/?aff=adminstore#aff=adminstore"
 sales_page: "https://getkeyslimdrops.cc/vsl1/"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # Keyslim Drops
 
 > Product ID `46428` · Digistore24 productId `527378` · [HTML profile page](../../reviews/keyslim-drops-46428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,23 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** KeySlim Drops - Video Presentation
+- **Meta description:** KeySlim Drops Video Presentation
+- **Headline (H1):**
+  > Do THIS Simple "Drip & Drop" Routine To Accelerate Fat Burning
+  > Claim your discounted package below while stocks last 30:00
+  > 100% Satisfaction 60-Day Money Back Guarantee
+- **Section headlines (H2):**
+  - CUSTOMER REVIEWS
+- **Price mentions on page:** $79, $99, $20, $49, $261, $594, $294, $561, $59, $297, $177, $381
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "Buy Now", "Get Keyslim Drops Now!"
+- **Opening copy (first paragraphs):**
+  > "This brought my weight to where it was 30 or 35 years ago. No more flabby belly! No more loose and crepey skin! No more oversized dresses!" Just incredible!
+  > "I was cursed with a huge belly and flabby arms all my life. Not anymore! The way everybody looks at me now is priceless" My new life is amazing!
+  > "Before using this I was feeling very sluggish. I wasn't happy with my weight and I couldn't really fit into my clothes anymore. I had no energy and my sleep schedule was totally off. Since taking this I have lost 20-25 lbs in 60 days. I've also noticed more energy, I'm sleeping better, my digestion is better, and I can now fit into my clothes! KeySlim has helped me feel so much better about myself." I couldn't be happier!
+  > Your order today is protected by my iron-clad 60-day 100% money-back guarantee . If you are not astonished how fast your deep stubborn fat stores melt away into pure energy or shocked as you admire your new toned slim body in the mirror, then at any time in the next 60 days let us know and we'll refund every single penny of your investment. No questions asked.
+- **Page word count:** 872
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -60,7 +76,7 @@ language: "en"
 
 - What is it? — Type: Supplements - for slimming, vendor: keyslim, listed since 2023-11-28
 - How much? — 168.616682 USD
-- Guarantee? — not found in our research, verify on the official page
+- Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction

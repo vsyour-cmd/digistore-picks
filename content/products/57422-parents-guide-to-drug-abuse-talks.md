@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-07-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://oraclefx.org/Parents-Guide-To-Drug-Abuse-Talks/Sales-page.html?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/Parents-Guide-To-Drug-Abuse-Talks/Sales-page.html"
@@ -22,7 +22,7 @@ language: "en"
 # Parents Guide to Drug Abuse Talks
 
 > Product ID `57422` · Digistore24 productId `708478` · [HTML profile page](../../reviews/parents-guide-to-drug-abuse-talks-57422.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

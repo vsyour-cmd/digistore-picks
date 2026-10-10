@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://grabandgocontinuitypack-0zx.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://grabandgocontinuitypack-0zx.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Grab-and-Go Continuity Pack
 
 > Product ID `59147` · Digistore24 productId `732720` · [HTML profile page](../../reviews/grab-and-go-continuity-pack-59147.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

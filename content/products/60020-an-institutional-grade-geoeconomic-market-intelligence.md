@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Politics & Economy","Trading Products"]
 listed_since: "2026-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mayanomics.org/telos-intelligence-briefing/digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://mayanomics.org/telos-intelligence-briefing/digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # An Institutional-grade geoeconomic Market intelligence
 
 > Product ID `60020` · Digistore24 productId `738502` · [HTML profile page](../../reviews/an-institutional-grade-geoeconomic-market-intelligence-60020.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

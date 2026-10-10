@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2025-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/640146?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/640146"
@@ -22,7 +22,7 @@ language: "en"
 # Guide to Master Emotional Intelligence and Inner Balance
 
 > Product ID `54351` · Digistore24 productId `640146` · [HTML profile page](../../reviews/guide-to-master-emotional-intelligence-and-inner-balance-54351.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2025-12-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/654316?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/654316"
@@ -22,7 +22,7 @@ language: "en"
 # Crypto Breakout Predictor
 
 > Product ID `54886` · Digistore24 productId `654316` · [HTML profile page](../../reviews/crypto-breakout-predictor-54886.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

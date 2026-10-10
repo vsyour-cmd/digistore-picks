@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://uxuicourses-fe0.plannerpack.fun?aff=adminstore#aff=adminstore"
 sales_page: "https://uxuicourses-fe0.plannerpack.fun"
@@ -22,7 +22,7 @@ language: "en"
 # ux/ui courses
 
 > Product ID `57706` · Digistore24 productId `714709` · [HTML profile page](../../reviews/ux-ui-courses-57706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

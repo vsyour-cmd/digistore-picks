@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-08-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://partners.primalforce.net/sp/neuro-vid/?aff=adminstore#aff=adminstore"
 sales_page: "https://partners.primalforce.net/sp/neuro-vid/"
@@ -22,7 +22,7 @@ language: "en"
 # Promote this new Natural Sleep offer from legendary MD Dr. A
 
 > Product ID `49400` · Digistore24 productId `567661` · [HTML profile page](../../reviews/promote-this-new-natural-sleep-offer-from-legendary-md-dr-a-49400.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

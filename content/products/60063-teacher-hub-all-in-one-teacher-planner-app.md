@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/teacher-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/teacher-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Teacher Hub: All-in-One Teacher Planner App
 
 > Product ID `60063` · Digistore24 productId `736454` · [HTML profile page](../../reviews/teacher-hub-all-in-one-teacher-planner-app-60063.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

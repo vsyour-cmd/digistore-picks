@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2023-12-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://togetr4success.thinkific.com/bundles/togetr4success?aff=adminstore#aff=adminstore"
 sales_page: "https://togetr4success.thinkific.com/bundles/togetr4success"
@@ -22,7 +22,7 @@ language: "en"
 # Empowered Parenting: Boosting School Engagement
 
 > Product ID `46812` · Digistore24 productId `530683` · [HTML profile page](../../reviews/empowered-parenting-boosting-school-engagement-46812.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

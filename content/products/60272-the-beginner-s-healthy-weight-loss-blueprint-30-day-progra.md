@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742845?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742845"
@@ -22,7 +22,7 @@ language: "en"
 # The Beginner's Healthy Weight-Loss Blueprint - 30-Day Progra
 
 > Product ID `60272` · Digistore24 productId `742845` · [HTML profile page](../../reviews/the-beginner-s-healthy-weight-loss-blueprint-30-day-progra-60272.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

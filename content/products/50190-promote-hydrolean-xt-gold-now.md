@@ -13,7 +13,7 @@ cancel_rate_pct: 5.56
 categories: ["Food Supplements"]
 listed_since: "2024-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://hydroleanxt.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://hydroleanxt.com/ds/go/indexvs.php"
@@ -22,7 +22,7 @@ language: "en"
 # Promote HydroLean XT Gold Now!
 
 > Product ID `50190` · Digistore24 productId `571423` · [HTML profile page](../../reviews/promote-hydrolean-xt-gold-now-50190.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

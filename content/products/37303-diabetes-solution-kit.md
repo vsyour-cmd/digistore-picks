@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-04-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore"
 sales_page: "https://fixbloodsugar.com/ptn/digi/1"
@@ -22,7 +22,7 @@ language: "en"
 # DIABETES SOLUTION KIT
 
 > Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](../../reviews/diabetes-solution-kit-37303.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

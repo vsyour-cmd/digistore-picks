@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/"
@@ -22,7 +22,7 @@ language: "en"
 # Digital Content Engine System (DCES)™ – Standard
 
 > Product ID `60166` · Digistore24 productId `741537` · [HTML profile page](../../reviews/digital-content-engine-system-dces-standard-60166.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

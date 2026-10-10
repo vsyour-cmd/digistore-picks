@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Home & Garden","Survival"]
 listed_since: "2023-09-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://digi.homesteadingbook.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://digi.homesteadingbook.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Homesteaders Handbook
 
 > Product ID `46456` · Digistore24 productId `516929` · [HTML profile page](../../reviews/homesteaders-handbook-46456.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

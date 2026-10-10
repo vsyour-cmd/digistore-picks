@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-05-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://desirelanguage.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://desirelanguage.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Language of Desire
 
 > Product ID `37276` · Digistore24 productId `391642` · [HTML profile page](../../reviews/language-of-desire-37276.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

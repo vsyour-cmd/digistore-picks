@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2025-12-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sekael.com/sing-and-solve-accounting-master-the-universal-tax-formula/?aff=adminstore#aff=adminstore"
 sales_page: "https://sekael.com/sing-and-solve-accounting-master-the-universal-tax-formula/"
@@ -22,7 +22,7 @@ language: "en"
 # Master Tax Formula via Music | High 60% Commission
 
 > Product ID `54924` · Digistore24 productId `654760` · [HTML profile page](../../reviews/master-tax-formula-via-music-high-60-commission-54924.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

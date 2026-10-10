@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Personal Development"]
 listed_since: "2026-05-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.fromzerotocommission.site/dfy-vendor?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fromzerotocommission.site/dfy-vendor"
@@ -22,7 +22,7 @@ language: "en"
 # Launch Your Own Digistore24 Vendor Offer — Done For You.
 
 > Product ID `56740` · Digistore24 productId `696321` · [HTML profile page](../../reviews/launch-your-own-digistore24-vendor-offer-done-for-you-56740.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

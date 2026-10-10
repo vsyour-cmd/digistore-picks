@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-10-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/?aff=adminstore#aff=adminstore"
 sales_page: "https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/"
@@ -22,7 +22,7 @@ language: "en"
 # eBook - Epoxy Resin for Arts and Crafts
 
 > Product ID `40643` · Digistore24 productId `352181` · [HTML profile page](../../reviews/ebook-epoxy-resin-for-arts-and-crafts-40643.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

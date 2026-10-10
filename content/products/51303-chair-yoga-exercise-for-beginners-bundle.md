@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Sport"]
 listed_since: "2025-02-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/595485?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/595485"
@@ -22,7 +22,7 @@ language: "en"
 # Chair Yoga Exercise for Beginners Bundle
 
 > Product ID `51303` · Digistore24 productId `595485` · [HTML profile page](../../reviews/chair-yoga-exercise-for-beginners-bundle-51303.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
 listed_since: "2026-09-27"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://feelbetter-today.com/blackout?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/blackout"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: Blackout Protocol - Conversion Monster From Top Vendors
 
 > Product ID `59957` · Digistore24 productId `738067` · [HTML profile page](../../reviews/new-blackout-protocol-conversion-monster-from-top-vendors-59957.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

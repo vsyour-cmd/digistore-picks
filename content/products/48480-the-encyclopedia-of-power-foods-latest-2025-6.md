@@ -13,7 +13,7 @@ cancel_rate_pct: 8.97
 categories: ["Health & Fitness"]
 listed_since: "2024-06-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=adminstore#aff=adminstore"
 sales_page: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177"
@@ -22,7 +22,7 @@ language: "en"
 # The Encyclopedia of Power Foods- Latest 2025/6!
 
 > Product ID `48480` · Digistore24 productId `557828` · [HTML profile page](../../reviews/the-encyclopedia-of-power-foods-latest-2025-6-48480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Fashion","Health & Fitness"]
 listed_since: "2026-05-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://vel.academy/course-stamping-d24?aff=adminstore#aff=adminstore"
 sales_page: "https://vel.academy/course-stamping-d24"
@@ -22,7 +22,7 @@ language: "en"
 # Nail Stamping Secrets: From Polka Dots to Chrome
 
 > Product ID `56558` · Digistore24 productId `691672` · [HTML profile page](../../reviews/nail-stamping-secrets-from-polka-dots-to-chrome-56558.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

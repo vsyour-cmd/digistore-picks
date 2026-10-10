@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658149?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658149"
@@ -22,7 +22,7 @@ language: "en"
 # California and Southwest USA Travel Guide (English)
 
 > Product ID `55817` · Digistore24 productId `658149` · [HTML profile page](../../reviews/california-and-southwest-usa-travel-guide-english-55817.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

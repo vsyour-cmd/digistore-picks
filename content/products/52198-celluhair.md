@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Skin Care"]
 listed_since: "2025-03-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0&aff=adminstore#aff=adminstore"
 sales_page: "https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0"
@@ -22,7 +22,7 @@ language: "en"
 # CelluHair
 
 > Product ID `52198` · Digistore24 productId `600196` · [HTML profile page](../../reviews/celluhair-52198.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

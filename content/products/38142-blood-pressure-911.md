@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-12-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://ds.bloodpressure911.com/bp911slowv2/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://ds.bloodpressure911.com/bp911slowv2/index.php"
@@ -22,7 +22,7 @@ language: "en"
 # Blood Pressure 911
 
 > Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](../../reviews/blood-pressure-911-38142.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

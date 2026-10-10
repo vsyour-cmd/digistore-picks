@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-03-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://heikoboos.com/mindset-power-2?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/mindset-power-2"
@@ -22,7 +22,7 @@ language: "en"
 # Mindset Power - Top 100 Tips to Overcome Negative Thoughs
 
 > Product ID `51684` · Digistore24 productId `600672` · [HTML profile page](../../reviews/mindset-power-top-100-tips-to-overcome-negative-thoughs-51684.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

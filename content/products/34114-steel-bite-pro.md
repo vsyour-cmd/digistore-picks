@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-09-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/348582/adminstore"
 sales_page: "https://steelbitepro24.com/video.php?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&subid=[TRACKINGKEY]"
@@ -22,7 +22,7 @@ language: "en"
 # Steel Bite Pro
 
 > Product ID `34114` · Digistore24 productId `348582` · [HTML profile page](../../reviews/steel-bite-pro-34114.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

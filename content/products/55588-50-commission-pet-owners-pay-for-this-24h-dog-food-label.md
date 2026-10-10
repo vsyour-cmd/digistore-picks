@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-02-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://foodreports.go-pets.net/digistore?aff=adminstore#aff=adminstore"
 sales_page: "https://foodreports.go-pets.net/digistore"
@@ -22,7 +22,7 @@ language: "en"
 # 50% Commission – Pet Owners PAY for This 24h Dog Food Label
 
 > Product ID `55588` · Digistore24 productId `667057` · [HTML profile page](../../reviews/50-commission-pet-owners-pay-for-this-24h-dog-food-label-55588.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

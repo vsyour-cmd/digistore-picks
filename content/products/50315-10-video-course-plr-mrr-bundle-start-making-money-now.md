@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-10-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/10-mega-plr-video-courses?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/10-mega-plr-video-courses"
@@ -22,7 +22,7 @@ language: "en"
 # 10-Video Course PLR + MRR Bundle - Start Making Money NOW!
 
 > Product ID `50315` · Digistore24 productId `576866` · [HTML profile page](../../reviews/10-video-course-plr-mrr-bundle-start-making-money-now-50315.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

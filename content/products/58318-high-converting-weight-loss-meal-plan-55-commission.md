@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://dietora.fit/meal-plan?aff=adminstore#aff=adminstore"
 sales_page: "https://dietora.fit/meal-plan"
@@ -22,7 +22,7 @@ language: "en"
 # High Converting Weight Loss Meal Plan (55% Commission)
 
 > Product ID `58318` · Digistore24 productId `711407` · [HTML profile page](../../reviews/high-converting-weight-loss-meal-plan-55-commission-58318.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

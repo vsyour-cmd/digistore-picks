@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2025-04-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.trudeautraining.com/threekeys2v3?new_run=true&aff=adminstore#aff=adminstore"
 sales_page: "https://www.trudeautraining.com/threekeys2v3?new_run=true"
@@ -22,7 +22,7 @@ language: "en"
 # Three Keys to Internet Millions
 
 > Product ID `52482` · Digistore24 productId `610042` · [HTML profile page](../../reviews/three-keys-to-internet-millions-52482.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2024-01-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://getneurozoom.cc/welcome?aff=adminstore#aff=adminstore"
 sales_page: "https://getneurozoom.cc/welcome"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # Neurozoom Top Brain Product
 
 > Product ID `46986` · Digistore24 productId `535779` · [HTML profile page](../../reviews/neurozoom-top-brain-product-46986.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,30 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** NeuroZoom - Presentation
+- **Meta description:** NeuroZoom Presentation
+- **Final URL after redirects:** https://getneurozoom.cc/welcome/
+- **Headline (H1):**
+  > Complete Support For Healthy Memory, Concentration And Mental Acuity
+  > Claim your discounted package below while stocks last
+- **Section headlines (H2):**
+  - Neurozoom
+  - Refund Policy
+- **Price mentions on page:** $97, $127, $79, $20, $49, $294, $434, $59, $177, $284
+- **Guarantee mention:** "60" (verify on the official page before relying on it)
+- **CTA button texts:** "BUY NOW", "Buy Now", "Learn More"
+- **Digistore24 checkout links found:**
+  - https://www.digistore24.com/product/535779?
+  - https://www.digistore24.com/product/535781?
+  - https://www.digistore24.com/product/535780?
+- **Opening copy (first paragraphs):**
+  > • 35-in-1 memory essential formula • Designed to offer superior and long-lasting results • Supports every aspect of cognitive total wellbeing
+  > Noted for its antioxidant properties, it assists in the management of fluoride effects on the brain.
+  > Helps to support your brain's ability to protect itself against fluoride toxicity.
+  > A natural compound shown to contribute to your brain's ability to support crucial memory-related defense mechanisms.
+- **Questions the sales page answers:**
+  - But how would you like to Hack Your Way To MORE Energy, Maximize Your True Potential, And Unleash The BEST Version Of Yourself?
+- **Page word count:** 2048
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -60,7 +83,7 @@ language: "en"
 
 - What is it? — Type: Supplements - health, vendor: NeuroZoom, listed since 2024-01-24
 - How much? — 88.5274 USD
-- Guarantee? — not found in our research, verify on the official page
+- Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
@@ -22,7 +22,7 @@ language: "en"
 # Simple Mindfulness Techniques to Reduce Stress
 
 > Product ID `55097` · Digistore24 productId `656081` · [HTML profile page](../../reviews/simple-mindfulness-techniques-to-reduce-stress-55097.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

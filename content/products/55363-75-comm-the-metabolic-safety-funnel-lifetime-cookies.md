@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-01-14"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.pv-en.com/front-end-offers-metabolic-reset-d24-usa?aff=adminstore#aff=adminstore"
 sales_page: "https://www.pv-en.com/front-end-offers-metabolic-reset-d24-usa"
@@ -22,7 +22,7 @@ language: "en"
 # 75% Comm | The "Metabolic Safety" Funnel | Lifetime Cookies
 
 > Product ID `55363` · Digistore24 productId `661304` · [HTML profile page](../../reviews/75-comm-the-metabolic-safety-funnel-lifetime-cookies-55363.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 6.94
 categories: ["Personal Development"]
 listed_since: "2024-11-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.clearingacademy.com/ds24-ritual?aff=adminstore#aff=adminstore"
 sales_page: "https://www.clearingacademy.com/ds24-ritual"
@@ -22,7 +22,7 @@ language: "en"
 # Clearing Academy
 
 > Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](../../reviews/clearing-academy-51902.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

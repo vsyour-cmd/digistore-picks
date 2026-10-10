@@ -13,7 +13,7 @@ cancel_rate_pct: 15.45
 categories: ["Food Supplements"]
 listed_since: "2024-03-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://alphadrive24.com/landing-page--v2?aff=adminstore#aff=adminstore"
 sales_page: "https://alphadrive24.com/landing-page--v2"
@@ -22,7 +22,7 @@ language: "en"
 # Alpha Drive 24
 
 > Product ID `47589` · Digistore24 productId `544750` · [HTML profile page](../../reviews/alpha-drive-24-47589.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

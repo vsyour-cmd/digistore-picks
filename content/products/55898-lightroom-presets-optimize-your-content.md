@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658180?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658180"
@@ -22,7 +22,7 @@ language: "en"
 # Lightroom Presets - Optimize Your Content!
 
 > Product ID `55898` · Digistore24 productId `658180` · [HTML profile page](../../reviews/lightroom-presets-optimize-your-content-55898.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

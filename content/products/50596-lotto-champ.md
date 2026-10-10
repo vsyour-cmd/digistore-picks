@@ -13,7 +13,7 @@ cancel_rate_pct: 26.47
 categories: ["Betting Systems","Business & Investment"]
 listed_since: "2024-11-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mylottochamp24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://mylottochamp24.com/text.php"
@@ -22,7 +22,7 @@ language: "en"
 # Lotto Champ
 
 > Product ID `50596` · Digistore24 productId `581520` · [HTML profile page](../../reviews/lotto-champ-50596.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

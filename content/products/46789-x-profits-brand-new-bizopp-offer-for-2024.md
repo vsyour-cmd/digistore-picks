@@ -13,7 +13,7 @@ cancel_rate_pct: 27.99
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2023-12-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://yourxprofits.com/index1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://yourxprofits.com/index1.html"
@@ -22,7 +22,7 @@ language: "en"
 # X Profits - Brand New Bizopp Offer for 2024!
 
 > Product ID `46789` · Digistore24 productId `531919` · [HTML profile page](../../reviews/x-profits-brand-new-bizopp-offer-for-2024-46789.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

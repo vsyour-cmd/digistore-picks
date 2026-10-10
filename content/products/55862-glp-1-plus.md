@@ -13,7 +13,7 @@ cancel_rate_pct: 32.32
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-08-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm"
@@ -22,7 +22,7 @@ language: "en"
 # GLP-1 Plus
 
 > Product ID `55862` · Digistore24 productId `627405` · [HTML profile page](../../reviews/glp-1-plus-55862.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

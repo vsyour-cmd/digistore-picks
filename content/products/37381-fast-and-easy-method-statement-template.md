@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-04-18"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/buy-method-statement-template/"
@@ -22,7 +22,7 @@ language: "en"
 # Fast and Easy Method Statement Template
 
 > Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](../../reviews/fast-and-easy-method-statement-template-37381.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

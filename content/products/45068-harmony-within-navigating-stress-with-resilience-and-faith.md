@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-08-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/512623?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/512623"
@@ -22,7 +22,7 @@ language: "en"
 # Harmony Within Navigating Stress with Resilience and Faith
 
 > Product ID `45068` · Digistore24 productId `512623` · [HTML profile page](../../reviews/harmony-within-navigating-stress-with-resilience-and-faith-45068.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

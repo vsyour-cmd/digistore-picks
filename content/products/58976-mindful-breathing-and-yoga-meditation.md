@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://mindfulbreathingyoga-qc2.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://mindfulbreathingyoga-qc2.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Mindful breathing and yoga meditation
 
 > Product ID `58976` · Digistore24 productId `730658` · [HTML profile page](../../reviews/mindful-breathing-and-yoga-meditation-58976.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

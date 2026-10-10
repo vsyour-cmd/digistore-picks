@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
 listed_since: "2026-09-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "http://puredaily-health.com/urban-survival-code?aff=adminstore#aff=adminstore"
 sales_page: "http://puredaily-health.com/urban-survival-code"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: Urban Survival Code  - 10%+ New VSL Killing It!! 2026
 
 > Product ID `59404` · Digistore24 productId `735109` · [HTML profile page](../../reviews/new-urban-survival-code-10-new-vsl-killing-it-2026-59404.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

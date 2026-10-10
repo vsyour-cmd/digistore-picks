@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Finances"]
 listed_since: "2023-11-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.internetmillionaire.com/training?aff=adminstore#aff=adminstore"
 sales_page: "https://www.internetmillionaire.com/training"
@@ -22,7 +22,7 @@ language: "en"
 # Internet Millionaire
 
 > Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

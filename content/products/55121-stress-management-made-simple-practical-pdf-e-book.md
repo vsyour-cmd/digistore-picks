@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-01-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/659032?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/659032"
@@ -22,7 +22,7 @@ language: "en"
 # Stress Management Made Simple – Practical PDF E-Book
 
 > Product ID `55121` · Digistore24 productId `659032` · [HTML profile page](../../reviews/stress-management-made-simple-practical-pdf-e-book-55121.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

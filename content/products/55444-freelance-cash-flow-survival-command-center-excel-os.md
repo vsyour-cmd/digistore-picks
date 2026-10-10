@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Finances"]
 listed_since: "2026-02-02"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665897?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/665897"
@@ -22,7 +22,7 @@ language: "en"
 # Freelance Cash Flow Survival – Command Center (Excel OS)
 
 > Product ID `55444` · Digistore24 productId `665897` · [HTML profile page](../../reviews/freelance-cash-flow-survival-command-center-excel-os-55444.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

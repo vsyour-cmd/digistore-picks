@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://marketingmadesimple-ez6.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://marketingmadesimple-ez6.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Marketing Made Simple
 
 > Product ID `57561` · Digistore24 productId `712369` · [HTML profile page](../../reviews/marketing-made-simple-57561.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

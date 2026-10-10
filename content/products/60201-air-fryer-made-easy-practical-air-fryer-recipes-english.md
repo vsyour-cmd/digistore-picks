@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Hotels & Gastronomy"]
 listed_since: "2026-10-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en&aff=adminstore#aff=adminstore"
 sales_page: "https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en"
@@ -22,7 +22,7 @@ language: "en"
 # Air Fryer Made Easy | Practical air fryer recipes (English)
 
 > Product ID `60201` · Digistore24 productId `740280` · [HTML profile page](../../reviews/air-fryer-made-easy-practical-air-fryer-recipes-english-60201.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

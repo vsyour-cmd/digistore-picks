@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
 listed_since: "2025-03-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/604288?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/604288"
@@ -22,7 +22,7 @@ language: "en"
 # Pinterest Mastery: Unlock the Secrets to Passive Income
 
 > Product ID `51883` · Digistore24 productId `604288` · [HTML profile page](../../reviews/pinterest-mastery-unlock-the-secrets-to-passive-income-51883.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

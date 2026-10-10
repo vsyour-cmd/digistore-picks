@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2022-07-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.hint-caching.com/scavenger-hunt-ingolstadt/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hint-caching.com/scavenger-hunt-ingolstadt/"
@@ -22,7 +22,7 @@ language: "en"
 # Self-guided scavenger hunt Ingolstadt | Hint-Caching
 
 > Product ID `51177` · Digistore24 productId `452725` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-ingolstadt-hint-caching-51177.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

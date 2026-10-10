@@ -35,6 +35,9 @@
 <h1>What's new on DigistorePicks</h1>
 <p class="sub">Every improvement, logged daily. Marketplace data refreshes automatically each morning; the numbers across the site update with it.</p>
 <h2>2026-10-10</h2>
+<p>Research backfill: 23 previously missing sales-page studies recovered (coverage now 1220/1255, 97.2%); daily improvement queue refilled with 8 new items.</p>
+<ul><li>fetch-research default run recovered 23 offers; 35 dead domains stay honestly labeled</li><li>improvements-backlog.json: 8 new rotation items queued (promo-link health audit, head-to-head expansion, vendor hubs to Top100, price-watch page, blog crosslinking, llms-full expansion)</li><li>prune-stale.js confirmed 0 stale files after rebuild</li></ul>
+<h2>2026-10-10</h2>
 <p>Error-check pass: audit tooling fixed (schema audit now actually validates @graph entities — Product/Breadcrumb/Organization across 6452 pages, all pass), false duplicate-title hits removed, vendor-directory cross-links added, CJK-contaminated vendor descriptions cleaned, delisted-offer ghost pages pruned via new prune-stale.js step. QA gates all green.</p>
 <ul><li>audit-schema.js: @graph flattening + stats key fix — Product/Breadcrumb/Organization validation now real</li><li>audit-full / audit-inlinks / qa-links: duplicate dir entries removed (123 false duplicate-title hits gone); DE qa-links sitemap logic synced</li><li>build-dataset.js: CJK sentences stripped from vendor descriptions (4 offers); empty-label fallback</li><li>build-site.js: vendor hub pages link to the Vendor directory (orphan fixed)</li><li>prune-stale.js added to the pipeline: removes pages of delisted offers, shrunk pagination and dropped vendor hubs (21 stale files)</li><li>patch-imagesitemap.js syntax repaired; docs/update-runbook.md documents the prune step</li></ul>
 <h2>2026-10-10</h2>

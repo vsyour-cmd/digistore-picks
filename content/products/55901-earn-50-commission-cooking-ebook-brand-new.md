@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Food & Drink","Personal Development"]
 listed_since: "2026-03-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.obedsco.com/cookingbetter?aff=adminstore#aff=adminstore"
 sales_page: "https://www.obedsco.com/cookingbetter"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 50% Commission | Cooking eBook | Brand New
 
 > Product ID `55901` · Digistore24 productId `675076` · [HTML profile page](../../reviews/earn-50-commission-cooking-ebook-brand-new-55901.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

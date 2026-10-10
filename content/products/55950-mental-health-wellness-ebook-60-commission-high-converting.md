@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Personal Development"]
 listed_since: "2026-03-15"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://wellnesswithsher.neocities.org/mental-health-wellness?aff=adminstore#aff=adminstore"
 sales_page: "https://wellnesswithsher.neocities.org/mental-health-wellness"
@@ -22,7 +22,7 @@ language: "en"
 # Mental Health  Wellness eBook 60%Commission High-Converting
 
 > Product ID `55950` · Digistore24 productId `676503` · [HTML profile page](../../reviews/mental-health-wellness-ebook-60-commission-high-converting-55950.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

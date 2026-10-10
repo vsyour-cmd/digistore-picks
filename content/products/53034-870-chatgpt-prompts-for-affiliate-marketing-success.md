@@ -13,7 +13,7 @@ cancel_rate_pct: 7.63
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-06-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2"
@@ -22,7 +22,7 @@ language: "en"
 # 870 ChatGPT Prompts for Affiliate Marketing Success
 
 > Product ID `53034` · Digistore24 productId `619826` · [HTML profile page](../../reviews/870-chatgpt-prompts-for-affiliate-marketing-success-53034.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

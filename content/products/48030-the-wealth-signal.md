@@ -13,7 +13,7 @@ cancel_rate_pct: 10.69
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://wealthsignaloriginal.com/DS/vsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://wealthsignaloriginal.com/DS/vsl/"
@@ -22,7 +22,7 @@ language: "en"
 # The Wealth Signal
 
 > Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](../../reviews/the-wealth-signal-48030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

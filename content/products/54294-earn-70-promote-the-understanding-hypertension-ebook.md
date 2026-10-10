@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-10-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://pages.fitlifesolutions.site/sales/?id=639953&aff=adminstore#aff=adminstore"
 sales_page: "https://pages.fitlifesolutions.site/sales/?id=639953"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 70%  Promote the Understanding Hypertension Ebook
 
 > Product ID `54294` · Digistore24 productId `639953` · [HTML profile page](../../reviews/earn-70-promote-the-understanding-hypertension-ebook-54294.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

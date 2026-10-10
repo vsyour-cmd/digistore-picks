@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Health & Fitness"]
 listed_since: "2025-11-05"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.healthvoice.life/sale.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.healthvoice.life/sale.html"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 60% - Natural Blood Pressure Control(Voice Course)
 
 > Product ID `54625` · Digistore24 productId `646350` · [HTML profile page](../../reviews/earn-60-natural-blood-pressure-control-voice-course-54625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

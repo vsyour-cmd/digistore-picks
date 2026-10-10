@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2025-02-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://astralhq.com/ds-heartharmonics/?aff=adminstore#aff=adminstore"
 sales_page: "https://astralhq.com/ds-heartharmonics/"
@@ -22,7 +22,7 @@ language: "en"
 # Heart Harmonics
 
 > Product ID `51625` · Digistore24 productId `598530` · [HTML profile page](../../reviews/heart-harmonics-51625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

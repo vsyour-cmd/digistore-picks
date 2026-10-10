@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-11-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/how-to-generate-100000-dollars-in-a-year?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/how-to-generate-100000-dollars-in-a-year"
@@ -22,7 +22,7 @@ language: "en"
 # Join Our Affiliate Program on Digistore24 and Earn Big!
 
 > Product ID `50425` · Digistore24 productId `579518` · [HTML profile page](../../reviews/join-our-affiliate-program-on-digistore24-and-earn-big-50425.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

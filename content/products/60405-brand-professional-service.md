@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/brand-pro/"
@@ -22,7 +22,7 @@ language: "en"
 # Brand Professional Service
 
 > Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](../../reviews/brand-professional-service-60405.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

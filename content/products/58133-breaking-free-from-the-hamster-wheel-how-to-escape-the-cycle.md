@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2026-08-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/718034?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718034"
@@ -22,7 +22,7 @@ language: "en"
 # Breaking Free from the Hamster Wheel How to Escape the Cycle
 
 > Product ID `58133` · Digistore24 productId `718034` · [HTML profile page](../../reviews/breaking-free-from-the-hamster-wheel-how-to-escape-the-cycle-58133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

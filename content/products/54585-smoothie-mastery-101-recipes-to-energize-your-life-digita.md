@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-10-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/644621?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/644621"
@@ -22,7 +22,7 @@ language: "en"
 # Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA
 
 > Product ID `54585` · Digistore24 productId `644621` · [HTML profile page](../../reviews/smoothie-mastery-101-recipes-to-energize-your-life-digita-54585.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

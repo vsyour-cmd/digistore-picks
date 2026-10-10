@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-03-01"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://martialarts90.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://martialarts90.netlify.app/"
@@ -22,7 +22,7 @@ language: "en"
 # 90 Days of Martial Arts at Home —  No Equipment Training 50%
 
 > Product ID `55783` · Digistore24 productId `672537` · [HTML profile page](../../reviews/90-days-of-martial-arts-at-home-no-equipment-training-50-55783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

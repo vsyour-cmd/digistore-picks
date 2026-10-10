@@ -13,7 +13,7 @@ cancel_rate_pct: 13.71
 categories: ["Food Supplements"]
 listed_since: "2024-02-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://zeneara.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://zeneara.com/ds/go/indexvs.php"
@@ -22,7 +22,7 @@ language: "en"
 # Silence Tinnitus and Hearing Issues with Zeneara!
 
 > Product ID `47134` · Digistore24 productId `538903` · [HTML profile page](../../reviews/silence-tinnitus-and-hearing-issues-with-zeneara-47134.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Hobby & Craft","Software"]
 listed_since: "2023-09-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518675?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518675"
@@ -22,7 +22,7 @@ language: "en"
 # SecuPerts Rescue Stick – Your Digital Emergency Assistant
 
 > Product ID `52073` · Digistore24 productId `518675` · [HTML profile page](../../reviews/secuperts-rescue-stick-your-digital-emergency-assistant-52073.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

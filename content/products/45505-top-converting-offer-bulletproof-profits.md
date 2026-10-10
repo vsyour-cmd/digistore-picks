@@ -13,7 +13,7 @@ cancel_rate_pct: 20.03
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-07-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://launch.yourbulletproofprofits.com/dg-vip/?aff=adminstore#aff=adminstore"
 sales_page: "https://launch.yourbulletproofprofits.com/dg-vip/"
@@ -22,7 +22,7 @@ language: "en"
 # Top converting offer: Bulletproof Profits
 
 > Product ID `45505` · Digistore24 productId `508127` · [HTML profile page](../../reviews/top-converting-offer-bulletproof-profits-45505.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

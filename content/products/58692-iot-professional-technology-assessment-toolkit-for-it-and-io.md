@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Software"]
 listed_since: "2026-08-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://marketplace.iotsystemsgrowth.com/ot-professional-technology-assessment-toolkit-digistore-2/?aff=adminstore#aff=adminstore"
 sales_page: "https://marketplace.iotsystemsgrowth.com/ot-professional-technology-assessment-toolkit-digistore-2/"
@@ -22,7 +22,7 @@ language: "en"
 # IoT Professional Technology Assessment Toolkit for IT and Io
 
 > Product ID `58692` · Digistore24 productId `722951` · [HTML profile page](../../reviews/iot-professional-technology-assessment-toolkit-for-it-and-io-58692.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

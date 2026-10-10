@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Home & Garden","Real Estate"]
 listed_since: "2023-08-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf?aff=adminstore#aff=adminstore"
 sales_page: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf"
@@ -22,7 +22,7 @@ language: "en"
 # From Zero To Off-Grid Hero
 
 > Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 8.09
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-10-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 60% Commission Promoting Advanced Mitochondrial Formula
 
 > Product ID `50163` · Digistore24 productId `576637` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-mitochondrial-formula-50163.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

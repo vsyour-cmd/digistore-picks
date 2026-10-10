@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-08-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html"
@@ -22,7 +22,7 @@ language: "en"
 # 30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert
 
 > Product ID `58220` · Digistore24 productId `693684` · [HTML profile page](../../reviews/30-day-keto-revolution-4-in-1-master-bundle-high-convert-58220.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

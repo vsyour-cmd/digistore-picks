@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-09-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://30dayblueprint.org/digistore?aff=adminstore#aff=adminstore"
 sales_page: "https://30dayblueprint.org/digistore"
@@ -22,7 +22,7 @@ language: "en"
 # Turn Aspiring Creators Into Creators — Earn 40% Per Sale
 
 > Product ID `59133` · Digistore24 productId `728630` · [HTML profile page](../../reviews/turn-aspiring-creators-into-creators-earn-40-per-sale-59133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

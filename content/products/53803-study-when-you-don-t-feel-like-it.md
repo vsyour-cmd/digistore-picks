@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-09-03"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633489?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633489"
@@ -22,7 +22,7 @@ language: "en"
 # Study When You Don't Feel Like It
 
 > Product ID `53803` · Digistore24 productId `633489` · [HTML profile page](../../reviews/study-when-you-don-t-feel-like-it-53803.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

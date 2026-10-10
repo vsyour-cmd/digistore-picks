@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-11-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/AI-educator-pro-DS?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/AI-educator-pro-DS"
@@ -22,7 +22,7 @@ language: "en"
 # AI Educator Pro
 
 > Product ID `54634` · Digistore24 productId `647496` · [HTML profile page](../../reviews/ai-educator-pro-54634.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

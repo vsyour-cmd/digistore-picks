@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Online Marketing"]
 listed_since: "2026-09-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736409?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736409"
@@ -22,7 +22,7 @@ language: "en"
 # Build a Landing Page for Beginners – Matze Course
 
 > Product ID `59583` · Digistore24 productId `736409` · [HTML profile page](../../reviews/build-a-landing-page-for-beginners-matze-course-59583.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

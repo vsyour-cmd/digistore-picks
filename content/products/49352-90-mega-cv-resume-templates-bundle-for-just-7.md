@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Politics & Economy"]
 listed_since: "2024-09-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/569531?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/569531"
@@ -22,7 +22,7 @@ language: "en"
 # ⚡️+90 Mega CV Resume Templates Bundle for Just $7⚡️
 
 > Product ID `49352` · Digistore24 productId `569531` · [HTML profile page](../../reviews/90-mega-cv-resume-templates-bundle-for-just-7-49352.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink","Green Products & Environmental Protection","Health & Fitness"]
 listed_since: "2025-04-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.1monthvegan.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.1monthvegan.com/ds/"
@@ -22,7 +22,7 @@ language: "en"
 # 1 Month Vegan Challenge
 
 > Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](../../reviews/1-month-vegan-challenge-51972.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

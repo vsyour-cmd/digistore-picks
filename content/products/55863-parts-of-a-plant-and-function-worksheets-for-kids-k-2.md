@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Home & Garden"]
 listed_since: "2026-02-26"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/671821?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/671821"
@@ -22,7 +22,7 @@ language: "en"
 # Parts of a Plant and Function Worksheets for Kids K-2
 
 > Product ID `55863` · Digistore24 productId `671821` · [HTML profile page](../../reviews/parts-of-a-plant-and-function-worksheets-for-kids-k-2-55863.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

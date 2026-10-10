@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-31"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://makeroomtothrivetoolkit-wq4.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://makeroomtothrivetoolkit-wq4.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Make Room to Thrive Toolkit
 
 > Product ID `57828` · Digistore24 productId `717444` · [HTML profile page](../../reviews/make-room-to-thrive-toolkit-57828.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

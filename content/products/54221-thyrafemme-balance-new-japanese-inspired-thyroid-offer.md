@@ -13,7 +13,7 @@ cancel_rate_pct: 11.79
 categories: ["Animals & Pets","Skin Care","Food Supplements"]
 listed_since: "2025-09-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://getthyrafemme.cc/dtc/?aff=adminstore#aff=adminstore"
 sales_page: "https://getthyrafemme.cc/dtc/"
@@ -22,7 +22,7 @@ language: "en"
 # Thyrafemme Balance - New Japanese-Inspired Thyroid Offer
 
 > Product ID `54221` · Digistore24 productId `637145` · [HTML profile page](../../reviews/thyrafemme-balance-new-japanese-inspired-thyroid-offer-54221.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

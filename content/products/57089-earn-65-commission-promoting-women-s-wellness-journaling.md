@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-20"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://byzoewomen.com/journal-ds24.html?aff=adminstore#aff=adminstore"
 sales_page: "https://byzoewomen.com/journal-ds24.html"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 65% Commission Promoting Women's Wellness Journaling
 
 > Product ID `57089` · Digistore24 productId `693472` · [HTML profile page](../../reviews/earn-65-commission-promoting-women-s-wellness-journaling-57089.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

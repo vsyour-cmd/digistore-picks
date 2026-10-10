@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-02-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://yarahaircare.com?aff=adminstore#aff=adminstore"
 sales_page: "https://yarahaircare.com"
@@ -22,7 +22,7 @@ language: "en"
 # Promote Yara Hair Growth Vitamins Now!
 
 > Product ID `51614` · Digistore24 productId `599088` · [HTML profile page](../../reviews/promote-yara-hair-growth-vitamins-now-51614.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

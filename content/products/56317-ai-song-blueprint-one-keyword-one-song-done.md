@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-11"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore"
 sales_page: "https://domke24.com/ai-song-blueprint/"
@@ -22,7 +22,7 @@ language: "en"
 # AI Song Blueprint – One Keyword. One Song. Done.
 
 > Product ID `56317` · Digistore24 productId `683970` · [HTML profile page](../../reviews/ai-song-blueprint-one-keyword-one-song-done-56317.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

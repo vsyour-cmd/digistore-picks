@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Languages"]
 listed_since: "2025-09-12"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/635400?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/635400"
@@ -22,7 +22,7 @@ language: "en"
 # Beginner’s Blueprint to Language Learning
 
 > Product ID `53946` · Digistore24 productId `635400` · [HTML profile page](../../reviews/beginner-s-blueprint-to-language-learning-53946.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

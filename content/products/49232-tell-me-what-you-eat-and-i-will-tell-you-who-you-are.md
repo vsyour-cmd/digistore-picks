@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2024-05-29"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/554497?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/554497"
@@ -22,7 +22,7 @@ language: "en"
 # Tell Me What You Eat and I Will Tell You Who You Are
 
 > Product ID `49232` · Digistore24 productId `554497` · [HTML profile page](../../reviews/tell-me-what-you-eat-and-i-will-tell-you-who-you-are-49232.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

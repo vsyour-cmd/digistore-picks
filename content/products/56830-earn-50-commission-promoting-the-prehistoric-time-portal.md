@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-06-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "none"
 promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-book3-the-prehistoric-time-portal&aff=adminstore#aff=adminstore"
 sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-book3-the-prehistoric-time-portal"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 50% Commission Promoting The Prehistoric Time Portal
 
 > Product ID `56830` · Digistore24 productId `699315` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-prehistoric-time-portal-56830.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

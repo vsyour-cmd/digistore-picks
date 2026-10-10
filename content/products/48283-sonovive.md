@@ -13,7 +13,7 @@ cancel_rate_pct: 10.7
 categories: ["Food Supplements"]
 listed_since: "2024-05-23"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://sonovive24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://sonovive24.com/text.php"
@@ -22,7 +22,7 @@ language: "en"
 # SonoVive
 
 > Product ID `48283` · Digistore24 productId `553703` · [HTML profile page](../../reviews/sonovive-48283.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

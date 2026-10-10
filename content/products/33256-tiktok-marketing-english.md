@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-06-22"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/332846?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/332846"
@@ -22,7 +22,7 @@ language: "en"
 # TikTok Marketing (english)
 
 > Product ID `33256` · Digistore24 productId `332846` · [HTML profile page](../../reviews/tiktok-marketing-english-33256.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

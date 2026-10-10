@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2019-12-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/recommended-project-management-profi-templates/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/recommended-project-management-profi-templates/"
@@ -22,7 +22,7 @@ language: "en"
 # Popular Project Management Template Set
 
 > Product ID `30806` · Digistore24 productId `299617` · [HTML profile page](../../reviews/popular-project-management-template-set-30806.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

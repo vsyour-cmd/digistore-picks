@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-01-16"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://makeyouslim.info/66-low-carb-recipes/?aff=adminstore#aff=adminstore"
 sales_page: "https://makeyouslim.info/66-low-carb-recipes/"
@@ -22,7 +22,7 @@ language: "en"
 # The best Low Carb Recipes in less than 10 minutes free book
 
 > Product ID `38853` · Digistore24 productId `424858` · [HTML profile page](../../reviews/the-best-low-carb-recipes-in-less-than-10-minutes-free-book-38853.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

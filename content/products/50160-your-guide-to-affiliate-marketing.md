@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-10-19"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/guide-to-affiliate-marketing?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/guide-to-affiliate-marketing"
@@ -22,7 +22,7 @@ language: "en"
 # Your Guide to Affiliate Marketing
 
 > Product ID `50160` · Digistore24 productId `576191` · [HTML profile page](../../reviews/your-guide-to-affiliate-marketing-50160.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

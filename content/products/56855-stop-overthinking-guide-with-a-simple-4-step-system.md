@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://calmfuture.online?aff=adminstore#aff=adminstore"
 sales_page: "https://calmfuture.online"
@@ -22,7 +22,7 @@ language: "en"
 # Stop Overthinking Guide with a Simple 4-Step System
 
 > Product ID `56855` · Digistore24 productId `672992` · [HTML profile page](../../reviews/stop-overthinking-guide-with-a-simple-4-step-system-56855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

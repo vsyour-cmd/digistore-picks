@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Personal Development","Personal Development"]
 listed_since: "2026-04-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://www.alm3rfa.xyz/journal-voice/sale?aff=adminstore#aff=adminstore"
 sales_page: "https://www.alm3rfa.xyz/journal-voice/sale"
@@ -22,7 +22,7 @@ language: "en"
 # 30-Day Self‑Growth Audio Series
 
 > Product ID `56493` · Digistore24 productId `688501` · [HTML profile page](../../reviews/30-day-self-growth-audio-series-56493.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

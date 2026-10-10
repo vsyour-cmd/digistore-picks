@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-04-07"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "http://glucofreezecurrent.com/special-today-digi/index.html?aff=adminstore#aff=adminstore"
 sales_page: "http://glucofreezecurrent.com/special-today-digi/index.html"
@@ -22,7 +22,7 @@ language: "en"
 # Glucofreeze
 
 > Product ID `40347` · Digistore24 productId `438000` · [HTML profile page](../../reviews/glucofreeze-40347.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "thin"
 promo_link: "https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore"
 sales_page: "https://theboyfrombarrancas.com/digistore24"
@@ -22,7 +22,7 @@ language: "en"
 # Louis: the boy from barrancas - All languages edition
 
 > Product ID `57503` · Digistore24 productId `702447` · [HTML profile page](../../reviews/louis-the-boy-from-barrancas-all-languages-edition-57503.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

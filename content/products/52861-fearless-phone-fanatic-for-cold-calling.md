@@ -13,7 +13,7 @@ cancel_rate_pct: 8.22
 categories: ["Sales Training"]
 listed_since: "2025-05-28"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/redir/615548/adminstore/"
 sales_page: "https://www.fearlessphonefanatic.site"
@@ -22,7 +22,7 @@ language: "en"
 # Fearless Phone Fanatic (For Cold Calling)
 
 > Product ID `52861` · Digistore24 productId `615548` · [HTML profile page](../../reviews/fearless-phone-fanatic-for-cold-calling-52861.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

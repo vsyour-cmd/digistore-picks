@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Education","Family & Children","Languages"]
 listed_since: "2025-05-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/615878/adminstore"
 sales_page: "https://rtlenglish.org/lp/level-1?affp=d24&aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "en"
 # Home Learning Pack for ages 3-5 | RTL English Level 1
 
 > Product ID `52905` · Digistore24 productId `615878` · [HTML profile page](../../reviews/home-learning-pack-for-ages-3-5-rtl-english-level-1-52905.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

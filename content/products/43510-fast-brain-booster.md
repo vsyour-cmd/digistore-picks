@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-04-10"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "medium"
 promo_link: "https://fastbrainbooster.com/index_24/?aff=adminstore#aff=adminstore"
 sales_page: "https://fastbrainbooster.com/index_24/"
@@ -22,7 +22,7 @@ language: "en"
 # Fast Brain Booster
 
 > Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](../../reviews/fast-brain-booster-43510.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

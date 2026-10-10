@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-13"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://herhiddenhustletheguideforwomenwhowanttoearnonlinewithou-6xn.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://herhiddenhustletheguideforwomenwhowanttoearnonlinewithou-6xn.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Her Hidden Hustle: The Guide For Women Who Want To Earn Online
 
 > Product ID `58326` · Digistore24 productId `721465` · [HTML profile page](../../reviews/her-hidden-hustle-the-guide-for-women-who-want-to-earn-online-58326.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

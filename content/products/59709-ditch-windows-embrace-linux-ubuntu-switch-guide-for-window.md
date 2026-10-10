@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-09-25"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
+research_date: "2026-10-10"
 research_quality: "rich"
 promo_link: "https://shop.code-content-ai.com/ditch-windows-embrace-linux?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.code-content-ai.com/ditch-windows-embrace-linux"
@@ -22,7 +22,7 @@ language: "en"
 # Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window
 
 > Product ID `59709` · Digistore24 productId `701228` · [HTML profile page](../../reviews/ditch-windows-embrace-linux-ubuntu-switch-guide-for-window-59709.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

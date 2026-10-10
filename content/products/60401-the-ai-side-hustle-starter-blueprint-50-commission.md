@@ -13,8 +13,8 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-09"
-research_quality: "none"
+research_date: "2026-10-10"
+research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/743382?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/743382"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # The AI Side Hustle Starter Blueprint (50% Commission)
 
 > Product ID `60401` · Digistore24 productId `743382` · [HTML profile page](../../reviews/the-ai-side-hustle-starter-blueprint-50-commission-60401.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -51,7 +51,21 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** The AI Side Hustle Starter Blueprint - Digistore24
+- **OG title:** The AI Side Hustle Starter Blueprint
+- **Section headlines (H3):**
+  - The AI Side Hustle Starter Blueprint
+  - The AI Side Hustle Starter Blueprint
+  - The AI Side Hustle Starter Blueprint
+- **Price mentions on page:** $27.99,, $17.99, $27.99
+- **CTA button texts:** "Buy now"
+- **Opening copy (first paragraphs):**
+  > A practical, beginner-friendly guide that walks you step-by-step from choosing a profitable idea to launching your first digital income stream using AI as your smart assistant.
+  > What You Get Inside: 125-Page Comprehensive Guide: Step-by-step framework to discover, choose, validate, create, and launch.
+  > 10 Beginner-Friendly Paths: Explore digital products, freelancing, prompt packs, Canva templates, and research services.
+  > A practical, beginner-friendly guide that walks you step-by-step from choosing a profitable idea to launching your first digital income stream using AI as your smart assistant.
+- **Page word count:** 450
+- **OG image:** https://www.digistore24.com/pb/webinc/ec3bb5c6/images/brand/digistore/defaults/product_thumb.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
