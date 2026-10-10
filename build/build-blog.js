@@ -270,13 +270,34 @@ function checklist() {
   fs.writeFileSync(path.join(ROOT, "blog", "digistore24-numbers-checklist.html"), layout({ title: "Before you buy or promote a Digistore24 product: the 6-point check — " + SITE_NAME, desc: "How to evaluate Digistore24 offers using official marketplace numbers: earnings, conversion, cancel rate, vendor age, guarantee.", body, rel: "..", file: "digistore24-numbers-checklist.html" }));
 }
 
-// ---------- Head-to-head: Top20 相邻两两对比 ----------
+// ---------- Head-to-head: Top60 同品类相邻配对(≤25 篇) ----------
 function headToHead() {
-  const top = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 20);
+  const POOL = 60, MAX_ARTICLES = 25;
+  const top = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, POOL);
   fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
+  // 同品类才值得对比:补充剂对补充剂、课程对课程;跨品类的"对比"没有搜索价值
+  const byCat = new Map();
+  for (const p of top) {
+    const cat = (p.categories && p.categories[0]) || "Uncategorized";
+    if (!byCat.has(cat)) byCat.set(cat, []);
+    byCat.get(cat).push(p);
+  }
+  let pairs = [];
+  for (const [, arr] of byCat) {
+    for (let i = 0; i + 1 < arr.length; i += 2) pairs.push([arr[i], arr[i + 1]]);
+  }
+  pairs.sort((a, b) => Math.max(b[0].earningsPerSale || 0, b[1].earningsPerSale || 0) - Math.max(a[0].earningsPerSale || 0, a[1].earningsPerSale || 0));
+  pairs = pairs.slice(0, MAX_ARTICLES);
+  const wanted = new Set(pairs.map(([A, B]) => "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html"));
+  // vs-* 是生成物:清理不在当前集合里的过期对比文(手写文章走 reviews/ + articles.json,不受影响)
+  let pruned = 0;
+  for (const f of fs.readdirSync(path.join(ROOT, "blog"))) {
+    if (f.startsWith("vs-") && f.endsWith(".html") && !wanted.has(f)) { fs.unlinkSync(path.join(ROOT, "blog", f)); pruned++; }
+  }
   let built = 0;
-  for (let i = 0; i + 1 < top.length; i += 2) {
-    const A = top[i], B = top[i + 1];
+  // 短标签:预截断到 22 字符,避免双长标签标题经 capTitle 截断后与产品页同名(audit-full 重复标题门禁)
+  const t22 = (s) => { s = String(s || "").trim().replace(/\s+/g, " "); if (s.length <= 22) return s; const c = s.slice(0, 22); const sp = c.lastIndexOf(" "); return (sp > 12 ? c.slice(0, sp) : c).replace(/[\s,;:.-]+$/g, "") + "…"; };
+  for (const [A, B] of pairs) {
     const slugName = "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html";
     const row = (p, self) => `<tr${self ? ' class="self"' : ""}><td>${self ? `<b>${esc(p.label)}</b>` : `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a>`}</td><td>${esc(p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`;
     const pick = (label, p) => `<li><b>${label}:</b> <a href="../reviews/${p.slug}.html">${esc(p.label)}</a> — ${money(p.earningsPerSale, p.currency)}/sale, ${pct(p.commission)} comm, ${money(p.price, p.currency)}</li>`;
@@ -287,7 +308,7 @@ function headToHead() {
     const body = `<article class="review">
 <h1>${esc(A.label)} vs ${esc(B.label)}: which one fits you?</h1>
 <p class="sub">Head-to-head · official marketplace data of ${UPDATED} · Part of the <a href="top-20-highest-earning-digistore24-products.html">top-earnings series</a></p>
-<div class="notice"><b>How this comparison was built:</b> both offers sit next to each other in the top-earnings ranking. Every number below is vendor-reported marketplace data (snapshot ${UPDATED}) — a comparison of listings, not a hands-on test of either product.</div>
+<div class="notice"><b>How this comparison was built:</b> both offers are same-category listings among the platform's top earners — a like-for-like pairing. Every number below is vendor-reported marketplace data (snapshot ${UPDATED}) — a comparison of listings, not a hands-on test of either product.</div>
 <div class="tldr"><b>At a glance:</b>
 <ul>
 <li><b>${esc(A.label)}</b>: ${money(A.price, A.currency)}, ${pct(A.commission)} commission, ${money(A.earningsPerSale, A.currency)}/sale.</li>
@@ -313,10 +334,10 @@ ${pick("Better cart conversion", betterConv)}
 <p>Both are high-ticket listings — the right choice depends on your audience and promotion style, not on a single metric. Read both full profiles (linked above), check each vendor's sales page for current guarantees, and note that cancel rates reflect the vendor's overall traffic, not yours.</p>
 <p>Deep-dive alternatives: <a href="../alternatives/${A.slug}.html">alternatives to ${esc(A.label)}</a> · <a href="../alternatives/${B.slug}.html">alternatives to ${esc(B.label)}</a></p>
 </article>`;
-    fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${A.label} vs ${B.label} — which fits you? — ${SITE_NAME}`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): price, commission, conversion and cancel rate compared on official marketplace data.`, body, rel: "..", file: slugName }));
+    fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${t22(A.label)} vs ${t22(B.label)}: which fits you?`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): price, commission, conversion and cancel rate compared on official marketplace data.`, body, rel: "..", file: slugName }));
     built++;
   }
-  console.log("head-to-head:", built, "articles");
+  console.log("head-to-head:", built, "articles" + (pruned ? ", " + pruned + " stale pruned" : ""));
 }
 
 // ---------- blog index ----------

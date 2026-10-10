@@ -35,6 +35,9 @@
 <h1>What's new on DigistorePicks</h1>
 <p class="sub">Every improvement, logged daily. Marketplace data refreshes automatically each morning; the numbers across the site update with it.</p>
 <h2>2026-10-10</h2>
+<p>Head-to-head comparisons expanded 10 → 25 with like-for-like pairing: same-category products paired within the top-60 earners (supplement vs supplement, course vs course), instead of arbitrary rank-adjacent pairs. Stale comparison pages are pruned automatically on rebuild; page titles use pre-truncated labels so they can no longer collide with product-page titles.</p>
+<ul><li>25 head-to-head articles, category-aware pairing from the top-60 earners</li><li>15 stale vs-* pages pruned on rebuild (auto-cleanup added)</li><li>Duplicate-title collision with product pages fixed via pre-truncated 22-char labels</li></ul>
+<h2>2026-10-10</h2>
 <p>Promo-link audit: all 5,388 unique affiliate links verified live (94.4% reachable). 139 broken — all vendor-side: 18 Digistore24 redirect URLs for delisted offers (DS24 product pages confirm 404), one vendor blocking automated checks (34 links), scattered 404/5xx. 161 timeouts on slow/dead vendor servers. New reusable audit tool added.</p>
 <ul><li>audit-promo-links.js: curl-based checker (Node fetch TLS is reset by the digistore24.com edge; curl works), URL-deduped, concurrency 16</li><li>No on-site link changes needed — every broken link is vendor-side, not a construction error</li><li>Follow-up queued: watch the 18 delisted-offer redirects until the marketplace drops them</li></ul>
 <h2>2026-10-10</h2>
