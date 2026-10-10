@@ -41,6 +41,10 @@ function localImg(id) {
 add("", DATA_DATE);
 add("about.html", TODAY);
 add("monthly-new.html", TODAY);
+add("changelog.html", TODAY);
+add("digistore24-refunds.html", TODAY);
+add("is-digistore24-safe.html", TODAY);
+add("buy-with-confidence.html", TODAY);
 add("reviews/index.html", DATA_DATE);
 // 目录扫描:分类(含分页)/对比页/Best-of/博客
 for (const d of ["category", "alternatives", "best-of", "blog", "vendors"]) {

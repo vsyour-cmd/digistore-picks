@@ -90,7 +90,7 @@ for (const [root, sm, dirs] of [
   const smContent = fs.readFileSync(path.join(root, sm), "utf8");
   const smUrls = new Set([...smContent.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace(/^https:\/\/vsyour-cmd\.github\.io\/digistore-picks(-de)?\//, "")));
   const files = collect(root, dirs);
-  const notInSitemap = files.filter((f) => !smUrls.has(f) && !smUrls.has("") && f !== "404.html" && !/^google[0-9a-f]+.html$/.test(f) && !/^[0-9a-f]{32}\.txt$/.test(f));
+  const notInSitemap = files.filter((f) => f !== "" && !(f === "index.html" && smUrls.has("")) && !smUrls.has(f) && f !== "404.html" && !/^google[0-9a-f]+.html$/.test(f) && !/^[0-9a-f]{32}\.txt$/.test(f));
   console.log(`${path.basename(root)}: sitemap ${smUrls.size} 条 | 应入未入: ${notInSitemap.length}`);
   notInSitemap.slice(0, 3).forEach((x) => console.log("  未入:", x));
 }

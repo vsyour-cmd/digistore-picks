@@ -174,7 +174,8 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website: 4271 Digistore24-Produkte</a> · <a href="${rel}/changelog.html">What's new</a></div>
+  <div class="buyerlinks"><b>Buyer help:</b> <a href="${rel}/digistore24-refunds.html">How Digistore24 refunds work</a> · <a href="${rel}/is-digistore24-safe.html">Is Digistore24 safe?</a> · <a href="${rel}/buy-with-confidence.html">Before you buy: checklist</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="${rel}/changelog.html">What's new</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -1169,6 +1170,141 @@ ${catObj ? `<p>Primary category: <a href="../category/${catObj.file}.html">${esc
   console.log("vendor hubs:", vendors.length);
 }
 
+function trustPages() {
+  // 信任枢纽页:站级买家信息(退款/安全/核查清单)。事实仅来自官方页面+本站研究扫描,逐项标注来源与日期。
+  const disclaimer = `<p class="sub"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links; if you buy through them we may earn a commission from the vendor at no extra cost to you. ${SITE_NAME} is an independent directory — not Digistore24, and not affiliated with Digistore24 beyond the affiliate program.</p>`;
+
+  const refundsBody = `
+<h1>How Digistore24 refunds work</h1>
+<p class="sub">Who is responsible for refunds, how the process works, and how to check a product's guarantee <em>before</em> you pay.</p>
+<div class="tldr"><b>Key points</b>
+<ul>
+<li>Digistore24 sells products <b>as a reseller in its own name</b> and handles customer support, complaint management and return management — so refund requests route through Digistore24, not the individual vendor (official vendor statement, retrieved 2026-10-10).</li>
+<li>Guarantee length is set <b>per offer</b>, not site-wide. In our research scan of 1,265 sales pages, 1,230 (97%) mention a guarantee or refund policy; where a day count is stated, <b>60 days is the most common</b> (165 offers, then 30/90/7 days).</li>
+<li>Official refund channels: the link in your order confirmation email, or the Digistore24 help center.</li>
+<li>We are an independent affiliate directory — we don't process payments or refunds.</li>
+</ul></div>
+<h2>Who handles your money — and your refund</h2>
+<p>According to Digistore24's official vendor information, the platform sells products "as a reseller in its own name" and takes care of accounting, invoicing, tax management, customer support, complaint handling and return management. For buyers this means the payment contract sits with Digistore24, and refunds are processed through Digistore24 rather than through each individual vendor.</p>
+<p>Digistore24's official buyer information describes two ways to submit a refund request: through the link in your <b>order confirmation email</b> ("Do you have an urgent question about the product…"), or through the Digistore24 help center at <a href="https://help.digistore24.com" rel="noopener">help.digistore24.com</a>. Have your order details ready (email address, invoice or transaction ID).</p>
+<h2>How long is the guarantee? It depends on the offer</h2>
+<p>There is no site-wide guarantee period — <b>each vendor sets the refund terms for their own offer</b>. To give a realistic picture, we scanned the sales pages of <b>1,265 Digistore24 offers</b> in our research database (retrieved 2026-10-10):</p>
+<table class="specs">
+<tr><th>What the vendor sales pages show</th><th>Offers</th></tr>
+<tr><td>Mention a guarantee, money-back or refund policy</td><td>1,230 of 1,265 (97%)</td></tr>
+<tr><td>State an explicit day count</td><td>300 (24%)</td></tr>
+</table>
+<p>Where a day count is stated, the most common periods:</p>
+<table class="specs">
+<tr><th>Stated guarantee period (vendor claims)</th><th>Offers</th></tr>
+<tr><td>60 days</td><td>165</td></tr>
+<tr><td>30 days</td><td>53</td></tr>
+<tr><td>90 days</td><td>21</td></tr>
+<tr><td>7 days</td><td>16</td></tr>
+<tr><td>Other (14, 21, 180, 365 days…)</td><td>45</td></tr>
+</table>
+<p class="sub"><b>Vendor claims, not verified by us.</b> Extracted from the vendors' own sales pages as retrieved on 2026-10-10; terms can change without notice. Always confirm the guarantee on the checkout page — that version counts.</p>
+<h2>Check the guarantee before you buy (2 minutes)</h2>
+<ol>
+<li>Open the product profile on this site — every profile links the official sales page and shows the <b>billing type</b> (single payment, installment or subscription).</li>
+<li>Read the guarantee wording on the vendor's sales page.</li>
+<li>At checkout, confirm the same guarantee is shown.</li>
+<li>For subscriptions, check how to cancel <em>recurring billing</em> separately from the money-back period.</li>
+<li>Screenshot the checkout terms before paying.</li>
+</ol>
+<h2>If something goes wrong</h2>
+<p>Submit the refund request through Digistore24's official channels (order confirmation email link or the help center). If a refund is refused contrary to the stated guarantee, your checkout screenshots are your documentation — escalate through Digistore24 support, which manages returns and complaints as the reseller of record.</p>
+<p>Our part: every profile is labeled with its research method, and when a vendor's sales page is unreachable we say so instead of hiding it. See also <a href="is-digistore24-safe.html">what we can and cannot verify about the platform</a> and the <a href="buy-with-confidence.html">before-you-buy checklist</a>.</p>
+<h2>Sources &amp; method</h2>
+<ul>
+<li>Digistore24 official homepage (digistore24.com/en) — reseller model, support and return-management statement; retrieved 2026-10-10.</li>
+<li>Digistore24 official buyer information — refund request channels (order confirmation email link / help center); retrieved 2026-10-10.</li>
+<li>${SITE_NAME} sales-page research scan — 1,265 researched offers, guarantee wording extracted verbatim; retrieved 2026-10-10. Vendor claims, not verified by us.</li>
+</ul>
+${disclaimer}`;
+  fs.writeFileSync(outPath("digistore24-refunds.html"), layout({
+    title: "Digistore24 refunds: how the process works, and how to check first",
+    desc: `Who handles Digistore24 refunds, how to request one, and what our scan of 1,265 vendor sales pages shows about guarantee periods (60 days is most common). Updated ${datemark(DATA.scrapedAt)}.`,
+    body: refundsBody, path: "digistore24-refunds.html", hreflangLinks: HREF_HOME,
+  }));
+
+  const safeBody = `
+<h1>Is Digistore24 legit and safe? What we can and cannot verify</h1>
+<p class="sub">An independent look at the platform itself — who is behind it, what it does, and what that means for buyers.</p>
+<div class="tldr"><b>Key points</b>
+<ul>
+<li>Digistore24 is a German-founded platform that sells digital products <b>as a reseller in its own name</b> — accounting, invoicing, tax, customer support, complaints and returns are handled by the platform (official statement, retrieved 2026-10-10).</li>
+<li>The platform publishes live support statistics on its own homepage (87% customer satisfaction and 22,701 solved tickets in the last 30 days as displayed 2026-10-10 — vendor-published figures).</li>
+<li>Platform ≠ product quality: any vendor can list an offer. Judge each product on its own numbers — that is what this directory is for.</li>
+</ul></div>
+<h2>What Digistore24 is (official facts)</h2>
+<ul>
+<li><b>Reseller of record:</b> products are sold in Digistore24's own name; the platform handles accounting, invoicing, tax management, customer support, complaint handling and return management (official homepage, retrieved 2026-10-10).</li>
+<li><b>Founder &amp; CEO:</b> Sven Platte (official homepage).</li>
+<li><b>Infrastructure (vendor claims):</b> TÜV-certified IT infrastructure, a 30-person German in-house developer team, AWS hosting.</li>
+<li><b>Payments (vendor claims):</b> credit card, invoice, PayPal, Klarna incl. pay-later; installments and subscriptions supported.</li>
+<li><b>Scale (vendor-side claims):</b> €3 billion revenue through affiliates and vendors, 100+ million products sold, 10,000+ active affiliates, 8,000+ offers across 44+ niches.</li>
+<li><b>Published support stats:</b> 87% customer satisfaction (last 30 days), 22,701 solved tickets (last 30 days), 100.0% platform uptime (last 90 days) — as displayed on the official homepage on 2026-10-10; vendor-published and changing over time.</li>
+</ul>
+<h2>What this means for you as a buyer</h2>
+<p>Payments run through the platform as reseller, and refund requests route through Digistore24 (<a href="digistore24-refunds.html">see our refunds guide</a>). But the platform is a marketplace: <b>offer quality varies because each vendor decides what to sell and how</b>. A safe checkout does not make every offer good — that is why per-offer due diligence matters.</p>
+<h2>What we verify per offer — and how</h2>
+<ul>
+<li><b>Official marketplace stats:</b> price, commission, cart conversion, cancel rate, earnings per sale — labeled as vendor-side marketplace data, never as forecasts.</li>
+<li><b>Sales-page research:</b> verbatim extracts from the vendor's own page, marked "vendor claims, not verified by us"; 97% of researched offers carry guarantee language.</li>
+<li><b>Sales-page reachability:</b> dead domains and expired certificates are reported as-is — that is information about an offer's current state, not a footnote to hide.</li>
+<li><b>Method labeling:</b> every page states "data profile" or "hands-on review".</li>
+<li><b>No paid placement:</b> we do not accept payment for listing position or ratings. We earn affiliate commissions when you buy through links — at no extra cost to you.</li>
+</ul>
+<h2>Red flags we publish instead of hiding</h2>
+<p>Unreachable or JS-only sales pages, missing published performance stats, high cancel-rate outliers — each product profile shows what the marketplace and the vendor's page actually say, including the gaps. Use the <a href="buy-with-confidence.html">before-you-buy checklist</a> as your routine.</p>
+<h2>Sources &amp; method</h2>
+<ul>
+<li>Digistore24 official homepage (digistore24.com/en) — company, reseller model, support statistics; retrieved 2026-10-10.</li>
+<li>${SITE_NAME} marketplace snapshot of ${DATA.total} offers and sales-page research (${DATA.withResearch} researched); retrieved 2026-10-10.</li>
+</ul>
+${disclaimer}`;
+  fs.writeFileSync(outPath("is-digistore24-safe.html"), layout({
+    title: "Is Digistore24 legit and safe? What we can and cannot verify",
+    desc: `Independent assessment of Digistore24: reseller model, company facts, published support stats — and what buyers should still verify per offer. Updated ${datemark(DATA.scrapedAt)}.`,
+    body: safeBody, path: "is-digistore24-safe.html", hreflangLinks: HREF_HOME,
+  }));
+
+  const checklistBody = `
+<h1>Before you buy on Digistore24: a 5-minute checklist</h1>
+<p class="sub">Six checks that take five minutes and prevent most purchase regrets. Works for any offer on the platform.</p>
+<div class="tldr"><b>The checklist</b>
+<ol>
+<li><b>Read the vendor's own sales page</b> — every profile on this site links it. If a page is unreachable, our profile says so.</li>
+<li><b>Confirm the guarantee at checkout</b> — 97% of researched offers mention a guarantee; where a day count is stated, 60 days is most common (vendor claims). The checkout page is the version that counts.</li>
+<li><b>Know your billing type</b> — single payment, installment or subscription is shown on every profile. Subscriptions need a separate cancellation from the money-back period.</li>
+<li><b>Note the vendor and support channels</b> — profiles list the vendor name; refunds route through Digistore24 (see the refunds guide).</li>
+<li><b>Screenshot the checkout terms</b> before paying — that is your documentation.</li>
+<li><b>Use the platform's official refund path</b> if anything goes wrong — order confirmation email link or the Digistore24 help center.</li>
+</ol></div>
+<h2>How to read our product profiles</h2>
+<p>Every profile shows the official marketplace numbers (price, commission, cart conversion, cancel rate, earnings per sale — vendor-side data, not forecasts), verbatim extracts from the vendor's sales page marked "vendor claims, not verified by us", and a research-method label: <b>data profile</b> (facts from the listing and the public sales page) or <b>hands-on review</b> (we bought and used it). When a sales page is unreachable, the profile says so — that is part of the picture, not a flaw to hide.</p>
+<h2>Three numbers worth a second look</h2>
+<ul>
+<li><b>Cancel rate</b> — how often buyers cancel or refund, as reported by the marketplace for that offer. High values deserve extra skepticism about the sales page's promises.</li>
+<li><b>Cart conversion</b> — depends on the vendor's traffic quality; treat it as funnel performance, not a promise about your experience.</li>
+<li><b>Billing types</b> — a "single payment" offer behaves very differently from a subscription after the refund window.</li>
+</ul>
+<h2>Sources &amp; method</h2>
+<ul>
+<li>Official marketplace data: Digistore24 marketplace, retrieved ${datemark(DATA.scrapedAt)}.</li>
+<li>Guarantee-period scan: ${DATA.withResearch} researched sales pages, retrieved 2026-10-10 — vendor claims, not verified by us.</li>
+<li>Refund channels: Digistore24 official buyer information, retrieved 2026-10-10.</li>
+</ul>
+${disclaimer}`;
+  fs.writeFileSync(outPath("buy-with-confidence.html"), layout({
+    title: "Before you buy on Digistore24: a 5-minute buyer's checklist",
+    desc: `Six checks before you pay on Digistore24: guarantee at checkout, billing type, vendor and support channels — with data from ${DATA.withResearch} researched sales pages.`,
+    body: checklistBody, path: "buy-with-confidence.html", hreflangLinks: HREF_HOME,
+  }));
+  console.log("trust pages: 3");
+}
+
 function changelogPage() {
   const f = path.join(ROOT, "build", "changelog.json");
   if (!fs.existsSync(f)) return;
@@ -1188,6 +1324,7 @@ profilePages(altSlugs);
 const altCount = alternativesPages(altSlugs);
 const bestCount = bestOfPages();
 aboutPage();
+trustPages();
 monthlyNewPage();
 changelogPage();
 vendorHubs();
