@@ -342,6 +342,14 @@ ${DATA.categories.filter((c) => c.count >= 8).sort((a, b) => b.count - a.count).
 <h2>Guides &amp; rankings</h2>
 <ul style="line-height:2.1;max-width:760px">
 ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span class="sub">${esc(d)}</span></li>`).join("\n")}
+</ul>
+<h2>Head-to-head comparisons</h2>
+<ul style="line-height:2.1;max-width:760px">
+${fs.readdirSync(path.join(ROOT, "blog")).filter((vf) => vf.startsWith("vs-") && vf.endsWith(".html")).map((vf) => {
+  const vh = fs.readFileSync(path.join(ROOT, "blog", vf), "utf8");
+  const vt = (vh.match(/<h1>([\s\S]*?)<\/h1>/) || [])[1] || vf;
+  return `<li><a href="${vf}"><b>${esc(vt)}</b></a></li>`;
+}).join("\n")}
 </ul>`;
   fs.writeFileSync(path.join(ROOT, "blog", "index.html"), layout({ title: `Blog — ${SITE_NAME}`, desc: "Data-driven guides to Digistore24 products and marketplace statistics.", body, rel: "..", file: "index.html" }));
 }
@@ -349,7 +357,6 @@ ${files.map(([f, t, d]) => `<li><a href="${f}"><b>${esc(t)}</b></a><br><span cla
 fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
 top20();
 categoryGuides();
-headToHead();
 headToHead();
 checklist();
 blogIndex();
