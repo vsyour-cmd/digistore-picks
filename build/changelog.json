@@ -3,6 +3,15 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Promo-link audit: all 5,388 unique affiliate links verified live (94.4% reachable). 139 broken — all vendor-side: 18 Digistore24 redirect URLs for delisted offers (DS24 product pages confirm 404), one vendor blocking automated checks (34 links), scattered 404/5xx. 161 timeouts on slow/dead vendor servers. New reusable audit tool added.",
+      "changes": [
+        "audit-promo-links.js: curl-based checker (Node fetch TLS is reset by the digistore24.com edge; curl works), URL-deduped, concurrency 16",
+        "No on-site link changes needed — every broken link is vendor-side, not a construction error",
+        "Follow-up queued: watch the 18 delisted-offer redirects until the marketplace drops them"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Buyer-trust hub: three new sitewide pages — how Digistore24 refunds work, is Digistore24 safe, and a before-you-buy checklist. Built on official Digistore24 statements plus our own guarantee-wording scan (1,230 of 1,265 researched sales pages mention a refund policy; 60 days most common where stated). QA fix: sitemap-coverage check was vacuous.",
       "changes": [
         "3 new EN buyer-trust pages (refunds / safe / checklist), linked sitewide in the footer",
