@@ -4,15 +4,15 @@ digistore24_product_id: 667057
 title: "50% Commission – Pet Owners PAY for This 24h Dog Food Label"
 vendor: "goldinline"
 product_type: "Remote service provided electronically"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.41
+earnings_per_sale: 27.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-02-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://foodreports.go-pets.net/digistore?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 50% Commission – Pet Owners PAY for This 24h Dog Food Label
 
 > Product ID `55588` · Digistore24 productId `667057` · [HTML profile page](../../reviews/50-commission-pet-owners-pay-for-this-24h-dog-food-label-55588.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.41 |
+| Earnings/sale* | $27.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | goldinline |
@@ -71,7 +71,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Remote service provided electronically, vendor: goldinline, listed since 2026-02-06
-- How much? — 54.8114 USD
+- How much? — 54.909400000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

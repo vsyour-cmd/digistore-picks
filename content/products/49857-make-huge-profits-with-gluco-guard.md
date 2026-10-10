@@ -4,15 +4,15 @@ digistore24_product_id: 571673
 title: "Make Huge Profits with Gluco Guard! "
 vendor: "nutrateam"
 product_type: "Supplements - health"
-price: 66
+price: 66.12
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 49.5
+earnings_per_sale: 49.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://glucoguardpro24.com/ancient-secret-6975-2350?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Make Huge Profits with Gluco Guard! 
 
 > Product ID `49857` · Digistore24 productId `571673` · [HTML profile page](../../reviews/make-huge-profits-with-gluco-guard-49857.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $66.00 (Single payment) |
+| Price | $66.12 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $49.50 |
+| Earnings/sale* | $49.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nutrateam |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: nutrateam, listed since 2024-09-22
-- How much? — 65.9974 USD
+- How much? — 66.11540000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

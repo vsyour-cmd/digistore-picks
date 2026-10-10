@@ -4,15 +4,15 @@ digistore24_product_id: 639607
 title: "Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 117.45
+price: 117.66
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 88.09
+earnings_per_sale: 88.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/sleep-hacking?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions
 
 > Product ID `54280` · Digistore24 productId `639607` · [HTML profile page](../../reviews/sleep-hacking-fall-asleep-in-10-minutes-75-commissions-54280.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $117.45 (Single payment) |
+| Price | $117.66 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $88.09 |
+| Earnings/sale* | $88.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
-- How much? — 117.453 USD
+- How much? — 117.66300000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

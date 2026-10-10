@@ -4,15 +4,15 @@ digistore24_product_id: 676823
 title: "Rank in ChatGPT – Earn $200+/Sale (75%)"
 vendor: "Rafa1217"
 product_type: "Software"
-price: 332.22
+price: 332.82
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 249.17
+earnings_per_sale: 249.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Software"]
 listed_since: "2026-03-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://fastseohub.com/digistore24?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Rank in ChatGPT – Earn $200+/Sale (75%)
 
 > Product ID `55976` · Digistore24 productId `676823` · [HTML profile page](../../reviews/rank-in-chatgpt-earn-200-sale-75-55976.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $332.22 (Single payment) |
+| Price | $332.82 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $249.17 |
+| Earnings/sale* | $249.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rafa1217 |
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: Rafa1217, listed since 2026-03-16
-- How much? — 332.2242 USD
+- How much? — 332.8182 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

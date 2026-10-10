@@ -4,15 +4,15 @@ digistore24_product_id: 642406
 title: "Parenting in the Digital Age - Raising Smart and Healthy Kid"
 vendor: "AspireVerse"
 product_type: "Member area and video courses"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.1
+earnings_per_sale: 15.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-10-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://parenting.aspireonecs.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Parenting in the Digital Age - Raising Smart and Healthy Kid
 
 > Product ID `54445` · Digistore24 productId `642406` · [HTML profile page](../../reviews/parenting-in-the-digital-age-raising-smart-and-healthy-kid-54445.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.10 |
+| Earnings/sale* | $15.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AspireVerse |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: AspireVerse, listed since 2025-10-20
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

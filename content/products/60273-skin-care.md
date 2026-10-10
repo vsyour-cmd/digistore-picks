@@ -4,15 +4,15 @@ digistore24_product_id: 742863
 title: "Skin care"
 vendor: "quickclicks261e29"
 product_type: "Member area and video courses"
-price: 205.1
+price: 205.46
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 71.78
+earnings_per_sale: 71.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://skincare-8ow.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Skin care
 
 > Product ID `60273` · Digistore24 productId `742863` · [HTML profile page](../../reviews/skin-care-60273.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $205.10 (Single payment) |
+| Price | $205.46 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $71.78 |
+| Earnings/sale* | $71.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | quickclicks261e29 |
@@ -72,7 +72,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: quickclicks261e29, listed since 2026-10-07
-- How much? — 205.09531 USD
+- How much? — 205.46201 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

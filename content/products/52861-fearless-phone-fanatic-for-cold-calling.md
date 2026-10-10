@@ -4,15 +4,15 @@ digistore24_product_id: 615548
 title: "Fearless Phone Fanatic (For Cold Calling)"
 vendor: "dezatell"
 product_type: "Member area and video courses"
-price: 60.97
+price: 61.08
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 20.77
+earnings_per_sale: 20.81
 cart_conversion_pct: 37
 cancel_rate_pct: 8.22
 categories: ["Sales Training"]
 listed_since: "2025-05-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/redir/615548/adminstore/"
@@ -22,16 +22,16 @@ language: "en"
 # Fearless Phone Fanatic (For Cold Calling)
 
 > Product ID `52861` · Digistore24 productId `615548` · [HTML profile page](../../reviews/fearless-phone-fanatic-for-cold-calling-52861.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $60.97 (Single payment) |
+| Price | $61.08 (Single payment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $20.77 |
+| Earnings/sale* | $20.81 |
 | Cart conversion* | 37% |
 | Cancel rate* | 8.22% |
 | Vendor | dezatell |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: dezatell, listed since 2025-05-28
-- How much? — 60.974886 USD
+- How much? — 61.083906 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

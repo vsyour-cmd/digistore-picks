@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-08-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://htl-inc.com/training/dot-urine-collector-ds24?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # DOT URINE SPECIMEN COLLECTOR TRAINING
 
 > Product ID `58389` · Digistore24 productId `722800` · [HTML profile page](../../reviews/dot-urine-specimen-collector-training-58389.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

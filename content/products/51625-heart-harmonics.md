@@ -4,15 +4,15 @@ digistore24_product_id: 598530
 title: "Heart Harmonics"
 vendor: "astral43"
 product_type: "Downloads"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 22.65
+earnings_per_sale: 22.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2025-02-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://astralhq.com/ds-heartharmonics/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Heart Harmonics
 
 > Product ID `51625` · Digistore24 productId `598530` · [HTML profile page](../../reviews/heart-harmonics-51625.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $22.65 |
+| Earnings/sale* | $22.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | astral43 |
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: astral43, listed since 2025-02-25
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

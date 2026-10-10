@@ -12,7 +12,7 @@ cart_conversion_pct: 8
 cancel_rate_pct: 5.19
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-03-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/1000-prompts-for-affiliate-marketing?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The Premium Prompt Library for Smarter Affiliate Execution
 
 > Product ID `47710` · Digistore24 productId `543689` · [HTML profile page](../../reviews/the-premium-prompt-library-for-smarter-affiliate-execution-47710.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

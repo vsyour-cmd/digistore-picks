@@ -4,15 +4,15 @@ digistore24_product_id: 669703
 title: "Start Promoting NeuroVera Today!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 179.59
+price: 179.91
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 27.37
+earnings_per_sale: 27.42
 cart_conversion_pct: 5
 cancel_rate_pct: 60.65
 categories: ["Food Supplements"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://theneurovera.com/ds/go/indexts.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Start Promoting NeuroVera Today!
 
 > Product ID `55653` · Digistore24 productId `669703` · [HTML profile page](../../reviews/start-promoting-neurovera-today-55653.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $179.59 (Single payment) |
+| Price | $179.91 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $27.37 |
+| Earnings/sale* | $27.42 |
 | Cart conversion* | 5% |
 | Cancel rate* | 60.65% |
 | Vendor | zenmavibe |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2026-02-18
-- How much? — 179.59123000000002 USD
+- How much? — 179.91233000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,7 +4,7 @@ digistore24_product_id: 653250
 title: "DYNVERA Diary 2 | Decision-Making and Focus"
 vendor: "Dynvera"
 product_type: "E-books"
-price: 11.75
+price: 11.77
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-12-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.dynvera.com/diaries?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # DYNVERA Diary 2 | Decision-Making and Focus
 
 > Product ID `55607` · Digistore24 productId `653250` · [HTML profile page](../../reviews/dynvera-diary-2-decision-making-and-focus-55607.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.75 (Single payment) |
+| Price | $11.77 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Dynvera, listed since 2025-12-04
-- How much? — 11.7453 USD
+- How much? — 11.766300000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 650092
 title: "Lose Your Belly Fat in 30 Days or Less – The Complete Guide"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 81
-earnings_per_sale: 15.4
+earnings_per_sale: 15.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-11-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://fitebook.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Lose Your Belly Fat in 30 Days or Less – The Complete Guide
 
 > Product ID `54737` · Digistore24 productId `650092` · [HTML profile page](../../reviews/lose-your-belly-fat-in-30-days-or-less-the-complete-guide-54737.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 81% |
-| Earnings/sale* | $15.40 |
+| Earnings/sale* | $15.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-11-21
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

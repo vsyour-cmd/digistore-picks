@@ -4,15 +4,15 @@ digistore24_product_id: 570969
 title: "MADEIRA BY BUS - Interactive Travel Guide For Madeira"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 21.19
+price: 21.22
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.82
+earnings_per_sale: 4.83
 cart_conversion_pct: 2
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2024-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.madeira-by-bus.com/read?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # MADEIRA BY BUS - Interactive Travel Guide For Madeira
 
 > Product ID `50900` · Digistore24 productId `570969` · [HTML profile page](../../reviews/madeira-by-bus-interactive-travel-guide-for-madeira-50900.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.19 (Single payment) |
+| Price | $21.22 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.82 |
+| Earnings/sale* | $4.83 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0% |
 | Vendor | madeira-bus |
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: madeira-bus, listed since 2024-09-18
-- How much? — 21.186284 USD
+- How much? — 21.224164000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

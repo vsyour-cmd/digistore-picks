@@ -4,15 +4,15 @@ digistore24_product_id: 499722
 title: "Quick to Make and High in Protein Vegan Recipes"
 vendor: "Monis007"
 product_type: "E-books"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.83
+earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2023-05-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://socialartiste7.systeme.io/30veganrecipe?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Quick to Make and High in Protein Vegan Recipes
 
 > Product ID `44302` · Digistore24 productId `499722` · [HTML profile page](../../reviews/quick-to-make-and-high-in-protein-vegan-recipes-44302.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Monis007 |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Monis007, listed since 2023-05-19
-- How much? — 11.186 USD
+- How much? — 11.206 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

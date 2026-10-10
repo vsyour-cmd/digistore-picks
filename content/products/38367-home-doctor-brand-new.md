@@ -4,15 +4,15 @@ digistore24_product_id: 394659
 title: "Home Doctor – BRAND NEW!"
 vendor: "homedoctor"
 product_type: "Book (printed)"
-price: 47.47
+price: 47.56
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 25.65
+earnings_per_sale: 25.7
 cart_conversion_pct: 12
 cancel_rate_pct: 2.81
 categories: ["Survival"]
 listed_since: "2021-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://homedoctorbook.com/book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Home Doctor – BRAND NEW!
 
 > Product ID `38367` · Digistore24 productId `394659` · [HTML profile page](../../reviews/home-doctor-brand-new-38367.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $47.47 (Single payment) |
+| Price | $47.56 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $25.65 |
+| Earnings/sale* | $25.70 |
 | Cart conversion* | 12% |
 | Cancel rate* | 2.81% |
 | Vendor | homedoctor |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: homedoctor, listed since 2021-06-17
-- How much? — 47.473383999999996 USD
+- How much? — 47.558264 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

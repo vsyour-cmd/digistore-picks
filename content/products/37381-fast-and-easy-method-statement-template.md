@@ -4,15 +4,15 @@ digistore24_product_id: 385202
 title: "Fast and Easy Method Statement Template"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 16.77
+price: 16.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.39
+earnings_per_sale: 8.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-04-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Fast and Easy Method Statement Template
 
 > Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](../../reviews/fast-and-easy-method-statement-template-37381.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.77 (Single payment) |
+| Price | $16.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.39 |
+| Earnings/sale* | $8.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2021-04-18
-- How much? — 16.767814 USD
+- How much? — 16.797794 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 595434
 title: "5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 9.41
+price: 9.42
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.71
+earnings_per_sale: 4.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-02-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/595434?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS
 
 > Product ID `51330` · Digistore24 productId `595434` · [HTML profile page](../../reviews/5-in-1-mega-plr-bestseller-the-social-media-bundle-bonus-51330.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.41 (Single payment) |
+| Price | $9.42 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.71 |
+| Earnings/sale* | $4.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-02-10
-- How much? — 9.407426000000001 USD
+- How much? — 9.424246 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

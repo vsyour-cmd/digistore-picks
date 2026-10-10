@@ -4,15 +4,15 @@ digistore24_product_id: 466836
 title: "Lanta Flat Belly Shake"
 vendor: "mysteryoffers"
 product_type: "Supplements - health"
-price: 197.99
+price: 198.35
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 138.59
+earnings_per_sale: 138.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://theflatbellyshake.com/discovery/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Lanta Flat Belly Shake
 
 > Product ID `41905` · Digistore24 productId `466836` · [HTML profile page](../../reviews/lanta-flat-belly-shake-41905.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $197.99 (Single payment) |
+| Price | $198.35 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $138.59 |
+| Earnings/sale* | $138.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mysteryoffers |
@@ -101,7 +101,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: mysteryoffers, listed since 2022-10-27
-- How much? — 197.9922 USD
+- How much? — 198.3462 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

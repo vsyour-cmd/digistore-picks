@@ -4,15 +4,15 @@ digistore24_product_id: 618774
 title: "Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes"
 vendor: "plantbasedresource"
 product_type: "E-books"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.41
+earnings_per_sale: 11.43
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-06-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.plantbasedforkids.com/ds/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes
 
 > Product ID `52936` · Digistore24 productId `618774` · [HTML profile page](../../reviews/plant-based-for-kids-cookbook-100-fun-easy-vegan-recipes-52936.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.41 |
+| Earnings/sale* | $11.43 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plantbasedresource |
@@ -99,7 +99,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: plantbasedresource, listed since 2025-06-16
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

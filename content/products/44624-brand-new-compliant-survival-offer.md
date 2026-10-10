@@ -4,15 +4,15 @@ digistore24_product_id: 502394
 title: "Brand NEW Compliant Survival Offer"
 vendor: "savstash"
 product_type: "E-books"
-price: 74.95
+price: 39
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 56.21
+earnings_per_sale: 29.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2023-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.thestockpilesavior.com/vsl/index.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Brand NEW Compliant Survival Offer
 
 > Product ID `44624` · Digistore24 productId `502394` · [HTML profile page](../../reviews/brand-new-compliant-survival-offer-44624.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $74.95 (Single payment) |
+| Price | $39.00 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $56.21 |
+| Earnings/sale* | $29.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | savstash |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: savstash, listed since 2023-06-09
-- How much? — 74.9462 USD
+- How much? — 39 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

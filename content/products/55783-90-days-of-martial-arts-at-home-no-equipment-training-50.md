@@ -4,15 +4,15 @@ digistore24_product_id: 672537
 title: "90 Days of Martial Arts at Home —  No Equipment Training 50%"
 vendor: "ahmadrrrtx3332f1e"
 product_type: "E-books"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.51
+earnings_per_sale: 9.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-03-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://martialarts90.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 90 Days of Martial Arts at Home —  No Equipment Training 50%
 
 > Product ID `55783` · Digistore24 productId `672537` · [HTML profile page](../../reviews/90-days-of-martial-arts-at-home-no-equipment-training-50-55783.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.51 |
+| Earnings/sale* | $9.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ahmadrrrtx3332f1e |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: ahmadrrrtx3332f1e, listed since 2026-03-01
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630880?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # 15 Delicious Keto Meal Plans to Simplify Your Weight Loss
 
 > Product ID `55937` · Digistore24 productId `630880` · [HTML profile page](../../reviews/15-delicious-keto-meal-plans-to-simplify-your-weight-loss-55937.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

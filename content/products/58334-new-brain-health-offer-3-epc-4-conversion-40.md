@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-08-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://cognifortplus.com/ds/indexts.php?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+
 
 > Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](../../reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

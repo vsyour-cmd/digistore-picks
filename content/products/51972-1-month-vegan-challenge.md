@@ -4,15 +4,15 @@ digistore24_product_id: 605910
 title: "1 Month Vegan Challenge"
 vendor: "plantbasedresource"
 product_type: "E-books"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.51
+earnings_per_sale: 9.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Green Products & Environmental Protection","Health & Fitness"]
 listed_since: "2025-04-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.1monthvegan.com/ds/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 1 Month Vegan Challenge
 
 > Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](../../reviews/1-month-vegan-challenge-51972.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.51 |
+| Earnings/sale* | $9.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plantbasedresource |
@@ -101,7 +101,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: plantbasedresource, listed since 2025-04-07
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

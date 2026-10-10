@@ -4,7 +4,7 @@ digistore24_product_id: 656128
 title: "AI Prompt Generator"
 vendor: "DaveCrypto"
 product_type: "Downloads"
-price: 10.07
+price: 10.09
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.52
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Software"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/656128?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # AI Prompt Generator
 
 > Product ID `54953` · Digistore24 productId `656128` · [HTML profile page](../../reviews/ai-prompt-generator-54953.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.07 (Single payment) |
+| Price | $10.09 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.52 |
 | Cart conversion* | — |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: DaveCrypto, listed since 2025-12-17
-- How much? — 10.067400000000001 USD
+- How much? — 10.0854 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

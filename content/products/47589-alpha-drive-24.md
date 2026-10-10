@@ -4,15 +4,15 @@ digistore24_product_id: 544750
 title: "Alpha Drive 24"
 vendor: "alphadrive24"
 product_type: "Supplements - health"
-price: 137.88
+price: 138.13
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 127.93
+earnings_per_sale: 128.16
 cart_conversion_pct: 6
 cancel_rate_pct: 15.45
 categories: ["Food Supplements"]
 listed_since: "2024-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://alphadrive24.com/landing-page--v2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Alpha Drive 24
 
 > Product ID `47589` · Digistore24 productId `544750` · [HTML profile page](../../reviews/alpha-drive-24-47589.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $137.88 (Single payment) |
+| Price | $138.13 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $127.93 |
+| Earnings/sale* | $128.16 |
 | Cart conversion* | 6% |
 | Cancel rate* | 15.45% |
 | Vendor | alphadrive24 |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: alphadrive24, listed since 2024-03-21
-- How much? — 137.878636 USD
+- How much? — 138.125156 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

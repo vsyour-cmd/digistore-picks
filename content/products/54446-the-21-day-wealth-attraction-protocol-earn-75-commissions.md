@@ -4,15 +4,15 @@ digistore24_product_id: 642261
 title: "The 21-Day Wealth Attraction Protocol | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "Member area and video courses"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 22.65
+earnings_per_sale: 22.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The 21-Day Wealth Attraction Protocol | Earn 75% Commissions
 
 > Product ID `54446` · Digistore24 productId `642261` · [HTML profile page](../../reviews/the-21-day-wealth-attraction-protocol-earn-75-commissions-54446.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $22.65 |
+| Earnings/sale* | $22.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: darrelltee, listed since 2025-10-18
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

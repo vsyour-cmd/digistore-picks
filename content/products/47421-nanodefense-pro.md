@@ -4,15 +4,15 @@ digistore24_product_id: 541800
 title: "NanoDefense Pro"
 vendor: "NanoDefensePro"
 product_type: "Deliverable"
-price: 200.27
+price: 200.63
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 165.6
+earnings_per_sale: 165.89
 cart_conversion_pct: 6
 cancel_rate_pct: 7.36
 categories: ["Food Supplements"]
 listed_since: "2024-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nanodefensepro24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # NanoDefense Pro
 
 > Product ID `47421` · Digistore24 productId `541800` · [HTML profile page](../../reviews/nanodefense-pro-47421.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $200.27 (Single payment) |
+| Price | $200.63 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $165.60 |
+| Earnings/sale* | $165.89 |
 | Cart conversion* | 6% |
 | Cancel rate* | 7.36% |
 | Vendor | NanoDefensePro |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: NanoDefensePro, listed since 2024-03-04
-- How much? — 200.274144 USD
+- How much? — 200.632224 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

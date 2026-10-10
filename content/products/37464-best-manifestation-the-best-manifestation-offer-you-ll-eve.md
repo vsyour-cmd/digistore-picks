@@ -4,15 +4,15 @@ digistore24_product_id: 399213
 title: "Best Manifestation – The Best Manifestation Offer You’ll Eve"
 vendor: "Winarrow"
 product_type: "Audio book (download)"
-price: 42.51
+price: 42.58
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 27.63
+earnings_per_sale: 27.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-07-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.bestmanifestation.com/best-manifestation-ds/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Best Manifestation – The Best Manifestation Offer You’ll Eve
 
 > Product ID `37464` · Digistore24 productId `399213` · [HTML profile page](../../reviews/best-manifestation-the-best-manifestation-offer-you-ll-eve-37464.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $42.51 (Single payment) |
+| Price | $42.58 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $27.63 |
+| Earnings/sale* | $27.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Winarrow |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Audio book (download), vendor: Winarrow, listed since 2021-07-22
-- How much? — 42.5068 USD
+- How much? — 42.5828 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

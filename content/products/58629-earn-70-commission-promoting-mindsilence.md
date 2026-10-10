@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getmindsilence.com/ds/indexts.php?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 70% commission promoting MindSilence!
 
 > Product ID `58629` · Digistore24 productId `719005` · [HTML profile page](../../reviews/earn-70-commission-promoting-mindsilence-58629.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

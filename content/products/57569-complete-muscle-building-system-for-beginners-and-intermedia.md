@@ -4,15 +4,15 @@ digistore24_product_id: 711187
 title: "Complete Muscle-Building System for Beginners and Intermedia"
 vendor: "Hustler_academy"
 product_type: "E-books"
-price: 31.25
+price: 31.31
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 18.75
+earnings_per_sale: 18.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://themusclebuildingguide.netlify.app?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Complete Muscle-Building System for Beginners and Intermedia
 
 > Product ID `57569` · Digistore24 productId `711187` · [HTML profile page](../../reviews/complete-muscle-building-system-for-beginners-and-intermedia-57569.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $31.25 (Single payment) |
+| Price | $31.31 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $18.75 |
+| Earnings/sale* | $18.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hustler_academy |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Hustler_academy, listed since 2026-07-16
-- How much? — 31.253684000000003 USD
+- How much? — 31.309564 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

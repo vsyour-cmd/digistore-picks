@@ -4,15 +4,15 @@ digistore24_product_id: 500416
 title: "Prostadine"
 vendor: "Prostadine"
 product_type: "Supplements - health"
-price: 202.29
+price: 202.65
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 138.02
+earnings_per_sale: 138.27
 cart_conversion_pct: 5
 cancel_rate_pct: 13.98
 categories: ["Food Supplements"]
 listed_since: "2023-05-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://myprostadine24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Prostadine
 
 > Product ID `44131` · Digistore24 productId `500416` · [HTML profile page](../../reviews/prostadine-44131.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $202.29 (Single payment) |
+| Price | $202.65 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $138.02 |
+| Earnings/sale* | $138.27 |
 | Cart conversion* | 5% |
 | Cancel rate* | 13.98% |
 | Vendor | Prostadine |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Prostadine, listed since 2023-05-25
-- How much? — 202.28762400000002 USD
+- How much? — 202.649304 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

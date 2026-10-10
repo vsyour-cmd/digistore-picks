@@ -4,15 +4,15 @@ digistore24_product_id: 604596
 title: "Ultimate Dynamic Personal Budget in Google Sheets"
 vendor: "FinSavvyDesigns"
 product_type: "Downloads"
-price: 41.33
+price: 41.41
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 27.06
+earnings_per_sale: 27.11
 cart_conversion_pct: 14
 cancel_rate_pct: 16.89
 categories: ["Business & Investment","Finances"]
 listed_since: "2025-03-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digital-planning-studio.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ultimate Dynamic Personal Budget in Google Sheets
 
 > Product ID `52066` · Digistore24 productId `604596` · [HTML profile page](../../reviews/ultimate-dynamic-personal-budget-in-google-sheets-52066.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.33 (Single payment) |
+| Price | $41.41 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $27.06 |
+| Earnings/sale* | $27.11 |
 | Cart conversion* | 14% |
 | Cancel rate* | 16.89% |
 | Vendor | FinSavvyDesigns |
@@ -77,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: FinSavvyDesigns, listed since 2025-03-30
-- How much? — 41.33227 USD
+- How much? — 41.40617 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

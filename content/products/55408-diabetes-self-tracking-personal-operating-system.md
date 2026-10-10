@@ -4,15 +4,15 @@ digistore24_product_id: 665557
 title: "Diabetes Self-Tracking Personal Operating System"
 vendor: "MohammedAsif_k"
 product_type: "Downloads"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 5.03
+earnings_per_sale: 5.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Food & Drink","Health & Fitness"]
 listed_since: "2026-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665557?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Diabetes Self-Tracking Personal Operating System
 
 > Product ID `55408` · Digistore24 productId `665557` · [HTML profile page](../../reviews/diabetes-self-tracking-personal-operating-system-55408.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $5.03 |
+| Earnings/sale* | $5.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MohammedAsif_k |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: MohammedAsif_k, listed since 2026-01-31
-- How much? — 11.186 USD
+- How much? — 11.206 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

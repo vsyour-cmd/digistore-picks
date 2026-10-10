@@ -4,15 +4,15 @@ digistore24_product_id: 379812
 title: "Medicinal Garden Kit – BRAND NEW!"
 vendor: "bookofren"
 product_type: "Deliverable"
-price: 70.83
+price: 70.96
 currency: "USD"
 affiliate_commission_pct: 72
-earnings_per_sale: 43.69
+earnings_per_sale: 43.77
 cart_conversion_pct: 18
 cancel_rate_pct: 2.07
 categories: ["Home & Garden"]
 listed_since: "2021-03-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://medicinalseedkit.com/kit/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Medicinal Garden Kit – BRAND NEW!
 
 > Product ID `41805` · Digistore24 productId `379812` · [HTML profile page](../../reviews/medicinal-garden-kit-brand-new-41805.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $70.83 (Single payment) |
+| Price | $70.96 (Single payment) |
 | Affiliate commission | 72% |
-| Earnings/sale* | $43.69 |
+| Earnings/sale* | $43.77 |
 | Cart conversion* | 18% |
 | Cancel rate* | 2.07% |
 | Vendor | bookofren |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: bookofren, listed since 2021-03-19
-- How much? — 70.829752 USD
+- How much? — 70.95639200000001 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

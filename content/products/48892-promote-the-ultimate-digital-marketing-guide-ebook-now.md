@@ -12,7 +12,7 @@ cart_conversion_pct: 16
 cancel_rate_pct: 11.29
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-07-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pages.fitlifesolutions.site/sales/?id=561883&aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Promote the Ultimate Digital Marketing Guide eBook now!
 
 > Product ID `48892` · Digistore24 productId `561883` · [HTML profile page](../../reviews/promote-the-ultimate-digital-marketing-guide-ebook-now-48892.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

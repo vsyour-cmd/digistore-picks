@@ -4,15 +4,15 @@ digistore24_product_id: 630453
 title: "Joseph’s Well – Blockbuster Offer From Top Diamond Vendor"
 vendor: "megadrought"
 product_type: "Book (printed)"
-price: 81.06
+price: 81.21
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 73.01
+earnings_per_sale: 73.14
 cart_conversion_pct: 16
 cancel_rate_pct: 5.41
 categories: ["Survival"]
 listed_since: "2025-08-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://uswaterrevolution.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Joseph’s Well – Blockbuster Offer From Top Diamond Vendor
 
 > Product ID `54669` · Digistore24 productId `630453` · [HTML profile page](../../reviews/joseph-s-well-blockbuster-offer-from-top-diamond-vendor-54669.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $81.06 (Single payment) |
+| Price | $81.21 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $73.01 |
+| Earnings/sale* | $73.14 |
 | Cart conversion* | 16% |
 | Cancel rate* | 5.41% |
 | Vendor | megadrought |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: megadrought, listed since 2025-08-19
-- How much? — 81.064942 USD
+- How much? — 81.20988200000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

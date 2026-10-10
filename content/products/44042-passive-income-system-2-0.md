@@ -4,15 +4,15 @@ digistore24_product_id: 361682
 title: "Passive Income System 2.0"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 944.89
+price: 946.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 365.37
+earnings_per_sale: 366.02
 cart_conversion_pct: 2
 cancel_rate_pct: 19.2
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://vipliveclass.com/aff?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Passive Income System 2.0
 
 > Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](../../reviews/passive-income-system-2-0-44042.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $944.89 (Single payment) |
+| Price | $946.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $365.37 |
+| Earnings/sale* | $366.02 |
 | Cart conversion* | 2% |
 | Cancel rate* | 19.2% |
 | Vendor | impassive |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2020-12-07
-- How much? — 944.8926060000001 USD
+- How much? — 946.582026 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

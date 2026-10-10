@@ -4,15 +4,15 @@ digistore24_product_id: 637648
 title: "The Lotto Master Key"
 vendor: "lottokey"
 product_type: "Member area and video courses"
-price: 197.99
+price: 198.35
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.69
+earnings_per_sale: 128.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2025-09-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://getlottomasterkey.cc/welcome/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Lotto Master Key
 
 > Product ID `54451` · Digistore24 productId `637648` · [HTML profile page](../../reviews/the-lotto-master-key-54451.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $197.99 (Single payment) |
+| Price | $198.35 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.69 |
+| Earnings/sale* | $128.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lottokey |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: lottokey, listed since 2025-09-24
-- How much? — 197.9922 USD
+- How much? — 198.3462 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

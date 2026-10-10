@@ -4,15 +4,15 @@ digistore24_product_id: 605870
 title: "MyFormatConverter – Your All-in-One Solution for Media Files"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.19
+price: 28.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2025-04-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/605870?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # MyFormatConverter – Your All-in-One Solution for Media Files
 
 > Product ID `52069` · Digistore24 productId `605870` · [HTML profile page](../../reviews/myformatconverter-your-all-in-one-solution-for-media-files-52069.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.19 (Single payment) |
+| Price | $28.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2025-04-07
-- How much? — 28.18872 USD
+- How much? — 28.23912 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 591947
 title: "Healthy Smoothies, Juices, Breakfast, and Snacks Recipes"
 vendor: "aariann"
 product_type: "E-books"
-price: 16.78
+price: 16.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.39
+earnings_per_sale: 8.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Food & Drink","Health & Fitness"]
 listed_since: "2025-01-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.wellfiteats.com/morehealthymoreproductive?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Healthy Smoothies, Juices, Breakfast, and Snacks Recipes
 
 > Product ID `51078` · Digistore24 productId `591947` · [HTML profile page](../../reviews/healthy-smoothies-juices-breakfast-and-snacks-recipes-51078.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.78 (Single payment) |
+| Price | $16.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.39 |
+| Earnings/sale* | $8.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aariann |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: aariann, listed since 2025-01-23
-- How much? — 16.779 USD
+- How much? — 16.809 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 600748
 title: "Stop Procrastinating Now – 100 Powerful Tips"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 10.07
+price: 10.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.03
+earnings_per_sale: 5.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://heikoboos.com/stop-procrastinating-now?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Stop Procrastinating Now – 100 Powerful Tips
 
 > Product ID `51683` · Digistore24 productId `600748` · [HTML profile page](../../reviews/stop-procrastinating-now-100-powerful-tips-51683.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.07 (Single payment) |
+| Price | $10.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.03 |
+| Earnings/sale* | $5.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-03-09
-- How much? — 10.067400000000001 USD
+- How much? — 10.0854 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

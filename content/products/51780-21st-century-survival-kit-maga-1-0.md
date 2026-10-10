@@ -4,15 +4,15 @@ digistore24_product_id: 601972
 title: "21st Century Survival Kit - MAGA 1.0"
 vendor: "Survival777"
 product_type: "Member area and video courses"
-price: 1118.6
+price: 1120.6
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 447.44
+earnings_per_sale: 448.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Survival"]
 listed_since: "2025-03-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://survivalkit.maga123.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 21st Century Survival Kit - MAGA 1.0
 
 > Product ID `51780` · Digistore24 productId `601972` · [HTML profile page](../../reviews/21st-century-survival-kit-maga-1-0-51780.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1118.60 (Single payment, Installment) |
+| Price | $1120.60 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $447.44 |
+| Earnings/sale* | $448.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Survival777 |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Survival777, listed since 2025-03-16
-- How much? — 1118.6000000000001 USD
+- How much? — 1120.6000000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

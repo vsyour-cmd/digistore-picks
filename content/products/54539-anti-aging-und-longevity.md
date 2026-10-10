@@ -4,15 +4,15 @@ digistore24_product_id: 645305
 title: "Anti-Aging und Longevity"
 vendor: "Hei-Mel"
 product_type: "E-books"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.71
+earnings_per_sale: 6.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2025-10-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://marilia.de/guides-coaching/ebook-anti-aging-longevity/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Anti-Aging und Longevity
 
 > Product ID `54539` · Digistore24 productId `645305` · [HTML profile page](../../reviews/anti-aging-und-longevity-54539.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.71 |
+| Earnings/sale* | $6.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hei-Mel |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Hei-Mel, listed since 2025-10-30
-- How much? — 11.186 USD
+- How much? — 11.206 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

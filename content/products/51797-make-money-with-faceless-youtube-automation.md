@@ -4,15 +4,15 @@ digistore24_product_id: 603007
 title: "Make Money with Faceless YouTube- Automation"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.69
+earnings_per_sale: 20.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/603007?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Make Money with Faceless YouTube- Automation
 
 > Product ID `51797` · Digistore24 productId `603007` · [HTML profile page](../../reviews/make-money-with-faceless-youtube-automation-51797.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.69 |
+| Earnings/sale* | $20.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-03-21
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

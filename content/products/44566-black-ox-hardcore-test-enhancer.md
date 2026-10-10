@@ -4,15 +4,15 @@ digistore24_product_id: 502452
 title: "Black Ox - Hardcore Test Enhancer"
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 318.76
+price: 319.33
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 191.26
+earnings_per_sale: 191.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-06-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/502452?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Black Ox - Hardcore Test Enhancer
 
 > Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](../../reviews/black-ox-hardcore-test-enhancer-44566.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $318.76 (Single payment) |
+| Price | $319.33 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $191.26 |
+| Earnings/sale* | $191.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2023-06-09
-- How much? — 318.756256 USD
+- How much? — 319.326176 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 633510
 title: "Promote Dark Reset Now!"
 vendor: "Dark-Reset"
 product_type: "E-books"
-price: 39.6
+price: 39.67
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 26.3
+earnings_per_sale: 26.35
 cart_conversion_pct: 16
 cancel_rate_pct: 15.11
 categories: ["Survival"]
 listed_since: "2025-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://dark-reset.com/index_dg24?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Dark Reset Now!
 
 > Product ID `53850` · Digistore24 productId `633510` · [HTML profile page](../../reviews/promote-dark-reset-now-53850.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.60 (Single payment) |
+| Price | $39.67 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $26.30 |
+| Earnings/sale* | $26.35 |
 | Cart conversion* | 16% |
 | Cancel rate* | 15.11% |
 | Vendor | Dark-Reset |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Dark-Reset, listed since 2025-09-03
-- How much? — 39.59844 USD
+- How much? — 39.66924 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

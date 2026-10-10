@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://weightlossprogramtest-4jn.plannerpack.fun?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # weight loss program test
 
 > Product ID `57781` · Digistore24 productId `716320` · [HTML profile page](../../reviews/weight-loss-program-test-57781.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

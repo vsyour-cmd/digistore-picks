@@ -4,7 +4,7 @@ digistore24_product_id: 600746
 title: "Save Money - The Top 100 Tips and Smart Saving Strategies!"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 7.83
+price: 7.84
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.92
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Home & Garden"]
 listed_since: "2025-03-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://heikoboos.com/save-money?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Save Money - The Top 100 Tips and Smart Saving Strategies!
 
 > Product ID `51685` · Digistore24 productId `600746` · [HTML profile page](../../reviews/save-money-the-top-100-tips-and-smart-saving-strategies-51685.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.83 (Single payment) |
+| Price | $7.84 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.92 |
 | Cart conversion* | — |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-03-09
-- How much? — 7.8302000000000005 USD
+- How much? — 7.844200000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 735838
 title: "Content Marketing Blueprint Video Upgrade"
 vendor: "Hamzaali036"
 product_type: "Downloads"
-price: 160
+price: 2300
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 104
+earnings_per_sale: 1495
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735838?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Content Marketing Blueprint Video Upgrade
 
 > Product ID `60070` · Digistore24 productId `735838` · [HTML profile page](../../reviews/content-marketing-blueprint-video-upgrade-60070.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $160.00 (Single payment) |
+| Price | $2300.00 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $104.00 |
+| Earnings/sale* | $1495.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hamzaali036 |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Hamzaali036, listed since 2026-09-30
-- How much? — 160 USD
+- How much? — 2300 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 45
 cancel_rate_pct: 3.3
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2024-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The Number 1 Serger and Overlocker Online Sewing Course
 
 > Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](../../reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 

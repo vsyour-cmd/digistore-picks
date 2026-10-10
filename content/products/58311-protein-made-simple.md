@@ -4,15 +4,15 @@ digistore24_product_id: 720581
 title: "Protein Made Simple"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 27.85
+price: 27.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.93
+earnings_per_sale: 13.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/720581?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Protein Made Simple
 
 > Product ID `58311` · Digistore24 productId `720581` · [HTML profile page](../../reviews/protein-made-simple-58311.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.85 (Single payment) |
+| Price | $27.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.93 |
+| Earnings/sale* | $13.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-12
-- How much? — 27.85314 USD
+- How much? — 27.90294 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

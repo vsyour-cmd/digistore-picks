@@ -4,15 +4,15 @@ digistore24_product_id: 609597
 title: "Audiobook: Challenge - Life - Explore - Give - Enjoy"
 vendor: "imarketingcode"
 product_type: "Audio book (download)"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.08
+earnings_per_sale: 12.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-04-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.kharabanda.com/digi_audiobook_funnel?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Audiobook: Challenge - Life - Explore - Give - Enjoy
 
 > Product ID `52429` · Digistore24 productId `609597` · [HTML profile page](../../reviews/audiobook-challenge-life-explore-give-enjoy-52429.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.08 |
+| Earnings/sale* | $12.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | imarketingcode |
@@ -102,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Audio book (download), vendor: imarketingcode, listed since 2025-04-27
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

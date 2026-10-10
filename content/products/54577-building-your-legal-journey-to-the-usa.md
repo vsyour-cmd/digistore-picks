@@ -4,15 +4,15 @@ digistore24_product_id: 645055
 title: "Building Your Legal Journey to the USA"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 32.44
+price: 32.5
 currency: "USD"
 affiliate_commission_pct: 34.5
-earnings_per_sale: 11.2
+earnings_per_sale: 11.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Finances"]
 listed_since: "2025-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://immigrationebook.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Building Your Legal Journey to the USA
 
 > Product ID `54577` · Digistore24 productId `645055` · [HTML profile page](../../reviews/building-your-legal-journey-to-the-usa-54577.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.44 (Single payment) |
+| Price | $32.50 (Single payment) |
 | Affiliate commission | 34.5% |
-| Earnings/sale* | $11.20 |
+| Earnings/sale* | $11.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-10-29
-- How much? — 32.4394 USD
+- How much? — 32.4974 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

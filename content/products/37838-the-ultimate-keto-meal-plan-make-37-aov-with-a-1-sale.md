@@ -4,15 +4,15 @@ digistore24_product_id: 283755
 title: "⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale"
 vendor: "durchstartenonline"
 product_type: "Downloads"
-price: 440.35
+price: 441.14
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 121.7
+earnings_per_sale: 121.92
 cart_conversion_pct: 2
 cancel_rate_pct: 14.13
 categories: ["Health & Fitness"]
 listed_since: "2019-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale
 
 > Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](../../reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $440.35 (Single payment) |
+| Price | $441.14 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $121.70 |
+| Earnings/sale* | $121.92 |
 | Cart conversion* | 2% |
 | Cancel rate* | 14.13% |
 | Vendor | durchstartenonline |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: durchstartenonline, listed since 2019-08-22
-- How much? — 440.34807600000005 USD
+- How much? — 441.13539600000007 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

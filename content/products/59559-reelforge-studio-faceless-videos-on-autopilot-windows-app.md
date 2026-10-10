@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film","Social Media","Software"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://reelforge.esr.mobi?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # ReelForge Studio - Faceless Videos on Autopilot (Windows App
 
 > Product ID `59559` · Digistore24 productId `735866` · [HTML profile page](../../reviews/reelforge-studio-faceless-videos-on-autopilot-windows-app-59559.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 630066
 title: "100,000+ Reels Templates for TikTok & Instagram"
 vendor: "enginucar"
 product_type: "Downloads"
-price: 33.56
+price: 33.62
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.78
+earnings_per_sale: 16.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Software"]
 listed_since: "2025-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://reelara.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 100,000+ Reels Templates for TikTok & Instagram
 
 > Product ID `53536` · Digistore24 productId `630066` · [HTML profile page](../../reviews/100-000-reels-templates-for-tiktok-instagram-53536.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $33.56 (Single payment) |
+| Price | $33.62 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.78 |
+| Earnings/sale* | $16.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enginucar |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: enginucar, listed since 2025-08-17
-- How much? — 33.558 USD
+- How much? — 33.618 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

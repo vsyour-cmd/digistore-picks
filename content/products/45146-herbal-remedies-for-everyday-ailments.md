@@ -4,15 +4,15 @@ digistore24_product_id: 513927
 title: "Herbal Remedies for Everyday Ailments"
 vendor: "Monis007"
 product_type: "E-books"
-price: 13.42
+price: 13.45
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Survival"]
 listed_since: "2023-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://socialartiste7.systeme.io/herbalremedy?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Herbal Remedies for Everyday Ailments
 
 > Product ID `45146` · Digistore24 productId `513927` · [HTML profile page](../../reviews/herbal-remedies-for-everyday-ailments-45146.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.42 (Single payment) |
+| Price | $13.45 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Monis007 |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Monis007, listed since 2023-08-27
-- How much? — 13.423200000000001 USD
+- How much? — 13.4472 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

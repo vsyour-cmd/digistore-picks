@@ -4,15 +4,15 @@ digistore24_product_id: 493435
 title: "Fast Brain Booster"
 vendor: "pegrom"
 product_type: "Supplements - health"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 54.03
+earnings_per_sale: 54.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-04-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://fastbrainbooster.com/index_24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Fast Brain Booster
 
 > Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](../../reviews/fast-brain-booster-43510.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $54.03 |
+| Earnings/sale* | $54.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pegrom |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: pegrom, listed since 2023-04-10
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

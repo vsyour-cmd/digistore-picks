@@ -3,6 +3,18 @@
   "entries": [
     {
       "date": "2026-10-10",
+      "summary": "Error-check pass: audit tooling fixed (schema audit now actually validates @graph entities — Product/Breadcrumb/Organization across 6452 pages, all pass), false duplicate-title hits removed, vendor-directory cross-links added, CJK-contaminated vendor descriptions cleaned, delisted-offer ghost pages pruned via new prune-stale.js step. QA gates all green.",
+      "changes": [
+        "audit-schema.js: @graph flattening + stats key fix — Product/Breadcrumb/Organization validation now real",
+        "audit-full / audit-inlinks / qa-links: duplicate dir entries removed (123 false duplicate-title hits gone); DE qa-links sitemap logic synced",
+        "build-dataset.js: CJK sentences stripped from vendor descriptions (4 offers); empty-label fallback",
+        "build-site.js: vendor hub pages link to the Vendor directory (orphan fixed)",
+        "prune-stale.js added to the pipeline: removes pages of delisted offers, shrunk pagination and dropped vendor hubs (21 stale files)",
+        "patch-imagesitemap.js syntax repaired; docs/update-runbook.md documents the prune step"
+      ]
+    },
+    {
+      "date": "2026-10-10",
       "summary": "Category guides expanded to all categories (blog 13→42 pages EN), internal-link audit completed (fixed monthly-new orphan), schema-rating skipped honestly (no verifiable rating data). Credibility scores: all page types >=60.",
       "changes": [
         "29 new EN category data guides (every category with 5+ offers)",

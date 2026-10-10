@@ -4,15 +4,15 @@ digistore24_product_id: 684563
 title: "Setting Boundaries with Family"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.83
+earnings_per_sale: 24.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/684563?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Setting Boundaries with Family
 
 > Product ID `56262` · Digistore24 productId `684563` · [HTML profile page](../../reviews/setting-boundaries-with-family-56262.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.83 |
+| Earnings/sale* | $24.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
@@ -82,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

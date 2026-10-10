@@ -4,15 +4,15 @@ digistore24_product_id: 456090
 title: "ExpertSlides - The secret weapon for your presentations!"
 vendor: "expertslides"
 product_type: "Software"
-price: 255.04
+price: 255.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 127.52
+earnings_per_sale: 127.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-08-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://expertslides.com/expertslides-digistore24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ExpertSlides - The secret weapon for your presentations!
 
 > Product ID `40892` · Digistore24 productId `456090` · [HTML profile page](../../reviews/expertslides-the-secret-weapon-for-your-presentations-40892.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $255.04 (Subscription) |
+| Price | $255.50 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $127.52 |
+| Earnings/sale* | $127.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | expertslides |
@@ -100,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: expertslides, listed since 2022-08-17
-- How much? — 255.04080000000002 USD
+- How much? — 255.4968 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

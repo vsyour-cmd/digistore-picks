@@ -4,15 +4,15 @@ digistore24_product_id: 676043
 title: "English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages"
 vendor: "dewkrie"
 product_type: "E-books"
-price: 12.29
+price: 12.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.15
+earnings_per_sale: 6.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-03-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676043?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages
 
 > Product ID `56052` · Digistore24 productId `676043` · [HTML profile page](../../reviews/english-in-8-weeks-a2-b1-levels-e-book-46-pages-56052.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.29 (Single payment) |
+| Price | $12.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.15 |
+| Earnings/sale* | $6.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dewkrie |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: dewkrie, listed since 2026-03-13
-- How much? — 12.293414 USD
+- How much? — 12.315394000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

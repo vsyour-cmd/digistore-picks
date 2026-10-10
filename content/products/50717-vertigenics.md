@@ -4,15 +4,15 @@ digistore24_product_id: 583090
 title: "Vertigenics"
 vendor: "Vertigenics"
 product_type: "Supplements - health"
-price: 175.88
+price: 176.19
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.46
+earnings_per_sale: 107.66
 cart_conversion_pct: 10
 cancel_rate_pct: 13.58
 categories: ["Food Supplements"]
 listed_since: "2024-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getmyvertigenics24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Vertigenics
 
 > Product ID `50717` · Digistore24 productId `583090` · [HTML profile page](../../reviews/vertigenics-50717.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $175.88 (Single payment) |
+| Price | $176.19 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.46 |
+| Earnings/sale* | $107.66 |
 | Cart conversion* | 10% |
 | Cancel rate* | 13.58% |
 | Vendor | Vertigenics |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Vertigenics, listed since 2024-11-27
-- How much? — 175.877478 USD
+- How much? — 176.191938 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

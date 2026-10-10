@@ -4,15 +4,15 @@ digistore24_product_id: 544733
 title: "Keskara"
 vendor: "biofraga"
 product_type: "Supplements - health"
-price: 328.87
+price: 329.46
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 213.76
+earnings_per_sale: 214.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://keskara.online/dtc/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Keskara
 
 > Product ID `48893` · Digistore24 productId `544733` · [HTML profile page](../../reviews/keskara-48893.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.87 (Single payment) |
+| Price | $329.46 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $213.76 |
+| Earnings/sale* | $214.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | biofraga |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: biofraga, listed since 2024-03-21
-- How much? — 328.8684 USD
+- How much? — 329.45640000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 658078
 title: "Silent Subliminals – Intelligence"
 vendor: "frequencies8888"
 product_type: "Downloads"
-price: 36.91
+price: 36.98
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.77
+earnings_per_sale: 14.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Silent Subliminals – Intelligence
 
 > Product ID `55055` · Digistore24 productId `658078` · [HTML profile page](../../reviews/silent-subliminals-intelligence-55055.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.91 (Single payment) |
+| Price | $36.98 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.77 |
+| Earnings/sale* | $14.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | frequencies8888 |
@@ -82,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: frequencies8888, listed since 2025-12-30
-- How much? — 36.9138 USD
+- How much? — 36.979800000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736517?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Peak Pilates Gold : Regain Strength, Balance, and Confidence
 
 > Product ID `60071` · Digistore24 productId `736517` · [HTML profile page](../../reviews/peak-pilates-gold-regain-strength-balance-and-confidence-60071.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

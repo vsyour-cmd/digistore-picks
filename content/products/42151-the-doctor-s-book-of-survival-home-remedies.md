@@ -12,7 +12,7 @@ cart_conversion_pct: 3
 cancel_rate_pct: 3.74
 categories: ["Survival"]
 listed_since: "2022-11-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.thedoctorssurvivalplan.com/vsl/index.php?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The Doctor's Book Of Survival Home Remedies
 
 > Product ID `42151` · Digistore24 productId `467670` · [HTML profile page](../../reviews/the-doctor-s-book-of-survival-home-remedies-42151.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

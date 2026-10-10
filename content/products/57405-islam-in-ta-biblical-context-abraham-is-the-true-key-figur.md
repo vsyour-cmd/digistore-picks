@@ -4,15 +4,15 @@ digistore24_product_id: 704976
 title: "Islam in ta Biblical Context – Abraham is the true key figur"
 vendor: "Andermatti-Invest"
 product_type: "E-books"
-price: 19.58
+price: 19.61
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.9
+earnings_per_sale: 4.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/704976?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Islam in ta Biblical Context – Abraham is the true key figur
 
 > Product ID `57405` · Digistore24 productId `704976` · [HTML profile page](../../reviews/islam-in-ta-biblical-context-abraham-is-the-true-key-figur-57405.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.58 (Single payment) |
+| Price | $19.61 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.90 |
+| Earnings/sale* | $4.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andermatti-Invest |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Andermatti-Invest, listed since 2026-07-05
-- How much? — 19.5755 USD
+- How much? — 19.610500000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

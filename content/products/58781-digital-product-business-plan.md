@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://digitalproductplan-j3y.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Digital Product Business Plan
 
 > Product ID `58781` · Digistore24 productId `727951` · [HTML profile page](../../reviews/digital-product-business-plan-58781.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

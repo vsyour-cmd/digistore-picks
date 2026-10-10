@@ -4,15 +4,15 @@ digistore24_product_id: 577873
 title: "TeslaCare"
 vendor: "Tesla14"
 product_type: "Deliverable"
-price: 558.18
+price: 559.18
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 334.91
+earnings_per_sale: 335.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2024-10-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://teslacare.net/home-page-digi/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # TeslaCare
 
 > Product ID `50283` · Digistore24 productId `577873` · [HTML profile page](../../reviews/teslacare-50283.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $558.18 (Single payment) |
+| Price | $559.18 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $334.91 |
+| Earnings/sale* | $335.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tesla14 |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Tesla14, listed since 2024-10-30
-- How much? — 558.1814 USD
+- How much? — 559.1794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

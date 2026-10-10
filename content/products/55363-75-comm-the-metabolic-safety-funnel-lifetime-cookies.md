@@ -4,15 +4,15 @@ digistore24_product_id: 661304
 title: "75% Comm | The \"Metabolic Safety\" Funnel | Lifetime Cookies"
 vendor: "PlanetaVida"
 product_type: "Member area and video courses"
-price: 21.25
+price: 21.29
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 15.94
+earnings_per_sale: 15.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-01-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.pv-en.com/front-end-offers-metabolic-reset-d24-usa?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 75% Comm | The "Metabolic Safety" Funnel | Lifetime Cookies
 
 > Product ID `55363` · Digistore24 productId `661304` · [HTML profile page](../../reviews/75-comm-the-metabolic-safety-funnel-lifetime-cookies-55363.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $21.25 (Single payment) |
+| Price | $21.29 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $15.94 |
+| Earnings/sale* | $15.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PlanetaVida |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: PlanetaVida, listed since 2026-01-14
-- How much? — 21.2534 USD
+- How much? — 21.2914 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

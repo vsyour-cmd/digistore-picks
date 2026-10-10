@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://marketplace.iotsystemsgrowth.com/ai-content-social-growth-toolkit-digistore/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # AI Content and Social Growth Toolkit for Small Businesses an
 
 > Product ID `58690` · Digistore24 productId `724941` · [HTML profile page](../../reviews/ai-content-and-social-growth-toolkit-for-small-businesses-an-58690.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

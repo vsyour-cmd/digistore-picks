@@ -4,15 +4,15 @@ digistore24_product_id: 680242
 title: "I Saw Myself from the Sky The Night I Died at Four"
 vendor: "GOLD88"
 product_type: "E-books"
-price: 16.78
+price: 16.81
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.71
+earnings_per_sale: 6.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Personal Development"]
 listed_since: "2026-03-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/680242?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # I Saw Myself from the Sky The Night I Died at Four
 
 > Product ID `56086` · Digistore24 productId `680242` · [HTML profile page](../../reviews/i-saw-myself-from-the-sky-the-night-i-died-at-four-56086.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.78 (Single payment) |
+| Price | $16.81 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.71 |
+| Earnings/sale* | $6.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GOLD88 |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GOLD88, listed since 2026-03-28
-- How much? — 16.779 USD
+- How much? — 16.809 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

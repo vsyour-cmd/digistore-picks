@@ -4,15 +4,15 @@ digistore24_product_id: 619569
 title: "Prime Perform Supplement EN"
 vendor: "thankyouchoice"
 product_type: "Supplements - health"
-price: 203.18
+price: 203.55
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 110.73
+earnings_per_sale: 110.93
 cart_conversion_pct: 3
 cancel_rate_pct: 8.56
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-06-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://primeperformpro.com/welcome/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Prime Perform Supplement EN
 
 > Product ID `53054` · Digistore24 productId `619569` · [HTML profile page](../../reviews/prime-perform-supplement-en-53054.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $203.18 (Single payment) |
+| Price | $203.55 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $110.73 |
+| Earnings/sale* | $110.93 |
 | Cart conversion* | 3% |
 | Cancel rate* | 8.56% |
 | Vendor | thankyouchoice |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: thankyouchoice, listed since 2025-06-19
-- How much? — 203.182504 USD
+- How much? — 203.545784 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

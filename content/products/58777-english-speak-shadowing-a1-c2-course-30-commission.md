@@ -4,15 +4,15 @@ digistore24_product_id: 727591
 title: "English Speak Shadowing | A1–C2 Course | 30% Commission"
 vendor: "alexscheglov2016d530"
 product_type: "Member area and video courses"
-price: 78.3
+price: 133.35
 currency: "USD"
-affiliate_commission_pct: 30
-earnings_per_sale: 23.49
+affiliate_commission_pct: 40
+earnings_per_sale: 53.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-08-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://englishspeakshadowing.pl/course?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # English Speak Shadowing | A1–C2 Course | 30% Commission
 
 > Product ID `58777` · Digistore24 productId `727591` · [HTML profile page](../../reviews/english-speak-shadowing-a1-c2-course-30-commission-58777.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $78.30 (Single payment) |
-| Affiliate commission | 30% |
-| Earnings/sale* | $23.49 |
+| Price | $133.35 (Single payment) |
+| Affiliate commission | 40% |
+| Earnings/sale* | $53.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | alexscheglov2016d530 |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: alexscheglov2016d530, listed since 2026-08-30
-- How much? — 78.302 USD
+- How much? — 133.3514 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

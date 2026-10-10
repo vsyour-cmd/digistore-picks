@@ -4,15 +4,15 @@ digistore24_product_id: 572520
 title: "Lymphatic System Support"
 vendor: "SanoLabs"
 product_type: "Supplements - health"
-price: 253.7
+price: 254.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 164.9
+earnings_per_sale: 165.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://lymphflowsupport.com/presentation-2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Lymphatic System Support
 
 > Product ID `50332` · Digistore24 productId `572520` · [HTML profile page](../../reviews/lymphatic-system-support-50332.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $253.70 (Subscription) |
+| Price | $254.15 (Subscription) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $164.90 |
+| Earnings/sale* | $165.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SanoLabs |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: SanoLabs, listed since 2024-09-26
-- How much? — 253.69848000000002 USD
+- How much? — 254.15208 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

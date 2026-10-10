@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Photography & Film","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/735496?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # UGC Creator for Beginners  Practical Course (English)
 
 > Product ID `59454` · Digistore24 productId `735496` · [HTML profile page](../../reviews/ugc-creator-for-beginners-practical-course-english-59454.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

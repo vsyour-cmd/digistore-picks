@@ -4,15 +4,15 @@ digistore24_product_id: 693957
 title: "Ebook - The Independence Series"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 11.17
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-05-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/693957?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The Independence Series
 
 > Product ID `56596` · Digistore24 productId `693957` · [HTML profile page](../../reviews/ebook-the-independence-series-56596.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.17 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-05-19
-- How much? — 11.174814000000001 USD
+- How much? — 11.194794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

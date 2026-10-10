@@ -4,15 +4,15 @@ digistore24_product_id: 623254
 title: "Pep Tonic"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 140.9
+price: 141.15
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 45.72
+earnings_per_sale: 45.8
 cart_conversion_pct: 7
 cancel_rate_pct: 7.31
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-07-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Pep Tonic
 
 > Product ID `53184` · Digistore24 productId `623254` · [HTML profile page](../../reviews/pep-tonic-53184.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $140.90 (Single payment) |
+| Price | $141.15 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $45.72 |
+| Earnings/sale* | $45.80 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.31% |
 | Vendor | soundview |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-07-09
-- How much? — 140.898856 USD
+- How much? — 141.150776 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

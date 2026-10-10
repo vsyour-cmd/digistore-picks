@@ -4,15 +4,15 @@ digistore24_product_id: 571197
 title: "Flip the Car-Rental Script with the Turo Business Guide"
 vendor: "EducationNation"
 product_type: "E-books"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 4.47
+earnings_per_sale: 4.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Leadership & Management","Marketing Services"]
 listed_since: "2024-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/571197?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Flip the Car-Rental Script with the Turo Business Guide
 
 > Product ID `49739` · Digistore24 productId `571197` · [HTML profile page](../../reviews/flip-the-car-rental-script-with-the-turo-business-guide-49739.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $4.47 |
+| Earnings/sale* | $4.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EducationNation |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: EducationNation, listed since 2024-09-19
-- How much? — 22.360813999999998 USD
+- How much? — 22.400793999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

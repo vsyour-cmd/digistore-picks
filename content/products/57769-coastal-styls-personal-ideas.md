@@ -4,15 +4,15 @@ digistore24_product_id: 714281
 title: "Coastal styls Personal ideas"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 18.79
+price: 18.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.4
+earnings_per_sale: 9.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/714281?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Coastal styls Personal ideas
 
 > Product ID `57769` · Digistore24 productId `714281` · [HTML profile page](../../reviews/coastal-styls-personal-ideas-57769.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.79 (Single payment) |
+| Price | $18.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.40 |
+| Earnings/sale* | $9.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: ramonakrenn923f, listed since 2026-07-27
-- How much? — 18.79248 USD
+- How much? — 18.82608 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

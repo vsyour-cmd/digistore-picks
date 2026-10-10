@@ -4,15 +4,15 @@ digistore24_product_id: 589688
 title: "Content Creation Conversation™ - AI Creation, Automation"
 vendor: "hey-julia"
 product_type: "Member area and video courses"
-price: 503.37
+price: 504.27
 currency: "USD"
 affiliate_commission_pct: 26
-earnings_per_sale: 130.88
+earnings_per_sale: 131.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2025-01-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://hey-julia.de/en/content-creation-conversation/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Content Creation Conversation™ - AI Creation, Automation
 
 > Product ID `51255` · Digistore24 productId `589688` · [HTML profile page](../../reviews/content-creation-conversation-ai-creation-automation-51255.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $503.37 (Single payment, Installment) |
+| Price | $504.27 (Single payment, Installment) |
 | Affiliate commission | 26% |
-| Earnings/sale* | $130.88 |
+| Earnings/sale* | $131.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hey-julia |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: hey-julia, listed since 2025-01-09
-- How much? — 503.37 USD
+- How much? — 504.27000000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

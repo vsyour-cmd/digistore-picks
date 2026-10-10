@@ -4,15 +4,15 @@ digistore24_product_id: 438218
 title: "Million Dollar Replicator"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 22.34
+price: 22.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.17
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-04-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://mdreplicator.com/digi?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Million Dollar Replicator
 
 > Product ID `39997` · Digistore24 productId `438218` · [HTML profile page](../../reviews/million-dollar-replicator-39997.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.34 (Single payment) |
+| Price | $22.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.17 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | impassive |
@@ -68,7 +68,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2022-04-09
-- How much? — 22.338442 USD
+- How much? — 22.378382 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

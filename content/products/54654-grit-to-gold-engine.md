@@ -4,15 +4,15 @@ digistore24_product_id: 646059
 title: "Grit to Gold Engine™"
 vendor: "workshaft"
 product_type: "E-books"
-price: 55.92
+price: 56.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.97
+earnings_per_sale: 28.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-11-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/646059?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Grit to Gold Engine™
 
 > Product ID `54654` · Digistore24 productId `646059` · [HTML profile page](../../reviews/grit-to-gold-engine-54654.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $55.92 (Single payment) |
+| Price | $56.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.96 |
+| Earnings/sale* | $28.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | workshaft |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: workshaft, listed since 2025-11-04
-- How much? — 55.918814000000005 USD
+- How much? — 56.01879400000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

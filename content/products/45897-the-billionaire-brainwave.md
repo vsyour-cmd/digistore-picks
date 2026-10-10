@@ -4,15 +4,15 @@ digistore24_product_id: 524279
 title: "The Billionaire Brainwave"
 vendor: "Attractbr"
 product_type: "Downloads"
-price: 47.54
+price: 47.63
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 38.99
+earnings_per_sale: 39.06
 cart_conversion_pct: 17
 cancel_rate_pct: 11.02
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://thebillionairebrainwave.com/DSvsl/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Billionaire Brainwave
 
 > Product ID `45897` · Digistore24 productId `524279` · [HTML profile page](../../reviews/the-billionaire-brainwave-45897.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $47.54 (Single payment) |
+| Price | $47.63 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $38.99 |
+| Earnings/sale* | $39.06 |
 | Cart conversion* | 17% |
 | Cancel rate* | 11.02% |
 | Vendor | Attractbr |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Attractbr, listed since 2023-11-07
-- How much? — 47.5405 USD
+- How much? — 47.6255 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

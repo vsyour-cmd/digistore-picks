@@ -4,15 +4,15 @@ digistore24_product_id: 540559
 title: "Start Affiliate Marketing like a Pro"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 6.76
+price: 6.77
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 4.65
+earnings_per_sale: 4.66
 cart_conversion_pct: 8
 cancel_rate_pct: 5.19
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2024-02-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/start-am-like-a-pro/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Start Affiliate Marketing like a Pro
 
 > Product ID `47713` · Digistore24 productId `540559` · [HTML profile page](../../reviews/start-affiliate-marketing-like-a-pro-47713.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.76 (Single payment) |
+| Price | $6.77 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $4.65 |
+| Earnings/sale* | $4.66 |
 | Cart conversion* | 8% |
 | Cancel rate* | 5.19% |
 | Vendor | HeikoBoos |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2024-02-23
-- How much? — 6.756344 USD
+- How much? — 6.768424 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

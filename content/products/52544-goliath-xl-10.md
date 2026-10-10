@@ -4,15 +4,15 @@ digistore24_product_id: 592274
 title: "Goliath XL 10"
 vendor: "KoalaAdvertising"
 product_type: "Supplements - health"
-price: 149.61
+price: 149.88
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 116.76
+earnings_per_sale: 116.97
 cart_conversion_pct: 7
 cancel_rate_pct: 8.15
 categories: ["Food Supplements"]
 listed_since: "2025-01-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getgoliathxl10.com/read?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Goliath XL 10
 
 > Product ID `52544` · Digistore24 productId `592274` · [HTML profile page](../../reviews/goliath-xl-10-52544.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $149.61 (Single payment) |
+| Price | $149.88 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $116.76 |
+| Earnings/sale* | $116.97 |
 | Cart conversion* | 7% |
 | Cancel rate* | 8.15% |
 | Vendor | KoalaAdvertising |
@@ -73,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: KoalaAdvertising, listed since 2025-01-24
-- How much? — 149.61275 USD
+- How much? — 149.88025000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

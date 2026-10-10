@@ -4,15 +4,15 @@ digistore24_product_id: 348582
 title: "Steel Bite Pro"
 vendor: "steelbitepro"
 product_type: "Supplements - health"
-price: 197.99
+price: 198.35
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.69
+earnings_per_sale: 128.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/348582/adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Steel Bite Pro
 
 > Product ID `34114` · Digistore24 productId `348582` · [HTML profile page](../../reviews/steel-bite-pro-34114.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $197.99 (Single payment) |
+| Price | $198.35 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.69 |
+| Earnings/sale* | $128.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | steelbitepro |
@@ -73,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: steelbitepro, listed since 2020-09-18
-- How much? — 197.9922 USD
+- How much? — 198.3462 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

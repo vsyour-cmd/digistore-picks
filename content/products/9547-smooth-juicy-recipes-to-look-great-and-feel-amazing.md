@@ -4,15 +4,15 @@ digistore24_product_id: 42495
 title: "Smooth & Juicy - recipes to look great and feel amazing"
 vendor: "Rohtopia"
 product_type: "Downloads"
-price: 16.67
+price: 16.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.33
+earnings_per_sale: 8.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2015-02-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.rohtopia.com/smoothie-book?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Smooth & Juicy - recipes to look great and feel amazing
 
 > Product ID `9547` · Digistore24 productId `42495` · [HTML profile page](../../reviews/smooth-juicy-recipes-to-look-great-and-feel-amazing-9547.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.67 (Single payment) |
+| Price | $16.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.33 |
+| Earnings/sale* | $8.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rohtopia |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Rohtopia, listed since 2015-02-10
-- How much? — 16.66714 USD
+- How much? — 16.69694 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 536868
 title: "Sugar Defender"
 vendor: "I868696"
 product_type: "Supplements - health"
-price: 177.89
+price: 178.21
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.7
+earnings_per_sale: 107.89
 cart_conversion_pct: 4
 cancel_rate_pct: 11.15
 categories: ["Food Supplements"]
 listed_since: "2024-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Sugar Defender
 
 > Product ID `47081` · Digistore24 productId `536868` · [HTML profile page](../../reviews/sugar-defender-47081.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $177.89 (Single payment) |
+| Price | $178.21 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.70 |
+| Earnings/sale* | $107.89 |
 | Cart conversion* | 4% |
 | Cancel rate* | 11.15% |
 | Vendor | I868696 |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: I868696, listed since 2024-01-30
-- How much? — 177.890958 USD
+- How much? — 178.20901800000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 462082
 title: "The 4 Product Bundle By Sarah Staar"
 vendor: "sarahstaar"
 product_type: "Member area and video courses"
-price: 4.14
+price: 4.15
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 1.82
+earnings_per_sale: 1.83
 cart_conversion_pct: 11
 cancel_rate_pct: 25.15
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-09-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The 4 Product Bundle By Sarah Staar
 
 > Product ID `42357` · Digistore24 productId `462082` · [HTML profile page](../../reviews/the-4-product-bundle-by-sarah-staar-42357.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $4.14 (Single payment) |
+| Price | $4.15 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $1.82 |
+| Earnings/sale* | $1.83 |
 | Cart conversion* | 11% |
 | Cancel rate* | 25.15% |
 | Vendor | sarahstaar |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: sarahstaar, listed since 2022-09-26
-- How much? — 4.13882 USD
+- How much? — 4.1462200000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

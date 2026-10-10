@@ -4,15 +4,15 @@ digistore24_product_id: 271198
 title: "Raspberry Pi for Beginners (Mac+PC)"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 27.95
+price: 28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.98
+earnings_per_sale: 14.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2019-05-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.raspi-config.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Raspberry Pi for Beginners (Mac+PC)
 
 > Product ID `30133` · Digistore24 productId `271198` · [HTML profile page](../../reviews/raspberry-pi-for-beginners-mac-pc-30133.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.95 (Single payment) |
+| Price | $28.00 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.98 |
+| Earnings/sale* | $14.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: FIMA2011, listed since 2019-05-10
-- How much? — 27.953813999999998 USD
+- How much? — 28.003794 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

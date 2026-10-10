@@ -4,15 +4,15 @@ digistore24_product_id: 512623
 title: "Harmony Within Navigating Stress with Resilience and Faith"
 vendor: "DanielButogwa"
 product_type: "E-books"
-price: 14.53
+price: 14.56
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 7.99
+earnings_per_sale: 8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-08-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/512623?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Harmony Within Navigating Stress with Resilience and Faith
 
 > Product ID `45068` · Digistore24 productId `512623` · [HTML profile page](../../reviews/harmony-within-navigating-stress-with-resilience-and-faith-45068.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.53 (Single payment) |
+| Price | $14.56 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $7.99 |
+| Earnings/sale* | $8.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DanielButogwa |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DanielButogwa, listed since 2023-08-19
-- How much? — 14.530614 USD
+- How much? — 14.556594 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

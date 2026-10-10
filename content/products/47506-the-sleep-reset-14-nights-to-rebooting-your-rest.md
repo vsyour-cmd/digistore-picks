@@ -4,15 +4,15 @@ digistore24_product_id: 544084
 title: "The Sleep Reset: 14 Nights to Rebooting Your Rest"
 vendor: "UsefulPrograms"
 product_type: "Downloads"
-price: 33.55
+price: 33.61
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 20.12
+earnings_per_sale: 20.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-03-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/544084?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Sleep Reset: 14 Nights to Rebooting Your Rest
 
 > Product ID `47506` · Digistore24 productId `544084` · [HTML profile page](../../reviews/the-sleep-reset-14-nights-to-rebooting-your-rest-47506.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $33.55 (Single payment) |
+| Price | $33.61 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $20.12 |
+| Earnings/sale* | $20.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | UsefulPrograms |
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: UsefulPrograms, listed since 2024-03-18
-- How much? — 33.546814 USD
+- How much? — 33.606794 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

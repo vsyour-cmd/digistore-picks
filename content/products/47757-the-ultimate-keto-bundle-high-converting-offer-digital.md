@@ -4,15 +4,15 @@ digistore24_product_id: 547184
 title: "⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital"
 vendor: "hart89"
 product_type: "E-books"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 9.51
+earnings_per_sale: 9.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-04-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital
 
 > Product ID `47757` · Digistore24 productId `547184` · [HTML profile page](../../reviews/the-ultimate-keto-bundle-high-converting-offer-digital-47757.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $9.51 |
+| Earnings/sale* | $9.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hart89 |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: hart89, listed since 2024-04-08
-- How much? — 11.186 USD
+- How much? — 11.206 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

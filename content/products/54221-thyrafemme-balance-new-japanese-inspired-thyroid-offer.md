@@ -4,15 +4,15 @@ digistore24_product_id: 637145
 title: "Thyrafemme Balance - New Japanese-Inspired Thyroid Offer"
 vendor: "thyrafemme"
 product_type: "Supplements - health"
-price: 141.31
+price: 141.57
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.34
+earnings_per_sale: 128.57
 cart_conversion_pct: 3
 cancel_rate_pct: 11.79
 categories: ["Animals & Pets","Skin Care","Food Supplements"]
 listed_since: "2025-09-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getthyrafemme.cc/dtc/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Thyrafemme Balance - New Japanese-Inspired Thyroid Offer
 
 > Product ID `54221` · Digistore24 productId `637145` · [HTML profile page](../../reviews/thyrafemme-balance-new-japanese-inspired-thyroid-offer-54221.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $141.31 (Single payment) |
+| Price | $141.57 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.34 |
+| Earnings/sale* | $128.57 |
 | Cart conversion* | 3% |
 | Cancel rate* | 11.79% |
 | Vendor | thyrafemme |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: thyrafemme, listed since 2025-09-22
-- How much? — 141.312738 USD
+- How much? — 141.56539800000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

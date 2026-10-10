@@ -4,15 +4,15 @@ digistore24_product_id: 600196
 title: "CelluHair"
 vendor: "amashen"
 product_type: "Deliverable"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.59
+earnings_per_sale: 38.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Skin Care"]
 listed_since: "2025-03-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://celluhair.org/v2/index.html?transaction_id=U3UwbWhmSG0&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # CelluHair
 
 > Product ID `52198` · Digistore24 productId `600196` · [HTML profile page](../../reviews/celluhair-52198.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.59 |
+| Earnings/sale* | $38.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | amashen |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: amashen, listed since 2025-03-06
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

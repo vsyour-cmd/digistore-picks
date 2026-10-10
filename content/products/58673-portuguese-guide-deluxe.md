@@ -4,15 +4,15 @@ digistore24_product_id: 726228
 title: "Portuguese Guide Deluxe"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 11.07
+price: 11.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.54
+earnings_per_sale: 5.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726228?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Portuguese Guide Deluxe
 
 > Product ID `58673` · Digistore24 productId `726228` · [HTML profile page](../../reviews/portuguese-guide-deluxe-58673.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.07 (Single payment) |
+| Price | $11.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.54 |
+| Earnings/sale* | $5.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-26
-- How much? — 11.074140000000002 USD
+- How much? — 11.09394 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

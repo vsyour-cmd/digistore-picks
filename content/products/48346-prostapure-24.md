@@ -4,15 +4,15 @@ digistore24_product_id: 553211
 title: "ProstaPure 24"
 vendor: "alphadrive24"
 product_type: "Supplements - health"
-price: 137.07
+price: 137.32
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 127.79
+earnings_per_sale: 128.02
 cart_conversion_pct: 5
 cancel_rate_pct: 15.22
 categories: ["Food Supplements"]
 listed_since: "2024-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://prostapure24.com/ancient-secret-8817-d?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ProstaPure 24
 
 > Product ID `48346` · Digistore24 productId `553211` · [HTML profile page](../../reviews/prostapure-24-48346.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $137.07 (Single payment) |
+| Price | $137.32 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $127.79 |
+| Earnings/sale* | $128.02 |
 | Cart conversion* | 5% |
 | Cancel rate* | 15.22% |
 | Vendor | alphadrive24 |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: alphadrive24, listed since 2024-05-21
-- How much? — 137.07324400000002 USD
+- How much? — 137.31832400000002 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

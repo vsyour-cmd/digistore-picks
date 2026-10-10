@@ -4,15 +4,15 @@ digistore24_product_id: 693964
 title: "Ebook - The Self-Mastery System"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 24.04
+price: 24.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.02
+earnings_per_sale: 12.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2026-05-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/693964?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The Self-Mastery System
 
 > Product ID `56597` · Digistore24 productId `693964` · [HTML profile page](../../reviews/ebook-the-self-mastery-system-56597.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.04 (Single payment) |
+| Price | $24.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.02 |
+| Earnings/sale* | $12.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-05-19
-- How much? — 24.038714 USD
+- How much? — 24.081694 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

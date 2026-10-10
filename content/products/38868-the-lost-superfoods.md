@@ -4,15 +4,15 @@ digistore24_product_id: 377301
 title: "The Lost SuperFoods"
 vendor: "lostrec"
 product_type: "Book (printed)"
-price: 54.29
+price: 54.38
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.11
+earnings_per_sale: 26.15
 cart_conversion_pct: 19
 cancel_rate_pct: 1.7
 categories: ["Survival"]
 listed_since: "2021-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ultimatesurvivalfoods.com/book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Lost SuperFoods
 
 > Product ID `38868` · Digistore24 productId `377301` · [HTML profile page](../../reviews/the-lost-superfoods-38868.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $54.29 (Single payment) |
+| Price | $54.38 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.11 |
+| Earnings/sale* | $26.15 |
 | Cart conversion* | 19% |
 | Cancel rate* | 1.7% |
 | Vendor | lostrec |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: lostrec, listed since 2021-03-04
-- How much? — 54.285658000000005 USD
+- How much? — 54.382718000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

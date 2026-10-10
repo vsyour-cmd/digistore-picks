@@ -4,15 +4,15 @@ digistore24_product_id: 623017
 title: "“$12.57 Business Kit That Sells Itself”"
 vendor: "El_patronship"
 product_type: "Downloads"
-price: 14.06
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.63
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2025-07-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://profound-zabaione-bc02e6.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # “$12.57 Business Kit That Sells Itself”
 
 > Product ID `53186` · Digistore24 productId `623017` · [HTML profile page](../../reviews/12-57-business-kit-that-sells-itself-53186.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.06 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.63 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | El_patronship |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-07-08
-- How much? — 14.060802 USD
+- How much? — 14.085942000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 373677
 title: "7 Figure Mastery"
 vendor: "masterycourses"
 product_type: "E-books"
-price: 167.72
+price: 168.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 83.86
+earnings_per_sale: 84.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-02-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://legacy.groovepages.com/7-figure-mastery/index?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 7 Figure Mastery
 
 > Product ID `35794` · Digistore24 productId `373677` · [HTML profile page](../../reviews/7-figure-mastery-35794.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $167.72 (Installment) |
+| Price | $168.02 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $83.86 |
+| Earnings/sale* | $84.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | masterycourses |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: masterycourses, listed since 2021-02-13
-- How much? — 167.722884 USD
+- How much? — 168.022764 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

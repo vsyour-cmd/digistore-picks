@@ -4,34 +4,34 @@ digistore24_product_id: 551005
 title: "Linux exam preparation for CompTIA Linux+ and LPIC-1"
 vendor: "bitsandbytes"
 product_type: "Member area and video courses"
-price: 98.71
+price: 98.88
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 39.49
+earnings_per_sale: 39.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2024-05-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/551005/adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/551005/adminstore/"
 sales_page: "https://bitsandbytes.academy/#/subject_details/linux/advanced"
 language: "en"
 ---
 # Linux exam preparation for CompTIA Linux+ and LPIC-1
 
 > Product ID `48319` · Digistore24 productId `551005` · [HTML profile page](../../reviews/linux-exam-preparation-for-comptia-linux-and-lpic-1-48319.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $98.71 (Single payment, Subscription) |
+| Price | $98.88 (Single payment, Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $39.49 |
+| Earnings/sale* | $39.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bitsandbytes |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/551005/adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/551005/adminstore/
 - Sales page: https://bitsandbytes.academy/#/subject_details/linux/advanced
 - Vendor affiliate support: https://bitsandbytes.academy/#/af_info
 - Canonical redirect: https://www.digistore24.com/redir/551005/adminstore
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: bitsandbytes, listed since 2024-05-04
-- How much? — 98.705264 USD
+- How much? — 98.881744 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

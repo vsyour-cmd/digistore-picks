@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-07-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.offerlaunchpad.site/tiktok-cash-formula?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # TikTok Cash Formula
 
 > Product ID `57353` · Digistore24 productId `707842` · [HTML profile page](../../reviews/tiktok-cash-formula-57353.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

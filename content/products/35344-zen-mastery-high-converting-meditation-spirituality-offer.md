@@ -4,15 +4,15 @@ digistore24_product_id: 367270
 title: "Zen Mastery - High Converting Meditation/Spirituality Offer"
 vendor: "livingspirit"
 product_type: "Downloads"
-price: 14.53
+price: 14.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.27
+earnings_per_sale: 7.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://living.groovepages.com/zen/index?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Zen Mastery - High Converting Meditation/Spirituality Offer
 
 > Product ID `35344` · Digistore24 productId `367270` · [HTML profile page](../../reviews/zen-mastery-high-converting-meditation-spirituality-offer-35344.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.53 (Subscription) |
+| Price | $14.56 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.27 |
+| Earnings/sale* | $7.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | livingspirit |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: livingspirit, listed since 2021-01-12
-- How much? — 14.530614 USD
+- How much? — 14.556594 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

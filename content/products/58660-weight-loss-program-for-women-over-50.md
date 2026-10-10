@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://weightlossforwomen50-ia8.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Weight loss program for women over 50
 
 > Product ID `58660` · Digistore24 productId `725933` · [HTML profile page](../../reviews/weight-loss-program-for-women-over-50-58660.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

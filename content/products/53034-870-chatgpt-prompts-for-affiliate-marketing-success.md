@@ -4,7 +4,7 @@ digistore24_product_id: 619826
 title: "870 ChatGPT Prompts for Affiliate Marketing Success"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 1.73
+price: 1.74
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 1.95
@@ -12,7 +12,7 @@ cart_conversion_pct: 16
 cancel_rate_pct: 7.63
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2025-06-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # 870 ChatGPT Prompts for Affiliate Marketing Success
 
 > Product ID `53034` · Digistore24 productId `619826` · [HTML profile page](../../reviews/870-chatgpt-prompts-for-affiliate-marketing-success-53034.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $1.73 (Single payment) |
+| Price | $1.74 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $1.95 |
 | Cart conversion* | 16% |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ready to help your audience crush it in affiliate marketing – and earn 50% commission per sale while you're at it? Introducing the ultimate game-changer: “870 ChatGPT Prompts for Affiliate Marketers” – only $27! Whether your referrals are total beginners or seasoned pros, this AI-powered prompt pack will transform their workflow, supercharge conversions, and unlock passive income like never before��
+**Vendor's marketplace description:** Ready to help your audience crush it in affiliate marketing – and earn 50% commission per sale while you're at it? Introducing the ultimate game-changer: “870 ChatGPT Prompts for Affiliate Marketers” – only $27! Whether your referrals are total beginners or seasoned pros, this AI-powered prompt pack will transform their workflow, supercharge conversions, and unlock passive income like never before…
 
 ## 2. Links
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-06-20
-- How much? — 1.7338300000000002 USD
+- How much? — 1.73693 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

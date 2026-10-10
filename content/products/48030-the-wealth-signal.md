@@ -4,15 +4,15 @@ digistore24_product_id: 550119
 title: "The Wealth Signal"
 vendor: "thewealthsignal"
 product_type: "Downloads"
-price: 49.86
+price: 49.95
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 36.2
+earnings_per_sale: 36.26
 cart_conversion_pct: 15
 cancel_rate_pct: 10.69
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://wealthsignaloriginal.com/DS/vsl/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Wealth Signal
 
 > Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](../../reviews/the-wealth-signal-48030.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $49.86 (Single payment) |
+| Price | $49.95 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $36.20 |
+| Earnings/sale* | $36.26 |
 | Cart conversion* | 15% |
 | Cancel rate* | 10.69% |
 | Vendor | thewealthsignal |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: thewealthsignal, listed since 2024-04-28
-- How much? — 49.856002000000004 USD
+- How much? — 49.945142000000004 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

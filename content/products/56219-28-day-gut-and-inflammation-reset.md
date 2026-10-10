@@ -4,15 +4,15 @@ digistore24_product_id: 681798
 title: "28-Day Gut and Inflammation Reset"
 vendor: "penneymegginson9f1b"
 product_type: "E-books"
-price: 52.57
+price: 52.67
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.29
+earnings_per_sale: 26.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-04-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://penney-megginson.mykajabi.com/glowgevity-28-day-gut-reset-1?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 28-Day Gut and Inflammation Reset
 
 > Product ID `56219` · Digistore24 productId `681798` · [HTML profile page](../../reviews/28-day-gut-and-inflammation-reset-56219.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.57 (Single payment) |
+| Price | $52.67 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.29 |
+| Earnings/sale* | $26.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | penneymegginson9f1b |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: penneymegginson9f1b, listed since 2026-04-03
-- How much? — 52.574200000000005 USD
+- How much? — 52.6682 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

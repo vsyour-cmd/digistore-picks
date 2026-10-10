@@ -4,15 +4,15 @@ digistore24_product_id: 684079
 title: "Scrum For Non-Tech"
 vendor: "TopCourseCreator"
 product_type: "Member area and video courses"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.69
+earnings_per_sale: 20.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Services","Project Management"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/scrum-for-non-tech/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Scrum For Non-Tech
 
 > Product ID `56281` · Digistore24 productId `684079` · [HTML profile page](../../reviews/scrum-for-non-tech-56281.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.69 |
+| Earnings/sale* | $20.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TopCourseCreator |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: TopCourseCreator, listed since 2026-04-12
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

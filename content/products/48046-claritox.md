@@ -4,15 +4,15 @@ digistore24_product_id: 550416
 title: "Claritox"
 vendor: "ClaritoxPro"
 product_type: "Supplements - health"
-price: 174.2
+price: 174.51
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 123.02
+earnings_per_sale: 123.24
 cart_conversion_pct: 5
 cancel_rate_pct: 11.7
 categories: ["Food Supplements"]
 listed_since: "2024-04-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://claritox24.com/text2.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Claritox
 
 > Product ID `48046` · Digistore24 productId `550416` · [HTML profile page](../../reviews/claritox-48046.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $174.20 (Single payment) |
+| Price | $174.51 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $123.02 |
+| Earnings/sale* | $123.24 |
 | Cart conversion* | 5% |
 | Cancel rate* | 11.7% |
 | Vendor | ClaritoxPro |
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ClaritoxPro, listed since 2024-04-30
-- How much? — 174.199578 USD
+- How much? — 174.51103799999999 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 19087
 title: "Worksheets for German grammar"
 vendor: "easydaf"
 product_type: "Downloads"
-price: 28.22
+price: 28.27
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 11.29
+earnings_per_sale: 11.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-01-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.learn-german-smarter.com/german-grammar-worksheets/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Worksheets for German grammar
 
 > Product ID `10991` · Digistore24 productId `19087` · [HTML profile page](../../reviews/worksheets-for-german-grammar-10991.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.22 (Single payment) |
+| Price | $28.27 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $11.29 |
+| Earnings/sale* | $11.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | easydaf |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: easydaf, listed since 2014-01-08
-- How much? — 28.222278000000003 USD
+- How much? — 28.272738 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

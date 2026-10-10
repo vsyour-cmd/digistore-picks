@@ -4,15 +4,15 @@ digistore24_product_id: 619373
 title: "Top T — Advanced Testosterone Booster"
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 293.59
+price: 294.11
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 176.16
+earnings_per_sale: 176.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-06-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/619373?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Top T — Advanced Testosterone Booster
 
 > Product ID `53180` · Digistore24 productId `619373` · [HTML profile page](../../reviews/top-t-advanced-testosterone-booster-53180.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $293.59 (Single payment) |
+| Price | $294.11 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $176.16 |
+| Earnings/sale* | $176.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2025-06-18
-- How much? — 293.587756 USD
+- How much? — 294.11267599999996 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

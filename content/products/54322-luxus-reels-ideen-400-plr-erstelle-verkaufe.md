@@ -4,7 +4,7 @@ digistore24_product_id: 639914
 title: "Luxus Reels Ideen 400+ PLR – Erstelle, Verkaufe"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 7.11
+price: 7.13
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.14
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing","Marketing Services"]
 listed_since: "2025-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/639914?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Luxus Reels Ideen 400+ PLR – Erstelle, Verkaufe
 
 > Product ID `54322` · Digistore24 productId `639914` · [HTML profile page](../../reviews/luxus-reels-ideen-400-plr-erstelle-verkaufe-54322.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.11 (Single payment) |
+| Price | $7.13 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.14 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-10-07
-- How much? — 7.114296 USD
+- How much? — 7.127016 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

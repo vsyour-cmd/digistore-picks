@@ -4,15 +4,15 @@ digistore24_product_id: 646525
 title: "The Millionaire Blueprint - Massive Black Friday Bundle"
 vendor: "Ethan_Kael"
 product_type: "Downloads"
-price: 55.82
+price: 55.92
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 44.65
+earnings_per_sale: 44.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
 listed_since: "2025-11-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/646525?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Millionaire Blueprint - Massive Black Friday Bundle
 
 > Product ID `54682` · Digistore24 productId `646525` · [HTML profile page](../../reviews/the-millionaire-blueprint-massive-black-friday-bundle-54682.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.82 (Single payment) |
+| Price | $55.92 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $44.65 |
+| Earnings/sale* | $44.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ethan_Kael |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Ethan_Kael, listed since 2025-11-05
-- How much? — 55.81814 USD
+- How much? — 55.91794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

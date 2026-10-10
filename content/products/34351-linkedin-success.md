@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # LinkedIN Success
 
 > Product ID `34351` · Digistore24 productId `349591` · [HTML profile page](../../reviews/linkedin-success-34351.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: familiensparplan, listed since 2020-09-25
-- How much? — 1.1186 USD
+- How much? — 1.1206 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

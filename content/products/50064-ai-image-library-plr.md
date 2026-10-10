@@ -4,15 +4,15 @@ digistore24_product_id: 575223
 title: "AI Image Library PLR"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.1
+earnings_per_sale: 15.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-10-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-ai-image-library?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # AI Image Library PLR
 
 > Product ID `50064` · Digistore24 productId `575223` · [HTML profile page](../../reviews/ai-image-library-plr-50064.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.10 |
+| Earnings/sale* | $15.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-14
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

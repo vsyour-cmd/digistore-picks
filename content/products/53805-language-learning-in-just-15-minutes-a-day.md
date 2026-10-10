@@ -4,15 +4,15 @@ digistore24_product_id: 633487
 title: "Language Learning in Just 15 Minutes a Day"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.12
+price: 20.16
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.1
+earnings_per_sale: 16.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Personal Development"]
 listed_since: "2025-09-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633487?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Language Learning in Just 15 Minutes a Day
 
 > Product ID `53805` · Digistore24 productId `633487` · [HTML profile page](../../reviews/language-learning-in-just-15-minutes-a-day-53805.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.12 (Single payment) |
+| Price | $20.16 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.10 |
+| Earnings/sale* | $16.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-03
-- How much? — 20.123614 USD
+- How much? — 20.159594 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

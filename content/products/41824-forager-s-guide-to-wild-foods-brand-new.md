@@ -4,15 +4,15 @@ digistore24_product_id: 391226
 title: "Forager's Guide to Wild Foods – BRAND NEW!"
 vendor: "fguide"
 product_type: "Book (printed)"
-price: 48.59
+price: 48.68
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 25.26
+earnings_per_sale: 25.3
 cart_conversion_pct: 28
 cancel_rate_pct: 1.83
 categories: ["Survival"]
 listed_since: "2021-05-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://foragersguide.com/nws-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Forager's Guide to Wild Foods – BRAND NEW!
 
 > Product ID `41824` · Digistore24 productId `391226` · [HTML profile page](../../reviews/forager-s-guide-to-wild-foods-brand-new-41824.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $48.59 (Single payment) |
+| Price | $48.68 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $25.26 |
+| Earnings/sale* | $25.30 |
 | Cart conversion* | 28% |
 | Cancel rate* | 1.83% |
 | Vendor | fguide |
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: fguide, listed since 2021-05-24
-- How much? — 48.591984 USD
+- How much? — 48.678864 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

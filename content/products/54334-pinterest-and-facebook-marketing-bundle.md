@@ -4,15 +4,15 @@ digistore24_product_id: 640320
 title: "Pinterest and Facebook Marketing Bundle"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 17.42
+price: 17.45
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 6.97
+earnings_per_sale: 6.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Social Media","Sales Training"]
 listed_since: "2025-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/640320?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Pinterest and Facebook Marketing Bundle
 
 > Product ID `54334` · Digistore24 productId `640320` · [HTML profile page](../../reviews/pinterest-and-facebook-marketing-bundle-54334.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $17.42 (Single payment) |
+| Price | $17.45 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $6.97 |
+| Earnings/sale* | $6.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-10-08
-- How much? — 17.416602 USD
+- How much? — 17.447742 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

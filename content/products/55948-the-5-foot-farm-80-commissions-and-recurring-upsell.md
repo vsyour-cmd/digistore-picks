@@ -4,15 +4,15 @@ digistore24_product_id: 584032
 title: "The 5 Foot Farm: 80% Commissions and Recurring Upsell"
 vendor: "FiveFootFarm"
 product_type: "E-books"
-price: 57.74
+price: 57.85
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.44
+earnings_per_sale: 16.47
 cart_conversion_pct: 12
 cancel_rate_pct: 9.29
 categories: ["Survival"]
 listed_since: "2024-12-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://cf.5footfarm.com/vsl-v1-live-h3jk4-e4f19-fp-nv?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The 5 Foot Farm: 80% Commissions and Recurring Upsell
 
 > Product ID `55948` · Digistore24 productId `584032` · [HTML profile page](../../reviews/the-5-foot-farm-80-commissions-and-recurring-upsell-55948.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $57.74 (Single payment) |
+| Price | $57.85 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.44 |
+| Earnings/sale* | $16.47 |
 | Cart conversion* | 12% |
 | Cancel rate* | 9.29% |
 | Vendor | FiveFootFarm |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: FiveFootFarm, listed since 2024-12-03
-- How much? — 57.742132 USD
+- How much? — 57.845372 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

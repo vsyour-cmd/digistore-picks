@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://oraclefx.org/Healing-Your-Relationship-With-Your-Parents/Sales-page.html?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Healing Your Relationship With Your Parents
 
 > Product ID `57385` · Digistore24 productId `708123` · [HTML profile page](../../reviews/healing-your-relationship-with-your-parents-57385.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://platoniscave-p3j.plannerpack.fun?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # platonis cave
 
 > Product ID `59465` · Digistore24 productId `735583` · [HTML profile page](../../reviews/platonis-cave-59465.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software"]
 listed_since: "2024-06-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://app.codexleo.ai?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Earn Big Selling the Most Powerful AI Writing Tool on Digist
 
 > Product ID `50625` · Digistore24 productId `557220` · [HTML profile page](../../reviews/earn-big-selling-the-most-powerful-ai-writing-tool-on-digist-50625.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -69,7 +69,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: successfactor24, listed since 2024-06-17
-- How much? — 1.1186 USD
+- How much? — 1.1206 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

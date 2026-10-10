@@ -4,15 +4,15 @@ digistore24_product_id: 726391
 title: "Learn Plant-Based Nutrition and Vegan Living with Practical"
 vendor: "Hamzaali036"
 product_type: "Downloads"
-price: 80
+price: 899.99
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 52
+earnings_per_sale: 584.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726391?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Learn Plant-Based Nutrition and Vegan Living with Practical
 
 > Product ID `59257` · Digistore24 productId `726391` · [HTML profile page](../../reviews/learn-plant-based-nutrition-and-vegan-living-with-practical-59257.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $80.00 (Single payment) |
+| Price | $899.99 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $52.00 |
+| Earnings/sale* | $584.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Hamzaali036 |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Hamzaali036, listed since 2026-09-15
-- How much? — 80 USD
+- How much? — 899.99 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

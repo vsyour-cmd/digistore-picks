@@ -4,15 +4,15 @@ digistore24_product_id: 611728
 title: "Promote Liposomal Hair Renewal Now!"
 vendor: "puralityhealth"
 product_type: "Supplements - health"
-price: 60.35
+price: 60.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 30.18
+earnings_per_sale: 30.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://renewyourhair.com/ds24c/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Liposomal Hair Renewal Now!
 
 > Product ID `52948` · Digistore24 productId `611728` · [HTML profile page](../../reviews/promote-liposomal-hair-renewal-now-52948.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $60.35 (Single payment) |
+| Price | $60.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $30.18 |
+| Earnings/sale* | $30.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | puralityhealth |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: puralityhealth, listed since 2025-05-09
-- How much? — 60.348470000000006 USD
+- How much? — 60.45637000000001 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

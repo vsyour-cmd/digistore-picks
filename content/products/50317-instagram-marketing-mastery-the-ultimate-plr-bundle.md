@@ -4,15 +4,15 @@ digistore24_product_id: 578541
 title: "Instagram Marketing Mastery – The Ultimate PLR Bundle!"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 23.49
+price: 23.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.75
+earnings_per_sale: 11.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-11-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/Effective-Insta-Marketing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Instagram Marketing Mastery – The Ultimate PLR Bundle!
 
 > Product ID `50317` · Digistore24 productId `578541` · [HTML profile page](../../reviews/instagram-marketing-mastery-the-ultimate-plr-bundle-50317.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.49 (Single payment, Installment) |
+| Price | $23.53 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.75 |
+| Earnings/sale* | $11.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-11-03
-- How much? — 23.4906 USD
+- How much? — 23.532600000000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

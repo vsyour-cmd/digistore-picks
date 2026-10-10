@@ -4,15 +4,15 @@ digistore24_product_id: 449013
 title: "301K Challenge"
 vendor: "igorkheifets"
 product_type: "Member area and video courses"
-price: 1055.22
+price: 1057.11
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 176.73
+earnings_per_sale: 177.04
 cart_conversion_pct: 2
 cancel_rate_pct: 16.72
 categories: ["Online Marketing"]
 listed_since: "2022-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://igor.watch/digi/301k/vsl.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 301K Challenge
 
 > Product ID `40492` · Digistore24 productId `449013` · [HTML profile page](../../reviews/301k-challenge-40492.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1055.22 (Single payment) |
+| Price | $1057.11 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $176.73 |
+| Earnings/sale* | $177.04 |
 | Cart conversion* | 2% |
 | Cancel rate* | 16.72% |
 | Vendor | igorkheifets |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: igorkheifets, listed since 2022-06-29
-- How much? — 1055.2201240000002 USD
+- How much? — 1057.106804 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

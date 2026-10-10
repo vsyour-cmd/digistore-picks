@@ -4,15 +4,15 @@ digistore24_product_id: 668910
 title: "High-Converting Herbal Health Offer Solve 28+ Common Problem"
 vendor: "wellnesswithsher"
 product_type: "E-books"
-price: 21.92
+price: 21.96
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 13.15
+earnings_per_sale: 13.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Personal Development"]
 listed_since: "2026-02-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://wellnesswithsher.neocities.org/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # High-Converting Herbal Health Offer Solve 28+ Common Problem
 
 > Product ID `55786` · Digistore24 productId `668910` · [HTML profile page](../../reviews/high-converting-herbal-health-offer-solve-28-common-problem-55786.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.92 (Single payment) |
+| Price | $21.96 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $13.15 |
+| Earnings/sale* | $13.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wellnesswithsher |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: wellnesswithsher, listed since 2026-02-15
-- How much? — 21.924560000000003 USD
+- How much? — 21.96376 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

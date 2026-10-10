@@ -4,15 +4,15 @@ digistore24_product_id: 733077
 title: "Remote Ratgeber"
 vendor: "noirandselc015"
 product_type: "Member area and video courses"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 7.83
+earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://remoteratgeber-m7r.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Remote Ratgeber
 
 > Product ID `59211` · Digistore24 productId `733077` · [HTML profile page](../../reviews/remote-ratgeber-59211.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | noirandselc015 |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: noirandselc015, listed since 2026-09-14
-- How much? — 22.360813999999998 USD
+- How much? — 22.400793999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

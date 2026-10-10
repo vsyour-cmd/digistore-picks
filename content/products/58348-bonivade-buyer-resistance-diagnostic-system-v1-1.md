@@ -4,15 +4,15 @@ digistore24_product_id: 707692
 title: "Bonivade: Buyer Resistance Diagnostic System v1.1"
 vendor: "bonivade"
 product_type: "Downloads"
-price: 211.42
+price: 211.79
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 63.42
+earnings_per_sale: 63.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/707692?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Bonivade: Buyer Resistance Diagnostic System v1.1
 
 > Product ID `58348` · Digistore24 productId `707692` · [HTML profile page](../../reviews/bonivade-buyer-resistance-diagnostic-system-v1-1-58348.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $211.42 (Single payment) |
+| Price | $211.79 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $63.42 |
+| Earnings/sale* | $63.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bonivade |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: bonivade, listed since 2026-08-14
-- How much? — 211.4154 USD
+- How much? — 211.79340000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

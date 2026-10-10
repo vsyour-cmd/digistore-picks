@@ -4,15 +4,15 @@ digistore24_product_id: 646154
 title: "Forex MT5 Viper Strategy For MetaTrader 5 Platform"
 vendor: "forexobroker"
 product_type: "Software"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.83
+earnings_per_sale: 24.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://forexprofitkeeper.com/forex-mt5-viper-strategy-dg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Forex MT5 Viper Strategy For MetaTrader 5 Platform
 
 > Product ID `54560` · Digistore24 productId `646154` · [HTML profile page](../../reviews/forex-mt5-viper-strategy-for-metatrader-5-platform-54560.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.83 |
+| Earnings/sale* | $24.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | forexobroker |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: forexobroker, listed since 2025-11-04
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

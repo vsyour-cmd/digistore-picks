@@ -4,15 +4,15 @@ digistore24_product_id: 627444
 title: "High-Demand AI Product for Affiliates – 40% Commission + Ful"
 vendor: "El_patronship"
 product_type: "Downloads"
-price: 11.13
+price: 11.15
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.45
+earnings_per_sale: 4.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2025-08-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lighthearted-blancmange-a74dd8.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # High-Demand AI Product for Affiliates – 40% Commission + Ful
 
 > Product ID `55154` · Digistore24 productId `627444` · [HTML profile page](../../reviews/high-demand-ai-product-for-affiliates-40-commission-ful-55154.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.13 (Single payment) |
+| Price | $11.15 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.45 |
+| Earnings/sale* | $4.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | El_patronship |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-08-02
-- How much? — 11.13007 USD
+- How much? — 11.14997 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

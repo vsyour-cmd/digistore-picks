@@ -4,15 +4,15 @@ digistore24_product_id: 650003
 title: "Page Builder – Usa [Web app – buildpage-usa]"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 31.32
+price: 31.38
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 23.49
+earnings_per_sale: 23.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Software","Online Marketing"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://pagebuilder-usa.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Page Builder – Usa [Web app – buildpage-usa]
 
 > Product ID `54718` · Digistore24 productId `650003` · [HTML profile page](../../reviews/page-builder-usa-web-app-buildpage-usa-54718.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $31.32 (Single payment) |
+| Price | $31.38 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: manuelcosta, listed since 2025-11-20
-- How much? — 31.320800000000002 USD
+- How much? — 31.376800000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

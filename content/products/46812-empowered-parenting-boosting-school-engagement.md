@@ -4,15 +4,15 @@ digistore24_product_id: 530683
 title: "Empowered Parenting: Boosting School Engagement"
 vendor: "togetr4success"
 product_type: "Member area and video courses"
-price: 363.55
+price: 364.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 181.77
+earnings_per_sale: 182.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2023-12-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://togetr4success.thinkific.com/bundles/togetr4success?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Empowered Parenting: Boosting School Engagement
 
 > Product ID `46812` · Digistore24 productId `530683` · [HTML profile page](../../reviews/empowered-parenting-boosting-school-engagement-46812.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $363.55 (Single payment) |
+| Price | $364.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $181.77 |
+| Earnings/sale* | $182.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | togetr4success |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: togetr4success, listed since 2023-12-20
-- How much? — 363.545 USD
+- How much? — 364.195 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

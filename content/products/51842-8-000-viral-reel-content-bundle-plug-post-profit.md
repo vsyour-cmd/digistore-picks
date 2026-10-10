@@ -4,15 +4,15 @@ digistore24_product_id: 603611
 title: "8,000 Viral Reel Content Bundle Plug Post  Profit"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.51
+earnings_per_sale: 9.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Social Media"]
 listed_since: "2025-03-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/603611?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 8,000 Viral Reel Content Bundle Plug Post  Profit
 
 > Product ID `51842` · Digistore24 productId `603611` · [HTML profile page](../../reviews/8-000-viral-reel-content-bundle-plug-post-profit-51842.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.51 |
+| Earnings/sale* | $9.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2025-03-24
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

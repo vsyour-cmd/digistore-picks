@@ -4,15 +4,15 @@ digistore24_product_id: 518672
 title: "Forensic System – Powerful Analysis Tool for PCs and Network"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 31.01
+price: 31.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.31
+earnings_per_sale: 9.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Hobby & Craft","Software"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518672?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Forensic System – Powerful Analysis Tool for PCs and Network
 
 > Product ID `52067` · Digistore24 productId `518672` · [HTML profile page](../../reviews/forensic-system-powerful-analysis-tool-for-pcs-and-network-52067.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $31.01 (Single payment) |
+| Price | $31.06 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.31 |
+| Earnings/sale* | $9.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-29
-- How much? — 31.007592 USD
+- How much? — 31.063032 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

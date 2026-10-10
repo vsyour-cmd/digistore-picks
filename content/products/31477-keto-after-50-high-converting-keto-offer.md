@@ -4,15 +4,15 @@ digistore24_product_id: 292685
 title: "Keto After 50 - High Converting Keto Offer"
 vendor: "raposo1"
 product_type: "Book (printed)"
-price: 10.07
+price: 10.09
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 7.55
+earnings_per_sale: 7.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-10-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ketoafter50.com/digi/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Keto After 50 - High Converting Keto Offer
 
 > Product ID `31477` · Digistore24 productId `292685` · [HTML profile page](../../reviews/keto-after-50-high-converting-keto-offer-31477.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $10.07 (Single payment) |
+| Price | $10.09 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $7.55 |
+| Earnings/sale* | $7.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | raposo1 |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: raposo1, listed since 2019-10-29
-- How much? — 10.067400000000001 USD
+- How much? — 10.0854 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

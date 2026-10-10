@@ -4,16 +4,20 @@ const fs = require("fs");
 const path = require("path");
 
 const SITES = [
-  { root: "G:/Digistore24/site", lang: "en", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "vendors", "vendors", "vendors"], pageDir: "reviews", otherRoot: "G:/Digistore24/site-de", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks-de/", otherPageDir: "produkte" },
-  { root: "G:/Digistore24/site-de", lang: "de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "hersteller", "hersteller"], pageDir: "produkte", otherRoot: "G:/Digistore24/site", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks/", otherPageDir: "reviews" },
+  { root: "G:/Digistore24/site", lang: "en", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors"], pageDir: "reviews", otherRoot: "G:/Digistore24/site-de", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks-de/", otherPageDir: "produkte" },
+  { root: "G:/Digistore24/site-de", lang: "de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller"], pageDir: "produkte", otherRoot: "G:/Digistore24/site", otherPrefix: "https://vsyour-cmd.github.io/digistore-picks/", otherPageDir: "reviews" },
 ];
 
 function collect(root, dirs) {
   const files = [];
+  const seen = new Set();
   for (const d of dirs) {
     const p = path.join(root, d);
     if (!fs.existsSync(p)) continue;
-    for (const f of fs.readdirSync(p)) if (f.endsWith(".html")) files.push(d === "." ? f : d + "/" + f);
+    for (const f of fs.readdirSync(p)) if (f.endsWith(".html")) {
+      const rel = d === "." ? f : d + "/" + f;
+      if (!seen.has(rel)) { seen.add(rel); files.push(rel); }
+    }
   }
   return files;
 }

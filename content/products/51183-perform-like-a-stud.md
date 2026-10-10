@@ -4,15 +4,15 @@ digistore24_product_id: 590554
 title: "Perform like a STUD"
 vendor: "ClubhouseStud"
 product_type: "Supplements - health"
-price: 164.43
+price: 164.73
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 65.77
+earnings_per_sale: 65.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://studperformance.com/d/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Perform like a STUD
 
 > Product ID `51183` · Digistore24 productId `590554` · [HTML profile page](../../reviews/perform-like-a-stud-51183.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $164.43 (Single payment) |
+| Price | $164.73 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $65.77 |
+| Earnings/sale* | $65.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ClubhouseStud |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ClubhouseStud, listed since 2025-01-15
-- How much? — 164.4342 USD
+- How much? — 164.72820000000002 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

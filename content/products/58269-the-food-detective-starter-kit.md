@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://thefooddetectivestarterkit-l0g.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The Food Detective Starter Kit
 
 > Product ID `58269` · Digistore24 productId `716360` · [HTML profile page](../../reviews/the-food-detective-starter-kit-58269.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 730167
 title: "Listimo – AI Amazon listing from 1 photo | up to €150 commission"
 vendor: "Listimo"
 product_type: "Software"
-price: 667.8
+price: 669
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 200.34
+earnings_per_sale: 200.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Software"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://listimo.ai/en/offer.html?utm_source=digistore24&utm_medium=affiliate#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Listimo – AI Amazon listing from 1 photo | up to €150 commission
 
 > Product ID `58933` · Digistore24 productId `730167` · [HTML profile page](../../reviews/listimo-ai-amazon-listing-from-1-photo-up-to-150-commission-58933.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $667.80 (Single payment) |
+| Price | $669.00 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $200.34 |
+| Earnings/sale* | $200.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Listimo |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: Listimo, listed since 2026-09-05
-- How much? — 667.8042 USD
+- How much? — 668.9982 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

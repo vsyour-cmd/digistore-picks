@@ -4,15 +4,15 @@ digistore24_product_id: 656795
 title: "Subliminal‏ Intelligence"
 vendor: "frequencies8888"
 product_type: "Downloads"
-price: 73.83
+price: 73.96
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 29.53
+earnings_per_sale: 29.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-12-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Subliminal‏ Intelligence
 
 > Product ID `54980` · Digistore24 productId `656795` · [HTML profile page](../../reviews/subliminal-intelligence-54980.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $73.83 (Single payment) |
+| Price | $73.96 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $29.53 |
+| Earnings/sale* | $29.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | frequencies8888 |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: frequencies8888, listed since 2025-12-21
-- How much? — 73.8276 USD
+- How much? — 73.95960000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 518666
 title: "Photomizer 3 Premium – Intelligent Photo Enhancement"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 37.6
+price: 37.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.8
+earnings_per_sale: 18.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518666?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Photomizer 3 Premium – Intelligent Photo Enhancement
 
 > Product ID `52072` · Digistore24 productId `518666` · [HTML profile page](../../reviews/photomizer-3-premium-intelligent-photo-enhancement-52072.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.60 (Single payment) |
+| Price | $37.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.80 |
+| Earnings/sale* | $18.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -82,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-29
-- How much? — 37.596146 USD
+- How much? — 37.663366 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

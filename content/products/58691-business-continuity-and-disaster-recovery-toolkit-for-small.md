@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Software"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://marketplace.iotsystemsgrowth.com/business-continuity-disaster-recovery-toolkit-digistore/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Business Continuity and Disaster Recovery Toolkit for Small
 
 > Product ID `58691` · Digistore24 productId `724592` · [HTML profile page](../../reviews/business-continuity-and-disaster-recovery-toolkit-for-small-58691.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

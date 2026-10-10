@@ -4,15 +4,15 @@ digistore24_product_id: 547017
 title: "The Genius Wave"
 vendor: "thegeniuswave"
 product_type: "Downloads"
-price: 48.44
+price: 48.52
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 41.93
+earnings_per_sale: 42
 cart_conversion_pct: 15
 cancel_rate_pct: 7.79
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Genius Wave
 
 > Product ID `48719` · Digistore24 productId `547017` · [HTML profile page](../../reviews/the-genius-wave-48719.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $48.44 (Single payment) |
+| Price | $48.52 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $41.93 |
+| Earnings/sale* | $42.00 |
 | Cart conversion* | 15% |
 | Cancel rate* | 7.79% |
 | Vendor | thegeniuswave |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: thegeniuswave, listed since 2024-04-06
-- How much? — 48.435379999999995 USD
+- How much? — 48.52198 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

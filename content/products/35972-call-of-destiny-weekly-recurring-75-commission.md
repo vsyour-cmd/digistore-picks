@@ -4,15 +4,15 @@ digistore24_product_id: 370248
 title: "Call of Destiny - Weekly Recurring 75% Commission"
 vendor: "serimon"
 product_type: "E-books"
-price: 7.83
+price: 7.84
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 5.87
+earnings_per_sale: 5.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "http://reading.callofdestiny.org?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Call of Destiny - Weekly Recurring 75% Commission
 
 > Product ID `35972` · Digistore24 productId `370248` · [HTML profile page](../../reviews/call-of-destiny-weekly-recurring-75-commission-35972.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.83 (Subscription) |
+| Price | $7.84 (Subscription) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $5.87 |
+| Earnings/sale* | $5.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | serimon |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: serimon, listed since 2021-01-26
-- How much? — 7.8302000000000005 USD
+- How much? — 7.844200000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

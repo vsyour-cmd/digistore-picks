@@ -4,15 +4,15 @@ digistore24_product_id: 630712
 title: "50 Romance eBooks + Audiobooks Mega Bundle"
 vendor: "Juliannieh"
 product_type: "Downloads"
-price: 43.63
+price: 43.7
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 32.72
+earnings_per_sale: 32.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Fun & Games"]
 listed_since: "2025-08-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pawopsstudio.com/50-romance-ebooks-audiobooks/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 50 Romance eBooks + Audiobooks Mega Bundle
 
 > Product ID `54094` · Digistore24 productId `630712` · [HTML profile page](../../reviews/50-romance-ebooks-audiobooks-mega-bundle-54094.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $43.63 (Single payment) |
+| Price | $43.70 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $32.72 |
+| Earnings/sale* | $32.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Juliannieh |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Mega Bundle includes 50 bestselling romance eBooks and audiobooks, perfect for romance lovers. 这Mega Bundle包括50本最畅销的浪漫电子书和有声读物，完美的浪漫爱好者。这Mega Bundle包括50本最畅销的浪漫电子书和有声读物，完美的浪漫爱好者。这Mega Bundle包括50本最畅销的浪漫电子书和有声读物，完美的浪漫爱好者。这Mega Bundle包括50本最畅销的浪漫电子书和有声读物，完美的浪漫爱好者。这Mega Bundle包括50本最畅销的浪漫电子书和有声读物，完美的浪漫爱好者。这Mega Bundle包括50本最畅销的浪漫电子书和有声读物，完美的浪漫爱好者。 High-quality stories featuring Billionaire Romance, S…
+**Vendor's marketplace description:** This Mega Bundle includes 50 bestselling romance eBooks and audiobooks, perfect for romance lovers. High-quality stories featuring Billionaire Romance, S…
 
 ## 2. Links
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Juliannieh, listed since 2025-08-20
-- How much? — 43.6254 USD
+- How much? — 43.7034 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

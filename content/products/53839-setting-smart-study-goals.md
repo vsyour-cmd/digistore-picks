@@ -4,15 +4,15 @@ digistore24_product_id: 633817
 title: "Setting Smart Study Goals"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.12
+price: 20.16
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.1
+earnings_per_sale: 16.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Languages"]
 listed_since: "2025-09-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633817?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Setting Smart Study Goals
 
 > Product ID `53839` · Digistore24 productId `633817` · [HTML profile page](../../reviews/setting-smart-study-goals-53839.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.12 (Single payment) |
+| Price | $20.16 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.10 |
+| Earnings/sale* | $16.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-04
-- How much? — 20.123614 USD
+- How much? — 20.159594 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 666947
 title: "Valentine's Day Luxury Love Reels Video Stock Bundle"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 10.06
+price: 10.07
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.03
+earnings_per_sale: 5.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-02-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666947?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Valentine's Day Luxury Love Reels Video Stock Bundle
 
 > Product ID `55474` · Digistore24 productId `666947` · [HTML profile page](../../reviews/valentine-s-day-luxury-love-reels-video-stock-bundle-55474.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.06 (Single payment) |
+| Price | $10.07 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.03 |
+| Earnings/sale* | $5.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2026-02-06
-- How much? — 10.056214 USD
+- How much? — 10.074194 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

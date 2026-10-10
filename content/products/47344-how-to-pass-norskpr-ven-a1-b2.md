@@ -4,15 +4,15 @@ digistore24_product_id: 530046
 title: "How to pass Norskprøven (A1-B2)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.22
+earnings_per_sale: 33.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2023-12-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norskproven/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # How to pass Norskprøven (A1-B2)
 
 > Product ID `47344` · Digistore24 productId `530046` · [HTML profile page](../../reviews/how-to-pass-norskpr-ven-a1-b2-47344.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.74 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.22 |
+| Earnings/sale* | $33.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2023-12-15
-- How much? — 110.7414 USD
+- How much? — 110.9394 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 639860
 title: "Digital Product Blueprint: Create Your First Digital Product"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 149.89
+price: 150.16
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 112.42
+earnings_per_sale: 112.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/digital-products-academy?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Product Blueprint: Create Your First Digital Product
 
 > Product ID `54298` · Digistore24 productId `639860` · [HTML profile page](../../reviews/digital-product-blueprint-create-your-first-digital-product-54298.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $149.89 (Single payment) |
+| Price | $150.16 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $112.42 |
+| Earnings/sale* | $112.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-06
-- How much? — 149.8924 USD
+- How much? — 150.1604 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

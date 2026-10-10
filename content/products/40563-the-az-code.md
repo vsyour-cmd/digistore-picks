@@ -4,15 +4,15 @@ digistore24_product_id: 450647
 title: "The AZ Code"
 vendor: "azcode08"
 product_type: "E-books"
-price: 72.81
+price: 72.94
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 45.62
+earnings_per_sale: 45.7
 cart_conversion_pct: 9
 cancel_rate_pct: 38.92
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-07-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.theazcode.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The AZ Code
 
 > Product ID `40563` · Digistore24 productId `450647` · [HTML profile page](../../reviews/the-az-code-40563.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.81 (Single payment) |
+| Price | $72.94 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $45.62 |
+| Earnings/sale* | $45.70 |
 | Cart conversion* | 9% |
 | Cancel rate* | 38.92% |
 | Vendor | azcode08 |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: azcode08, listed since 2022-07-11
-- How much? — 72.809674 USD
+- How much? — 72.93985400000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

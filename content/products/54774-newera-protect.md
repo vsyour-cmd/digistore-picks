@@ -4,15 +4,15 @@ digistore24_product_id: 644676
 title: "NewEra Protect"
 vendor: "NewEraDGS"
 product_type: "Supplements - health"
-price: 328.87
+price: 329.46
 currency: "USD"
 affiliate_commission_pct: 77
-earnings_per_sale: 253.23
+earnings_per_sale: 253.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care","Food Supplements"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://neweraprotect.com/dgs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # NewEra Protect
 
 > Product ID `54774` · Digistore24 productId `644676` · [HTML profile page](../../reviews/newera-protect-54774.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.87 (Single payment) |
+| Price | $329.46 (Single payment) |
 | Affiliate commission | 77% |
-| Earnings/sale* | $253.23 |
+| Earnings/sale* | $253.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NewEraDGS |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NewEraDGS, listed since 2025-10-28
-- How much? — 328.8684 USD
+- How much? — 329.45640000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

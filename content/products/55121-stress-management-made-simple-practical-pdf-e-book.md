@@ -4,15 +4,15 @@ digistore24_product_id: 659032
 title: "Stress Management Made Simple – Practical PDF E-Book"
 vendor: "enginucar"
 product_type: "E-books"
-price: 15.66
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.83
+earnings_per_sale: 7.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-01-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/659032?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Stress Management Made Simple – Practical PDF E-Book
 
 > Product ID `55121` · Digistore24 productId `659032` · [HTML profile page](../../reviews/stress-management-made-simple-practical-pdf-e-book-55121.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.83 |
+| Earnings/sale* | $7.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enginucar |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: enginucar, listed since 2026-01-05
-- How much? — 15.660400000000001 USD
+- How much? — 15.688400000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

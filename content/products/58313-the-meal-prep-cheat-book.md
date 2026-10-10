@@ -4,15 +4,15 @@ digistore24_product_id: 720574
 title: "The Meal Prep Cheat Book"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 25.62
+price: 25.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.81
+earnings_per_sale: 12.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Personal Development"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/720574?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Meal Prep Cheat Book
 
 > Product ID `58313` · Digistore24 productId `720574` · [HTML profile page](../../reviews/the-meal-prep-cheat-book-58313.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.62 (Single payment) |
+| Price | $25.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.81 |
+| Earnings/sale* | $12.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-12
-- How much? — 25.61594 USD
+- How much? — 25.661739999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

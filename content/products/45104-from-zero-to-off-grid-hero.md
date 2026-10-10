@@ -4,15 +4,15 @@ digistore24_product_id: 510033
 title: "From Zero To Off-Grid Hero"
 vendor: "IndependentHomestead"
 product_type: "Webinar"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.51
+earnings_per_sale: 9.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Home & Garden","Real Estate"]
 listed_since: "2023-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # From Zero To Off-Grid Hero
 
 > Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.51 |
+| Earnings/sale* | $9.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IndependentHomestead |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Webinar, vendor: IndependentHomestead, listed since 2023-08-03
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — refund within 60 day
 - Alternatives? — see the comparison table on the profile / alternatives page
 

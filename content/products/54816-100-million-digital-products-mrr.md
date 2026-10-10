@@ -4,15 +4,15 @@ digistore24_product_id: 651267
 title: "100 Million+ Digital Products -MRR"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 12.22
+price: 12.24
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.89
+earnings_per_sale: 4.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/651267?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 100 Million+ Digital Products -MRR
 
 > Product ID `54816` · Digistore24 productId `651267` · [HTML profile page](../../reviews/100-million-digital-products-mrr-54816.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.22 (Single payment) |
+| Price | $12.24 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.89 |
+| Earnings/sale* | $4.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-11-26
-- How much? — 12.215112 USD
+- How much? — 12.236952 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

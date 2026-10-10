@@ -4,15 +4,15 @@ digistore24_product_id: 647913
 title: "Promote Genesis Revival Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 154.37
+price: 154.64
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 100.34
+earnings_per_sale: 100.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://genesisrevival.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Genesis Revival Now!
 
 > Product ID `54658` · Digistore24 productId `647913` · [HTML profile page](../../reviews/promote-genesis-revival-now-54658.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $154.37 (Single payment) |
+| Price | $154.64 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $100.34 |
+| Earnings/sale* | $100.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | zenmavibe |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2025-11-12
-- How much? — 154.3668 USD
+- How much? — 154.6428 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

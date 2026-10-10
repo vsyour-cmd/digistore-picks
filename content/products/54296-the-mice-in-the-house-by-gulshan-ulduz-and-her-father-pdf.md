@@ -4,7 +4,7 @@ digistore24_product_id: 638897
 title: "THE MICE IN THE HOUSE by Gulshan Ulduz and her Father PDF"
 vendor: "DECLARATIONPLUS"
 product_type: "E-books"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.24
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638897?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # THE MICE IN THE HOUSE by Gulshan Ulduz and her Father PDF
 
 > Product ID `54296` · Digistore24 productId `638897` · [HTML profile page](../../reviews/the-mice-in-the-house-by-gulshan-ulduz-and-her-father-pdf-54296.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.24 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DECLARATIONPLUS, listed since 2025-09-30
-- How much? — 11.186 USD
+- How much? — 11.206 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

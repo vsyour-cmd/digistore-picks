@@ -4,7 +4,7 @@ digistore24_product_id: 658170
 title: "Mallorca Bucket List (English)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 15.66
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.57
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658170?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Mallorca Bucket List (English)
 
 > Product ID `55831` · Digistore24 productId `658170` · [HTML profile page](../../reviews/mallorca-bucket-list-english-55831.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.66 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.57 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: sarahvisita, listed since 2025-12-30
-- How much? — 15.660400000000001 USD
+- How much? — 15.688400000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

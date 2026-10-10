@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://feelbetter-today.com/moray-power?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC
 
 > Product ID `59956` · Digistore24 productId `738063` · [HTML profile page](../../reviews/moray-generator-new-2026-energy-product-2-epc-59956.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

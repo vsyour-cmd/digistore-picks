@@ -4,15 +4,15 @@ digistore24_product_id: 619963
 title: "Master AI in 30Days with This Plug-Play Productivity Toolkit"
 vendor: "El_patronship"
 product_type: "Downloads"
-price: 33.55
+price: 33.61
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 13.42
+earnings_per_sale: 13.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Software"]
 listed_since: "2025-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://nexora-boost.xyz/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Master AI in 30Days with This Plug-Play Productivity Toolkit
 
 > Product ID `53043` · Digistore24 productId `619963` · [HTML profile page](../../reviews/master-ai-in-30days-with-this-plug-play-productivity-toolkit-53043.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $33.55 (Single payment) |
+| Price | $33.61 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $13.42 |
+| Earnings/sale* | $13.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | El_patronship |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-06-22
-- How much? — 33.546814 USD
+- How much? — 33.606794 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

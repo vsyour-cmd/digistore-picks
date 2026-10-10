@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book3-the-floating-island-mystery&aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 50% Commission Promoting The Floating Island Mystery
 
 > Product ID `56718` · Digistore24 productId `696029` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-floating-island-mystery-56718.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 585011
 title: "GlutLess Energy And GlutLess Sleep"
 vendor: "FallonQ"
 product_type: "Supplements - health"
-price: 154.37
+price: 154.64
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 100.34
+earnings_per_sale: 100.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-12-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://tryglutless.com/home-dgs/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # GlutLess Energy And GlutLess Sleep
 
 > Product ID `50753` · Digistore24 productId `585011` · [HTML profile page](../../reviews/glutless-energy-and-glutless-sleep-50753.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $154.37 (Single payment) |
+| Price | $154.64 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $100.34 |
+| Earnings/sale* | $100.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FallonQ |
@@ -73,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: FallonQ, listed since 2024-12-09
-- How much? — 154.3668 USD
+- How much? — 154.6428 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

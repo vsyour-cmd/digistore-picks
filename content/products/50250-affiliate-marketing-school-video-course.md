@@ -4,15 +4,15 @@ digistore24_product_id: 577404
 title: "Affiliate Marketing School Video Course"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.59
+earnings_per_sale: 38.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-10-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-affiliate-marketing-school?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Affiliate Marketing School Video Course
 
 > Product ID `50250` · Digistore24 productId `577404` · [HTML profile page](../../reviews/affiliate-marketing-school-video-course-50250.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $77.18 (Single payment, Installment) |
+| Price | $77.32 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.59 |
+| Earnings/sale* | $38.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-26
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

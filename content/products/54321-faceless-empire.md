@@ -4,15 +4,15 @@ digistore24_product_id: 638759
 title: "Faceless Empire"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 14.06
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.04
+earnings_per_sale: 7.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Online Marketing","Marketing Services"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638759?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Faceless Empire
 
 > Product ID `54321` · Digistore24 productId `638759` · [HTML profile page](../../reviews/faceless-empire-54321.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.06 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.04 |
+| Earnings/sale* | $7.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-09-30
-- How much? — 14.060802 USD
+- How much? — 14.085942000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

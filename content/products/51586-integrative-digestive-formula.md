@@ -4,15 +4,15 @@ digistore24_product_id: 599474
 title: "Integrative Digestive Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 44.69
+price: 44.77
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 26.81
+earnings_per_sale: 26.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-03-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Integrative Digestive Formula
 
 > Product ID `51586` · Digistore24 productId `599474` · [HTML profile page](../../reviews/integrative-digestive-formula-51586.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $44.69 (Single payment) |
+| Price | $44.77 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $26.81 |
+| Earnings/sale* | $26.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -103,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-03-03
-- How much? — 44.68807 USD
+- How much? — 44.767970000000005 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software","Online Marketing"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://salesforgepro.netlify.app/#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # SalesForge Pro – High-Converting Landing Page Build
 
 > Product ID `58513` · Digistore24 productId `723073` · [HTML profile page](../../reviews/salesforge-pro-high-converting-landing-page-build-58513.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

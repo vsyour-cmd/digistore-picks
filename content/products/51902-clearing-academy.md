@@ -4,15 +4,15 @@ digistore24_product_id: 580186
 title: "Clearing Academy"
 vendor: "Statbrook"
 product_type: "Member area and video courses"
-price: 52.42
+price: 52.51
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 28.41
+earnings_per_sale: 28.46
 cart_conversion_pct: 5
 cancel_rate_pct: 6.94
 categories: ["Personal Development"]
 listed_since: "2024-11-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.clearingacademy.com/ds24-ritual?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Clearing Academy
 
 > Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](../../reviews/clearing-academy-51902.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $52.42 (Single payment) |
+| Price | $52.51 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $28.41 |
+| Earnings/sale* | $28.46 |
 | Cart conversion* | 5% |
 | Cancel rate* | 6.94% |
 | Vendor | Statbrook |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Statbrook, listed since 2024-11-12
-- How much? — 52.417596 USD
+- How much? — 52.511316 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

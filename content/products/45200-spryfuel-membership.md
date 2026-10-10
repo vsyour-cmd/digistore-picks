@@ -4,15 +4,15 @@ digistore24_product_id: 501717
 title: "spryfuel® membership"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 318.8
+price: 319.37
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 111.58
+earnings_per_sale: 111.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-06-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://www.spryfuel.com/en/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # spryfuel® membership
 
 > Product ID `45200` · Digistore24 productId `501717` · [HTML profile page](../../reviews/spryfuel-membership-45200.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $318.80 (Subscription) |
+| Price | $319.37 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $111.58 |
+| Earnings/sale* | $111.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Insider-Media, listed since 2023-06-04
-- How much? — 318.801 USD
+- How much? — 319.37100000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

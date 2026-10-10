@@ -4,15 +4,15 @@ digistore24_product_id: 623072
 title: "Pinterest Strategy for Entrepreneurs - Brand new"
 vendor: "Soph07"
 product_type: "E-books"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.1
+earnings_per_sale: 15.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-07-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://hope-271.systeme.io/4f8ed6e2?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Pinterest Strategy for Entrepreneurs - Brand new
 
 > Product ID `53280` · Digistore24 productId `623072` · [HTML profile page](../../reviews/pinterest-strategy-for-entrepreneurs-brand-new-53280.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.10 |
+| Earnings/sale* | $15.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Soph07 |
@@ -82,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Soph07, listed since 2025-07-09
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

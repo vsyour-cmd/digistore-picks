@@ -4,15 +4,15 @@ digistore24_product_id: 629110
 title: "LingChat - Get Fluent wit AI"
 vendor: "secondwavetech"
 product_type: "Software"
-price: 78.29
+price: 78.43
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.97
+earnings_per_sale: 47.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Software"]
 listed_since: "2025-08-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.lingchat.pro/dg_sale.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # LingChat - Get Fluent wit AI
 
 > Product ID `53463` · Digistore24 productId `629110` · [HTML profile page](../../reviews/lingchat-get-fluent-wit-ai-53463.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $78.29 (Subscription) |
+| Price | $78.43 (Subscription) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.97 |
+| Earnings/sale* | $47.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | secondwavetech |
@@ -71,7 +71,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: secondwavetech, listed since 2025-08-12
-- How much? — 78.290814 USD
+- How much? — 78.43079399999999 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

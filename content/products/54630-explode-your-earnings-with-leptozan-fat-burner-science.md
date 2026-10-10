@@ -4,15 +4,15 @@ digistore24_product_id: 644659
 title: "Explode Your Earnings with Leptozan • Fat Burner Science"
 vendor: "leptozan"
 product_type: "Supplements - for slimming"
-price: 328.87
+price: 329.46
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 213.76
+earnings_per_sale: 214.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.leptozan.com/ds/newdiscovery/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Explode Your Earnings with Leptozan • Fat Burner Science
 
 > Product ID `54630` · Digistore24 productId `644659` · [HTML profile page](../../reviews/explode-your-earnings-with-leptozan-fat-burner-science-54630.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $328.87 (Single payment) |
+| Price | $329.46 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $213.76 |
+| Earnings/sale* | $214.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | leptozan |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: leptozan, listed since 2025-10-28
-- How much? — 328.8684 USD
+- How much? — 329.45640000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

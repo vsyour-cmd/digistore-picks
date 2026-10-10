@@ -4,15 +4,15 @@ digistore24_product_id: 574811
 title: "50 Ways to use ChatGPT in Business"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 23.18
+price: 23.22
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.18
+earnings_per_sale: 5.19
 cart_conversion_pct: 3
 cancel_rate_pct: 4.97
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-10-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/top-50-ways-to-use-chatgpt?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 50 Ways to use ChatGPT in Business
 
 > Product ID `50015` · Digistore24 productId `574811` · [HTML profile page](../../reviews/50-ways-to-use-chatgpt-in-business-50015.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.18 (Single payment) |
+| Price | $23.22 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.18 |
+| Earnings/sale* | $5.19 |
 | Cart conversion* | 3% |
 | Cancel rate* | 4.97% |
 | Vendor | HeikoBoos |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2024-10-11
-- How much? — 23.177392 USD
+- How much? — 23.218832 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

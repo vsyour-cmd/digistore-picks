@@ -4,12 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What&#39;s new — DigistorePicks</title>
-<meta name="description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1243 Digistore24 products tracked.">
+<meta name="description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1255 Digistore24 products tracked.">
 <link rel="canonical" href="https://vsyour-cmd.github.io/digistore-picks/changelog.html">
 <meta property="og:site_name" content="DigistorePicks">
 <meta property="og:type" content="website">
 <meta property="og:title" content="What&#39;s new — DigistorePicks">
-<meta property="og:description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1243 Digistore24 products tracked.">
+<meta property="og:description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1255 Digistore24 products tracked.">
 <meta property="og:url" content="https://vsyour-cmd.github.io/digistore-picks/changelog.html">
 <meta property="og:image" content="https://vsyour-cmd.github.io/digistore-picks/assets/og-default.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -34,6 +34,9 @@
 <main id="main" class="wrap">
 <h1>What's new on DigistorePicks</h1>
 <p class="sub">Every improvement, logged daily. Marketplace data refreshes automatically each morning; the numbers across the site update with it.</p>
+<h2>2026-10-10</h2>
+<p>Error-check pass: audit tooling fixed (schema audit now actually validates @graph entities — Product/Breadcrumb/Organization across 6452 pages, all pass), false duplicate-title hits removed, vendor-directory cross-links added, CJK-contaminated vendor descriptions cleaned, delisted-offer ghost pages pruned via new prune-stale.js step. QA gates all green.</p>
+<ul><li>audit-schema.js: @graph flattening + stats key fix — Product/Breadcrumb/Organization validation now real</li><li>audit-full / audit-inlinks / qa-links: duplicate dir entries removed (123 false duplicate-title hits gone); DE qa-links sitemap logic synced</li><li>build-dataset.js: CJK sentences stripped from vendor descriptions (4 offers); empty-label fallback</li><li>build-site.js: vendor hub pages link to the Vendor directory (orphan fixed)</li><li>prune-stale.js added to the pipeline: removes pages of delisted offers, shrunk pagination and dropped vendor hubs (21 stale files)</li><li>patch-imagesitemap.js syntax repaired; docs/update-runbook.md documents the prune step</li></ul>
 <h2>2026-10-10</h2>
 <p>Category guides expanded to all categories (blog 13→42 pages EN), internal-link audit completed (fixed monthly-new orphan), schema-rating skipped honestly (no verifiable rating data). Credibility scores: all page types &gt;=60.</p>
 <ul><li>29 new EN category data guides (every category with 5+ offers)</li><li>Internal-link audit tool added (audit-inlinks.js); monthly-new orphan fixed via sitewide footer link</li><li>QA: all gates green across 6271 pages</li></ul>
@@ -61,7 +64,7 @@
 </main>
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> DigistorePicks contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
-  <div>© 2026 DigistorePicks · Product data: Digistore24 marketplace (updated 2026-10-09) · <a href="./about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website: 4271 Digistore24-Produkte</a> · <a href="./changelog.html">What's new</a></div>
+  <div>© 2026 DigistorePicks · Product data: Digistore24 marketplace (updated 2026-10-10) · <a href="./about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website: 4271 Digistore24-Produkte</a> · <a href="./changelog.html">What's new</a></div>
 </div></footer>
 <script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>

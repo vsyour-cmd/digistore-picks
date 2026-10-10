@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-02-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.fromzerotocommission.site/ds24?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # From Zero to Commission
 
 > Product ID `55620` · Digistore24 productId `667922` · [HTML profile page](../../reviews/from-zero-to-commission-55620.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

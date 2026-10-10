@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Personal Development"]
 listed_since: "2025-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.alm3rfa.xyz/nono_wisdom_project/ai-for-life-bundle/sale-page?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Unlock Your Full Potential with AI For Life Bundle
 
 > Product ID `53790` · Digistore24 productId `631232` · [HTML profile page](../../reviews/unlock-your-full-potential-with-ai-for-life-bundle-53790.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 641817
 title: "ViriFlow"
 vendor: "ViriFlow"
 product_type: "Supplements - health"
-price: 245.02
+price: 245.46
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 156.98
+earnings_per_sale: 157.27
 cart_conversion_pct: 10
 cancel_rate_pct: 14.43
 categories: ["Food Supplements"]
 listed_since: "2025-10-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://viriflow24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ViriFlow
 
 > Product ID `54413` · Digistore24 productId `641817` · [HTML profile page](../../reviews/viriflow-54413.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $245.02 (Single payment) |
+| Price | $245.46 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $156.98 |
+| Earnings/sale* | $157.27 |
 | Cart conversion* | 10% |
 | Cancel rate* | 14.43% |
 | Vendor | ViriFlow |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ViriFlow, listed since 2025-10-16
-- How much? — 245.018144 USD
+- How much? — 245.456224 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

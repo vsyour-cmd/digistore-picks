@@ -4,15 +4,15 @@ digistore24_product_id: 698862
 title: "Ebook - The Authentic Self System"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 25.72
+price: 25.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.86
+earnings_per_sale: 12.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-06-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/698862?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The Authentic Self System
 
 > Product ID `56816` · Digistore24 productId `698862` · [HTML profile page](../../reviews/ebook-the-authentic-self-system-56816.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.72 (Single payment) |
+| Price | $25.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.86 |
+| Earnings/sale* | $12.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-06-05
-- How much? — 25.716614 USD
+- How much? — 25.762594 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

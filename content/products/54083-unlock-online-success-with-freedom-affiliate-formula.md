@@ -4,15 +4,15 @@ digistore24_product_id: 620652
 title: "Unlock Online Success With Freedom Affiliate Formula"
 vendor: "commissionhero"
 product_type: "Member area and video courses"
-price: 74.95
+price: 75.08
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 56.21
+earnings_per_sale: 56.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-06-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.getfreedomaffiliate.com/v1?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Unlock Online Success With Freedom Affiliate Formula
 
 > Product ID `54083` · Digistore24 productId `620652` · [HTML profile page](../../reviews/unlock-online-success-with-freedom-affiliate-formula-54083.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $74.95 (Single payment) |
+| Price | $75.08 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $56.21 |
+| Earnings/sale* | $56.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | commissionhero |
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: commissionhero, listed since 2025-06-25
-- How much? — 74.9462 USD
+- How much? — 75.0802 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

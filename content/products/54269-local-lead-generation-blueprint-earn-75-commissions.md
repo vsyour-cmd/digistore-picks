@@ -4,15 +4,15 @@ digistore24_product_id: 639579
 title: "Local Lead Generation Blueprint | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 168.91
+price: 169.21
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 126.68
+earnings_per_sale: 126.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Local Lead Generation Blueprint | Earn 75% Commissions
 
 > Product ID `54269` · Digistore24 productId `639579` · [HTML profile page](../../reviews/local-lead-generation-blueprint-earn-75-commissions-54269.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $168.91 (Single payment) |
+| Price | $169.21 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $126.68 |
+| Earnings/sale* | $126.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
-- How much? — 168.9086 USD
+- How much? — 169.2106 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

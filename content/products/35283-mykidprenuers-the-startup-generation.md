@@ -4,15 +4,15 @@ digistore24_product_id: 365629
 title: "myKidPrenuers : The StartUp Generation"
 vendor: "workshaft"
 product_type: "E-books"
-price: 27.97
+price: 28.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.98
+earnings_per_sale: 14.01
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2021-01-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://51percent.wixsite.com/mykidpreneurs?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # myKidPrenuers : The StartUp Generation
 
 > Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](../../reviews/mykidprenuers-the-startup-generation-35283.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.96 (Single payment) |
+| Price | $28.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.98 |
+| Earnings/sale* | $14.01 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | workshaft |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: workshaft, listed since 2021-01-03
-- How much? — 27.965 USD
+- How much? — 28.015 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

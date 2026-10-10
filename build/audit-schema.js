@@ -9,7 +9,7 @@ const DATA = {
 };
 const ROOTS = { en: "G:/Digistore24/site", de: "G:/Digistore24/site-de" };
 const SITE_URLS = { en: "https://vsyour-cmd.github.io/digistore-picks", de: "https://vsyour-cmd.github.io/digistore-picks-de" };
-const DIRS = { en: ["reviews", "category", "alternatives", "best-of", "blog", "vendors", "vendors", "."], de: ["produkte", "kategorie", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "."] };
+const DIRS = { en: ["reviews", "category", "alternatives", "best-of", "blog", "vendors", "."], de: ["produkte", "kategorie", "alternativen", "empfehlungen", "blog", "hersteller", "."] };
 const PAGE_DIR = { en: "reviews", de: "produkte" };
 const EXEMPT = /^(404|google[0-9a-f]+)\.html$/;
 
@@ -35,16 +35,22 @@ for (const lang of ["en", "de"]) {
       for (const m of html.matchAll(/<script type="application\/ld\+json">([\s\S]*?)<\/script>/g)) {
         try { blocks.push(JSON.parse(m[1])); } catch (e) { issues.push(`${lang}/${rel}: JSON-LD 解析失败`); }
       }
-      const types = blocks.map((b) => b["@type"]);
+      // @graph 展平:嵌套实体(Product+Offer/Organization/Breadcrumb 等)同样纳入校验
+      const ents = [];
+      for (const b of blocks) {
+        if (Array.isArray(b)) ents.push(...b.filter((x) => x && typeof x === "object"));
+        else if (b && typeof b === "object" && Array.isArray(b["@graph"])) ents.push(...b["@graph"].filter((x) => x && typeof x === "object"));
+        else if (b && typeof b === "object") ents.push(b);
+      }
+      const types = ents.map((b) => b["@type"]);
 
       // 实体混乱检查:每页至多 1 个 Product / 1 个 FAQPage / 1 个 Organization
       const count = (t) => types.filter((x) => x === t).length;
-      if (freeCount) stats.free = (stats.free || 0) + 1;
       if (count("Product") > 1) issues.push(`${lang}/${rel}: ${count("Product")} 个 Product 实体(冲突)`);
       if (count("FAQPage") > 1) issues.push(`${lang}/${rel}: ${count("FAQPage")} 个 FAQPage(冲突)`);
       if (count("Organization") > 1) issues.push(`${lang}/${rel}: ${count("Organization")} 个 Organization(冲突)`);
 
-      for (const b of blocks) {
+      for (const b of ents) {
         stats[b["@type"]] = (stats[b["@type"]] || 0) + 1;
         if (b["@type"] === "Product") {
           // 必填
@@ -102,12 +108,13 @@ for (const lang of ["en", "de"]) {
           if (!Array.isArray(b.sameAs) || !b.sameAs.length) issues.push(`${lang}/${rel}: Organization 缺 sameAs(官媒)`);
         }
       }
+      if (freeCount) stats.free = (stats.free || 0) + 1;
     }
   }
 }
 
 console.log("=== Schema 覆盖统计 ===");
-console.log(`页面: ${stats.pages} | Product: ${stats.product} | FAQPage: ${stats.faq} | Breadcrumb: ${stats.breadcrumb} | Organization: ${stats.organization} | CollectionPage: ${stats.collectionPage} | Article: ${stats.article} | WebSite: ${stats.website} | ItemList: ${stats.itemList}`);
+console.log(`页面: ${stats.pages} | Product: ${stats["Product"] || 0} | FAQPage: ${stats.faq} | Breadcrumb: ${stats["BreadcrumbList"] || 0} | Organization: ${stats["Organization"] || 0} | CollectionPage: ${stats["CollectionPage"] || 0} | Article: ${stats["Article"] || 0} | WebSite: ${stats["WebSite"] || 0} | ItemList: ${stats["ItemList"] || 0}`);
 if (issues.length) {
   console.log(`\n=== 问题 (${issues.length}) ===`);
   const uniq = [...new Set(issues)];

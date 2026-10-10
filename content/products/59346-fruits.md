@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Hobby & Craft"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/734686?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Fruits
 
 > Product ID `59346` · Digistore24 productId `734686` · [HTML profile page](../../reviews/fruits-59346.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 365097
 title: "Blood Pressure 911"
 vendor: "Phytage"
 product_type: "Supplements - health"
-price: 78.25
+price: 78.39
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.86
+earnings_per_sale: 50.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-12-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://ds.bloodpressure911.com/bp911slowv2/index.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Blood Pressure 911
 
 > Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](../../reviews/blood-pressure-911-38142.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $78.25 (Single payment) |
+| Price | $78.39 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.86 |
+| Earnings/sale* | $50.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Phytage |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Phytage, listed since 2020-12-29
-- How much? — 78.24607 USD
+- How much? — 78.38597 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

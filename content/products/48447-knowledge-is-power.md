@@ -4,15 +4,15 @@ digistore24_product_id: 555279
 title: "Knowledge is Power"
 vendor: "RonaldoFraga"
 product_type: "E-books"
-price: 15.66
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 10.96
+earnings_per_sale: 10.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2024-06-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Knowledge is Power
 
 > Product ID `48447` · Digistore24 productId `555279` · [HTML profile page](../../reviews/knowledge-is-power-48447.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.66 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $10.96 |
+| Earnings/sale* | $10.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RonaldoFraga |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: RonaldoFraga, listed since 2024-06-03
-- How much? — 15.660400000000001 USD
+- How much? — 15.688400000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

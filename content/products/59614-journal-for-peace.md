@@ -4,15 +4,15 @@ digistore24_product_id: 736678
 title: "Journal For Peace"
 vendor: "team24-ssulani"
 product_type: "Member area and video courses"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 9
-earnings_per_sale: 2.01
+earnings_per_sale: 2.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://journalforpeace-mg2.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Journal For Peace
 
 > Product ID `59614` · Digistore24 productId `736678` · [HTML profile page](../../reviews/journal-for-peace-59614.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 9% |
-| Earnings/sale* | $2.01 |
+| Earnings/sale* | $2.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | team24-ssulani |
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: team24-ssulani, listed since 2026-09-23
-- How much? — 22.360813999999998 USD
+- How much? — 22.400793999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

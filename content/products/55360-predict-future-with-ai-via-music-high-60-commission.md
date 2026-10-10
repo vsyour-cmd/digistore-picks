@@ -4,15 +4,15 @@ digistore24_product_id: 661564
 title: "Predict Future with AI via Music | High 60% Commission"
 vendor: "patricia_sekael"
 product_type: "Downloads"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 18.12
+earnings_per_sale: 18.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2026-01-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://sekael.com/sing-and-solve-accounting-predict-the-future-with-data-ai/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Predict Future with AI via Music | High 60% Commission
 
 > Product ID `55360` · Digistore24 productId `661564` · [HTML profile page](../../reviews/predict-future-with-ai-via-music-high-60-commission-55360.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $18.12 |
+| Earnings/sale* | $18.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | patricia_sekael |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: patricia_sekael, listed since 2026-01-15
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

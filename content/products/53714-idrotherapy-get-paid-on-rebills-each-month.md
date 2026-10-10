@@ -4,15 +4,15 @@ digistore24_product_id: 629810
 title: "Idrotherapy *GET PAID ON REBILLS EACH MONTH*"
 vendor: "koshea76"
 product_type: "Deliverable"
-price: 114.72
+price: 114.93
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 92.93
+earnings_per_sale: 93.1
 cart_conversion_pct: 2
 cancel_rate_pct: 1.97
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2025-08-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://e-idrotherapylove.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Idrotherapy *GET PAID ON REBILLS EACH MONTH*
 
 > Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](../../reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $114.72 (Single payment) |
+| Price | $114.93 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $92.93 |
+| Earnings/sale* | $93.10 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.97% |
 | Vendor | koshea76 |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: koshea76, listed since 2025-08-15
-- How much? — 114.723616 USD
+- How much? — 114.928736 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

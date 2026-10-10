@@ -4,15 +4,15 @@ digistore24_product_id: 520212
 title: "Unlock Earnings! Promote PinealXT!"
 vendor: "Nutraville"
 product_type: "Supplements - health"
-price: 201.84
+price: 202.2
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 151.89
+earnings_per_sale: 152.17
 cart_conversion_pct: 13
 cancel_rate_pct: 9.97
 categories: ["Food Supplements"]
 listed_since: "2023-10-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pxt.pinealxt.com/ds/presentation/index.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Unlock Earnings! Promote PinealXT!
 
 > Product ID `45830` · Digistore24 productId `520212` · [HTML profile page](../../reviews/unlock-earnings-promote-pinealxt-45830.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $201.84 (Single payment) |
+| Price | $202.20 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $151.89 |
+| Earnings/sale* | $152.17 |
 | Cart conversion* | 13% |
 | Cancel rate* | 9.97% |
 | Vendor | Nutraville |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2023-10-10
-- How much? — 201.840184 USD
+- How much? — 202.201064 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

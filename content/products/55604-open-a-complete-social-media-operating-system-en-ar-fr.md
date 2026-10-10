@@ -4,15 +4,15 @@ digistore24_product_id: 665621
 title: "Open — A Complete Social Media Operating System (EN/AR/FR)"
 vendor: "El_patronship"
 product_type: "Downloads"
-price: 22.26
+price: 22.3
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 7.8
+earnings_per_sale: 7.81
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-01-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://nexora-boost.xyz/social%20media/dist/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Open — A Complete Social Media Operating System (EN/AR/FR)
 
 > Product ID `55604` · Digistore24 productId `665621` · [HTML profile page](../../reviews/open-a-complete-social-media-operating-system-en-ar-fr-55604.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.26 (Single payment) |
+| Price | $22.30 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $7.80 |
+| Earnings/sale* | $7.81 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | El_patronship |
@@ -69,7 +69,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2026-01-31
-- How much? — 22.26014 USD
+- How much? — 22.29994 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

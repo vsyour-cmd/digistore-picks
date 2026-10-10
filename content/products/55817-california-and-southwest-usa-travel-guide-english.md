@@ -4,15 +4,15 @@ digistore24_product_id: 658149
 title: "California and Southwest USA Travel Guide (English)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 26.85
+price: 26.89
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 2.68
+earnings_per_sale: 2.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658149?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # California and Southwest USA Travel Guide (English)
 
 > Product ID `55817` · Digistore24 productId `658149` · [HTML profile page](../../reviews/california-and-southwest-usa-travel-guide-english-55817.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $26.85 (Single payment) |
+| Price | $26.89 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $2.68 |
+| Earnings/sale* | $2.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sarahvisita |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: sarahvisita, listed since 2025-12-30
-- How much? — 26.846400000000003 USD
+- How much? — 26.8944 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

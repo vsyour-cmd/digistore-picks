@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-05-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://digistore.harmoniabybeatrix.com/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Métabo-Cycle 45 — Carb Rotation Method for Women 45+
 
 > Product ID `56539` · Digistore24 productId `689253` · [HTML profile page](../../reviews/m-tabo-cycle-45-carb-rotation-method-for-women-45-56539.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

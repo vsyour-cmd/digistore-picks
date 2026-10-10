@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-08-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://splendid-lokum-a774ff.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The High-Protein Fat Loss Cookbook
 
 > Product ID `58168` · Digistore24 productId `719051` · [HTML profile page](../../reviews/the-high-protein-fat-loss-cookbook-58168.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

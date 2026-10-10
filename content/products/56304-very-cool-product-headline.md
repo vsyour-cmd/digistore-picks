@@ -4,15 +4,15 @@ digistore24_product_id: 685552
 title: "Very cool product headline"
 vendor: "team24-zahmad"
 product_type: "Deliverable"
-price: 89.49
+price: 89.65
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.74
+earnings_per_sale: 44.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Survival"]
 listed_since: "2026-04-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://coolcarspoilersalespage-c4s.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Very cool product headline
 
 > Product ID `56304` · Digistore24 productId `685552` · [HTML profile page](../../reviews/very-cool-product-headline-56304.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $89.49 (Single payment) |
+| Price | $89.65 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.74 |
+| Earnings/sale* | $44.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | team24-zahmad |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: team24-zahmad, listed since 2026-04-17
-- How much? — 89.488 USD
+- How much? — 89.648 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

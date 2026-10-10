@@ -4,7 +4,7 @@ digistore24_product_id: 658180
 title: "Lightroom Presets - Optimize Your Content!"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 21.25
+price: 21.29
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 2.13
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658180?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Lightroom Presets - Optimize Your Content!
 
 > Product ID `55898` · Digistore24 productId `658180` · [HTML profile page](../../reviews/lightroom-presets-optimize-your-content-55898.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $21.25 (Single payment) |
+| Price | $21.29 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $2.13 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: sarahvisita, listed since 2025-12-30
-- How much? — 21.2534 USD
+- How much? — 21.2914 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

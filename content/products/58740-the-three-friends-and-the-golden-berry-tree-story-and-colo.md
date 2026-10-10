@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725666?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The Three Friends and the Golden Berry Tree – Story and Colo
 
 > Product ID `58740` · Digistore24 productId `725666` · [HTML profile page](../../reviews/the-three-friends-and-the-golden-berry-tree-story-and-colo-58740.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

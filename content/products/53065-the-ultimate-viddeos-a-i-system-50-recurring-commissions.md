@@ -4,15 +4,15 @@ digistore24_product_id: 586248
 title: "The Ultimate Viddeos A.I. System | 50% Recurring Commissions"
 vendor: "viddeosai"
 product_type: "Software"
-price: 1003.38
+price: 1005.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 501.69
+earnings_per_sale: 502.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2024-12-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://viddeos.ai/yes/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Ultimate Viddeos A.I. System | 50% Recurring Commissions
 
 > Product ID `53065` · Digistore24 productId `586248` · [HTML profile page](../../reviews/the-ultimate-viddeos-a-i-system-50-recurring-commissions-53065.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1003.38 (Subscription) |
+| Price | $1005.18 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $501.69 |
+| Earnings/sale* | $502.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | viddeosai |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: viddeosai, listed since 2024-12-16
-- How much? — 1003.3842000000001 USD
+- How much? — 1005.1782000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

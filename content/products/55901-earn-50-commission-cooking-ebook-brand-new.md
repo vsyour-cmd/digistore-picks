@@ -4,15 +4,15 @@ digistore24_product_id: 675076
 title: "Earn 50% Commission | Cooking eBook | Brand New"
 vendor: "Obedsco"
 product_type: "E-books"
-price: 108.5
+price: 108.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.25
+earnings_per_sale: 54.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Food & Drink","Personal Development"]
 listed_since: "2026-03-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.obedsco.com/cookingbetter?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 50% Commission | Cooking eBook | Brand New
 
 > Product ID `55901` · Digistore24 productId `675076` · [HTML profile page](../../reviews/earn-50-commission-cooking-ebook-brand-new-55901.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $108.50 (Single payment) |
+| Price | $108.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.25 |
+| Earnings/sale* | $54.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Obedsco |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Obedsco, listed since 2026-03-10
-- How much? — 108.5042 USD
+- How much? — 108.6982 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 728381
 title: "Test Test"
 vendor: "team24-mmichalowski"
 product_type: "Member area and video courses"
-price: 124.16
+price: 124.39
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 43.46
+earnings_per_sale: 43.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://testtest-t2s.plannerpack.co?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Test Test
 
 > Product ID `58828` · Digistore24 productId `728381` · [HTML profile page](../../reviews/test-test-58828.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $124.16 (Single payment) |
+| Price | $124.39 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $43.46 |
+| Earnings/sale* | $43.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | team24-mmichalowski |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: team24-mmichalowski, listed since 2026-09-01
-- How much? — 124.16460000000001 USD
+- How much? — 124.3866 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

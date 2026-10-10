@@ -4,15 +4,15 @@ digistore24_product_id: 665897
 title: "Freelance Cash Flow Survival – Command Center (Excel OS)"
 vendor: "MohammedAsif_k"
 product_type: "Downloads"
-price: 15.66
+price: 15.69
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 7.05
+earnings_per_sale: 7.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Finances"]
 listed_since: "2026-02-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665897?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Freelance Cash Flow Survival – Command Center (Excel OS)
 
 > Product ID `55444` · Digistore24 productId `665897` · [HTML profile page](../../reviews/freelance-cash-flow-survival-command-center-excel-os-55444.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.66 (Single payment) |
+| Price | $15.69 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $7.05 |
+| Earnings/sale* | $7.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MohammedAsif_k |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: MohammedAsif_k, listed since 2026-02-02
-- How much? — 15.660400000000001 USD
+- How much? — 15.688400000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

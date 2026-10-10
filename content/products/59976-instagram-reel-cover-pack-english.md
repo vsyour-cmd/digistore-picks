@@ -4,15 +4,15 @@ digistore24_product_id: 737327
 title: "Instagram Reel Cover Pack (English)"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 16.78
+price: 16.81
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.19
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/instagram-reel-cover-starter-pack/?aff=adminstore#aff=adminstore"
@@ -22,21 +22,21 @@ language: "en"
 # Instagram Reel Cover Pack (English)
 
 > Product ID `59976` · Digistore24 productId `737327` · [HTML profile page](../../reviews/instagram-reel-cover-pack-english-59976.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.78 (Single payment) |
+| Price | $16.81 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
 | Listed since | 2026-09-27 |
-| Auto-accept affiliates | no (approval required) |
+| Auto-accept affiliates | yes |
 | Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-09-27
-- How much? — 16.779 USD
+- How much? — 16.809 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

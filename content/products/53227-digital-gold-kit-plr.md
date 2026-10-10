@@ -4,15 +4,15 @@ digistore24_product_id: 624648
 title: "Digital Gold Kit Plr"
 vendor: "daianeandrew"
 product_type: "E-books"
-price: 55.93
+price: 56.03
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 33.56
+earnings_per_sale: 33.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2025-07-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/624648?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Gold Kit Plr
 
 > Product ID `53227` · Digistore24 productId `624648` · [HTML profile page](../../reviews/digital-gold-kit-plr-53227.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $55.93 (Single payment) |
+| Price | $56.03 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $33.56 |
+| Earnings/sale* | $33.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | daianeandrew |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: daianeandrew, listed since 2025-07-17
-- How much? — 55.93 USD
+- How much? — 56.03 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Personal Development"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725048?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # 50% Comm | High-Converting Business Ebook!
 
 > Product ID `58346` · Digistore24 productId `725048` · [HTML profile page](../../reviews/50-comm-high-converting-business-ebook-58346.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

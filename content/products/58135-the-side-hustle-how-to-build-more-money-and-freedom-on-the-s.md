@@ -4,15 +4,15 @@ digistore24_product_id: 718120
 title: "The Side Hustle How to Build More Money and Freedom on the S"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.1
+earnings_per_sale: 15.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job","Finances"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/718120?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Side Hustle How to Build More Money and Freedom on the S
 
 > Product ID `58135` · Digistore24 productId `718120` · [HTML profile page](../../reviews/the-side-hustle-how-to-build-more-money-and-freedom-on-the-s-58135.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.10 |
+| Earnings/sale* | $15.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

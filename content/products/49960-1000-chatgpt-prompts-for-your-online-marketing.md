@@ -4,15 +4,15 @@ digistore24_product_id: 574095
 title: "1000+ ChatGPT Prompts for your Online Marketing"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 33.22
+price: 33.28
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.61
+earnings_per_sale: 16.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-10-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/1000-chatgpt-prompts-for-online-marketing/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 1000+ ChatGPT Prompts for your Online Marketing
 
 > Product ID `49960` · Digistore24 productId `574095` · [HTML profile page](../../reviews/1000-chatgpt-prompts-for-your-online-marketing-49960.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $33.22 (Single payment, Installment) |
+| Price | $33.28 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.61 |
+| Earnings/sale* | $16.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-07
-- How much? — 33.22242 USD
+- How much? — 33.28182 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 669266
 title: "NEW: Health and Fitness 101 / Download"
 vendor: "Livemanuals"
 product_type: "E-books"
-price: 40.26
+price: 40.33
 currency: "USD"
 affiliate_commission_pct: 72
-earnings_per_sale: 28.98
+earnings_per_sale: 29.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-02-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/669266?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # NEW: Health and Fitness 101 / Download
 
 > Product ID `55949` · Digistore24 productId `669266` · [HTML profile page](../../reviews/new-health-and-fitness-101-download-55949.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.26 (Single payment) |
+| Price | $40.33 (Single payment) |
 | Affiliate commission | 72% |
-| Earnings/sale* | $28.98 |
+| Earnings/sale* | $29.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Livemanuals |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Livemanuals, listed since 2026-02-17
-- How much? — 40.258414 USD
+- How much? — 40.330394000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

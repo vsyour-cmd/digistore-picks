@@ -7,11 +7,10 @@ for (const [f, dirName, imgDir] of [
 ]) {
   let s = fs.readFileSync(f, "utf8");
   if (s.includes("image:image")) { console.log(f, "already"); continue; }
-  // 渲染段:支持 image 字段
-  s = s.replace(
-    `${"${"}urls.map((u) => `  <url>\n    <loc>${"${"}u.loc}</loc>\n    <lastmod>${"${"}u.lastmod}</lastmod>\n  </url>`).join("\n")}`,
-    `${"${"}urls.map((u) => `  <url>\n    <loc>${"${"}u.loc}</loc>\n    <lastmod>${"${"}u.lastmod}</lastmod>${"${"}u.image ? `\n    <image:image>\n      <image:loc>${"${"}u.image}</image:loc>\n    </image:image>` : ""}\n  </url>`).join("\n")}`
-  );
+  // 渲染段:支持 image 字段(单引号字符串避免嵌套模板字面量语法错误)
+  const OLD_SITEMAP = '${urls.map((u) => `  <url>\\n    <loc>${u.loc}</loc>\\n    <lastmod>${u.lastmod}</lastmod>\\n  </url>`).join("\\n")}';
+  const NEW_SITEMAP = '${urls.map((u) => `  <url>\\n    <loc>${u.loc}</loc>\\n    <lastmod>${u.lastmod}</lastmod>${u.image ? `\\n    <image:image>\\n      <image:loc>${u.image}</image:loc>\\n    </image:image>` : ""}\\n  </url>`).join("\\n")}';
+  s = s.replace(OLD_SITEMAP, NEW_SITEMAP);
   // 产品页 add 时附带本地图
   const addImg = `
 // 本地图 manifest → 绝对 URL(图片 sitemap)

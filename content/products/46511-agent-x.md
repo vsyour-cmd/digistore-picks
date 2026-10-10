@@ -4,15 +4,15 @@ digistore24_product_id: 527515
 title: "Agent X"
 vendor: "remixable"
 product_type: "Software"
-price: 531.34
+price: 532.29
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 265.67
+earnings_per_sale: 266.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2023-11-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getagentx.com/order?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Agent X
 
 > Product ID `46511` · Digistore24 productId `527515` · [HTML profile page](../../reviews/agent-x-46511.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $531.34 (Single payment) |
+| Price | $532.28 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $265.67 |
+| Earnings/sale* | $266.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | remixable |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: remixable, listed since 2023-11-29
-- How much? — 531.335 USD
+- How much? — 532.285 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

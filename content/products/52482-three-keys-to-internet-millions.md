@@ -4,15 +4,15 @@ digistore24_product_id: 610042
 title: "Three Keys to Internet Millions"
 vendor: "TrudeauConsulting"
 product_type: "Member area and video courses"
-price: 1115.24
+price: 1117.24
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 334.57
+earnings_per_sale: 335.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2025-04-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.trudeautraining.com/threekeys2v3?new_run=true&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Three Keys to Internet Millions
 
 > Product ID `52482` · Digistore24 productId `610042` · [HTML profile page](../../reviews/three-keys-to-internet-millions-52482.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1115.24 (Single payment) |
+| Price | $1117.24 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $334.57 |
+| Earnings/sale* | $335.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TrudeauConsulting |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: TrudeauConsulting, listed since 2025-04-29
-- How much? — 1115.2442 USD
+- How much? — 1117.2382 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

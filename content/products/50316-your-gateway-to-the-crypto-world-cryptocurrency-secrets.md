@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Trading Products"]
 listed_since: "2024-11-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-cryptocurrency-secrets?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Your Gateway to the Crypto World – Cryptocurrency Secrets!
 
 > Product ID `50316` · Digistore24 productId `578528` · [HTML profile page](../../reviews/your-gateway-to-the-crypto-world-cryptocurrency-secrets-50316.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

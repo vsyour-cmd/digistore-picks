@@ -4,15 +4,15 @@ digistore24_product_id: 454227
 title: "NEW: Backyard Healing Herbs PHYSICAL BOOK"
 vendor: "BackyardHealingHerbs"
 product_type: "Book (printed)"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.04
+earnings_per_sale: 31.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2022-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.healingbackyard.net/index.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # NEW: Backyard Healing Herbs PHYSICAL BOOK
 
 > Product ID `40804` · Digistore24 productId `454227` · [HTML profile page](../../reviews/new-backyard-healing-herbs-physical-book-40804.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.04 |
+| Earnings/sale* | $31.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BackyardHealingHerbs |
@@ -102,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: BackyardHealingHerbs, listed since 2022-08-05
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

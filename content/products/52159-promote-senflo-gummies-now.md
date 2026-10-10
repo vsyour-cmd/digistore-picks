@@ -4,15 +4,15 @@ digistore24_product_id: 605513
 title: "Promote  SenFlo Gummies Now!"
 vendor: "senflo777"
 product_type: "Supplements - health"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 35.63
+earnings_per_sale: 35.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-04-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://senflogummies.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote  SenFlo Gummies Now!
 
 > Product ID `52159` · Digistore24 productId `605513` · [HTML profile page](../../reviews/promote-senflo-gummies-now-52159.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $35.63 |
+| Earnings/sale* | $35.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | senflo777 |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: senflo777, listed since 2025-04-04
-- How much? — 54.8114 USD
+- How much? — 54.909400000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

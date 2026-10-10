@@ -4,15 +4,15 @@ digistore24_product_id: 603717
 title: "Promote Pineal Guardian Now!"
 vendor: "Nutraville"
 product_type: "Supplements - health"
-price: 241.84
+price: 242.27
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 225.29
+earnings_per_sale: 225.69
 cart_conversion_pct: 9
 cancel_rate_pct: 9.48
 categories: ["Food Supplements"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pinealguardianvip.com/ds/indexts.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Pineal Guardian Now!
 
 > Product ID `48317` · Digistore24 productId `603717` · [HTML profile page](../../reviews/promote-pineal-guardian-now-48317.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $241.84 (Single payment) |
+| Price | $242.27 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $225.29 |
+| Earnings/sale* | $225.69 |
 | Cart conversion* | 9% |
 | Cancel rate* | 9.48% |
 | Vendor | Nutraville |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2025-03-25
-- How much? — 241.84132 USD
+- How much? — 242.27372 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

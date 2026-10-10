@@ -6,13 +6,13 @@ vendor: "mayakannan"
 product_type: "E-books"
 price: 57.93
 currency: "USD"
-affiliate_commission_pct: 60
-earnings_per_sale: 34.76
+affiliate_commission_pct: 75
+earnings_per_sale: 43.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Politics & Economy"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mayanomics.org/book/digistore?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # A Play Book on GeoEconomicc and Investment for the New World
 
 > Product ID `59367` · Digistore24 productId `726006` · [HTML profile page](../../reviews/a-play-book-on-geoeconomicc-and-investment-for-the-new-world-59367.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -30,8 +30,8 @@ language: "en"
 |---|---|
 | Product type | E-books |
 | Price | $57.93 (Single payment) |
-| Affiliate commission | 60% |
-| Earnings/sale* | $34.76 |
+| Affiliate commission | 75% |
+| Earnings/sale* | $43.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mayakannan |

@@ -4,15 +4,15 @@ digistore24_product_id: 674411
 title: "The No-Regret Decision System™"
 vendor: "fkcproject"
 product_type: "Downloads"
-price: 11.59
+price: 11.61
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 10.76
+earnings_per_sale: 10.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Leadership & Management"]
 listed_since: "2026-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/674411?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The No-Regret Decision System™
 
 > Product ID `55954` · Digistore24 productId `674411` · [HTML profile page](../../reviews/the-no-regret-decision-system-55954.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.59 (Single payment) |
+| Price | $11.61 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $10.76 |
+| Earnings/sale* | $10.78 |
 | Cart conversion* | 0% |
 | Cancel rate* | 0% |
 | Vendor | fkcproject |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: fkcproject, listed since 2026-03-07
-- How much? — 11.588696 USD
+- How much? — 11.609416 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

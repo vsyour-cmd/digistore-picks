@@ -4,15 +4,15 @@ digistore24_product_id: 606698
 title: "Advanced Prostate Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 55.87
+price: 55.97
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 33.52
+earnings_per_sale: 33.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-04-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Advanced Prostate Formula
 
 > Product ID `52093` · Digistore24 productId `606698` · [HTML profile page](../../reviews/advanced-prostate-formula-52093.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $55.87 (Single payment) |
+| Price | $55.97 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $33.52 |
+| Earnings/sale* | $33.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-04-10
-- How much? — 55.87407 USD
+- How much? — 55.97397000000001 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 576752
 title: "Heal Your Parent Wound"
 vendor: "DrGhazalehBailey"
 product_type: "Member area and video courses"
-price: 73.83
+price: 73.96
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.15
+earnings_per_sale: 22.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Personal Development"]
 listed_since: "2024-10-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://individual-therapy-berlin.de/online-courses/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Heal Your Parent Wound
 
 > Product ID `50698` · Digistore24 productId `576752` · [HTML profile page](../../reviews/heal-your-parent-wound-50698.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.83 (Single payment) |
+| Price | $73.96 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.15 |
+| Earnings/sale* | $22.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrGhazalehBailey |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: DrGhazalehBailey, listed since 2024-10-23
-- How much? — 73.8276 USD
+- How much? — 73.95960000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

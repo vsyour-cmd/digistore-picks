@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Software"]
 listed_since: "2026-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/software-testing-course/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Software Testing Course
 
 > Product ID `58099` · Digistore24 productId `617455` · [HTML profile page](../../reviews/software-testing-course-58099.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

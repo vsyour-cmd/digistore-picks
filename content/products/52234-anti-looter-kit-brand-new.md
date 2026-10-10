@@ -4,15 +4,15 @@ digistore24_product_id: 592999
 title: "Anti-Looter Kit - BRAND NEW!"
 vendor: "antilooterkit"
 product_type: "Deliverable"
-price: 192.43
+price: 192.78
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 50.68
+earnings_per_sale: 50.77
 cart_conversion_pct: 18
 cancel_rate_pct: 3.55
 categories: ["Survival"]
 listed_since: "2025-01-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.antilooter-kit.com/main?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Anti-Looter Kit - BRAND NEW!
 
 > Product ID `52234` · Digistore24 productId `592999` · [HTML profile page](../../reviews/anti-looter-kit-brand-new-52234.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $192.43 (Single payment) |
+| Price | $192.78 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $50.68 |
+| Earnings/sale* | $50.77 |
 | Cart conversion* | 18% |
 | Cancel rate* | 3.55% |
 | Vendor | antilooterkit |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: antilooterkit, listed since 2025-01-29
-- How much? — 192.432758 USD
+- How much? — 192.77681800000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

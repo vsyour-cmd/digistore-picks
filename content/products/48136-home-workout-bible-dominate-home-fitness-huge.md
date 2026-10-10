@@ -4,15 +4,15 @@ digistore24_product_id: 551528
 title: "Home Workout Bible - Dominate Home Fitness - Huge $$$$$"
 vendor: "emrkts"
 product_type: "E-books"
-price: 19.02
+price: 19.05
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 13.31
+earnings_per_sale: 13.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-05-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://yourhomeworkout.com/bible/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Home Workout Bible - Dominate Home Fitness - Huge $$$$$
 
 > Product ID `48136` · Digistore24 productId `551528` · [HTML profile page](../../reviews/home-workout-bible-dominate-home-fitness-huge-48136.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.02 (Single payment) |
+| Price | $19.05 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $13.31 |
+| Earnings/sale* | $13.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | emrkts |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: emrkts, listed since 2024-05-08
-- How much? — 19.0162 USD
+- How much? — 19.0502 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

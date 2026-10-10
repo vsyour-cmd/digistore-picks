@@ -4,15 +4,15 @@ digistore24_product_id: 540531
 title: "Tube Magic - AI Tools For Growing on YouTube"
 vendor: "tubemagic"
 product_type: "Software"
-price: 1026.3
+price: 1028.14
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 253.49
+earnings_per_sale: 253.94
 cart_conversion_pct: 1
 cancel_rate_pct: 8.94
 categories: ["Computer & Internet","Social Media","Software"]
 listed_since: "2024-02-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://tubemagic.com/ds?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Tube Magic - AI Tools For Growing on YouTube
 
 > Product ID `47386` · Digistore24 productId `540531` · [HTML profile page](../../reviews/tube-magic-ai-tools-for-growing-on-youtube-47386.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1026.30 (Subscription) |
+| Price | $1028.14 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $253.49 |
+| Earnings/sale* | $253.94 |
 | Cart conversion* | 1% |
 | Cancel rate* | 8.94% |
 | Vendor | tubemagic |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: tubemagic, listed since 2024-02-23
-- How much? — 1026.304314 USD
+- How much? — 1028.139294 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

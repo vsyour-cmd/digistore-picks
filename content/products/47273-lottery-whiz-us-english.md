@@ -4,15 +4,15 @@ digistore24_product_id: 540224
 title: "Lottery Whiz /US /English"
 vendor: "lottowhiz"
 product_type: "Member area and video courses"
-price: 423.95
+price: 424.71
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 275.57
+earnings_per_sale: 276.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems","Business & Investment","Fun & Games"]
 listed_since: "2024-02-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://lotterywhiz.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Lottery Whiz /US /English
 
 > Product ID `47273` · Digistore24 productId `540224` · [HTML profile page](../../reviews/lottery-whiz-us-english-47273.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $423.95 (Single payment) |
+| Price | $424.71 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $275.57 |
+| Earnings/sale* | $276.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lottowhiz |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: lottowhiz, listed since 2024-02-22
-- How much? — 423.9494 USD
+- How much? — 424.7074 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

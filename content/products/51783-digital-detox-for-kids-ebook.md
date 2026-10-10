@@ -4,15 +4,15 @@ digistore24_product_id: 602583
 title: "Digital Detox for Kids - eBook"
 vendor: "AAnchorBiz"
 product_type: "E-books"
-price: 15.65
+price: 15.68
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 29.43
+earnings_per_sale: 29.48
 cart_conversion_pct: 5
 cancel_rate_pct: 7.82
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-03-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://aanchorbiz.com/digital-detox-for-kids-frontend/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Detox for Kids - eBook
 
 > Product ID `51783` · Digistore24 productId `602583` · [HTML profile page](../../reviews/digital-detox-for-kids-ebook-51783.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.68 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $29.43 |
+| Earnings/sale* | $29.48 |
 | Cart conversion* | 5% |
 | Cancel rate* | 7.82% |
 | Vendor | AAnchorBiz |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: AAnchorBiz, listed since 2025-03-19
-- How much? — 15.649214 USD
+- How much? — 15.677194 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

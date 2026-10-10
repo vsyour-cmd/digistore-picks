@@ -4,15 +4,15 @@ digistore24_product_id: 576442
 title: "Earn 60% Commission Promoting Advanced Collagen Plus!"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 138.9
+price: 139.14
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 111.84
+earnings_per_sale: 112.04
 cart_conversion_pct: 3
 cancel_rate_pct: 5.5
 categories: ["Health & Fitness","Skin Care","Food Supplements"]
 listed_since: "2024-10-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 60% Commission Promoting Advanced Collagen Plus!
 
 > Product ID `50134` · Digistore24 productId `576442` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-collagen-plus-50134.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $138.90 (Single payment) |
+| Price | $139.14 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $111.84 |
+| Earnings/sale* | $112.04 |
 | Cart conversion* | 3% |
 | Cancel rate* | 5.5% |
 | Vendor | soundview |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2024-10-21
-- How much? — 138.89656200000002 USD
+- How much? — 139.144902 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 638412
 title: "The Freedom Code"
 vendor: "AspireVerse"
 product_type: "E-books"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 12.29
+earnings_per_sale: 12.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2025-09-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://freedomcode.aspireonecs.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Freedom Code
 
 > Product ID `54212` · Digistore24 productId `638412` · [HTML profile page](../../reviews/the-freedom-code-54212.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $12.29 |
+| Earnings/sale* | $12.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AspireVerse |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: AspireVerse, listed since 2025-09-28
-- How much? — 22.360813999999998 USD
+- How much? — 22.400793999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

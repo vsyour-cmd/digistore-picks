@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Personal Development"]
 listed_since: "2025-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Unlock Your Potential with The Ultimate Life Transformation
 
 > Product ID `53791` · Digistore24 productId `631236` · [HTML profile page](../../reviews/unlock-your-potential-with-the-ultimate-life-transformation-53791.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

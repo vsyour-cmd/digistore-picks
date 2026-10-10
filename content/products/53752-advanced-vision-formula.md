@@ -4,15 +4,15 @@ digistore24_product_id: 630841
 title: "Advanced Vision Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 78.25
+price: 78.39
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.95
+earnings_per_sale: 47.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-08-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Advanced Vision Formula
 
 > Product ID `53752` · Digistore24 productId `630841` · [HTML profile page](../../reviews/advanced-vision-formula-53752.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $78.25 (Single payment) |
+| Price | $78.39 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.95 |
+| Earnings/sale* | $47.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-08-20
-- How much? — 78.24607 USD
+- How much? — 78.38597 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

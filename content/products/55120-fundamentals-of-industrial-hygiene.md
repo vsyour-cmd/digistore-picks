@@ -4,15 +4,15 @@ digistore24_product_id: 654493
 title: "Fundamentals of industrial hygiene"
 vendor: "WirtschaftspraxisJuergens"
 product_type: "Member area and video courses"
-price: 99.56
+price: 99.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.78
+earnings_per_sale: 49.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Fundamentals of industrial hygiene
 
 > Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](../../reviews/fundamentals-of-industrial-hygiene-55120.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $99.56 (Single payment) |
+| Price | $99.73 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.78 |
+| Earnings/sale* | $49.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | WirtschaftspraxisJuergens |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: WirtschaftspraxisJuergens, listed since 2025-12-10
-- How much? — 99.5554 USD
+- How much? — 99.7334 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

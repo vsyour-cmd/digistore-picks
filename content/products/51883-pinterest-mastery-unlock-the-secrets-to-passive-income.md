@@ -4,15 +4,15 @@ digistore24_product_id: 604288
 title: "Pinterest Mastery: Unlock the Secrets to Passive Income"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 16.78
+price: 16.81
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.39
+earnings_per_sale: 8.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
 listed_since: "2025-03-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/604288?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Pinterest Mastery: Unlock the Secrets to Passive Income
 
 > Product ID `51883` · Digistore24 productId `604288` · [HTML profile page](../../reviews/pinterest-mastery-unlock-the-secrets-to-passive-income-51883.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.78 (Single payment) |
+| Price | $16.81 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.39 |
+| Earnings/sale* | $8.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-03-28
-- How much? — 16.779 USD
+- How much? — 16.809 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

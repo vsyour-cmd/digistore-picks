@@ -4,15 +4,15 @@ digistore24_product_id: 732626
 title: "Earn 20% Commission on Our 30-Video Vacation-Rental Package"
 vendor: "wdpxdigitalproducts"
 product_type: "Remote service provided electronically"
-price: 3130.96
+price: 3136.56
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 626.19
+earnings_per_sale: 627.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Real Estate","Marketing Services"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://airbnb.wdpx.de/video-pakete/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 20% Commission on Our 30-Video Vacation-Rental Package
 
 > Product ID `59155` · Digistore24 productId `732626` · [HTML profile page](../../reviews/earn-20-commission-on-our-30-video-vacation-rental-package-59155.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $3130.96 (Single payment) |
+| Price | $3136.56 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $626.19 |
+| Earnings/sale* | $627.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wdpxdigitalproducts |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Remote service provided electronically, vendor: wdpxdigitalproducts, listed since 2026-09-13
-- How much? — 3130.9614 USD
+- How much? — 3136.5594 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

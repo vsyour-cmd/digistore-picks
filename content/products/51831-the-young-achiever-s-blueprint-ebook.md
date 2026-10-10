@@ -4,15 +4,15 @@ digistore24_product_id: 602748
 title: "The Young Achiever's Blueprint - eBook"
 vendor: "AAnchorBiz"
 product_type: "E-books"
-price: 15.69
+price: 15.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 29.48
+earnings_per_sale: 29.53
 cart_conversion_pct: 4
 cancel_rate_pct: 7.68
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-03-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://aanchorbiz.com/the-young-achievers-blueprint-frontend/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Young Achiever's Blueprint - eBook
 
 > Product ID `51831` · Digistore24 productId `602748` · [HTML profile page](../../reviews/the-young-achiever-s-blueprint-ebook-51831.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.69 (Single payment) |
+| Price | $15.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $29.48 |
+| Earnings/sale* | $29.53 |
 | Cart conversion* | 4% |
 | Cancel rate* | 7.68% |
 | Vendor | AAnchorBiz |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: AAnchorBiz, listed since 2025-03-20
-- How much? — 15.693958 USD
+- How much? — 15.722018 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

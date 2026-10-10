@@ -4,15 +4,15 @@ digistore24_product_id: 543164
 title: "9 Ways to build an Online Business"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 20.12
+price: 20.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.07
+earnings_per_sale: 10.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-03-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/9-ways-to-your-online-business?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 9 Ways to build an Online Business
 
 > Product ID `50004` · Digistore24 productId `543164` · [HTML profile page](../../reviews/9-ways-to-build-an-online-business-50004.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.12 (Single payment, Installment) |
+| Price | $20.16 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.07 |
+| Earnings/sale* | $10.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2024-03-11
-- How much? — 20.123614 USD
+- How much? — 20.159594 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 650998
 title: "Benable Affiliate Bestie Guide-Earn Commissions on Benable"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 28.22
+price: 28.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.12
+earnings_per_sale: 14.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-11-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/650998?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Benable Affiliate Bestie Guide-Earn Commissions on Benable
 
 > Product ID `54801` · Digistore24 productId `650998` · [HTML profile page](../../reviews/benable-affiliate-bestie-guide-earn-commissions-on-benable-54801.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.22 (Single payment) |
+| Price | $28.27 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-11-25
-- How much? — 28.222278000000003 USD
+- How much? — 28.272738 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

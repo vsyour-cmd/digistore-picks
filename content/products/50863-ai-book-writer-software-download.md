@@ -4,15 +4,15 @@ digistore24_product_id: 588740
 title: "AI Book Writer - Software Download"
 vendor: "buerger"
 product_type: "Software"
-price: 33.55
+price: 33.61
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 10.07
+earnings_per_sale: 10.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2025-01-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.aibookwriter.de/en?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # AI Book Writer - Software Download
 
 > Product ID `50863` · Digistore24 productId `588740` · [HTML profile page](../../reviews/ai-book-writer-software-download-50863.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $33.55 (Single payment) |
+| Price | $33.61 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $10.07 |
+| Earnings/sale* | $10.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | buerger |
@@ -72,7 +72,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: buerger, listed since 2025-01-04
-- How much? — 33.546814 USD
+- How much? — 33.606794 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

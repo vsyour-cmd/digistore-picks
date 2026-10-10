@@ -4,15 +4,15 @@ digistore24_product_id: 616627
 title: "24 Menus from Madeira - A Culinary Journey"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 22.15
+price: 22.19
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.54
+earnings_per_sale: 5.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Travel & Culture"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.madeira.cc/cookbook?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 24 Menus from Madeira - A Culinary Journey
 
 > Product ID `52762` · Digistore24 productId `616627` · [HTML profile page](../../reviews/24-menus-from-madeira-a-culinary-journey-52762.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.15 (Single payment) |
+| Price | $22.19 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.54 |
+| Earnings/sale* | $5.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | madeira-bus |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: madeira-bus, listed since 2025-06-04
-- How much? — 22.148280000000003 USD
+- How much? — 22.18788 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

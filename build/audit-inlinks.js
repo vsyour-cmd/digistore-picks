@@ -4,8 +4,8 @@ const fs = require("fs");
 const path = require("path");
 
 const SITES = [
-  { lang: "en", root: "G:/Digistore24/site", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "vendors", "vendors", "vendors", "vendors", "vendors"] },
-  { lang: "de", root: "G:/Digistore24/site-de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller"] },
+  { lang: "en", root: "G:/Digistore24/site", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors"] },
+  { lang: "de", root: "G:/Digistore24/site-de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller"] },
 ];
 
 for (const S of SITES) {

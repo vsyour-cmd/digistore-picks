@@ -4,15 +4,15 @@ digistore24_product_id: 571050
 title: "VigoSurge - Your Next Top ED Offer"
 vendor: "vigosurge"
 product_type: "Supplements - health"
-price: 88.37
+price: 88.53
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.44
+earnings_per_sale: 57.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getvigosurge.cc/vs-discovery?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # VigoSurge - Your Next Top ED Offer
 
 > Product ID `49959` · Digistore24 productId `571050` · [HTML profile page](../../reviews/vigosurge-your-next-top-ed-offer-49959.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $88.37 (Single payment) |
+| Price | $88.53 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.44 |
+| Earnings/sale* | $57.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | vigosurge |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: vigosurge, listed since 2024-09-18
-- How much? — 88.3694 USD
+- How much? — 88.5274 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

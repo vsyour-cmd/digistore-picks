@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.mayaness.org/shop/cqi-foundation-certification/digistore?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Promote the No1 Credential in Quantum AI-Earn 50% commission
 
 > Product ID `59012` · Digistore24 productId `727617` · [HTML profile page](../../reviews/promote-the-no1-credential-in-quantum-ai-earn-50-commission-59012.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

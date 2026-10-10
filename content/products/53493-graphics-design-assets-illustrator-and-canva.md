@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Marketing Services"]
 listed_since: "2025-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/627583?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Graphics Design Assets - Illustrator and Canva
 
 > Product ID `53493` · Digistore24 productId `627583` · [HTML profile page](../../reviews/graphics-design-assets-illustrator-and-canva-53493.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

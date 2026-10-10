@@ -4,15 +4,15 @@ digistore24_product_id: 635891
 title: "Feng Shui for Modern Living – Harmony, Health, Wealth"
 vendor: "secondwavetech"
 product_type: "E-books"
-price: 4.36
+price: 4.37
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 3.49
+earnings_per_sale: 3.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Health & Fitness"]
 listed_since: "2025-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/635891?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Feng Shui for Modern Living – Harmony, Health, Wealth
 
 > Product ID `54058` · Digistore24 productId `635891` · [HTML profile page](../../reviews/feng-shui-for-modern-living-harmony-health-wealth-54058.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $4.36 (Single payment) |
+| Price | $4.37 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $3.49 |
+| Earnings/sale* | $3.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | secondwavetech |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: secondwavetech, listed since 2025-09-16
-- How much? — 4.36254 USD
+- How much? — 4.37034 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

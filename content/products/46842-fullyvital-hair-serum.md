@@ -4,15 +4,15 @@ digistore24_product_id: 569717
 title: "FullyVital Hair Serum"
 vendor: "fullyvital25"
 product_type: "Deliverable"
-price: 174.5
+price: 174.81
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 104.7
+earnings_per_sale: 104.89
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gro.fullyvital.com/aff/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # FullyVital Hair Serum
 
 > Product ID `46842` · Digistore24 productId `569717` · [HTML profile page](../../reviews/fullyvital-hair-serum-46842.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $174.50 (Single payment) |
+| Price | $174.81 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $104.70 |
+| Earnings/sale* | $104.89 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fullyvital25 |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: fullyvital25, listed since 2024-09-10
-- How much? — 174.5016 USD
+- How much? — 174.8136 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

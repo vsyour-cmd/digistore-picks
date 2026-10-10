@@ -4,15 +4,15 @@ digistore24_product_id: 538086
 title: "Neotonics"
 vendor: "Neotonics"
 product_type: "Supplements - health"
-price: 205.1
+price: 205.46
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 115.26
+earnings_per_sale: 115.47
 cart_conversion_pct: 2
 cancel_rate_pct: 18.14
 categories: ["Food Supplements"]
 listed_since: "2024-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://neotonics24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Neotonics
 
 > Product ID `47117` · Digistore24 productId `538086` · [HTML profile page](../../reviews/neotonics-47117.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $205.10 (Single payment) |
+| Price | $205.46 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $115.26 |
+| Earnings/sale* | $115.47 |
 | Cart conversion* | 2% |
 | Cancel rate* | 18.14% |
 | Vendor | Neotonics |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Neotonics, listed since 2024-02-08
-- How much? — 205.09531 USD
+- How much? — 205.46201 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

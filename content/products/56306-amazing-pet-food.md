@@ -4,7 +4,7 @@ digistore24_product_id: 685592
 title: "Amazing Pet Food"
 vendor: "team24-paratan"
 product_type: "Deliverable"
-price: 33.56
+price: 33.62
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 3.36
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-04-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/685592?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Amazing Pet Food
 
 > Product ID `56306` · Digistore24 productId `685592` · [HTML profile page](../../reviews/amazing-pet-food-56306.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $33.56 (Single payment) |
+| Price | $33.62 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $3.36 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: team24-paratan, listed since 2026-04-17
-- How much? — 33.558 USD
+- How much? — 33.618 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 736403
 title: "Amazon KDP for Beginners – Plan an Original Book with Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 88.37
+price: 88.53
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.35
+earnings_per_sale: 35.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736403?lang=en&aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Amazon KDP for Beginners – Plan an Original Book with Matze
 
 > Product ID `59579` · Digistore24 productId `736403` · [HTML profile page](../../reviews/amazon-kdp-for-beginners-plan-an-original-book-with-matze-59579.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $88.37 (Single payment) |
+| Price | $88.53 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.35 |
+| Earnings/sale* | $35.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -77,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 88.3694 USD
+- How much? — 88.5274 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

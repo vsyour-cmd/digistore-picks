@@ -4,15 +4,15 @@ digistore24_product_id: 555846
 title: "Self-guided scavenger hunt Würzburg | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.96
+earnings_per_sale: 10.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2024-06-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.hint-caching.com/scavenger-hunt-wuerzburg/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Self-guided scavenger hunt Würzburg | Hint-Caching
 
 > Product ID `51182` · Digistore24 productId `555846` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-w-rzburg-hint-caching-51182.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.96 |
+| Earnings/sale* | $10.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hintcaching |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: hintcaching, listed since 2024-06-06
-- How much? — 54.8114 USD
+- How much? — 54.909400000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

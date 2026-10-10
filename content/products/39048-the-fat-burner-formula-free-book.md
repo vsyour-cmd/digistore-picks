@@ -12,7 +12,7 @@ cart_conversion_pct: 12
 cancel_rate_pct: 30.52
 categories: ["Food & Drink"]
 listed_since: "2022-02-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://makeyouslim.info/the-fat-burner-formula/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # The Fat Burner Formula Free Book
 
 > Product ID `39048` · Digistore24 productId `428288` · [HTML profile page](../../reviews/the-fat-burner-formula-free-book-39048.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: produktmanagerin, listed since 2022-02-06
-- How much? — 2.147712 USD
+- How much? — 2.151552 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

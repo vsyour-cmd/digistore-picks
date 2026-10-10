@@ -4,15 +4,15 @@ digistore24_product_id: 730547
 title: "Arabic-English Language Course A1 Lessons 1–50 with Audi"
 vendor: "nowdigitalproducts"
 product_type: "Downloads"
-price: 16.67
+price: 16.7
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.33
+earnings_per_sale: 8.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/730547?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Arabic-English Language Course A1 Lessons 1–50 with Audi
 
 > Product ID `59447` · Digistore24 productId `730547` · [HTML profile page](../../reviews/arabic-english-language-course-a1-lessons-1-50-with-audi-59447.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.67 (Single payment) |
+| Price | $16.70 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.33 |
+| Earnings/sale* | $8.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | nowdigitalproducts |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: nowdigitalproducts, listed since 2026-09-21
-- How much? — 16.66714 USD
+- How much? — 16.69694 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

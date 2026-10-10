@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Project Management"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Career Compass for Scrum
 
 > Product ID `57807` · Digistore24 productId `601268` · [HTML profile page](../../reviews/career-compass-for-scrum-57807.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

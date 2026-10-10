@@ -4,15 +4,15 @@ digistore24_product_id: 491495
 title: "7-Figure ELITE Partnership"
 vendor: "Perpincome"
 product_type: "Member area and video courses"
-price: 1030.44
+price: 1032.29
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 419.86
+earnings_per_sale: 420.61
 cart_conversion_pct: 5
 cancel_rate_pct: 12.05
 categories: ["Email Marketing"]
 listed_since: "2023-03-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 7-Figure ELITE Partnership
 
 > Product ID `50878` · Digistore24 productId `491495` · [HTML profile page](../../reviews/7-figure-elite-partnership-50878.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1030.44 (Single payment) |
+| Price | $1032.29 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $419.86 |
+| Earnings/sale* | $420.61 |
 | Cart conversion* | 5% |
 | Cancel rate* | 12.05% |
 | Vendor | Perpincome |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Perpincome, listed since 2023-03-29
-- How much? — 1030.443134 USD
+- How much? — 1032.2855140000001 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 660498
 title: "30-Day Digital Reflection Notebook. Reflect and Grow."
 vendor: "MillionDollarBaby28"
 product_type: "Downloads"
-price: 10.07
+price: 10.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.03
+earnings_per_sale: 5.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-01-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/660498?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 30-Day Digital Reflection Notebook. Reflect and Grow.
 
 > Product ID `55661` · Digistore24 productId `660498` · [HTML profile page](../../reviews/30-day-digital-reflection-notebook-reflect-and-grow-55661.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.07 (Single payment) |
+| Price | $10.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.03 |
+| Earnings/sale* | $5.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MillionDollarBaby28 |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: MillionDollarBaby28, listed since 2026-01-11
-- How much? — 10.067400000000001 USD
+- How much? — 10.0854 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

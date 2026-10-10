@@ -4,15 +4,15 @@ digistore24_product_id: 475159
 title: "Norwegian course (advanced) based on a story (Nils)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 278.53
+price: 279.03
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.56
+earnings_per_sale: 83.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2022-12-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Norwegian course (advanced) based on a story (Nils)
 
 > Product ID `42184` · Digistore24 productId `475159` · [HTML profile page](../../reviews/norwegian-course-advanced-based-on-a-story-nils-42184.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $278.53 (Subscription) |
+| Price | $279.03 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.56 |
+| Earnings/sale* | $83.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2022-12-15
-- How much? — 278.5314 USD
+- How much? — 279.0294 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

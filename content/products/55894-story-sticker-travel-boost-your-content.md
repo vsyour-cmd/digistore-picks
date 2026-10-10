@@ -4,7 +4,7 @@ digistore24_product_id: 658182
 title: "Story Sticker TRAVEL - Boost Your Content!"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 7.83
+price: 7.84
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.78
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658182?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Story Sticker TRAVEL - Boost Your Content!
 
 > Product ID `55894` · Digistore24 productId `658182` · [HTML profile page](../../reviews/story-sticker-travel-boost-your-content-55894.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.83 (Single payment) |
+| Price | $7.84 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.78 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: sarahvisita, listed since 2025-12-31
-- How much? — 7.8302000000000005 USD
+- How much? — 7.844200000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

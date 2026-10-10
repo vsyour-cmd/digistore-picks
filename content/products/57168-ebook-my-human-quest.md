@@ -4,15 +4,15 @@ digistore24_product_id: 706747
 title: "Ebook - My Human Quest"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 82.16
+price: 82.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.09
+earnings_per_sale: 41.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706747?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - My Human Quest
 
 > Product ID `57168` · Digistore24 productId `706747` · [HTML profile page](../../reviews/ebook-my-human-quest-57168.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.16 (Single payment) |
+| Price | $82.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.09 |
+| Earnings/sale* | $41.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-06-29
-- How much? — 82.16117000000001 USD
+- How much? — 82.30807 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

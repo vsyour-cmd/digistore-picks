@@ -4,15 +4,15 @@ digistore24_product_id: 424858
 title: "The best Low Carb Recipes in less than 10 minutes free book"
 vendor: "produktmanagerin"
 product_type: "E-books"
-price: 33.5
+price: 33.56
 currency: "USD"
 affiliate_commission_pct: 100
-earnings_per_sale: 33.5
+earnings_per_sale: 33.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2022-01-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://makeyouslim.info/66-low-carb-recipes/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The best Low Carb Recipes in less than 10 minutes free book
 
 > Product ID `38853` · Digistore24 productId `424858` · [HTML profile page](../../reviews/the-best-low-carb-recipes-in-less-than-10-minutes-free-book-38853.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $33.50 (Single payment) |
+| Price | $33.56 (Single payment) |
 | Affiliate commission | 100% |
-| Earnings/sale* | $33.50 |
+| Earnings/sale* | $33.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | produktmanagerin |
@@ -101,7 +101,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: produktmanagerin, listed since 2022-01-16
-- How much? — 33.50207 USD
+- How much? — 33.56197 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

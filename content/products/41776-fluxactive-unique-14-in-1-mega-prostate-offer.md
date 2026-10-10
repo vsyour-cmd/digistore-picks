@@ -4,15 +4,15 @@ digistore24_product_id: 466656
 title: "FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer"
 vendor: "fluxactive"
 product_type: "Supplements - health"
-price: 88.37
+price: 88.53
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.44
+earnings_per_sale: 57.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-10-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getfluxactive.cc/vslv1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer
 
 > Product ID `41776` · Digistore24 productId `466656` · [HTML profile page](../../reviews/fluxactive-unique-14-in-1-mega-prostate-offer-41776.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $88.37 (Single payment) |
+| Price | $88.53 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.44 |
+| Earnings/sale* | $57.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fluxactive |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: fluxactive, listed since 2022-10-26
-- How much? — 88.3694 USD
+- How much? — 88.5274 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

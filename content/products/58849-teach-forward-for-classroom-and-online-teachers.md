@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Profession & Job"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/teach-forward/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Teach Forward (For classroom and online teachers)
 
 > Product ID `58849` · Digistore24 productId `546789` · [HTML profile page](../../reviews/teach-forward-for-classroom-and-online-teachers-58849.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 576191
 title: "Your Guide to Affiliate Marketing"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 11.15
+price: 11.17
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.58
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business"]
 listed_since: "2024-10-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/guide-to-affiliate-marketing?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Your Guide to Affiliate Marketing
 
 > Product ID `50160` · Digistore24 productId `576191` · [HTML profile page](../../reviews/your-guide-to-affiliate-marketing-50160.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.15 (Single payment) |
+| Price | $11.17 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.58 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-19
-- How much? — 11.152442 USD
+- How much? — 11.172382 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

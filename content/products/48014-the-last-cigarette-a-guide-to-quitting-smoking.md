@@ -4,15 +4,15 @@ digistore24_product_id: 550909
 title: "The Last Cigarette - A Guide to Quitting Smoking..."
 vendor: "Bavarian-RaceLabs"
 product_type: "E-books"
-price: 10.07
+price: 10.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.03
+earnings_per_sale: 5.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-05-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/550909?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Last Cigarette - A Guide to Quitting Smoking...
 
 > Product ID `48014` · Digistore24 productId `550909` · [HTML profile page](../../reviews/the-last-cigarette-a-guide-to-quitting-smoking-48014.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.07 (Single payment) |
+| Price | $10.09 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.03 |
+| Earnings/sale* | $5.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Bavarian-RaceLabs |
@@ -74,7 +74,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Bavarian-RaceLabs, listed since 2024-05-03
-- How much? — 10.067400000000001 USD
+- How much? — 10.0854 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

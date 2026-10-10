@@ -4,15 +4,15 @@ digistore24_product_id: 377170
 title: "30 Guitar Mistakes and how to fix them!"
 vendor: "Guitarschool24"
 product_type: "Member area and video courses"
-price: 32.44
+price: 32.5
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 8.11
+earnings_per_sale: 8.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2021-03-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.guitarschool24.com/guitar-mistakes/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 30 Guitar Mistakes and how to fix them!
 
 > Product ID `43789` · Digistore24 productId `377170` · [HTML profile page](../../reviews/30-guitar-mistakes-and-how-to-fix-them-43789.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.44 (Single payment) |
+| Price | $32.50 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $8.11 |
+| Earnings/sale* | $8.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Guitarschool24 |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2021-03-04
-- How much? — 32.4394 USD
+- How much? — 32.4974 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 

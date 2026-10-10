@@ -4,7 +4,7 @@ digistore24_product_id: 332846
 title: "TikTok Marketing (english)"
 vendor: "Monoly24"
 product_type: "E-books"
-price: 11.17
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.24
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media"]
 listed_since: "2020-06-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/332846?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # TikTok Marketing (english)
 
 > Product ID `33256` · Digistore24 productId `332846` · [HTML profile page](../../reviews/tiktok-marketing-english-33256.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.17 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.24 |
 | Cart conversion* | — |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Monoly24, listed since 2020-06-22
-- How much? — 11.174814000000001 USD
+- How much? — 11.194794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -55,13 +55,21 @@ function promoLink(p) {
   return `${s}${q}aff=${AFF}#aff=${AFF}`;
 }
 
+// 厂商描述去污染:整句剔除含 CJK 的句子(厂商塞入的机器翻译重复文本),保留原语言内容
+const hasCJK = (s) => /[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uff00-\uffef]/.test(s);
+const cleanDesc = (s) => {
+  if (!s || !hasCJK(s)) return s;
+  const kept = s.split(/(?<=[.!?。！？])\s+/).filter((sen) => !hasCJK(sen)).join(" ").replace(/\s{2,}/g, " ").trim();
+  return kept.length >= 40 ? kept : s;
+};
+
 const products = d.products.map((p) => {
   const img = p.imageUrl && p.imageUrl.startsWith("/pb/") ? "https://www.digistore24.com" + p.imageUrl : null;
   const r = research[p.id] || null;
   return {
     id: p.id,
     productId: p.productId,
-    label: p.label,
+    label: p.label || "Product " + p.id,
     type: p.type,
     price: p.price,
     currency: p.currency,
@@ -71,7 +79,7 @@ const products = d.products.map((p) => {
     earningsPerSale: p.earningsPerSale,
     earningsPerClick: p.earningsPerOrderformClick,
     vendorName: p.vendorName,
-    description: p.description,
+    description: cleanDesc(p.description),
     imageUrl: img,                       // marketplace 官方图(可能为 null)
     salesPageUrl: p.salesPageUrl,
     promoLink: promoLink(p),

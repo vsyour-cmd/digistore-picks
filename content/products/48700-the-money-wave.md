@@ -4,15 +4,15 @@ digistore24_product_id: 560807
 title: "The Money Wave"
 vendor: "Themoneywave"
 product_type: "Downloads"
-price: 40.3
+price: 40.38
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 24.26
+earnings_per_sale: 24.31
 cart_conversion_pct: 17
 cancel_rate_pct: 12.69
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Finances"]
 listed_since: "2024-07-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://getmoneywave.com/DS/vsl/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Money Wave
 
 > Product ID `48700` · Digistore24 productId `560807` · [HTML profile page](../../reviews/the-money-wave-48700.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $40.30 (Single payment) |
+| Price | $40.38 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $24.26 |
+| Earnings/sale* | $24.31 |
 | Cart conversion* | 17% |
 | Cancel rate* | 12.69% |
 | Vendor | Themoneywave |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Themoneywave, listed since 2024-07-11
-- How much? — 40.303158 USD
+- How much? — 40.375218000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

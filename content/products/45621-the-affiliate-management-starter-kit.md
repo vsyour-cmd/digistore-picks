@@ -4,15 +4,15 @@ digistore24_product_id: 520627
 title: "The Affiliate Management Starter Kit"
 vendor: "Affpal"
 product_type: "E-books"
-price: 22.32
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.16
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-10-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.affpal.net/the-book/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Affiliate Management Starter Kit
 
 > Product ID `45621` · Digistore24 productId `520627` · [HTML profile page](../../reviews/the-affiliate-management-starter-kit-45621.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.32 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.16 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Affpal |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Affpal, listed since 2023-10-13
-- How much? — 22.31607 USD
+- How much? — 22.35597 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

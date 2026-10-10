@@ -4,15 +4,15 @@ digistore24_product_id: 644649
 title: "Leptozan"
 vendor: "leptozan"
 product_type: "Supplements - for slimming"
-price: 176.74
+price: 177.05
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 114.88
+earnings_per_sale: 115.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.leptozan.com/ds/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Leptozan
 
 > Product ID `56051` · Digistore24 productId `644649` · [HTML profile page](../../reviews/leptozan-56051.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $176.74 (Single payment) |
+| Price | $177.05 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $114.88 |
+| Earnings/sale* | $115.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | leptozan |
@@ -99,7 +99,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: leptozan, listed since 2025-10-28
-- How much? — 176.7388 USD
+- How much? — 177.0548 USD
 - Guarantee? — 90 Days Guarantee
 - Alternatives? — see the comparison table on the profile / alternatives page
 

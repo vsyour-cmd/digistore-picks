@@ -4,15 +4,15 @@ digistore24_product_id: 726710
 title: "Ebook - The Architecture of American Power Vol VI"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.53
+price: 14.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.27
+earnings_per_sale: 7.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726710?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The Architecture of American Power Vol VI
 
 > Product ID `58703` · Digistore24 productId `726710` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-vi-58703.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.53 (Single payment) |
+| Price | $14.56 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.27 |
+| Earnings/sale* | $7.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 14.530614 USD
+- How much? — 14.556594 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

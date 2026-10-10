@@ -4,15 +4,15 @@ digistore24_product_id: 607649
 title: "Online Piercing Training since 2020"
 vendor: "MfL-Academy"
 product_type: "Member area and video courses"
-price: 986.77
+price: 988.54
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 148.01
+earnings_per_sale: 148.28
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Profession & Job"]
 listed_since: "2025-04-15"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mfl.academy/?dig=607649&aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Online Piercing Training since 2020
 
 > Product ID `53737` · Digistore24 productId `607649` · [HTML profile page](../../reviews/online-piercing-training-since-2020-53737.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $986.77 (Single payment, Installment) |
+| Price | $988.54 (Single payment, Installment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $148.01 |
+| Earnings/sale* | $148.28 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MfL-Academy |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: MfL-Academy, listed since 2025-04-15
-- How much? — 986.77299 USD
+- How much? — 988.53729 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

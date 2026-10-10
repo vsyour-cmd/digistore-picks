@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Personal Development"]
 listed_since: "2025-02-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://elevenmarketingdigital.com/secrets-of-flirting/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # SECRETS OF FLIRTING
 
 > Product ID `51325` · Digistore24 productId `595699` · [HTML profile page](../../reviews/secrets-of-flirting-51325.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 

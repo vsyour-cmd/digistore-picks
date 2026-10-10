@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/724875?aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Garden Planner and Logbook (Printable PDFs)
 
 > Product ID `58511` · Digistore24 productId `724875` · [HTML profile page](../../reviews/garden-planner-and-logbook-printable-pdfs-58511.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

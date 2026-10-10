@@ -4,15 +4,15 @@ digistore24_product_id: 639544
 title: "The Complete Social Confidence System | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 155.49
+price: 155.76
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 116.61
+earnings_per_sale: 116.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Complete Social Confidence System | Earn 75% Commissions
 
 > Product ID `54275` · Digistore24 productId `639544` · [HTML profile page](../../reviews/the-complete-social-confidence-system-earn-75-commissions-54275.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $155.49 (Single payment) |
+| Price | $155.76 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $116.61 |
+| Earnings/sale* | $116.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
-- How much? — 155.4854 USD
+- How much? — 155.76340000000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

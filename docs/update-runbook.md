@@ -50,6 +50,7 @@ node build/gen-md.js                # 每产品 MD 档案 → site/content/produ
 node build/build-site.js            # 全产品 HTML 档案页 + 分类页 + 首页 + about(SEO/GEO: canonical/OG/JSON-LD/TL;DR/面包屑)
 node build/build-blog.js            # 数据驱动博客(Article JSON-LD + Key takeaways)
 node build/build-extras.js          # sitemap.xml / robots.txt / llms.txt / feed.xml(必须在最后)
+node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂商的幽灵页(先 --dry 预览;blog/根目录手写文件不受影响)
 # 新增页面生成器:build-site.js 同时产出 alternatives/(对比页60)+ best-of/(聚合页36)+ 404.html + 分类分页
 ```
 

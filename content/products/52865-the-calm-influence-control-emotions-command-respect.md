@@ -4,15 +4,15 @@ digistore24_product_id: 615324
 title: "The Calm Influence – Control Emotions, Command Respect"
 vendor: "thecalminfluence"
 product_type: "E-books"
-price: 16.78
+price: 16.81
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 10.07
+earnings_per_sale: 10.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-05-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/615324?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Calm Influence – Control Emotions, Command Respect
 
 > Product ID `52865` · Digistore24 productId `615324` · [HTML profile page](../../reviews/the-calm-influence-control-emotions-command-respect-52865.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.78 (Single payment) |
+| Price | $16.81 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $10.07 |
+| Earnings/sale* | $10.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thecalminfluence |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: thecalminfluence, listed since 2025-05-28
-- How much? — 16.779 USD
+- How much? — 16.809 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 538129
 title: "Illuderma"
 vendor: "Illuderma"
 product_type: "Deliverable"
-price: 328.87
+price: 329.46
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 180.88
+earnings_per_sale: 181.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-02-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://illuderma24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Illuderma
 
 > Product ID `47212` · Digistore24 productId `538129` · [HTML profile page](../../reviews/illuderma-47212.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $328.87 (Single payment) |
+| Price | $329.46 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $180.88 |
+| Earnings/sale* | $181.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Illuderma |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Illuderma, listed since 2024-02-08
-- How much? — 328.8684 USD
+- How much? — 329.45640000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

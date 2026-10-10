@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services","Social Media","Software"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://tradbook.in/Digistore-plan?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Tradbook AI Automated Facebook DM, Lead Extraction Deskto
 
 > Product ID `57818` · Digistore24 productId `716468` · [HTML profile page](../../reviews/tradbook-ai-automated-facebook-dm-lead-extraction-deskto-57818.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

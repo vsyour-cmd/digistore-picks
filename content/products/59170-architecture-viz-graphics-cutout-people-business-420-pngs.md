@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Architecture VIZ Graphics – Cutout People Business 420+ PNGs
 
 > Product ID `59170` · Digistore24 productId `727737` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-people-business-420-pngs-59170.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

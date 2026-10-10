@@ -4,15 +4,15 @@ digistore24_product_id: 708884
 title: "The Viral Cat Creator Playbook"
 vendor: "monimarketstudio4664"
 product_type: "Downloads"
-price: 25.38
+price: 25.43
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.16
+earnings_per_sale: 10.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://catcreatorplaybook.netlify.app/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Viral Cat Creator Playbook
 
 > Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](../../reviews/the-viral-cat-creator-playbook-57458.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.38 (Single payment) |
+| Price | $25.43 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.16 |
+| Earnings/sale* | $10.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | monimarketstudio4664 |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: monimarketstudio4664, listed since 2026-07-08
-- How much? — 25.381034000000003 USD
+- How much? — 25.426414 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

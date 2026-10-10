@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2026-08-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://claritrix.io/ds24?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Claritrix — Weighted Decision Scorecards for B2B Teams | 50%
 
 > Product ID `58094` · Digistore24 productId `717714` · [HTML profile page](../../reviews/claritrix-weighted-decision-scorecards-for-b2b-teams-50-58094.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 

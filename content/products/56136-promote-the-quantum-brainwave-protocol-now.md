@@ -4,15 +4,15 @@ digistore24_product_id: 681275
 title: "Promote the Quantum Brainwave Protocol Now!"
 vendor: "heric0051"
 product_type: "Audio book (download)"
-price: 66
+price: 66.12
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 49.5
+earnings_per_sale: 49.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-04-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://quantumbrainprotocol.com/ds24/Tsl?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote the Quantum Brainwave Protocol Now!
 
 > Product ID `56136` · Digistore24 productId `681275` · [HTML profile page](../../reviews/promote-the-quantum-brainwave-protocol-now-56136.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $66.00 (Single payment) |
+| Price | $66.12 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $49.50 |
+| Earnings/sale* | $49.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | heric0051 |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Audio book (download), vendor: heric0051, listed since 2026-04-01
-- How much? — 65.9974 USD
+- How much? — 66.11540000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,7 +4,7 @@ digistore24_product_id: 595221
 title: "Dog Sitting Success Guide – PLR - 50% Commission"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 7.83
+price: 7.84
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.92
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Animals & Pets"]
 listed_since: "2025-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/595221?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Dog Sitting Success Guide – PLR - 50% Commission
 
 > Product ID `51305` · Digistore24 productId `595221` · [HTML profile page](../../reviews/dog-sitting-success-guide-plr-50-commission-51305.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.83 (Single payment) |
+| Price | $7.84 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.92 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-02-09
-- How much? — 7.8302000000000005 USD
+- How much? — 7.844200000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

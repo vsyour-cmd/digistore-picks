@@ -4,15 +4,15 @@ digistore24_product_id: 646969
 title: "AdaptoGen"
 vendor: "SvetDimitrov"
 product_type: "Supplements - for slimming"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 43.85
+earnings_per_sale: 43.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://suppting.com/adaptogen-4-0-2025/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # AdaptoGen
 
 > Product ID `55041` · Digistore24 productId `646969` · [HTML profile page](../../reviews/adaptogen-55041.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $43.85 |
+| Earnings/sale* | $43.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SvetDimitrov |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: SvetDimitrov, listed since 2025-11-07
-- How much? — 54.8114 USD
+- How much? — 54.909400000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

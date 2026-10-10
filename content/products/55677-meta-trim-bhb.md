@@ -4,15 +4,15 @@ digistore24_product_id: 670141
 title: "Meta Trim BHB™"
 vendor: "hummafaranpilotaa88"
 product_type: "Supplements - for slimming"
-price: 176.74
+price: 177.05
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 132.55
+earnings_per_sale: 132.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-02-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://metatrim.trustednutraproduct.com/v1/best/go/go.html?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Meta Trim BHB™
 
 > Product ID `55677` · Digistore24 productId `670141` · [HTML profile page](../../reviews/meta-trim-bhb-55677.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $176.74 (Single payment) |
+| Price | $177.05 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $132.55 |
+| Earnings/sale* | $132.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hummafaranpilotaa88 |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: hummafaranpilotaa88, listed since 2026-02-19
-- How much? — 176.7388 USD
+- How much? — 177.0548 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 639906
 title: "Next Level Reels - 8000 The Ultimate Guide"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 12.3
+price: 12.33
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 4.92
+earnings_per_sale: 4.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/639906?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Next Level Reels - 8000 The Ultimate Guide
 
 > Product ID `54318` · Digistore24 productId `639906` · [HTML profile page](../../reviews/next-level-reels-8000-the-ultimate-guide-54318.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.30 (Single payment) |
+| Price | $12.33 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $4.92 |
+| Earnings/sale* | $4.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-10-06
-- How much? — 12.3046 USD
+- How much? — 12.326600000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

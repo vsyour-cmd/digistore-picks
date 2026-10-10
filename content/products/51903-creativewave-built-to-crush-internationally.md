@@ -4,15 +4,15 @@ digistore24_product_id: 595983
 title: "CreativeWave – Built to CRUSH Internationally!"
 vendor: "primarytour"
 product_type: "Downloads"
-price: 54.81
+price: 54.91
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 43.85
+earnings_per_sale: 43.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Marketing Services"]
 listed_since: "2025-02-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/595983?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # CreativeWave – Built to CRUSH Internationally!
 
 > Product ID `51903` · Digistore24 productId `595983` · [HTML profile page](../../reviews/creativewave-built-to-crush-internationally-51903.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.81 (Single payment) |
+| Price | $54.91 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $43.85 |
+| Earnings/sale* | $43.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | primarytour |
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: primarytour, listed since 2025-02-13
-- How much? — 54.8114 USD
+- How much? — 54.909400000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

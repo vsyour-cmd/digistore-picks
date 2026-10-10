@@ -4,15 +4,15 @@ digistore24_product_id: 701228
 title: "Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window"
 vendor: "pvamaxfe8b"
 product_type: "E-books"
-price: 11.17
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 6.7
+earnings_per_sale: 6.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://shop.code-content-ai.com/ditch-windows-embrace-linux?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window
 
 > Product ID `59709` · Digistore24 productId `701228` · [HTML profile page](../../reviews/ditch-windows-embrace-linux-ubuntu-switch-guide-for-window-59709.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.17 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $6.70 |
+| Earnings/sale* | $6.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pvamaxfe8b |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: pvamaxfe8b, listed since 2026-09-25
-- How much? — 11.174814000000001 USD
+- How much? — 11.194794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

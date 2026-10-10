@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://lightstepspro24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # LightSteps Pro
 
 > Product ID `54787` · Digistore24 productId `651394` · [HTML profile page](../../reviews/lightsteps-pro-54787.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

@@ -4,15 +4,15 @@ digistore24_product_id: 679799
 title: "The Hardness Code"
 vendor: "healthcode"
 product_type: "E-books"
-price: 52.57
+price: 52.67
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 31.54
+earnings_per_sale: 31.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-03-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.thehardnesscode.com/pv-code?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Hardness Code
 
 > Product ID `56332` · Digistore24 productId `679799` · [HTML profile page](../../reviews/the-hardness-code-56332.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.57 (Single payment) |
+| Price | $52.67 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $31.54 |
+| Earnings/sale* | $31.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | healthcode |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: healthcode, listed since 2026-03-26
-- How much? — 52.574200000000005 USD
+- How much? — 52.6682 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

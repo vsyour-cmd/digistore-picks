@@ -4,15 +4,15 @@ digistore24_product_id: 606273
 title: "Print to Profit:Your Ultimate Print on Demand Business Guide"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 63.76
+price: 63.87
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 31.88
+earnings_per_sale: 31.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Services"]
 listed_since: "2025-04-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/606273?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Print to Profit:Your Ultimate Print on Demand Business Guide
 
 > Product ID `51999` · Digistore24 productId `606273` · [HTML profile page](../../reviews/print-to-profit-your-ultimate-print-on-demand-business-guide-51999.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $63.76 (Single payment) |
+| Price | $63.87 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $31.88 |
+| Earnings/sale* | $31.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-04-09
-- How much? — 63.760200000000005 USD
+- How much? — 63.8742 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

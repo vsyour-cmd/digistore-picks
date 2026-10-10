@@ -4,15 +4,15 @@ digistore24_product_id: 508710
 title: "TerraCalm"
 vendor: "TerraCalm"
 product_type: "Supplements - health"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.17
+earnings_per_sale: 50.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-07-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://terracalm24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # TerraCalm
 
 > Product ID `44848` · Digistore24 productId `508710` · [HTML profile page](../../reviews/terracalm-44848.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.17 |
+| Earnings/sale* | $50.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TerraCalm |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: TerraCalm, listed since 2023-07-24
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

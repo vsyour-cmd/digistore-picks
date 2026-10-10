@@ -4,15 +4,15 @@ digistore24_product_id: 538903
 title: "Silence Tinnitus and Hearing Issues with Zeneara!"
 vendor: "Nutraville"
 product_type: "Supplements - health"
-price: 196.55
+price: 196.9
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 66.95
+earnings_per_sale: 67.07
 cart_conversion_pct: 9
 cancel_rate_pct: 13.71
 categories: ["Food Supplements"]
 listed_since: "2024-02-13"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://zeneara.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Silence Tinnitus and Hearing Issues with Zeneara!
 
 > Product ID `47134` · Digistore24 productId `538903` · [HTML profile page](../../reviews/silence-tinnitus-and-hearing-issues-with-zeneara-47134.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $196.55 (Single payment) |
+| Price | $196.90 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $66.95 |
+| Earnings/sale* | $67.07 |
 | Cart conversion* | 9% |
 | Cancel rate* | 13.71% |
 | Vendor | Nutraville |
@@ -102,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2024-02-13
-- How much? — 196.54920600000003 USD
+- How much? — 196.90062600000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

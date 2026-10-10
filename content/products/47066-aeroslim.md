@@ -4,15 +4,15 @@ digistore24_product_id: 535461
 title: "AeroSlim"
 vendor: "AeroSlim"
 product_type: "Supplements - for slimming"
-price: 328.87
+price: 329.46
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 180.88
+earnings_per_sale: 181.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://aeroslim24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # AeroSlim
 
 > Product ID `47066` · Digistore24 productId `535461` · [HTML profile page](../../reviews/aeroslim-47066.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $328.87 (Single payment) |
+| Price | $329.46 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $180.88 |
+| Earnings/sale* | $181.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AeroSlim |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: AeroSlim, listed since 2024-01-22
-- How much? — 328.8684 USD
+- How much? — 329.45640000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

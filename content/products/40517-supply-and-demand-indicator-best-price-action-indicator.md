@@ -4,15 +4,15 @@ digistore24_product_id: 435925
 title: "⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡"
 vendor: "Ali16117"
 product_type: "Member area and video courses"
-price: 334.46
+price: 335.06
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 100.34
+earnings_per_sale: 100.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-03-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://forexbee.co/supply-and-demand-indicator-digi/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡
 
 > Product ID `40517` · Digistore24 productId `435925` · [HTML profile page](../../reviews/supply-and-demand-indicator-best-price-action-indicator-40517.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.46 (Subscription) |
+| Price | $335.06 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $100.34 |
+| Earnings/sale* | $100.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ali16117 |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Ali16117, listed since 2022-03-25
-- How much? — 334.4614 USD
+- How much? — 335.05940000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

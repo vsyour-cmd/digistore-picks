@@ -4,15 +4,15 @@ digistore24_product_id: 176307
 title: "Bitcoin ve Kripto paraları ile trading eğitimi"
 vendor: "Positivemind"
 product_type: "Member area and video courses"
-price: 1113.01
+price: 1115
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 389.55
+earnings_per_sale: 390.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2017-11-02"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://milyoner.de/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Bitcoin ve Kripto paraları ile trading eğitimi
 
 > Product ID `21751` · Digistore24 productId `176307` · [HTML profile page](../../reviews/bitcoin-ve-kripto-paralar-ile-trading-e-itimi-21751.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1113.01 (Single payment, Installment) |
+| Price | $1115.00 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $389.55 |
+| Earnings/sale* | $390.25 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Positivemind |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Positivemind, listed since 2017-11-02
-- How much? — 1113.007 USD
+- How much? — 1114.997 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

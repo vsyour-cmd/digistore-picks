@@ -4,15 +4,15 @@ digistore24_product_id: 678080
 title: "Community to Cash - Build a scalable online business"
 vendor: "tinztwins"
 product_type: "E-books"
-price: 22.26
+price: 22.3
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.13
+earnings_per_sale: 11.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://shop.towardsfinance.com/l/community-to-cash/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Community to Cash - Build a scalable online business
 
 > Product ID `56003` · Digistore24 productId `678080` · [HTML profile page](../../reviews/community-to-cash-build-a-scalable-online-business-56003.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.26 (Single payment) |
+| Price | $22.30 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.13 |
+| Earnings/sale* | $11.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tinztwins |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: tinztwins, listed since 2026-03-21
-- How much? — 22.26014 USD
+- How much? — 22.29994 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

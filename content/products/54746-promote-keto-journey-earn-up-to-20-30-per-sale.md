@@ -4,15 +4,15 @@ digistore24_product_id: 650227
 title: "Promote Keto Journey – Earn up to €20.30 per sale!"
 vendor: "Nancy021"
 product_type: "E-books"
-price: 30.2
+price: 30.26
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 21.14
+earnings_per_sale: 21.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-11-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/650227?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Keto Journey – Earn up to €20.30 per sale!
 
 > Product ID `54746` · Digistore24 productId `650227` · [HTML profile page](../../reviews/promote-keto-journey-earn-up-to-20-30-per-sale-54746.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.20 (Single payment) |
+| Price | $30.26 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $21.14 |
+| Earnings/sale* | $21.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nancy021 |
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Nancy021, listed since 2025-11-21
-- How much? — 30.2022 USD
+- How much? — 30.2562 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

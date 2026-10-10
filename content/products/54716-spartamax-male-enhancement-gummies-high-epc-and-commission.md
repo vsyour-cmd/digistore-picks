@@ -4,15 +4,15 @@ digistore24_product_id: 640293
 title: "SPARTAMAX Male Enhancement Gummies | High EPC and Commission"
 vendor: "midasman88"
 product_type: "Deliverable"
-price: 184.55
+price: 184.88
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 141.6
+earnings_per_sale: 141.86
 cart_conversion_pct: 4
 cancel_rate_pct: 7.44
 categories: ["Food Supplements"]
 listed_since: "2025-10-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getspartamax.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # SPARTAMAX Male Enhancement Gummies | High EPC and Commission
 
 > Product ID `54716` · Digistore24 productId `640293` · [HTML profile page](../../reviews/spartamax-male-enhancement-gummies-high-epc-and-commission-54716.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $184.55 (Single payment) |
+| Price | $184.88 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $141.60 |
+| Earnings/sale* | $141.86 |
 | Cart conversion* | 4% |
 | Cancel rate* | 7.44% |
 | Vendor | midasman88 |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: midasman88, listed since 2025-10-08
-- How much? — 184.546628 USD
+- How much? — 184.876588 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

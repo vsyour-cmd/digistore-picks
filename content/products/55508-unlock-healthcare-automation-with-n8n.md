@@ -4,15 +4,15 @@ digistore24_product_id: 667670
 title: "Unlock Healthcare Automation with n8n"
 vendor: "MohammedAsif_k"
 product_type: "E-books"
-price: 8.95
+price: 8.96
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 3.13
+earnings_per_sale: 3.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Software"]
 listed_since: "2026-02-09"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/667670?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Unlock Healthcare Automation with n8n
 
 > Product ID `55508` · Digistore24 productId `667670` · [HTML profile page](../../reviews/unlock-healthcare-automation-with-n8n-55508.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.95 (Single payment) |
+| Price | $8.96 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $3.13 |
+| Earnings/sale* | $3.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MohammedAsif_k |
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: MohammedAsif_k, listed since 2026-02-09
-- How much? — 8.9488 USD
+- How much? — 8.9648 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 644279
 title: "“Enjoy 60% launch commissions through January 2026! All plan"
 vendor: "earnwithease"
 product_type: "Software"
-price: 78.19
+price: 78.33
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.91
+earnings_per_sale: 47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Fun & Games"]
 listed_since: "2025-10-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://soultribe.digital/sales?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # “Enjoy 60% launch commissions through January 2026! All plan
 
 > Product ID `54525` · Digistore24 productId `644279` · [HTML profile page](../../reviews/enjoy-60-launch-commissions-through-january-2026-all-plan-54525.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $78.19 (Single payment, Subscription) |
+| Price | $78.33 (Single payment, Subscription) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.91 |
+| Earnings/sale* | $47.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | earnwithease |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: earnwithease, listed since 2025-10-27
-- How much? — 78.19014000000001 USD
+- How much? — 78.32994000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

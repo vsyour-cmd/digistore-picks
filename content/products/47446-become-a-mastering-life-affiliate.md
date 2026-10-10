@@ -4,15 +4,15 @@ digistore24_product_id: 542547
 title: "Become a \"Mastering Life\" Affiliate!"
 vendor: "Khonzani"
 product_type: "E-books"
-price: 21.25
+price: 21.29
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 8.5
+earnings_per_sale: 8.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Personal Development"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/542547?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Become a "Mastering Life" Affiliate!
 
 > Product ID `47446` · Digistore24 productId `542547` · [HTML profile page](../../reviews/become-a-mastering-life-affiliate-47446.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.25 (Single payment) |
+| Price | $21.29 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $8.50 |
+| Earnings/sale* | $8.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Khonzani |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Khonzani, listed since 2024-03-07
-- How much? — 21.2534 USD
+- How much? — 21.2914 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

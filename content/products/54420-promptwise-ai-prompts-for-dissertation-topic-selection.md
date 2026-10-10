@@ -4,7 +4,7 @@ digistore24_product_id: 641921
 title: "PromptWise - AI Prompts for Dissertation Topic Selection"
 vendor: "KingAford"
 product_type: "E-books"
-price: 16.77
+price: 16.8
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.68
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Software"]
 listed_since: "2025-10-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/641921?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # PromptWise - AI Prompts for Dissertation Topic Selection
 
 > Product ID `54420` · Digistore24 productId `641921` · [HTML profile page](../../reviews/promptwise-ai-prompts-for-dissertation-topic-selection-54420.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.77 (Single payment) |
+| Price | $16.80 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.68 |
 | Cart conversion* | — |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: KingAford, listed since 2025-10-16
-- How much? — 16.767814 USD
+- How much? — 16.797794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

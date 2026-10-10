@@ -4,15 +4,15 @@ digistore24_product_id: 630881
 title: "Unlock the Forbidden Keto Secrets to AccelerateYour Fat Loss"
 vendor: "fkcproject"
 product_type: "Downloads"
-price: 8.95
+price: 8.96
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 3.04
+earnings_per_sale: 3.05
 cart_conversion_pct: 1
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Online Marketing & E-Business"]
 listed_since: "2025-08-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630881?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Unlock the Forbidden Keto Secrets to AccelerateYour Fat Loss
 
 > Product ID `53449` · Digistore24 productId `630881` · [HTML profile page](../../reviews/unlock-the-forbidden-keto-secrets-to-accelerateyour-fat-loss-53449.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $8.95 (Single payment) |
+| Price | $8.96 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $3.04 |
+| Earnings/sale* | $3.05 |
 | Cart conversion* | 1% |
 | Cancel rate* | 0% |
 | Vendor | fkcproject |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: fkcproject, listed since 2025-08-21
-- How much? — 8.9488 USD
+- How much? — 8.9648 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 489398
 title: "Project Mobilization Plan Template"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 22.36
+price: 22.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.19
+earnings_per_sale: 11.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2023-03-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/project-mobilization-plan-template/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Project Mobilization Plan Template
 
 > Product ID `50254` · Digistore24 productId `489398` · [HTML profile page](../../reviews/project-mobilization-plan-template-50254.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.36 (Single payment) |
+| Price | $22.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2023-03-16
-- How much? — 22.360813999999998 USD
+- How much? — 22.400793999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

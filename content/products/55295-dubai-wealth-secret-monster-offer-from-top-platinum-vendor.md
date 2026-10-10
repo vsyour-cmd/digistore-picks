@@ -4,15 +4,15 @@ digistore24_product_id: 662877
 title: "Dubai Wealth Secret - Monster Offer From Top Platinum Vendor"
 vendor: "destinyaff"
 product_type: "Downloads"
-price: 48.63
+price: 48.71
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 42
+earnings_per_sale: 42.08
 cart_conversion_pct: 12
 cancel_rate_pct: 12.66
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://www.dubaiwealthsecret.com/ds-dws-vsl?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Dubai Wealth Secret - Monster Offer From Top Platinum Vendor
 
 > Product ID `55295` · Digistore24 productId `662877` · [HTML profile page](../../reviews/dubai-wealth-secret-monster-offer-from-top-platinum-vendor-55295.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $48.63 (Single payment) |
+| Price | $48.71 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $42.00 |
+| Earnings/sale* | $42.08 |
 | Cart conversion* | 12% |
 | Cancel rate* | 12.66% |
 | Vendor | destinyaff |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: destinyaff, listed since 2026-01-20
-- How much? — 48.625542 USD
+- How much? — 48.712482 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 567220
 title: "FlushFactor Plus"
 vendor: "FlushFactorPlus"
 product_type: "Supplements - health"
-price: 254.06
+price: 254.51
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 97.24
+earnings_per_sale: 97.41
 cart_conversion_pct: 2
 cancel_rate_pct: 13.68
 categories: ["Food Supplements"]
 listed_since: "2024-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://flushfactorplus24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # FlushFactor Plus
 
 > Product ID `49073` · Digistore24 productId `567220` · [HTML profile page](../../reviews/flushfactor-plus-49073.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $254.06 (Single payment) |
+| Price | $254.51 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $97.24 |
+| Earnings/sale* | $97.41 |
 | Cart conversion* | 2% |
 | Cancel rate* | 13.68% |
 | Vendor | FlushFactorPlus |
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: FlushFactorPlus, listed since 2024-08-27
-- How much? — 254.056432 USD
+- How much? — 254.51067200000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

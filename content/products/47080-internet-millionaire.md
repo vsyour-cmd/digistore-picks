@@ -4,15 +4,15 @@ digistore24_product_id: 526858
 title: "Internet Millionaire"
 vendor: "internets"
 product_type: "Member area and video courses"
-price: 2237.16
+price: 2241.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1118.58
+earnings_per_sale: 1120.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Finances"]
 listed_since: "2023-11-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://www.internetmillionaire.com/training?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Internet Millionaire
 
 > Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2237.16 (Single payment, Installment) |
+| Price | $2241.16 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1118.58 |
+| Earnings/sale* | $1120.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | internets |
@@ -116,7 +116,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: internets, listed since 2023-11-24
-- How much? — 2237.155256 USD
+- How much? — 2241.155176 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

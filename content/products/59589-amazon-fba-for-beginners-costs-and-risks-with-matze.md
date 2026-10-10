@@ -4,15 +4,15 @@ digistore24_product_id: 736416
 title: "Amazon FBA for Beginners – Costs and Risks with Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 166.67
+price: 166.97
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 66.67
+earnings_per_sale: 66.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736416?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Amazon FBA for Beginners – Costs and Risks with Matze
 
 > Product ID `59589` · Digistore24 productId `736416` · [HTML profile page](../../reviews/amazon-fba-for-beginners-costs-and-risks-with-matze-59589.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $166.67 (Single payment) |
+| Price | $166.97 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $66.67 |
+| Earnings/sale* | $66.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -77,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 166.6714 USD
+- How much? — 166.9694 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

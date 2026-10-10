@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Finances"]
 listed_since: "2026-05-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://georgeakama.lovable.app/books/beyond-charts-and-signals?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Beyond Charts and Signals
 
 > Product ID `56639` · Digistore24 productId `691446` · [HTML profile page](../../reviews/beyond-charts-and-signals-56639.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

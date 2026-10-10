@@ -1153,7 +1153,8 @@ ${rows}
 </table>
 <p class="sub">* Vendor-side marketplace statistics reported by Digistore24; they depend on traffic quality and are not a forecast. Verify prices and guarantees on official pages.</p>
 <h2>Where to go next</h2>
-${catObj ? `<p>Primary category: <a href="../category/${catObj.file}.html">${esc(catObj.label)}</a> (${catObj.count} products) · Method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</p>` : ""}`;
+${catObj ? `<p>Primary category: <a href="../category/${catObj.file}.html">${esc(catObj.label)}</a> (${catObj.count} products) · Method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</p>` : ""}
+<p><a href="index.html">← Vendor directory</a> — all top vendors with their full listings.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",

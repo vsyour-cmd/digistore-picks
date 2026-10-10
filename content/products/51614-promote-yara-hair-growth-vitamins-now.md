@@ -4,15 +4,15 @@ digistore24_product_id: 599088
 title: "Promote Yara Hair Growth Vitamins Now!"
 vendor: "yarahaircare"
 product_type: "Supplements - health"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 13.66
+earnings_per_sale: 13.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-02-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://yarahaircare.com?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Yara Hair Growth Vitamins Now!
 
 > Product ID `51614` · Digistore24 productId `599088` · [HTML profile page](../../reviews/promote-yara-hair-growth-vitamins-now-51614.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $41.39 (Subscription) |
+| Price | $41.46 (Subscription) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $13.66 |
+| Earnings/sale* | $13.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | yarahaircare |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: yarahaircare, listed since 2025-02-28
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

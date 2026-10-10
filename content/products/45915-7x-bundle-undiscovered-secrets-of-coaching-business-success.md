@@ -4,7 +4,7 @@ digistore24_product_id: 523814
 title: "7X| Bundle Undiscovered Secrets of Coaching Business Success"
 vendor: "ykarabacak"
 product_type: "E-books"
-price: 5.58
+price: 5.59
 currency: "USD"
 affiliate_commission_pct: 67
 earnings_per_sale: 3.74
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Email Marketing"]
 listed_since: "2023-11-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/523814/?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # 7X| Bundle Undiscovered Secrets of Coaching Business Success
 
 > Product ID `45915` · Digistore24 productId `523814` · [HTML profile page](../../reviews/7x-bundle-undiscovered-secrets-of-coaching-business-success-45915.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.58 (Single payment) |
+| Price | $5.59 (Single payment) |
 | Affiliate commission | 67% |
 | Earnings/sale* | $3.74 |
 | Cart conversion* | — |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: ykarabacak, listed since 2023-11-04
-- How much? — 5.5818140000000005 USD
+- How much? — 5.591794 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

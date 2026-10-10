@@ -4,7 +4,7 @@ digistore24_product_id: 566028
 title: "The Power of Positive Thinking"
 vendor: "daianeandrew"
 product_type: "E-books"
-price: 4.47
+price: 4.48
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.45
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing","Sales Training"]
 listed_since: "2024-08-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/566028?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # The Power of Positive Thinking
 
 > Product ID `53160` · Digistore24 productId `566028` · [HTML profile page](../../reviews/the-power-of-positive-thinking-53160.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $4.47 (Single payment) |
+| Price | $4.48 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.45 |
 | Cart conversion* | — |
@@ -80,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: daianeandrew, listed since 2024-08-19
-- How much? — 4.4744 USD
+- How much? — 4.4824 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

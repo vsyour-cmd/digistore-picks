@@ -4,15 +4,15 @@ digistore24_product_id: 656114
 title: "Restore Your Gut Health for better Digestion and Immunity"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 15.65
+price: 15.68
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 10.95
+earnings_per_sale: 10.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "thin"
 promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Restore Your Gut Health for better Digestion and Immunity
 
 > Product ID `55100` · Digistore24 productId `656114` · [HTML profile page](../../reviews/restore-your-gut-health-for-better-digestion-and-immunity-55100.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.68 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $10.95 |
+| Earnings/sale* | $10.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheHealthyLivingHub |
@@ -71,7 +71,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 15.649214 USD
+- How much? — 15.677194 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

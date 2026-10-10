@@ -4,15 +4,15 @@ digistore24_product_id: 639064
 title: "Synadentix"
 vendor: "Synadentix"
 product_type: "Supplements - health"
-price: 260.11
+price: 260.57
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.48
+earnings_per_sale: 128.71
 cart_conversion_pct: 4
 cancel_rate_pct: 16.81
 categories: ["Food Supplements"]
 listed_since: "2025-10-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://synadentix24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Synadentix
 
 > Product ID `54239` · Digistore24 productId `639064` · [HTML profile page](../../reviews/synadentix-54239.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $260.11 (Single payment) |
+| Price | $260.57 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.48 |
+| Earnings/sale* | $128.71 |
 | Cart conversion* | 4% |
 | Cancel rate* | 16.81% |
 | Vendor | Synadentix |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Synadentix, listed since 2025-10-01
-- How much? — 260.108058 USD
+- How much? — 260.573118 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

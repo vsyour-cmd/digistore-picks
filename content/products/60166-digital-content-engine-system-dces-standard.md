@@ -4,15 +4,15 @@ digistore24_product_id: 741537
 title: "Digital Content Engine System (DCES)™ – Standard"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 32.44
+price: 32.5
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 8.11
+earnings_per_sale: 8.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Content Engine System (DCES)™ – Standard
 
 > Product ID `60166` · Digistore24 productId `741537` · [HTML profile page](../../reviews/digital-content-engine-system-dces-standard-60166.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.44 (Single payment) |
+| Price | $32.50 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $8.11 |
+| Earnings/sale* | $8.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-10-04
-- How much? — 32.4394 USD
+- How much? — 32.4974 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

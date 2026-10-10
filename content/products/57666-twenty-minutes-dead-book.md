@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Family & Children","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/twenty-minutes-dead/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Twenty Minutes Dead Book
 
 > Product ID `57666` · Digistore24 productId `713216` · [HTML profile page](../../reviews/twenty-minutes-dead-book-57666.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

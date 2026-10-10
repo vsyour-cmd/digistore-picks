@@ -4,15 +4,15 @@ digistore24_product_id: 615305
 title: "Start Promoting the JointVive Today!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 202.82
+price: 203.19
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 85.29
+earnings_per_sale: 85.45
 cart_conversion_pct: 6
 cancel_rate_pct: 10.78
 categories: ["Food Supplements"]
 listed_since: "2025-05-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://jointvive.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Start Promoting the JointVive Today!
 
 > Product ID `52702` · Digistore24 productId `615305` · [HTML profile page](../../reviews/start-promoting-the-jointvive-today-52702.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $202.82 (Single payment) |
+| Price | $203.19 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $85.29 |
+| Earnings/sale* | $85.45 |
 | Cart conversion* | 6% |
 | Cancel rate* | 10.78% |
 | Vendor | zenmavibe |
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2025-05-27
-- How much? — 202.824552 USD
+- How much? — 203.187192 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

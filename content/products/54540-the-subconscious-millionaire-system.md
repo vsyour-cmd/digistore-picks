@@ -4,15 +4,15 @@ digistore24_product_id: 645625
 title: "The Subconscious Millionaire System"
 vendor: "darrelltee"
 product_type: "Downloads"
-price: 220.36
+price: 220.76
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 165.27
+earnings_per_sale: 165.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Subconscious Millionaire System
 
 > Product ID `54540` · Digistore24 productId `645625` · [HTML profile page](../../reviews/the-subconscious-millionaire-system-54540.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $220.36 (Single payment) |
+| Price | $220.76 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $165.27 |
+| Earnings/sale* | $165.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -79,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: darrelltee, listed since 2025-11-01
-- How much? — 220.3642 USD
+- How much? — 220.75820000000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

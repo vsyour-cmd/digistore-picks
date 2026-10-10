@@ -4,15 +4,15 @@ digistore24_product_id: 651685
 title: "Nerve Soothe"
 vendor: "premvitality"
 product_type: "Supplements - health"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 54.03
+earnings_per_sale: 54.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://secure.getnervesoothe.com/index-bp-ds?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Nerve Soothe
 
 > Product ID `55736` · Digistore24 productId `651685` · [HTML profile page](../../reviews/nerve-soothe-55736.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $54.03 |
+| Earnings/sale* | $54.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | premvitality |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: premvitality, listed since 2025-11-28
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

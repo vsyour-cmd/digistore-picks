@@ -4,15 +4,15 @@ digistore24_product_id: 460804
 title: "Old School New Body"
 vendor: "rowleyresults"
 product_type: "E-books"
-price: 22.37
+price: 22.41
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 20.13
+earnings_per_sale: 20.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-09-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "medium"
 promo_link: "https://oldschoolnewbody.com/alt/index.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Old School New Body
 
 > Product ID `42901` · Digistore24 productId `460804` · [HTML profile page](../../reviews/old-school-new-body-42901.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **medium**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.37 (Single payment) |
+| Price | $22.41 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $20.13 |
+| Earnings/sale* | $20.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rowleyresults |
@@ -74,7 +74,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: rowleyresults, listed since 2022-09-16
-- How much? — 22.372 USD
+- How much? — 22.412 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

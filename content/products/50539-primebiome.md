@@ -4,15 +4,15 @@ digistore24_product_id: 583054
 title: "PrimeBiome"
 vendor: "PrimeBiome"
 product_type: "Supplements - health"
-price: 250
+price: 250.44
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 154.62
+earnings_per_sale: 154.9
 cart_conversion_pct: 1
 cancel_rate_pct: 19.36
 categories: ["Food Supplements"]
 listed_since: "2024-11-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://primebiome24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # PrimeBiome
 
 > Product ID `50539` · Digistore24 productId `583054` · [HTML profile page](../../reviews/primebiome-50539.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $250.00 (Single payment) |
+| Price | $250.44 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $154.62 |
+| Earnings/sale* | $154.90 |
 | Cart conversion* | 1% |
 | Cancel rate* | 19.36% |
 | Vendor | PrimeBiome |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: PrimeBiome, listed since 2024-11-27
-- How much? — 249.99591400000003 USD
+- How much? — 250.44289400000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

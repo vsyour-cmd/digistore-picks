@@ -4,15 +4,15 @@ digistore24_product_id: 533765
 title: "Kerassentials"
 vendor: "Kerassentials"
 product_type: "Deliverable"
-price: 236.29
+price: 236.72
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 132.03
+earnings_per_sale: 132.26
 cart_conversion_pct: 4
 cancel_rate_pct: 17.68
 categories: ["Food Supplements"]
 listed_since: "2024-01-11"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mykerassentials24.com/text2.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Kerassentials
 
 > Product ID `46831` · Digistore24 productId `533765` · [HTML profile page](../../reviews/kerassentials-46831.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $236.29 (Single payment) |
+| Price | $236.72 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $132.03 |
+| Earnings/sale* | $132.26 |
 | Cart conversion* | 4% |
 | Cancel rate* | 17.68% |
 | Vendor | Kerassentials |
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Kerassentials, listed since 2024-01-11
-- How much? — 236.29306400000002 USD
+- How much? — 236.71554400000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

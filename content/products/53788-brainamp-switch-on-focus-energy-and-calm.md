@@ -4,15 +4,15 @@ digistore24_product_id: 630380
 title: "BrainAMP - Switch On Focus, Energy, and Calm"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 99.19
+price: 99.36
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 25.22
+earnings_per_sale: 25.27
 cart_conversion_pct: 6
 cancel_rate_pct: 45.96
 categories: ["Animals & Pets","Food & Drink","Food Supplements"]
 listed_since: "2025-08-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # BrainAMP - Switch On Focus, Energy, and Calm
 
 > Product ID `53788` · Digistore24 productId `630380` · [HTML profile page](../../reviews/brainamp-switch-on-focus-energy-and-calm-53788.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $99.19 (Single payment) |
+| Price | $99.36 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $25.22 |
+| Earnings/sale* | $25.27 |
 | Cart conversion* | 6% |
 | Cancel rate* | 45.96% |
 | Vendor | soundview |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-08-18
-- How much? — 99.186262 USD
+- How much? — 99.363602 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

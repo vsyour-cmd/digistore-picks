@@ -4,15 +4,15 @@ digistore24_product_id: 693519
 title: "80% Commission · 60-Day Done-For-You Carnivore Plan"
 vendor: "goldinline"
 product_type: "E-books"
-price: 41.39
+price: 41.46
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 33.11
+earnings_per_sale: 33.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Survival"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "none"
 promo_link: "https://healthhealing.net/carnivore-diet/aff?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # 80% Commission · 60-Day Done-For-You Carnivore Plan
 
 > Product ID `56546` · Digistore24 productId `693519` · [HTML profile page](../../reviews/80-commission-60-day-done-for-you-carnivore-plan-56546.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.39 (Single payment) |
+| Price | $41.46 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $33.11 |
+| Earnings/sale* | $33.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | goldinline |
@@ -67,7 +67,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: goldinline, listed since 2026-05-18
-- How much? — 41.388200000000005 USD
+- How much? — 41.4622 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

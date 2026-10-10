@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Services"]
 listed_since: "2026-07-04"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://byzoewomen.com/the-zoe-method-sales.html#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # 50% Commission on a $2,397 Premium Coaching Program Online
 
 > Product ID `57396` · Digistore24 productId `706133` · [HTML profile page](../../reviews/50-commission-on-a-2-397-premium-coaching-program-online-57396.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 

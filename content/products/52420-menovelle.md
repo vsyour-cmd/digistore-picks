@@ -4,15 +4,15 @@ digistore24_product_id: 612225
 title: "Menovelle"
 vendor: "Menovelle"
 product_type: "Supplements - health"
-price: 176.74
+price: 177.05
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 114.88
+earnings_per_sale: 115.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-05-12"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://menovelle24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Menovelle
 
 > Product ID `52420` · Digistore24 productId `612225` · [HTML profile page](../../reviews/menovelle-52420.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $176.74 (Single payment) |
+| Price | $177.05 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $114.88 |
+| Earnings/sale* | $115.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Menovelle |
@@ -91,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Menovelle, listed since 2025-05-12
-- How much? — 176.7388 USD
+- How much? — 177.0548 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

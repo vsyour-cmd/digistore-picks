@@ -4,15 +4,15 @@ digistore24_product_id: 525965
 title: "Reducing Stress with Meditation and Mindfulness"
 vendor: "ykarabacak"
 product_type: "E-books"
-price: 4.46
+price: 4.47
 currency: "USD"
 affiliate_commission_pct: 77
-earnings_per_sale: 3.43
+earnings_per_sale: 3.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/525965?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Reducing Stress with Meditation and Mindfulness
 
 > Product ID `46059` · Digistore24 productId `525965` · [HTML profile page](../../reviews/reducing-stress-with-meditation-and-mindfulness-46059.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $4.46 (Single payment) |
+| Price | $4.47 (Single payment) |
 | Affiliate commission | 77% |
-| Earnings/sale* | $3.43 |
+| Earnings/sale* | $3.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ykarabacak |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: ykarabacak, listed since 2023-11-19
-- How much? — 4.463214000000001 USD
+- How much? — 4.471194000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

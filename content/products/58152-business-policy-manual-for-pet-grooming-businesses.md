@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-08-05"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://pawopsstudio.com/business-policy-manual-for-pet-grooming-businesses/?aff=adminstore#aff=adminstore"
@@ -22,7 +22,7 @@ language: "en"
 # Business Policy Manual for Pet Grooming Businesses
 
 > Product ID `58152` · Digistore24 productId `714451` · [HTML profile page](../../reviews/business-policy-manual-for-pet-grooming-businesses-58152.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A practical policy and standards manual designed for small pet grooming businesses that want to create clearer operations, improve service consistency, and establish professional business standards.一本专为小型宠物美容企业设计的实用政策与标准手册，旨在帮助企业实现更清晰的运营流程、提升服务一致性，并建立专业的商业规范。 This manual provides structured policies and operating guidelines covering customer service, pet safety, scheduling, payments, staff respons…
+**Vendor's marketplace description:** This manual provides structured policies and operating guidelines covering customer service, pet safety, scheduling, payments, staff respons…
 
 ## 2. Links
 

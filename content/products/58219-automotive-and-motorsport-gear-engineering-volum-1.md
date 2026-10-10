@@ -4,15 +4,15 @@ digistore24_product_id: 718955
 title: "Automotive and Motorsport Gear Engineering – Volumе 1"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 44.74
+price: 44.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.37
+earnings_per_sale: 22.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft","Profession & Job"]
 listed_since: "2026-08-08"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/718955?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Automotive and Motorsport Gear Engineering – Volumе 1
 
 > Product ID `58219` · Digistore24 productId `718955` · [HTML profile page](../../reviews/automotive-and-motorsport-gear-engineering-volum-1-58219.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $44.74 (Single payment) |
+| Price | $44.82 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.37 |
+| Earnings/sale* | $22.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
@@ -83,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-08
-- How much? — 44.744 USD
+- How much? — 44.824 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

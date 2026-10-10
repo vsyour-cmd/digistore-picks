@@ -4,15 +4,15 @@ digistore24_product_id: 561306
 title: "ProstaLite"
 vendor: "ProstaLite"
 product_type: "Supplements - health"
-price: 168.86
+price: 169.17
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 60.08
+earnings_per_sale: 60.19
 cart_conversion_pct: 5
 cancel_rate_pct: 7.75
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-07-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://prostalite24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # ProstaLite
 
 > Product ID `48729` · Digistore24 productId `561306` · [HTML profile page](../../reviews/prostalite-48729.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $168.86 (Single payment) |
+| Price | $169.17 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $60.08 |
+| Earnings/sale* | $60.19 |
 | Cart conversion* | 5% |
 | Cancel rate* | 7.75% |
 | Vendor | ProstaLite |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ProstaLite, listed since 2024-07-16
-- How much? — 168.86385600000003 USD
+- How much? — 169.16577600000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

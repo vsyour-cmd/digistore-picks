@@ -4,7 +4,7 @@ digistore24_product_id: 736755
 title: "weight loss program"
 vendor: "litvipenkoadfc"
 product_type: "Member area and video courses"
-price: 12.3
+price: 12.33
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 4.31
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://weightlossprogram-0ok.plannerpack.fun?aff=adminstore#aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # weight loss program
 
 > Product ID `59624` · Digistore24 productId `736755` · [HTML profile page](../../reviews/weight-loss-program-59624.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $12.30 (Single payment) |
+| Price | $12.33 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $4.31 |
 | Cart conversion* | — |
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: litvipenkoadfc, listed since 2026-09-23
-- How much? — 12.3046 USD
+- How much? — 12.326600000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

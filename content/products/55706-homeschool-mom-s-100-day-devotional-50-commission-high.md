@@ -4,15 +4,15 @@ digistore24_product_id: 669825
 title: "Homeschool Mom’s 100-Day Devotional - 50% Commission - High-"
 vendor: "BookCaperSelfPublishing"
 product_type: "E-books"
-price: 11.19
+price: 11.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.59
+earnings_per_sale: 5.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/669825?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Homeschool Mom’s 100-Day Devotional - 50% Commission - High-
 
 > Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](../../reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.19 (Single payment) |
+| Price | $11.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.59 |
+| Earnings/sale* | $5.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BookCaperSelfPublishing |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BookCaperSelfPublishing, listed since 2026-02-18
-- How much? — 11.186 USD
+- How much? — 11.206 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 639763
 title: "Finding the Self– Transform Your Mind und Heart"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 14.06
+price: 14.09
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.63
+earnings_per_sale: 5.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Social Media","Personal Development"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/639763?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Finding the Self– Transform Your Mind und Heart
 
 > Product ID `54324` · Digistore24 productId `639763` · [HTML profile page](../../reviews/finding-the-self-transform-your-mind-und-heart-54324.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.06 (Single payment) |
+| Price | $14.09 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.63 |
+| Earnings/sale* | $5.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-10-06
-- How much? — 14.060802 USD
+- How much? — 14.085942000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,15 +4,15 @@ digistore24_product_id: 567223
 title: "FemiPro"
 vendor: "FemiPro"
 product_type: "Supplements - health"
-price: 236.33
+price: 236.75
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 65.8
+earnings_per_sale: 65.91
 cart_conversion_pct: 1
 cancel_rate_pct: 13.24
 categories: ["Food Supplements"]
 listed_since: "2024-08-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://myfemipro24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # FemiPro
 
 > Product ID `49067` · Digistore24 productId `567223` · [HTML profile page](../../reviews/femipro-49067.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $236.33 (Single payment) |
+| Price | $236.75 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $65.80 |
+| Earnings/sale* | $65.91 |
 | Cart conversion* | 1% |
 | Cancel rate* | 13.24% |
 | Vendor | FemiPro |
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: FemiPro, listed since 2024-08-27
-- How much? — 236.32662200000001 USD
+- How much? — 236.749162 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

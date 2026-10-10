@@ -4,15 +4,15 @@ digistore24_product_id: 638043
 title: "Clear Flux Blood Support Supplement"
 vendor: "SuperBoostNutra"
 product_type: "Supplements - health"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.59
+earnings_per_sale: 38.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-09-26"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://shop.boostedflow.com/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Clear Flux Blood Support Supplement
 
 > Product ID `54396` · Digistore24 productId `638043` · [HTML profile page](../../reviews/clear-flux-blood-support-supplement-54396.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.59 |
+| Earnings/sale* | $38.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SuperBoostNutra |
@@ -82,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: SuperBoostNutra, listed since 2025-09-26
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

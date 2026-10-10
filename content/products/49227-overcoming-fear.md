@@ -4,7 +4,7 @@ digistore24_product_id: 554491
 title: "Overcoming Fear"
 vendor: "Santttos"
 product_type: "E-books"
-price: 5.59
+price: 5.6
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 2.8
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2024-05-29"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/554491?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Overcoming Fear
 
 > Product ID `49227` · Digistore24 productId `554491` · [HTML profile page](../../reviews/overcoming-fear-49227.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $5.59 (Single payment) |
+| Price | $5.60 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $2.80 |
 | Cart conversion* | — |
@@ -76,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Santttos, listed since 2024-05-29
-- How much? — 5.593 USD
+- How much? — 5.603 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

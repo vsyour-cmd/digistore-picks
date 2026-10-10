@@ -4,15 +4,15 @@ digistore24_product_id: 549735
 title: "Quietum Plus"
 vendor: "QuietumPlus"
 product_type: "Supplements - health"
-price: 267.52
+price: 268
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 118.48
+earnings_per_sale: 118.69
 cart_conversion_pct: 4
 cancel_rate_pct: 20.04
 categories: ["Food Supplements"]
 listed_since: "2024-04-25"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://quietumplus24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Quietum Plus
 
 > Product ID `47990` · Digistore24 productId `549735` · [HTML profile page](../../reviews/quietum-plus-47990.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $267.52 (Single payment) |
+| Price | $268.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $118.48 |
+| Earnings/sale* | $118.69 |
 | Cart conversion* | 4% |
 | Cancel rate* | 20.04% |
 | Vendor | QuietumPlus |
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: QuietumPlus, listed since 2024-04-25
-- How much? — 267.524376 USD
+- How much? — 268.002696 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

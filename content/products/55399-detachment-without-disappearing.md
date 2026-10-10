@@ -4,7 +4,7 @@ digistore24_product_id: 665305
 title: "Detachment Without Disappearing"
 vendor: "MohammedAsif_k"
 product_type: "E-books"
-price: 7.83
+price: 7.84
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 2.35
@@ -12,7 +12,7 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Education","Family & Children"]
 listed_since: "2026-01-30"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/665305?aff=adminstore"
@@ -22,14 +22,14 @@ language: "en"
 # Detachment Without Disappearing
 
 > Product ID `55399` · Digistore24 productId `665305` · [HTML profile page](../../reviews/detachment-without-disappearing-55399.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.83 (Single payment) |
+| Price | $7.84 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -87,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: MohammedAsif_k, listed since 2026-01-30
-- How much? — 7.8302000000000005 USD
+- How much? — 7.844200000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

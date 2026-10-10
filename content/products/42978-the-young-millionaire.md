@@ -4,15 +4,15 @@ digistore24_product_id: 488392
 title: "The Young Millionaire"
 vendor: "DanielButogwa"
 product_type: "E-books"
-price: 27.97
+price: 28.02
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 15.38
+earnings_per_sale: 15.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2023-03-10"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/488392?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # The Young Millionaire
 
 > Product ID `42978` · Digistore24 productId `488392` · [HTML profile page](../../reviews/the-young-millionaire-42978.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.96 (Single payment) |
+| Price | $28.02 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $15.38 |
+| Earnings/sale* | $15.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DanielButogwa |
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DanielButogwa, listed since 2023-03-10
-- How much? — 27.965 USD
+- How much? — 28.015 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

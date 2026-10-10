@@ -4,15 +4,15 @@ digistore24_product_id: 454003
 title: "iGenics - Hot New Offer in the Vision Niche!(Text and Video)"
 vendor: "igenics"
 product_type: "Supplements - health"
-price: 172.69
+price: 173
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 116.03
+earnings_per_sale: 116.24
 cart_conversion_pct: 10
 cancel_rate_pct: 9.37
 categories: ["Food Supplements"]
 listed_since: "2022-08-03"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://clearvisionbreakthrough.com/tsl.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # iGenics - Hot New Offer in the Vision Niche!(Text and Video)
 
 > Product ID `41215` · Digistore24 productId `454003` · [HTML profile page](../../reviews/igenics-hot-new-offer-in-the-vision-niche-text-and-video-41215.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $172.69 (Single payment) |
+| Price | $173.00 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $116.03 |
+| Earnings/sale* | $116.24 |
 | Cart conversion* | 10% |
 | Cancel rate* | 9.37% |
 | Vendor | igenics |
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: igenics, listed since 2022-08-03
-- How much? — 172.689468 USD
+- How much? — 172.998228 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

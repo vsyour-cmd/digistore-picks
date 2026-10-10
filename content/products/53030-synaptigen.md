@@ -4,15 +4,15 @@ digistore24_product_id: 621048
 title: "Synaptigen"
 vendor: "Synaptigen"
 product_type: "Supplements - health"
-price: 246.11
+price: 246.55
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 190.92
+earnings_per_sale: 191.26
 cart_conversion_pct: 5
 cancel_rate_pct: 13
 categories: ["Food Supplements"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "http://synaptigen24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Synaptigen
 
 > Product ID `53030` · Digistore24 productId `621048` · [HTML profile page](../../reviews/synaptigen-53030.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $246.11 (Single payment) |
+| Price | $246.55 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $190.92 |
+| Earnings/sale* | $191.26 |
 | Cart conversion* | 5% |
 | Cancel rate* | 13% |
 | Vendor | Synaptigen |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Synaptigen, listed since 2025-06-27
-- How much? — 246.11437200000003 USD
+- How much? — 246.554412 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

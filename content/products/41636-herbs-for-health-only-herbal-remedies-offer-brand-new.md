@@ -4,15 +4,15 @@ digistore24_product_id: 466293
 title: "Herbs for Health- Only Herbal Remedies Offer! (Brand New)"
 vendor: "homeprepper"
 product_type: "E-books"
-price: 21.42
+price: 21.46
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 11.8
+earnings_per_sale: 11.82
 cart_conversion_pct: 4
 cancel_rate_pct: 3.16
 categories: ["Health & Fitness"]
 listed_since: "2022-10-24"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.thehomeprepper.com/book?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Herbs for Health- Only Herbal Remedies Offer! (Brand New)
 
 > Product ID `41636` · Digistore24 productId `466293` · [HTML profile page](../../reviews/herbs-for-health-only-herbal-remedies-offer-brand-new-41636.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.42 (Single payment) |
+| Price | $21.46 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $11.80 |
+| Earnings/sale* | $11.82 |
 | Cart conversion* | 4% |
 | Cancel rate* | 3.16% |
 | Vendor | homeprepper |
@@ -99,7 +99,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: homeprepper, listed since 2022-10-24
-- How much? — 21.42119 USD
+- How much? — 21.45949 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

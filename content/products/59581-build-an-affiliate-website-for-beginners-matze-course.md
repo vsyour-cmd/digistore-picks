@@ -4,15 +4,15 @@ digistore24_product_id: 736406
 title: "Build an Affiliate Website for Beginners – Matze Course"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 110.74
+price: 110.94
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 44.3
+earnings_per_sale: 44.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736406?aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Build an Affiliate Website for Beginners – Matze Course
 
 > Product ID `59581` · Digistore24 productId `736406` · [HTML profile page](../../reviews/build-an-affiliate-website-for-beginners-matze-course-59581.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $110.74 (Single payment) |
+| Price | $110.94 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $44.30 |
+| Earnings/sale* | $44.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -77,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 110.7414 USD
+- How much? — 110.9394 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

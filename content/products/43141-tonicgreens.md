@@ -4,15 +4,15 @@ digistore24_product_id: 484747
 title: "TonicGreens"
 vendor: "tonicgreens"
 product_type: "Supplements - health"
-price: 181.17
+price: 181.49
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 80.91
+earnings_per_sale: 81.05
 cart_conversion_pct: 5
 cancel_rate_pct: 7.83
 categories: ["Food Supplements"]
 listed_since: "2023-02-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://tonicgreens.cc/vsl1/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # TonicGreens
 
 > Product ID `43141` · Digistore24 productId `484747` · [HTML profile page](../../reviews/tonicgreens-43141.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $181.17 (Single payment) |
+| Price | $181.49 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $80.91 |
+| Earnings/sale* | $81.05 |
 | Cart conversion* | 5% |
 | Cancel rate* | 7.83% |
 | Vendor | tonicgreens |
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: tonicgreens, listed since 2023-02-16
-- How much? — 181.16845600000002 USD
+- How much? — 181.492376 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

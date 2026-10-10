@@ -4,15 +4,15 @@ digistore24_product_id: 419540
 title: "Glucotrust: New Killer Blood Sugar Supplement"
 vendor: "edelixir"
 product_type: "Supplements - health"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 57.89
+earnings_per_sale: 57.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-12-06"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://getglucotrust.co/?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Glucotrust: New Killer Blood Sugar Supplement
 
 > Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](../../reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $57.89 |
+| Earnings/sale* | $57.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | edelixir |
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: edelixir, listed since 2021-12-06
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

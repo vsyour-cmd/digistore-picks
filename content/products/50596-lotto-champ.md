@@ -4,15 +4,15 @@ digistore24_product_id: 581520
 title: "Lotto Champ"
 vendor: "LottoChamp"
 product_type: "Member area and video courses"
-price: 201.73
+price: 202.09
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 131.09
+earnings_per_sale: 131.32
 cart_conversion_pct: 10
 cancel_rate_pct: 26.47
 categories: ["Betting Systems","Business & Investment"]
 listed_since: "2024-11-19"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://mylottochamp24.com/text.php?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Lotto Champ
 
 > Product ID `50596` · Digistore24 productId `581520` · [HTML profile page](../../reviews/lotto-champ-50596.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $201.73 (Single payment) |
+| Price | $202.09 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $131.09 |
+| Earnings/sale* | $131.32 |
 | Cart conversion* | 10% |
 | Cancel rate* | 26.47% |
 | Vendor | LottoChamp |
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: LottoChamp, listed since 2024-11-19
-- How much? — 201.72832400000001 USD
+- How much? — 202.08900400000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

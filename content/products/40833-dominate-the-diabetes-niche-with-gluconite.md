@@ -4,15 +4,15 @@ digistore24_product_id: 443012
 title: "Dominate the Diabetes Niche with Gluconite!"
 vendor: "mysteryoffers"
 product_type: "Supplements - health"
-price: 77.18
+price: 77.32
 currency: "USD"
 affiliate_commission_pct: 78
-earnings_per_sale: 60.2
+earnings_per_sale: 60.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-05-16"
-marketplace_data_date: "2026-10-09"
+marketplace_data_date: "2026-10-10"
 research_date: "2026-10-09"
 research_quality: "rich"
 promo_link: "https://gluconite.co/ds/welcome?aff=adminstore#aff=adminstore"
@@ -22,16 +22,16 @@ language: "en"
 # Dominate the Diabetes Niche with Gluconite!
 
 > Product ID `40833` · Digistore24 productId `443012` · [HTML profile page](../../reviews/dominate-the-diabetes-niche-with-gluconite-40833.html)
-> Marketplace data: 2026-10-09 · Sales-page research: 2026-10-09 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-09 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.18 (Single payment) |
+| Price | $77.32 (Single payment) |
 | Affiliate commission | 78% |
-| Earnings/sale* | $60.20 |
+| Earnings/sale* | $60.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mysteryoffers |
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: mysteryoffers, listed since 2022-05-16
-- How much? — 77.1834 USD
+- How much? — 77.3214 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 
