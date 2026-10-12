@@ -2,6 +2,17 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-12",
+      "summary": "Category pages upgraded: every category page (incl. pagination) now carries an at-a-glance TL;DR block and a Top-10 earnings comparison table. Daily article: the 15 highest-converting offers, with cancel rates alongside. Also live today: 10 deep-dive guides for the top offers, llms-full.txt expanded to 500 with vendor/category index, related-guide cross-linking, and vendor-hub backlinks on product pages. Marketplace scrape skipped (session tooling gap) — data snapshot of 2026-10-10 remains the current dataset.",
+      "changes": [
+        "category pages: TL;DR + Top-10 comparison table on all pages incl. pagination",
+        "daily article: highest-converting Digistore24 offers (EN) with cancel-rate context",
+        "deep-dive guides: 10 top offers (1,650+ words each) at reviews/{slug}/guide.html",
+        "llms-full.txt: top 500 + 45 category + 100 vendor index links",
+        "related-guide cross-linking: low-inlink cohort 109 → 15"
+      ]
+    },
+    {
       "date": "2026-10-10",
       "summary": "Vendor hubs expanded 40 → 100 (every vendor with 2+ listings, ranked by catalog size). Stale hub pages are pruned automatically on rebuild when a vendor is renamed or drops out of the top 100.",
       "changes": [

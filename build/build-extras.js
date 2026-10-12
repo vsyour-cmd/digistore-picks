@@ -56,6 +56,10 @@ for (const p of DATA.products) {
   const img = localImg(p.id);
   add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE, img);
 }
+// deep-dive 顾问页(收益 Top10,与 build-site.js 的 GUIDE_POOL 同一筛选)
+for (const p of [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10)) {
+  add(`reviews/${slug(p.label || "Digistore24 product " + p.id)}-${p.id}/guide.html`, TODAY);
+}
 
 // ---------- sitemap.xml ----------
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
@@ -111,15 +115,23 @@ All numbers originate from the official Digistore24 marketplace (logged-in affil
 fs.writeFileSync(path.join(ROOT, "llms.txt"), llms);
 
 // ---------- llms-full.txt(关键数据一文件版,AI 批量检索) ----------
-const top300 = [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 300);
+const top500 = [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 500);
 const curSym = (c) => (c === "EUR" ? "€" : "$");
-const fullLines = top300.map((p) => {
+const fullLines = top500.map((p) => {
   const slugP = String(p.label).toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
   return "- " + p.label + " | " + p.type + " | " + curSym(p.currency) + Number(p.price || 0).toFixed(2) + " | commission " + Number(p.commission || 0).toFixed(0) + "% | earnings/sale " + curSym(p.currency) + Number(p.earningsPerSale || 0).toFixed(2) + " | conversion " + Number(p.conversionRate || 0).toFixed(1) + "% | cancel " + Number(p.cancelRate || 0).toFixed(1) + "% | " + SITE_URL + "/reviews/" + slugP + "-" + p.id + ".html";
 });
-const llmsFull = "# " + SITE_NAME + " — full dataset (top 300 by earnings/sale)\n\n> Compact reference for LLM retrieval. All figures are vendor-side Digistore24 marketplace statistics as of " + DATA_DATE + ", not forecasts. Product pages: " + SITE_URL + "/reviews/\n\n" + fullLines.join("\n") + "\n";
+// 改进项 llms-expand:分类与厂商索引段(与站内页面同一 URL 规则)
+const catIndex = DATA.categories.map((c) => "- " + c.label + " (" + c.count + " products) | " + SITE_URL + "/category/" + c.file + ".html").join("\n");
+const vendorCount = {};
+// 与 build-site.js vendorHubs() 同序:先按收益降序再计数,并列 Top100 边界的取舍才一致
+for (const p of [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))) vendorCount[p.vendorName] = (vendorCount[p.vendorName] || 0) + 1;
+const vendorIndex = Object.entries(vendorCount).filter(([, n]) => n >= 2)
+  .sort((a, b) => b[1] - a[1]).slice(0, 100)
+  .map(([v, n]) => "- " + v + " (" + n + " products) | " + SITE_URL + "/vendors/" + slug(v) + ".html").join("\n");
+const llmsFull = "# " + SITE_NAME + " — full dataset (top 500 by earnings/sale)\n\n> Compact reference for LLM retrieval. All figures are vendor-side Digistore24 marketplace statistics as of " + DATA_DATE + ", not forecasts. Product pages: " + SITE_URL + "/reviews/\n\n" + fullLines.join("\n") + "\n\n## Categories (" + DATA.categories.length + ")\n\n" + catIndex + "\n\n## Top vendors (100, by listing count)\n\n" + vendorIndex + "\n";
 fs.writeFileSync(path.join(ROOT, "llms-full.txt"), llmsFull);
-console.log("llms-full.txt:", fullLines.length, "products");
+console.log("llms-full.txt:", fullLines.length, "products,", DATA.categories.length, "categories, 100 vendors");
 
 // ---------- feed.xml (Atom, 博客) ----------
 const blogDir = path.join(ROOT, "blog");

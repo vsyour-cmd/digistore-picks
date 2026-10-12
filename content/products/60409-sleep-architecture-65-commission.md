@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-08"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://bioslumber.com/sleep-architecture/?aff=adminstore#aff=adminstore"
 sales_page: "https://bioslumber.com/sleep-architecture/"
@@ -22,7 +22,7 @@ language: "en"
 # Sleep Architecture — 65% Commission!
 
 > Product ID `60409` · Digistore24 productId `718175` · [HTML profile page](../../reviews/sleep-architecture-65-commission-60409.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -73,6 +73,14 @@ language: "en"
 - **Page word count:** 1245
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> The Sunset Protocol Your step-by-step 2-hour countdown to perfect sleep onset
+
+### 3c. Cautions
+
+> This guide is for educational purposes only and is not a substitute for professional medical advice. Always consult a qualified healthcare provider before making significant lifestyle changes.
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

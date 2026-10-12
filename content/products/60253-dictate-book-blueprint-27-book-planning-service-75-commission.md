@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-06"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://digistore24.getstartdictate.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://digistore24.getstartdictate.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Dictate Book Blueprint — $27 Book-Planning Service | 75% Commission
 
 > Product ID `60253` · Digistore24 productId `736154` · [HTML profile page](../../reviews/dictate-book-blueprint-27-book-planning-service-75-commission-60253.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -81,6 +81,14 @@ language: "en"
 - **OG image:** https://startdictate.com/og/og-home.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

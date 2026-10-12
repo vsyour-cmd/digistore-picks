@@ -216,6 +216,18 @@ const products = DATA.products
   .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
 const byId = new Map(products.map((p) => [String(p.id), p]));
 
+// 厂商 Hub 仅覆盖 ≥2 产品的 Top100 厂商(与 vendorHubs() 同一筛选);模板引用前先判定,防止掉榜厂商产生死链
+const HUB_SLUGS = (() => {
+  const m = new Map();
+  for (const p of products) m.set(p.vendorName, (m.get(p.vendorName) || 0) + 1);
+  return new Set([...m.entries()].filter(([, n]) => n >= 2)
+    .sort((a, b) => b[1] - a[1]).slice(0, 100).map(([k]) => slug(k)));
+})();
+
+// 改进项 deepdive-pilot-en:收益 Top10 产品的深度顾问页(reviews/{slug}/guide.html)
+const GUIDE_POOL = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10);
+const GUIDE_IDS = new Set(GUIDE_POOL.map((p) => String(p.id)));
+
 {
   const cnt = {};
   for (const c of DATA.categories) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; }
@@ -313,6 +325,14 @@ function categoryPages() {
           : `<a href="${i === 0 ? c.file + ".html" : c.file + "-p" + (i + 1) + ".html"}">${i + 1}</a>`;
       return `<p class="pager">Pages: ${Array.from({ length: pages.length }, (_, i) => link(i)).join(" · ")}</p>`;
     };
+    // 改进项 category-compare-table:分类级 Top10 收益对比表,所有分页共用(补 credibility 的 comparison-table 缺项)
+    const top10 = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10);
+    const topTable = top10.length ? `<h2>Top ${esc(c.label)} offers by earnings/sale — side by side</h2>
+<table class="specs">
+<tr><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Earn./sale</th><th>Cart conv.*</th><th>Cancel*</th></tr>
+${top10.map((p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`).join("\n")}
+</table>
+<p class="sub">* Cart conversion and cancel rate are vendor-side marketplace statistics and depend on traffic quality — not a forecast. Category-wide top 10 as of ${datemark(DATA.scrapedAt)}; identical on every page of this category.</p>` : "";
     pages.forEach((chunk, idx) => {
       const file = idx === 0 ? c.file + ".html" : `${c.file}-p${idx + 1}.html`;
       const pageSub = pages.length > 1 ? ` · Page ${idx + 1} of ${pages.length}` : "";
@@ -331,20 +351,21 @@ ${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
         })),
       };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Short on time? See <a href="../best-of/best-${c.file}.html">our best picks in ${esc(c.label)}</a> — computed from the same data.</p>` : "";
-      const tldrBlock = idx === 0 && isRealCat && items.length >= 8 ? `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>` : "";
+      const tldrBlock = `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>${isRealCat && items.length >= 8 ? `Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · ` : ""}method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>`;
       const methodLine = `<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>.</p>`;
       const evidenceLine = `<p class="sub">Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); always verify current prices on official pages.</p>`;
       const body = `
 <h1>${esc(c.label)}</h1>
 <p class="sub">${items.length} product${items.length === 1 ? "" : "s"} · Part of: ${esc(c.section)}${pageSub} · <a href="../index.html">all categories</a> · <a href="../reviews/index.html">all products A–Z</a></p>
 ${intro}
+${tldrBlock}
 ${bestOf}
 <div class="grid">
 ${chunk.map((p) => productCard(p, "..")).join("\n")}
 </div>
 ${pager(idx)}
+${topTable}
 ${idx === 0 ? faqBlock : ""}
-${tldrBlock}
 ${methodLine}
 ${evidenceLine}
 <p class="sub" style="margin-top:22px">* Marketplace statistics are reported by Digistore24 for the vendor's traffic and depend on traffic quality; they are not a forecast of your results.</p>`;
@@ -437,6 +458,7 @@ function profilePages(altSlugs) {
     p.vendorSiblings = vendorSiblings;
     const vendorBlock = vendorSiblings.length
       ? `<h2 id="vendor">Other offers by ${esc(p.vendorName)}</h2>
+${HUB_SLUGS.has(slug(p.vendorName)) ? `<p class="sub">Full catalog: <a href="../vendors/${slug(p.vendorName)}.html">${esc(p.vendorName)} vendor hub</a> — all listings with marketplace data.</p>` : ""}
 <div class="grid">${vendorSiblings.map((x) => productCard(x, "..")).join("\n")}</div>`
       : "";
 
@@ -508,6 +530,8 @@ ${deList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks-d
 <div class="notice"><b>How this page was researched:</b> a <b>data profile</b> — official Digistore24 marketplace record plus verbatim extracts from the vendor's public sales page. Not a hands-on review. A hands-on review will follow only after we have purchased and used the product.</div>
 
 ${tldr(p)}
+
+${GUIDE_IDS.has(String(p.id)) ? `<div class="notice"><b>Going deeper:</b> this offer has a full <a href="${p.slug}/guide.html">${esc(p.label)} buying guide</a> — every marketplace number interpreted, pricing details, refund-risk assessment and who it fits, all data-checked.</div>` : ""}
 
 ${topCta}
 
@@ -1323,6 +1347,147 @@ ${entries.map((e) => `<h2>${datemark(e.date)}</h2>
   fs.writeFileSync(outPath("changelog.html"), layout({ title: `What's new — ${SITE_NAME}`, desc: `Daily changelog of ${SITE_NAME}: data refreshes, new reviews and improvements — ${DATA.total} Digistore24 products tracked.`, body, path: "changelog.html", hreflangLinks: HREF_HOME }));
 }
 
+// ---------- 深度顾问页(改进项 deepdive-pilot-en:收益 Top10 → reviews/{slug}/guide.html,1500+ 词) ----------
+// 内容全部来自官方市场数据与销售页原文摘录(标注 vendor claims),不做任何虚构体验
+function deepDiveGuides(altSlugs) {
+  const rel = "../..";
+  const median = (arr) => { const a = [...arr].filter((x) => x != null).sort((x, y) => x - y); return a.length ? a[Math.floor(a.length / 2)] : null; };
+  const catStats = new Map();
+  for (const p of products) {
+    const k = String((p.categoryIds || [])[0] || "");
+    if (!k) continue;
+    if (!catStats.has(k)) catStats.set(k, { prices: [], cancels: [], convs: [] });
+    const s = catStats.get(k);
+    s.prices.push(p.price); s.cancels.push(p.cancelRate); s.convs.push(p.conversionRate);
+  }
+  const wordCount = (html) => html.replace(/<script[\s\S]*?<\/script>/g, " ").replace(/<[^>]+>/g, " ").replace(/&[a-z#0-9]+;/gi, " ").split(/\s+/).filter(Boolean).length;
+  const dir = outPath("reviews");
+  let built = 0;
+  const wcLog = [];
+  for (const p of GUIDE_POOL) {
+    const r = p.research || {};
+    const d = productDetails(p.id) || {};
+    const catObj = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+    const st = catStats.get(String((p.categoryIds || [])[0]) || "");
+    const medPrice = st ? median(st.prices) : null;
+    const medCancel = st ? median(st.cancels) : null;
+    const medConv = st ? median(st.convs) : null;
+    const priceVs = medPrice ? (p.price >= medPrice ? "above" : "below") : "n/a";
+    const cancelVs = medCancel != null && p.cancelRate != null ? (p.cancelRate > medCancel ? "above" : "at or below") : "n/a";
+    const convVs = medConv != null && p.conversionRate != null ? (p.conversionRate > medConv ? "above" : "at or below") : "n/a";
+    const related = products.filter((x) => x.id !== p.id && (x.categoryIds || []).includes(String((p.categoryIds || [])[0]))).slice(0, 4);
+    const hasAlt = altSlugs && altSlugs.has(p.slug);
+    const vendorHub = HUB_SLUGS.has(slug(p.vendorName)) ? `<li><a href="${rel}/vendors/${slug(p.vendorName)}.html">${esc(p.vendorName)} vendor hub</a> — all listings by this vendor with marketplace data.</li>` : "";
+
+    const body = `
+<h1>${esc(p.label)}: the complete buying guide</h1>
+<p class="sub">Deep-dive guide · Marketplace data ${datemark(DATA.scrapedAt)} · Sales-page research ${datemark(DATA.researchedAt) || "—"} · ${esc(catObj ? catObj.label : "Uncategorized")}</p>
+
+<div class="notice"><b>How this guide was researched:</b> every figure below comes from the official Digistore24 marketplace record or from verbatim extracts of the vendor's public sales page (labeled <i>vendor claims</i>). This is a data profile, not a hands-on review — we have not purchased ${esc(p.label)}, and we say so everywhere it matters.</div>
+
+<div class="tldr"><b>At a glance:</b> <ul>
+<li><b>Price:</b> ${money(p.price, p.currency)} (${esc((p.billingTypes || []).join(", ")) || "billing per sales page"}).</li>
+<li><b>Refund signal:</b> cancel rate ${pct(p.cancelRate)} — ${cancelVs} the category median.</li>
+<li><b>Buyer flow:</b> cart conversion ${pct(p.conversionRate)} (${convVs} category median).</li>
+<li><b>Guarantee:</b> ${r.guaranteeMention ? esc(r.guaranteeMention) + " advertised on the sales page — verify on the official page at checkout." : "no standardized guarantee wording detected — ask before buying."}</li>
+</ul></div>
+
+<h2 id="verdict">Quick verdict from the marketplace record</h2>
+<p>On the official Digistore24 marketplace, ${esc(p.label)} lists at ${money(p.price, p.currency)}, which is ${priceVs} the ${esc(catObj ? catObj.label : "category")} median${medPrice != null ? " of " + money(medPrice, p.currency) : ""}. Its cancel rate of ${pct(p.cancelRate)} is ${cancelVs} the category median${medCancel != null ? " of " + pct(medCancel) : ""} — in plain terms, that share of customers who complete checkout later reverses or refunds their purchase. Cart conversion sits ${convVs} the category median${medConv != null ? " of " + pct(medConv) : ""}, meaning the share of people who reach the order form and actually buy.</p>
+<p>None of these numbers tells you whether the product works for you — no marketplace statistic can. What they do tell you is how this offer behaves commercially: how it is priced relative to its category, how often buyers change their minds, and how persuasive the vendor's funnel is. This guide walks through each number, then through everything the vendor's own sales page says, so you can decide with the full record in front of you.</p>
+
+<h2 id="numbers">Every marketplace number, interpreted</h2>
+<table class="specs">
+<tr><th>Metric</th><th>This offer</th><th>Category median</th><th>What it measures</th></tr>
+<tr><td>Price</td><td><b>${money(p.price, p.currency)}</b></td><td>${money(medPrice, p.currency)}</td><td>Vendor-set list price at checkout</td></tr>
+<tr><td>Cart conversion</td><td><b>${pct(p.conversionRate)}</b></td><td>${pct(medConv)}</td><td>Share of order-form visitors who buy</td></tr>
+<tr><td>Cancel rate</td><td><b>${pct(p.cancelRate)}</b></td><td>${pct(medCancel)}</td><td>Share of purchases refunded or canceled</td></tr>
+<tr><td>Commission</td><td><b>${pct(p.commission)}</b></td><td>—</td><td>Affiliate share per sale (does not change your price)</td></tr>
+<tr><td>Earnings/sale</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>—</td><td>Average affiliate payout per completed sale</td></tr>
+</table>
+<p><b>Price.</b> The list price is set by the vendor inside Digistore24 and is what you pay at checkout, before any funnel upsells. At ${money(p.price, p.currency)} — ${priceVs} the category median — this is priced as a ${p.price >= 100 ? "high-ticket" : p.price >= 30 ? "mid-ticket" : "low-ticket"} offer. High-ticket listings tend to invest heavily in sales-page persuasion; that is not a flaw by itself, but it is a reason to read the refund terms before, not after, buying.</p>
+<p><b>Cart conversion.</b> ${pct(p.conversionRate)} of people who reach the order form complete a purchase. Conversion measures funnel persuasion at the checkout step — it says nothing about satisfaction after the purchase. A high conversion with a high cancel rate is the classic signature of an aggressive funnel: easy to say yes to, easy to regret.</p>
+<p><b>Cancel rate.</b> ${pct(p.cancelRate)} of completed purchases end in cancellation or refund, ${cancelVs} the category median. Digistore24 reports this per product across the vendor's entire traffic. For a subscription, check whether the cancel figure includes failed renewals; the practical protection is the refund window in the next section.</p>
+<p><b>Commission and earnings per sale.</b> These two rows matter to affiliates, not buyers: affiliates earn ${pct(p.commission)} commission, averaging ${money(p.earningsPerSale, p.currency)} per completed sale. As a buyer you pay the same price either way — but an affiliate-promoted offer pays its promoters well, which is exactly why you should judge it on the cancel rate and guarantee rather than on how many reviews recommend it.</p>
+
+<h2 id="pricing">Price context: what you will actually pay</h2>
+<p>The marketplace record lists ${money(p.price, p.currency)}${(p.billingTypes || []).length ? ` billed as ${esc((p.billingTypes || []).join(", "))}` : ""}. Digistore24 is the payment processor: the charge on your statement comes from Digistore24, and refund requests within the vendor's guarantee window are handled through Digistore24's buyer support.</p>
+${r.priceMentions && r.priceMentions.length ? `<p>The vendor's own sales page mentions these price figures: ${r.priceMentions.map((x) => "<b>" + esc(x) + "</b>").join(", ")}. Sales pages often advertise discounts, installment plans or bundle prices that differ from the marketplace list price — the amount shown at the Digistore24 checkout is the binding one, so treat any discrepancy as a question to resolve before paying, not after.</p>` : `<p>We did not extract additional price figures from the sales page text, which is common when pricing is shown only in images or inside the checkout funnel. The marketplace list price above is the vendor-set baseline; confirm the final amount at checkout.</p>`}
+
+<h2 id="refund">Refund protection and cancel-rate risk</h2>
+${r.guaranteeMention ? `<p>The sales page advertises: <b>"${esc(r.guaranteeMention)}"</b>. That wording is the vendor's own claim — the binding terms are those shown on the Digistore24 checkout page and in your order confirmation email. Screenshots of guarantee badges are not the policy; the checkout page is.</p>` : `<p>We could not extract a standardized money-back wording from the sales page text. That does not mean there is no guarantee — Digistore24 products generally carry some refund rights — but it means you should locate the exact window (14, 30, 60 days…) on the official page before buying, and keep your order confirmation.</p>`}
+<p>Combined with the cancel rate of ${pct(p.cancelRate)}, the practical guidance: buy with the expectation that you will evaluate the product quickly and decisively inside the refund window. If a vendor's funnel creates urgency ("price rises at midnight"), the refund window is your real deadline, not the sales page's.</p>
+<p>For the mechanics of requesting money back, see <a href="${rel}/digistore24-refunds.html">how Digistore24 refunds work</a>, and for general platform trust questions, <a href="${rel}/is-digistore24-safe.html">is Digistore24 safe?</a> — both are based on official Digistore24 documentation, not anecdotes.</p>
+
+<h2 id="salespage">What the vendor's sales page emphasizes</h2>
+${r.metaDescription ? `<p>The page's own meta description reads: <i>"${esc(r.metaDescription)}"</i>${r.ogTitle && r.ogTitle !== r.title ? `, under the share title "${esc(r.ogTitle)}"` : ""}.</p>` : r.title ? `<p>The page's title is: <i>"${esc(r.title)}"</i>.</p>` : ""}
+${r.h2 && r.h2.length ? `<p>Its section structure — the headings the vendor chose for the persuasion flow — is:</p><ul>${r.h2.map((h) => `<li>${esc(h)}</li>`).join("")}</ul>` : ""}
+${r.ctaTexts && r.ctaTexts.length ? `<p>The call-to-action buttons on the page say: ${r.ctaTexts.map((x) => "<b>" + esc(x) + "</b>").join(" · ")}. Button wording tells you what conversion psychology the funnel leans on — urgency, exclusivity or straightforward ordering.</p>` : ""}
+<p class="sub">Headings and button labels above are quoted from the vendor's sales page (${datemark(DATA.researchedAt)}); sales pages change often, so treat this as a snapshot, not a live copy.</p>
+
+${r.excerpt && r.excerpt.length ? `<h2 id="claims">In the vendor's own words</h2>
+<p>These passages are reproduced verbatim from the vendor's sales page. They are <b>vendor claims, not verified by ${SITE_NAME}</b> — no marketplace statistic or third-party source on this site confirms them:</p>
+${r.excerpt.map((x) => `<blockquote><p>${esc(x)}</p></blockquote>`).join("\n")}
+<p class="sub">Verbatim extracts, punctuation and emphasis as published by the vendor.</p>` : ""}
+
+${d.usage && d.usage.length ? `<h2 id="usage">Usage instructions stated by the vendor</h2>
+<p>The sales page contains these usage/instruction passages (vendor claims, quoted verbatim):</p>
+<ul>${d.usage.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+${d.caution && d.caution.length ? `<h2 id="caution">Cautions stated by the vendor</h2>
+<ul>${d.caution.map((x) => `<li>${esc(x)}</li>`).join("")}</ul>` : ""}
+
+<h2 id="fit">Who ${esc(p.label)} fits — and who should skip it</h2>
+<p><b>Likely fit:</b> ${p.price >= 100 ? `buyers already committed to this outcome who have budgeted ${money(p.price, p.currency)} and will genuinely use the program inside the refund window — at this price, an unused purchase is an expensive souvenir` : p.price >= 30 ? `buyers testing this category with a mid-range budget, where ${money(p.price, p.currency)} is a meaningful but not overwhelming commitment` : `buyers who want a low-cost entry into this category — at ${money(p.price, p.currency)}, the financial risk is mostly your time`}. The vendor reports ${pct(p.conversionRate)} of checkout visitors complete the purchase, so the funnel clearly converts its target audience${r.quality === "rich" ? "; the sales page itself is content-rich, which makes pre-purchase verification easier" : "; the sales page is on the thinner side, which makes pre-purchase verification more important"}.</p>
+<p><b>Think twice if:</b> you are buying because a promotion created urgency rather than because you identified the need yourself; you are unwilling to test the product immediately and request a refund inside the window if it underdelivers; or the cancel rate of ${pct(p.cancelRate)} suggests refund friction you are not prepared to handle${p.cancelRate && p.cancelRate > 10 ? " — this offer's cancel rate is high enough that a meaningful share of buyers changed their minds" : ""}. No marketplace number can tell you whether the product works — that is exactly why the refund window, not the sales page, should anchor your decision.</p>
+
+<h2 id="checklist">Before you buy: the verification checklist</h2>
+<ol>
+<li><b>Match the price</b> at the Digistore24 checkout against the figures in this guide — discrepancies mean the funnel changed, not that we did.</li>
+<li><b>Locate the refund window</b> on the checkout page itself and note the deadline in your calendar on purchase day.</li>
+<li><b>Read the cancel rate</b> (${pct(p.cancelRate)} here) as "how often do buyers regret this", alongside the guarantee terms.</li>
+<li><b>Distinguish claims from evidence</b>: everything quoted under "vendor claims" above is the vendor speaking, verified by nobody.</li>
+<li><b>Check the vendor</b>: ${vendorHub ? `the ${esc(p.vendorName)} vendor hub lists everything this seller currently markets` : `search the vendor name "${esc(p.vendorName)}" in our directory to see their other listings`} — a vendor's catalog breadth is context, not quality.</li>
+<li><b>Pay through Digistore24</b>, never by direct transfer — the platform's buyer protection only covers transactions it processes.</li>
+</ol>
+<p class="sub">The full method: <a href="${rel}/blog/digistore24-numbers-checklist.html">our 6-point numbers check</a> · platform background in <a href="${rel}/buy-with-confidence.html">before you buy: checklist</a>.</p>
+
+<h2 id="alternatives">Alternatives and comparisons</h2>
+${hasAlt ? `<p>We maintain a side-by-side comparison of ${esc(p.label)} against its closest same-category alternatives: <a href="${rel}/alternatives/${p.slug}.html">${esc(p.label)} — alternatives and head-to-head numbers</a>.</p>` : ""}
+${related.length ? `<p>Other offers in ${esc(catObj ? catObj.label : "this category")} worth comparing before you decide:</p>
+<div class="grid">${related.map((x) => productCard(x, rel)).join("\n")}</div>` : ""}
+${vendorHub ? `<ul>${vendorHub}</ul>` : ""}
+
+<h2 id="method">How this guide was compiled</h2>
+<p>Two independent sources, both public: (1) the official Digistore24 marketplace record for product #${p.id} — price, commission, cart conversion, cancel rate and earnings per sale are vendor-side statistics as reported to registered affiliates, snapshot ${datemark(DATA.scrapedAt)}; (2) the vendor's public sales page, fetched and archived on ${datemark(DATA.researchedAt)}, from which headings, price mentions, guarantee wording, call-to-action labels and verbatim passages were extracted and are quoted with attribution.</p>
+<p>We did not buy or use ${esc(p.label)}. When we publish a hands-on review of this product, this page will say so at the top. Everything on ${SITE_NAME} follows the same labeling rules — see <a href="${rel}/about.html">our research standards</a> — and the whole directory refreshes daily; corrections and build history are public in the <a href="${rel}/changelog.html">changelog</a>.</p>
+<p class="sub">Data snapshot ${datemark(DATA.scrapedAt)} · Prices and terms can change at any time — the official checkout page is always the binding source.</p>`;
+    const wc = wordCount(body);
+    wcLog.push(wc);
+    const crumb = [{ label: "Home", href: rel + "/index.html" }, ...(catObj ? [{ label: catObj.label, href: rel + "/category/" + catObj.file + ".html" }] : []), { label: p.label, href: "../" + p.slug + ".html" }, { label: "Buying guide", href: "guide.html" }];
+    fs.mkdirSync(path.join(dir, p.slug), { recursive: true });
+    fs.writeFileSync(path.join(dir, p.slug, "guide.html"), layout({
+      title: `${p.label} buying guide: price, refund risk & fit`,
+      desc: `Data-driven buying guide for ${p.label}: ${money(p.price, p.currency)}, cancel rate ${pct(p.cancelRate)}, guarantee "${r.guaranteeMention || "see sales page"}", who it fits. Updated ${datemark(DATA.scrapedAt)}.`,
+      body, rel, path: `reviews/${p.slug}/guide.html`,
+      jsonLd: [{
+        "@context": "https://schema.org",
+        "@type": "Article",
+        headline: `${p.label} — buying guide`,
+        description: `Marketplace-record and sales-page buying guide for ${p.label}: pricing, refund risk and fit, all sources labeled.`,
+        datePublished: (DATA.scrapedAt || "").slice(0, 10) || undefined,
+        dateModified: (DATA.scrapedAt || "").slice(0, 10) || undefined,
+        author: { "@type": "Organization", name: SITE_NAME, url: SITE_URL },
+        about: { "@type": "Product", name: p.label, productID: String(p.id), offers: { "@type": "Offer", price: p.price, priceCurrency: p.currency, url: SITE_URL + "/reviews/" + p.slug + ".html" } },
+      }],
+      crumb,
+    }));
+    built++;
+  }
+  wcLog.sort((a, b) => a - b);
+  console.log(`deep-dive guides: ${built} pages (words: min ${wcLog[0]}, median ${wcLog[Math.floor(wcLog.length / 2)]})`);
+  return built;
+}
+
 const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
@@ -1334,5 +1499,6 @@ trustPages();
 monthlyNewPage();
 changelogPage();
 vendorHubs();
+const guideCount = deepDiveGuides(altSlugs);
 notFoundPage();
-console.log(`Built: index, about, 404, categories (paginated), ${products.length} product profiles, ${altCount} alternatives pages, ${bestCount} best-of pages. Articles protected: ${articleIds.size}`);
+console.log(`Built: index, about, 404, categories (paginated), ${products.length} product profiles, ${altCount} alternatives pages, ${bestCount} best-of pages, ${guideCount} deep-dive guides. Articles protected: ${articleIds.size}`);

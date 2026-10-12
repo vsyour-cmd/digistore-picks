@@ -9,10 +9,19 @@ function collect(root, dirs) {
     const p = path.join(root, d);
     if (!fs.existsSync(p)) continue;
     for (const f of fs.readdirSync(p)) {
+      if (fs.statSync(path.join(p, f)).isDirectory()) {
+        // 一级子目录(如 reviews/{slug}/guide.html)也纳入 QA;根目录的子目录是显式列出的目录,跳过以免重复
+        if (d !== ".") {
+          for (const g of fs.readdirSync(path.join(p, f))) {
+            if (g.endsWith(".html")) files.push(d + "/" + f + "/" + g);
+          }
+        }
+        continue;
+      }
       if (f.endsWith(".html")) files.push(d === "." ? f : d + "/" + f);
     }
   }
-  return files;
+  return [...new Set(files)];
 }
 
 function qaSite(root, label, dirs) {

@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2024-01-24"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://getneurozoom.cc/welcome?aff=adminstore#aff=adminstore"
 sales_page: "https://getneurozoom.cc/welcome"
@@ -22,7 +22,7 @@ language: "en"
 # Neurozoom Top Brain Product
 
 > Product ID `46986` · Digistore24 productId `535779` · [HTML profile page](../../reviews/neurozoom-top-brain-product-46986.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -78,6 +78,23 @@ language: "en"
 - **Page word count:** 2048
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> WARNING : Neurozoom is NOT sold in stores or elsewhere online and never will be. It is only available for purchase on this page ONLY .
+> Please note that the information we provide is not intended to replace consultation with a qualified medical professional. We encourage you to inform your physician of changes you make to your lifestyle and discuss these with him or her. For questions or concerns about any medical conditions you may have, please contact your doctor.
+> Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/46986-g1.webp
+- assets/products/46986-g2.webp
+- assets/products/46986-g3.webp
+- assets/products/46986-g4.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

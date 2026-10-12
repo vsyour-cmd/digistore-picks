@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://healthsecrets.com/products/heart-smart-grocery-and-cooking-system?aff=adminstore#aff=adminstore"
 sales_page: "https://healthsecrets.com/products/heart-smart-grocery-and-cooking-system"
@@ -22,7 +22,7 @@ language: "en"
 # Heart-Smart Grocery and Cooking System
 
 > Product ID `60478` · Digistore24 productId `733175` · [HTML profile page](../../reviews/heart-smart-grocery-and-cooking-system-60478.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -84,6 +84,22 @@ language: "en"
 - **OG image:** /digital-products/previews/heart-smart-grocery-and-cooking-system.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> The primer explains how vegetables, fruits, whole grains, legumes, nuts, fish or other proteins, and unsaturated fats can fit into an overall pattern. It also identifies where individual medical instructions may change the conversation, including sodium or mineral restrictions. The outcome is context rather than a one-food solution.
+> The summary page records representative meals, label questions, household changes, and any professional instructions that affect shopping. It specifically prompts you to ask before making significant changes related to sodium, potassium, fluid, or medication. The page is ready to print for a primary-care or dietitian visit.
+
+### 3c. Cautions
+
+> Checking labels, translating servings, choosing a cooking method, and finding a flavor substitute at every meal creates decision fatigue. The system puts the repeatable math and flavor prompts on reference pages so attention can return to eating together.
+> Content on Health Secrets is for informational and educational purposes only and does not substitute professional medical advice.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60478-g1.webp
+- assets/products/60478-g2.webp
+- assets/products/60478-g3.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

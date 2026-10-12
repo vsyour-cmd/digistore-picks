@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner?aff=adminstore#aff=adminstore"
 sales_page: "https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner"
@@ -22,7 +22,7 @@ language: "en"
 # The 14-Day Gut-Friendly Meal Planning System
 
 > Product ID `60473` · Digistore24 productId `733146` · [HTML profile page](../../reviews/the-14-day-gut-friendly-meal-planning-system-60473.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -83,6 +83,22 @@ language: "en"
 - **OG image:** /digital-products/previews/the-14-day-gut-friendly-meal-planner.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> It is not a substitute for assessment by a gastroenterologist or registered dietitian, especially when a clinician has prescribed a specific plan.
+> It is not intended for urgent symptoms, known food allergy emergencies, or any situation that requires prompt medical attention.
+> Content on Health Secrets is for informational and educational purposes only and does not substitute professional medical advice.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60473-g1.webp
+- assets/products/60473-g2.webp
+- assets/products/60473-g3.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

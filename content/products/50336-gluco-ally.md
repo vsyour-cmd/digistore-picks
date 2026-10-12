@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-10-21"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "thin"
 promo_link: "https://glucoally.org/?aff=adminstore#aff=adminstore"
 sales_page: "https://glucoally.org/"
@@ -22,7 +22,7 @@ language: "en"
 # Gluco Ally
 
 > Product ID `50336` · Digistore24 productId `576400` · [HTML profile page](../../reviews/gluco-ally-50336.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

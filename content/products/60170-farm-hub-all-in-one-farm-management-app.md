@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/farm-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/farm-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Farm Hub: All-in-One Farm Management App
 
 > Product ID `60170` · Digistore24 productId `741600` · [HTML profile page](../../reviews/farm-hub-all-in-one-farm-management-app-60170.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

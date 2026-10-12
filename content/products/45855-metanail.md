@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2023-10-17"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://getmetanailcomplex.cc/v2-breakthrough/?aff=adminstore#aff=adminstore"
 sales_page: "https://getmetanailcomplex.cc/v2-breakthrough/"
@@ -22,7 +22,7 @@ language: "en"
 # METANAIL
 
 > Product ID `45855` · Digistore24 productId `521030` · [HTML profile page](../../reviews/metanail-45855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,6 +74,23 @@ language: "en"
 - **Page word count:** 956
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> How to Use Aloe Vera for Eczema - https://www.healthline.com/health/aloe-vera-for-eczema#1
+
+### 3c. Cautions
+
+> Please note that the information we provide is not intended to replace consultation with a qualified medical professional. We encourage you to inform your physician of changes you make to your lifestyle and discuss these with him or her. For questions or concerns about any medical conditions you may have, please contact your doctor.
+> Statements on this website have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using our products.
+> The website's content and the product for sale is based upon the author's opinion and is provided solely on an "AS IS" and "AS AVAILABLE" basis. You should do your own research and confirm the information with other sources when searching for information regarding health issues and always review the information carefully with your professional health care provider before using any of the protocols presented on this website and/or in the product sold here.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/45855-g1.webp
+- assets/products/45855-g2.webp
+- assets/products/45855-g3.webp
+- assets/products/45855-g4.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

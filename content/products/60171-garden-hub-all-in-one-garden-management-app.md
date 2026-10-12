@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/garden-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/garden-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Garden Hub: All-in-One Garden Management App
 
 > Product ID `60171` · Digistore24 productId `741614` · [HTML profile page](../../reviews/garden-hub-all-in-one-garden-management-app-60171.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **thin**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

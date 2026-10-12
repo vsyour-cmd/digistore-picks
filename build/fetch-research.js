@@ -6,6 +6,7 @@
  *       G:/Digistore24/data/research-meta.json {researchedAt, ok, fail}
  * 用法: node build/fetch-research.js [--limit N] [--refresh] [--ids 1,2,3]
  *   --refresh  重新抓全部(默认跳过已有且未失败的)
+ * 失败条目按连续失败次数指数退避(1/2/4/8…上限14天)后再试;--refresh / --ids 可强制
  */
 const fs = require("fs");
 const path = require("path");
@@ -26,9 +27,25 @@ const ONLY = val("--ids") ? val("--ids").split(",") : null;
 
 const prods = JSON.parse(fs.readFileSync(SRC, "utf8")).products;
 const prev = fs.existsSync(OUT) ? JSON.parse(fs.readFileSync(OUT, "utf8")) : {};
-if (!REFRESH && !ONLY) {
-  for (const [id, r] of Object.entries(prev)) if (r && !r.error) prev[id] = r; // 保留成功项
-}
+
+const DAY = 86400000;
+// 失败条目指数退避:连续失败 n 次后等 2^(n-1) 天,上限 14 天,避免死链每天全量重试
+const backoffDays = (n) => Math.min(2 ** Math.max(n - 1, 0), 14);
+const dueForRetry = (r) => {
+  const last = r.lastAttempt ? Date.parse(r.lastAttempt) : 0;
+  return Date.now() - last >= backoffDays(r.failCount || 1) * DAY;
+};
+
+// 迁移:旧失败记录缺 failCount/lastAttempt,按上次运行时间补记、视为已失败 2 次,让退避立即生效
+try {
+  const metaPrev = JSON.parse(fs.readFileSync(META, "utf8"));
+  for (const r of Object.values(prev)) {
+    if (r && r.error && !r.lastAttempt) {
+      r.failCount = 2;
+      r.lastAttempt = metaPrev.researchedAt || new Date().toISOString();
+    }
+  }
+} catch {}
 
 const decode = (s) => s
   .replace(/<[^>]+>/g, " ")
@@ -145,13 +162,19 @@ async function fetchOne(p) {
 }
 
 (async () => {
+  let heldBack = 0;
   const targets = prods.filter((p) => {
     if (ONLY) return ONLY.includes(String(p.id));
     if (REFRESH) return true;
-    return !prev[p.id] || prev[p.id].error;
+    const r = prev[p.id];
+    if (!r) return true; // 新品
+    if (!r.error) return false; // 已成功,不重抓
+    if (dueForRetry(r)) return true;
+    heldBack++;
+    return false;
   }).slice(0, LIMIT);
 
-  console.log(`researching ${targets.length} of ${prods.length} products...`);
+  console.log(`researching ${targets.length} of ${prods.length} products... (${heldBack} failed items in backoff)`);
   const out = { ...prev };
   let done = 0, ok = 0, fail = 0, lastSave = 0;
   const CONC = 8;
@@ -160,6 +183,10 @@ async function fetchOne(p) {
     while (i < targets.length) {
       const p = targets[i++];
       const r = await fetchOne(p);
+      if (r.error) { // 记录连续失败次数与时间,供下次运行退避判断
+        r.failCount = ((prev[p.id] && prev[p.id].failCount) || 0) + 1;
+        r.lastAttempt = new Date().toISOString();
+      }
       out[p.id] = r;
       r.error ? fail++ : ok++;
       done++;

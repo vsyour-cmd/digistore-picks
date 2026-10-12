@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://healthsecrets.com/products/home-blood-pressure-tracking-kit?aff=adminstore#aff=adminstore"
 sales_page: "https://healthsecrets.com/products/home-blood-pressure-tracking-kit"
@@ -22,7 +22,7 @@ language: "en"
 # Home Blood Pressure Tracking Kit
 
 > Product ID `60479` · Digistore24 productId `733169` · [HTML profile page](../../reviews/home-blood-pressure-tracking-kit-60479.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -84,6 +84,23 @@ language: "en"
 - **OG image:** /digital-products/previews/home-blood-pressure-tracking-kit.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> This card tells you where to write your clinician's instructions for repeated unusual readings, symptoms, after-hours contacts, and emergency services. It deliberately does not assign a personal diagnosis or replace local emergency guidance. The practical outcome is knowing which questions to ask before you need the answer.
+> The final sheet lists monitor model, cuff details, technique questions, recent summaries, and medication questions for a visit. A clinician can review the page, compare it with office measurements, and tell you what to continue. You leave with a documented follow-up plan rather than a vague instruction to ‘keep checking.’
+> Structured home monitoring is most useful when it is paired with clinician instructions, a validated device, and clear communication about symptoms and follow-up. This kit therefore separates recording from interpretation: it organizes observations and questions while leaving thresholds, diagnosis, and any medication decision with the appropriate health professional.
+
+### 3c. Cautions
+
+> Without a structured log, readings end up on scraps of paper, in memory, or in an app that hides the context. A single number then receives more attention than the repeated conditions that make a home record useful.
+> Content on Health Secrets is for informational and educational purposes only and does not substitute professional medical advice.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60479-g1.webp
+- assets/products/60479-g2.webp
+- assets/products/60479-g3.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

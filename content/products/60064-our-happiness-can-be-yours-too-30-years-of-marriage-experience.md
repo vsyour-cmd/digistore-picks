@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-30"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://ourhappiness.4kidsmedia.store?aff=adminstore#aff=adminstore"
 sales_page: "https://ourhappiness.4kidsmedia.store"
@@ -22,7 +22,7 @@ language: "en"
 # Our Happiness Can Be Yours Too | 30 Years of Marriage Experience
 
 > Product ID `60064` · Digistore24 productId `732430` · [HTML profile page](../../reviews/our-happiness-can-be-yours-too-30-years-of-marriage-experience-60064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -86,6 +86,20 @@ language: "en"
 - **Page word count:** 1882
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> You don’t need to win another argument. You want your partner back. Begin with your words, your attention and your next choice. Not by taking all the blame—or accepting behaviour that hurts you.
+> Bring attention, friendship and curiosity back into daily life. Chapters 3 and 5 help you see the person behind the household role—and start choosing time together again.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60064-g1.webp
+- assets/products/60064-g2.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

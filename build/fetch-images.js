@@ -65,8 +65,9 @@ function candidates(p) {
           break;
         } catch {}
       }
-      fs.writeFileSync(manifest, JSON.stringify({ local: saved }));
-      saved ? ok++ : fail++;
+      // 仅成功时写 manifest:失败留下的 manifest 会被 --missing 按"已存在"永久跳过,图片再也无法补下
+      if (saved) { fs.writeFileSync(manifest, JSON.stringify({ local: saved })); ok++; }
+      else fail++;
       await new Promise((r) => setTimeout(r, 60));
     }
   }

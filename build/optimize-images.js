@@ -12,6 +12,14 @@ const DIR = path.join(__dirname, "..", "assets", "products");
 const FORCE = process.argv.includes("--force");
 const MAX = 600;
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+async function writeWithRetry(p, buf, tries = 3) {
+  for (let a = 1; ; a++) {
+    try { fs.writeFileSync(p, buf); return; }
+    catch (e) { if (a >= tries) throw e; await sleep(250 * a); }
+  }
+}
+
 (async () => {
   const manifests = fs.readdirSync(DIR).filter((f) => f.endsWith(".img.json"));
   let done = 0, skip = 0, noimg = 0, fail = 0, savedBytes = 0;
@@ -40,13 +48,17 @@ const MAX = 600;
     try {
       const outName = file.replace(/\.(png|jpe?g|webp|svg)$/i, "") + ".webp";
       const outPath = path.join(DIR, outName);
-      const buf = await sharp(src)
+      // libvips 对按路径传入的源文件持有内存映射,直到 GC 释放;源文件已是 .webp 时
+      // outPath === src,覆写会撞上 Windows ERROR_USER_MAPPED_FILE(fs 报 UNKNOWN:
+      // unknown error, open)。必须先读入内存,让 sharp 从 Buffer 解码。
+      const srcBuf = fs.readFileSync(src);
+      const buf = await sharp(srcBuf)
         .resize(MAX, MAX, { fit: "inside", withoutEnlargement: true })
         .webp({ quality: 80 })
         .toBuffer();
       const meta = await sharp(buf).metadata();
-      fs.writeFileSync(outPath, buf);
-      savedBytes += fs.statSync(src).size - buf.length;
+      await writeWithRetry(outPath, buf); // 新下载的文件可能被杀软短暂锁定
+      savedBytes += srcBuf.length - buf.length;
       if (outName !== file) { try { fs.unlinkSync(src); } catch {} } // 旧文件可能被锁,留给清理阶段
       man.local = "assets/products/" + outName;
       man.width = meta.width; man.height = meta.height;

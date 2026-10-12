@@ -175,6 +175,7 @@ ${tableRows(list)}
 // ---------- 文章2: 大分类指南 ----------
 function categoryGuides() {
   const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
+  const guideMeta = new Map(majors.map((l) => { const c = DATA.categories.find((x) => x.label === l); return [l, { file: slug(l), section: (c && c.section) || "", count: c ? c.count : 0 }]; }));
   for (const label of majors) {
     const cat = DATA.categories.find((c) => c.label === label);
     if (!cat) continue;
@@ -185,6 +186,26 @@ function categoryGuides() {
     const types = {};
     for (const p of items) types[p.type] = (types[p.type] || 0) + 1;
     const topTypes = Object.entries(types).sort((a, b) => b[1] - a[1]).slice(0, 3).map(([t, n]) => `${esc(t)} (${n})`).join(", ");
+    // 改进项 blog-crosslink:相关指南互链 — 环形轮转选链。
+    // 原先"同分区优先+体量排序取前5"会把链接集中到同几个大指南(39篇中27篇长期 0 入链);
+    // 现在同分区取2个(分区内环形)+ 全局环形补足3个,每篇指南稳定获得 ≥3 条入链。
+    const meta = guideMeta.get(label);
+    const allGuides = [...guideMeta.entries()].sort((a, b) => b[1].count - a[1].count);
+    const gIdx = allGuides.findIndex(([l]) => l === label);
+    const secAll = allGuides.filter(([, m]) => m.section === meta.section);
+    const secRank = secAll.findIndex(([l]) => l === label);
+    const rot = (arr, n) => (arr.length ? arr.slice(n % arr.length).concat(arr.slice(0, n % arr.length)) : arr);
+    const sectionRing = rot(secAll.filter(([l]) => l !== label), Math.max(secRank, 0));
+    const globalRing = rot(allGuides.filter(([l]) => l !== label), Math.max(gIdx, 0));
+    const seen = new Set([label]);
+    const related = [];
+    for (const e of [...sectionRing.slice(0, 2), ...globalRing]) {
+      if (related.length >= 5) break;
+      if (seen.has(e[0])) continue;
+      seen.add(e[0]);
+      related.push(e);
+    }
+    const relatedBlock = related.length ? `\n<h2>Related guides</h2>\n<ul>${related.map(([l, m]) => `<li><a href="guide-${m.file}.html"><b>${esc(l)}: the data guide</b></a> — ${m.count} offers analyzed.</li>`).join("")}</ul>` : "";
     const body = `
 <article class="review">
 <h1>${esc(label)} on Digistore24: the data guide</h1>
@@ -218,6 +239,7 @@ ${tableRows(top)}
 
 <p>Every product links to a full data profile with cancel rate, vendor and listing age. Want the whole category? <a href="../category/${cat.file}.html">Browse all ${items.length} ${esc(label.toLowerCase())} offers</a>. Evaluate any offer with our <a href="digistore24-numbers-checklist.html">6-point numbers check</a> — the method behind this guide.</p>
 ${DE_GUIDE_SLUGS[label] ? `<p class="sub">Dieser Guide ist auch auf <a href="https://vsyour-cmd.github.io/digistore-picks-de/blog/guide-${DE_GUIDE_SLUGS[label]}.html" hreflang="de">Deutsch verfügbar</a>.</p>` : ""}
+${relatedBlock}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", `guide-${slug(label)}.html`), layout({ title: `${label} on Digistore24: ${items.length} offers analyzed — ${SITE_NAME}`, desc: `Data guide to ${items.length} ${label} products on Digistore24: prices, commissions, conversion. Updated ${UPDATED}.`, body, rel: "..", file: `guide-${slug(label)}.html` }));
   }
@@ -297,7 +319,10 @@ function headToHead() {
   let built = 0;
   // 短标签:预截断到 22 字符,避免双长标签标题经 capTitle 截断后与产品页同名(audit-full 重复标题门禁)
   const t22 = (s) => { s = String(s || "").trim().replace(/\s+/g, " "); if (s.length <= 22) return s; const c = s.slice(0, 22); const sp = c.lastIndexOf(" "); return (sp > 12 ? c.slice(0, sp) : c).replace(/[\s,;:.-]+$/g, "") + "…"; };
-  for (const [A, B] of pairs) {
+  // 改进项 blog-crosslink:对比文互链 — 环形轮转(每篇链向后 4 篇),每篇稳定获得 4 条同侪入链
+  const vsMeta = pairs.map(([A, B]) => ({ f: "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html", t: `${t22(A.label)} vs ${t22(B.label)}` }));
+  for (let pi = 0; pi < pairs.length; pi++) {
+    const [A, B] = pairs[pi];
     const slugName = "vs-" + slug(A.label) + "-vs-" + slug(B.label) + ".html";
     const row = (p, self) => `<tr${self ? ' class="self"' : ""}><td>${self ? `<b>${esc(p.label)}</b>` : `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a>`}</td><td>${esc(p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`;
     const pick = (label, p) => `<li><b>${label}:</b> <a href="../reviews/${p.slug}.html">${esc(p.label)}</a> — ${money(p.earningsPerSale, p.currency)}/sale, ${pct(p.commission)} comm, ${money(p.price, p.currency)}</li>`;
@@ -333,6 +358,8 @@ ${pick("Better cart conversion", betterConv)}
 <h2>Fit beats numbers</h2>
 <p>Both are high-ticket listings — the right choice depends on your audience and promotion style, not on a single metric. Read both full profiles (linked above), check each vendor's sales page for current guarantees, and note that cancel rates reflect the vendor's overall traffic, not yours.</p>
 <p>Deep-dive alternatives: <a href="../alternatives/${A.slug}.html">alternatives to ${esc(A.label)}</a> · <a href="../alternatives/${B.slug}.html">alternatives to ${esc(B.label)}</a></p>
+${pairs.length > 1 ? `<h2>More head-to-head comparisons</h2>
+<ul>${[...Array(Math.min(4, pairs.length - 1)).keys()].map((k) => vsMeta[(pi + 1 + k) % pairs.length]).map((v) => `<li><a href="${v.f}">${esc(v.t)}</a> — same-series marketplace comparison.</li>`).join("\n")}</ul>` : ""}
 </article>`;
     fs.writeFileSync(path.join(ROOT, "blog", slugName), layout({ title: `${t22(A.label)} vs ${t22(B.label)}: which fits you?`, desc: `${A.label} (${money(A.price, A.currency)}) vs ${B.label} (${money(B.price, B.currency)}): price, commission, conversion and cancel rate compared on official marketplace data.`, body, rel: "..", file: slugName }));
     built++;
@@ -340,11 +367,48 @@ ${pick("Better cart conversion", betterConv)}
   console.log("head-to-head:", built, "articles" + (pruned ? ", " + pruned + " stale pruned" : ""));
 }
 
+// ---------- 每日文章(2026-10-11):结账转化率 Top 榜 ----------
+function dailyArticle() {
+  const f = "highest-converting-digistore24-offers.html";
+  const pool = products.filter((p) => p.conversionRate != null && p.conversionRate > 0 && (p.earningsPerSale || 0) > 0)
+    .sort((a, b) => b.conversionRate - a.conversionRate).slice(0, 15);
+  const row = (p, i) => `<tr><td>${i + 1}</td><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td><b>${pct(p.conversionRate)}</b></td><td>${pct(p.cancelRate)}</td><td>${money(p.earningsPerSale, p.currency)}</td></tr>`;
+  const body = `<article class="review">
+<h1>The highest-converting Digistore24 offers right now</h1>
+<p class="sub">By ${SITE_NAME} editorial · Cart conversion as reported by the marketplace · Data snapshot ${UPDATED}</p>
+<div class="notice"><b>Research method:</b> ranking computed from the official Digistore24 marketplace records of all ${DATA.total} English-language offers (${DATA.withResearch} with sales-page research). Cart conversion = share of order-form visitors who buy, vendor-reported across the vendor's traffic. No hands-on claims.</div>
+<div class="tldr"><b>Key takeaways</b> (data as of ${UPDATED}):
+<ul>
+<li>Highest reported cart conversion: <b>${esc(pool[0].label)}</b> at <b>${pct(pool[0].conversionRate)}</b> (${money(pool[0].price, pool[0].currency)}).</li>
+<li>Mid-ticket offers dominate the top of the table — high conversion and accessible pricing often go together.</li>
+<li>Conversion is only half the story: every row also shows the offer's <b>cancel rate</b>, because aggressive funnels often buy conversions with refunds.</li>
+</ul></div>
+<h2>Top 15 by cart conversion</h2>
+<table class="specs">
+<tr><th>#</th><th>Product</th><th>Type</th><th>Price</th><th>Cart conv.*</th><th>Cancel*</th><th>Earn./sale</th></tr>
+${pool.map(row).join("\n")}
+</table>
+<p class="sub">* Vendor-side marketplace statistics across each vendor's traffic — not a forecast of your results.</p>
+<h2>Why high conversion alone is not a buying signal</h2>
+<p>Three reasons to read the cancel column before the conversion column:</p>
+<ul>
+<li><b>Aggressive funnels convert and refund.</b> A 40% cart conversion with a 25% cancel rate nets far less than it looks — and refund-heavy buyers hurt the promoter's reputation too.</li>
+<li><b>Traffic quality is the hidden variable.</b> These percentages describe the vendor's existing traffic mix. Your audience may convert very differently.</li>
+<li><b>Price context matters.</b> A $27 offer converting at 35% and a $2,000 coaching program converting at 35% are entirely different businesses — always check the price column.</li>
+</ul>
+<p>Evaluate any of these with the <a href="digistore24-numbers-checklist.html">6-point numbers check</a>, and compare the top pairs directly in our <a href="index.html">head-to-head series</a>.</p>
+<p class="sub">Data: official Digistore24 marketplace, snapshot ${UPDATED}. Vendor-reported figures, not verified by us.</p>
+</article>`;
+  fs.writeFileSync(path.join(ROOT, "blog", f), layout({ title: "The highest-converting Digistore24 offers (data-driven)", desc: `The 15 Digistore24 offers with the highest reported cart conversion — with cancel rates alongside, because conversion alone misleads. Snapshot ${UPDATED}.`, body, rel: "..", file: f }));
+  console.log("daily article (EN):", f);
+}
+
 // ---------- blog index ----------
 function blogIndex() {
   const files = [
     ["top-20-highest-earning-digistore24-products.html", "The 20 highest-earning Digistore24 products (by the numbers)", `All ${DATA.total} English offers ranked by official earnings-per-sale. Auto-refreshed.`],
     ["digistore24-numbers-checklist.html", "Before you buy (or promote): a 6-point numbers check", "The method behind every profile on this site — usable on any offer you're evaluating."],
+    ["highest-converting-digistore24-offers.html", "The highest-converting Digistore24 offers (and the catch)", "Top cart-conversion offers with cancel rates alongside — vendor-reported data."],
   ];
   const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
   for (const label of majors) {
@@ -379,6 +443,7 @@ fs.mkdirSync(path.join(ROOT, "blog"), { recursive: true });
 top20();
 categoryGuides();
 headToHead();
+dailyArticle();
 checklist();
 blogIndex();
 console.log("blog built: " + fs.readdirSync(path.join(ROOT, "blog")).length + " pages");

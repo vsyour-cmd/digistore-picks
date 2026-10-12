@@ -13,7 +13,7 @@ cancel_rate_pct: 0
 categories: []
 listed_since: "2025-09-04"
 marketplace_data_date: "2026-10-10"
-research_date: "2026-10-10"
+research_date: "2026-10-11"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633826?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633826"
@@ -22,7 +22,7 @@ language: "en"
 # From Beginner to Fluent
 
 > Product ID `53831` · Digistore24 productId `633826` · [HTML profile page](../../reviews/from-beginner-to-fluent-53831.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-10 · Research quality: **rich**
+> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -76,6 +76,14 @@ language: "en"
 - **OG image:** https://www.digistore24.com/pb/img/merchant_4830506/image/product/GYCXPZFA.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
