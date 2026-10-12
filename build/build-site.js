@@ -713,7 +713,8 @@ ${alts.map(row).join("\n")}
 <li><b>Lowest cancel rate:</b> ${esc([p, ...alts].sort((a, b) => (a.cancelRate || 99) - (b.cancelRate || 99))[0].label)} (${pct(Math.min(...[p, ...alts].map((x) => x.cancelRate || 99)))}) — fewer refund regrets.</li>
 <li><b>Lowest price:</b> ${esc([p, ...alts].sort((a, b) => (a.price || 1e9) - (b.price || 1e9))[0].label)} (${money(Math.min(...[p, ...alts].map((x) => x.price || 1e9)), p.currency)}).</li>
 </ul>
-<p>Every product links to a full profile with verbatim sales-page research. Always confirm price and guarantee on the official page before buying.</p>`;
+<p>Every product links to a full profile with verbatim sales-page research. Always confirm price and guarantee on the official page before buying.</p>
+<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. Evidence &amp; verification conditions: all statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); comparisons are computed from that snapshot and re-computed on every daily rebuild.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",
@@ -777,7 +778,8 @@ ${budget && budget.id !== bestOverall.id && budget.id !== bestConv.id ? pick("�
 <tr><th>#</th><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Earn./sale</th><th>Cart conv.*</th></tr>
 ${byEps.slice(0, 10).map((p, i) => `<tr><td>${i + 1}</td><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td></tr>`).join("\n")}
 </table>
-<p class="sub">* Vendor-side marketplace statistics; they depend on traffic quality and are not a forecast of your results. Verify current prices and guarantees on each official sales page.</p>`;
+<p class="sub">* Vendor-side marketplace statistics; they depend on traffic quality and are not a forecast of your results. Verify current prices and guarantees on each official sales page.</p>
+<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. Evidence &amp; verification conditions: rankings computed from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); "best" means best on one measured dimension, re-computed on every daily rebuild.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",

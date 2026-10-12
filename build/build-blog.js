@@ -358,6 +358,7 @@ ${pick("Better cart conversion", betterConv)}
 <h2>Fit beats numbers</h2>
 <p>Both are high-ticket listings — the right choice depends on your audience and promotion style, not on a single metric. Read both full profiles (linked above), check each vendor's sales page for current guarantees, and note that cancel rates reflect the vendor's overall traffic, not yours.</p>
 <p>Deep-dive alternatives: <a href="../alternatives/${A.slug}.html">alternatives to ${esc(A.label)}</a> · <a href="../alternatives/${B.slug}.html">alternatives to ${esc(B.label)}</a></p>
+<p class="sub">Evaluation method: <a href="digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. Evidence &amp; verification conditions: all figures from the official Digistore24 marketplace API (snapshot ${UPDATED}); the comparison is re-computed on every daily rebuild.</p>
 ${pairs.length > 1 ? `<h2>More head-to-head comparisons</h2>
 <ul>${[...Array(Math.min(4, pairs.length - 1)).keys()].map((k) => vsMeta[(pi + 1 + k) % pairs.length]).map((v) => `<li><a href="${v.f}">${esc(v.t)}</a> — same-series marketplace comparison.</li>`).join("\n")}</ul>` : ""}
 </article>`;
