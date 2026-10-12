@@ -42,6 +42,7 @@ add("", DATA_DATE);
 add("about.html", TODAY);
 add("monthly-new.html", TODAY);
 add("price-watch.html", TODAY);
+add("amazon-picks.html", TODAY);
 add("changelog.html", TODAY);
 add("digistore24-refunds.html", TODAY);
 add("is-digistore24-safe.html", TODAY);

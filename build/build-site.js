@@ -175,7 +175,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
   <div class="buyerlinks"><b>Buyer help:</b> <a href="${rel}/digistore24-refunds.html">How Digistore24 refunds work</a> · <a href="${rel}/is-digistore24-safe.html">Is Digistore24 safe?</a> · <a href="${rel}/buy-with-confidence.html">Before you buy: checklist</a></div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="${rel}/changelog.html">What's new</a> · <a href="${rel}/price-watch.html">Price tracker</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="${rel}/changelog.html">What's new</a> · <a href="${rel}/price-watch.html">Price tracker</a> · <a href="${rel}/amazon-picks.html">Amazon picks</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -1799,6 +1799,37 @@ ${delisted.length ? `<h2 id="gone">No longer in the marketplace record (${delist
   console.log(`price-watch: ${priceUp.length} up / ${priceDown.length} down / ${statChanges.length} stat / ${newListings.length} new / ${delisted.length} gone (window ${snaps[0]} → now, ${windowDays}d)`);
 }
 
+// ---------- Amazon 精选页(编辑精选 + 分类搜索,tag 计佣) ----------
+function amazonPicksPage() {
+  const tag = (AMAZON_PICKS && AMAZON_PICKS.tag) || AMAZON_TAG;
+  const picks = (AMAZON_PICKS && AMAZON_PICKS.storefront) || [];
+  const catLinks = DATA.categories.filter((c) => c.count >= 10).map((c) => {
+    const kw = amazonKwFor({ categories: [c.label] });
+    return `<li><a href="https://www.amazon.com/s?k=${encodeURIComponent(kw)}&tag=${tag}" rel="nofollow sponsored noopener" target="_blank">${esc(kw)}</a> — live Amazon results, matched to our <a href="../category/${c.file}.html">${esc(c.label)}</a> category (${c.count} offers).</li>`;
+  }).join("\n");
+  const body = `
+<h1>Our Amazon picks</h1>
+<p class="sub">Editor picks &amp; category shortcuts · Amazon.com · Associate tag <code>${esc(tag)}</code> · Updated ${datemark(DATA.scrapedAt)}</p>
+<div class="tldr"><b>At a glance:</b> <ul>
+<li>Hand-picked Amazon listings below, plus search shortcuts matched to the ${DATA.categories.length} categories in our directory.</li>
+<li>As an Amazon Associate we earn from qualifying purchases — the price you pay is identical.</li>
+<li>Digital products stay on Digistore24; this page covers physical goods and streaming that pair with them.</li>
+</ul></div>
+${picks.length ? `<h2>Editor picks</h2>
+<ul style="line-height:1.9">${picks.map((c) => `<li><a href="${esc(c.url)}" rel="nofollow sponsored noopener" target="_blank">${esc(c.title)}</a>${c.note ? ` — ${esc(c.note)}` : ""}</li>`).join("\n")}</ul>
+<p class="sub">Titles kept descriptive until verified against the live listing; Amazon sets its own prices, availability and commissions.</p>` : ""}
+<h2>Category shortcuts</h2>
+<p>Live Amazon searches, one per major category — Amazon ranks the results, we match the keywords:</p>
+<ul style="line-height:1.9">${catLinks}</ul>
+<p class="sub"><b>Sponsored:</b> as an Amazon Associate, ${SITE_NAME} earns from qualifying purchases. Amazon's commissions (typically low single digits) are far below Digistore24 vendors' 30–75% — we list Amazon for physical-goods convenience, not as a substitute for the digital products in our <a href="index.html">directory</a>. Method &amp; standards: <a href="about.html">about page</a>.</p>`;
+  fs.writeFileSync(outPath("amazon-picks.html"), layout({
+    title: "Our Amazon picks: gear & streaming for Digistore24 buyers",
+    desc: `Editor-picked Amazon products and category search shortcuts that pair with the digital offers in our Digistore24 directory. Associate disclosure included. Updated ${datemark(DATA.scrapedAt)}.`,
+    body, path: "amazon-picks.html", hreflangLinks: HREF_HOME,
+  }));
+  console.log(`amazon-picks: ${picks.length} storefront picks, ${DATA.categories.filter((c) => c.count >= 10).length} category shortcuts`);
+}
+
 const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
@@ -1810,6 +1841,7 @@ trustPages();
 monthlyNewPage();
 priceWatchPage();
 faqHubPages();
+amazonPicksPage();
 changelogPage();
 vendorHubs();
 const guideCount = deepDiveGuides(altSlugs);
