@@ -2,6 +2,18 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-13",
+      "summary": "Content overhaul: every category now has a 50-question buyer FAQ hub (each answer computed from that category's own marketplace numbers), product pages gained a Reddit community section (~5 links: real subreddits plus live searches, curated buyer questions on featured offers) and a sponsored Amazon section (Associate tag adminstore05-20). New page: /amazon-picks.html with editor picks and category search shortcuts. Marketplace data remains frozen at the 2026-10-10 snapshot pending re-login; a freshness guard now fails the build loudly if the scrape output is older than 26h.",
+      "changes": [
+        "FAQ hubs: 42 category pages at faq/{category}.html — 50 data-driven Q&As each (costs, refunds, trust, buying guidance, data method) with FAQPage markup",
+        "product pages: 'Discuss on Reddit' block (subreddit map by category + live search links), 'Related shopping on Amazon' with disclosure, and a link to the full category FAQ",
+        "Amazon: /amazon-picks.html — editor picks (amzn.to) plus 31 category search shortcuts; per-product/per-category picks configurable via data/amazon-picks.json",
+        "curation: the 20-question buyer sets from community research are now embedded on the six featured offers",
+        "internal linking: FAQ hubs cross-link in a ring; guide pages linked from category top-10 tables; low-inlink cohort at 15 (structural pagination only)",
+        "freshness guard: build-dataset exits with an explicit re-login instruction when the marketplace scrape is stale — no more silent publication of frozen data"
+      ]
+    },
+    {
       "date": "2026-10-12",
       "summary": "Category pages upgraded: every category page (incl. pagination) now carries an at-a-glance TL;DR block and a Top-10 earnings comparison table. Daily article: the 15 highest-converting offers, with cancel rates alongside. Also live today: 10 deep-dive guides for the top offers, llms-full.txt expanded to 500 with vendor/category index, related-guide cross-linking, and vendor-hub backlinks on product pages. Marketplace scrape skipped (session tooling gap) — data snapshot of 2026-10-10 remains the current dataset.",
       "changes": [

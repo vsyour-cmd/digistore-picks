@@ -45,13 +45,19 @@ node build/optimize-images.js       # 压缩转WebP(600px,q80)+记录尺寸;幂�
 ## 阶段 4:构建
 
 ```
-node build/build-dataset.js         # 合并 marketplace + research → site/data/dataset.json
+node build/build-dataset.js         # 合并 marketplace + research → site/data/dataset.js(⚠️ 内置 26h 新鲜度守卫:products-*.json 的 scrapedAt 超过 26h 会 exit 1 并提示重登 IAB——此时按第 1 步重新登录后重跑抓取,不要跳过守卫)
 node build/gen-md.js                # 每产品 MD 档案 → site/content/products/ (1243个)
 node build/build-site.js            # 全产品 HTML 档案页 + 分类页 + 首页 + about(SEO/GEO: canonical/OG/JSON-LD/TL;DR/面包屑)
 node build/build-blog.js            # 数据驱动博客(Article JSON-LD + Key takeaways)
 node build/build-extras.js          # sitemap.xml / robots.txt / llms.txt / feed.xml(必须在最后)
 node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂商的幽灵页(先 --dry 预览;blog/根目录手写文件不受影响)
-# 新增页面生成器:build-site.js 同时产出 alternatives/(对比页60)+ best-of/(聚合页36)+ 404.html + 分类分页
+# build-site.js 一并产出(2026-10 起的完整页面清单):
+#   alternatives/(对比页)+ best-of/(聚合页)+ 404.html + 分类分页
+#   reviews/{slug}/guide.html      深度顾问页×10(收益Top10,1500+词,产品页有入口)
+#   price-watch.html               价格监控页(对比 history/ 快照,快照<7天时显示累计窗口)
+#   faq/{category}.html            分类FAQ枢纽×42(50问/分类,数据驱动答案,FAQPage JSON-LD)
+#   amazon-picks.html              亚马逊精选页(tag adminstore05-20;选品配置 G:/Digistore24/data/amazon-picks.json)
+#   产品页内嵌:Reddit社区区块(~5链)+ Amazon搜索链 + 分类FAQ入口 + 厂商hub条件链(HUB_SLUGS)
 ```
 
 数据文件结构(dataset.json):`{affiliateId:'adminstore', scrapedAt, researchedAt, total, withResearch, categories:[{catId,section,label,count}], products:[{id,productId,label,type,price,currency,commission,conversionRate,cancelRate,earningsPerSale,earningsPerClick,vendorName,description,imageUrl,salesPageUrl,promoLink,affiliateSupportPageUrl,autoAccept,billingTypes,createdAt,categories,categoryIds,research?}]}`
