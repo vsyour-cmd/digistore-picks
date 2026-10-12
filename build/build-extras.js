@@ -57,6 +57,8 @@ for (const p of DATA.products) {
   const img = localImg(p.id);
   add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE, img);
 }
+// 分类 FAQ 枢纽页(50 问/分类)
+for (const c of DATA.categories) add(`faq/${c.file}.html`, TODAY);
 // deep-dive 顾问页(收益 Top10,与 build-site.js 的 GUIDE_POOL 同一筛选)
 for (const p of [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10)) {
   add(`reviews/${slug(p.label || "Digistore24 product " + p.id)}-${p.id}/guide.html`, TODAY);

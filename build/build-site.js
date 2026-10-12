@@ -330,7 +330,7 @@ function categoryPages() {
     const topTable = top10.length ? `<h2>Top ${esc(c.label)} offers by earnings/sale — side by side</h2>
 <table class="specs">
 <tr><th>Product</th><th>Type</th><th>Price</th><th>Commission</th><th>Earn./sale</th><th>Cart conv.*</th><th>Cancel*</th></tr>
-${top10.map((p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`).join("\n")}
+${top10.map((p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a>${GUIDE_IDS.has(String(p.id)) ? ` · <a href="../reviews/${p.slug}/guide.html" title="Full buying guide">guide</a>` : ""}</td><td>${esc(p.type)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pct(p.commission)}</td><td><b>${money(p.earningsPerSale, p.currency)}</b></td><td>${pct(p.conversionRate)}</td><td>${pct(p.cancelRate)}</td></tr>`).join("\n")}
 </table>
 <p class="sub">* Cart conversion and cancel rate are vendor-side marketplace statistics and depend on traffic quality — not a forecast. Category-wide top 10 as of ${datemark(DATA.scrapedAt)}; identical on every page of this category.</p>` : "";
     pages.forEach((chunk, idx) => {
@@ -351,7 +351,7 @@ ${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
         })),
       };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Short on time? See <a href="../best-of/best-${c.file}.html">our best picks in ${esc(c.label)}</a> — computed from the same data.</p>` : "";
-      const tldrBlock = `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>${isRealCat && items.length >= 8 ? `Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · ` : ""}method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>`;
+      const tldrBlock = `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>${isRealCat && items.length >= 8 ? `Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · ` : ""}<a href="../faq/${c.file}.html">50 buyer questions</a> · method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>`;
       const methodLine = `<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>.</p>`;
       const evidenceLine = `<p class="sub">Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); always verify current prices on official pages.</p>`;
       const body = `
@@ -509,6 +509,10 @@ ${deList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks-d
     const faqQas = faqData(p, altData);
     const faqBlock = faqSection(p, faqQas);
     const faqLd = faqJsonLd(p, faqQas);
+    const faqHubCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
+    const faqHubHtml = faqHubCat ? `<p class="sub"><a href="../faq/${faqHubCat.file}.html">All 50 buyer questions about ${esc(faqHubCat.label)}</a> — the full category FAQ.</p>` : "";
+    const communityHtml = communityBlock(p);
+    const amazonHtml = amazonBlock(p);
 
     const primaryCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
     const crumbItems = [{ label: "Home", href: "../index.html" }];
@@ -562,6 +566,12 @@ ${evidenceBox(p)}
 ${buyerChecklist(p)}
 
 ${faqBlock}
+
+${faqHubHtml}
+
+${communityHtml}
+
+${amazonHtml}
 
 ${relatedBlock}
 
@@ -1084,6 +1094,235 @@ function categoryFaq(c, items) {
   return qas;
 }
 
+// ---------- 分类 FAQ 库(改进项:每分类 50 个买家常见问题,全部数据驱动、可验证) ----------
+const AMAZON_TAG = "adminstore05-20";
+const AMAZON_PICKS = (() => { try { return JSON.parse(fs.readFileSync("G:/Digistore24/data/amazon-picks.json", "utf8")); } catch { return {}; } })();
+// 分类 → Reddit 社区(真实存在的 sub,链接指向社区主页/搜索,不断链)
+const SUBREDDIT_MAP = [
+  { re: /supplement|health|fitness|weight|diet|nutrition/i, subs: ["Supplements", "nutrition"] },
+  { re: /business|marketing|e-?commerce|entrepreneur|sales|management|office|project/i, subs: ["Entrepreneur", "smallbusiness"] },
+  { re: /investment|trading|finance|crypto|money|economy|politics/i, subs: ["personalfinance", "investing"] },
+  { re: /crypto/i, subs: ["CryptoCurrency"] },
+  { re: /spiritua|esoteric|religion/i, subs: ["spirituality"] },
+  { re: /language/i, subs: ["languagelearning"] },
+  { re: /software|computer|internet|technology/i, subs: ["software", "SideProject"] },
+  { re: /home|garden|craft|hobby/i, subs: ["DIY"] },
+  { re: /pet|animal/i, subs: ["pets"] },
+  { re: /dating|relationship|family|children/i, subs: ["relationships"] },
+  { re: /sport|football|soccer/i, subs: ["Fitness"] },
+  { re: /photography|film|video/i, subs: ["photography"] },
+  { re: /travel|culture/i, subs: ["travel"] },
+  { re: /education|profession|job|career/i, subs: ["careerguidance"] },
+  { re: /game|fun/i, subs: ["gaming"] },
+  { re: /music|dancing/i, subs: ["WeAreTheMusicMakers"] },
+  { re: /green|environment/i, subs: ["sustainability"] },
+  { re: /fashion|beauty|skin/i, subs: ["beauty"] },
+  { re: /hotel|gastronomy|food|drink|cooking/i, subs: ["cooking"] },
+];
+const subsFor = (p) => {
+  const lbl = (p.categories || []).join(" ") + " " + (p.type || "");
+  const hit = SUBREDDIT_MAP.find((m) => m.re.test(lbl));
+  return hit ? hit.subs : [];
+};
+// 亚马逊分类关键词(用于 tag 搜索链接;具体 ASIN 推荐走 data/amazon-picks.json)
+const AMAZON_KW = [
+  { re: /supplement|health|fitness|weight|diet/i, kw: "supplements" },
+  { re: /software|computer/i, kw: "productivity software" },
+  { re: /marketing|business|sales/i, kw: "marketing books" },
+  { re: /investment|trading|finance|crypto/i, kw: "investing books" },
+  { re: /language/i, kw: "language learning" },
+  { re: /home|garden/i, kw: "home garden tools" },
+  { re: /pet|animal/i, kw: "pet supplies" },
+  { re: /photography|film|video/i, kw: "camera accessories" },
+  { re: /music|dancing/i, kw: "music equipment" },
+  { re: /cooking|food|drink/i, kw: "kitchen gadgets" },
+  { re: /sport/i, kw: "sports equipment" },
+  { re: /beauty|skin|fashion/i, kw: "skincare" },
+  { re: /travel/i, kw: "travel accessories" },
+  { re: /spiritua|esoteric/i, kw: "meditation books" },
+];
+const amazonKwFor = (p) => {
+  const lbl = (p.categories || []).join(" ");
+  const hit = AMAZON_KW.find((m) => m.re.test(lbl));
+  return hit ? hit.kw : ((p.categories || [])[0] || "digital products") + " book";
+};
+// 已整理的社区问题(research-notes/reddit-questions-en.md,6 个重点产品 × 20 问)
+const CURATED_QA = (() => {
+  const f = "G:/Digistore24/research-notes/reddit-questions-en.md";
+  const map = { 1: "58899", 2: "57396", 3: "56740", 4: "47080", 5: "33696", 6: "48578" };
+  try {
+    const md = fs.readFileSync(f, "utf8");
+    const out = {};
+    for (const s of md.split(/^## /m).slice(1)) {
+      const pid = map[parseInt(s, 10)];
+      if (!pid) continue;
+      const qs = [...s.matchAll(/^\|\s*\d+\s*\|\s*"?(.+?)"?\s*\|/gm)].map((m) => m[1]).filter((q) => q.length > 8);
+      if (qs.length) out[pid] = qs;
+    }
+    return out;
+  } catch { return {}; }
+})();
+
+function communityBlock(p) {
+  const subs = subsFor(p);
+  const links = subs.slice(0, 3).map((s) => `<li><a href="https://www.reddit.com/r/${s}/" rel="noopener" target="_blank">r/${s}</a> — community discussions that often touch ${esc((p.categories || [])[0] || "this product category").toLowerCase()}.</li>`);
+  links.push(`<li><a href="https://www.reddit.com/search/?q=${encodeURIComponent(p.label)}&sort=relevance&t=year" rel="noopener" target="_blank">Search Reddit for "${esc(p.label)}"</a> — real-time results, we don't control them.</li>`);
+  links.push(`<li><a href="https://www.reddit.com/search/?q=${encodeURIComponent(p.label + " review")}&sort=top&t=year" rel="noopener" target="_blank">Top "review" mentions this year</a> — sort by top, filter by recency yourself.</li>`);
+  const curated = CURATED_QA[String(p.id)];
+  const curatedHtml = curated ? `<p class="sub">Curated buyer questions we track for this offer (community research, ${curated.length} on file):</p><ul>${curated.slice(0, 6).map((q) => `<li>${esc(q)}</li>`).join("")}</ul><p class="sub">These are questions, not answers — the answered FAQ is above; the discussion happens on Reddit.</p>` : "";
+  return `<h2 id="community">Discuss ${esc(p.label)} on Reddit</h2>
+<p class="sub">Community threads are where real buyers compare notes. We link to communities, not to specific posts — threads move, subreddits stay:</p>
+<ul style="line-height:1.9">${links.join("\n")}</ul>
+${curatedHtml}`;
+}
+
+function amazonBlock(p) {
+  const tag = (AMAZON_PICKS && AMAZON_PICKS.tag) || AMAZON_TAG;
+  const catFile = (() => { const co = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0])); return co ? co.file : ""; })();
+  const picks = ((AMAZON_PICKS.products || {})[String(p.id)] || (AMAZON_PICKS.categories || {})[catFile] || []).slice(0, 3);
+  const items = picks.map((c) => `<li><a href="${c.url || `https://www.amazon.com/dp/${c.asin}?tag=${tag}`}" rel="nofollow sponsored noopener" target="_blank">${esc(c.title || c.asin)}</a>${c.note ? ` — ${esc(c.note)}` : ""}</li>`);
+  const kw = amazonKwFor(p);
+  if (!items.length) {
+    items.push(`<li><a href="https://www.amazon.com/s?k=${encodeURIComponent(kw)}&tag=${tag}" rel="nofollow sponsored noopener" target="_blank">Shop ${esc(kw)} on Amazon</a> — top results, Amazon's ranking.</li>`);
+    items.push(`<li><a href="https://www.amazon.com/s?k=${encodeURIComponent(kw + " bestseller")}&tag=${tag}" rel="nofollow sponsored noopener" target="_blank">Bestsellers in ${esc(kw)}</a> — live Amazon list, we don't curate it.</li>`);
+  }
+  return `<h2 id="amazon">Related shopping on Amazon</h2>
+<p>Physical products and gear commonly bought alongside ${esc(p.label)}:</p>
+<ul style="line-height:1.9">${items.join("\n")}</ul>
+<p class="sub"><b>Sponsored:</b> as an Amazon Associate, ${SITE_NAME} earns from qualifying purchases (tag <code>${esc(tag)}</code>). Amazon sets its own prices and commissions (typically low single digits — far below Digistore24 vendors' 30–75%). We list Amazon as a convenience for physical goods; it is not an alternative to the digital product above.</p>`;
+}
+
+function faqBank(cat, items) {
+  const n = items.length;
+  const sorted = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  const prices = items.map((p) => p.price).filter((x) => x != null).sort((a, b) => a - b);
+  const med = prices.length ? prices[Math.floor(prices.length / 2)] : 0;
+  const minP = prices[0], maxP = prices[prices.length - 1];
+  const withG = items.filter((p) => p.research && !p.research.error && p.research.guaranteeMention);
+  const gPct = n ? Math.round((withG.length / n) * 100) : 0;
+  const cancels = items.map((p) => p.cancelRate).filter((x) => x != null).sort((a, b) => a - b);
+  const medC = cancels.length ? cancels[Math.floor(cancels.length / 2)] : null;
+  const vendors = new Set(items.map((p) => p.vendorName)).size;
+  const subs = items.filter((p) => (p.billingTypes || []).some((b) => /subscri/i.test(b))).length;
+  const withStats = items.filter((p) => p.conversionRate != null).length;
+  const unreachable = items.filter((p) => p.research && p.research.error).length;
+  const byDate = [...items].sort((a, b) => new Date(a.createdAt) - new Date(b.createdAt));
+  const newest = byDate[byDate.length - 1], oldestL = byDate[0];
+  const top = sorted[0];
+  const topConv = [...items].sort((a, b) => (b.conversionRate || 0) - (a.conversionRate || 0))[0];
+  const lowC = sorted.slice(0, 10).sort((a, b) => (a.cancelRate || 99) - (b.cancelRate || 99))[0];
+  const cheapest = [...items].sort((a, b) => (a.price || 1e9) - (b.price || 1e9))[0];
+  const topTypes = Object.entries(items.reduce((m, p) => { const t = p.type || "other"; m[t] = (m[t] || 0) + 1; return m; }, {})).sort((a, b) => b[1] - a[1]).slice(0, 2);
+  const L = (p) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a>`;
+  const out = [];
+  const add = (g, q, a) => out.push({ g, q, a });
+  // A. 价格与费用
+  add("Costs & pricing", `How many ${cat.label} products are on Digistore24?`, `<b>${n} English-language offers</b> from ${vendors} different vendors (as of ${datemark(DATA.scrapedAt)}). The <a href="../category/${cat.file}.html">category page</a> lists every one with official marketplace statistics.`);
+  add("Costs & pricing", `What does a typical ${cat.label} product cost?`, `The median list price in this category is <b>${money(med, "USD")}</b>, with a range from ${money(minP, "USD")} to ${money(maxP, "USD")}. Median is more honest than average here — a few very high-ticket offers pull the average up.`);
+  add("Costs & pricing", `Why do ${cat.label} prices vary so much?`, `Spread runs from ${money(minP, "USD")} to ${money(maxP, "USD")}. The list price is often just the entry point: many funnels upsell additional modules or coaching after checkout. Judge offers by the refund terms and cancel rate, not by the sticker.`);
+  add("Costs & pricing", `Are there hidden costs with ${cat.label} products?`, `The Digistore24 checkout shows the binding price before you pay; sales tax/VAT may be added depending on your country. ${subs} of the ${n} listings in this category are subscriptions — those bill repeatedly until cancelled. Everything else on this site is a one-time price as listed.`);
+  add("Costs & pricing", `What's the cheapest ${cat.label} product?`, `${L(cheapest)} at <b>${money(cheapest.price, cheapest.currency)}</b>. Cheap is not the same as good value — check its cancel rate and the sales page before buying.`);
+  add("Costs & pricing", `Do prices include VAT or sales tax?`, `No — the listed price is the vendor's net price. Digistore24 adds the tax your country requires at checkout, where you always see the final amount before paying.`);
+  add("Costs & pricing", `One-time payment or subscription?`, `This category has ${subs} subscription listings out of ${n} total; the rest are one-time purchases. The billing type is shown on every product profile on this site and again at checkout.`);
+  add("Costs & pricing", `Do ${cat.label} prices change often?`, `Vendor-side prices do move. Our <a href="price-watch.html">price tracker</a> diffs daily snapshots of the whole marketplace, so changes ≥1% show up there automatically.`);
+  add("Costs & pricing", `Is a more expensive ${cat.label} product better?`, `Price measures positioning, not quality. The marketplace publishes a cancel rate — the share of buyers who reverse their purchase — and expensive listings are not systematically lower. Use the <a href="../blog/digistore24-numbers-checklist.html">6-point check</a> instead of the price tag.`);
+  add("Costs & pricing", `Can I pay in installments?`, `Some vendors offer installment plans (shown as separate billing types on the sales page). Digistore24 processes whatever the vendor configured — the checkout page shows your options before you commit.`);
+  // B. 退款与保障
+  add("Refunds & guarantees", `Do ${cat.label} products come with a money-back guarantee?`, `${gPct}% of the sales pages we researched in this category state explicit guarantee language (vendor claims — not our verification). Digistore24 processes refunds per the vendor's terms; the checkout page is the binding source.`);
+  add("Refunds & guarantees", `How do Digistore24 refunds work?`, `You request the refund through Digistore24 (support portal or the link in your order email), Digistore24 forwards it to the vendor's terms, and the payment is reversed through the platform. Full mechanics: <a href="../digistore24-refunds.html">how Digistore24 refunds work</a>.`);
+  add("Refunds & guarantees", `How long is the refund window for ${cat.label}?`, `It is set per product by the vendor — many Digistore24 listings carry 60 days, some 14 or 30. The window is shown at checkout; treat that page, not the sales page, as binding.`);
+  add("Refunds & guarantees", `What is a "cancel rate" and why should I care?`, `It's the share of a product's completed purchases that end in cancellation or refund. This category's median is ${medC != null ? "<b>" + pct(medC) + "</b>" : "not published"} (vendor-side, across the vendor's traffic). It is the single best proxy for "how often do buyers regret this".`);
+  add("Costs & pricing", `Which ${cat.label} products have the lowest cancel rates?`, `Among the top earners, ${L(lowC)} currently reports the lowest cancel rate (${pct(lowC.cancelRate)}). Compare the whole table on the <a href="../category/${cat.file}.html">category page</a>.`);
+  add("Refunds & guarantees", `What if the vendor's sales page is already offline?`, `${unreachable} listing${unreachable === 1 ? "" : "s"} in this category currently have unreachable sales pages (dead domains, bot walls). Their profiles say so. Don't buy what you can't review — the refund process needs a working vendor behind it.`);
+  add("Refunds & guarantees", `How do refunds work for subscriptions?`, `You can cancel future billing through Digistore24 at any time; past periods are refunded per the vendor's guarantee window. The cancellation control lives in your Digistore24 customer account.`);
+  add("Refunds & guarantees", `Chargeback or refund — which is better?`, `Use the Digistore24 refund process first: it's faster, it doesn't cost the vendor a chargeback fee dispute, and it keeps your record clean with your bank. Chargebacks are the fallback when the refund process genuinely fails.`);
+  add("Refunds & guarantees", `What if a vendor ignores a refund request?`, `Digistore24's buyer support mediates — the platform processed your payment and has leverage over the vendor. Contact them via the support link in your order confirmation email with your order number.`);
+  add("Refunds & guarantees", `Is there any buyer protection beyond the guarantee?`, `Your strongest protections: paying through Digistore24 (never direct transfer), screenshotting the guarantee terms at checkout, and deciding inside the window. More background: <a href="../is-digistore24-safe.html">is Digistore24 safe?</a>`);
+  // C. 信任与安全
+  add("Trust & safety", `Is it safe to buy ${cat.label} products on Digistore24?`, `Digistore24 is a established payment platform — checkout, delivery and refunds run through it, so your card details go to Digistore24, not the vendor. The product quality itself is a vendor question: judge each listing with the marketplace data on this site. See <a href="../is-digistore24-safe.html">the full safety breakdown</a>.`);
+  add("Trust & safety", `Who sells ${cat.label} products on Digistore24?`, `${vendors} different vendors currently list in this category. Every product profile names its vendor and lists their other catalog entries (where a <a href="../vendors/index.html">vendor hub</a> exists).`);
+  add("Trust & safety", `How do I spot a scammy ${cat.label} listing?`, `Our checklist: unreachable or recycled sales page, no guarantee wording, urgency countdowns paired with a high cancel rate, and vendor identities that change names weekly. None of these is proof of a scam — together they lower your odds. The <a href="../blog/digistore24-numbers-checklist.html">6-point check</a> operationalizes this.`);
+  add("Trust & safety", `Are the sales-page claims verified by anyone?`, `No. Everything we quote from sales pages is labeled <b>vendor claims, not verified by us</b>. Marketplace statistics (price, commission, conversion, cancel rate) come from the official Digistore24 record — those are vendor-reported too, but they're the numbers the platform itself keeps.`);
+  add("Trust & safety", `Which payment methods does Digistore24 accept?`, `Common methods include major credit/debit cards, PayPal and several country-specific options — the checkout page shows exactly what's available for your country. If a vendor pushes you off-platform to pay, walk away.`);
+  add("Trust & safety", `Who runs this site and why should I trust it?`, `${SITE_NAME} is an independent directory. We publish vendor-side marketplace statistics with their limitations, label sales-page quotes as vendor claims, show our data sources, and log every change in a public <a href="changelog.html">changelog</a>. We earn affiliate commissions — disclosed on every page — but the data itself is not for sale.`);
+  add("Trust & safety", `Have you bought the ${cat.label} products listed here?`, `No. Our profiles are <b>data profiles</b> (marketplace record + verbatim sales-page extracts), not hands-on reviews. When we ever publish a hands-on review, the page says so at the top. Honesty about what we haven't done is the point.`);
+  add("Trust & safety", `Why do some ${cat.label} profiles lack conversion or cancel-rate stats?`, `${withStats} of ${n} listings in this category publish cart-conversion data; vendors decide which stats Digistore24 shows. Missing stats are displayed as "—" — absence is information too.`);
+  add("Trust & safety", `How current is the data on this site?`, `Marketplace snapshot: <b>${datemark(DATA.scrapedAt)}</b>; sales-page research: ${datemark(DATA.researchedAt) || "—"}. Everything rebuilds daily, and the <a href="changelog.html">changelog</a> logs what changed.`);
+  add("Trust & safety", `Can I download the raw data?`, `Yes — <a href="llms-full.txt">llms-full.txt</a> carries the top-500 dataset in one file, per-product research lives in our public GitHub repository, and every page shows its data snapshot date.`);
+  // D. 分类选购指南
+  add("Buying guidance", `What should I check before buying any ${cat.label} product?`, `Six numbers, in order: price vs. category median (${money(med, "USD")} here), cancel rate vs. median (${medC != null ? pct(medC) : "n/a"} here), guarantee window at checkout, vendor history, sales-page reachability, and your own refund-window discipline. Full method: <a href="../blog/digistore24-numbers-checklist.html">the numbers check</a>.`);
+  add("Buying guidance", `Which ${cat.label} product pays affiliates the most?`, `${L(top)} leads with <b>${money(top.earningsPerSale, top.currency)}</b> earnings per sale at ${pct(top.commission)} commission (vendor-side data). High payouts usually mean high-ticket funnels — read the cancel rate before promoting.`);
+  add("Buying guidance", `Which ${cat.label} offer converts best?`, `${L(topConv)} reports the highest cart conversion in this category (${pct(topConv.conversionRate)}). Conversion measures the checkout funnel, not your future results.`);
+  add("Buying guidance", `What's the newest ${cat.label} listing?`, `${L(newest)}, listed ${datemark(newest.createdAt)}. Very new listings have no track record — their cancel rates are meaningless until traffic accumulates. Track new arrivals on <a href="monthly-new.html">the monthly page</a>.`);
+  add("Buying guidance", `Which ${cat.label} listing has been around longest?`, `${L(oldestL)}, on the marketplace since ${datemark(oldestL.createdAt)}. Longevity is not quality — but a decade-old listing with a low cancel rate has survived real buyers.`);
+  add("Buying guidance", `What types of ${cat.label} products dominate?`, `${topTypes.map(([t, c]) => `${esc(t)} (${c})`).join(" and ")} lead this category. The type is shown on every profile — it affects delivery (immediate download vs. membership access) and refund behavior.`);
+  add("Buying guidance", `Are high-ticket ${cat.label} offers worth it?`, `They can be — if you'd still buy at twice the price and you commit to evaluating inside the refund window. At ${money(maxP, "USD")} for the most expensive listing here, the guarantee terms matter more than the sales page.`);
+  add("Buying guidance", `Do vendors offer discounts or bundles?`, `Frequently — sales pages advertise voucher codes, bundles and crossed-out list prices (our research records these mentions per product). The checkout price is what counts; voucher codes that don't work there don't exist.`);
+  add("Buying guidance", `I want alternatives to a specific ${cat.label} product — where?`, `Top offers have dedicated comparison pages (<a href="../alternatives/index.html">alternatives index</a>), and every product profile links related same-category offers. The full A–Z list: <a href="../reviews/index.html">all ${DATA.total} products</a>.`);
+  add("Buying guidance", `Is there a ${cat.label} product you'd personally recommend?`, `We don't endorse products — no one can vouch for a product they haven't used, and we haven't used these. What we can do: show every marketplace number side by side (<a href="../category/${cat.file}.html">category table</a>) so your decision rests on data, not on the loudest sales page.`);
+  // E. 数据、方法与联盟
+  add("Data & method", `How does ${SITE_NAME} evaluate ${cat.label} products?`, `Mechanically, from official marketplace statistics — no sponsorship, no hands-on testing unless labeled. <a href="../blog/digistore24-numbers-checklist.html">The 6-point numbers check</a> is the method behind every page, including this category.`);
+  add("Data & method", `What does "earnings per sale" mean?`, `The average affiliate payout per completed sale of this product (commission × price, adjusted by refunds). It's a vendor-side marketplace statistic. For buyers it signals how aggressively the offer is being promoted.`);
+  add("Data & method", `What does "cart conversion" mean?`, `The share of people who reach the order form and complete the purchase. It measures the vendor's checkout funnel for their traffic — it is not a forecast of your experience.`);
+  add("Data & method", `Does your affiliate commission change my price?`, `No. If you buy through a link on this site, the vendor pays the commission out of their margin; the checkout price is identical. Disclosure: <a href="about.html">about page</a>, and on every page footer.`);
+  add("Data & method", `How often does this FAQ update?`, `The numbers inside the answers refresh with the daily rebuild (marketplace snapshot ${datemark(DATA.scrapedAt)}). Questions themselves are reviewed as the category evolves — additions and corrections land via the <a href="changelog.html">changelog</a>.`);
+  add("Data & method", `Where do the statistics come from?`, `The official Digistore24 marketplace, as shown to registered affiliates: price, commission, cart conversion, cancel rate, earnings per sale, listing dates. All vendor-side, all caveated, snapshot ${datemark(DATA.scrapedAt)}.`);
+  add("Data & method", `How do I promote ${cat.label} products as an affiliate?`, `Register as a Digistore24 affiliate (free), pick offers with the earnings/sale ÷ cancel-rate math, and use the marketplace's tracking links. This category's commissions run ${Math.round(Math.min(...items.map((p) => p.commission || 0)))}%–${Math.round(Math.max(...items.map((p) => p.commission || 0)))}% per sale.`);
+  add("Data & method", `What does an affiliate link change for me as a buyer?`, `Nothing at checkout — same price, same terms. It attributes the sale to the publisher. Judge the product the same way either way.`);
+  add("Data & method", `Why show marketplace statistics instead of reviews?`, `Reviews can't be verified and age badly. The marketplace record is standardized across all ${n} listings in this category, which makes like-for-like comparison possible — that's the core idea of this site.`);
+  add("Data & method", `I have a problem with a purchase — where do I start?`, `Digistore24 buyer support via the link in your order email, with your order number. Then the vendor's own support for product issues. The refund mechanics: <a href="../digistore24-refunds.html">refunds explained</a>.`);
+  return out;
+}
+
+function faqHubPages() {
+  const dir = outPath("faq");
+  fs.mkdirSync(dir, { recursive: true });
+  let built = 0;
+  const eligible = DATA.categories.filter((c) => products.filter((p) => (p.categoryIds || []).includes(String(c.catId))).length >= 3);
+  for (let ci = 0; ci < eligible.length; ci++) {
+    const c = eligible[ci];
+    const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)));
+    const qas = faqBank(c, items);
+    const groups = [...new Set(qas.map((x) => x.g))];
+    const best = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0];
+    const med = (() => { const p = items.map((x) => x.price).filter((x) => x != null).sort((a, b) => a - b); return p.length ? p[Math.floor(p.length / 2)] : 0; })();
+    const ringHtml = `<p class="sub">More category FAQs: ${[1, 2, 3].map((k) => eligible[(ci + k) % eligible.length]).map((x) => `<a href="../faq/${x.file}.html">${esc(x.label)}</a>`).join(" · ")}</p>`;
+  const body = `
+<h1>${esc(c.label)} on Digistore24: 50 buyer questions, answered</h1>
+<p class="sub">Category FAQ · Marketplace data ${datemark(DATA.scrapedAt)} · ${items.length} offers analyzed · Every figure below is vendor-side marketplace data or labeled vendor claims</p>
+<div class="tldr"><b>At a glance:</b> <ul>
+<li><b>${items.length} offers</b>, median price <b>${money(med, "USD")}</b>, leader: <a href="../reviews/${best.slug}.html">${esc(best.label)}</a> (${money(best.earningsPerSale, best.currency)}/sale).</li>
+<li>The 50 questions below are grouped: costs, refunds, trust, buying guidance, and how our data works.</li>
+<li>Every product page on this site links back here; the numbers refresh daily.</li>
+</ul></div>
+<table class="specs">
+<tr><th>Snapshot</th><th>Value</th></tr>
+<tr><td>Offers / vendors</td><td>${items.length} / ${new Set(items.map((p) => p.vendorName)).size}</td></tr>
+<tr><td>Median / range of list price</td><td>${money(med, "USD")} / ${money(Math.min(...items.map((p) => p.price || 0)), "USD")}–${money(Math.max(...items.map((p) => p.price || 0)), "USD")}</td></tr>
+<tr><td>Median cancel rate</td><td>${(() => { const x = items.map((p) => p.cancelRate).filter((v) => v != null).sort((a, b) => a - b); return x.length ? pct(x[Math.floor(x.length / 2)]) : "not published"; })()}</td></tr>
+<tr><td>Research basis</td><td>Official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); sales-page research ${datemark(DATA.researchedAt) || "—"}</td></tr>
+</table>
+${groups.map((g) => `<h2>${esc(g)}</h2>
+${qas.filter((x) => x.g === g).map((x) => `<h3>${esc(x.q)}</h3>\n<p>${x.a}</p>`).join("\n")}`).join("\n")}
+<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">${ringHtml}
+research standards</a>. Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); guarantee and claim language quoted from vendors' public sales pages is labeled vendor claims and is not our verification.</p>`;
+  
+  const jsonLd = [{
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: qas.slice(0, 10).map((x) => ({ "@type": "Question", name: x.q, acceptedAnswer: { "@type": "Answer", text: x.a.replace(/<[^>]+>/g, "") } })),
+    }];
+    fs.writeFileSync(path.join(dir, c.file + ".html"), layout({
+      title: `${c.label} on Digistore24: 50 buyer questions answered`,
+      desc: `50 real buyer questions about ${c.label} on Digistore24 — pricing, refunds, cancel rates, vendor trust — answered with official marketplace data. Updated ${datemark(DATA.scrapedAt)}.`,
+      body, rel: "..", path: `faq/${c.file}.html`, jsonLd,
+      crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${c.file}.html` }, { label: "FAQ", href: `../faq/${c.file}.html` }],
+    }));
+    built++;
+  }
+  console.log(`faq hubs: ${built} pages (50 Q&As each)`);
+}
+
 function aboutPage() {
   const body = `
 <h1>About ${SITE_NAME}</h1>
@@ -1570,6 +1809,7 @@ aboutPage();
 trustPages();
 monthlyNewPage();
 priceWatchPage();
+faqHubPages();
 changelogPage();
 vendorHubs();
 const guideCount = deepDiveGuides(altSlugs);

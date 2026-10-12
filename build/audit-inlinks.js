@@ -4,8 +4,8 @@ const fs = require("fs");
 const path = require("path");
 
 const SITES = [
-  { lang: "en", root: "G:/Digistore24/site", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors"] },
-  { lang: "de", root: "G:/Digistore24/site-de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller"] },
+  { lang: "en", root: "G:/Digistore24/site", dirs: [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "faq"] },
+  { lang: "de", root: "G:/Digistore24/site-de", dirs: [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "faq"] },
 ];
 
 for (const S of SITES) {
@@ -13,7 +13,11 @@ for (const S of SITES) {
   for (const d of S.dirs) {
     const p = path.join(S.root, d);
     if (!fs.existsSync(p)) continue;
-    for (const f of fs.readdirSync(p)) if (f.endsWith(".html")) files.push(d === "." ? f : d + "/" + f);
+    for (const f of fs.readdirSync(p)) {
+      const fp = path.join(p, f);
+      if (fs.statSync(fp).isDirectory()) { if (d === ".") continue; for (const g of fs.readdirSync(fp)) if (g.endsWith(".html")) files.push(d + "/" + f + "/" + g); continue; }
+      if (f.endsWith(".html")) files.push(d === "." ? f : d + "/" + f);
+    }
   }
   const inl = new Map(files.map((f) => [f, 0]));
   for (const f of files) {

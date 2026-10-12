@@ -86,15 +86,15 @@ function report(r, label) {
   r.structural.slice(0, 5).forEach((x) => console.log(`  ${label} STRUCT`, x));
 }
 
-const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "vendors", "vendors", "vendors", "vendors", "vendors"]);
-const de = qaSite("G:/Digistore24/site-de", "DE", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller"]);
+const en = qaSite("G:/Digistore24/site", "EN", [".", "category", "reviews", "alternatives", "best-of", "blog", "vendors", "faq", "vendors", "vendors", "vendors", "vendors", "vendors"]);
+const de = qaSite("G:/Digistore24/site-de", "DE", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "hersteller", "faq", "hersteller", "hersteller", "hersteller", "hersteller", "hersteller"]);
 report(en, "EN");
 report(de, "DE");
 
 // sitemap 覆盖检查
 for (const [root, sm, dirs] of [
-  ["G:/Digistore24/site", "sitemap.xml", [".", "category", "reviews", "alternatives", "best-of", "blog"]],
-  ["G:/Digistore24/site-de", "sitemap.xml", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog"]],
+  ["G:/Digistore24/site", "sitemap.xml", [".", "category", "reviews", "alternatives", "best-of", "blog", "faq"]],
+  ["G:/Digistore24/site-de", "sitemap.xml", [".", "kategorie", "produkte", "alternativen", "empfehlungen", "blog", "faq"]],
 ]) {
   const smContent = fs.readFileSync(path.join(root, sm), "utf8");
   const smUrls = new Set([...smContent.matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1].replace(/^https:\/\/vsyour-cmd\.github\.io\/digistore-picks(-de)?\//, "")));
