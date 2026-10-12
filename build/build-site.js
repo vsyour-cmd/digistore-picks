@@ -175,7 +175,7 @@ ${crumb ? crumbs(crumb) + "\n" : ""}${body}
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> ${SITE_NAME} contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
   <div class="buyerlinks"><b>Buyer help:</b> <a href="${rel}/digistore24-refunds.html">How Digistore24 refunds work</a> · <a href="${rel}/is-digistore24-safe.html">Is Digistore24 safe?</a> · <a href="${rel}/buy-with-confidence.html">Before you buy: checklist</a></div>
-  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="${rel}/changelog.html">What's new</a></div>
+  <div>© ${new Date().getFullYear()} ${SITE_NAME} · Product data: Digistore24 marketplace (updated ${datemark(DATA.scrapedAt)}) · <a href="${rel}/about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="${rel}/changelog.html">What's new</a> · <a href="${rel}/price-watch.html">Price tracker</a></div>
 </div></footer>
 ${GOATCOUNTER}
 </body>
@@ -1490,6 +1490,76 @@ ${vendorHub ? `<ul>${vendorHub}</ul>` : ""}
   return built;
 }
 
+// ---------- 价格监控页(改进项 price-watch-page:history 快照 vs 当前 dataset 的变动) ----------
+// 快照不足 7 天时仍发布:如实展示累计变动并标注 7 天视图何时可用,数据到齐后自动升级
+function priceWatchPage() {
+  const histDir = "G:/Digistore24/data/history";
+  const suffix = "-en.json";
+  const snaps = fs.existsSync(histDir) ? fs.readdirSync(histDir).filter((f) => f.endsWith(suffix)).map((f) => f.slice(0, 10)).sort() : [];
+  if (!snaps.length || !snaps[0]) { console.log("price-watch: no history snapshots, skipped"); return; }
+  const oldest = JSON.parse(fs.readFileSync(path.join(histDir, snaps[0] + suffix), "utf8"));
+  const oldestMap = new Map((oldest.products || []).map((p) => [String(p.id), p]));
+  const pctChg = (a, b) => (a ? Math.round(((b - a) / a) * 1000) / 10 : null);
+  const priceUp = [], priceDown = [], statChanges = [], newListings = [], delisted = [];
+  for (const p of products) {
+    const o = oldestMap.get(String(p.id));
+    if (!o) { newListings.push(p); continue; }
+    const pc = o.price ? pctChg(o.price, p.price) : null;
+    if (pc != null && Math.abs(p.price - o.price) >= 0.5 && Math.abs(pc) >= 1) (pc > 0 ? priceUp : priceDown).push({ p, o, pc });
+    const dc = o.cancelRate != null && p.cancelRate != null ? p.cancelRate - o.cancelRate : null;
+    const dv = o.conversionRate != null && p.conversionRate != null ? p.conversionRate - o.conversionRate : null;
+    const de = o.earningsPerSale ? ((p.earningsPerSale - o.earningsPerSale) / o.earningsPerSale) * 100 : null;
+    if ((dc != null && Math.abs(dc) >= 0.5) || (dv != null && Math.abs(dv) >= 0.5) || (de != null && Math.abs(de) >= 5)) statChanges.push({ p, o, dc, dv, de });
+  }
+  for (const [id, o] of oldestMap) if (!byId.has(id)) delisted.push(o);
+  const byAbsPc = (a, b) => Math.abs(b.pc) - Math.abs(a.pc);
+  priceUp.sort(byAbsPc); priceDown.sort(byAbsPc);
+  statChanges.sort((a, b) => Math.abs(b.de || 0) - Math.abs(a.de || 0));
+  newListings.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  const windowDays = Math.round((Date.now() - Date.parse(snaps[0])) / 86400000);
+  const sevenDayFrom = new Date(Date.parse(snaps[0]) + 7 * 86400000).toISOString().slice(0, 10);
+  const cap = (arr, n) => ({ rows: arr.slice(0, n), more: Math.max(arr.length - n, 0) });
+  const pUp = cap(priceUp, 20), pDown = cap(priceDown, 20), st = cap(statChanges, 20), nl = cap(newListings, 20), dl = cap(delisted, 20);
+  const row = (p, cells) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td>${cells}</tr>`;
+  const body = `
+<h1>Price tracker: what changed on the Digistore24 marketplace</h1>
+<p class="sub">Marketplace data ${datemark(DATA.scrapedAt)} · History window: ${snaps[0]} → ${snaps[snaps.length - 1]} (${windowDays} day${windowDays === 1 ? "" : "s"} of snapshots) · Comparing snapshot ${snaps[0]} against today's record</p>
+<div class="tldr"><b>At a glance:</b> <ul>
+<li><b>${DATA.total} products tracked</b>; since ${snaps[0]}: <b>${priceUp.length} price increases</b>, <b>${priceDown.length} price decreases</b>, <b>${statChanges.length} material stat changes</b> (cancel/conversion/earnings).</li>
+<li><b>${newListings.length} new listings</b> appeared, <b>${delisted.length} offers</b> left the marketplace record.</li>
+<li>All figures vendor-side marketplace statistics — changes reflect the vendors' own repricing, not our forecasts.</li>
+</ul></div>
+${windowDays < 7 ? `<div class="notice"><b>History is accumulating.</b> Daily snapshots started ${snaps[0]}; the rolling 7-day change view becomes meaningful from <b>${sevenDayFrom}</b>. Below are the cumulative changes since ${snaps[0]} — updated automatically with every daily rebuild.</div>` : ""}
+${priceUp.length || priceDown.length ? `<h2 id="prices">Price changes since ${snaps[0]}</h2>
+${priceUp.length ? `<h3>Raised (${priceUp.length})</h3>
+<table class="specs"><tr><th>Product</th><th>Old</th><th>New</th><th>Change</th></tr>
+${pUp.rows.map(({ p, o, pc }) => row(p, `<td>${money(o.price, p.currency)}</td><td><b>${money(p.price, p.currency)}</b></td><td>+${pc}%</td>`)).join("\n")}
+</table>${pUp.more ? `<p class="sub">…and ${pUp.more} more increases.</p>` : ""}` : ""}
+${priceDown.length ? `<h3>Lowered (${priceDown.length})</h3>
+<table class="specs"><tr><th>Product</th><th>Old</th><th>New</th><th>Change</th></tr>
+${pDown.rows.map(({ p, o, pc }) => row(p, `<td>${money(o.price, p.currency)}</td><td><b>${money(p.price, p.currency)}</b></td><td>${pc}%</td>`)).join("\n")}
+</table>${pDown.more ? `<p class="sub">…and ${pDown.more} more decreases.</p>` : ""}` : ""}
+<p class="sub">Prices are vendor-set; the checkout page is always the binding one. A price change can also mean a re-launch, changed bundle contents or a currency adjustment — check the product's profile history before reading anything into it.</p>` : `<h2 id="prices">Price changes since ${snaps[0]}</h2><p>No vendor changed a list price by ≥1% since ${snaps[0]}.</p>`}
+${statChanges.length ? `<h2 id="stats">Material stat changes (cancel rate, conversion, earnings/sale)</h2>
+<table class="specs"><tr><th>Product</th><th>Cancel</th><th>Cart conv.</th><th>Earn./sale</th></tr>
+${st.rows.map(({ p, o, dc, dv, de }) => row(p, `<td>${o.cancelRate != null && dc != null ? pct(o.cancelRate) + " → " + pct(p.cancelRate) + " (" + (dc > 0 ? "+" : "") + dc.toFixed(1) + "pp)" : "—"}</td><td>${o.conversionRate != null && dv != null ? pct(o.conversionRate) + " → " + pct(p.conversionRate) : "—"}</td><td>${o.earningsPerSale ? money(o.earningsPerSale, p.currency) + " → <b>" + money(p.earningsPerSale, p.currency) + "</b> (" + (de > 0 ? "+" : "") + de.toFixed(1) + "%)" : "—"}</td>`)).join("\n")}
+</table>${st.more ? `<p class="sub">…and ${st.more} more.</p>` : ""}
+<p class="sub">Shown: changes ≥0.5pp (cancel/conversion) or ≥5% (earnings/sale). These statistics depend on the vendor's traffic quality — a moving number is not a trend, two points make no line.</p>` : ""}
+${newListings.length ? `<h2 id="new">New listings since ${snaps[0]} (${newListings.length})</h2>
+<table class="specs"><tr><th>Product</th><th>Price</th><th>Earn./sale</th><th>Listed</th></tr>
+${nl.rows.map((p) => row(p, `<td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${datemark(p.createdAt)}</td>`)).join("\n")}
+</table>${nl.more ? `<p class="sub">…and ${nl.more} more — see <a href="monthly-new.html">the monthly new-arrivals page</a>.</p>` : ""}` : ""}
+${delisted.length ? `<h2 id="gone">No longer in the marketplace record (${delisted.length})</h2>
+<p>Present in the ${snaps[0]} snapshot, absent today: ${dl.rows.map((o) => "<b>" + esc(o.label) + "</b>").join(" · ")}${dl.more ? ` …and ${dl.more} more.` : "."} Their profiles stay up with a notice until <a href="../about.html">our staleness policy</a> prunes them; do not buy through stale pages.</p>` : ""}
+<p class="sub">Method: <a href="blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="about.html">research standards</a>. Evidence &amp; verification conditions: full-dataset snapshots taken daily from the official Digistore24 marketplace API (files dated ${snaps.join(", ")}); changes computed mechanically between snapshots, no manual curation.</p>`;
+  fs.writeFileSync(outPath("price-watch.html"), layout({
+    title: "Price tracker: Digistore24 marketplace changes",
+    desc: `What changed on the Digistore24 marketplace: price increases and decreases, cancel-rate and conversion moves, new and delisted offers since ${snaps[0]}. Vendor-side data, updated daily.`,
+    body, path: "price-watch.html", hreflangLinks: HREF_HOME,
+  }));
+  console.log(`price-watch: ${priceUp.length} up / ${priceDown.length} down / ${statChanges.length} stat / ${newListings.length} new / ${delisted.length} gone (window ${snaps[0]} → now, ${windowDays}d)`);
+}
+
 const altSlugs = computeAltSlugs();
 homePage();
 categoryPages();
@@ -1499,6 +1569,7 @@ const bestCount = bestOfPages();
 aboutPage();
 trustPages();
 monthlyNewPage();
+priceWatchPage();
 changelogPage();
 vendorHubs();
 const guideCount = deepDiveGuides(altSlugs);
