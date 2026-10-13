@@ -82,13 +82,15 @@ const SITES = [
       const r = await check(item.url);
       return { ...item, ...r, ok: r.status >= 200 && r.status < 400 };
     }, CONC);
-    const ok = results.filter((r) => r.ok);
-    const broken = results.filter((r) => !r.ok && r.status > 0);
+    // 403/429 多为 curl 被 bot 墙拦(2026-10-13 实测:18 个 403 中 8 个真实浏览器可访问,3 个需人工验证)——单列,不算 broken
+    const botwall = results.filter((r) => !r.ok && (r.status === 403 || r.status === 429));
+    const broken = results.filter((r) => !r.ok && r.status > 0 && r.status !== 403 && r.status !== 429);
     const errors = results.filter((r) => !r.ok && r.status === 0);
-    const affected = results.filter((r) => !r.ok).reduce((a, r) => a + r.ids.length, 0);
-    console.log(`[${S.lang}] ok ${ok.length} | broken ${broken.length} | network-error ${errors.length} | affected products ${affected} | ${Math.round((Date.now() - t0) / 1000)}s`);
+    const affected = results.filter((r) => !r.ok && r.status !== 403 && r.status !== 429).reduce((a, r) => a + r.ids.length, 0);
+    console.log(`[${S.lang}] ok ${ok.length} | broken ${broken.length} | bot-wall-suspect ${botwall.length}(需浏览器复验) | network-error ${errors.length} | affected products ${affected} | ${Math.round((Date.now() - t0) / 1000)}s`);
     for (const b of [...broken, ...errors].slice(0, 25)) console.log(`  ✗ ${b.status || "ERR"} ${b.url.slice(0, 100)} ${b.error ? ":: " + b.error : ""}`);
-    fs.writeFileSync(S.out, JSON.stringify({ checkedAt: new Date().toISOString(), products: products.length, uniqueUrls: urls.length, ok: ok.length, broken: broken.length, errors: errors.length, results }, null, 1));
+    for (const b of botwall.slice(0, 15)) console.log(`  ⚠ ${b.status} ${b.url.slice(0, 100)} (curl blocked — verify in real browser before acting)`);
+    fs.writeFileSync(S.out, JSON.stringify({ checkedAt: new Date().toISOString(), products: products.length, uniqueUrls: urls.length, ok: ok.length, broken: broken.length, botWallSuspect: botwall.length, errors: errors.length, results }, null, 1));
   }
   console.log("DONE");
 })().catch((e) => { console.error("FATAL", e); process.exit(1); });
