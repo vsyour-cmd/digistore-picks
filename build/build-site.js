@@ -57,7 +57,8 @@ const productDetails = (id) => DETAILS[id] || null;
 
 // 跨语言关联:德语站数据集(同厂商产品互相引流)
 const DE_DATASET_FILE = "G:/Digistore24/site-de/data/dataset.json";
-const DE_DATA = fs.existsSync(DE_DATASET_FILE) ? JSON.parse(fs.readFileSync(DE_DATASET_FILE, "utf8")) : null;
+
+$1(DE_DATASET_FILE) ? JSON.parse(fs.readFileSync(DE_DATASET_FILE, "utf8")) : null;
 const deVendorMap = (() => {
   if (!DE_DATA) return new Map();
   const m = new Map();
@@ -232,6 +233,9 @@ const GUIDE_IDS = new Set(GUIDE_POOL.map((p) => String(p.id)));
   const cnt = {};
   for (const c of DATA.categories) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; }
   for (const c of DATA.categories) { const b = slug(c.label); c.file = cnt[b] > 1 ? slug(c.section) + "-" + b : b; }
+// categories that actually get a faq page (>=3 products) — guards faq links site-wide
+const FAQ_ELIGIBLE = new Set(DATA.categories.filter((c) => (DATA.products || []).filter((p) => (p.categoryIds || []).includes(String(c.catId))).length >= 3).map((c) => c.file));
+
 }
 
 // ---------- TL;DR 摘要(GEO 可引用) ----------
@@ -351,7 +355,7 @@ ${catQas.map(({ q, a }) => `<h3>${esc(q)}</h3>\n<p>${a}</p>`).join("\n")}`;
         })),
       };
       const bestOf = idx === 0 && isRealCat && items.length >= 8 ? `<p class="sub">Short on time? See <a href="../best-of/best-${c.file}.html">our best picks in ${esc(c.label)}</a> — computed from the same data.</p>` : "";
-      const tldrBlock = `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>${isRealCat && items.length >= 8 ? `Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · ` : ""}<a href="../faq/${c.file}.html">50 buyer questions</a> · method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>`;
+      const tldrBlock = `<div class="tldr"><b>At a glance</b> (marketplace data of ${datemark(DATA.scrapedAt)}): <ul><li><b>${items.length} offers</b> in ${esc(c.label)}, average price ${money(avg, "USD")}.</li><li>Commissions ${pct(minC)}–${pct(maxC)}; every figure below is vendor-reported marketplace data.</li><li>${isRealCat && items.length >= 8 ? `Picks by the numbers: <a href="../best-of/best-${c.file}.html">best ${esc(c.label)}</a> · ` : ""}${FAQ_ELIGIBLE.has(c.file) ? `<a href="../faq/${c.file}.html">50 buyer questions</a> · ` : ""}method: <a href="../blog/digistore24-numbers-checklist.html">6-point check</a>.</li></ul></div>`;
       const methodLine = `<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>.</p>`;
       const evidenceLine = `<p class="sub">Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); always verify current prices on official pages.</p>`;
       const body = `
@@ -510,7 +514,7 @@ ${deList.map((x) => `<li><a href="https://vsyour-cmd.github.io/digistore-picks-d
     const faqBlock = faqSection(p, faqQas);
     const faqLd = faqJsonLd(p, faqQas);
     const faqHubCat = DATA.categories.find((c) => String(c.catId) === String(primaryCatId));
-    const faqHubHtml = faqHubCat ? `<p class="sub"><a href="../faq/${faqHubCat.file}.html">All 50 buyer questions about ${esc(faqHubCat.label)}</a> — the full category FAQ.</p>` : "";
+    const faqHubHtml = faqHubCat && FAQ_ELIGIBLE.has(faqHubCat.file) ? `<p class="sub"><a href="../faq/${faqHubCat.file}.html">All 50 buyer questions about ${esc(faqHubCat.label)}</a> — the full category FAQ.</p>` : "";
     const communityHtml = communityBlock(p);
     const amazonHtml = amazonBlock(p);
 
@@ -1224,7 +1228,7 @@ function faqBank(cat, items) {
   add("Costs & pricing", `What's the cheapest ${cat.label} product?`, `${L(cheapest)} at <b>${money(cheapest.price, cheapest.currency)}</b>. Cheap is not the same as good value — check its cancel rate and the sales page before buying.`);
   add("Costs & pricing", `Do prices include VAT or sales tax?`, `No — the listed price is the vendor's net price. Digistore24 adds the tax your country requires at checkout, where you always see the final amount before paying.`);
   add("Costs & pricing", `One-time payment or subscription?`, `This category has ${subs} subscription listings out of ${n} total; the rest are one-time purchases. The billing type is shown on every product profile on this site and again at checkout.`);
-  add("Costs & pricing", `Do ${cat.label} prices change often?`, `Vendor-side prices do move. Our <a href="price-watch.html">price tracker</a> diffs daily snapshots of the whole marketplace, so changes ≥1% show up there automatically.`);
+  add("Costs & pricing", `Do ${cat.label} prices change often?`, `Vendor-side prices do move. Our <a href="../price-watch.html">price tracker</a> diffs daily snapshots of the whole marketplace, so changes ≥1% show up there automatically.`);
   add("Costs & pricing", `Is a more expensive ${cat.label} product better?`, `Price measures positioning, not quality. The marketplace publishes a cancel rate — the share of buyers who reverse their purchase — and expensive listings are not systematically lower. Use the <a href="../blog/digistore24-numbers-checklist.html">6-point check</a> instead of the price tag.`);
   add("Costs & pricing", `Can I pay in installments?`, `Some vendors offer installment plans (shown as separate billing types on the sales page). Digistore24 processes whatever the vendor configured — the checkout page shows your options before you commit.`);
   // B. 退款与保障
@@ -1244,16 +1248,16 @@ function faqBank(cat, items) {
   add("Trust & safety", `How do I spot a scammy ${cat.label} listing?`, `Our checklist: unreachable or recycled sales page, no guarantee wording, urgency countdowns paired with a high cancel rate, and vendor identities that change names weekly. None of these is proof of a scam — together they lower your odds. The <a href="../blog/digistore24-numbers-checklist.html">6-point check</a> operationalizes this.`);
   add("Trust & safety", `Are the sales-page claims verified by anyone?`, `No. Everything we quote from sales pages is labeled <b>vendor claims, not verified by us</b>. Marketplace statistics (price, commission, conversion, cancel rate) come from the official Digistore24 record — those are vendor-reported too, but they're the numbers the platform itself keeps.`);
   add("Trust & safety", `Which payment methods does Digistore24 accept?`, `Common methods include major credit/debit cards, PayPal and several country-specific options — the checkout page shows exactly what's available for your country. If a vendor pushes you off-platform to pay, walk away.`);
-  add("Trust & safety", `Who runs this site and why should I trust it?`, `${SITE_NAME} is an independent directory. We publish vendor-side marketplace statistics with their limitations, label sales-page quotes as vendor claims, show our data sources, and log every change in a public <a href="changelog.html">changelog</a>. We earn affiliate commissions — disclosed on every page — but the data itself is not for sale.`);
+  add("Trust & safety", `Who runs this site and why should I trust it?`, `${SITE_NAME} is an independent directory. We publish vendor-side marketplace statistics with their limitations, label sales-page quotes as vendor claims, show our data sources, and log every change in a public <a href="../changelog.html">changelog</a>. We earn affiliate commissions — disclosed on every page — but the data itself is not for sale.`);
   add("Trust & safety", `Have you bought the ${cat.label} products listed here?`, `No. Our profiles are <b>data profiles</b> (marketplace record + verbatim sales-page extracts), not hands-on reviews. When we ever publish a hands-on review, the page says so at the top. Honesty about what we haven't done is the point.`);
   add("Trust & safety", `Why do some ${cat.label} profiles lack conversion or cancel-rate stats?`, `${withStats} of ${n} listings in this category publish cart-conversion data; vendors decide which stats Digistore24 shows. Missing stats are displayed as "—" — absence is information too.`);
-  add("Trust & safety", `How current is the data on this site?`, `Marketplace snapshot: <b>${datemark(DATA.scrapedAt)}</b>; sales-page research: ${datemark(DATA.researchedAt) || "—"}. Everything rebuilds daily, and the <a href="changelog.html">changelog</a> logs what changed.`);
-  add("Trust & safety", `Can I download the raw data?`, `Yes — <a href="llms-full.txt">llms-full.txt</a> carries the top-500 dataset in one file, per-product research lives in our public GitHub repository, and every page shows its data snapshot date.`);
+  add("Trust & safety", `How current is the data on this site?`, `Marketplace snapshot: <b>${datemark(DATA.scrapedAt)}</b>; sales-page research: ${datemark(DATA.researchedAt) || "—"}. Everything rebuilds daily, and the <a href="../changelog.html">changelog</a> logs what changed.`);
+  add("Trust & safety", `Can I download the raw data?`, `Yes — <a href="../llms-full.txt">llms-full.txt</a> carries the top-500 dataset in one file, per-product research lives in our public GitHub repository, and every page shows its data snapshot date.`);
   // D. 分类选购指南
   add("Buying guidance", `What should I check before buying any ${cat.label} product?`, `Six numbers, in order: price vs. category median (${money(med, "USD")} here), cancel rate vs. median (${medC != null ? pct(medC) : "n/a"} here), guarantee window at checkout, vendor history, sales-page reachability, and your own refund-window discipline. Full method: <a href="../blog/digistore24-numbers-checklist.html">the numbers check</a>.`);
   add("Buying guidance", `Which ${cat.label} product pays affiliates the most?`, `${L(top)} leads with <b>${money(top.earningsPerSale, top.currency)}</b> earnings per sale at ${pct(top.commission)} commission (vendor-side data). High payouts usually mean high-ticket funnels — read the cancel rate before promoting.`);
   add("Buying guidance", `Which ${cat.label} offer converts best?`, `${L(topConv)} reports the highest cart conversion in this category (${pct(topConv.conversionRate)}). Conversion measures the checkout funnel, not your future results.`);
-  add("Buying guidance", `What's the newest ${cat.label} listing?`, `${L(newest)}, listed ${datemark(newest.createdAt)}. Very new listings have no track record — their cancel rates are meaningless until traffic accumulates. Track new arrivals on <a href="monthly-new.html">the monthly page</a>.`);
+  add("Buying guidance", `What's the newest ${cat.label} listing?`, `${L(newest)}, listed ${datemark(newest.createdAt)}. Very new listings have no track record — their cancel rates are meaningless until traffic accumulates. Track new arrivals on <a href="../monthly-new.html">the monthly page</a>.`);
   add("Buying guidance", `Which ${cat.label} listing has been around longest?`, `${L(oldestL)}, on the marketplace since ${datemark(oldestL.createdAt)}. Longevity is not quality — but a decade-old listing with a low cancel rate has survived real buyers.`);
   add("Buying guidance", `What types of ${cat.label} products dominate?`, `${topTypes.map(([t, c]) => `${esc(t)} (${c})`).join(" and ")} lead this category. The type is shown on every profile — it affects delivery (immediate download vs. membership access) and refund behavior.`);
   add("Buying guidance", `Are high-ticket ${cat.label} offers worth it?`, `They can be — if you'd still buy at twice the price and you commit to evaluating inside the refund window. At ${money(maxP, "USD")} for the most expensive listing here, the guarantee terms matter more than the sales page.`);
@@ -1264,8 +1268,8 @@ function faqBank(cat, items) {
   add("Data & method", `How does ${SITE_NAME} evaluate ${cat.label} products?`, `Mechanically, from official marketplace statistics — no sponsorship, no hands-on testing unless labeled. <a href="../blog/digistore24-numbers-checklist.html">The 6-point numbers check</a> is the method behind every page, including this category.`);
   add("Data & method", `What does "earnings per sale" mean?`, `The average affiliate payout per completed sale of this product (commission × price, adjusted by refunds). It's a vendor-side marketplace statistic. For buyers it signals how aggressively the offer is being promoted.`);
   add("Data & method", `What does "cart conversion" mean?`, `The share of people who reach the order form and complete the purchase. It measures the vendor's checkout funnel for their traffic — it is not a forecast of your experience.`);
-  add("Data & method", `Does your affiliate commission change my price?`, `No. If you buy through a link on this site, the vendor pays the commission out of their margin; the checkout price is identical. Disclosure: <a href="about.html">about page</a>, and on every page footer.`);
-  add("Data & method", `How often does this FAQ update?`, `The numbers inside the answers refresh with the daily rebuild (marketplace snapshot ${datemark(DATA.scrapedAt)}). Questions themselves are reviewed as the category evolves — additions and corrections land via the <a href="changelog.html">changelog</a>.`);
+  add("Data & method", `Does your affiliate commission change my price?`, `No. If you buy through a link on this site, the vendor pays the commission out of their margin; the checkout price is identical. Disclosure: <a href="../about.html">about page</a>, and on every page footer.`);
+  add("Data & method", `How often does this FAQ update?`, `The numbers inside the answers refresh with the daily rebuild (marketplace snapshot ${datemark(DATA.scrapedAt)}). Questions themselves are reviewed as the category evolves — additions and corrections land via the <a href="../changelog.html">changelog</a>.`);
   add("Data & method", `Where do the statistics come from?`, `The official Digistore24 marketplace, as shown to registered affiliates: price, commission, cart conversion, cancel rate, earnings per sale, listing dates. All vendor-side, all caveated, snapshot ${datemark(DATA.scrapedAt)}.`);
   add("Data & method", `How do I promote ${cat.label} products as an affiliate?`, `Register as a Digistore24 affiliate (free), pick offers with the earnings/sale ÷ cancel-rate math, and use the marketplace's tracking links. This category's commissions run ${Math.round(Math.min(...items.map((p) => p.commission || 0)))}%–${Math.round(Math.max(...items.map((p) => p.commission || 0)))}% per sale.`);
   add("Data & method", `What does an affiliate link change for me as a buyer?`, `Nothing at checkout — same price, same terms. It attributes the sale to the publisher. Judge the product the same way either way.`);
@@ -1319,9 +1323,7 @@ function faqHubPages() {
 </table>
 ${groups.map((g) => `<h2>${esc(g)}</h2>
 ${qas.filter((x) => x.g === g).map((x) => `<h3>${esc(x.q)}</h3>\n<p>${x.a}</p>`).join("\n")}`).join("\n")}
-<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">${ringHtml}
-${xrefHtml}
-research standards</a>. Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); guarantee and claim language quoted from vendors' public sales pages is labeled vendor claims and is not our verification.</p>`;
+<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. ${ringHtml} Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); guarantee and claim language quoted from vendors' public sales pages is labeled vendor claims and is not our verification.</p>`;
   
   const jsonLd = [{
       "@context": "https://schema.org",
@@ -1775,7 +1777,7 @@ function priceWatchPage() {
   const sevenDayFrom = new Date(Date.parse(snaps[0]) + 7 * 86400000).toISOString().slice(0, 10);
   const cap = (arr, n) => ({ rows: arr.slice(0, n), more: Math.max(arr.length - n, 0) });
   const pUp = cap(priceUp, 20), pDown = cap(priceDown, 20), st = cap(statChanges, 20), nl = cap(newListings, 20), dl = cap(delisted, 20);
-  const row = (p, cells) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td>${cells}</tr>`;
+  const row = (p, cells) => `<tr><td><a href="reviews/${p.slug}.html">${esc(p.label)}</a></td>${cells}</tr>`;
   const body = `
 <h1>Price tracker: what changed on the Digistore24 marketplace</h1>
 <p class="sub">Marketplace data ${datemark(DATA.scrapedAt)} · History window: ${snaps[0]} → ${snaps[snaps.length - 1]} (${windowDays} day${windowDays === 1 ? "" : "s"} of snapshots) · Comparing snapshot ${snaps[0]} against today's record</p>
@@ -1805,7 +1807,7 @@ ${newListings.length ? `<h2 id="new">New listings since ${snaps[0]} (${newListin
 ${nl.rows.map((p) => row(p, `<td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${datemark(p.createdAt)}</td>`)).join("\n")}
 </table>${nl.more ? `<p class="sub">…and ${nl.more} more — see <a href="monthly-new.html">the monthly new-arrivals page</a>.</p>` : ""}` : ""}
 ${delisted.length ? `<h2 id="gone">No longer in the marketplace record (${delisted.length})</h2>
-<p>Present in the ${snaps[0]} snapshot, absent today: ${dl.rows.map((o) => "<b>" + esc(o.label) + "</b>").join(" · ")}${dl.more ? ` …and ${dl.more} more.` : "."} Their profiles stay up with a notice until <a href="../about.html">our staleness policy</a> prunes them; do not buy through stale pages.</p>` : ""}
+<p>Present in the ${snaps[0]} snapshot, absent today: ${dl.rows.map((o) => "<b>" + esc(o.label) + "</b>").join(" · ")}${dl.more ? ` …and ${dl.more} more.` : "."} Their profiles stay up with a notice until <a href="about.html">our staleness policy</a> prunes them; do not buy through stale pages.</p>` : ""}
 <p class="sub">Method: <a href="blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="about.html">research standards</a>. Evidence &amp; verification conditions: full-dataset snapshots taken daily from the official Digistore24 marketplace API (files dated ${snaps.join(", ")}); changes computed mechanically between snapshots, no manual curation.</p>`;
   fs.writeFileSync(outPath("price-watch.html"), layout({
     title: "Price tracker: Digistore24 marketplace changes",
@@ -1821,7 +1823,7 @@ function amazonPicksPage() {
   const picks = (AMAZON_PICKS && AMAZON_PICKS.storefront) || [];
   const catLinks = DATA.categories.filter((c) => c.count >= 10).map((c) => {
     const kw = amazonKwFor({ categories: [c.label] });
-    return `<li><a href="https://www.amazon.com/s?k=${encodeURIComponent(kw)}&tag=${tag}" rel="nofollow sponsored noopener" target="_blank">${esc(kw)}</a> — live Amazon results, matched to our <a href="../category/${c.file}.html">${esc(c.label)}</a> category (${c.count} offers).</li>`;
+    return `<li><a href="https://www.amazon.com/s?k=${encodeURIComponent(kw)}&tag=${tag}" rel="nofollow sponsored noopener" target="_blank">${esc(kw)}</a> — live Amazon results, matched to our <a href="category/${c.file}.html">${esc(c.label)}</a> category (${c.count} offers).</li>`;
   }).join("\n");
   const body = `
 <h1>Our Amazon picks</h1>

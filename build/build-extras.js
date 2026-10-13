@@ -167,3 +167,43 @@ ${blogFiles.map(({ f, t, content, updated }) => `  <entry>
 fs.writeFileSync(path.join(ROOT, "feed.xml"), feed);
 
 console.log(`extras: sitemap.xml (${urls.length} URLs), robots.txt, llms.txt, feed.xml (${blogFiles.length} entries)`);
+
+// ---------- alternatives/index.html(目录页:修复 faq 页对 alternatives 索引的断链) ----------
+{
+  const adir = path.join(ROOT, "alternatives");
+  const files = fs.existsSync(adir)
+    ? fs.readdirSync(adir).filter((f) => f.endsWith(".html") && f !== "index.html").sort()
+    : [];
+  if (files.length) {
+    const items = files.map((f) => {
+      const h = fs.readFileSync(path.join(adir, f), "utf8");
+      const t = ((h.match(/<h1>([^<]*)<\/h1>/) || [])[1] || f)
+        .replace(/&amp;/g, "&").replace(/: alternatives.*$/i, "");
+      return '<li><a href="' + f + '">' + t + "</a></li>";
+    });
+    const html = `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>All alternatives &amp; comparisons — ${SITE_NAME}</title>
+<meta name="description" content="Every alternatives &amp; comparison page on ${SITE_NAME}: head-to-head options for the top Digistore24 marketplace products.">
+<link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+<header class="site"><div class="wrap"><a href="../index.html"><b>${SITE_NAME}</b></a> — independent Digistore24 directory</header>
+<main class="wrap">
+<h1>All alternatives &amp; comparison pages</h1>
+<p class="sub">${files.length} head-to-head comparison pages, one per top offer.</p>
+<ul>
+${items.join(String.fromCharCode(10))}
+</ul>
+</main>
+<footer class="site"><div class="wrap"><a href="../about.html">About, disclosure &amp; contact</a> · <a href="../changelog.html">What's new</a> · Data: Digistore24 marketplace, vendor-side</footer>
+</body>
+</html>
+`;
+    fs.writeFileSync(path.join(adir, "index.html"), html, "utf8");
+    console.log("alternatives/index.html:", files.length, "entries");
+  }
+}
