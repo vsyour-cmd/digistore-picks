@@ -1274,6 +1274,18 @@ function faqBank(cat, items) {
   return out;
 }
 
+// FAQ 枢纽跨语言配对(改进项 faq-hreflang-crosslink):按 catId 找 DE 对应页
+function faqDeCounterpart(catId) {
+  if (!DE_DATA) return null;
+  const c2 = DE_DATA.categories.find((c) => String(c.catId) === String(catId));
+  if (!c2) return null;
+  const mk = (cats) => { const cnt = {}; for (const c of cats) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; } return (c) => (cnt[slug(c.label)] > 1 ? slug(c.section) + "-" + slug(c.label) : slug(c.label)); };
+  const url = "https://vsyour-cmd.github.io/digistore-picks-de/faq/" + mk(DE_DATA.categories)(c2) + ".html";
+  // 对侧文件可能不存在(小分类不足3品无FAQ页):跨目录实测,防 hreflang 死链
+  if (!fs.existsSync("G:/Digistore24/site-de/faq/" + mk(DE_DATA.categories)(c2) + ".html")) return null;
+  return url;
+}
+
 function faqHubPages() {
   const dir = outPath("faq");
   fs.mkdirSync(dir, { recursive: true });
@@ -1286,7 +1298,10 @@ function faqHubPages() {
     const groups = [...new Set(qas.map((x) => x.g))];
     const best = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0];
     const med = (() => { const p = items.map((x) => x.price).filter((x) => x != null).sort((a, b) => a - b); return p.length ? p[Math.floor(p.length / 2)] : 0; })();
-    const ringHtml = `<p class="sub">More category FAQs: ${[1, 2, 3].map((k) => eligible[(ci + k) % eligible.length]).map((x) => `<a href="../faq/${x.file}.html">${esc(x.label)}</a>`).join(" · ")}</p>`;
+    const deFaqUrl = faqDeCounterpart(c.catId);
+  const xrefHtml = deFaqUrl ? `<p class="sub">Diese FAQ gibt es auch auf <a hreflang="de" href="${deFaqUrl}">Deutsch</a>.</p>` : "";
+  const faqHref = deFaqUrl ? `<link rel="alternate" hreflang="de" href="${deFaqUrl}"><link rel="alternate" hreflang="en" href="${SITE_URL}/faq/${c.file}.html">` : "";
+  const ringHtml = `<p class="sub">More category FAQs: ${[1, 2, 3].map((k) => eligible[(ci + k) % eligible.length]).map((x) => `<a href="../faq/${x.file}.html">${esc(x.label)}</a>`).join(" · ")}</p>`;
   const body = `
 <h1>${esc(c.label)} on Digistore24: 50 buyer questions, answered</h1>
 <p class="sub">Category FAQ · Marketplace data ${datemark(DATA.scrapedAt)} · ${items.length} offers analyzed · Every figure below is vendor-side marketplace data or labeled vendor claims</p>
@@ -1305,6 +1320,7 @@ function faqHubPages() {
 ${groups.map((g) => `<h2>${esc(g)}</h2>
 ${qas.filter((x) => x.g === g).map((x) => `<h3>${esc(x.q)}</h3>\n<p>${x.a}</p>`).join("\n")}`).join("\n")}
 <p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">${ringHtml}
+${xrefHtml}
 research standards</a>. Evidence &amp; verification conditions: statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); guarantee and claim language quoted from vendors' public sales pages is labeled vendor claims and is not our verification.</p>`;
   
   const jsonLd = [{
@@ -1315,7 +1331,7 @@ research standards</a>. Evidence &amp; verification conditions: statistics from 
     fs.writeFileSync(path.join(dir, c.file + ".html"), layout({
       title: `${c.label} on Digistore24: 50 buyer questions answered`,
       desc: `50 real buyer questions about ${c.label} on Digistore24 — pricing, refunds, cancel rates, vendor trust — answered with official marketplace data. Updated ${datemark(DATA.scrapedAt)}.`,
-      body, rel: "..", path: `faq/${c.file}.html`, jsonLd,
+      body, rel: "..", path: `faq/${c.file}.html`, jsonLd, hreflangLinks: faqHref,
       crumb: [{ label: "Home", href: "../index.html" }, { label: c.label, href: `../category/${c.file}.html` }, { label: "FAQ", href: `../faq/${c.file}.html` }],
     }));
     built++;
