@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>***GO TO <a href="https://MARKET.MAGA123.COM">HTTPS://MARKET.MAGA123.COM</a> TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE</strong></p>
-<p><strong>Affiliate Sales Page: </strong></p>
-<p><a href="https://survival.maga123.com" target="_blank" rel="noreferrer noopener">CLICK HERE</a> or go to <a href="https://Survival.MAGA123.com">https://Survival.MAGA123.com</a></p>
-<p><strong>Affiliate Commissions: </strong></p>
-<p>40% on $797 = $320</p>
-<p><strong>Affiliate Referral Commissions:</strong></p>
-<p>10% on $797 = $80 for affiliates you bring in who bring in another affiliate who purchases the product.</p>
-<p><strong>Affiliate Marketing Content:</strong></p>
-<p>38 marketing videos from the MAGA movie, which is the centerpiece of the 21st Century Survival Kit - MAGA 1.0 course.</p>
-<p>2 of the videos are movie trailers and 2 are overview videos.  The other 35 videos are curiosity-driven clips from the movie promoting the course. URLs and embed codes provided. </p>
-<p><strong>***GO TO <a>HTTPS://MARKET.MAGA123.COM</a> TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE</strong></p>
+**Vendor's marketplace description:** ***GO TO HTTPS://MARKET.MAGA123.COM TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE Affiliate Sales Page: CLICK HERE or go to https://Survival.MAGA123.com Affiliate Commissions: 40% on $797 = $320 Affiliate Referral Commissions: 10% on $797 = $80 for affiliates you bring in who bring in another affiliate who purchases the product. Affiliate Marketing Content: 38 marketing videos from the MAGA movie, which is the centerpiece of the 21st Century Survival Kit - MAGA 1.0 course. 2 of the videos are movie trailers and 2 are overview videos. The other 35 videos are curiosity-driven clips from the movie promoting the course. URLs and embed codes provided. ***GO TO HTTPS://MARKET.MAGA123.COM TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE
 
 ## 2. Links
 

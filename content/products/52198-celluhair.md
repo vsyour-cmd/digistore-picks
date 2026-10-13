@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>CelluHair is a premium hair care product designed to promote healthier, thicker, and more vibrant hair. Formulated with natural ingredients, it targets hair loss and supports scalp health, making it an ideal solution for individuals seeking to improve their hair's appearance and strength.​ Earn up to 50% commission on the entire sales funnel.</p>
+**Vendor's marketplace description:** CelluHair is a premium hair care product designed to promote healthier, thicker, and more vibrant hair. Formulated with natural ingredients, it targets hair loss and supports scalp health, making it an ideal solution for individuals seeking to improve their hair's appearance and strength.​ Earn up to 50% commission on the entire sales funnel.
 
 ## 2. Links
 

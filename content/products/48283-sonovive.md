@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>New on Digistore! A Natural Hearing Loss Breakthrough, Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC. This is Your Chance To Jump In And Make 6 Fig/Day</p>
+**Vendor's marketplace description:** New on Digistore! A Natural Hearing Loss Breakthrough, Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC. This is Your Chance To Jump In And Make 6 Fig/Day
 
 ## 2. Links
 

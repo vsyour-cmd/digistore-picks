@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>SLIN Glucose Disposal is scientifically formulated for one simple reason, turning <strong>“Carbs into Muscle”  </strong></div>
-<div>
-<p>SLIN is a revolutionary insulin mimetic that transports the carbohydrates you eat into your muscles rather than storing them as fat! But to really understand how SLIN works, you must first understand insulin as a hormone, which we continue to fully grasp and utilize.</p>
-</div>
+**Vendor's marketplace description:** SLIN Glucose Disposal is scientifically formulated for one simple reason, turning “Carbs into Muscle” SLIN is a revolutionary insulin mimetic that transports the carbohydrates you eat into your muscles rather than storing them as fat! But to really understand how SLIN works, you must first understand insulin as a hormone, which we continue to fully grasp and utilize.
 
 ## 2. Links
 

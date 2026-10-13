@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Put Money In Your Pocket DAILY!</h4>
-<p>This funnel has been extremely solid for quite a long time.  Our team continues to work on this funnel daily to ensure that it is high converting.</p>
-<p>More than 333,000 amazed users have made The Diabetes Solution Kit (DiSK) our #1 best-selling product in the history of Barton Publishing.</p>
+**Vendor's marketplace description:** Put Money In Your Pocket DAILY! This funnel has been extremely solid for quite a long time. Our team continues to work on this funnel daily to ensure that it is high converting. More than 333,000 amazed users have made The Diabetes Solution Kit (DiSK) our #1 best-selling product in the history of Barton Publishing.
 
 ## 2. Links
 

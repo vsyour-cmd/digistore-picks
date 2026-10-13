@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>- INSANELY High AOV's</p>
-<p>- HIGH Converting Keto Offer</p>
-<p>- JAW DROPPING EPC's</p>
-<p> </p>
-<p>Simply put, Keto After 50 is the #1 choice for Keto Recipe traffic or even health traffic.</p>
+**Vendor's marketplace description:** - INSANELY High AOV's - HIGH Converting Keto Offer - JAW DROPPING EPC's Simply put, Keto After 50 is the #1 choice for Keto Recipe traffic or even health traffic.
 
 ## 2. Links
 

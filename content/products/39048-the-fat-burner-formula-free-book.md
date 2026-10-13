@@ -41,23 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="color:#ff0000;">Brand new so that your 2026 will also be a hit</span></h1>
-<p><span style="color:#ff0000;"><strong>We have set up a partner area here:</strong></span></p>
-<p><span style="color:#0000ff;"><strong><a style="color:#0000ff;" href="https://www.digistore24-app.com/account/partnerarea/165719/de" target="_blank" rel="noreferrer noopener">https://www.digistore24-app.com/account/partnerarea/165719/de</a></strong></span></p>
-<p><strong>5 E-Mails for your E-Mail Follow Up or Newsletter:</strong></p>
-<p><span style="text-decoration:underline;color:#0000ff;"><a style="color:#0000ff;" href="https://drive.google.com/file/d/1iRn47Zn9XXi03_Fxho9EiMh-c1SDDYfZ/view?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>https://drive.google.com/file/d/1iRn47Zn9XXi03_Fxho9EiMh-c1SDDYfZ/view?usp=sharing</strong></a></span></p>
-<p><strong>Do you have experience running Facebook Ads?</strong></p>
-<p><strong>Then use our ready-made campaigns and just get started:</strong></p>
-<p><a href="https://www.digistore24-app.com/account/partnerarea/165719/8186" target="_blank" rel="noreferrer noopener"><span style="text-decoration:underline;color:#0000ff;"><strong>https://www.digistore24-app.com/account/partnerarea/165719/8186</strong></span></a></p>
-<p>(Buyer tracking via S2S postback interface to your Facebook pixel is possible)</p>
-<p>Promote our brand new book "The Fat Burner Formula" in digital form.</p>
-<p>As Upsell 1 there is the possibility to get our tried and tested Flat belly plans and recipes as a monthly subscription</p>
-<p>In the first 14 days for $0, so the customer has 14 days to test and from 15 days onwards, $29.97 are due like every other month (on subscriptions there is a 50% commission for life - month for month)</p>
-<p>The second upsell is the possibility to join our Beach Body Club as a monthly subscription.</p>
-<p>Here the customer has 21 days to test the product for $0 and then $29.97 per month is also due here. Here, too, there is a 50% subscription commission for life</p>
-<p>Return period is only 60 days.</p>
-<p>Apply now for "The Fat Burner Formula" and get a lifetime commission of 50% on each of the two subscriptions, thus building up a long-term monthly income with subscriptions.</p>
-<p>We can be reached at any time for further questions: info[@]makeyouslim.info</p>
+**Vendor's marketplace description:** Brand new so that your 2026 will also be a hit We have set up a partner area here: https://www.digistore24-app.com/account/partnerarea/165719/de 5 E-Mails for your E-Mail Follow Up or Newsletter: https://drive.google.com/file/d/1iRn47Zn9XXi03_Fxho9EiMh-c1SDDYfZ/view?usp=sharing Do you have experience running Facebook Ads? Then use our ready-made campaigns and just get started: https://www.digistore24-app.com/account/partnerarea/165719/8186 (Buyer tracking via S2S postback interface to your Facebook pixel is possible) Promote our brand new book "The Fat Burner Formula" in digital form. As Upsell 1 there is the possibility to get our tried and tested Flat belly plans and recipes as a monthly subscription In the first 14 days for $0, so the customer has 14 days to test and from 15 days onwards, $29.97 are due like every other month (on subscriptions there is a 50% commission for life - month for month) The second upsell is the possibility to join our Beach Body Club as a monthly subscription. Here the customer has 21 days to test the product for $0 and then $29.97 per month is also due here. Here, too, there is a 50% subscription commission for life Return period is only 60 days. Apply now for "The Fat Burner Formula" and get a lifetime commission of 50% on each of the two subscriptions, thus building up a long-term monthly income with subscriptions. We can be reached at any time for further questions: info[@]makeyouslim.info
 
 ## 2. Links
 

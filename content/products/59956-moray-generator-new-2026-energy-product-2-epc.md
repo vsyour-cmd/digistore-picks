@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hot, high-converting new product! Moray Generator Is HERE. And It's a Commission Monster. Sky-high EPCs and crazy ROI across Facebook, YouTube, TikTok &amp; Native. It Works On Energy/solar, Home/garden/woodworking. And Prepper/survival Lists As Well.</p>
+**Vendor's marketplace description:** Hot, high-converting new product! Moray Generator Is HERE. And It's a Commission Monster. Sky-high EPCs and crazy ROI across Facebook, YouTube, TikTok & Native. It Works On Energy/solar, Home/garden/woodworking. And Prepper/survival Lists As Well.
 
 ## 2. Links
 

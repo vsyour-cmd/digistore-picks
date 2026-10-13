@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Are you ready to boost your earnings?</p>
-<p>We’re excited to offer you an exclusive <strong>60% commission</strong> for promoting <strong>Advanced Collagen Plus</strong> — a premium collagen supplement that’s taking the wellness world by storm!</p>
-<p><strong>Why promote Advanced Collagen Plus?</strong></p>
-<ul>
-<li><strong>High conversion rates</strong>: Customers love the results!</li>
-<li><strong>Clinically-proven formula</strong>: Supports skin, hair, joints, and overall wellness.</li>
-<li><strong>Generous 60% commission</strong> on every sale.</li>
-<li><strong>Marketing materials</strong> at your fingertips: banners, emails, and product images.</li>
-</ul>
-<p>Ready to start earning? <strong>Visit our <a href="https://digistore24.advancedbionutritionals.com/advanced-collagen-plus-10" target="_blank" rel="noreferrer noopener">affiliate support page</a></strong> to get your affiliate link, graphics, social posts, and email swipes!</p>
+**Vendor's marketplace description:** Are you ready to boost your earnings? We’re excited to offer you an exclusive 60% commission for promoting Advanced Collagen Plus — a premium collagen supplement that’s taking the wellness world by storm! Why promote Advanced Collagen Plus? High conversion rates : Customers love the results! Clinically-proven formula : Supports skin, hair, joints, and overall wellness. Generous 60% commission on every sale. Marketing materials at your fingertips: banners, emails, and product images. Ready to start earning? Visit our affiliate support page to get your affiliate link, graphics, social posts, and email swipes!
 
 ## 2. Links
 

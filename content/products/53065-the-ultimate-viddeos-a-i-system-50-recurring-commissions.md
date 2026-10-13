@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>Automated FREE Traffic &amp; Video System</strong></h1>
-<h2><br />Instantly generate FREE traffic with viral, scroll-stopping videos for Tik Tok, YouTube, Facebook, Instagram and more...</h2>
-<p>No prior video skills, experience or technical skills needed.</p>
-<p> </p>
+**Vendor's marketplace description:** Automated FREE Traffic & Video System Instantly generate FREE traffic with viral, scroll-stopping videos for Tik Tok, YouTube, Facebook, Instagram and more... No prior video skills, experience or technical skills needed.
 
 ## 2. Links
 

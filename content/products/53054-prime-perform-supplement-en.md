@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">OFERTA DE ALTA CONVERSIÓN CON EXCELENTES COMISIONES</span></span></h2>
-</div>
-<div>
-<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">60% de comisión sobre la oferta principal 30% de comisión sobre el upsell y downsell</span></span></p>
-<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Prime Perform es el suplemento definitivo para mejorar el rendimiento sexual masculino. Con su fórmula 100 % natural y potente, no solo estimula la libido, sino que también garantiza erecciones más firmes y duraderas, fortaleciendo la confianza y la satisfacción durante la intimidad.</span></span></p>
-</div>
+**Vendor's marketplace description:** OFERTA DE ALTA CONVERSIÓN CON EXCELENTES COMISIONES 60% de comisión sobre la oferta principal 30% de comisión sobre el upsell y downsell Prime Perform es el suplemento definitivo para mejorar el rendimiento sexual masculino. Con su fórmula 100 % natural y potente, no solo estimula la libido, sino que también garantiza erecciones más firmes y duraderas, fortaleciendo la confianza y la satisfacción durante la intimidad.
 
 ## 2. Links
 

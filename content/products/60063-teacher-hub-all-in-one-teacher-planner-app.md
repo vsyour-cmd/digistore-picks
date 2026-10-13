@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Keep class schedules, lesson plans, assignments, student information, attendance, deadlines, and classroom resources organized in one place. BerryOS Teacher Hub helps teachers plan instruction, manage daily classroom work, and stay on top of their tasks. The digital hub includes teacher tools and printable resources.</p>
+**Vendor's marketplace description:** Keep class schedules, lesson plans, assignments, student information, attendance, deadlines, and classroom resources organized in one place. BerryOS Teacher Hub helps teachers plan instruction, manage daily classroom work, and stay on top of their tasks. The digital hub includes teacher tools and printable resources.
 
 ## 2. Links
 

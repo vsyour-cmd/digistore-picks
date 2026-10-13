@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Customer Service Team Leader Starter Kit (English)</p>
-<p>For new customer-service team leaders structuring their first month.</p>
-<p>English guide and workbook, 30-day starter plan, one-to-one and coaching templates, quality-calibration guidance and an XLSX workbook for twelve weeks of team metrics and weighted case quality.</p>
-<p>Fictional examples are separate from team data. No industry targets, shift-planning system or employment-law advice.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$79.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Customer Service Team Leader Starter Kit (English) For new customer-service team leaders structuring their first month. English guide and workbook, 30-day starter plan, one-to-one and coaching templates, quality-calibration guidance and an XLSX workbook for twelve weeks of team metrics and weighted case quality. Fictional examples are separate from team data. No industry targets, shift-planning system or employment-law advice. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$79.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

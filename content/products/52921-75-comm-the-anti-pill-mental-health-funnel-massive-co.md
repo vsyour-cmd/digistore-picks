@@ -41,63 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><span style="color:#ff0000;">IMPORTANT: MANDATORY VETTING PROCESS REQUIRED FOR APPROVAL</span></strong></p>
-<p>Planeta Vida operates a closed, strictly vetted affiliate infrastructure to protect the EPCs and domain authority of our active partners.</p>
-<p><strong>Step 1</strong>: Click the "Request" button on this Digistore24 page.</p>
-<p><strong>Step 2</strong>: Your application will remain in a "PENDING" status. To unlock 75% front-end commissions and activate your link, you MUST submit your traffic strategy through our official portal for auditing:</p>
-<p><a href="https://www.pv-en.com/the-pillar-1-mental-health-affiliate-page" target="_blank" rel="noreferrer noopener">Pillar 1 - Mental Health Affiliate Support Page</a></p>
-<p>Failure to submit the infrastructure audit form via the link above will result in your Digistore24 request being permanently ignored.</p>
-<p><strong>STOP SELLING MEDITATION. START SELLING "BIOLOGICAL DECODING."</strong></p>
-<p>Welcome to the high-performance infrastructure for the Mental Health and Cognitive Optimization sector. While the broader market fatigues on low-retention apps and generic mindfulness advice, Planeta Vida converts cold traffic by solving the physiological root cause of anxiety and burnout: The Nervous System Survival Loop.</p>
-<p><strong>THE ECONOMICS (ENGINEERED FOR EXPERIENCED AFFILIATES):</strong></p>
-<ul>
-<li>
-<p>75% Front-End Commission: We allocate the lion's share of the $19 entry directly to you, creating a true Self-Liquidating Offer (SLO) to offset your Customer Acquisition Cost (CAC) instantly.</p>
-</li>
-<li>
-<p>Lifetime Hard-Coded Cookies: You acquire the customer once. Our automated backend systems nurture them into our high-ticket ecosystem. You earn 30% on every backend upgrade, up to $2,997, forever.</p>
-</li>
-<li>
-<p>High-Velocity Upsells: The funnel architecture includes a 50% commission Order Bump and a 30% commission continuity subscription immediately at checkout to maximize Day-1 Average Cart Value.</p>
-</li>
-</ul>
-<p><strong>THE INFRASTRUCTURE (MISSION CONTROL):</strong></p>
-<p>We do not just hand you a link; we supply our decentralized salesforce with a complete operational hub.</p>
-<ul>
-<li>
-<p>The Ad Vault: Access 60+ tested, compliance-friendly native-style creatives engineered for high CTR.</p>
-</li>
-<li>
-<p>Niche Battle Crates: Psychographically profiled copy angles tailored specifically for Anxiety, Insomnia, and Burnout segments.</p>
-</li>
-<li>
-<p>Cinematic VSLs: High-retention Video Sales Letters that interrupt scrolling patterns and hook viewers within the first 3 seconds.</p>
-</li>
-</ul>
-<p>TRAFFIC PARAMETERS:</p>
-<ul>
-<li>
-<p><strong>AUTHORIZED</strong>: Facebook/Meta, YouTube, TikTok, Email Lists, Content Marketing, Native Networks.</p>
-</li>
-<li>
-<p><strong>PROHIBITED</strong>: Brand Bidding (PPC on Planeta Vida keywords), Medical/Cure Claims, Spam or bot traffic.</p>
-</li>
-</ul>
-<p><strong><em>HOW TO INITIATE YOUR PARTNERSHIP</em></strong>:</p>
-<ol>
-<li>
-<p>Click the Request button on this page.</p>
-</li>
-<li>
-<p>Navigate directly to our partner hub: <a href="https://www.pv-en.com/the-5-pillar-affiliate-support-hub" target="_blank" rel="noreferrer noopener">Affiliate Support Hub</a></p>
-</li>
-<li>
-<p>Select your designated Pillar and target market.</p>
-</li>
-<li>
-<p>Submit your traffic strategy for our 48-hour compliance audit.</p>
-</li>
-</ol>
+**Vendor's marketplace description:** IMPORTANT: MANDATORY VETTING PROCESS REQUIRED FOR APPROVAL Planeta Vida operates a closed, strictly vetted affiliate infrastructure to protect the EPCs and domain authority of our active partners. Step 1 : Click the "Request" button on this Digistore24 page. Step 2 : Your application will remain in a "PENDING" status. To unlock 75% front-end commissions and activate your link, you MUST submit your traffic strategy through our official portal for auditing: Pillar 1 - Mental Health Affiliate Support Page Failure to submit the infrastructure audit form via the link above will result in your Digistore24 request being permanently ignored. STOP SELLING MEDITATION. START SELLING "BIOLOGICAL DECODING." Welcome to the high-performance infrastructure for the Mental Health and Cognitive Optimization sector. While the broader market fatigues on low-retention apps and generic mindfulness advice, Planeta Vida converts cold traffic by solving the physiological root cause of anxiety and burnout: The Nervous System Survival Loop. THE ECONOMICS (ENGINEERED FOR EXPERIENCED AFFILIATES): 75% Front-End Commission: We allocate the lion's share of the $19 entry directly to you, creating a true Self-Liquidating Offer (SLO) to offset your Customer Acquisition Cost (CAC) instantly. Lifetime Hard-Coded Cookies: You acquire the customer once. Our automated backend systems nurture them into our high-ticket ecosystem. You earn 30% on every backend upgrade, up to $2,997, forever. High-Velocity Upsells: The funnel architecture includes a 50% commission Order Bump and a 30% commission continuity subscription immediately at checkout to maximize Day-1 Average Cart Value. THE INFRASTRUCTURE (MISSION CONTROL): We do not just hand you a link; we supply our decentralized salesforce with a complete operational hub. The Ad Vault: Access 60+ tested, compliance-friendly native-style creatives engineered for high CTR. Niche Battle Crates: Psychographically profiled copy angles tailored specifically for Anxiety, Insomnia, and Burnout segments. Cinematic VSLs: High-retention Video Sales Letters that interrupt scrolling patterns and hook viewers within the first 3 seconds. TRAFFIC PARAMETERS: AUTHORIZED : Facebook/Meta, YouTube, TikTok, Email Lists, Content Marketing, Native Networks. PROHIBITED : Brand Bidding (PPC on Planeta Vida keywords), Medical/Cure Claims, Spam or bot traffic. HOW TO INITIATE YOUR PARTNERSHIP : Click the Request button on this page. Navigate directly to our partner hub: Affiliate Support Hub Select your designated Pillar and target market. Submit your traffic strategy for our 48-hour compliance audit.
 
 ## 2. Links
 

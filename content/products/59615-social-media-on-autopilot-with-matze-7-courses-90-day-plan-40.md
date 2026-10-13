@@ -41,23 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Stop starting from scratch. Give your content project a clear plan.</h2>
-<p>The Social Media Mega Bundle with Matze connects seven English practical courses with a 90-day action plan. For beginners and independent creators who want to plan content, develop an offer and explore suitable distribution channels.</p>
-<ul>
-<li>Social Media Content Workflow</li>
-<li>UGC Creator Practical Course</li>
-<li>Affiliate Marketing for Beginners</li>
-<li>TikTok Shop Affiliate for Beginners</li>
-<li>Canva Mini-Products Practical Course</li>
-<li>Pinterest for Beginners</li>
-<li>Create Faceless Videos</li>
-</ul>
-<h3>Tools for putting the lessons into practice</h3>
-<p>A 90-day workbook with 13 weekly sections, editable local content calendar and three seven-day campaigns with draft copy and visual ideas.</p>
-<p><strong>US$599 one time. No subscription. 40% affiliate commission according to Digistore24 settlement.</strong> VAT included where applicable; US sales tax may be added at checkout. 60-day money-back guarantee.</p>
-<p>Product-specific Matze scene cover, social copy, email template and partner-link generator are available on the linked affiliate support page.</p>
-<p>Written self-study materials in eight ZIP downloads. No video lessons, live coaching or personal coaching sessions. No guarantee of income, sales or reach. External software, accounts, advertising and platform approvals are not included. The seven courses overlap with existing Matze bundles.</p>
-<p>Affiliate support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Stop starting from scratch. Give your content project a clear plan. The Social Media Mega Bundle with Matze connects seven English practical courses with a 90-day action plan. For beginners and independent creators who want to plan content, develop an offer and explore suitable distribution channels. Social Media Content Workflow UGC Creator Practical Course Affiliate Marketing for Beginners TikTok Shop Affiliate for Beginners Canva Mini-Products Practical Course Pinterest for Beginners Create Faceless Videos Tools for putting the lessons into practice A 90-day workbook with 13 weekly sections, editable local content calendar and three seven-day campaigns with draft copy and visual ideas. US$599 one time. No subscription. 40% affiliate commission according to Digistore24 settlement. VAT included where applicable; US sales tax may be added at checkout. 60-day money-back guarantee. Product-specific Matze scene cover, social copy, email template and partner-link generator are available on the linked affiliate support page. Written self-study materials in eight ZIP downloads. No video lessons, live coaching or personal coaching sessions. No guarantee of income, sales or reach. External software, accounts, advertising and platform approvals are not included. The seven courses overlap with existing Matze bundles. Affiliate support: info@einfachhaltbar.de
 
 ## 2. Links
 

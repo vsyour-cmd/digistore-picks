@@ -41,55 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>AFFILIATE TOTAL COMMISSION IS 50%</strong></p>
-<p>In our digital product you will get ideas about search engine optimization and generate website traffic and social media marketing from different social media platforms </p>
-<p> </p>
-<p>You will get total 41 ebooks set of search engine optimization and social media marketing</p>
-<p> </p>
-<p><strong>21 search engine optimization ebooks</strong></p>
-<p>(1) How to find etsy tags that sell like hotcakes</p>
-<p>(2) How to rank pins on Pinterest fast</p>
-<p>(3) Tips for improve your SEO score</p>
-<p>(4) 10000 subscribers in 90 days</p>
-<p>(5) How to write seo friendly blog posts</p>
-<p>(6) How to increase domain authority through seo</p>
-<p>(7) How to gain 100 followers in a day</p>
-<p>(8) Ultimate seo checklist for blog post writing</p>
-<p>(9) Pro tips for How to get your first 100 email subscribers</p>
-<p>(10) How to reach 20000 monthly blog views</p>
-<p>(11) How to use tailwind to get tons of traffic</p>
-<p>(12) SEO top Secrets for Higher Google Rank</p>
-<p>(13) Seo hacks for grow your YouTube channel</p>
-<p>(14) Best seo tools for bloggers</p>
-<p>(15) How to speed up your wordpress website</p>
-<p>(16) How to find long tail keywords</p>
-<p>(17) How to find the first 100 customers for your business</p>
-<p>(18) How to optimize blog post images for seo</p>
-<p>(19) Complete technical seo audit checklist</p>
-<p>(20) How to become a Professional seo expert</p>
-<p>(21) The ultimate guide of google search console</p>
-<p> </p>
-<p> <strong>20 social media marketing ebooks </strong></p>
-<p>(1) How to conduct own social media audit</p>
-<p>(2) Dominate social media with pinterest videos</p>
-<p>(3) Create pinterest images that actually click</p>
-<p>(4) 101 plus Video ideas for your business</p>
-<p>(5) Social media marketing hacks</p>
-<p>(6) How to keywords research on Pinterest</p>
-<p>(7) How to design Viral Pins for Pinterest</p>
-<p>(8) How to use Facebook groups for business</p>
-<p>(9) Creative social media content ideas</p>
-<p>(10) How to find twitter trending hashtags</p>
-<p>(11) How to become a social media manager</p>
-<p>(12) How to create a social media marketing plan</p>
-<p>(13) Social media marketing mistakes to avoid</p>
-<p>(14) Social media marketing tips for small business</p>
-<p>(15) How to set up killer facebook business page </p>
-<p>(16) The ultimate guide of Facebook organic reach</p>
-<p>(17) Best Instagram story ideas</p>
-<p>(18) Instagram engagement guide for business</p>
-<p>(19) How to get millions of monthly views on Pinterest</p>
-<p>(20) How to become a Pinterest virtual assistant</p>
+**Vendor's marketplace description:** AFFILIATE TOTAL COMMISSION IS 50% In our digital product you will get ideas about search engine optimization and generate website traffic and social media marketing from different social media platforms You will get total 41 ebooks set of search engine optimization and social media marketing 21 search engine optimization ebooks (1) How to find etsy tags that sell like hotcakes (2) How to rank pins on Pinterest fast (3) Tips for improve your SEO score (4) 10000 subscribers in 90 days (5) How to write seo friendly blog posts (6) How to increase domain authority through seo (7) How to gain 100 followers in a day (8) Ultimate seo checklist for blog post writing (9) Pro tips for How to get your first 100 email subscribers (10) How to reach 20000 monthly blog views (11) How to use tailwind to get tons of traffic (12) SEO top Secrets for Higher Google Rank (13) Seo hacks for grow your YouTube channel (14) Best seo tools for bloggers (15) How to speed up your wordpress website (16) How to find long tail keywords (17) How to find the first 100 customers for your business (18) How to optimize blog post images for seo (19) Complete technical seo audit checklist (20) How to become a Professional seo expert (21) The ultimate guide of google search console 20 social media marketing ebooks (1) How to conduct own social media audit (2) Dominate social media with pinterest videos (3) Create pinterest images that actually click (4) 101 plus Video ideas for your business (5) Social media marketing hacks (6) How to keywords research on Pinterest (7) How to design Viral Pins for Pinterest (8) How to use Facebook groups for business (9) Creative social media content ideas (10) How to find twitter trending hashtags (11) How to become a social media manager (12) How to create a social media marketing plan (13) Social media marketing mistakes to avoid (14) Social media marketing tips for small business (15) How to set up killer facebook business page (16) The ultimate guide of Facebook organic reach (17) Best Instagram story ideas (18) Instagram engagement guide for business (19) How to get millions of monthly views on Pinterest (20) How to become a Pinterest virtual assistant
 
 ## 2. Links
 

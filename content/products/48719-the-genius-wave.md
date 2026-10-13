@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hyper-conversions, BIG-TIME EPCs, Neuroscientist-endorsed product. Go HERE to get your link: <a href="https://realgeniuswave.com/DSAffiliates/" target="_blank" rel="noreferrer noopener">https://realgeniuswave.com/DSAffiliates/</a></p>
-<p>From the 8-figure VSL team behind Billionaire Brain Wave. Test your traffic &amp; watch the big EPC's roll in.</p>
-<p>Affiliate Resources: <a href="bit.ly/affiliateresourceguides" target="_blank" rel="noreferrer noopener">bit.ly/affiliateresourceguides</a></p>
-<p> </p>
+**Vendor's marketplace description:** Hyper-conversions, BIG-TIME EPCs, Neuroscientist-endorsed product. Go HERE to get your link: https://realgeniuswave.com/DSAffiliates/ From the 8-figure VSL team behind Billionaire Brain Wave. Test your traffic & watch the big EPC's roll in. Affiliate Resources: bit.ly/affiliateresourceguides
 
 ## 2. Links
 

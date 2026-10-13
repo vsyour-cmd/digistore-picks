@@ -41,23 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Freelancing Hacks - The Ultimate Guide for Beginners &amp; Scale-Ups</strong></p>
-<p>Help your audience launch and scale their freelancing career with this step-by-step guide.</p>
-<p><strong>Why Promote This eBook?</strong></p>
-<ul>
-<li>
-<p>High-converting sales offer</p>
-</li>
-<li>
-<p>High affiliate commission</p>
-</li>
-<li>
-<p>Instant PDF delivery for buyers</p>
-</li>
-<li>
-<p>Solves real problems: client acquisition, proposal writing, and pricing strategies</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Freelancing Hacks - The Ultimate Guide for Beginners & Scale-Ups Help your audience launch and scale their freelancing career with this step-by-step guide. Why Promote This eBook? High-converting sales offer High affiliate commission Instant PDF delivery for buyers Solves real problems: client acquisition, proposal writing, and pricing strategies
 
 ## 2. Links
 

@@ -41,29 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<p><strong>The #1 Anti-Aging Offer for Spiritual Audiences Built to Scale on Meta &amp; YouTube.</strong></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p><strong>$300+ Average Order Value!</strong></p>
-</div>
-</div>
-</div>
-<div>
-<ul>
-<li>$414.65+ average order value with $3.99 EPCs in early tests</li>
-<li>Pineal gland = new anti-aging mechanism (backed by ancient + modern science)</li>
-<li>Spiritual lost history angle and "Genesis Gland" mechanism appeals to WIDE range of spiritual audiences.</li>
-<li>Clean offer structure allows you to scale without compliance headaches</li>
-<li>Full creative suite + email swipes with proven anti-aging angles.</li>
-</ul>
-</div>
+**Vendor's marketplace description:** The #1 Anti-Aging Offer for Spiritual Audiences Built to Scale on Meta & YouTube. $300+ Average Order Value! $414.65+ average order value with $3.99 EPCs in early tests Pineal gland = new anti-aging mechanism (backed by ancient + modern science) Spiritual lost history angle and "Genesis Gland" mechanism appeals to WIDE range of spiritual audiences. Clean offer structure allows you to scale without compliance headaches Full creative suite + email swipes with proven anti-aging angles.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Unique “Menopause Belly-Melt” Solution Is Addressing Hot Flashes, Mood Swings &amp; Weight Gain in a Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.</p>
+**Vendor's marketplace description:** This Unique “Menopause Belly-Melt” Solution Is Addressing Hot Flashes, Mood Swings & Weight Gain in a Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.
 
 ## 2. Links
 

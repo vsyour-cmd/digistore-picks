@@ -41,22 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>When it comes to cold calling:</strong></p>
-<ul>
-<li>Are you hesitant?</li>
-<li>Are you fearful of rejection?</li>
-<li>Do you feel you are bothering people?</li>
-<li>Do you feel nervous with anxiety?</li>
-</ul>
-<p><strong>Well your problem can be fixed</strong></p>
-<p><strong>Introducing!! Fearless Phone Fanatic downloadable package !!</strong></p>
-<p><em>Fearless Phone Fanatic downloadable package is comprised of 3 components</em></p>
-<ol>
-<li>An audio Mp3<strong> (Fearless Phone Fanatic: The Ation Tool)</strong> designed to reprogram the source of the problem for most sales professionals, the subconscious mind. This is were bad memories, and negative beliefs are the strongest and affect how we feel when it's time to make cold calls. Reprogram this and you will see amazing improvments. This Mp3 is professionally designed to lead you into a deep, super receptive, meditative state combined with new and positive ideas that will reprogram you subconscious mind so that you will become confident and excited about making cold calls. This Mp3 speaks the special language that your subconscious mind responds to.</li>
-<li>An ebook <strong>(Fearless Phone Fanatic: The ebook)</strong> that contains strategies and methods that you can apply to your cold calling routine that just simply makes cold calling so much easier and so much fun. You will begin to thrive quickly using the tactics in this ebook.</li>
-<li>A simple cheatsheet <strong>(Fearless Phone Fanatic: The cheatsheet)</strong> that will show you how to properly use the audio mp3 for maximum results.</li>
-</ol>
-<p>Turn your fears of cold calling into confidence and most importantly, a real chance at financial success.</p>
+**Vendor's marketplace description:** When it comes to cold calling: Are you hesitant? Are you fearful of rejection? Do you feel you are bothering people? Do you feel nervous with anxiety? Well your problem can be fixed Introducing!! Fearless Phone Fanatic downloadable package !! Fearless Phone Fanatic downloadable package is comprised of 3 components An audio Mp3 (Fearless Phone Fanatic: The Ation Tool) designed to reprogram the source of the problem for most sales professionals, the subconscious mind. This is were bad memories, and negative beliefs are the strongest and affect how we feel when it's time to make cold calls. Reprogram this and you will see amazing improvments. This Mp3 is professionally designed to lead you into a deep, super receptive, meditative state combined with new and positive ideas that will reprogram you subconscious mind so that you will become confident and excited about making cold calls. This Mp3 speaks the special language that your subconscious mind responds to. An ebook (Fearless Phone Fanatic: The ebook) that contains strategies and methods that you can apply to your cold calling routine that just simply makes cold calling so much easier and so much fun. You will begin to thrive quickly using the tactics in this ebook. A simple cheatsheet (Fearless Phone Fanatic: The cheatsheet) that will show you how to properly use the audio mp3 for maximum results. Turn your fears of cold calling into confidence and most importantly, a real chance at financial success.
 
 ## 2. Links
 

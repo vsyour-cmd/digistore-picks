@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Keep classes, assignments, grades, exams, schedules, study plans, and resources organized in one place. BerryOS Student Hub helps students plan their work, track progress, prepare for exams, and manage daily school tasks. The digital hub includes study tools and printable student resources.</p>
+**Vendor's marketplace description:** Keep classes, assignments, grades, exams, schedules, study plans, and resources organized in one place. BerryOS Student Hub helps students plan their work, track progress, prepare for exams, and manage daily school tasks. The digital hub includes study tools and printable student resources.
 
 ## 2. Links
 

@@ -41,28 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics – Rendering Starter Pack 1.3 GB</strong></p>
-<p>Professional graphic collections for architectural visualizations by Tonytextures - designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
-<p>1.3 GB curated mix of the best Tonytextures graphics - the perfect entry point for architects new to ArchVIZ post-processing.</p>
-<p>Find all information and free sample downloads on the product page: <br /><a href="https://www.tonytextures.com/archviz-starter-kit-architectural-entourage-textures-collection-renderings/">https://www.tonytextures.com/archviz-starter-kit-architectural-entourage-textures-collection-renderings/</a></p>
-<p><strong>What your audience gets:</strong></p>
-<ul>
-<li>1.3 GB of hand-picked ArchVIZ graphics - best value for beginners</li>
-<li>Cutout people, trees, plants, textures and backgrounds included</li>
-<li>Compatible with Photoshop, 3ds Max, Cinema 4D, SketchUp and more</li>
-<li>Instant digital download</li>
-<li>60-day money-back guarantee + free sample download available</li>
-</ul>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
-<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
-<li>Free sample download reduces purchase hesitation</li>
-<li>Low price point = easy first purchase, great gateway to the full library</li>
-</ul>
-<p><strong>Upsell opportunity - the MEGA Bundle:</strong></p>
-<p>This collection is part of <a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">Tonytexture's MEGA Bundle</a> which includes all 26 ArchVIZ collection with a 50% discount!<br /><br /></p>
-<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
+**Vendor's marketplace description:** Architecture VIZ Graphics – Rendering Starter Pack 1.3 GB Professional graphic collections for architectural visualizations by Tonytextures - designed for architects , landscape designers and ArchVIZ studios. 1.3 GB curated mix of the best Tonytextures graphics - the perfect entry point for architects new to ArchVIZ post-processing. Find all information and free sample downloads on the product page: https://www.tonytextures.com/archviz-starter-kit-architectural-entourage-textures-collection-renderings/ What your audience gets: 1.3 GB of hand-picked ArchVIZ graphics - best value for beginners Cutout people, trees, plants, textures and backgrounds included Compatible with Photoshop, 3ds Max, Cinema 4D, SketchUp and more Instant digital download 60-day money-back guarantee + free sample download available Why it converts: Clear niche: architects, landscape designers, ArchVIZ studios Established brand: Tonytextures.com – 10+ years serving architects Free sample download reduces purchase hesitation Low price point = easy first purchase, great gateway to the full library Upsell opportunity - the MEGA Bundle: This collection is part of Tonytexture's MEGA Bundle which includes all 26 ArchVIZ collection with a 50% discount! Overview of all Tonytextures products for architectural visualization: https://www.tonytextures.com/shop/
 
 ## 2. Links
 

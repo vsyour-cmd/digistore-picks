@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In the first novel of The Greco Family Trilogy, Olive Branches Don’t Grow on Trees is a heartfelt, humorous work of literary fiction about family, forgiveness, and the hard work of peacemaking.</p>
-<p>Middle child Silvia Greco is a feisty, determined young artist who dreams of healing her deeply divided Italian-American family. When she convinces the warring factions of the Greco clan to reunite for her younger brother’s high school graduation, Silvia quickly learns that love alone isn’t always enough. Peace, she discovers, doesn’t simply exist—it must be cultivated with patience, courage, and compassion.</p>
-<p>Lovable yet stubborn, the Grecos are a vividly drawn Italian-American family whose conflicts are as enduring as their bonds. As old wounds resurface and long-buried resentments emerge, Silvia is forced to confront the limits of her role as peacemaker—and the personal cost of trying to hold everyone together.</p>
+**Vendor's marketplace description:** In the first novel of The Greco Family Trilogy, Olive Branches Don’t Grow on Trees is a heartfelt, humorous work of literary fiction about family, forgiveness, and the hard work of peacemaking. Middle child Silvia Greco is a feisty, determined young artist who dreams of healing her deeply divided Italian-American family. When she convinces the warring factions of the Greco clan to reunite for her younger brother’s high school graduation, Silvia quickly learns that love alone isn’t always enough. Peace, she discovers, doesn’t simply exist—it must be cultivated with patience, courage, and compassion. Lovable yet stubborn, the Grecos are a vividly drawn Italian-American family whose conflicts are as enduring as their bonds. As old wounds resurface and long-buried resentments emerge, Silvia is forced to confront the limits of her role as peacemaker—and the personal cost of trying to hold everyone together.
 
 ## 2. Links
 

@@ -41,26 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>SecuPerts Rescue Stick – Your Digital Emergency Assistant</strong></p>
-<p>Your PC won’t start? Malware, system errors, or locked access slowing you down? The SecuPerts Rescue Stick gives you the tools you need to recover quickly and safely. This emergency USB toolkit helps you back up your files, remove viruses, and restore access to your system — fast and hassle-free.</p>
-<p>Your First Aid Kit for Windows</p>
-<p>Compatible with Windows XP, 7, 8, 10, 11 &amp; Linux.</p>
-<ul>
-<li>
-<p>Backs up and recovers your valuable data</p>
-</li>
-<li>
-<p>Detects and removes malware and viruses</p>
-</li>
-<li>
-<p>Grants access to locked or non-booting PCs</p>
-</li>
-<li>
-<p>Securely deletes data if needed</p>
-</li>
-</ul>
-<p>Available for immediate download. The software must be installed on a USB stick (not included).</p>
-<p>Be ready when your PC isn’t.</p>
+**Vendor's marketplace description:** SecuPerts Rescue Stick – Your Digital Emergency Assistant Your PC won’t start? Malware, system errors, or locked access slowing you down? The SecuPerts Rescue Stick gives you the tools you need to recover quickly and safely. This emergency USB toolkit helps you back up your files, remove viruses, and restore access to your system — fast and hassle-free. Your First Aid Kit for Windows Compatible with Windows XP, 7, 8, 10, 11 & Linux. Backs up and recovers your valuable data Detects and removes malware and viruses Grants access to locked or non-booting PCs Securely deletes data if needed Available for immediate download. The software must be installed on a USB stick (not included). Be ready when your PC isn’t.
 
 ## 2. Links
 

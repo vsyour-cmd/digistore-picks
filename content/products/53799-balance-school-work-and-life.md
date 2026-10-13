@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Affiliate Commission:</span> 80%</strong></span></h3>
-<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Product :</span> Ebook </strong></span></h3>
-<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Price:</span> $17.99</strong></span></h3>
-<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Target Countries:</span> USA, UK, Canada, Australia, New Zealand</strong> </span></h3>
+**Vendor's marketplace description:** Affiliate Commission: 80% Product : Ebook Price: $17.99 Target Countries: USA, UK, Canada, Australia, New Zealand
 
 ## 2. Links
 

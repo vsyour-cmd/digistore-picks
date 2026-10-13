@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote a storybook kids will love!</strong></p>
-<p>Ready to promote a children’s book that parents will love and kids will read again and again? <em>The Mice in the House</em> is a fun, illustrated story packed with humor, clever characters, and moral lessons. With vibrant artwork and a playful tone, this storybook is a great digital product for family-friendly audiences.</p>
-<p> – Fully illustrated and easy to read</p>
-<p> – Educational AND entertaining</p>
-<p> – Parents and teachers love read-aloud-ready books</p>
-<p><strong>Includes fun coloring pages</strong> — perfect for creative time after reading!  </p>
-<p>Help parents find a story their children will adore — and earn commissions while doing it!</p>
-<p>All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 <strong>Advertising Media Area</strong> for this product.</p>
+**Vendor's marketplace description:** Promote a storybook kids will love! Ready to promote a children’s book that parents will love and kids will read again and again? The Mice in the House is a fun, illustrated story packed with humor, clever characters, and moral lessons. With vibrant artwork and a playful tone, this storybook is a great digital product for family-friendly audiences. – Fully illustrated and easy to read – Educational AND entertaining – Parents and teachers love read-aloud-ready books Includes fun coloring pages — perfect for creative time after reading! Help parents find a story their children will adore — and earn commissions while doing it! All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 Advertising Media Area for this product.
 
 ## 2. Links
 

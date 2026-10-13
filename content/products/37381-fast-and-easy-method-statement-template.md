@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Please check the sales page for more project information.</p>
-<ul>
-<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
-<li>Best suited if you offer document templates, or if you run a project management blog, or website, or simply use the well-known social media platforms in the field of management or templates.</li>
-<li>If you register as an affiliate, please feel free to contact me and I will be happy to support you.</li>
-</ul>
+**Vendor's marketplace description:** Please check the sales page for more project information. As an affiliate, you earn 50% per sale. Best suited if you offer document templates, or if you run a project management blog, or website, or simply use the well-known social media platforms in the field of management or templates. If you register as an affiliate, please feel free to contact me and I will be happy to support you.
 
 ## 2. Links
 

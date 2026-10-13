@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Pet Parenting Keepsake Book For Your New Puppy</p>
+**Vendor's marketplace description:** Pet Parenting Keepsake Book For Your New Puppy
 
 ## 2. Links
 

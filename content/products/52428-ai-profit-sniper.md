@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Welcome Affiliates!</p>
-<p>A brand NEW Bizopp Offer is HERE</p>
-<p>Make Up To $483 Per Sale On This Hot New DIGISTORE24 Launch That Converts Like CRAZY!</p>
+**Vendor's marketplace description:** Welcome Affiliates! A brand NEW Bizopp Offer is HERE Make Up To $483 Per Sale On This Hot New DIGISTORE24 Launch That Converts Like CRAZY!
 
 ## 2. Links
 

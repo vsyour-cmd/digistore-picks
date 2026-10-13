@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:right;"><strong>A white-label SEO services store, hosted on the buyer’s own subdomain under their own brand. 25+ backlink services at wholesale from DA 30 to DA 70+, which they resell at their own prices and keep the margin on.</strong></p>
-<p><strong>Who it sells to:</strong> freelancers, consultants, web designers and anyone with clients who own websites, plus people looking to start an online business without stock or fulfilment.</p>
-<p><strong>The offer:</strong> $47 paid once, with $10 of order credit included so they can place a real order on day one. Fulfilment and client CSV reports are automatic. 60-day money-back guarantee.</p>
-<p><strong>For affiliates:</strong> 50% commission. English sales page at myrankflow.com/ds. Low price point and a concrete deliverable, so it converts on cold traffic.</p>
+**Vendor's marketplace description:** A white-label SEO services store, hosted on the buyer’s own subdomain under their own brand. 25+ backlink services at wholesale from DA 30 to DA 70+, which they resell at their own prices and keep the margin on. Who it sells to: freelancers, consultants, web designers and anyone with clients who own websites, plus people looking to start an online business without stock or fulfilment. The offer: $47 paid once, with $10 of order credit included so they can place a real order on day one. Fulfilment and client CSV reports are automatic. 60-day money-back guarantee. For affiliates: 50% commission. English sales page at myrankflow.com/ds. Low price point and a concrete deliverable, so it converts on cold traffic.
 
 ## 2. Links
 

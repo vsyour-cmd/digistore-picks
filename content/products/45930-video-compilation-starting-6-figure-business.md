@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Bestseller with a powerful knowledge of world-class Coaches bundled in a industry proven Video-Course and E-Book:<br /><br /></p>
-<ol>
-<li>Driving Growth and Succes in the Digital Age (Complimentary EBook - 35 pages)<br /><br /></li>
-<li>Video-Training Starting 6-Figure Business<br />(11 Videos - 45 min)</li>
-</ol>
-<p>Learn how to start a successful online business in just 30 days with our comprehensive training course. Our expertly crafted program covers everything you need to know to avoid common pitfalls and build a thriving online business. Don't waste time and money on trial and error. Follow our proven step-by-step approach to success.</p>
+**Vendor's marketplace description:** Bestseller with a powerful knowledge of world-class Coaches bundled in a industry proven Video-Course and E-Book: Driving Growth and Succes in the Digital Age (Complimentary EBook - 35 pages) Video-Training Starting 6-Figure Business (11 Videos - 45 min) Learn how to start a successful online business in just 30 days with our comprehensive training course. Our expertly crafted program covers everything you need to know to avoid common pitfalls and build a thriving online business. Don't waste time and money on trial and error. Follow our proven step-by-step approach to success.
 
 ## 2. Links
 

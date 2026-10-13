@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>50% Commission on a $27/month or $97/year software</strong></p>
-<p><strong>Commissions are monthly &amp; yearly recurring for life!</strong></p>
-<p>The BEST AI Food Analysis Tool to scan meals &amp; reveal hidden calories, macros, and ingredients.</p>
-<p>Evergreen niche: weight loss, fitness, nutrition.</p>
-<p>Affiliates get banners, swipes, and proven funnels.<br /><strong>Feel GREAT About Promoting!</strong></p>
+**Vendor's marketplace description:** 50% Commission on a $27/month or $97/year software Commissions are monthly & yearly recurring for life! The BEST AI Food Analysis Tool to scan meals & reveal hidden calories, macros, and ingredients. Evergreen niche: weight loss, fitness, nutrition. Affiliates get banners, swipes, and proven funnels. Feel GREAT About Promoting!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>&bdquo;the ultimate favorite recipe collection by&nbsp;raw foodies from all over the planet&ldquo;</em></p>
-<p>Have you ever wondered what the <strong>world&rsquo;s leading raw foodies</strong> favorite recipes are? Wonder no longer &ndash; they are all in this book!</p>
-<p>100% RAW LOVE contains exclusively tried, tested and served recipes &ndash; a satisfaction guarantee!</p>
-<p>You will also find a bit of information and contact details of each recipe creator on their recipe&rsquo;s page.</p>
-<p>&nbsp;</p>
-<p><strong>100 colour pages PDF format</strong> (DIGITAL &ndash; ideal for computers, laptops, tablets or to print out)</p>
-<h4>&nbsp;</h4>
-<p>&nbsp;</p>
+**Vendor's marketplace description:** &bdquo;the ultimate favorite recipe collection by raw foodies from all over the planet&ldquo; Have you ever wondered what the world&rsquo;s leading raw foodies favorite recipes are? Wonder no longer &ndash; they are all in this book! 100% RAW LOVE contains exclusively tried, tested and served recipes &ndash; a satisfaction guarantee! You will also find a bit of information and contact details of each recipe creator on their recipe&rsquo;s page. 100 colour pages PDF format (DIGITAL &ndash; ideal for computers, laptops, tablets or to print out)
 
 ## 2. Links
 

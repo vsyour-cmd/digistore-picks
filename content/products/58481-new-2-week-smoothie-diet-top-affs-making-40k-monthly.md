@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="background-color:#ff0000;color:#ffffff;">ABSOLUTE MEDIA MONSTER 2026</span></h1>
-<p><strong>BRAND NEW 2 WEEK CUSTOM SMOOTHIE DIET OFFER THAT'S PROVEN TO MAKE 7-FIGURES AND MORE</strong></p>
-<p>Just Launched By <strong>Proven Sellers.</strong></p>
-<p>The Original And The Best Compelling Video &amp; Poduct Marketed For Fast Weightloss Which is Whta Dieters Really Want!</p>
-<p>Plus 3 Upsells! You get 75% On Them! Conversions are Over 7% with 2.48EPc</p>
-<p>We reached <strong>#1 on the DS24 marketplace</strong> with our Keto Offer we launched a few years ago only in 7 hours after our launch. That became STRONGEST offer ever?</p>
-<p>Now we have come back to share the Love with you again with this brand <strong>New Smoothie Offer. The numbers are already solid</strong></p>
-<p>Copy our <strong>EXACT Campaign Strategy</strong> That Has Racked In Over thousands of dollars for our Affiiates on a Daily Basis</p>
-<p>Created And Improved By Industry Titans That Have Spent Over Millions In Paid Traffic.</p>
-<p><strong>Higher Commission Rates</strong> (90% and Above) Are Available and negotiable</p>
-<p><strong><span style="color:#ffffff;background-color:#ff0000;">Note:</span> If you are a Media Buyer and you can bring in Volume  reach out to Medi Benson Our Affiliate Support Manager at <span style="text-decoration:underline;color:#0000ff;">medibenson@gmail.com</span> for further instructions and help in regards to promotion</strong></p>
+**Vendor's marketplace description:** ABSOLUTE MEDIA MONSTER 2026 BRAND NEW 2 WEEK CUSTOM SMOOTHIE DIET OFFER THAT'S PROVEN TO MAKE 7-FIGURES AND MORE Just Launched By Proven Sellers. The Original And The Best Compelling Video & Poduct Marketed For Fast Weightloss Which is Whta Dieters Really Want! Plus 3 Upsells! You get 75% On Them! Conversions are Over 7% with 2.48EPc We reached #1 on the DS24 marketplace with our Keto Offer we launched a few years ago only in 7 hours after our launch. That became STRONGEST offer ever? Now we have come back to share the Love with you again with this brand New Smoothie Offer. The numbers are already solid Copy our EXACT Campaign Strategy That Has Racked In Over thousands of dollars for our Affiiates on a Daily Basis Created And Improved By Industry Titans That Have Spent Over Millions In Paid Traffic. Higher Commission Rates (90% and Above) Are Available and negotiable Note: If you are a Media Buyer and you can bring in Volume reach out to Medi Benson Our Affiliate Support Manager at medibenson@gmail.com for further instructions and help in regards to promotion
 
 ## 2. Links
 

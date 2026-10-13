@@ -41,32 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>EMAIL Marketing Success</strong></p>
-<p style="text-align:center;"> </p>
-<ul>
-<li>Stay connected with your target audience</li>
-<li>Reaching customers in real-time</li>
-<li>People engage more with emails than any other marketing tactic</li>
-<li>It’s easy to measure your progress</li>
-<li>It’s more affordable than many marketing strategies</li>
-<li>It allows for targeted messaging</li>
-<li>Increases brand awareness</li>
-<li>It’s timely</li>
-<li>Just about everyone has an email account</li>
-<li>
-<div>
-<p>Here’s what you’ll discover when you take the first step and purchase this authoritative guide on email marketing success to find out how to build an email list and create successful marketing campaigns.</p>
-<ul>
-<li>Come to understand what exactly email marketing is and why your business needs it.</li>
-<li>Learn how to get started with your email marketing campaigns.</li>
-<li>Learn the secrets of building your email list.</li>
-<li>Discover how to write emails that will inspire your audience to take action.</li>
-<li>Figure out how to measure your results so you can optimize your strategy for the best results.</li>
-<li>And much more!</li>
-</ul>
-</div>
-</li>
-</ul>
+**Vendor's marketplace description:** EMAIL Marketing Success Stay connected with your target audience Reaching customers in real-time People engage more with emails than any other marketing tactic It’s easy to measure your progress It’s more affordable than many marketing strategies It allows for targeted messaging Increases brand awareness It’s timely Just about everyone has an email account Here’s what you’ll discover when you take the first step and purchase this authoritative guide on email marketing success to find out how to build an email list and create successful marketing campaigns. Come to understand what exactly email marketing is and why your business needs it. Learn how to get started with your email marketing campaigns. Learn the secrets of building your email list. Discover how to write emails that will inspire your audience to take action. Figure out how to measure your results so you can optimize your strategy for the best results. And much more!
 
 ## 2. Links
 

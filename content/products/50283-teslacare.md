@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Advanced Features of Teslacare Terahertz Technology Teslacare Terahertz Devices use advanced technology to provide detailed targeting of the human body, which can help with health issues.Handheld and Portable These devices are handheld and portable, making them easy to use and transport. This makes them ideal for use in a variety of settings, both inside and outside the home.</p>
-<p> </p>
-<h3><span style="color:#3366ff;">Get <strong>60%</strong> Commission</span><br /><span style="color:#3366ff;">Through The ENTIRE FUNNEL!</span></h3>
+**Vendor's marketplace description:** Advanced Features of Teslacare Terahertz Technology Teslacare Terahertz Devices use advanced technology to provide detailed targeting of the human body, which can help with health issues.Handheld and Portable These devices are handheld and portable, making them easy to use and transport. This makes them ideal for use in a variety of settings, both inside and outside the home. Get 60% Commission Through The ENTIRE FUNNEL!
 
 ## 2. Links
 

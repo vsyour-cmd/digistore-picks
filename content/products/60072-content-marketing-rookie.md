@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Content Marketing Rookie</strong> is a beginner-friendly digital training resource designed to introduce users to the fundamentals of content marketing.</p>
-<p>It helps newcomers understand how content marketing works, how to plan useful content, and how to develop a simple, consistent approach to creating and sharing content online.</p>
-<h3>What Customers Can Expect</h3>
-<ul>
-<li>Introduction to content marketing fundamentals</li>
-<li>Beginner-friendly content planning guidance</li>
-<li>Content creation concepts and strategies</li>
-<li>Practical ideas for developing an online content presence</li>
-<li>Guidance on creating consistent content</li>
-<li>Easy-to-follow educational material</li>
-</ul>
+**Vendor's marketplace description:** Content Marketing Rookie is a beginner-friendly digital training resource designed to introduce users to the fundamentals of content marketing. It helps newcomers understand how content marketing works, how to plan useful content, and how to develop a simple, consistent approach to creating and sharing content online. What Customers Can Expect Introduction to content marketing fundamentals Beginner-friendly content planning guidance Content creation concepts and strategies Practical ideas for developing an online content presence Guidance on creating consistent content Easy-to-follow educational material
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Get your first six-figure day promoting this incredible ear health offer!  </strong></p>
-<p>This offer has generated <strong>more than $3 per click for affiliates</strong>!  Multiple landing pages. </p>
-<p><span style="text-decoration:underline;"> Scale this offer on Native, Fb, YouTube Ads, PPC and be amazed by how much you make!</span></p>
-<p><br />Rebalance your brain chemistry and bid farewell to tinnitus with <span style="text-decoration:underline;">an all-natural custom formulation of exotic ingredients</span> in Zeneara that targeting the root cause of ear ringing!</p>
+**Vendor's marketplace description:** Get your first six-figure day promoting this incredible ear health offer! This offer has generated more than $3 per click for affiliates ! Multiple landing pages. Scale this offer on Native, Fb, YouTube Ads, PPC and be amazed by how much you make! Rebalance your brain chemistry and bid farewell to tinnitus with an all-natural custom formulation of exotic ingredients in Zeneara that targeting the root cause of ear ringing!
 
 ## 2. Links
 

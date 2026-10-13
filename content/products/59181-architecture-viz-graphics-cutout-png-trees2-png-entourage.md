@@ -41,29 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics – Cutout Trees V02 Collection</strong></p>
-<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
-<p>66 additional hand-masked cutout trees — the perfect companion to Trees V1, designed to avoid the clone effect in renderings.</p>
-<p>Find all information and free sample downloads on the product page: <br /><a>https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/</a></p>
-<p><strong>What your audience gets:</strong></p>
-<ul>
-<li>66 high-resolution PNG tree cutouts (up to 7,200 px height)</li>
-<li>Different species from V1 — maximum variety</li>
-<li>PNG with alpha channel + JPG color and alpha map included</li>
-<li>Compatible with all common 2D and 3D software</li>
-<li>Instant digital download</li>
-<li>60-day money-back guarantee + free sample download available<br /><br /></li>
-</ul>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
-<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
-<li>Free sample download reduces purchase hesitation</li>
-<li>Natural upsell for anyone who already bought Trees V1<br /><br /></li>
-</ul>
-<p><strong>Upsell opportunity - the MEGA Bundle:</strong></p>
-<p>This collection is part of <a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">Tonytexture's MEGA Bundle</a> which includes all 26 ArchVIZ collection with a 50% discount!<br /><br /></p>
-<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
+**Vendor's marketplace description:** Architecture VIZ Graphics – Cutout Trees V02 Collection Professional graphic collections for architectural visualizations by Tonytextures — designed for architects , landscape designers and ArchVIZ studios. 66 additional hand-masked cutout trees — the perfect companion to Trees V1, designed to avoid the clone effect in renderings. Find all information and free sample downloads on the product page: https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/ What your audience gets: 66 high-resolution PNG tree cutouts (up to 7,200 px height) Different species from V1 — maximum variety PNG with alpha channel + JPG color and alpha map included Compatible with all common 2D and 3D software Instant digital download 60-day money-back guarantee + free sample download available Why it converts: Clear niche: architects, landscape designers, ArchVIZ studios Established brand: Tonytextures.com – 10+ years serving architects Free sample download reduces purchase hesitation Natural upsell for anyone who already bought Trees V1 Upsell opportunity - the MEGA Bundle: This collection is part of Tonytexture's MEGA Bundle which includes all 26 ArchVIZ collection with a 50% discount! Overview of all Tonytextures products for architectural visualization: https://www.tonytextures.com/shop/
 
 ## 2. Links
 

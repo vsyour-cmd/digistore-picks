@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>SKY-HIGH CONVERSIONS: The VSL/Upsell funnel was created by a Clickbank marketer with nearly $100M in sales of his own products. </li>
-<li>PAID TRAFFIC KILLER: This offer is scaling on paid media right now by the product owner. Get in on the action!</li>
-<li>GREAT PRODUCT: We get testimonials everyday from customers. We have one of the lowest refund rates on Clickbank. <em>Get Your Promotional Materials pn our ASP!</em></li>
-</ul>
+**Vendor's marketplace description:** SKY-HIGH CONVERSIONS: The VSL/Upsell funnel was created by a Clickbank marketer with nearly $100M in sales of his own products. PAID TRAFFIC KILLER: This offer is scaling on paid media right now by the product owner. Get in on the action! GREAT PRODUCT: We get testimonials everyday from customers. We have one of the lowest refund rates on Clickbank. Get Your Promotional Materials pn our ASP!
 
 ## 2. Links
 

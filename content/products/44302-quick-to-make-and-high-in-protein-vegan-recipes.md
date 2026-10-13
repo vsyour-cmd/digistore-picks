@@ -41,61 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Vegan Recipes </strong>that are with Unique Niche of<strong> high Protein and Quick to Make. </strong>The Combination that is in super demand and<strong> not available in market.</strong></p>
-<p> </p>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Tired of <strong>comments that being Vegan,</strong> You can't gain muscles?</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p>Need meals that are <strong>quick to make</strong> and are <strong>not time-consuming</strong> in a busy schedule?</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<div>
-<p>This E-Book is the <strong>solution</strong> for all, whether making your build or completing your <strong>Protein Requirements</strong>.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<p> </p>
-<p><strong>For Affiliates -</strong></p>
-<p>70% commission Per sale. <strong>Sale more </strong>with<strong> Low Prices </strong>and Earn good <strong>per Sale.</strong></p>
-<p>Excellent Niche that would sell to body builders as well as Vegans. <strong>Not available in the market till now.</strong></p>
+**Vendor's marketplace description:** Vegan Recipes that are with Unique Niche of high Protein and Quick to Make. The Combination that is in super demand and not available in market. Tired of comments that being Vegan, You can't gain muscles? Need meals that are quick to make and are not time-consuming in a busy schedule? This E-Book is the solution for all, whether making your build or completing your Protein Requirements . For Affiliates - 70% commission Per sale. Sale more with Low Prices and Earn good per Sale. Excellent Niche that would sell to body builders as well as Vegans. Not available in the market till now.
 
 ## 2. Links
 

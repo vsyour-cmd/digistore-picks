@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Etsy Digital Products Practical Course (English)</p>
-<p>For beginners developing an original digital download.</p>
-<p>English course guide, fillable and editable workbook, research and rights CSVs, worked examples and an offline HTML workshop with contribution calculator and JSON backup.</p>
-<p>The pet-sitter handover example is for learning, not resale. Independent of Etsy.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$99.00 one-time payment. 60-day money-back guarantee. 40% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Etsy Digital Products Practical Course (English) For beginners developing an original digital download. English course guide, fillable and editable workbook, research and rights CSVs, worked examples and an offline HTML workshop with contribution calculator and JSON backup. The pet-sitter handover example is for learning, not resale. Independent of Etsy. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$99.00 one-time payment. 60-day money-back guarantee. 40% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

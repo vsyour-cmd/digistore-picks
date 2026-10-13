@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> Start Making Money with Amazon FBA (Beginner Friendly)Build online income without handling inventory or shipping!</strong></p>
-<p><br />This Beginner Amazon FBA eBook guides you step‑by‑step to launch your first profitable product with confidence.</p>
-<p>You’ll Learn</p>
-<p>✔️ How Amazon FBA works<br />✔️ How to find profitable products<br />✔️ How to calculate margins correctly<br />✔️ How to source from suppliers<br />✔️ How to launch &amp; optimize listings<br />✔️ The biggest mistakes to avoid</p>
-<p> </p>
-<p> What’s Included</p>
-<ul>
-<li>Ready‑to‑read PDF eBook</li>
-<li>Editable Canva Template Link (customize with your name, colors, or logo)</li>
-<li>Resell Rights – you can sell it as your own</li>
-</ul>
-<p> </p>
-<p>⚡ Instant Delivery</p>
-<p>After purchase, you’ll receive:<br />- A PDF download of the eBook<br />-A Canva template link to fully personalize and rebrand your version</p>
-<p>Perfect for beginners who want to learn Amazon FBA and also own a product they can resell or use to grow their own brand!</p>
+**Vendor's marketplace description:** Start Making Money with Amazon FBA (Beginner Friendly)Build online income without handling inventory or shipping! This Beginner Amazon FBA eBook guides you step‑by‑step to launch your first profitable product with confidence. You’ll Learn ✔️ How Amazon FBA works ✔️ How to find profitable products ✔️ How to calculate margins correctly ✔️ How to source from suppliers ✔️ How to launch & optimize listings ✔️ The biggest mistakes to avoid What’s Included Ready‑to‑read PDF eBook Editable Canva Template Link (customize with your name, colors, or logo) Resell Rights – you can sell it as your own ⚡ Instant Delivery After purchase, you’ll receive: - A PDF download of the eBook -A Canva template link to fully personalize and rebrand your version Perfect for beginners who want to learn Amazon FBA and also own a product they can resell or use to grow their own brand!
 
 ## 2. Links
 

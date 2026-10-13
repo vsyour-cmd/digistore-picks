@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#008000;"><strong>WELCOME AFFILIATES!</strong></span><span style="color:#008000;"><br /></span></h1>
-<div>
-<h2>Make Up To <span style="color:#ff0000;">$199</span> Per Sale On This Hot New DIGISTORE24 Launch That's Set To Convert Like Crazy</h2>
-</div>
+**Vendor's marketplace description:** WELCOME AFFILIATES! Make Up To $199 Per Sale On This Hot New DIGISTORE24 Launch That's Set To Convert Like Crazy
 
 ## 2. Links
 

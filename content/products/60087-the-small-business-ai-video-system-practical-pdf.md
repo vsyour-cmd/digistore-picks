@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Small Business AI Video System is a 71-page downloadable PDF guide for a one-time $79. It is a guide you read and use, not a video course or software subscription. 23 chapters on planning, creating, editing, repurposing and publishing AI marketing videos, plus a prompt library and adaptable templates.</p>
+**Vendor's marketplace description:** The Small Business AI Video System is a 71-page downloadable PDF guide for a one-time $79. It is a guide you read and use, not a video course or software subscription. 23 chapters on planning, creating, editing, repurposing and publishing AI marketing videos, plus a prompt library and adaptable templates.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Discover the secrets to peaceful nights with the e-book: <em>How to Make Your Baby Fall Asleep Faster</em>.</strong><br />A complete guide with accessible language, created by a psychologist with over 11 years of experience. Inside, you will find relaxation techniques tailored to your baby’s unique needs, respecting each stage of their development. This guide is recommended for new parents, providing an essential tool to promote healthier routines for your baby and say goodbye to sleepless nights.</p>
-<p><strong>Product language: English</strong></p>
-<p>This product comes with a 60-day money-back guarantee through Digistore24 if the customer is not satisfied.</p>
+**Vendor's marketplace description:** Discover the secrets to peaceful nights with the e-book: How to Make Your Baby Fall Asleep Faster . A complete guide with accessible language, created by a psychologist with over 11 years of experience. Inside, you will find relaxation techniques tailored to your baby’s unique needs, respecting each stage of their development. This guide is recommended for new parents, providing an essential tool to promote healthier routines for your baby and say goodbye to sleepless nights. Product language: English This product comes with a 60-day money-back guarantee through Digistore24 if the customer is not satisfied.
 
 ## 2. Links
 

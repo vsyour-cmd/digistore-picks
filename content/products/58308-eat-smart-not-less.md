@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eat Smart, Not Less: The Simple Truth About Food, Hunger &amp; Your Body is an accessible nutrition eBook aimed at consumers who want to improve their eating habits without restrictive diets or complicated nutrition plans.</p>
-<p>The product covers hunger and fullness, balanced meals, protein, carbohydrates, fats, fiber, hydration, food labels, meal preparation, sleep, stress and practical everyday food choices.</p>
-<p>Ideal target audiences include: people interested in healthy eating, beginners overwhelmed by nutrition information, busy adults, lifestyle and wellness audiences, and consumers looking for a simple alternative to restrictive dieting.</p>
-<p>Strong promotional angles: “eat smarter, not less,” understanding hunger, simple nutrition for beginners, sustainable eating habits, and making better food choices without extreme dieting.</p>
-<p>A broad-market product suitable for health, food, lifestyle, wellness and self-improvement traffic.</p>
+**Vendor's marketplace description:** Eat Smart, Not Less: The Simple Truth About Food, Hunger & Your Body is an accessible nutrition eBook aimed at consumers who want to improve their eating habits without restrictive diets or complicated nutrition plans. The product covers hunger and fullness, balanced meals, protein, carbohydrates, fats, fiber, hydration, food labels, meal preparation, sleep, stress and practical everyday food choices. Ideal target audiences include: people interested in healthy eating, beginners overwhelmed by nutrition information, busy adults, lifestyle and wellness audiences, and consumers looking for a simple alternative to restrictive dieting. Strong promotional angles: “eat smarter, not less,” understanding hunger, simple nutrition for beginners, sustainable eating habits, and making better food choices without extreme dieting. A broad-market product suitable for health, food, lifestyle, wellness and self-improvement traffic.
 
 ## 2. Links
 

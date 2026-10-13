@@ -41,35 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>WHO HAS THE POWER TO SHAPE THE SYSTEM ITSELF?</strong></p>
-<p><em>The New Architecture of Global Power – Volume VI: The Architecture of Systemic Power</em> examines how rules, standards, knowledge, regulation, intellectual property, corporations, and institutions shape the environment in which global power operates.</p>
-<p>What sets this book apart is its focus on <strong>systemic power</strong>—the difference between competing successfully within existing structures and having the ability to shape those structures themselves.</p>
-<p>Readers discover how seemingly invisible systems can create influence, dependencies, constraints, and strategic advantages.</p>
-<p>For affiliates, this offers a distinctive product for audiences interested in geopolitics, global institutions, regulation, technology, intellectual property, and the hidden architecture of global power.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** WHO HAS THE POWER TO SHAPE THE SYSTEM ITSELF? The New Architecture of Global Power – Volume VI: The Architecture of Systemic Power examines how rules, standards, knowledge, regulation, intellectual property, corporations, and institutions shape the environment in which global power operates. What sets this book apart is its focus on systemic power —the difference between competing successfully within existing structures and having the ability to shape those structures themselves. Readers discover how seemingly invisible systems can create influence, dependencies, constraints, and strategic advantages. For affiliates, this offers a distinctive product for audiences interested in geopolitics, global institutions, regulation, technology, intellectual property, and the hidden architecture of global power.
 
 ## 2. Links
 

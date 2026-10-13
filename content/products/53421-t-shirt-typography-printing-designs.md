@@ -41,27 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unleash your creativity and elevate your print-on-demand store with this massive bundle of <strong>250+ typography T-shirt designs Collection!</strong></p>
-<p>Ready to use and fully editable, these high-quality EPS files are perfect for quickly creating trendy, eye-catching apparel.</p>
-<p><strong>What You Get:</strong></p>
-<ul>
-<li>
-<p><strong>250+ Diverse Typography Designs:</strong> A huge variety of styles, quotes, and themes.</p>
-</li>
-<li>
-<p><strong>Vector EPS Files:</strong> Infinitely scalable without losing quality – perfect for any print size!</p>
-</li>
-<li>
-<p><strong>Fully Editable:</strong> Customize text, colors, and layouts to fit your brand.</p>
-</li>
-<li>
-<p><strong>Instant Download:</strong> Start designing immediately!</p>
-</li>
-<li>Also you can resell this on Etsy, Whop, Gumroad etc.</li>
-</ul>
-<p><strong>Grab this essential T-shirt design toolkit and start creating best-sellers today!</strong></p>
-<p> </p>
-<p><strong>"Order with confidence! We stand behind our digital product with a 60-day money-back guarantee, no questions asked."</strong></p>
+**Vendor's marketplace description:** Unleash your creativity and elevate your print-on-demand store with this massive bundle of 250+ typography T-shirt designs Collection! Ready to use and fully editable, these high-quality EPS files are perfect for quickly creating trendy, eye-catching apparel. What You Get: 250+ Diverse Typography Designs: A huge variety of styles, quotes, and themes. Vector EPS Files: Infinitely scalable without losing quality – perfect for any print size! Fully Editable: Customize text, colors, and layouts to fit your brand. Instant Download: Start designing immediately! Also you can resell this on Etsy, Whop, Gumroad etc. Grab this essential T-shirt design toolkit and start creating best-sellers today! "Order with confidence! We stand behind our digital product with a 60-day money-back guarantee, no questions asked."
 
 ## 2. Links
 

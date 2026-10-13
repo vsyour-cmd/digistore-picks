@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>“24 Menus from Madeira” – a beautiful cookbook for food lovers, travelers &amp; fans of the island!</strong> <br /><br /><strong>Target audience:</strong> <br />Madeira lovers, Portugal travelers, foodies, expats, cookbook collectors <br /><br /><strong>Product:</strong> <br />263 pages | 72 authentic recipes | 24 villages with stories &amp; local menus <br /><br /><strong>Format:</strong> <br />Instant PDF download</p>
-<p><strong>Languages:</strong> <br />Available in English and German <br /><br /><strong>Earn 25% commission per sale!</strong> <br /><br />Perfect for blogs, newsletters, Pinterest, Facebook, Instagram &amp; travel or food channels.</p>
-<p>✅ Professionally designed landing page <br />✅ Emotional storytelling + clear buyer benefits <br />✅ A great fit for culinary, travel &amp; expat audiences</p>
-<p><strong>Affiliate-friendly &amp; easy to promote – even for beginners!</strong></p>
-<p>Sign up &amp; start earning today: [Insert your affiliate link here]</p>
+**Vendor's marketplace description:** “24 Menus from Madeira” – a beautiful cookbook for food lovers, travelers & fans of the island! Target audience: Madeira lovers, Portugal travelers, foodies, expats, cookbook collectors Product: 263 pages | 72 authentic recipes | 24 villages with stories & local menus Format: Instant PDF download Languages: Available in English and German Earn 25% commission per sale! Perfect for blogs, newsletters, Pinterest, Facebook, Instagram & travel or food channels. ✅ Professionally designed landing page ✅ Emotional storytelling + clear buyer benefits ✅ A great fit for culinary, travel & expat audiences Affiliate-friendly & easy to promote – even for beginners! Sign up & start earning today: [Insert your affiliate link here]
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An honest, practical guide for adults with late-diagnosed ADHD – with real, everyday strategies instead of "just try harder." Ideal for audiences in mental health, neurodiversity, and self-help.</p>
-<p> </p>
-<p>22 chapters, warmly written, no diagnostic claims, with clear guidance toward professional evaluation. 50% commission per sale.</p>
+**Vendor's marketplace description:** An honest, practical guide for adults with late-diagnosed ADHD – with real, everyday strategies instead of "just try harder." Ideal for audiences in mental health, neurodiversity, and self-help. 22 chapters, warmly written, no diagnostic claims, with clear guidance toward professional evaluation. 50% commission per sale.
 
 ## 2. Links
 

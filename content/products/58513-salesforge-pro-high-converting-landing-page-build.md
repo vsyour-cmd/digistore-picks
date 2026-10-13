@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> SalesForge Pro – High-Converting Landing Page Builder</p>
+**Vendor's marketplace description:** SalesForge Pro – High-Converting Landing Page Builder
 
 ## 2. Links
 

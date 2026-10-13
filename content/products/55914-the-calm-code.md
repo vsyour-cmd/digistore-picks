@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <pre>The Calm Code is a premium binaural beats audio system with 12 tracks designed to help people with anxiety, racing thoughts, and stress find natural relief – without medication.</pre>
-<pre>Perfect for affiliates in: health, wellness, mental health, stress relief, parenting, self-improvement, and alternative health niches.</pre>
+**Vendor's marketplace description:** The Calm Code is a premium binaural beats audio system with 12 tracks designed to help people with anxiety, racing thoughts, and stress find natural relief – without medication. Perfect for affiliates in: health, wellness, mental health, stress relief, parenting, self-improvement, and alternative health niches.
 
 ## 2. Links
 

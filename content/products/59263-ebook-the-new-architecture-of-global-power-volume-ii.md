@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>WHEN DOES ECONOMIC INTERDEPENDENCE BECOME STRATEGIC POWER?</strong></p>
-<p><em>The New Architecture of Global Power – Volume II: The Architecture of Geoeconomic Power</em> examines how trade, production, supply chains, industrial capacity, and economic statecraft shape geopolitical influence.</p>
-<p>What sets this book apart is its focus on <strong>how economic structures become strategic leverage</strong>. It distinguishes ordinary interdependence from critical dependency and examines bottlenecks, substitution, resilience, and power conversion.</p>
-<p>Readers gain a deeper understanding of reshoring, friend-shoring, export controls, industrial policy, supply-chain security, de-risking, and economic fragmentation.</p>
-<p>For affiliates, this creates a highly relevant product for audiences interested in <strong>global trade, supply chains, China, economic security, industrial strategy, and geopolitics</strong>.</p>
+**Vendor's marketplace description:** WHEN DOES ECONOMIC INTERDEPENDENCE BECOME STRATEGIC POWER? The New Architecture of Global Power – Volume II: The Architecture of Geoeconomic Power examines how trade, production, supply chains, industrial capacity, and economic statecraft shape geopolitical influence. What sets this book apart is its focus on how economic structures become strategic leverage . It distinguishes ordinary interdependence from critical dependency and examines bottlenecks, substitution, resilience, and power conversion. Readers gain a deeper understanding of reshoring, friend-shoring, export controls, industrial policy, supply-chain security, de-risking, and economic fragmentation. For affiliates, this creates a highly relevant product for audiences interested in global trade, supply chains, China, economic security, industrial strategy, and geopolitics .
 
 ## 2. Links
 

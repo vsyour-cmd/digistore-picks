@@ -41,46 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<ul>
-<li>
-<p><strong>Highest payouts in the industry</strong></p>
-</li>
-<li>
-<p><strong>Amazing affiliate support</strong></p>
-</li>
-<li>
-<p><strong>​Tons of banners, email swipes, and other resources<br /></strong></p>
-</li>
-<li>
-<p><strong>​Low Refund Rate<br /></strong></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<ul>
-<li>
-<p><strong>Mobile and Tablet Optimized Site</strong></p>
-</li>
-<li>
-<p><strong>Funnel customizations available</strong></p>
-</li>
-<li>
-<p><strong>Sales domestically and internationally</strong></p>
-</li>
-<li>
-<p><strong>​Top Tier VSL Production</strong></p>
-</li>
-</ul>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Highest payouts in the industry Amazing affiliate support ​Tons of banners, email swipes, and other resources ​Low Refund Rate Mobile and Tablet Optimized Site Funnel customizations available Sales domestically and internationally ​Top Tier VSL Production
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Es handelt sich um die zweisprachige Version des "Super-Lernpakets" für Deutsch als Fremdsprache.</p>
-<p>In diesem eBook-Paket werden sehr effiziente Gedächtnistechniken zum einfacheren Lernen der deutschen Grammatik bereitgestellt.</p>
+**Vendor's marketplace description:** Es handelt sich um die zweisprachige Version des "Super-Lernpakets" für Deutsch als Fremdsprache. In diesem eBook-Paket werden sehr effiziente Gedächtnistechniken zum einfacheren Lernen der deutschen Grammatik bereitgestellt.
 
 ## 2. Links
 

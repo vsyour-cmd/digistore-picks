@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Digital Product Idea Library - 20 Printable Product Briefs (English)</p>
-<p>For creators planning a focused printable download.</p>
-<p>20 product briefs with audiences, page plans, complete sample-page wording and small demand tests; PDF, editable DOCX and Markdown.</p>
-<p>Editorial concepts are not market-validated sellers. No finished Canva designs or template links.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$9.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Digital Product Idea Library - 20 Printable Product Briefs (English) For creators planning a focused printable download. 20 product briefs with audiences, page plans, complete sample-page wording and small demand tests; PDF, editable DOCX and Markdown. Editorial concepts are not market-validated sellers. No finished Canva designs or template links. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$9.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

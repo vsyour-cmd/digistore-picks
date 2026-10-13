@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">A practical health guide that teaches readers how to use nutrition to support healing, improve digestion, boost energy, and reduce inflammation naturally.</p>
-<p style="text-align:justify;">Ideal for wellness-focused audiences and health-conscious buyers.</p>
-<p style="text-align:justify;"><br /><strong>Commission: 70% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** A practical health guide that teaches readers how to use nutrition to support healing, improve digestion, boost energy, and reduce inflammation naturally. Ideal for wellness-focused audiences and health-conscious buyers. Commission: 70% | Automatic Approval
 
 ## 2. Links
 

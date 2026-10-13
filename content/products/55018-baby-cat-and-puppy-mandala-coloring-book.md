@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Baby Cat and Puppy Mandala Coloring Book [PDF digital product. 50 mandala coloring pages]</p>
+**Vendor's marketplace description:** Baby Cat and Puppy Mandala Coloring Book [PDF digital product. 50 mandala coloring pages]
 
 ## 2. Links
 

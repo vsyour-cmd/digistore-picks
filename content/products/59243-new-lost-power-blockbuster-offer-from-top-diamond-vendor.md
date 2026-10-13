@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="color:#ffffff;background-color:#ff0000;">NEW ABSOLUTE CONVERSIONS MONSTER ON DIGISTORE24</span></h1>
-<p>We have crushed it on CB. It's time to share the Love with <strong>Digistore24. </strong>Right now the numbers look really good on D24</p>
-<p><strong>We Love you all D24 Affiliates</strong></p>
-<p>This is Brand new offer from Top Diamond Vendors with an ultra optimized upsell funnel and low refund rates. Unparalleled EPCs and conversion rates. Commission Bumps Available! Crushes on Facebook, Youtube, TikTok &amp; Native, scaling at warp speed. Get your links now !!!</p>
-<p><strong>Note:</strong> If you have any inquiries or need any support you can reach out to our Digistore 24 Affiliate Support Daniel at <strong>danielrowain@gmail.com</strong></p>
+**Vendor's marketplace description:** NEW ABSOLUTE CONVERSIONS MONSTER ON DIGISTORE24 We have crushed it on CB. It's time to share the Love with Digistore24. Right now the numbers look really good on D24 We Love you all D24 Affiliates This is Brand new offer from Top Diamond Vendors with an ultra optimized upsell funnel and low refund rates. Unparalleled EPCs and conversion rates. Commission Bumps Available! Crushes on Facebook, Youtube, TikTok & Native, scaling at warp speed. Get your links now !!! Note: If you have any inquiries or need any support you can reach out to our Digistore 24 Affiliate Support Daniel at danielrowain@gmail.com
 
 ## 2. Links
 

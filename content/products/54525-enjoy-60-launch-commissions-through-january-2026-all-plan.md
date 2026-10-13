@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>SoulTribe AI Storybook Generator lets parents, grandparents, teachers, and creators instantly generate <strong>beautiful illustrated and narrated storybooks</strong> for children using AI.<br />Create personalized stories that teach, inspire, and entertain — all in minutes.</p>
-<p>This app is perfect for the family, education, and faith-based audiences — a high-converting evergreen niche with global appeal.</p>
-<hr />
-<p> </p>
+**Vendor's marketplace description:** SoulTribe AI Storybook Generator lets parents, grandparents, teachers, and creators instantly generate beautiful illustrated and narrated storybooks for children using AI. Create personalized stories that teach, inspire, and entertain — all in minutes. This app is perfect for the family, education, and faith-based audiences — a high-converting evergreen niche with global appeal.
 
 ## 2. Links
 

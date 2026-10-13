@@ -41,32 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>The 21-Day Clean Eating Challenge</strong> is a fresh digital guide focused on kitchen organization and simple, whole-food recipes for individuals looking to build better daily eating habits.</div>
-<div> </div>
-<div>Instead of teaching restrictive diets that leave people tired and hungry, this ebook helps customers organize their meals step-by-step for a cleaner lifestyle and sustainable daily routines.</div>
-<div> </div>
-<div> </div>
-<div>
-<div><strong>WHY THIS CONVERTS</strong></div>
-<div>This digital ebook sells at an attractive <strong>$25</strong> price point, making it an easy choice for buyers without any financial hesitation. The program packs premium value into one guide: a complete 3-week daily nutrition map, 30+ easy recipes with clear macro breakdowns, weekly grocery checklists, and a printable progress tracker. It gives customers a solid kitchen setup, resulting in high satisfaction and stable sales.</div>
-<div> </div>
-<div style="text-align:justify;">
-<div>WHY AFFILIATES PROMOTE THIS OFFER</div>
-<ul>
-<li><strong>Massive 85% Commission:</strong> You keep almost the entire share of the revenue on every single front-end digital sale.</li>
-<li><strong>Achievable 3-Week Timeline:</strong> A 21-day program feels simple and realistic to buyers, which drives high conversions and low cart abandonment.</li>
-<li><strong>Instant Value Delivery:</strong> Customers receive immediate download access right after purchase, ensuring a smooth user experience and low refund rates.</li>
-<li><strong>Full Support Resources:</strong> We provide high-converting banners and ready-to-use email materials to make your promotion stress-free.</li>
-</ul>
-<div> </div>
-<div>
-<div><strong>IDEAL TRAFFIC SOURCES</strong></div>
-<div>This offer performs well across the entire health, fitness, and lifestyle audience. It is an excellent match for home-cooking blogs, lifestyle email lists, fitness social media accounts, and digital creators on Instagram, TikTok, or YouTube sharing simple meal preps, daily habits, or wellness routines.</div>
-<div> </div>
-<div><strong>Questions? Email:</strong> thewellnesslab.care@gmail.com — Response within 24 hours.</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** The 21-Day Clean Eating Challenge is a fresh digital guide focused on kitchen organization and simple, whole-food recipes for individuals looking to build better daily eating habits. Instead of teaching restrictive diets that leave people tired and hungry, this ebook helps customers organize their meals step-by-step for a cleaner lifestyle and sustainable daily routines. WHY THIS CONVERTS This digital ebook sells at an attractive $25 price point, making it an easy choice for buyers without any financial hesitation. The program packs premium value into one guide: a complete 3-week daily nutrition map, 30+ easy recipes with clear macro breakdowns, weekly grocery checklists, and a printable progress tracker. It gives customers a solid kitchen setup, resulting in high satisfaction and stable sales. WHY AFFILIATES PROMOTE THIS OFFER Massive 85% Commission: You keep almost the entire share of the revenue on every single front-end digital sale. Achievable 3-Week Timeline: A 21-day program feels simple and realistic to buyers, which drives high conversions and low cart abandonment. Instant Value Delivery: Customers receive immediate download access right after purchase, ensuring a smooth user experience and low refund rates. Full Support Resources: We provide high-converting banners and ready-to-use email materials to make your promotion stress-free. IDEAL TRAFFIC SOURCES This offer performs well across the entire health, fitness, and lifestyle audience. It is an excellent match for home-cooking blogs, lifestyle email lists, fitness social media accounts, and digital creators on Instagram, TikTok, or YouTube sharing simple meal preps, daily habits, or wellness routines. Questions? Email: thewellnesslab.care@gmail.com — Response within 24 hours.
 
 ## 2. Links
 

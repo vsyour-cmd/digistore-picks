@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"Knowledge is Power" is not just another e-book about finance. It's a step-by-step plan for you to achieve the financial freedom you desire.</p>
-<p>With simple and direct language, the e-book simplifies the world of finance and puts you in control of your future.</p>
-<p>As an affiliate you will receive 70% of the amount you sell!</p>
+**Vendor's marketplace description:** "Knowledge is Power" is not just another e-book about finance. It's a step-by-step plan for you to achieve the financial freedom you desire. With simple and direct language, the e-book simplifies the world of finance and puts you in control of your future. As an affiliate you will receive 70% of the amount you sell!
 
 ## 2. Links
 

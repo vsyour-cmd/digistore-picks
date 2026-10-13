@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<h4>Why do you NEED to promote Blood Pressure 911?</h4>
-<ul style="list-style-type:square;">
-<li>65% commission on initial sale</li>
-<li>55% on ALL upsells</li>
-<li>High conversion rate for cold and warm traffic</li>
-<li>CVR up to 4%</li>
-<li>$190+ avg. cart values</li>
-<li>LOW refund rates</li>
-</ul>
-<p> </p>
-<p>If you have any questions, please contact our affiliate manager: <strong><a href="mailto:affiliates@phytagesupport.com">affiliates@phytagesupport.com</a></strong></p>
-<p> </p>
-<p><strong>Please note: </strong>We do not allow any brand bidding on our products.</p>
-<p> </p>
-</div>
-</div>
+**Vendor's marketplace description:** Why do you NEED to promote Blood Pressure 911? 65% commission on initial sale 55% on ALL upsells High conversion rate for cold and warm traffic CVR up to 4% $190+ avg. cart values LOW refund rates If you have any questions, please contact our affiliate manager: affiliates@phytagesupport.com Please note: We do not allow any brand bidding on our products.
 
 ## 2. Links
 

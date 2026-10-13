@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>AOV $60</li>
-<li>Conversion rate 12.8% on cold traffic</li>
-<li>EPC $2.62</li>
-<li>High upsell take rate</li>
-</ul>
-<h3 style="text-align:center;"><span style="background-color:#993366;"><a style="background-color:#993366;" href="https://drive.google.com/drive/folders/1RZ92cnZYMNR0buiX3_5A4biwJ0nU9w6-?usp=drive_link" target="_blank" rel="noreferrer noopener"><span style="color:#ffffff;">&gt;&gt; Click here to get the email campaign that makes $10,000 in under a week</span></a></span></h3>
-<p> </p>
-<p>If you want to chat about other ways we can help, just book a call in with our dedicated affiliate manager.</p>
-<h3 style="text-align:center;"><span style="background-color:#993366;color:#ffffff;"><a style="background-color:#993366;color:#ffffff;" href="https://calendly.com/livingtheoffgriddream/affiliate-program" target="_blank" rel="noreferrer noopener">&gt;&gt;Book a quick call with Tom </a></span></h3>
+**Vendor's marketplace description:** AOV $60 Conversion rate 12.8% on cold traffic EPC $2.62 High upsell take rate >> Click here to get the email campaign that makes $10,000 in under a week If you want to chat about other ways we can help, just book a call in with our dedicated affiliate manager. >>Book a quick call with Tom
 
 ## 2. Links
 

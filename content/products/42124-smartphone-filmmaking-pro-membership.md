@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Smartphone Filmmaking Pro</strong> is THE WAY to learn how to create amazing looking videos with a smartphone in the <strong>fastest</strong> and <strong>easiest</strong> way somehow possible.</p>
-<p>We do offer a discount for our affiliates so that people can buy the course for <strong>just $147</strong> and we offer you, as our affiliate partner, a massive <strong>commission of 50% ($73).</strong></p>
-<p>Inside of the course are over <strong>230 tutorials</strong>, well over <strong>23 hours of content</strong>, we grant our members access to our private and exclusive community and this is also the place where our students can show their work and get feedback from us.</p>
-<p>Additionally to all of that we do also offer discounts on gear - as we have partnerships with several different brands and we also provide countless downloads to shorten the learning curve of our students.</p>
+**Vendor's marketplace description:** Smartphone Filmmaking Pro is THE WAY to learn how to create amazing looking videos with a smartphone in the fastest and easiest way somehow possible. We do offer a discount for our affiliates so that people can buy the course for just $147 and we offer you, as our affiliate partner, a massive commission of 50% ($73). Inside of the course are over 230 tutorials , well over 23 hours of content , we grant our members access to our private and exclusive community and this is also the place where our students can show their work and get feedback from us. Additionally to all of that we do also offer discounts on gear - as we have partnerships with several different brands and we also provide countless downloads to shorten the learning curve of our students.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div><strong>Earn commissions promoting a career-focused DOT Urine Specimen Collector Qualification Training program from HTL Management Inc.</strong></div>
-<div>
-<p>This self-paced online training is designed for individuals interested in becoming qualified to perform DOT urine specimen collections in accordance with 49 CFR Part 40 requirements. Students can work at their own pace and complete the online training before completing the required proficiency demonstrations/mock collections.</p>
-<p><strong>WHY PROMOTE THIS PROGRAM?</strong></p>
-<p>• Career-focused professional training<br />• Self-paced online learning<br />• Nationwide audience<br />• Ideal for entrepreneurs, healthcare professionals, mobile testing providers, occupational health professionals, and individuals entering the drug &amp; alcohol testing industry<br />• Affiliate-friendly sales page and tracking<br />• Earn commission on qualifying referred sales</p>
-<p><strong>TARGET AUDIENCE</strong></p>
-<p>This program is a strong fit for people interested in occupational health, drug testing, transportation compliance, mobile testing businesses, healthcare-related entrepreneurship, and starting or expanding a specimen collection business.</p>
-<p><strong>AFFILIATE OPPORTUNITY</strong></p>
-<p>Promote the program using your unique affiliate link. Digistore24 tracks qualifying referrals and commissions through its affiliate system.</p>
-<p>Help people gain the training needed to pursue qualification as a DOT urine specimen collector while earning commissions for successful referrals.</p>
-<p><strong>HTL Management Inc. — Professional Training. Career Opportunities. Business Growth</strong></p>
-<p>### 
+**Vendor's marketplace description:** Earn commissions promoting a career-focused DOT Urine Specimen Collector Qualification Training program from HTL Management Inc. This self-paced online training is designed for individuals interested in becoming qualified to perform DOT urine specimen collections in accordance with 49 CFR Part 40 requirements. Students can work at their own pace and complete the online training before completing the required proficiency demonstrations/mock collections. WHY PROMOTE THIS PROGRAM? • Career-focused professional training • Self-paced online learning • Nationwide audience • Ideal for entrepreneurs, healthcare professionals, mobile testing providers, occupational health professionals, and individuals entering the drug & alcohol testing industry • Affiliate-friendly sales page and tracking • Earn commission on qualifying referred sales TARGET AUDIENCE This program is a strong fit for people interested in occupational health, drug testing, transportation compliance, mobile testing businesses, healthcare-related entrepreneurship, and starting or expanding a specimen collection business. AFFILIATE OPPORTUNITY Promote the program using your unique affiliate link. Digistore24 tracks qualifying referrals and commissions through its affiliate system. Help people gain the training needed to pursue qualification as a DOT urine specimen collector while earning commissions for successful referrals. HTL Management Inc. — Professional Training. Career Opportunities. Business Growth ###
 
 ## 2. Links
 

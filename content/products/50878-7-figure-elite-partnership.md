@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>Clone my insanely profitable affiliate eco-system business &amp; generate up to $10k/month in 90 days or less - Without experience, hard work, or technical knowledge</em><br /><br />✅Full Access To Our Flagship Elite Affiliate Marketing Eco-System Software</p>
-<p>✅Activation of 95% DFY Software, Repeated Sales Engine, and Autopilot Commissions</p>
-<p>✅Automatic Sales Sent To You From Our Eco-System</p>
-<p>✅Instant Access To All Fast Action Bonuses (Qualified)<br /><br />✅White Gloves Email Support<br /><br /><strong>Total Value: $145,020</strong><br /><br /><em>Original Price: $2,997</em><br /><em>Total Savings: $2,000</em></p>
+**Vendor's marketplace description:** Clone my insanely profitable affiliate eco-system business & generate up to $10k/month in 90 days or less - Without experience, hard work, or technical knowledge ✅Full Access To Our Flagship Elite Affiliate Marketing Eco-System Software ✅Activation of 95% DFY Software, Repeated Sales Engine, and Autopilot Commissions ✅Automatic Sales Sent To You From Our Eco-System ✅Instant Access To All Fast Action Bonuses (Qualified) ✅White Gloves Email Support Total Value: $145,020 Original Price: $2,997 Total Savings: $2,000
 
 ## 2. Links
 

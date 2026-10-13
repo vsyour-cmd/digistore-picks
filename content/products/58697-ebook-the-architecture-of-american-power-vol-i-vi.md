@@ -41,44 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>HOW DOES AMERICAN POWER ACTUALLY WORK?</strong></p>
-<p><em>The Architecture of American Power</em> is a comprehensive six-volume series examining the United States not simply as a superpower, but as an interconnected system of political, economic, military, technological, institutional, and global capabilities.</p>
-<p>The series follows a unique analytical progression: <strong>where American power originates, how it is exercised, the international order in which it operates, which strategic capabilities sustain it, how those capabilities combine into a global power architecture, and how that architecture is changing.</strong></p>
-<p><strong>Unlike many established works that focus on individual presidents, wars, institutions, or isolated instruments of US power, this series examines how the different components interact as one integrated system.</strong> It moves beyond simply cataloging American strengths to explain how capabilities are converted into strategic influence—and where dependencies, constraints, competitors, and structural change limit that power.</p>
-<p>Its distinctive strength is therefore the <strong>integration of multiple dimensions of power into a single analytical architecture</strong>. Readers can follow the complete chain from domestic political foundations and strategic instruments to global order, integrated capabilities, worldwide power projection, and the pressures reshaping the system itself.</p>
-<p>For affiliates, <em>The Architecture of American Power</em> offers a clearly differentiated six-volume product for audiences interested in <strong>the United States, geopolitics, military power, economic influence, technology, global institutions, strategic competition, American primacy, and the future of US power</strong>—built around one fundamental question: <strong>How does America transform its many sources of strength into global power, and how sustainable is that architecture in a changing world?</strong></p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** HOW DOES AMERICAN POWER ACTUALLY WORK? The Architecture of American Power is a comprehensive six-volume series examining the United States not simply as a superpower, but as an interconnected system of political, economic, military, technological, institutional, and global capabilities. The series follows a unique analytical progression: where American power originates, how it is exercised, the international order in which it operates, which strategic capabilities sustain it, how those capabilities combine into a global power architecture, and how that architecture is changing. Unlike many established works that focus on individual presidents, wars, institutions, or isolated instruments of US power, this series examines how the different components interact as one integrated system. It moves beyond simply cataloging American strengths to explain how capabilities are converted into strategic influence—and where dependencies, constraints, competitors, and structural change limit that power. Its distinctive strength is therefore the integration of multiple dimensions of power into a single analytical architecture . Readers can follow the complete chain from domestic political foundations and strategic instruments to global order, integrated capabilities, worldwide power projection, and the pressures reshaping the system itself. For affiliates, The Architecture of American Power offers a clearly differentiated six-volume product for audiences interested in the United States, geopolitics, military power, economic influence, technology, global institutions, strategic competition, American primacy, and the future of US power —built around one fundamental question: How does America transform its many sources of strength into global power, and how sustainable is that architecture in a changing world?
 
 ## 2. Links
 

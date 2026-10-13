@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;">Looking for a profitable product to promote?</p>
-<p style="text-align:center;"><em>Health and Fitness 101 for Affiliate Marketers</em> taps into the massive health niche with simple, actionable content that appeals to a wide audience. With strong demand and a clear value proposition, affiliates can confidently promote. <span style="color:#ff0000;"><strong>Earn 60% commission per sale.</strong></span></p>
+**Vendor's marketplace description:** Looking for a profitable product to promote? Health and Fitness 101 for Affiliate Marketers taps into the massive health niche with simple, actionable content that appeals to a wide audience. With strong demand and a clear value proposition, affiliates can confidently promote. Earn 60% commission per sale.
 
 ## 2. Links
 

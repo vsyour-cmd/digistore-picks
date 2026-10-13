@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>✅ Comprehensive Mini-Content System <br />✅ Editable Canva Templates for Creators &amp; Brands <br />✅ Create less. Post better. <br />✅ Bonus Materials<br /><br /><strong>Content:</strong><br />10x Reel Covers<br />10x Instagram Posts<br />10x Carousel<br />10x Instagram Stories<br />5x Promo / Announcement<br />5x Quote / Engagement<br />Bonus (50x Hooks)</p>
+**Vendor's marketplace description:** ✅ Comprehensive Mini-Content System ✅ Editable Canva Templates for Creators & Brands ✅ Create less. Post better. ✅ Bonus Materials Content: 10x Reel Covers 10x Instagram Posts 10x Carousel 10x Instagram Stories 5x Promo / Announcement 5x Quote / Engagement Bonus (50x Hooks)
 
 ## 2. Links
 

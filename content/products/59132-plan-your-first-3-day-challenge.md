@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Hi!!!</h1>
-<p>Promote a practical $25 course that helps creators, coaches, consultants, and digital-product sellers launch their first 3-day live challenge without paid ads or a complicated funnel.</p>
-<p>The offer is easy to explain and backed by a real case study: 140 sign-ups, 40 buyers, and $6,300 in revenue from the creator’s first challenge. Affiliates get a low-friction product, a clear target audience, a 60-day money-back guarantee, and proven promotional angles for email, YouTube, social media, blogs, and niche communities.</p>
-<p>Ideal for affiliates with an audience interested in online courses, coaching, entrepreneurship, personal branding, or digital products.</p>
-<p>Dejan</p>
+**Vendor's marketplace description:** Hi!!! Promote a practical $25 course that helps creators, coaches, consultants, and digital-product sellers launch their first 3-day live challenge without paid ads or a complicated funnel. The offer is easy to explain and backed by a real case study: 140 sign-ups, 40 buyers, and $6,300 in revenue from the creator’s first challenge. Affiliates get a low-friction product, a clear target audience, a 60-day money-back guarantee, and proven promotional angles for email, YouTube, social media, blogs, and niche communities. Ideal for affiliates with an audience interested in online courses, coaching, entrepreneurship, personal branding, or digital products. Dejan
 
 ## 2. Links
 

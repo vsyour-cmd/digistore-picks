@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>LingChat is an AI-powered language learning app that helps users practice 60+ languages with AI and real speaking partners. It is designed for students, travelers, professionals, and exam takers who want to improve their fluency quickly and affordably.</p>
-<p>Affiliates earn <strong><span style="color:#ff0000;">60% commission</span></strong> on every initial sale ($5.99/month or $41.99/year). Affiliates who achieve 20 or more new paying users within 30 days may apply for an upgrade to receive <strong><span style="color:#ff0000;">rebilling commissions</span></strong> on subscription renewals.</p>
-<p>Why promote LingChat?</p>
-<ul>
-<li>
-<p>Attractive pricing: $9.99/month or $69.99/year</p>
-</li>
-<li>
-<p>High conversion potential: easy to start, no long setup process</p>
-</li>
-<li>
-<p>Wide market demand: language learners, study abroad students, exam candidates, business professionals</p>
-</li>
-<li>
-<p>Affiliate support: access to ready-to-use banners, ad copy, and videos through our<a href="https://drive.google.com/drive/folders/1INkr32WhTvB-3SiXLLi5W0mEHTlJFa46?usp=drive_link" target="_blank" rel="noreferrer noopener"> Marketing Kit</a></p>
-</li>
-</ul>
-<p>This is your opportunity to promote a fast-growing app in the global language learning market with high commissions and dedicated affiliate support.</p>
+**Vendor's marketplace description:** LingChat is an AI-powered language learning app that helps users practice 60+ languages with AI and real speaking partners. It is designed for students, travelers, professionals, and exam takers who want to improve their fluency quickly and affordably. Affiliates earn 60% commission on every initial sale ($5.99/month or $41.99/year). Affiliates who achieve 20 or more new paying users within 30 days may apply for an upgrade to receive rebilling commissions on subscription renewals. Why promote LingChat? Attractive pricing: $9.99/month or $69.99/year High conversion potential: easy to start, no long setup process Wide market demand: language learners, study abroad students, exam candidates, business professionals Affiliate support: access to ready-to-use banners, ad copy, and videos through our Marketing Kit This is your opportunity to promote a fast-growing app in the global language learning market with high commissions and dedicated affiliate support.
 
 ## 2. Links
 

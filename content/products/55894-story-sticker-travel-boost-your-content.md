@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Travel Story Sticker Pack includes 30 modern Instagram story stickers designed to increase engagement, attention and story watch time.</p>
-<p>Stories with visual elements such as stickers encourage viewers to stay longer, click through and interact more frequently.</p>
-<p>This increases story performance and visibility on social media platforms.</p>
-<p>The sticker pack is ideal for travel creators, influencers and social media users who want to make their content more engaging.</p>
-<p>Affiliates can promote this product to the large community of Instagram creators and travel influencers.</p>
-<p>Key features:</p>
-<p>• 30 travel themed story stickers<br />• Designed to increase engagement<br />• Improves story watch time<br />• Ideal for travel creators and influencers<br />• Easy to use on Instagram Stories<br />• Professional and modern design</p>
-<p>Product format: Digital download (sticker pack)</p>
+**Vendor's marketplace description:** The Travel Story Sticker Pack includes 30 modern Instagram story stickers designed to increase engagement, attention and story watch time. Stories with visual elements such as stickers encourage viewers to stay longer, click through and interact more frequently. This increases story performance and visibility on social media platforms. The sticker pack is ideal for travel creators, influencers and social media users who want to make their content more engaging. Affiliates can promote this product to the large community of Instagram creators and travel influencers. Key features: • 30 travel themed story stickers • Designed to increase engagement • Improves story watch time • Ideal for travel creators and influencers • Easy to use on Instagram Stories • Professional and modern design Product format: Digital download (sticker pack)
 
 ## 2. Links
 

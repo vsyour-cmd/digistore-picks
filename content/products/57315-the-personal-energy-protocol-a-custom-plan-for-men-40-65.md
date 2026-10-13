@@ -41,26 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A personalized energy-recovery system for men 40–65 — built by a registered nutritionist and BJJ black belt. Not another generic PDF.</p>
-<p><strong>What the buyer gets</strong></p>
-<ul>
-<li>A custom 4-week protocol built around their specific energy drain — afternoon crash, unrefreshing sleep, lost training stamina, or brain fog</li>
-<li>The food, sleep, supplement and movement levers, ranked for them</li>
-<li>A statin-aware supplement section (adjusts if they're on a cholesterol med)</li>
-<li>Every claim cited to a real study — no hype, no cure claims</li>
-</ul>
-<p><strong>Why it converts</strong></p>
-<ul>
-<li>The 8-question builder makes it feel "made for me" — beats static ebooks</li>
-<li>Real nutritionist authority + an honest, cited brand = trust in a YMYL niche</li>
-<li>$27 impulse price, instant delivery, 60-day guarantee → low refunds</li>
-</ul>
-<p><strong>The deal</strong></p>
-<ul>
-<li>Price $27 · Commission 50% (~$13.50/sale) · 60-day money-back · Instant digital delivery</li>
-</ul>
-<p><strong>Best traffic:</strong> lists in men's health, fatigue/energy, testosterone, sleep, biohacking, and over-40 fitness.</p>
-<p><strong>How to promote:</strong> send traffic to the sales page with your ?aff=YOURID link.</p>
+**Vendor's marketplace description:** A personalized energy-recovery system for men 40–65 — built by a registered nutritionist and BJJ black belt. Not another generic PDF. What the buyer gets A custom 4-week protocol built around their specific energy drain — afternoon crash, unrefreshing sleep, lost training stamina, or brain fog The food, sleep, supplement and movement levers, ranked for them A statin-aware supplement section (adjusts if they're on a cholesterol med) Every claim cited to a real study — no hype, no cure claims Why it converts The 8-question builder makes it feel "made for me" — beats static ebooks Real nutritionist authority + an honest, cited brand = trust in a YMYL niche $27 impulse price, instant delivery, 60-day guarantee → low refunds The deal Price $27 · Commission 50% (~$13.50/sale) · 60-day money-back · Instant digital delivery Best traffic: lists in men's health, fatigue/energy, testosterone, sleep, biohacking, and over-40 fitness. How to promote: send traffic to the sales page with your ?aff=YOURID link.
 
 ## 2. Links
 

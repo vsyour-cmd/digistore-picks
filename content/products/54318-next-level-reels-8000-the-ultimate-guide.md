@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>8000 Viral Reels Ideas &amp; Hooks – The Ultimate Guide to Instagram Growth </strong></p>
-<p>Stop wasting time wondering <em>“What should I post today?”</em></p>
-<p>This eBook gives you over <strong>8,000 ready-to-use Reels ideas and hooks</strong> proven to capture attention, boost engagement, and grow your audience fast — even if you don’t show your face!</p>
-<p>Inside, you’ll find:<br /><strong>8,000 Reels ideas</strong> across niches like motivation, lifestyle, business, mindset, beauty, and more<br /><strong>Viral hooks</strong> that stop the scroll and make viewers watch to the end<br /><strong>Faceless creator section</strong> – build a strong brand without being on camera</p>
-<p> </p>
-<p>60-day money-back guarantee, no questions asked</p>
+**Vendor's marketplace description:** 8000 Viral Reels Ideas & Hooks – The Ultimate Guide to Instagram Growth Stop wasting time wondering “What should I post today?” This eBook gives you over 8,000 ready-to-use Reels ideas and hooks proven to capture attention, boost engagement, and grow your audience fast — even if you don’t show your face! Inside, you’ll find: 8,000 Reels ideas across niches like motivation, lifestyle, business, mindset, beauty, and more Viral hooks that stop the scroll and make viewers watch to the end Faceless creator section – build a strong brand without being on camera 60-day money-back guarantee, no questions asked
 
 ## 2. Links
 

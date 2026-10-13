@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Five real ways to build income with AI's help – no starting capital needed, with real stories and real numbers instead of empty promises. Ideal for audiences in business, side income, and entrepreneurship.</p>
-<p> </p>
-<p>23 chapters, honest tone, 30-day roadmap. 50% commission per sale.</p>
+**Vendor's marketplace description:** Five real ways to build income with AI's help – no starting capital needed, with real stories and real numbers instead of empty promises. Ideal for audiences in business, side income, and entrepreneurship. 23 chapters, honest tone, 30-day roadmap. 50% commission per sale.
 
 ## 2. Links
 

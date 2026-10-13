@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Customers love this Science-Based Approach For Home Workout. Get on board with this High converting fitness offer.</p>
-<p> </p>
-<p>Try it you won't regret it.</p>
+**Vendor's marketplace description:** Customers love this Science-Based Approach For Home Workout. Get on board with this High converting fitness offer. Try it you won't regret it.
 
 ## 2. Links
 

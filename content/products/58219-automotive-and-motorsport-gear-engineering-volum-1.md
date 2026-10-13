@@ -41,43 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Automotive Gear Engineering Foundations – Volume 1</p>
-<p> </p>
-<p>Promote a specialized digital engineering product aimed at automotive enthusiasts, mechanical engineering students, technicians, gearbox builders, motorsport enthusiasts and anyone who wants to understand the engineering behind automotive gears and transmissions.</p>
-<p> </p>
-<p>Volume 1: Automotive Gear Engineering Foundations covers the fundamental principles behind gear design, geometry, forces, strength and materials, combining technical theory with visual explanations, engineering formulas and worked examples.</p>
-<p> </p>
-<p>Key topics include:</p>
-<p> </p>
-<p>- Gear fundamentals and terminology</p>
-<p>- Involute geometry and gear tooth design</p>
-<p>- Pressure angle, pitch circles and tooth profiles</p>
-<p>- Gear tooth forces and load paths</p>
-<p>- Gear strength and durability</p>
-<p>- Materials, heat treatment and surface engineering</p>
-<p>- Engineering formulas and worked calculations</p>
-<p>- Practical transmission-design considerations</p>
-<p> </p>
-<p>Why promote this product?</p>
-<p> </p>
-<p>This is a highly targeted product for the automotive and engineering niche, making it suitable for affiliates with audiences interested in:</p>
-<p> </p>
-<p>Automotive engineering • Motorsport • Race cars • Gearboxes • Mechanical engineering • Car modification • Automotive technology • Engineering education • DIY automotive projects</p>
-<p> </p>
-<p>Unlike general automotive ebooks, this product focuses on the technical and engineering side of transmission design, giving affiliates an opportunity to target a specialized audience actively looking for detailed technical knowledge.</p>
-<p> </p>
-<p>Potential promotional angles</p>
-<p> </p>
-<p>Affiliates can position Volume 1 as:</p>
-<p> </p>
-<p>- An introduction to automotive gear engineering</p>
-<p>- A technical reference for automotive enthusiasts</p>
-<p>- A learning resource for mechanical engineering students</p>
-<p>- A guide for aspiring gearbox and drivetrain designers</p>
-<p>- An engineering resource for motorsport and performance-car enthusiasts</p>
-<p>- The starting point for the wider Automotive &amp; Motorsport Transmission Engineering series</p>
-<p> </p>
-<p>Digital product – instant delivery – worldwide audience.</p>
+**Vendor's marketplace description:** Automotive Gear Engineering Foundations – Volume 1 Promote a specialized digital engineering product aimed at automotive enthusiasts, mechanical engineering students, technicians, gearbox builders, motorsport enthusiasts and anyone who wants to understand the engineering behind automotive gears and transmissions. Volume 1: Automotive Gear Engineering Foundations covers the fundamental principles behind gear design, geometry, forces, strength and materials, combining technical theory with visual explanations, engineering formulas and worked examples. Key topics include: - Gear fundamentals and terminology - Involute geometry and gear tooth design - Pressure angle, pitch circles and tooth profiles - Gear tooth forces and load paths - Gear strength and durability - Materials, heat treatment and surface engineering - Engineering formulas and worked calculations - Practical transmission-design considerations Why promote this product? This is a highly targeted product for the automotive and engineering niche, making it suitable for affiliates with audiences interested in: Automotive engineering • Motorsport • Race cars • Gearboxes • Mechanical engineering • Car modification • Automotive technology • Engineering education • DIY automotive projects Unlike general automotive ebooks, this product focuses on the technical and engineering side of transmission design, giving affiliates an opportunity to target a specialized audience actively looking for detailed technical knowledge. Potential promotional angles Affiliates can position Volume 1 as: - An introduction to automotive gear engineering - A technical reference for automotive enthusiasts - A learning resource for mechanical engineering students - A guide for aspiring gearbox and drivetrain designers - An engineering resource for motorsport and performance-car enthusiasts - The starting point for the wider Automotive & Motorsport Transmission Engineering series Digital product – instant delivery – worldwide audience.
 
 ## 2. Links
 

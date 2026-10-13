@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sick EPC's on YT, FB, TT. Over 80K customers already. Insane AOV's. We are giving out CPA's to aff's that make them go "HOLY COW". Contact us at <a>binauraltechnologies@gmail.com</a> for Commission Bumps and Other Resources</p>
+**Vendor's marketplace description:** Sick EPC's on YT, FB, TT. Over 80K customers already. Insane AOV's. We are giving out CPA's to aff's that make them go "HOLY COW". Contact us at binauraltechnologies@gmail.com for Commission Bumps and Other Resources
 
 ## 2. Links
 

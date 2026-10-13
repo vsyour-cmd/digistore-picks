@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><strong>The "7-Minute" Traffic System</strong></h1>
-<h2>Get instant traffic as FAST as 24 hours that get you clicks, leads &amp; buyers with little to NO work.</h2>
-<p><em>No prior skills, experience or technical skills needed.</em></p>
-<p> </p>
+**Vendor's marketplace description:** The "7-Minute" Traffic System Get instant traffic as FAST as 24 hours that get you clicks, leads & buyers with little to NO work. No prior skills, experience or technical skills needed.
 
 ## 2. Links
 

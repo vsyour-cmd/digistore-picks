@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Earn 65% Commissions Promoting Moringa Magic – A Best-Selling Superfood Supplement</strong><br />Unofficially, Moringa cures 300+ known illnesses, so it can be targeted toward ANY consumer.</p>
-<p>✅ High-converting offer<br />✅ Fully optimized funnel<br />✅ Fast affiliate approval (within 24 hours)</p>
-<p>Apply here to get access + your affiliate link: <a href="https://forms.gle/EqMEJBUwEVZFYiB56" target="_blank" rel="noreferrer noopener">https://forms.gle/EqMEJBUwEVZFYiB56</a></p>
-<p>More info:</p>
-<p><a>http://www.magicofmoringa.co/affiliates-hub/</a></p>
+**Vendor's marketplace description:** Earn 65% Commissions Promoting Moringa Magic – A Best-Selling Superfood Supplement Unofficially, Moringa cures 300+ known illnesses, so it can be targeted toward ANY consumer. ✅ High-converting offer ✅ Fully optimized funnel ✅ Fast affiliate approval (within 24 hours) Apply here to get access + your affiliate link: https://forms.gle/EqMEJBUwEVZFYiB56 More info: http://www.magicofmoringa.co/affiliates-hub/
 
 ## 2. Links
 

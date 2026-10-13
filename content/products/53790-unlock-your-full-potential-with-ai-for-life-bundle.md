@@ -41,31 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Why You Need This Bundle</h2>
-<p><br /><br /></p>
-<ul>
-<li>
-<p>Overcome Overwhelm: Cut through the noise of the digital age and manage information overload.</p>
-</li>
-<li>
-<p>Boost Efficiency: Automate mundane tasks, free up your time, and achieve more with less effort.</p>
-</li>
-<li>
-<p>Make Smarter Choices: Leverage data-driven insights to sharpen your critical thinking and decision-making.</p>
-</li>
-<li>
-<p>Unlock Creativity: Break writer's block, generate fresh ideas, and amplify your creative output.</p>
-</li>
-<li>
-<p>Build Resilience: Cultivate a growth mindset and emotional intelligence to adapt to constant change.</p>
-</li>
-<li>
-<p>Future-Proof Your Skills: Understand AI's impact on jobs and acquire the human-centric skills that will always be in demand.</p>
-</li>
-<li>
-<p>Live Intentionally: Reclaim your attention, enhance your digital well-being, and align technology with your personal values.</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Why You Need This Bundle Overcome Overwhelm: Cut through the noise of the digital age and manage information overload. Boost Efficiency: Automate mundane tasks, free up your time, and achieve more with less effort. Make Smarter Choices: Leverage data-driven insights to sharpen your critical thinking and decision-making. Unlock Creativity: Break writer's block, generate fresh ideas, and amplify your creative output. Build Resilience: Cultivate a growth mindset and emotional intelligence to adapt to constant change. Future-Proof Your Skills: Understand AI's impact on jobs and acquire the human-centric skills that will always be in demand. Live Intentionally: Reclaim your attention, enhance your digital well-being, and align technology with your personal values.
 
 ## 2. Links
 

@@ -41,37 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>NEW in 2022 for Affiliates! From the creators of The Lost Ways and The Lost Book of Remedies!<br />This bestselling product, is now available (as of 2022) for you to promote it and make lots of sales fast. 90% commissions available on upsells.</p>
-
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<p>For support please visit our page <a href="https://ultimatesurvivalfoods.com/affiliates/">https://ultimatesurvivalfoods.com/affiliates/</a>  or email affiliates.gbs@gmail.com .</p>
-<p>Promolink:https://www.digistore24.com/redir/377301/AFFILIATE/CAMPAIGNKEY</p>
-<p> http://www.thelostsurvivalfoods.com/affiliates</p>
+**Vendor's marketplace description:** NEW in 2022 for Affiliates! From the creators of The Lost Ways and The Lost Book of Remedies! This bestselling product, is now available (as of 2022) for you to promote it and make lots of sales fast. 90% commissions available on upsells. Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page https://ultimatesurvivalfoods.com/affiliates/ or email affiliates.gbs@gmail.com . Promolink:https://www.digistore24.com/redir/377301/AFFILIATE/CAMPAIGNKEY http://www.thelostsurvivalfoods.com/affiliates
 
 ## 2. Links
 

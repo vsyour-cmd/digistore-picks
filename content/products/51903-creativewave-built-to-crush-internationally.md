@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Highly-Optimized for<br />BIG-TIME EPCs<br />Fully localized advertorials for Germany, France, and the US<br />High-performing VSLs for US &amp; Germany</p>
-<p>Your traffic is about to love you. Test it and watch the commissions roll in.</p>
-<p>Grab your link now:</p>
+**Vendor's marketplace description:** Highly-Optimized for BIG-TIME EPCs Fully localized advertorials for Germany, France, and the US High-performing VSLs for US & Germany Your traffic is about to love you. Test it and watch the commissions roll in. Grab your link now:
 
 ## 2. Links
 

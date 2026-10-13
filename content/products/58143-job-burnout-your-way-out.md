@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An honest, practical guide against job burnout – with real exercises and concrete steps back to strength and energy. Ideal for audiences in mental health, self-care, and work-life balance.</p>
-<p> </p>
-<p>Warmly written, no sugarcoating, with clear guidance toward professional support when needed. 50% commission per sale.</p>
+**Vendor's marketplace description:** An honest, practical guide against job burnout – with real exercises and concrete steps back to strength and energy. Ideal for audiences in mental health, self-care, and work-life balance. Warmly written, no sugarcoating, with clear guidance toward professional support when needed. 50% commission per sale.
 
 ## 2. Links
 

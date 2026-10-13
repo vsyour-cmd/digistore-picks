@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Top <strong>Digistore24</strong> Affiliates Are All Promoting This Health Offer &amp; Conversions Are Over 8% &amp; <strong>$3-4 Epc</strong> from Cold And Warm Traffic signup at our form.</p>
-<p>Note: The <strong>Contest Entry &amp; 90% Commission</strong> Tier is only available for Digistore24 Affiliates with 10 sales in Commissions</p>
-<p>Signup now on the form on our Affiliate page and start stockpiling cash now</p>
+**Vendor's marketplace description:** Top Digistore24 Affiliates Are All Promoting This Health Offer & Conversions Are Over 8% & $3-4 Epc from Cold And Warm Traffic signup at our form. Note: The Contest Entry & 90% Commission Tier is only available for Digistore24 Affiliates with 10 sales in Commissions Signup now on the form on our Affiliate page and start stockpiling cash now
 
 ## 2. Links
 
@@ -66,6 +64,14 @@ language: "en"
 - **Page word count:** 518
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Results May Vary: the weight loss results testimonials are in no way a guarantee of results. Individual weight loss results, including amount and time, will vary. Whether genetic or environmental, it should be noted that food intake, rates of metabolism and levels of exercise and physical exertion vary from person to person. This means weight loss results will also vary from person to person. No individual result should be seen as typical.
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

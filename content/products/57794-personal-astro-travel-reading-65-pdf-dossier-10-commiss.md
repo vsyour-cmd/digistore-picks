@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>when &amp; where is a personal astro travel reading delivered as a $65 PDF dossier: based on the customer's birth chart (astrocartography + transits), it shows exactly which regions suit them and the best time windows to travel in the next 12 months.</p>
-<p>Every reading is written personally by astrologer and author Sonia K. Woods — no auto-generated content. A strong fit for travel, slow-travel, and astrology/spirituality audiences looking for a meaningful gift or trip-planning tool.</p>
-<p>Included: a travel profile, three chart-matched regions, personal travel windows, a clear when-&amp;-where recommendation, plus curated stay suggestions.</p>
-<p>As an affiliate, you earn 10% commission on every reading booked through your link. One-time digital product, personally delivered, low refund risk.</p>
+**Vendor's marketplace description:** when & where is a personal astro travel reading delivered as a $65 PDF dossier: based on the customer's birth chart (astrocartography + transits), it shows exactly which regions suit them and the best time windows to travel in the next 12 months. Every reading is written personally by astrologer and author Sonia K. Woods — no auto-generated content. A strong fit for travel, slow-travel, and astrology/spirituality audiences looking for a meaningful gift or trip-planning tool. Included: a travel profile, three chart-matched regions, personal travel windows, a clear when-&-where recommendation, plus curated stay suggestions. As an affiliate, you earn 10% commission on every reading booked through your link. One-time digital product, personally delivered, low refund risk.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><strong><span style="background-color:#ffff00;">#1 MAKE MONEY ONLINE WEBINAR ON DIGISTORE24</span><br /></strong></h4>
-<p>Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $2000/Sale.</p>
-<p><span style="background-color:#ffff00;"><strong>Only $1,997 front end with multiple upsells for massive commissions.</strong></span></p>
-<p>Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche.</p>
-<p><strong><span style="background-color:#ffff00;">Test 300-500 clicks and THANK ME LATER!!</span><br /></strong></p>
-<p><strong>Contact Me Via Email On JV Page For More Info!</strong></p>
+**Vendor's marketplace description:** #1 MAKE MONEY ONLINE WEBINAR ON DIGISTORE24 Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $2000/Sale. Only $1,997 front end with multiple upsells for massive commissions. Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche. Test 300-500 clicks and THANK ME LATER!! Contact Me Via Email On JV Page For More Info!
 
 ## 2. Links
 

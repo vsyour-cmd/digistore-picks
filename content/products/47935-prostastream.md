@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Monster In The Prostate Niche Converts Like Crazy! Cart Value Of $700. Top Affs Are Doing 6fig/day. Works Like A Charm On Emailing, Native, FB, YT. Limited slots only. Apply today!</p>
+**Vendor's marketplace description:** Monster In The Prostate Niche Converts Like Crazy! Cart Value Of $700. Top Affs Are Doing 6fig/day. Works Like A Charm On Emailing, Native, FB, YT. Limited slots only. Apply today!
 
 ## 2. Links
 

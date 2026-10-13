@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Diary 5</strong> – Leader, Success, Realization<br /><strong>Leadership &amp; Achievement</strong> | Designed to cultivate inner leadership and conscious achievement. This stage helps align ambition with responsibility, clarity, and purpose — redefining success as a process built on self-trust and intentional action.</p>
-<p><br />A journey of <strong>DYNVERA Diaries</strong> — where every page connects you back to identity, integrity, and strength. More than a diary.</p>
-<p><br /><strong>PDF Diary -</strong> Everything you love about paper in a digital notebook</p>
-<ul>
-<li>Diary is designed to guide you through 4 powerful weeks — 28 days of growth, clarity, and intention.</li>
-<li>Each day offers 5 thoughtfully crafted sections to help you reflect, reset, and rise.</li>
-<li>With more than 170 pages per diary, becomes a space where your ideas expand, your goals take shape, and your journey truly begins.<br /><br /></li>
-</ul>
-<p><em><strong>In a world that moves faster every day, this diary invites you to slow down, reflect, and rediscover the power of real progress — one day at a time.</strong></em></p>
+**Vendor's marketplace description:** Diary 5 – Leader, Success, Realization Leadership & Achievement | Designed to cultivate inner leadership and conscious achievement. This stage helps align ambition with responsibility, clarity, and purpose — redefining success as a process built on self-trust and intentional action. A journey of DYNVERA Diaries — where every page connects you back to identity, integrity, and strength. More than a diary. PDF Diary - Everything you love about paper in a digital notebook Diary is designed to guide you through 4 powerful weeks — 28 days of growth, clarity, and intention. Each day offers 5 thoughtfully crafted sections to help you reflect, reset, and rise. With more than 170 pages per diary, becomes a space where your ideas expand, your goals take shape, and your journey truly begins. In a world that moves faster every day, this diary invites you to slow down, reflect, and rediscover the power of real progress — one day at a time.
 
 ## 2. Links
 

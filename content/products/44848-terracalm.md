@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Top Affiliates Estimate 6 Figures With This </strong><br /><strong>Unique Foot Fungus French Mud</strong></p>
-<ul>
-<li>Converts like crazy on Email, Native, Youtube and Facebook with $3+ average EPCs</li>
-<li>VSL written by an A-list copywriter with tens of winners</li>
-</ul>
+**Vendor's marketplace description:** Top Affiliates Estimate 6 Figures With This Unique Foot Fungus French Mud Converts like crazy on Email, Native, Youtube and Facebook with $3+ average EPCs VSL written by an A-list copywriter with tens of winners
 
 ## 2. Links
 

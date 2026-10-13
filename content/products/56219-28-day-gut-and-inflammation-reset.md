@@ -41,26 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Glowgevity 28-Day Gut &amp; Inflammation Reset Program</strong></h3>
-<p><strong>Price:</strong> $47</p>
-<p>The <strong>Glowgevity 28-Day Gut &amp; Inflammation Reset</strong> is a complete digital detox program designed to improve gut health, reduce inflammation, and restore energy. This <strong>51-page PDF</strong> provides a simple, step-by-step plan that includes a <strong>28-day detox</strong>, <strong>meal plans</strong>, <strong>recipes</strong>, and daily guidance to support your body’s natural healing process.</p>
-<h3> </h3>
-<h3><strong>What You’ll Get:</strong></h3>
-<ul>
-<li><strong>28-day structured detox plan</strong></li>
-<li><strong>Elimination protocol</strong> for inflammation triggers (sugar, gluten, dairy, alcohol)</li>
-<li><strong>Meal plans &amp; recipes</strong> to nourish your body</li>
-<li><strong>Daily routines</strong> and lifestyle recommendations</li>
-<li><strong>Shopping list</strong> for easy meal prep</li>
-<li><strong>Post-detox reintroduction plan</strong> to maintain results</li>
-</ul>
-<p> </p>
-<p><strong>Instant Download:</strong> Access your program immediately after purchase via a direct download link.</p>
-<p><strong>60-Day Money-Back Guarantee:</strong> Not satisfied? Get a full refund within 60 days.</p>
-<p> </p>
-<p><strong>Affiliate Information:</strong><br />Earn competitive commissions promoting the Glowgevity 28-Day Gut Reset program. We provide all the marketing materials you need, including banners and email copy.</p>
-<p> </p>
-<p><strong>Start your reset today and feel better in your body!</strong></p>
+**Vendor's marketplace description:** Glowgevity 28-Day Gut & Inflammation Reset Program Price: $47 The Glowgevity 28-Day Gut & Inflammation Reset is a complete digital detox program designed to improve gut health, reduce inflammation, and restore energy. This 51-page PDF provides a simple, step-by-step plan that includes a 28-day detox , meal plans , recipes , and daily guidance to support your body’s natural healing process. What You’ll Get: 28-day structured detox plan Elimination protocol for inflammation triggers (sugar, gluten, dairy, alcohol) Meal plans & recipes to nourish your body Daily routines and lifestyle recommendations Shopping list for easy meal prep Post-detox reintroduction plan to maintain results Instant Download: Access your program immediately after purchase via a direct download link. 60-Day Money-Back Guarantee: Not satisfied? Get a full refund within 60 days. Affiliate Information: Earn competitive commissions promoting the Glowgevity 28-Day Gut Reset program. We provide all the marketing materials you need, including banners and email copy. Start your reset today and feel better in your body!
 
 ## 2. Links
 

@@ -41,37 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Lets-Dance.net Affiliate Program</strong></p>
-<p>Lets-Dance.net connects dancers in German-speaking countries (and internationally) with suitable practice partners based on style, level, city, and availability.</p>
-<p>It solves a common problem for hobby dancers, dance students, and social dancers: finding reliable practice partners outside of class.</p>
-<p>---</p>
-<p><strong>Why the offer works well</strong></p>
-<p>- High search intent: People searching for “find dance partner” already have a clear need.<br />- Free-first model: Users sign up for free, start making contacts, and upgrade to premium once limits become relevant.<br />- Low entry barrier: Premium ranges between €8.99 and €69.90 depending on subscription length, reducing purchase friction.<br />- Recurring revenue: Ongoing subscriptions generate recurring commissions.<br />- Scalable user behavior: Users often return organically when they need new practice partners.</p>
-<p>---</p>
-<p><strong>Who the affiliate program is for</strong></p>
-<p>- Dance schools, studios, and dance teachers (expanding the student ecosystem)<br />- Content creators in dance, fitness, and lifestyle<br />- Dance communities (Facebook groups, Discord, forums)<br />- Hobby dancers with their own reach or audience<br />- Dance bloggers and SEO sites targeting search traffic around dance partner searches</p>
-<p>---</p>
-<p><strong>Marketing materials &amp; resources</strong></p>
-<p>All materials are available at:<br />https://lets-dance.net/en-US/partner-programs/materials</p>
-<p>Includes:</p>
-<p>- Affiliate links for 12 countries<br />- Email sequences (DE / EN / ES / PT)<br />- Banners in multiple formats (social media &amp; web)<br />- Blog articles in Markdown format<br />- Social media captions for Instagram, X, TikTok, and LinkedIn<br />- Logo files (light / dark / icon)</p>
-<p>---</p>
-<p><strong>How to get started</strong></p>
-<p>1. Choose the country link relevant to your audience<br />2. Replace “AFFILIATE” with your Digistore24 nickname<br />3. Optionally use “CAMPAIGNKEY” for tracking<br />4. Share your link via blog, website, or social media</p>
-<p>---</p>
-<p><strong>Country links</strong></p>
-<p>Germany<br />https://www.digistore24.com/content/516694/49429/AFFILIATE/CAMPAIGNKEY</p>
-<p>Austria<br />https://www.digistore24.com/content/516694/49472/AFFILIATE/CAMPAIGNKEY</p>
-<p>Switzerland<br />https://www.digistore24.com/content/516694/49473/AFFILIATE/CAMPAIGNKEY</p>
-<p>Netherlands<br />https://www.digistore24.com/content/516694/49475/AFFILIATE/CAMPAIGNKEY</p>
-<p>Spain<br />https://www.digistore24.com/content/516694/49474/AFFILIATE/CAMPAIGNKEY</p>
-<p>United Kingdom<br />https://www.digistore24.com/content/549763/49478/AFFILIATE/CAMPAIGNKEY</p>
-<p>India<br />https://www.digistore24.com/content/549763/49479/AFFILIATE/CAMPAIGNKEY</p>
-<p>Singapore<br />https://www.digistore24.com/content/549763/49481/AFFILIATE/CAMPAIGNKEY</p>
-<p>Brazil<br />https://www.digistore24.com/content/549763/49482/AFFILIATE/CAMPAIGNKEY</p>
-<p>Canada<br />https://www.digistore24.com/content/549763/49477/AFFILIATE/CAMPAIGNKEY</p>
-<p>Australia<br />https://www.digistore24.com/content/549763/49480/AFFILIATE/CAMPAIGNKEY</p>
-<p>USA<br />https://www.digistore24.com/content/549763/49476/AFFILIATE/CAMPAIGNKEY</p>
+**Vendor's marketplace description:** Lets-Dance.net Affiliate Program Lets-Dance.net connects dancers in German-speaking countries (and internationally) with suitable practice partners based on style, level, city, and availability. It solves a common problem for hobby dancers, dance students, and social dancers: finding reliable practice partners outside of class. --- Why the offer works well - High search intent: People searching for “find dance partner” already have a clear need. - Free-first model: Users sign up for free, start making contacts, and upgrade to premium once limits become relevant. - Low entry barrier: Premium ranges between €8.99 and €69.90 depending on subscription length, reducing purchase friction. - Recurring revenue: Ongoing subscriptions generate recurring commissions. - Scalable user behavior: Users often return organically when they need new practice partners. --- Who the affiliate program is for - Dance schools, studios, and dance teachers (expanding the student ecosystem) - Content creators in dance, fitness, and lifestyle - Dance communities (Facebook groups, Discord, forums) - Hobby dancers with their own reach or audience - Dance bloggers and SEO sites targeting search traffic around dance partner searches --- Marketing materials & resources All materials are available at: https://lets-dance.net/en-US/partner-programs/materials Includes: - Affiliate links for 12 countries - Email sequences (DE / EN / ES / PT) - Banners in multiple formats (social media & web) - Blog articles in Markdown format - Social media captions for Instagram, X, TikTok, and LinkedIn - Logo files (light / dark / icon) --- How to get started 1. Choose the country link relevant to your audience 2. Replace “AFFILIATE” with your Digistore24 nickname 3. Optionally use “CAMPAIGNKEY” for tracking 4. Share your link via blog, website, or social media --- Country links Germany https://www.digistore24.com/content/516694/49429/AFFILIATE/CAMPAIGNKEY Austria https://www.digistore24.com/content/516694/49472/AFFILIATE/CAMPAIGNKEY Switzerland https://www.digistore24.com/content/516694/49473/AFFILIATE/CAMPAIGNKEY Netherlands https://www.digistore24.com/content/516694/49475/AFFILIATE/CAMPAIGNKEY Spain https://www.digistore24.com/content/516694/49474/AFFILIATE/CAMPAIGNKEY United Kingdom https://www.digistore24.com/content/549763/49478/AFFILIATE/CAMPAIGNKEY India https://www.digistore24.com/content/549763/49479/AFFILIATE/CAMPAIGNKEY Singapore https://www.digistore24.com/content/549763/49481/AFFILIATE/CAMPAIGNKEY Brazil https://www.digistore24.com/content/549763/49482/AFFILIATE/CAMPAIGNKEY Canada https://www.digistore24.com/content/549763/49477/AFFILIATE/CAMPAIGNKEY Australia https://www.digistore24.com/content/549763/49480/AFFILIATE/CAMPAIGNKEY USA https://www.digistore24.com/content/549763/49476/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

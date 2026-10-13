@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Lazy Person's Guide: Eat Healthy With Almost Zero Effort targets one of the biggest objections in the healthy-eating market: “I don't have the time or motivation.”</p>
-<p>This 41-page digital guide focuses on making healthier eating as convenient as possible through 5-minute foods, ready-made shortcuts, one-pan meals, easy snacks, simple kitchen organization and habits that require minimal effort.</p>
-<p>Ideal target audiences include: busy professionals, students, parents, people who dislike cooking, beginners, convenience-focused consumers and anyone who wants to eat better without completely changing their lifestyle.</p>
-<p>Strong promotional angles: healthy eating for lazy people, no-time-to-cook solutions, 5-minute food ideas, low-effort healthy habits and realistic nutrition for busy lifestyles.</p>
-<p>Its relatable “lazy” positioning gives affiliates plenty of opportunities for attention-grabbing social media, short-form video, email and lifestyle content.</p>
+**Vendor's marketplace description:** The Lazy Person's Guide: Eat Healthy With Almost Zero Effort targets one of the biggest objections in the healthy-eating market: “I don't have the time or motivation.” This 41-page digital guide focuses on making healthier eating as convenient as possible through 5-minute foods, ready-made shortcuts, one-pan meals, easy snacks, simple kitchen organization and habits that require minimal effort. Ideal target audiences include: busy professionals, students, parents, people who dislike cooking, beginners, convenience-focused consumers and anyone who wants to eat better without completely changing their lifestyle. Strong promotional angles: healthy eating for lazy people, no-time-to-cook solutions, 5-minute food ideas, low-effort healthy habits and realistic nutrition for busy lifestyles. Its relatable “lazy” positioning gives affiliates plenty of opportunities for attention-grabbing social media, short-form video, email and lifestyle content.
 
 ## 2. Links
 

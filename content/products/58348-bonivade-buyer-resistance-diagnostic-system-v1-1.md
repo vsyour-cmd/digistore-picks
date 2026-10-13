@@ -41,23 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Bonivade Buyer Resistance System v1.1</strong> is an original diagnostic system for identifying and removing buyer resistance. Buyer resistance is a decision-blocking process inside the buyer’s mind, triggered or intensified by specific signals in the offer, message, presentation, sales interaction, or buying path.</p>
-<h3><strong>Who can you promote Bonivade to?</strong></h3>
-<p>Bonivade is relevant to two broad buyer groups:</p>
-<p><strong>Businesses that want to improve sales</strong> — including business owners, founders, ecommerce businesses, service businesses, digital-product businesses, and marketing or sales teams that want to understand why potential customers hesitate, doubt, postpone, compare, abandon, or fail to buy.</p>
-<p><strong>Professionals who work with conversion and customer behavior</strong> — including people working in CRO and conversion optimization, UX and usability, marketing, copywriting, customer experience, customer behavior analysis, funnel and checkout analysis, sales, testing, and related client-facing work.</p>
-<h3>What does Bonivade help them do?</h3>
-<p>Bonivade gives buyers a structured system for identifying the resistance blocking a purchase, tracing it back to the signals creating it, and correcting those signals to remove the barrier to the buying decision.</p>
-<h3>Where can Bonivade be applied?</h3>
-<p>Bonivade can be applied to any buying situation — online or offline, and whether the business sells a product or a service.</p>
-<p>The system is based on the psychology of the buyer. The underlying processes of hesitation, doubt, comparison, delay, and resistance are the same regardless of where or how the buying decision takes place.</p>
-<p>Bonivade can be used manually or together with the included AI prompts and command files. The AI materials help users apply the system faster, while the core value remains the diagnostic logic itself.</p>
-<h3>Product and license options</h3>
-<p><strong>Bonivade Buyer Resistance System v1.1 — Standard License</strong><br />Regular price: <strong>€289</strong><br />Current launch price: <strong>€189</strong></p>
-<p><strong>Bonivade Buyer Resistance System v1.1 — Commercial &amp; Facilitator License</strong><br />Price: <strong>€789</strong></p>
-<p><strong>Commercial &amp; Facilitator License Upgrade</strong><br />For existing Standard License buyers: <strong>€500</strong></p>
-<p>The purchased license does not expire.</p>
-<p><strong>Affiliate commission: 30% on all Bonivade license options.</strong></p>
+**Vendor's marketplace description:** Bonivade Buyer Resistance System v1.1 is an original diagnostic system for identifying and removing buyer resistance. Buyer resistance is a decision-blocking process inside the buyer’s mind, triggered or intensified by specific signals in the offer, message, presentation, sales interaction, or buying path. Who can you promote Bonivade to? Bonivade is relevant to two broad buyer groups: Businesses that want to improve sales — including business owners, founders, ecommerce businesses, service businesses, digital-product businesses, and marketing or sales teams that want to understand why potential customers hesitate, doubt, postpone, compare, abandon, or fail to buy. Professionals who work with conversion and customer behavior — including people working in CRO and conversion optimization, UX and usability, marketing, copywriting, customer experience, customer behavior analysis, funnel and checkout analysis, sales, testing, and related client-facing work. What does Bonivade help them do? Bonivade gives buyers a structured system for identifying the resistance blocking a purchase, tracing it back to the signals creating it, and correcting those signals to remove the barrier to the buying decision. Where can Bonivade be applied? Bonivade can be applied to any buying situation — online or offline, and whether the business sells a product or a service. The system is based on the psychology of the buyer. The underlying processes of hesitation, doubt, comparison, delay, and resistance are the same regardless of where or how the buying decision takes place. Bonivade can be used manually or together with the included AI prompts and command files. The AI materials help users apply the system faster, while the core value remains the diagnostic logic itself. Product and license options Bonivade Buyer Resistance System v1.1 — Standard License Regular price: €289 Current launch price: €189 Bonivade Buyer Resistance System v1.1 — Commercial & Facilitator License Price: €789 Commercial & Facilitator License Upgrade For existing Standard License buyers: €500 The purchased license does not expire. Affiliate commission: 30% on all Bonivade license options.
 
 ## 2. Links
 

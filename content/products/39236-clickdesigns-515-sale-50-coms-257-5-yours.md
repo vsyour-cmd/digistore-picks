@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>ClickDesigns™ | The #1 Design Software Of All Time For EVERYONE.</strong></span></p>
-<p><span style="text-decoration:underline;"><strong>INCREDIBLE</strong></span> Conversions<br /><span style="text-decoration:underline;"><strong>LONG-TERM</strong></span> Evergreen Offer<br /><span style="text-decoration:underline;"><strong>MASSIVE</strong></span> Payouts </p>
-<h2><span style="background-color:#ff0000;color:#ffffff;"><strong>Already PAID OUT $350,000 This YEAR!</strong><strong>!</strong></span></h2>
-<h3><span style="text-decoration:underline;"><strong>EMAIL TRAFFIC CONVERSIONS<br /></strong></span><strong><span style="background-color:#ffff00;">EPC $2-$3 | </span><span style="background-color:#ffff00;">AOV $150</span> </strong></h3>
-<p><strong>Perfect For Graphics, Social Media, Videos, eCom, MMO, Traffic, Digital Products, Software, SaaS &amp; Offline Marketing Lists</strong></p>
-<h2><span style="background-color:#ffcc00;">Get Paid 50% Commissions On $515 Per Sale. Your Take Home is &gt;&gt;&gt; $257.50!!</span></h2>
-<p><span style="color:#ffffff;background-color:#ff0000;"><strong>Get FULL details here: <span style="color:#ffffff;"><a style="color:#ffffff;" title="Get Paid NOW!" href="https://www.clickdesigns.com/dg/invite" target="_blank" rel="noreferrer noopener">https://www.clickdesigns.com/dg/invite</a></span></strong></span></p>
-<p><a style="color:#ffffff;background-color:#ff0000;" href="https://launch.clickdesigns.com/promo-tools/" target="_blank" rel="noreferrer noopener"><strong>TONS of High-Converting Creatives HERE</strong></a></p>
-<p><span style="color:#ffffff;background-color:#ff0000;"><strong>Get Videos, Software Demo, Articles, Banners &amp; Much more... </strong></span></p>
+**Vendor's marketplace description:** ClickDesigns™ | The #1 Design Software Of All Time For EVERYONE. INCREDIBLE Conversions LONG-TERM Evergreen Offer MASSIVE Payouts Already PAID OUT $350,000 This YEAR! ! EMAIL TRAFFIC CONVERSIONS EPC $2-$3 | AOV $150 Perfect For Graphics, Social Media, Videos, eCom, MMO, Traffic, Digital Products, Software, SaaS & Offline Marketing Lists Get Paid 50% Commissions On $515 Per Sale. Your Take Home is >>> $257.50!! Get FULL details here: https://www.clickdesigns.com/dg/invite TONS of High-Converting Creatives HERE Get Videos, Software Demo, Articles, Banners & Much more...
 
 ## 2. Links
 

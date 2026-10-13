@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>$300+ Avg. Order Value | Manifestation Booster</strong></p>
-<p>Join us and skyrocket your income with Pineal XT, a manifestation-enhancing supplement.</p>
-<p><strong>Convert clicks into cash with nearly 2% conversion rate, earning $3.85 per click. </strong></p>
+**Vendor's marketplace description:** $300+ Avg. Order Value | Manifestation Booster Join us and skyrocket your income with Pineal XT, a manifestation-enhancing supplement. Convert clicks into cash with nearly 2% conversion rate, earning $3.85 per click.
 
 ## 2. Links
 

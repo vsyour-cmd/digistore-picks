@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>TonicGreens</strong> - The ready made shake that rocket boosts the immune system and your commissions!</p>
-<ul>
-<li>Average CVR 2.4%</li>
-<li>$3+ EPCs</li>
-<li>$175+ AOV</li>
-<li>CPA commission available</li>
-</ul>
+**Vendor's marketplace description:** TonicGreens - The ready made shake that rocket boosts the immune system and your commissions! Average CVR 2.4% $3+ EPCs $175+ AOV CPA commission available
 
 ## 2. Links
 

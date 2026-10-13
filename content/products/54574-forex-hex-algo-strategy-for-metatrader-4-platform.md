@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>What is HEX ALGO?</h2>
-<p><strong>HEX ALGO</strong> is a cutting-edge MetaTrader 4 indicator engineered to detect swing highs and lows (“extremums”) with exceptional precision. This advanced tool empowers traders to confidently spot optimal BUY and SELL zones before the market reverses, guiding entries and exits on forex, indices, commodities, and crypto. Using proprietary price action algorithms and adaptive filters, HEX ALGO delivers non-repainting, real-time signals straight to the chart—making it ideal for scalpers, day traders, and swing traders aiming to stay one step ahead of volatile moves.</p>
-<h2>Affiliate Commission Structure</h2>
-<p> </p>
+**Vendor's marketplace description:** What is HEX ALGO? HEX ALGO is a cutting-edge MetaTrader 4 indicator engineered to detect swing highs and lows (“extremums”) with exceptional precision. This advanced tool empowers traders to confidently spot optimal BUY and SELL zones before the market reverses, guiding entries and exits on forex, indices, commodities, and crypto. Using proprietary price action algorithms and adaptive filters, HEX ALGO delivers non-repainting, real-time signals straight to the chart—making it ideal for scalpers, day traders, and swing traders aiming to stay one step ahead of volatile moves. Affiliate Commission Structure
 
 ## 2. Links
 

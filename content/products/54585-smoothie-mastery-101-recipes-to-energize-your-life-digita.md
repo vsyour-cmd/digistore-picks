@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Earn $10 + 50% Per Sale!</h1>
-<p>Promote healthy smoothie recipes. No experience needed.</p>
-<p><strong><span style="background-color:#ffffff;color:#ff0000;">✅ High commissions ($10 + 50%)</span></strong><br />✅ Use Canva AI to generate smoothie images in 2 min<br />✅ Make videos with CapCut/Leonardo.ai - no skills needed<br />✅ Post to Facebook, Pinterest, Reddit = profit<br />✅ 30 min/week work</p>
+**Vendor's marketplace description:** Earn $10 + 50% Per Sale! Promote healthy smoothie recipes. No experience needed. ✅ High commissions ($10 + 50%) ✅ Use Canva AI to generate smoothie images in 2 min ✅ Make videos with CapCut/Leonardo.ai - no skills needed ✅ Post to Facebook, Pinterest, Reddit = profit ✅ 30 min/week work
 
 ## 2. Links
 

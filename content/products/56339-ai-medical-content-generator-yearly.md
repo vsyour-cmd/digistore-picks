@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Generate professional medical content instantly for:</p>
-<ul>
-<li><strong>Dentistry</strong> – Patient education on implants, whitening, orthodontics, emergency care</li>
-<li><strong>Aesthetic Medicine</strong> – Persuasive content for Botox, fillers, lasers, body contouring</li>
-<li><strong>Nutrition &amp; Wellness</strong> – Evidence-based articles on weight loss, keto, fasting, nutrition</li>
-</ul>
-<p>Save 20+ hours/month creating compliant, high-converting medical content. Perfect for practices, clinics, coaches, and health professionals. Recurring credits mean consistent quality content without hiring writers. Build authority, attract patients, boost conversions.</p>
+**Vendor's marketplace description:** Generate professional medical content instantly for: Dentistry – Patient education on implants, whitening, orthodontics, emergency care Aesthetic Medicine – Persuasive content for Botox, fillers, lasers, body contouring Nutrition & Wellness – Evidence-based articles on weight loss, keto, fasting, nutrition Save 20+ hours/month creating compliant, high-converting medical content. Perfect for practices, clinics, coaches, and health professionals. Recurring credits mean consistent quality content without hiring writers. Build authority, attract patients, boost conversions.
 
 ## 2. Links
 

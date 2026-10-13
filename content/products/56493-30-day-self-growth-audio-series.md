@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Short, high-impact audio lessons to build better habits, master your mindset, and grow every day — without fluff.</p>
+**Vendor's marketplace description:** Short, high-impact audio lessons to build better habits, master your mindset, and grow every day — without fluff.
 
 ## 2. Links
 

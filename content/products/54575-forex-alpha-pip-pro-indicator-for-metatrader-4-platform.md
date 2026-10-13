@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h2>What is Alpha Pip PRO?</h2>
-<p><strong>Alpha Pip PRO</strong> is a next-generation MetaTrader 4 indicator designed for scalpers and day traders who thrive on precision, speed, and actionable clarity. Built using advanced mathematical algorithms and price-behavior analytics, Alpha Pip PRO identifies probable market tops and bottoms in real-time, giving traders the power to capture pips from the best reversal spots repeatedly. The system is engineered for fast decision-making and consistent results, making it the new standard for dominating short-term markets on MT4—across forex, commodities, indices, and cryptocurrencies.</p>
-<h2>Affiliate Commission Structure</h2>
-<p> </p>
-</div>
+**Vendor's marketplace description:** What is Alpha Pip PRO? Alpha Pip PRO is a next-generation MetaTrader 4 indicator designed for scalpers and day traders who thrive on precision, speed, and actionable clarity. Built using advanced mathematical algorithms and price-behavior analytics, Alpha Pip PRO identifies probable market tops and bottoms in real-time, giving traders the power to capture pips from the best reversal spots repeatedly. The system is engineered for fast decision-making and consistent results, making it the new standard for dominating short-term markets on MT4—across forex, commodities, indices, and cryptocurrencies. Affiliate Commission Structure
 
 ## 2. Links
 

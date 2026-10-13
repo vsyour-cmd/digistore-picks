@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>OnlineTV 20 – The Original Since 2002</strong></p>
-<p>OnlineTV gives you access to a wide range of TV and radio stations, plus live streams from around the globe. Enjoy music videos, webcams, and a variety of online media – all in one place.</p>
-<p>Available for Windows 7, 8, 8.1, 10, and 11, plus a companion app for Android.</p>
-<p>The software is ready for download immediately after purchase. Your license key will be delivered by email.</p>
+**Vendor's marketplace description:** OnlineTV 20 – The Original Since 2002 OnlineTV gives you access to a wide range of TV and radio stations, plus live streams from around the globe. Enjoy music videos, webcams, and a variety of online media – all in one place. Available for Windows 7, 8, 8.1, 10, and 11, plus a companion app for Android. The software is ready for download immediately after purchase. Your license key will be delivered by email.
 
 ## 2. Links
 

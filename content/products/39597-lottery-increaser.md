@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;"><strong>Make up to $250 per sale! </strong></h2>
-<p>We pay 75% on everything you sell. Our high value front end product is $97 and our backend features products as high as $127.</p>
-<div>This is a 100% true and crafted offer using a REAL 7 time lottery winner Richard Lustig!</div>
-<div> </div>
-<div><strong>The lotto niche is HOT right now!</strong><br /><br />Our upsell flow makes it so you can make up to $250 per customer! We sell a lottery software on the backend as well as an additional course! You get paid not only for the frontend product, but for four big upsells on the backend!<br /><strong><br />This is just another reason to promote Lottery Increaser!</strong></div>
+**Vendor's marketplace description:** Make up to $250 per sale! We pay 75% on everything you sell. Our high value front end product is $97 and our backend features products as high as $127. This is a 100% true and crafted offer using a REAL 7 time lottery winner Richard Lustig! The lotto niche is HOT right now! Our upsell flow makes it so you can make up to $250 per customer! We sell a lottery software on the backend as well as an additional course! You get paid not only for the frontend product, but for four big upsells on the backend! This is just another reason to promote Lottery Increaser!
 
 ## 2. Links
 

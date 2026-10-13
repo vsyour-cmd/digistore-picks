@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Stop Guessing. Start Buying Like a Pharmacist.</strong></p>
-<p>​You’re standing in the supplement aisle—or scrolling online at midnight—staring at dozens of bottles that all promise more energy, better sleep, or a bulletproof immune system. You’ve probably already spent money on something recommended by a friend or an influencer, only to wonder if it’s actually working—or if it’s even safe to take alongside your current routine.</p>
-<p>​The Beginner’s Supplement Guide is the missing manual your pharmacist wishes she could give you.</p>
-<p>​Written by a licensed pharmacist, this isn't a list of hype products or "miracle" pills. It’s a clear, science-backed framework designed to help you navigate any store, evaluate any label, and spend money only on what your body truly needs.</p>
-<p>​<span style="color:#800080;">What’s Inside:</span></p>
-<p>​The Essentials: The small handful of core supplements that actually make a difference for most beginners.</p>
-<p>​Label Decoded: How to read a supplement panel like a pharmacist reads a prescription—so you never fall for clever marketing again.</p>
-<p>​Safety &amp; Interactions: Key drug and supplement interactions you actually need to pay attention to.</p>
-<p>​Ready-to-Use Starter Stacks: Curated, goal-driven combinations for sleep, daily wellness, and energy to take the guesswork off your plate.</p>
-<p>​Ditch the aisle confusion and take full control of your supplement routine today.</p>
-<p>​Format: 61-Page PDF | Instant Digital Download</p>
-<p>​<span style="color:#99ccff;">Author: Rihana Hussen, B.Pharm</span></p>
+**Vendor's marketplace description:** Stop Guessing. Start Buying Like a Pharmacist. ​You’re standing in the supplement aisle—or scrolling online at midnight—staring at dozens of bottles that all promise more energy, better sleep, or a bulletproof immune system. You’ve probably already spent money on something recommended by a friend or an influencer, only to wonder if it’s actually working—or if it’s even safe to take alongside your current routine. ​The Beginner’s Supplement Guide is the missing manual your pharmacist wishes she could give you. ​Written by a licensed pharmacist, this isn't a list of hype products or "miracle" pills. It’s a clear, science-backed framework designed to help you navigate any store, evaluate any label, and spend money only on what your body truly needs. ​ What’s Inside: ​The Essentials: The small handful of core supplements that actually make a difference for most beginners. ​Label Decoded: How to read a supplement panel like a pharmacist reads a prescription—so you never fall for clever marketing again. ​Safety & Interactions: Key drug and supplement interactions you actually need to pay attention to. ​Ready-to-Use Starter Stacks: Curated, goal-driven combinations for sleep, daily wellness, and energy to take the guesswork off your plate. ​Ditch the aisle confusion and take full control of your supplement routine today. ​Format: 61-Page PDF | Instant Digital Download ​ Author: Rihana Hussen, B.Pharm
 
 ## 2. Links
 

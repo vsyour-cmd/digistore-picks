@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>It’s on with Digistore! <strong>A Unique “Fat Cell Starving” Dropper That Converts Big On All Types Of Traffic.</strong> This is Your Chance To Jump In And Make 6 Fig/Day on the Weight Loss Niche. Top Affiliates Are Reporting Up To $7 Epc.</p>
+**Vendor's marketplace description:** It’s on with Digistore! A Unique “Fat Cell Starving” Dropper That Converts Big On All Types Of Traffic. This is Your Chance To Jump In And Make 6 Fig/Day on the Weight Loss Niche. Top Affiliates Are Reporting Up To $7 Epc.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>HOW TECHNOLOGY IS RESHAPING AMERICAN POWER</strong></p>
-<p><em>The Architecture of American Power – Volume V</em> examines how technology has evolved from an instrument of power into one of its defining strategic foundations.</p>
-<p>What sets this book apart is its <strong>systemic view of technological power</strong>. Semiconductors, artificial intelligence, digital networks, research, innovation, industry, finance, and institutions are analyzed as interconnected parts of a larger strategic architecture.</p>
-<p>Readers discover how technological leadership strengthens economic, military, and geopolitical capabilities—and how dependencies, competition, and rapid technological change can simultaneously create new vulnerabilities.</p>
-<p>For affiliates, this creates a highly topical product for audiences interested in AI, semiconductors, U.S.–China competition, technology, geopolitics, innovation, and the future balance of global power.</p>
+**Vendor's marketplace description:** HOW TECHNOLOGY IS RESHAPING AMERICAN POWER The Architecture of American Power – Volume V examines how technology has evolved from an instrument of power into one of its defining strategic foundations. What sets this book apart is its systemic view of technological power . Semiconductors, artificial intelligence, digital networks, research, innovation, industry, finance, and institutions are analyzed as interconnected parts of a larger strategic architecture. Readers discover how technological leadership strengthens economic, military, and geopolitical capabilities—and how dependencies, competition, and rapid technological change can simultaneously create new vulnerabilities. For affiliates, this creates a highly topical product for audiences interested in AI, semiconductors, U.S.–China competition, technology, geopolitics, innovation, and the future balance of global power.
 
 ## 2. Links
 

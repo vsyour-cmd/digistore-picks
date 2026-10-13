@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NeuroVera – The 2026 Brain Offer Delivering Reliable EPCs</strong></p>
-<p>NeuroVera is quickly becoming a steady performer for affiliates in the brain-health niche.</p>
-<p>Clean funnel flow, strong AOV, and consistent engagement make it a solid pick for affiliates seeking dependable EPCs and a reliable addition to their 2026 lineup.</p>
+**Vendor's marketplace description:** NeuroVera – The 2026 Brain Offer Delivering Reliable EPCs NeuroVera is quickly becoming a steady performer for affiliates in the brain-health niche. Clean funnel flow, strong AOV, and consistent engagement make it a solid pick for affiliates seeking dependable EPCs and a reliable addition to their 2026 lineup.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Photomizer 3 Premium – Intelligent Photo Enhancement Made Easy</strong></p>
-<p>Better photos. Automatically.</p>
-<p>Photomizer 3 Premium enhances and restores your digital photos – fully automatically, right on your PC. Achieve more vibrant, balanced, and clear images in just a few clicks.</p>
-<p>With advanced object recognition, automatic color correction, tone value redistribution, white balance, hue control, saturation, contrast optimization, and brightness adjustments – all handled seamlessly.</p>
-<p>Supports JPG, BMP, TIFF, and a wide range of RAW formats: raw, crw, orf, 3fr, nef, raf, mrw, nrw, dng, cr2, arw, x3f, rw2.</p>
-<p>Compatible with Windows 7, 8, 10 (32- and 64-bit), and Windows 11.</p>
+**Vendor's marketplace description:** Photomizer 3 Premium – Intelligent Photo Enhancement Made Easy Better photos. Automatically. Photomizer 3 Premium enhances and restores your digital photos – fully automatically, right on your PC. Achieve more vibrant, balanced, and clear images in just a few clicks. With advanced object recognition, automatic color correction, tone value redistribution, white balance, hue control, saturation, contrast optimization, and brightness adjustments – all handled seamlessly. Supports JPG, BMP, TIFF, and a wide range of RAW formats: raw, crw, orf, 3fr, nef, raf, mrw, nrw, dng, cr2, arw, x3f, rw2. Compatible with Windows 7, 8, 10 (32- and 64-bit), and Windows 11.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Navy Diver–Inspired “Marine Tooth Repair” Formula Targets Teeth and Gums Problems at the Root. Huge Demand, Strong Story-Driven VSL. EPC Already Climbing (Up to $4+). Perfect for Native, FB &amp; Email. Limited Affiliate Slots. <br />Contact Us to Get In!</p>
+**Vendor's marketplace description:** Navy Diver–Inspired “Marine Tooth Repair” Formula Targets Teeth and Gums Problems at the Root. Huge Demand, Strong Story-Driven VSL. EPC Already Climbing (Up to $4+). Perfect for Native, FB & Email. Limited Affiliate Slots. Contact Us to Get In!
 
 ## 2. Links
 

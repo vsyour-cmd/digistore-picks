@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Hot New Green Energy Offer Just Launched And EPCs Are Already Through The Roof.</p>
-<p>Crazy High Conversions &amp; 90% Commissions Available! Unique Angle, Cutting-Edge VSL And ULTRA Optimized Upsell Funnel Will Rake In Cold Hard Cash Every Single Day.</p>
-<p>Experience Unprecedented Success On Youtube, Pinterest, Native, Facebook With Our Proven To Convert Creatives.</p>
+**Vendor's marketplace description:** This Hot New Green Energy Offer Just Launched And EPCs Are Already Through The Roof. Crazy High Conversions & 90% Commissions Available! Unique Angle, Cutting-Edge VSL And ULTRA Optimized Upsell Funnel Will Rake In Cold Hard Cash Every Single Day. Experience Unprecedented Success On Youtube, Pinterest, Native, Facebook With Our Proven To Convert Creatives.
 
 ## 2. Links
 

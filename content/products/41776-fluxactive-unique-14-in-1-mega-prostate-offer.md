@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h5>1 in 2 men suffer from prostate problems. Imagine the profits! Ready to pull up to 6 figures/day already? Contact us at david@mediapulseltd.com for swipes + commission bumps!</h5>
+**Vendor's marketplace description:** 1 in 2 men suffer from prostate problems. Imagine the profits! Ready to pull up to 6 figures/day already? Contact us at david@mediapulseltd.com for swipes + commission bumps!
 
 ## 2. Links
 

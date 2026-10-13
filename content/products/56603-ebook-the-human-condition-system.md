@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<p><strong>“The Human Condition System”</strong> brings together the most powerful themes of our time — declining attention spans, digital manipulation, inner emptiness, performance pressure, identity crises, and modern loneliness — into a comprehensive exploration of the psychological consequences of contemporary society.</p>
-<p>The product speaks to an exceptionally broad audience and offers a clear transformation toward greater awareness, focus, emotional stability, authentic connection, and personal freedom.</p>
-<p>By combining multiple highly relevant pain points, it creates enormous potential for viral content, strong emotional identification, and high conversion rates.</p>
-<p>An exceptionally versatile premium topic with strong demand and ideal marketability across mindset, mental health, coaching, and self-improvement channels.</p>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** “The Human Condition System” brings together the most powerful themes of our time — declining attention spans, digital manipulation, inner emptiness, performance pressure, identity crises, and modern loneliness — into a comprehensive exploration of the psychological consequences of contemporary society. The product speaks to an exceptionally broad audience and offers a clear transformation toward greater awareness, focus, emotional stability, authentic connection, and personal freedom. By combining multiple highly relevant pain points, it creates enormous potential for viral content, strong emotional identification, and high conversion rates. An exceptionally versatile premium topic with strong demand and ideal marketability across mindset, mental health, coaching, and self-improvement channels.
 
 ## 2. Links
 

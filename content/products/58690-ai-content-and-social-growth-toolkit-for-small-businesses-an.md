@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Give small businesses, content creators, consultants and marketers a more structured way to plan, create, repurpose and track marketing content.</p>
-<p>The AI Content &amp; Social Growth Toolkit™ includes four practical digital tools:</p>
-<p>• AI Content Strategy Planner Pro™<br />• Social Media Content Calendar Planner Pro™<br />• Multi-Platform Caption &amp; CTA Builder Pro™<br />• Content Repurposing &amp; Performance Tracker Pro™</p>
-<p>Ideal for audiences interested in AI-assisted content creation, social media planning, marketing workflows, content repurposing and business growth.</p>
-<p>The toolkit is designed to help users organize their content process and work more consistently across multiple platforms without making unrealistic income or performance promises.</p>
+**Vendor's marketplace description:** Give small businesses, content creators, consultants and marketers a more structured way to plan, create, repurpose and track marketing content. The AI Content & Social Growth Toolkit™ includes four practical digital tools: • AI Content Strategy Planner Pro™ • Social Media Content Calendar Planner Pro™ • Multi-Platform Caption & CTA Builder Pro™ • Content Repurposing & Performance Tracker Pro™ Ideal for audiences interested in AI-assisted content creation, social media planning, marketing workflows, content repurposing and business growth. The toolkit is designed to help users organize their content process and work more consistently across multiple platforms without making unrealistic income or performance promises.
 
 ## 2. Links
 

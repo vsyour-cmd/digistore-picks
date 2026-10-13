@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Unchosen Encounter is an English-language eBook exploring an unexpected connection, emotional tension, personal choices, and the consequences that follow when two lives cross without planning.</div>
-<div> </div>
-<div>The story focuses on relationships, human decisions, and the emotional complexity of an encounter that was never chosen.</div>
-<div> </div>
-<div>Affiliates earn 40% commission on every confirmed sale.</div>
-<div> </div>
-<div>Promotional materials, book cover, and marketing support are available.</div>
-<div> </div>
-<div>Official website:</div>
-<div>www.elbossilydigitalhome.com</div>
-<div> </div>
-<div>Promotional video:</div>
-<div>https://www.youtube.com/watch?v=pAJ5cAJUyFo</div>
+**Vendor's marketplace description:** Unchosen Encounter is an English-language eBook exploring an unexpected connection, emotional tension, personal choices, and the consequences that follow when two lives cross without planning. The story focuses on relationships, human decisions, and the emotional complexity of an encounter that was never chosen. Affiliates earn 40% commission on every confirmed sale. Promotional materials, book cover, and marketing support are available. Official website: www.elbossilydigitalhome.com Promotional video: https://www.youtube.com/watch?v=pAJ5cAJUyFo
 
 ## 2. Links
 

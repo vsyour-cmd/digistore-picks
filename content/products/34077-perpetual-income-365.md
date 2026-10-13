@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Perpetual Income 365 is a plug-and-play affiliate marketing software created by for all levels - newbies to advanced marketers, seeking to enable ordinary people who have zero internet experience make a full time income through affiliate marketing using our own plug-and-play system.</p>
+**Vendor's marketplace description:** Perpetual Income 365 is a plug-and-play affiliate marketing software created by for all levels - newbies to advanced marketers, seeking to enable ordinary people who have zero internet experience make a full time income through affiliate marketing using our own plug-and-play system.
 
 ## 2. Links
 

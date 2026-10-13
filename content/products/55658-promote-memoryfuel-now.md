@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>MemoryFuel – Meta Compliant 2026 Brain Supplement with Creatine!</strong></p>
-<p>The latest trending Creatine for Brain formulation — high-converting brain formula for memory on demand.</p>
-<p><strong> Proven funnel, $300+ AOV, rabid 55+ buyers. Email &amp; native crews past $3 EPC.</strong></p>
+**Vendor's marketplace description:** MemoryFuel – Meta Compliant 2026 Brain Supplement with Creatine! The latest trending Creatine for Brain formulation — high-converting brain formula for memory on demand. Proven funnel, $300+ AOV, rabid 55+ buyers. Email & native crews past $3 EPC.
 
 ## 2. Links
 

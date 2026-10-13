@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>New high-converting BEAST of a VSL. The EPC's will make you smile. Contact us at <a>binauraltechnologies@gmail.com</a> for Commission Bumps and Other Resources. From the team behind Genius Wave, this offer takes it to a WHOLE NEW LEVEL. Test your traffic now and see.</p>
+**Vendor's marketplace description:** New high-converting BEAST of a VSL. The EPC's will make you smile. Contact us at binauraltechnologies@gmail.com for Commission Bumps and Other Resources. From the team behind Genius Wave, this offer takes it to a WHOLE NEW LEVEL. Test your traffic now and see.
 
 ## 2. Links
 

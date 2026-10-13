@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Burn Abdominal Fat in 30 Days</p>
-<p>A science-based e-book, with meal plans, exercises, and lifestyle tips.</p>
-<p>Achieve a flat stomach with this step-by-step guide.</p>
+**Vendor's marketplace description:** Burn Abdominal Fat in 30 Days A science-based e-book, with meal plans, exercises, and lifestyle tips. Achieve a flat stomach with this step-by-step guide.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>HOW MIDDLE POWERS GAIN INFLUENCE</strong></p>
-<p><em>The Rise of the Multipolar World – Volume V</em> examines how the Global South and emerging middle powers are gaining greater strategic influence as global power becomes more widely distributed.</p>
-<p>What sets this book apart is its focus on <strong>strategic choice</strong>. Brazil, Saudi Arabia, Türkiye, Indonesia, the UAE, and South Africa show how resources, geography, markets, capital, and diplomacy can create influence beyond traditional measures of national power.</p>
-<p>Readers discover why multipolarity creates new opportunities for multi-alignment, leverage, and strategic autonomy.</p>
-<p>For affiliates, this offers a distinctive product for audiences interested in the Global South, BRICS, emerging powers, and the changing world order.</p>
+**Vendor's marketplace description:** HOW MIDDLE POWERS GAIN INFLUENCE The Rise of the Multipolar World – Volume V examines how the Global South and emerging middle powers are gaining greater strategic influence as global power becomes more widely distributed. What sets this book apart is its focus on strategic choice . Brazil, Saudi Arabia, Türkiye, Indonesia, the UAE, and South Africa show how resources, geography, markets, capital, and diplomacy can create influence beyond traditional measures of national power. Readers discover why multipolarity creates new opportunities for multi-alignment, leverage, and strategic autonomy. For affiliates, this offers a distinctive product for audiences interested in the Global South, BRICS, emerging powers, and the changing world order.
 
 ## 2. Links
 

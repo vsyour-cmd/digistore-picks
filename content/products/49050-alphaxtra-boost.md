@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Revolutionary Blend Addresses The Root Cause of ED In A Unique Way.</p>
-<p>Skyrocketing Conversions On All Types Of Traffic.</p>
-<p>Top Affiliates Are Already Reaping The Benefits, Reporting Up To $7 EPC!</p>
+**Vendor's marketplace description:** This Revolutionary Blend Addresses The Root Cause of ED In A Unique Way. Skyrocketing Conversions On All Types Of Traffic. Top Affiliates Are Already Reaping The Benefits, Reporting Up To $7 EPC!
 
 ## 2. Links
 

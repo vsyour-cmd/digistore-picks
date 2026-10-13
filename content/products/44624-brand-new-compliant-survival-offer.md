@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Brand NEW Compliant Survival Offer</strong> from the creators of <strong>David's Shield</strong>.</p>
-<p><strong> Insane conversion rates - works on ANY list!</strong></p>
-<p>Put it to test and enjoy 75% commissions on both front-end and back end - bank up to $119.25.</p>
+**Vendor's marketplace description:** Brand NEW Compliant Survival Offer from the creators of David's Shield . Insane conversion rates - works on ANY list! Put it to test and enjoy 75% commissions on both front-end and back end - bank up to $119.25.
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">This guide explains how gut health impacts digestion, immunity, and overall wellness, with simple steps to restore balance naturally. Strong demand and easy-to-promote health topic.</p>
-<p style="text-align:justify;"><br /><strong>Commission: 70% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** This guide explains how gut health impacts digestion, immunity, and overall wellness, with simple steps to restore balance naturally. Strong demand and easy-to-promote health topic. Commission: 70% | Automatic Approval
 
 ## 2. Links
 

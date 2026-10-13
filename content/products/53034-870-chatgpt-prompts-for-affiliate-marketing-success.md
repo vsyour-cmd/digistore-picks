@@ -41,30 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ready to help your audience <strong>crush it in affiliate marketing</strong> – and earn <strong>50% commission per sale</strong> while you're at it?</p>
-<p><strong>Introducing the ultimate game-changer: “870 ChatGPT Prompts for Affiliate Marketers” – only $27!</strong></p>
-<p>Whether your referrals are total beginners or seasoned pros, this <strong>AI-powered prompt pack</strong> will transform their workflow, supercharge conversions, and unlock passive income like never before.</p>
-<hr />
-<p><strong>What’s Inside:</strong></p>
-<p>✅ 870 ready-to-use ChatGPT prompts<br />✅ Tailored for the <strong>entire affiliate funnel</strong> – from research to conversions<br />✅ Save hours of trial &amp; error<br />✅ Create smarter, faster, high-converting campaigns<br />✅ Works with FREE or paid versions of ChatGPT<br />✅ Instant digital delivery – no fluff, just results</p>
-<hr />
-<p><strong>Covers every aspect of affiliate success:</strong></p>
-<p>✅ Product research<br />✅ Funnel optimization<br />✅ Content &amp; SEO<br />✅ Email marketing<br />✅ Audience targeting<br />✅ Conversion boosting<br />… and so much more!</p>
-<hr />
-<p><strong>Why Promote This?</strong></p>
-<ul>
-<li>MASS appeal – beginner-friendly + expert-optimized</li>
-<li><strong>50% commission</strong> – on every sale</li>
-<li>Evergreen product – no trends, just timeless tactics</li>
-<li>High-converting sales page</li>
-<li>Low entry price = high conversions</li>
-<li>Digital download – instant access = instant satisfaction</li>
-</ul>
-<hr />
-<p><strong>Help your followers level up their affiliate game with AI – and get paid doing it.</strong></p>
-<p><strong>✅ Join now &amp; start promoting: </strong></p>
-<p><strong><a>https://www.digistore24.com/redir/619826/AFFILIATE/CAMPAIGNKEY </a></strong></p>
-<p>Don’t just earn clicks. Earn commissions.<br />This is <strong>plug &amp; play affiliate value</strong> – and your next easy win.</p>
+**Vendor's marketplace description:** Ready to help your audience crush it in affiliate marketing – and earn 50% commission per sale while you're at it? Introducing the ultimate game-changer: “870 ChatGPT Prompts for Affiliate Marketers” – only $27! Whether your referrals are total beginners or seasoned pros, this AI-powered prompt pack will transform their workflow, supercharge conversions, and unlock passive income like never before. What’s Inside: ✅ 870 ready-to-use ChatGPT prompts ✅ Tailored for the entire affiliate funnel – from research to conversions ✅ Save hours of trial & error ✅ Create smarter, faster, high-converting campaigns ✅ Works with FREE or paid versions of ChatGPT ✅ Instant digital delivery – no fluff, just results Covers every aspect of affiliate success: ✅ Product research ✅ Funnel optimization ✅ Content & SEO ✅ Email marketing ✅ Audience targeting ✅ Conversion boosting … and so much more! Why Promote This? MASS appeal – beginner-friendly + expert-optimized 50% commission – on every sale Evergreen product – no trends, just timeless tactics High-converting sales page Low entry price = high conversions Digital download – instant access = instant satisfaction Help your followers level up their affiliate game with AI – and get paid doing it. ✅ Join now & start promoting: https://www.digistore24.com/redir/619826/AFFILIATE/CAMPAIGNKEY Don’t just earn clicks. Earn commissions. This is plug & play affiliate value – and your next easy win.
 
 ## 2. Links
 

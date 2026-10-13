@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Mindful Wealth Mastery Bundle – Transform Your Mindset &amp; Finances!</strong></p>
-<p>Unlock your path to financial abundance and inner peace with <strong>The Mindful Wealth Mastery Bundle!</strong> This exclusive <strong>Done-for-You PLR bundle</strong> is designed for entrepreneurs, coaches, and content creators looking to <strong>empower their audience</strong> with a transformative mindset shift.</p>
-<h3>What’s Inside?</h3>
-<ul>
-<li><strong>The Spiritual Millionaire (18 pages)</strong> – Align your finances with mindfulness and purpose.</li>
-<li><strong>Mindfulness E-Book &amp; Workbook (81 pages)</strong> – Cultivate inner peace and awareness in everyday life.</li>
-<li><strong>Limiting Beliefs E-Book &amp; Workbook (83 pages)</strong> – Overcome self-doubt and unlock your full potential.</li>
-<li><strong>BONUS: 30 Mindset Shift Affirmation Cards</strong> – Inspire and guide your journey toward success!</li>
-</ul>
-<h3>Why Promote This?</h3>
-<p><strong>50% Affiliate Commission</strong> – Earn while sharing high-value content!<br /><strong>Fully Customizable with Canva Link</strong> – Brand it as your own!<br /><strong>Hot-Selling Niche</strong> – Mindset, self-improvement &amp; wealth attraction are booming!</p>
-<p>This bundle is <strong>perfect for personal development, mindset coaching, and digital entrepreneurs</strong> ready to help others <strong>manifest abundance, clarity, and transformation.</strong></p>
-<p><strong>Grab this high-converting offer now and start earning 50% commission with every sale!</strong></p>
+**Vendor's marketplace description:** The Mindful Wealth Mastery Bundle – Transform Your Mindset & Finances! Unlock your path to financial abundance and inner peace with The Mindful Wealth Mastery Bundle! This exclusive Done-for-You PLR bundle is designed for entrepreneurs, coaches, and content creators looking to empower their audience with a transformative mindset shift. What’s Inside? The Spiritual Millionaire (18 pages) – Align your finances with mindfulness and purpose. Mindfulness E-Book & Workbook (81 pages) – Cultivate inner peace and awareness in everyday life. Limiting Beliefs E-Book & Workbook (83 pages) – Overcome self-doubt and unlock your full potential. BONUS: 30 Mindset Shift Affirmation Cards – Inspire and guide your journey toward success! Why Promote This? 50% Affiliate Commission – Earn while sharing high-value content! Fully Customizable with Canva Link – Brand it as your own! Hot-Selling Niche – Mindset, self-improvement & wealth attraction are booming! This bundle is perfect for personal development, mindset coaching, and digital entrepreneurs ready to help others manifest abundance, clarity, and transformation. Grab this high-converting offer now and start earning 50% commission with every sale!
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hygiene is a key factor for safety and health in everyday working life. In this course, you will gain practical basic knowledge about infection control, cleaning and disinfection measures, and the legal framework. You will learn how pathogens are transmitted, which hygiene plans are used in companies, and how you can contribute to prevention with simple measures.<br />The course serves to impart knowledge and raise awareness. It does not replace professional training or qualifications!</p>
+**Vendor's marketplace description:** Hygiene is a key factor for safety and health in everyday working life. In this course, you will gain practical basic knowledge about infection control, cleaning and disinfection measures, and the legal framework. You will learn how pathogens are transmitted, which hygiene plans are used in companies, and how you can contribute to prevention with simple measures. The course serves to impart knowledge and raise awareness. It does not replace professional training or qualifications!
 
 ## 2. Links
 

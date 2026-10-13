@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>&ldquo;over 130 smoothies, juices and cocktails&rdquo;</em></p>
-<p>This book is my personal collection of the best&nbsp;recipes to create delicious smoothies, green smoothies, super shakes, power juices, elixirs and genius cocktails that are magic&nbsp;for your body.</p>
-<p>Feast as you fancy, with recipes that make your&nbsp;smoothie challenge .. smooth sailing, carry you through&nbsp;your juice fast, ease&nbsp;your detoxing after wild times and support&nbsp;you with an extra boost of nutrients when you are unwell &ndash; while&nbsp;super charging your system.</p>
-<p>&nbsp;</p>
-<p><strong>84&nbsp;colour pages<br />PDF format</strong><br />(DIGITAL &ndash; ideal for computers, laptops, tablets or to print out)</p>
-<h4>&nbsp;</h4>
-<p>&nbsp;</p>
+**Vendor's marketplace description:** &ldquo;over 130 smoothies, juices and cocktails&rdquo; This book is my personal collection of the best recipes to create delicious smoothies, green smoothies, super shakes, power juices, elixirs and genius cocktails that are magic for your body. Feast as you fancy, with recipes that make your smoothie challenge .. smooth sailing, carry you through your juice fast, ease your detoxing after wild times and support you with an extra boost of nutrients when you are unwell &ndash; while super charging your system. 84 colour pages PDF format (DIGITAL &ndash; ideal for computers, laptops, tablets or to print out)
 
 ## 2. Links
 

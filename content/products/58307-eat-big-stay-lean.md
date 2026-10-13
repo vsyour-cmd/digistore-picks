@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Eat Big, Stay Lean: More Food, Less Fat, No Magic is a 40-page lifestyle and nutrition guide built around a compelling concept: creating larger, more satisfying meals through smarter food choices rather than relying on extreme restriction.</p>
-<p>Topics include food volume, protein and satiety, liquid calories, recognizing hunger, everyday movement, smarter treats, eating out, consistency and developing sustainable long-term habits.</p>
-<p>Ideal target audiences include: fitness and wellness audiences, people interested in body composition, consumers tired of restrictive approaches to eating, active adults and people looking for practical strategies for more satisfying meals.</p>
-<p>Strong promotional angles: eating satisfying portions, high-volume foods, staying fuller, hidden liquid calories, smarter treats, eating out intelligently and consistency over extreme dieting.</p>
-<p>The product is especially well suited to fitness, healthy-lifestyle, food and body-composition audiences.</p>
-<p>Affiliates should avoid promising guaranteed weight or fat loss; the strongest positioning is around smarter food choices, satisfaction, consistency and sustainable habits.</p>
+**Vendor's marketplace description:** Eat Big, Stay Lean: More Food, Less Fat, No Magic is a 40-page lifestyle and nutrition guide built around a compelling concept: creating larger, more satisfying meals through smarter food choices rather than relying on extreme restriction. Topics include food volume, protein and satiety, liquid calories, recognizing hunger, everyday movement, smarter treats, eating out, consistency and developing sustainable long-term habits. Ideal target audiences include: fitness and wellness audiences, people interested in body composition, consumers tired of restrictive approaches to eating, active adults and people looking for practical strategies for more satisfying meals. Strong promotional angles: eating satisfying portions, high-volume foods, staying fuller, hidden liquid calories, smarter treats, eating out intelligently and consistency over extreme dieting. The product is especially well suited to fitness, healthy-lifestyle, food and body-composition audiences. Affiliates should avoid promising guaranteed weight or fat loss; the strongest positioning is around smarter food choices, satisfaction, consistency and sustainable habits.
 
 ## 2. Links
 

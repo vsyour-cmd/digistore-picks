@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Help real estate professionals stay organized and manage their business in one easy-to-use digital hub. The Real Estate Hub brings leads, clients, listings, showings, transactions, commissions, tasks, calendars, notes, and follow-ups together in one place. It also includes Berry AI writing tools, real estate calculators, direct property-search resources, and 12 printable business forms. Perfect for agents who want to save time, stay consistent, and keep every part of their workflow organized.</p>
+**Vendor's marketplace description:** Help real estate professionals stay organized and manage their business in one easy-to-use digital hub. The Real Estate Hub brings leads, clients, listings, showings, transactions, commissions, tasks, calendars, notes, and follow-ups together in one place. It also includes Berry AI writing tools, real estate calculators, direct property-search resources, and 12 printable business forms. Perfect for agents who want to save time, stay consistent, and keep every part of their workflow organized.
 
 ## 2. Links
 

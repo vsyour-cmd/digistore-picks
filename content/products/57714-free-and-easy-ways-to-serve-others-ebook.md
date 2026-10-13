@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This ebook is a practical reference for everyday human interactions.</p>
-<p> </p>
-<p>It offers clear, low-effort ways to serve others with respect, restraint, and awareness - without fixing, judging, or drawing attention.</p>
-<p> </p>
-<p>Organized by real-world situations, it covers how to respond to people who are grieving, overwhelmed, disabled, caregiving, angry, alone, or having a hard day.</p>
-<p> </p>
-<p>There are no stories, exercises, or motivational lessons.<br />Just straightforward guidance for doing less harm and making things easier.</p>
-<p> </p>
-<p>This is a book you keep nearby and use when it matters.</p>
-<p> </p>
-<p style="text-align:center;"><strong><span style="color:#ff0000;">* </span></strong><span style="color:#333399;"><strong><a style="color:#333399;" href="https://get.keepcreatingfun.com/affsupportwaystoserve-3b9" target="_blank" rel="noreferrer noopener">Affiliate Support Page</a></strong></span></p>
-<p style="text-align:center;"> </p>
+**Vendor's marketplace description:** This ebook is a practical reference for everyday human interactions. It offers clear, low-effort ways to serve others with respect, restraint, and awareness - without fixing, judging, or drawing attention. Organized by real-world situations, it covers how to respond to people who are grieving, overwhelmed, disabled, caregiving, angry, alone, or having a hard day. There are no stories, exercises, or motivational lessons. Just straightforward guidance for doing less harm and making things easier. This is a book you keep nearby and use when it matters. * Affiliate Support Page
 
 ## 2. Links
 

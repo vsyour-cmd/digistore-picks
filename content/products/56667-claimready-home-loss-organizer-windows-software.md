@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>ClaimReady Home Loss Organizer is a downloadable Windows software tool designed to help users organize property loss information, photos, documents, repair quotes, notes, contacts and claim-related records in one structured place.</p>
-<p>The product helps users keep important information related to a home loss or damage event more organized and easier to review.</p>
-<p>Benefits for affiliates:<br />- Digital downloadable product.<br />- Clear practical use case: organizing home loss records, documents, photos, notes and repair quotes.<br />- Suitable for homeowners, renters, families and users who want to keep claim-related information better organized.<br />- Checkout, tracking and affiliate payments are handled through Digistore24.<br />- No physical shipping required.</p>
-<p>Important note:<br />This product is an organizational tool only. It does not provide legal, financial, insurance or professional claim advice. It does not guarantee reimbursement, claim approval or any insurance outcome.</p>
-<p>Compatibility:<br />The software works only on Windows PC. It is not compatible with Mac, smartphones, tablets, Android, iPhone or iPad.</p>
+**Vendor's marketplace description:** ClaimReady Home Loss Organizer is a downloadable Windows software tool designed to help users organize property loss information, photos, documents, repair quotes, notes, contacts and claim-related records in one structured place. The product helps users keep important information related to a home loss or damage event more organized and easier to review. Benefits for affiliates: - Digital downloadable product. - Clear practical use case: organizing home loss records, documents, photos, notes and repair quotes. - Suitable for homeowners, renters, families and users who want to keep claim-related information better organized. - Checkout, tracking and affiliate payments are handled through Digistore24. - No physical shipping required. Important note: This product is an organizational tool only. It does not provide legal, financial, insurance or professional claim advice. It does not guarantee reimbursement, claim approval or any insurance outcome. Compatibility: The software works only on Windows PC. It is not compatible with Mac, smartphones, tablets, Android, iPhone or iPad.
 
 ## 2. Links
 

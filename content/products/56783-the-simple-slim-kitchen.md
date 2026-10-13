@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Simple Slim Kitchen is a practical digital recipe and meal-planning system created for customers who want simpler meals, better planning, and realistic support for healthier eating.</p>
-<p>Inside the digital guide, customers receive 62 simple recipes, a 30-day meal plan, weekly shopping lists, meal-prep routines, snack ideas, sauces, and printable-style trackers designed to make healthy eating easier to repeat.</p>
-<p>This product is not an extreme diet plan, crash-diet system, or medical program. It focuses on simple meals, familiar ingredients, flexible planning, and real-life consistency.</p>
-<p>Product highlights:<br />- 62 simple recipes<br />- 30-day meal plan<br />- Weekly shopping lists<br />- Meal-prep routines<br />- Snack and craving-friendly ideas<br />- Simple sauces and meal-building basics<br />- Trackers and planning pages<br />- Digital delivery after purchase<br />- No physical product will be shipped</p>
-<p>The Simple Slim Kitchen is for general educational and informational purposes only. It is not medical advice, nutrition therapy, or a personalized diet plan. Results vary from person to person.</p>
-<p>Orders are processed securely by Digistore24.</p>
+**Vendor's marketplace description:** The Simple Slim Kitchen is a practical digital recipe and meal-planning system created for customers who want simpler meals, better planning, and realistic support for healthier eating. Inside the digital guide, customers receive 62 simple recipes, a 30-day meal plan, weekly shopping lists, meal-prep routines, snack ideas, sauces, and printable-style trackers designed to make healthy eating easier to repeat. This product is not an extreme diet plan, crash-diet system, or medical program. It focuses on simple meals, familiar ingredients, flexible planning, and real-life consistency. Product highlights: - 62 simple recipes - 30-day meal plan - Weekly shopping lists - Meal-prep routines - Snack and craving-friendly ideas - Simple sauces and meal-building basics - Trackers and planning pages - Digital delivery after purchase - No physical product will be shipped The Simple Slim Kitchen is for general educational and informational purposes only. It is not medical advice, nutrition therapy, or a personalized diet plan. Results vary from person to person. Orders are processed securely by Digistore24.
 
 ## 2. Links
 

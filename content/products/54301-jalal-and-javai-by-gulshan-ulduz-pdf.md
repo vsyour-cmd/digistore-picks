@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Little tales for kind hearts. Written for all ages.</strong></p>
-<p><strong>Promote "Jalal and Javai" — an elegant forest fable for thoughtful readers of all ages.</strong> This beautifully illustrated ebook tells the story of a young queen bee leading her hive back to freedom in the wild, where she discovers love, leadership, and loss. It's a powerful metaphor for personal growth and ecological balance.</p>
-<p>Buyers will also receive a charming bonus fable, <em>Speck the Chick</em>, which appeals to children and adults alike.</p>
-<p><strong>Perfect for:</strong></p>
-<p> – Nature &amp; animal story lovers</p>
-<p> – Teachers, parents, &amp; home educators</p>
-<p> – Fans of parables and allegorical fiction</p>
-<p>All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 <strong>Advertising Media Area</strong> for this product.</p>
+**Vendor's marketplace description:** Little tales for kind hearts. Written for all ages. Promote "Jalal and Javai" — an elegant forest fable for thoughtful readers of all ages. This beautifully illustrated ebook tells the story of a young queen bee leading her hive back to freedom in the wild, where she discovers love, leadership, and loss. It's a powerful metaphor for personal growth and ecological balance. Buyers will also receive a charming bonus fable, Speck the Chick , which appeals to children and adults alike. Perfect for: – Nature & animal story lovers – Teachers, parents, & home educators – Fans of parables and allegorical fiction All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 Advertising Media Area for this product.
 
 ## 2. Links
 

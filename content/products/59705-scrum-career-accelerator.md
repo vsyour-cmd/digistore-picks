@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li>Scrum Career Accelerator is a digital bundle of 27 self-paced video courses on Scrum, Agile, and career skills, delivered on Thinkific for a one-time price of $47!</li>
-</ul>
-<p>It includes 12 Scrum and Agile courses (among them a 29-hour Masterclass and a full PSM I exam walkthrough), 2 bonus Scrum courses, and 13 career, marketing, and consulting courses.</p>
-<p>The creator is Dejan Majkic, an IT leader with 20+ years of experience, 70+ Scrum certifications, and 140,000+ students.</p>
-<p><strong>Why promote it:</strong></p>
-<ul>
-<li><strong>50% commission</strong> on every sale.</li>
-<li><strong>Low-friction price.</strong> At $47 for 27 courses, it's an easy yes for a buyer.</li>
-<li><strong>Three audiences in one offer:</strong> career changers, professionals whose company adopted Agile, and working Scrum Masters and Product Owners. That fits career, IT, project management, and self-improvement audiences.</li>
-<li><strong>Proven demand.</strong> 14,000+ students in this bundle.</li>
-<li><strong>60-day refund</strong> lowers buyer hesitation.</li>
-<li><strong>A sales page built to comply.</strong> Claims are honest, and the offer is clearly described, so you aren't sending traffic to hype.</li>
-</ul>
+**Vendor's marketplace description:** Scrum Career Accelerator is a digital bundle of 27 self-paced video courses on Scrum, Agile, and career skills, delivered on Thinkific for a one-time price of $47! It includes 12 Scrum and Agile courses (among them a 29-hour Masterclass and a full PSM I exam walkthrough), 2 bonus Scrum courses, and 13 career, marketing, and consulting courses. The creator is Dejan Majkic, an IT leader with 20+ years of experience, 70+ Scrum certifications, and 140,000+ students. Why promote it: 50% commission on every sale. Low-friction price. At $47 for 27 courses, it's an easy yes for a buyer. Three audiences in one offer: career changers, professionals whose company adopted Agile, and working Scrum Masters and Product Owners. That fits career, IT, project management, and self-improvement audiences. Proven demand. 14,000+ students in this bundle. 60-day refund lowers buyer hesitation. A sales page built to comply. Claims are honest, and the offer is clearly described, so you aren't sending traffic to hype.
 
 ## 2. Links
 

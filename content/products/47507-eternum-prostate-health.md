@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Brand-New Prostate Solution Already Going for #1 Hottest Offer</strong><br />Amazing conversion on <strong>Native, Facebook, Instagram, Email, Youtube, Whatsapp</strong>.</p>
-<p>Top-selling supplement at Eternum Brands.<br />This supplement is designed to improve prostate health and sexual function in men over 40. Promote Eternum Prostate Health to general men's health traffic as well as "male enhancement" or "male performance" traffic.</p>
-<p><br /><strong>In the link below you will find:<br />1. We provide creative templates for Facebook and Instagram campaigns.<br />2. We provide the website in json format for your own website structure (english and portugues brazilian version).</strong></p>
-<p><strong>Drive: <a href="https://www.dropbox.com/scl/fo/uy9lx98m3b0rnhvgehwj3/h?rlkey=tpsausxs2x47jg6wcrf3d4gvd&amp;dl=0">https://www.dropbox.com/scl/fo/uy9lx98m3b0rnhvgehwj3/h?rlkey=tpsausxs2x47jg6wcrf3d4gvd&amp;dl=0</a></strong></p>
-<p><span style="color:#ffffff;background-color:#ff0000;"><strong>We are updating the link above on a weekly.</strong></span></p>
+**Vendor's marketplace description:** Brand-New Prostate Solution Already Going for #1 Hottest Offer Amazing conversion on Native, Facebook, Instagram, Email, Youtube, Whatsapp . Top-selling supplement at Eternum Brands. This supplement is designed to improve prostate health and sexual function in men over 40. Promote Eternum Prostate Health to general men's health traffic as well as "male enhancement" or "male performance" traffic. In the link below you will find: 1. We provide creative templates for Facebook and Instagram campaigns. 2. We provide the website in json format for your own website structure (english and portugues brazilian version). Drive: https://www.dropbox.com/scl/fo/uy9lx98m3b0rnhvgehwj3/h?rlkey=tpsausxs2x47jg6wcrf3d4gvd&dl=0 We are updating the link above on a weekly.
 
 ## 2. Links
 

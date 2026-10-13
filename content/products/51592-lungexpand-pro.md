@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Unique African Lung “Mist” Is Addressing Chronic Coughing In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.</p>
+**Vendor's marketplace description:** This Unique African Lung “Mist” Is Addressing Chronic Coughing In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.
 
 ## 2. Links
 

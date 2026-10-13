@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<p><strong>The Heart Journey</strong></p>
-<p>Guided meditation and perception exercise: The Heart Journey is a body and consciousness journey for deep relaxation and intense body awareness. Experience silence, feel yourself and your body, and enter your original force field, your physical heart!</p>
-<p> </p>
-</div>
-</div>
-<div>
-<p><strong>Your advantages as an affiliate:</strong></p>
-<p>25% commission for every sale made<br />Promote peace, relaxation, and well-being!</p>
-<p>Support people in feeling relaxed, finding peace, and regaining their strength!</p>
-</div>
+**Vendor's marketplace description:** The Heart Journey Guided meditation and perception exercise: The Heart Journey is a body and consciousness journey for deep relaxation and intense body awareness. Experience silence, feel yourself and your body, and enter your original force field, your physical heart! Your advantages as an affiliate: 25% commission for every sale made Promote peace, relaxation, and well-being! Support people in feeling relaxed, finding peace, and regaining their strength!
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>iDrotherapy has paid out over $75m in affiliate commissions and is excited to exceed those numbers with DigiStore!</p>
-<p style="text-align:center;"><strong><span style="color:#ff0000;">*EARN COMMISSIONS ON MONTHLY REBILLS*</span></strong></p>
-<p>We will provide you with the best support, assets, and platforms to ensure bigger payouts and better conversions.</p>
-<p>We wholeheartedly believe that your success is our success and we are willing to do whatever it takes to see you succeed.</p>
-<p>We will help provide you with presell/advertorial pages, ads, ugc, product images, VSLs and ensure you’re rocking the best toolkit in the space.</p>
-<p>We can't wait to work with you, so you can see the iDrotherapy difference and elevate your earning experience with us.</p>
-<p>Our robust multi brand multi sku set up ensure more upsells than anyone on the planet – meaning your make more money because our average order value is higher than the rest</p>
+**Vendor's marketplace description:** iDrotherapy has paid out over $75m in affiliate commissions and is excited to exceed those numbers with DigiStore! *EARN COMMISSIONS ON MONTHLY REBILLS* We will provide you with the best support, assets, and platforms to ensure bigger payouts and better conversions. We wholeheartedly believe that your success is our success and we are willing to do whatever it takes to see you succeed. We will help provide you with presell/advertorial pages, ads, ugc, product images, VSLs and ensure you’re rocking the best toolkit in the space. We can't wait to work with you, so you can see the iDrotherapy difference and elevate your earning experience with us. Our robust multi brand multi sku set up ensure more upsells than anyone on the planet – meaning your make more money because our average order value is higher than the rest
 
 ## 2. Links
 

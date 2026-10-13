@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>You’re in exactly the right place if you want to improve your German for classical singing.</strong></p>
-<p>There’s simply no better way to harmoniously combine the beauty of the German language with classical vocal artistry than with the <em>German Diction Master Program</em>.</p>
-<p>Robert Sawilla isn’t just a native German speaker—he brings together a rich blend of stage experience in operetta, oratorio, and art song, over 25 years as a vocal coach and voice therapist, and a deep well of linguistic and functional-anatomical expertise. In short: when it comes to German diction, Robert is the real deal.</p>
-<p>This course offers a goldmine of content and practice videos, all presented in clear, simple English. It’s didactically well-crafted, extremely practical, and designed to make sure what you learn sticks—and sings!</p>
-<p>And here's the real treat: purchasing this course is the <em>only</em> way to be coached by Robert personally via Zoom, in one-on-one sessions tailored to the highest professional level.</p>
-<p>So, what are you waiting for?<br /><strong>Join now and take your singing to the next level.</strong><br />This course comes highly recommended by singers and coaches alike!</p>
+**Vendor's marketplace description:** You’re in exactly the right place if you want to improve your German for classical singing. There’s simply no better way to harmoniously combine the beauty of the German language with classical vocal artistry than with the German Diction Master Program . Robert Sawilla isn’t just a native German speaker—he brings together a rich blend of stage experience in operetta, oratorio, and art song, over 25 years as a vocal coach and voice therapist, and a deep well of linguistic and functional-anatomical expertise. In short: when it comes to German diction, Robert is the real deal. This course offers a goldmine of content and practice videos, all presented in clear, simple English. It’s didactically well-crafted, extremely practical, and designed to make sure what you learn sticks—and sings! And here's the real treat: purchasing this course is the only way to be coached by Robert personally via Zoom, in one-on-one sessions tailored to the highest professional level. So, what are you waiting for? Join now and take your singing to the next level. This course comes highly recommended by singers and coaches alike!
 
 ## 2. Links
 

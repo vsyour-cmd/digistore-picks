@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>2024 Brand New Wealth Genie Offer, Lady Fortuna grants wealth wishes. Generating $120++ Sale Plus EXCLUDING rebills that last FOREVER!!</p>
-<p><strong>75% Frontend and 50% Upsells</strong></p>
-<p><strong>Your wish for more SALES have been answered! EPC skyrocketing!!</strong></p>
+**Vendor's marketplace description:** 2024 Brand New Wealth Genie Offer, Lady Fortuna grants wealth wishes. Generating $120++ Sale Plus EXCLUDING rebills that last FOREVER!! 75% Frontend and 50% Upsells Your wish for more SALES have been answered! EPC skyrocketing!!
 
 ## 2. Links
 

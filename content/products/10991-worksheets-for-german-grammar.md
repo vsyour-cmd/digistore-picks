@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>German Grammar Work Sheets(PDF-Download)</p>
-<p>for German as a Foreign Language, Level A1</p>
-<p>1) Main Folder with 180 Worksheets (PDF)</p>
-<p>2) Instructions for Creative Exercises (PDF)</p>
-<p>3) 28 Worksheets for Specials Contexts (PDF)</p>
-<p>4) Answers for ALL Exercises (PDF)</p>
-<p>5) Template for Creating your own Exercises (Word und Open Office)</p>
-<p>7)<strong> 60-Days-Money-Back-Guranty</strong></p>
+**Vendor's marketplace description:** German Grammar Work Sheets(PDF-Download) for German as a Foreign Language, Level A1 1) Main Folder with 180 Worksheets (PDF) 2) Instructions for Creative Exercises (PDF) 3) 28 Worksheets for Specials Contexts (PDF) 4) Answers for ALL Exercises (PDF) 5) Template for Creating your own Exercises (Word und Open Office) 7) 60-Days-Money-Back-Guranty
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>HGH Activator is a highly successful natural health offer with over $5 million dollars in sales.</strong></p>
-<p>It has extremely low refunds at under 3% and under 1% in chargebacks.</p>
-<p><span style="text-decoration:underline;color:#ff0000;">Many affiliates see CPC earnings over $2 CPC.</span></p>
-<p>The product comes with a guarantee of 180 days and a customer support staff to answer and consumer questions that can be reached by phone or email.</p>
+**Vendor's marketplace description:** HGH Activator is a highly successful natural health offer with over $5 million dollars in sales. It has extremely low refunds at under 3% and under 1% in chargebacks. Many affiliates see CPC earnings over $2 CPC. The product comes with a guarantee of 180 days and a customer support staff to answer and consumer questions that can be reached by phone or email.
 
 ## 2. Links
 

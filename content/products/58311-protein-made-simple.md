@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Protein Made Simple: Build Muscle Without the Confusion is a 39-page beginner-friendly guide designed to simplify one of the most popular topics in fitness nutrition.</p>
-<p>The eBook explains what protein is, its role in the body, individual protein requirements, common food sources, plant versus animal protein, timing, convenient shakes, budget-friendly protein choices, recovery and common protein mistakes.</p>
-<p>Ideal target audiences include: gym beginners, recreational athletes, active adults, people beginning strength training and consumers interested in fitness nutrition without complicated terminology.</p>
-<p>Strong promotional angles: protein for beginners, how protein works, protein-rich foods, affordable protein, plant vs. animal protein, workout recovery and common protein mistakes.</p>
-<p>This is particularly suitable for affiliates operating in the fitness, gym, strength-training, healthy-lifestyle and sports-nutrition niches, while remaining accessible enough for audiences without advanced nutrition knowledge.</p>
+**Vendor's marketplace description:** Protein Made Simple: Build Muscle Without the Confusion is a 39-page beginner-friendly guide designed to simplify one of the most popular topics in fitness nutrition. The eBook explains what protein is, its role in the body, individual protein requirements, common food sources, plant versus animal protein, timing, convenient shakes, budget-friendly protein choices, recovery and common protein mistakes. Ideal target audiences include: gym beginners, recreational athletes, active adults, people beginning strength training and consumers interested in fitness nutrition without complicated terminology. Strong promotional angles: protein for beginners, how protein works, protein-rich foods, affordable protein, plant vs. animal protein, workout recovery and common protein mistakes. This is particularly suitable for affiliates operating in the fitness, gym, strength-training, healthy-lifestyle and sports-nutrition niches, while remaining accessible enough for audiences without advanced nutrition knowledge.
 
 ## 2. Links
 

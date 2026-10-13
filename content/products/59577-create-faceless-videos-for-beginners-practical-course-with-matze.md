@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Create Faceless Videos for Beginners – Practical Course with Matze</p>
-<p>Plan, produce and review short videos without appearing on camera. This English self-paced course guides you from an initial idea to one publish-ready short video and a repeatable workflow. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. One useful question<br />2. Storyboard the task<br />3. Check every asset<br />4. Edit for clarity<br />5. Caption, disclosure and destination<br />6. Review and improve</p>
-<p>Who is it for? Beginners who want to make useful short videos without appearing on camera.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** Create Faceless Videos for Beginners – Practical Course with Matze Plan, produce and review short videos without appearing on camera. This English self-paced course guides you from an initial idea to one publish-ready short video and a repeatable workflow. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. One useful question 2. Storyboard the task 3. Check every asset 4. Edit for clarity 5. Caption, disclosure and destination 6. Review and improve Who is it for? Beginners who want to make useful short videos without appearing on camera. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

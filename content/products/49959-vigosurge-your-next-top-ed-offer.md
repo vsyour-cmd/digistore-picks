@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unique <strong>Men’s Performance &amp; Intimate Wellness Solution</strong> supporting confidence and healthy sexual performance.</p>
-<p><strong>Apply NOW for massive payouts!</strong></p>
+**Vendor's marketplace description:** Unique Men’s Performance & Intimate Wellness Solution supporting confidence and healthy sexual performance. Apply NOW for massive payouts!
 
 ## 2. Links
 

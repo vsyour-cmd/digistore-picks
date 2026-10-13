@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The book <strong>PAIN</strong> is a concise and powerful reflection and healing journey on the psychological and emotional weight that life often brings. This ebook speaks to anyone navigating hardship, emotional or mental trauma, Internal battles, or confusion about purposes. It offers absolute clarity, perspective, and gentle guidance towards healing and personal strength. With relatable thoughts and subtle truths. The book <strong>PAIN </strong>helps any victim of its title, confront the realities of struggle and how to rise above it!</p>
+**Vendor's marketplace description:** The book PAIN is a concise and powerful reflection and healing journey on the psychological and emotional weight that life often brings. This ebook speaks to anyone navigating hardship, emotional or mental trauma, Internal battles, or confusion about purposes. It offers absolute clarity, perspective, and gentle guidance towards healing and personal strength. With relatable thoughts and subtle truths. The book PAIN helps any victim of its title, confront the realities of struggle and how to rise above it!
 
 ## 2. Links
 

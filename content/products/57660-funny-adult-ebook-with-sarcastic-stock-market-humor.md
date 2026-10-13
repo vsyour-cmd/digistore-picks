@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#000000;">Rantings of what was once a perfectly functioning mind. Before stocks that is.</span></p>
-<p> </p>
-<h4>A brutally honest meltdown disguised as an eBook.</h4>
-<p> </p>
-<p>Buy The Damn Stocks isn’t here to help you invest — it’s here to make you laugh about why you shouldn’t have. From dip disasters and panic snacks to Wall Street WTFs, this parody is the perfect gift for stressed-out traders, finance bros, and anyone who trusted a chart that looked like a dinosaur.</p>
-<p> </p>
-<p><span style="color:#000000;">  • 80+ pages of <strong>sarcastic</strong> market wisdom</span><br /><span style="color:#000000;">  • Wildly unhelpful advice and emotional support</span><br /><span style="color:#000000;">  • Full-color illustrations of financial chaos</span></p>
-<p> </p>
-<p>Perfect for gifting to your financially confused friend, burned-out coworker, or yourself… because you did buy the dip, and yeah, it dipped harder.</p>
+**Vendor's marketplace description:** Rantings of what was once a perfectly functioning mind. Before stocks that is. A brutally honest meltdown disguised as an eBook. Buy The Damn Stocks isn’t here to help you invest — it’s here to make you laugh about why you shouldn’t have. From dip disasters and panic snacks to Wall Street WTFs, this parody is the perfect gift for stressed-out traders, finance bros, and anyone who trusted a chart that looked like a dinosaur. • 80+ pages of sarcastic market wisdom • Wildly unhelpful advice and emotional support • Full-color illustrations of financial chaos Perfect for gifting to your financially confused friend, burned-out coworker, or yourself… because you did buy the dip, and yeah, it dipped harder.
 
 ## 2. Links
 

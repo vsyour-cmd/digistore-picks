@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>High Converting Green Energy Product EPC $2.5!</p>
-<p>This Is The Winning Offer You Were Looking For With Huge EPC!</p>
-<p>It Works On Energy/solar, Home/garden/woodworking And Prepper/survival Lists As Well.</p>
-<p>Great Results On Native/Facebook Traffic!</p>
-<p>Contact Us For Paybump!</p>
+**Vendor's marketplace description:** High Converting Green Energy Product EPC $2.5! This Is The Winning Offer You Were Looking For With Huge EPC! It Works On Energy/solar, Home/garden/woodworking And Prepper/survival Lists As Well. Great Results On Native/Facebook Traffic! Contact Us For Paybump!
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unlock your full potential as</p>
-<p><strong>a freelancer with the Freelancer Productivity Action Kit!</strong> This all-in-one toolkit is designed to help you:</p>
-<p>• Organize tasks efficiently</p>
-<p>• Manage your time effectively</p>
-<p>• Boost productivity and achieve more Whether you’re starting your freelance career or looking to streamline your workflow, this kit provides practical templates, planning tools, and proven strategies to help you work smarter, stay on top of your projects, and maximize results.</p>
-<p>Start working smarter today and take your freelance career to the next level! Get your kit now:</p>
-<p><strong>[Insert Link Here]</strong></p>
+**Vendor's marketplace description:** Unlock your full potential as a freelancer with the Freelancer Productivity Action Kit! This all-in-one toolkit is designed to help you: • Organize tasks efficiently • Manage your time effectively • Boost productivity and achieve more Whether you’re starting your freelance career or looking to streamline your workflow, this kit provides practical templates, planning tools, and proven strategies to help you work smarter, stay on top of your projects, and maximize results. Start working smarter today and take your freelance career to the next level! Get your kit now: [Insert Link Here]
 
 ## 2. Links
 

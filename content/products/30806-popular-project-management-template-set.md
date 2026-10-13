@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A Project Management Template set for students and experienced project managers from a certified Project Management Professional (PMP)<sup>®</sup>.</p>
-<p>Very comprehensive, good conversions, and happy users.</p>
+**Vendor's marketplace description:** A Project Management Template set for students and experienced project managers from a certified Project Management Professional (PMP) ® . Very comprehensive, good conversions, and happy users.
 
 ## 2. Links
 

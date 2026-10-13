@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote Top T and earn 60% commission on the entire funnel. This high-converting testosterone optimizer is designed for men 30–55 who feel like they've lost their edge. With a powerful VSL, proven ingredients, and a desperate market hungry for natural T-boosters, Top T is delivering $50–$70 per sale with low refunds and strong rebills.</p>
-<p>Affiliates get full access to ad creatives, emails, angles, and funnels built for Meta, Google, native, and email. Great for supplement buyers, biohackers, ex-athletes, and performance-driven men. Easy plug-and-play promo.</p>
+**Vendor's marketplace description:** Promote Top T and earn 60% commission on the entire funnel. This high-converting testosterone optimizer is designed for men 30–55 who feel like they've lost their edge. With a powerful VSL, proven ingredients, and a desperate market hungry for natural T-boosters, Top T is delivering $50–$70 per sale with low refunds and strong rebills. Affiliates get full access to ad creatives, emails, angles, and funnels built for Meta, Google, native, and email. Great for supplement buyers, biohackers, ex-athletes, and performance-driven men. Easy plug-and-play promo.
 
 ## 2. Links
 

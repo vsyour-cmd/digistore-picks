@@ -41,25 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This study booklet presents a surprising yet textually well‑founded perspective: <strong>Not Muhammad, but <span style="background-color:#ccffcc;">Abraham/<em>Ibrahim</em></span> is the actual <span style="background-color:#ffcc99;">central and formative key figure</span> of Islam.</strong></p>
-<p>The brochure explains clearly and precisely:</p>
-<ul>
-<li>why Islam defines itself through Abraham,</li>
-<li>how <em>Eid al‑Adha</em>, “submission = Islam,”</li>
-<li>and the <em>Hajj</em> directly trace back to the biblical Abraham narrative,</li>
-<li>how the structural connection between the <em>Qur’an</em> and the Bible works,</li>
-<li>why this insight fundamentally changes the overall picture of Islam,</li>
-<li>which spiritual line runs from Abraham into Islam  </li>
-</ul>
-<p>A key difference that many Western readers hardly know: Islam does <strong>not separate state and religion</strong>, understands the individual as part of the <em><strong>Ummah</strong> </em>(the body of alle believers together), and forms a comprehensive societal system that goes far beyond a purely private belief.</p>
-<p>This booklet is intended for <strong>all people</strong> who want to understand the <strong>central core of Islam</strong> – <strong>regardless of religion, origin, level of education, or social role</strong>; whether <em>Muslim</em> or non‑<em>Muslim</em>, Christian, Jew, or agnostic; academically trained or without formal degrees; politically active or everyday citizens; of any ethnic background and speaking any language. <strong> </strong></p>
-<p><strong>Ideal for:</strong></p>
-<ul style="list-style-type:circle;">
-<li>Christians who want to understand Islam from a biblical perspective,</li>
-<li>people who want to grasp Abraham’s role within Islam,</li>
-<li>Bible readers who wish to recognize the connection between <em>Qur’an</em> and</li>
-<li>Bible teachers, home groups, and study circles anyone looking for a compact, well‑founded, and readable booklet</li>
-</ul>
+**Vendor's marketplace description:** This study booklet presents a surprising yet textually well‑founded perspective: Not Muhammad, but Abraham/ Ibrahim is the actual central and formative key figure of Islam. The brochure explains clearly and precisely: why Islam defines itself through Abraham, how Eid al‑Adha , “submission = Islam,” and the Hajj directly trace back to the biblical Abraham narrative, how the structural connection between the Qur’an and the Bible works, why this insight fundamentally changes the overall picture of Islam, which spiritual line runs from Abraham into Islam A key difference that many Western readers hardly know: Islam does not separate state and religion , understands the individual as part of the Ummah (the body of alle believers together), and forms a comprehensive societal system that goes far beyond a purely private belief. This booklet is intended for all people who want to understand the central core of Islam – regardless of religion, origin, level of education, or social role ; whether Muslim or non‑ Muslim , Christian, Jew, or agnostic; academically trained or without formal degrees; politically active or everyday citizens; of any ethnic background and speaking any language. Ideal for: Christians who want to understand Islam from a biblical perspective, people who want to grasp Abraham’s role within Islam, Bible readers who wish to recognize the connection between Qur’an and Bible teachers, home groups, and study circles anyone looking for a compact, well‑founded, and readable booklet
 
 ## 2. Links
 

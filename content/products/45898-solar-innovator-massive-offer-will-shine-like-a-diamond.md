@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Stellar Green Energy Offer Is Crushing It.</p>
-<p>Just Launched And EPCs Are Already Up To $3!</p>
-<p>Unique Product, Cinematic VSL &amp; Legendary 100% Upsell Funnel = The Perfect Recipe For A REAL CONVERSION BEAST that <strong>KILLS on Warm, Cold, Native And More</strong>.</p>
-<p>+90% Revshare Available!</p>
+**Vendor's marketplace description:** Stellar Green Energy Offer Is Crushing It. Just Launched And EPCs Are Already Up To $3! Unique Product, Cinematic VSL & Legendary 100% Upsell Funnel = The Perfect Recipe For A REAL CONVERSION BEAST that KILLS on Warm, Cold, Native And More . +90% Revshare Available!
 
 ## 2. Links
 

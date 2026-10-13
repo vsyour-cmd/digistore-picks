@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>• Compliant! </p>
-<p>• 75% commission for initial product sales; 75% commission for digital upsells sales, and 40% commission for physical upsell sales</p>
-<p>• Performs well in most niches: health, survival, remedies, etc.</p>
-<p>• Put it to test!</p>
-<p>If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com.</p>
-<p>Promocode Link: <a href="https://www.foragersguide.com/nws-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.foragersguide.com/nws-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY</a></p>
-<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
-<p>For support please visit our page <a href="https://foragersguide.com/affiliates/" target="_blank" rel="noreferrer noopener">https://foragersguide.com/affiliates/ </a>or email affiliates.gbs@gmail.com.</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** • Compliant! • 75% commission for initial product sales; 75% commission for digital upsells sales, and 40% commission for physical upsell sales • Performs well in most niches: health, survival, remedies, etc. • Put it to test! If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com. Promocode Link: https://www.foragersguide.com/nws-book/?aff=AFFILIATE&cam=CAMPAIGNKEY Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page https://foragersguide.com/affiliates/ or email affiliates.gbs@gmail.com.
 
 ## 2. Links
 

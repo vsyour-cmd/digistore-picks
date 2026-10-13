@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A supportive digital guide focused on understanding and navigating relationship-related anxiety.</p>
-<p>This product covers:</p>
-<ul>
-<li>Common patterns such as overanalyzing and reassurance-seeking</li>
-<li>Emotional triggers within relationships</li>
-<li>Ways to respond more calmly and intentionally</li>
-</ul>
-<p>Designed for audiences who experience internal unease even in stable relationships.</p>
-<p><strong>Delivery includes:</strong></p>
-<ul>
-<li>Full PDF guide</li>
-<li>Visual infographics (PNGs)</li>
-<li>Audio version for easy access</li>
-</ul>
-<p>Delivered as a downloadable digital product.</p>
+**Vendor's marketplace description:** A supportive digital guide focused on understanding and navigating relationship-related anxiety. This product covers: Common patterns such as overanalyzing and reassurance-seeking Emotional triggers within relationships Ways to respond more calmly and intentionally Designed for audiences who experience internal unease even in stable relationships. Delivery includes: Full PDF guide Visual infographics (PNGs) Audio version for easy access Delivered as a downloadable digital product.
 
 ## 2. Links
 

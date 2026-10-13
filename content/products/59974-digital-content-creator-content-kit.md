@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>✅ Total: 200+ Content Assets<br />✅ All-in-One-Product – everything you need to create better Instagram content.<br /><br /><strong>Content:</strong><br />100x Instagram Hook Pack<br />30x Reel Cover Pack<br />15x Instagram Post Templates<br />10x Carousel Templates<br />15x Story Templates<br />30x Caption Templates<br />30x CTA Pack<br />50x Content Ideas<br />Mini Brand Kit<br />Creator Quick Guide</p>
+**Vendor's marketplace description:** ✅ Total: 200+ Content Assets ✅ All-in-One-Product – everything you need to create better Instagram content. Content: 100x Instagram Hook Pack 30x Reel Cover Pack 15x Instagram Post Templates 10x Carousel Templates 15x Story Templates 30x Caption Templates 30x CTA Pack 50x Content Ideas Mini Brand Kit Creator Quick Guide
 
 ## 2. Links
 

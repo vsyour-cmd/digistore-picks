@@ -41,37 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong> 100 Million+ PLR Products Mega Bundle </strong></p>
-<p style="text-align:center;"><strong> Limited Time Offer:</strong></p>
-<p><em>Your Instant Digital Empire Starter Kit!</em></p>
-<p>Get access to over <strong>100 MILLION done‑for‑you digital products </strong>— beautifully packaged, editable, and ready to sell anywhere you like!</p>
-<ul>
-<li> <strong>Includes PLR + MRR Rights</strong></li>
-<li><strong> Keep 100% Of The Profits</strong></li>
-<li><strong> Rebrand, Resell &amp; Build Your Brand Instantly</strong></li>
-</ul>
-<p><strong> What’s Inside:</strong></p>
-<ul>
-<li>Ebooks </li>
-<li>Courses </li>
-<li>Templates </li>
-<li>Graphics &amp; Printables </li>
-<li>Business Tools </li>
-</ul>
-<p>Everything’s completely yours — edit, customize, and start selling RIGHT NOW!</p>
-<p><strong>Sell On Any Platform You Love:</strong></p>
-<p>Use your products across<strong> Etsy, Digistore24, Amazon KDP, your own website, Shopify, Gumroad, or any online platform you wish!</strong></p>
-<p>Perfect for building multiple income streams — one bundle, endless possibilities! </p>
-<p><strong> Why You’ll Love It:</strong></p>
-<ul>
-<li><strong>✔ 100% Done‑For‑You</strong></li>
-<li><strong>✔ No experience needed</strong></li>
-<li><strong>✔ Instant digital download</strong></li>
-<li><strong>✔ Full commercial rights included</strong></li>
-</ul>
-<p><strong> </strong></p>
-<p><strong>Turn your passion into profit today! </strong></p>
-<p><strong>Start your own digital empire and earn while you sleep </strong></p>
+**Vendor's marketplace description:** 100 Million+ PLR Products Mega Bundle Limited Time Offer: Your Instant Digital Empire Starter Kit! Get access to over 100 MILLION done‑for‑you digital products — beautifully packaged, editable, and ready to sell anywhere you like! Includes PLR + MRR Rights Keep 100% Of The Profits Rebrand, Resell & Build Your Brand Instantly What’s Inside: Ebooks Courses Templates Graphics & Printables Business Tools Everything’s completely yours — edit, customize, and start selling RIGHT NOW! Sell On Any Platform You Love: Use your products across Etsy, Digistore24, Amazon KDP, your own website, Shopify, Gumroad, or any online platform you wish! Perfect for building multiple income streams — one bundle, endless possibilities! Why You’ll Love It: ✔ 100% Done‑For‑You ✔ No experience needed ✔ Instant digital download ✔ Full commercial rights included Turn your passion into profit today! Start your own digital empire and earn while you sleep
 
 ## 2. Links
 

@@ -41,44 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h3><strong>Why should you promote this online course? </strong></h3>
-<p>-Professional Sales Site!</p>
-<p>-We run remarketing ads (retargeting).</p>
-<p>-Other Courses for sale you also get provision!</p>
-<p>-Copy everything form my website <a>www.guitarschool24.com</a> when promoting</p>
-<h3>5-Week-Guitar-Course with Yaroslava Ihnatenko</h3>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p>Yaroslava shares her daily progress on the guitar with more than 70,000 instagram followers. In this course she teaches the right technique to master this pieces. Your step by step guide to the perfect guitar technique!</p>
-</div>
-</div>
-</div>
-<h2>Contents</h2>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Type: 5-week Online Course (+course manual as PDF. download)</li>
-<li>Level: Beginner to Advanced</li>
-<li>Compatible with: Smartphone, Tablet, PC, Mac</li>
-<li>Format: Full HD .mp4</li>
-<li>Member area available immediately</li>
-<li>One-off payment – no monthly costs!</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Why should you promote this online course? -Professional Sales Site! -We run remarketing ads (retargeting). -Other Courses for sale you also get provision! -Copy everything form my website www.guitarschool24.com when promoting 5-Week-Guitar-Course with Yaroslava Ihnatenko Yaroslava shares her daily progress on the guitar with more than 70,000 instagram followers. In this course she teaches the right technique to master this pieces. Your step by step guide to the perfect guitar technique! Contents Type: 5-week Online Course (+course manual as PDF. download) Level: Beginner to Advanced Compatible with: Smartphone, Tablet, PC, Mac Format: Full HD .mp4 Member area available immediately One-off payment – no monthly costs!
 
 ## 2. Links
 

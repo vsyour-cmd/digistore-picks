@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <ul>
-<li><strong>Product:</strong> Sleep Architecture — The No-Pill Guide to Perfect Sleep</li>
-<li><strong>Format:</strong> Digital sleep improvement guide</li>
-<li><strong>Focus:</strong> Better sleep habits, nighttime routines, and natural sleep optimization</li>
-<li><strong>Target Audience:</strong> Adults looking to improve sleep quality and build healthier sleep routines</li>
-<li><strong>Price:</strong> $17</li>
-<li><strong>Affiliate Commission:</strong> 65% per qualifying sale</li>
-<li><strong>Affiliate Benefits:</strong> High commission, digital delivery, ready-to-use promotional materials, and international market potential</li>
-<li><strong>Promotional Support:</strong> Email swipes, graphics, promotional copy, and ready-to-use marketing assets</li>
-<li><strong>Tracking:</strong> Digistore24 affiliate tracking with cross-device attribution</li>
-</ul>
+**Vendor's marketplace description:** Product: Sleep Architecture — The No-Pill Guide to Perfect Sleep Format: Digital sleep improvement guide Focus: Better sleep habits, nighttime routines, and natural sleep optimization Target Audience: Adults looking to improve sleep quality and build healthier sleep routines Price: $17 Affiliate Commission: 65% per qualifying sale Affiliate Benefits: High commission, digital delivery, ready-to-use promotional materials, and international market potential Promotional Support: Email swipes, graphics, promotional copy, and ready-to-use marketing assets Tracking: Digistore24 affiliate tracking with cross-device attribution
 
 ## 2. Links
 

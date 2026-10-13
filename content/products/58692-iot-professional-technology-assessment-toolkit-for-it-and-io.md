@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Give IT consultants, IoT specialists, MSPs, low-voltage contractors and system integrators a structured way to assess sites, plan projects, prepare quotations and document professional inspections.</p>
-<p>The IoT Professional Technology Assessment Toolkit™ includes four practical digital tools:</p>
-<p>• IT Site Assessment and Quotation Pro™<br />• Structured Cabling Survey, Planning and Quotation Pro™<br />• Smart Building Assessment, Planning and Quotation Pro™<br />• Professional Preventive Maintenance Inspection Pro™</p>
-<p>Ideal for professionals working with IT infrastructure, structured cabling, smart buildings, IoT systems and technical maintenance.</p>
-<p>The toolkit helps organize assessment, planning, quotation and inspection workflows while supporting more consistent professional documentation without promising specific financial or business outcomes.</p>
+**Vendor's marketplace description:** Give IT consultants, IoT specialists, MSPs, low-voltage contractors and system integrators a structured way to assess sites, plan projects, prepare quotations and document professional inspections. The IoT Professional Technology Assessment Toolkit™ includes four practical digital tools: • IT Site Assessment and Quotation Pro™ • Structured Cabling Survey, Planning and Quotation Pro™ • Smart Building Assessment, Planning and Quotation Pro™ • Professional Preventive Maintenance Inspection Pro™ Ideal for professionals working with IT infrastructure, structured cabling, smart buildings, IoT systems and technical maintenance. The toolkit helps organize assessment, planning, quotation and inspection workflows while supporting more consistent professional documentation without promising specific financial or business outcomes.
 
 ## 2. Links
 

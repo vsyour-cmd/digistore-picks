@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Lightroom Presets Pack is a professional collection of 42 presets designed to help creators edit photos quickly while maintaining a consistent aesthetic.</p>
-<p>Visual consistency is crucial for platforms like Instagram and social media. These presets allow users to transform their photos into high-quality, professional images with just a few clicks.</p>
-<p>The presets are compatible with Lightroom Desktop and Lightroom Mobile and work with both RAW and JPEG files.</p>
-<p>Affiliates can promote this product to photographers, influencers, travel creators and social media users who want to improve their content quickly.</p>
-<p>Key benefits:</p>
-<p>• 42 professional Lightroom presets<br />• Compatible with desktop and mobile<br />• Creates a consistent Instagram aesthetic<br />• Saves hours of photo editing<br />• Suitable for beginners and professionals<br />• Installation guide included</p>
-<p>Product format: Digital download (preset pack)</p>
+**Vendor's marketplace description:** The Lightroom Presets Pack is a professional collection of 42 presets designed to help creators edit photos quickly while maintaining a consistent aesthetic. Visual consistency is crucial for platforms like Instagram and social media. These presets allow users to transform their photos into high-quality, professional images with just a few clicks. The presets are compatible with Lightroom Desktop and Lightroom Mobile and work with both RAW and JPEG files. Affiliates can promote this product to photographers, influencers, travel creators and social media users who want to improve their content quickly. Key benefits: • 42 professional Lightroom presets • Compatible with desktop and mobile • Creates a consistent Instagram aesthetic • Saves hours of photo editing • Suitable for beginners and professionals • Installation guide included Product format: Digital download (preset pack)
 
 ## 2. Links
 

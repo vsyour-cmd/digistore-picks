@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h5>Fresh VSL, Monster Converter, Ultra Optimized Upsell Funnel. Get Up To 90% Commissions On Front &amp; Back End Sales! New Affiliate Area, Swipes &amp; Tools! Crushes On Fb And Cold Traffic With Insane EPCs on Survival, Green, Home, Garden and more.</h5>
+**Vendor's marketplace description:** Fresh VSL, Monster Converter, Ultra Optimized Upsell Funnel. Get Up To 90% Commissions On Front & Back End Sales! New Affiliate Area, Swipes & Tools! Crushes On Fb And Cold Traffic With Insane EPCs on Survival, Green, Home, Garden and more.
 
 ## 2. Links
 

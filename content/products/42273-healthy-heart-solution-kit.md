@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Put Money In Your Pocket DAILY!</strong></p>
-<p>You'll earn 75% commission on the entire funnel!This is a doctor created and recommended Heart Health Solution Kit that truly was created to help people more. The front end is a digital ebook with supplements being sold in the upell flow. Reach out to Tyler from Barton Publishing with any questions tyler@bartonpublishing.com</p>
+**Vendor's marketplace description:** Put Money In Your Pocket DAILY! You'll earn 75% commission on the entire funnel!This is a doctor created and recommended Heart Health Solution Kit that truly was created to help people more. The front end is a digital ebook with supplements being sold in the upell flow. Reach out to Tyler from Barton Publishing with any questions tyler@bartonpublishing.com
 
 ## 2. Links
 

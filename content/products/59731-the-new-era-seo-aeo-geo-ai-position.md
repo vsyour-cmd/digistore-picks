@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The New Era: SEO, AEO, GEO &amp; AI Position is a comprehensive English-language digital ebook created for readers, creators, bloggers, marketers, SEO professionals, and businesses that want to understand modern search and AI-driven visibility.</p>
-<p>The book covers SEO, AEO, GEO, AI search, search visibility, content strategy, technical concepts, optimization workflows, and practical approaches for adapting to the changing search environment.</p>
-<p>Why promote this product?</p>
-<p>• Digital PDF product with instant delivery through Digistore24 Download Vault<br />• $49.99 one-time purchase<br />• 60-day refund period<br />• English-language product suitable for international audiences<br />• Broad audience across SEO, blogging, digital marketing, content creation and AI search<br />• Professional long-form ebook with extensive educational content<br />• Suitable for YouTube, blogs, social media, email marketing and other content-based promotion channels</p>
-<p>Affiliates can promote the product using their Digistore24 promolink and direct interested audiences to the sales page. Promotional resources can be provided through the affiliate support area.</p>
-<p>Sales page:<br /><a>https://tools.elentechpk.com/seo-ai-search-blueprint/</a></p>
+**Vendor's marketplace description:** The New Era: SEO, AEO, GEO & AI Position is a comprehensive English-language digital ebook created for readers, creators, bloggers, marketers, SEO professionals, and businesses that want to understand modern search and AI-driven visibility. The book covers SEO, AEO, GEO, AI search, search visibility, content strategy, technical concepts, optimization workflows, and practical approaches for adapting to the changing search environment. Why promote this product? • Digital PDF product with instant delivery through Digistore24 Download Vault • $49.99 one-time purchase • 60-day refund period • English-language product suitable for international audiences • Broad audience across SEO, blogging, digital marketing, content creation and AI search • Professional long-form ebook with extensive educational content • Suitable for YouTube, blogs, social media, email marketing and other content-based promotion channels Affiliates can promote the product using their Digistore24 promolink and direct interested audiences to the sales page. Promotional resources can be provided through the affiliate support area. Sales page: https://tools.elentechpk.com/seo-ai-search-blueprint/
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A highly relevant personal development series that taps into one of today’s strongest markets: authenticity, self-discovery, and meaningful life transformation.</p>
-<p>“The Unlived Life Series” helps readers uncover hidden conditioning, break free from limiting expectations, and reconnect with their true identity through a clear, emotionally engaging journey.</p>
-<p>The universal themes of purpose, fulfillment, freedom, and personal growth create broad appeal across multiple audiences, making this an easy and compelling offer to promote.</p>
-<p>With its powerful message and strong emotional resonance, this series offers excellent potential for high engagement and conversions.</p>
+**Vendor's marketplace description:** A highly relevant personal development series that taps into one of today’s strongest markets: authenticity, self-discovery, and meaningful life transformation. “The Unlived Life Series” helps readers uncover hidden conditioning, break free from limiting expectations, and reconnect with their true identity through a clear, emotionally engaging journey. The universal themes of purpose, fulfillment, freedom, and personal growth create broad appeal across multiple audiences, making this an easy and compelling offer to promote. With its powerful message and strong emotional resonance, this series offers excellent potential for high engagement and conversions.
 
 ## 2. Links
 

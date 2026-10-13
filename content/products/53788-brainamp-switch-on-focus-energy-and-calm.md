@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>High-converting nootropic that delivers clean, steady mental energy without jitters.</p>
-<p>Boost focus, memory, stress resilience, and screen-time comfort. Many feel it in ~30 minutes, with smooth performance lasting for hours.</p>
-<p>90-day “Sharper Thinking or It’s Free” guarantee. Competitive pricing with strong AOV and FREE US shipping on bundles.</p>
-<p><br /><strong>Commission:</strong> Up to 60% per sale.</p>
-<p><strong><br />Top traffic:</strong> email, native/display, social, non-branded search.</p>
-<p><br />Get assets, promo angles, and compliance rules in the Affiliate Resource Center: visit the BrainAMP Affiliate Resource Center to download marketing creatives and review promotional guidelines.</p>
+**Vendor's marketplace description:** High-converting nootropic that delivers clean, steady mental energy without jitters. Boost focus, memory, stress resilience, and screen-time comfort. Many feel it in ~30 minutes, with smooth performance lasting for hours. 90-day “Sharper Thinking or It’s Free” guarantee. Competitive pricing with strong AOV and FREE US shipping on bundles. Commission: Up to 60% per sale. Top traffic: email, native/display, social, non-branded search. Get assets, promo angles, and compliance rules in the Affiliate Resource Center: visit the BrainAMP Affiliate Resource Center to download marketing creatives and review promotional guidelines.
 
 ## 2. Links
 

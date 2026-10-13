@@ -41,32 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>High-Converting Home Organization Bundle – Optimized for USA/UK/IRE!</strong></h2>
-<p>Tap into the evergreen Home &amp; Garden niche with a product that delivers fast results. Unlike long courses, <em>The 48-Hour Declutter</em> provides a structured, weekend-based framework that customers love.</p>
-<p><strong>Why promote us?</strong></p>
-<ul>
-<li>
-<p><strong>50% Commission:</strong> Earn high margins on a popular $27 price point.</p>
-</li>
-<li>
-<p><strong>Low Refund Rates:</strong> Backed by a 60-day "no questions asked" guarantee and compliant, realistic marketing.</p>
-</li>
-<li>
-<p><strong>High-Value Assets:</strong> Includes the Master Guide, Printable Action Checklists, and Maintenance Modules.</p>
-</li>
-<li>
-<p><strong>Multicurrency &amp; Global Tracking:</strong> One link works for your traffic in the USA ($), UK (£), and Ireland (€).</p>
-</li>
-<li>
-<p><strong>Affiliate Support:</strong> Professional banners, email swipes, and high-res mockups are ready in our Drive folder.</p>
-</li>
-</ul>
-<p><strong> Pro-Tip for High Conversions: "We use a high-performance All-in-One Checkout Page. This means your traffic lands on a professionally designed sales story that leads directly into the secure payment form. This eliminates an extra click and has been proven to increase conversion rates for $14 impulse buys. Simply use your standard Promo-Link and let the page do the work!"</strong></p>
-<p><strong> Target Audience:</strong> Busy parents, remote workers, minimalists, and anyone looking for a mental and physical "reset."</p>
-<p><strong> Special Launch Contest:</strong> The first affiliate to reach <strong>10 sales</strong> gets an extra <strong>$50 bonus</strong>!</p>
-<p><strong>Join us today and start earning from a high-demand, stress-free offer!</strong></p>
-<pre>Please use the following link:</pre>
-<p><a title="The 48-Hour Declutter" href="https://www.affyro.com/The48-Hour.html" target="_blank" rel="noreferrer noopener">https://www.affyro.com/The48-Hour.html</a></p>
+**Vendor's marketplace description:** High-Converting Home Organization Bundle – Optimized for USA/UK/IRE! Tap into the evergreen Home & Garden niche with a product that delivers fast results. Unlike long courses, The 48-Hour Declutter provides a structured, weekend-based framework that customers love. Why promote us? 50% Commission: Earn high margins on a popular $27 price point. Low Refund Rates: Backed by a 60-day "no questions asked" guarantee and compliant, realistic marketing. High-Value Assets: Includes the Master Guide, Printable Action Checklists, and Maintenance Modules. Multicurrency & Global Tracking: One link works for your traffic in the USA ($), UK (£), and Ireland (€). Affiliate Support: Professional banners, email swipes, and high-res mockups are ready in our Drive folder. Pro-Tip for High Conversions: "We use a high-performance All-in-One Checkout Page. This means your traffic lands on a professionally designed sales story that leads directly into the secure payment form. This eliminates an extra click and has been proven to increase conversion rates for $14 impulse buys. Simply use your standard Promo-Link and let the page do the work!" Target Audience: Busy parents, remote workers, minimalists, and anyone looking for a mental and physical "reset." Special Launch Contest: The first affiliate to reach 10 sales gets an extra $50 bonus ! Join us today and start earning from a high-demand, stress-free offer! Please use the following link: https://www.affyro.com/The48-Hour.html
 
 ## 2. Links
 

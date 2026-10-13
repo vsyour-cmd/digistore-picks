@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Perfect Digital Cookbook for Health-Conscious Families!</strong></p>
-<p><br />Looking to tap into a growing niche of <strong>plant-based parents</strong>? Promote the <strong>Plant-Based for Kids Cookbook</strong> – an easy-to-follow, family-friendly recipe guide with over <strong>100 nutritious vegan meals</strong> tailored just for children!</p>
-<p>This value-packed digital cookbook includes:</p>
-<p><br />✅ Breakfasts, lunches, dinners &amp; snacks<br />✅ Allergy-friendly recipes (soy-free, nut-free, gluten-free options)<br />✅ Simple, fuss-free instructions<br />✅ Beautiful photos and printable PDF format<br />✅ Bonus: Free 1-week kid meal planner + shopping list</p>
-<p> </p>
+**Vendor's marketplace description:** The Perfect Digital Cookbook for Health-Conscious Families! Looking to tap into a growing niche of plant-based parents ? Promote the Plant-Based for Kids Cookbook – an easy-to-follow, family-friendly recipe guide with over 100 nutritious vegan meals tailored just for children! This value-packed digital cookbook includes: ✅ Breakfasts, lunches, dinners & snacks ✅ Allergy-friendly recipes (soy-free, nut-free, gluten-free options) ✅ Simple, fuss-free instructions ✅ Beautiful photos and printable PDF format ✅ Bonus: Free 1-week kid meal planner + shopping list
 
 ## 2. Links
 

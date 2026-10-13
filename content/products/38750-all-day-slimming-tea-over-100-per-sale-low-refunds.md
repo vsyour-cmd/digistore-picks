@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="color:#800080;"><strong>This is one of the best offers in Digistore24 History!</strong></span></p>
-<ul>
-<li>One Of The Best For Revshare - Get 60%+ on the whole funnel</li>
-<li>One Of The Best For Sale Value - $100+</li>
-<li>#1 For Conversions!</li>
-</ul>
-<p><span style="color:#800080;"><em><strong>Your Promo Link:</strong></em></span><br /><em>(replace AFFILIATE with your DS24 aff id)</em></p>
-<p><a href="https://www.digistore24.com/redir/420545/AFFILIATE/CAMPAIGNKEY%20" target="_blank" rel="noreferrer noopener"><span style="color:#3366ff;"><strong>https://www.digistore24.com/redir/420545/AFFILIATE/CAMPAIGNKEY </strong></span></a></p>
-<p><span style="color:#800080;"><strong>Affiliate support:</strong></span><br />email <a href="mailto:support@morningfatmelter.zendesk.com">support@morningfatmelter.zendesk.com</a> </p>
+**Vendor's marketplace description:** This is one of the best offers in Digistore24 History! One Of The Best For Revshare - Get 60%+ on the whole funnel One Of The Best For Sale Value - $100+ #1 For Conversions! Your Promo Link: (replace AFFILIATE with your DS24 aff id) https://www.digistore24.com/redir/420545/AFFILIATE/CAMPAIGNKEY Affiliate support: email support@morningfatmelter.zendesk.com
 
 ## 2. Links
 

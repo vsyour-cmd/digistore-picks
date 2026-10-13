@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>MASTER THE INTERNATIONAL MEN'S <strong>MARKET AND BOOST YOUR PROFITS BY UP TO 5X.</strong></h1>
-<h2>KESKARA WILL MAKE YOUR PORTFOLIO GROW STRONGER.</h2>
-<h3>You can earn up to <strong>$160.00 per sale.</strong></h3>
+**Vendor's marketplace description:** MASTER THE INTERNATIONAL MEN'S MARKET AND BOOST YOUR PROFITS BY UP TO 5X. KESKARA WILL MAKE YOUR PORTFOLIO GROW STRONGER. You can earn up to $160.00 per sale.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The AI Side Hustle Starter Blueprint (125-Page Practical Guide)</strong></p>
-<p> </p>
-<p>Help your audience launch their digital product business using AI! This step-by-step guide walks beginners through 10 simple side hustle paths (digital products, Canva templates, prompt packs, research services) with a complete 30-day action plan.</p>
-<p><strong>Why Promote This Offer?</strong></p>
-<ul>
-<li>
-<p><strong>50% Generous Commission</strong> on every sale</p>
-</li>
-<li>
-<p>High-converting niche (AI &amp; Make Money Online)</p>
-</li>
-<li>
-<p>Includes 50 Bonus Copy-Paste AI Prompts</p>
-</li>
-<li>
-<p>Instant PDF delivery with low refund rates</p>
-</li>
-</ul>
+**Vendor's marketplace description:** The AI Side Hustle Starter Blueprint (125-Page Practical Guide) Help your audience launch their digital product business using AI! This step-by-step guide walks beginners through 10 simple side hustle paths (digital products, Canva templates, prompt packs, research services) with a complete 30-day action plan. Why Promote This Offer? 50% Generous Commission on every sale High-converting niche (AI & Make Money Online) Includes 50 Bonus Copy-Paste AI Prompts Instant PDF delivery with low refund rates
 
 ## 2. Links
 

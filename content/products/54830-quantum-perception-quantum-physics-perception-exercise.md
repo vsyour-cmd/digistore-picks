@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Quantum Perception</strong></p>
-<p>"Quantum Perception" is a kind of guided meditation. A perception exercise and consciousness technique. An original ability that is inherent in you as a human being to bring targeted and very precise movement into a specific topic or situation in your life.</p>
-<p> </p>
-<p><strong>Your advantages as an affiliate:</strong></p>
-<p>25% commission for every sale made<br />Promote peace, relaxation, and well-being!</p>
-<p>Support people in feeling relaxed, finding peace, and regaining their strength!</p>
+**Vendor's marketplace description:** Quantum Perception "Quantum Perception" is a kind of guided meditation. A perception exercise and consciousness technique. An original ability that is inherent in you as a human being to bring targeted and very precise movement into a specific topic or situation in your life. Your advantages as an affiliate: 25% commission for every sale made Promote peace, relaxation, and well-being! Support people in feeling relaxed, finding peace, and regaining their strength!
 
 ## 2. Links
 

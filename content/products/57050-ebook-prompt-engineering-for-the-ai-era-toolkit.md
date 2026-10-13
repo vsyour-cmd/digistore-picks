@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Prompt Engineering for the AI Era</strong> is a practical digital toolkit designed for non-technical professionals — marketers, consultants, entrepreneurs, and knowledge workers — who want to get better, faster results from AI tools like ChatGPT, Claude, and Gemini. The product includes a complete eBook, 20 proven prompt patterns, ready-to-use templates, an AI Governance chapter, and a 60-day money-back guarantee. It delivers clear value to a broad audience with no technical background required.</p>
-<p><strong>Why promote this product:</strong></p>
-<p><strong>Broad target market</strong> — any professional using AI tools (virtually unlimited audience)</p>
-<p><strong>Low refund risk</strong> — backed by a 60-day money-back guarantee that builds buyer trust</p>
-<p><strong>Ready-made marketing assets</strong> — banners, social posts, and a promotional video provided so you can start promoting immediately</p>
-<p><strong>Instant digital delivery</strong> — no fulfillment issues, no delays for your audience</p>
-<p><strong>Global reach</strong> — English-language product accessible worldwide.</p>
-<p>Affiliate resources and promotional materials are available upon joining the program.</p>
+**Vendor's marketplace description:** Prompt Engineering for the AI Era is a practical digital toolkit designed for non-technical professionals — marketers, consultants, entrepreneurs, and knowledge workers — who want to get better, faster results from AI tools like ChatGPT, Claude, and Gemini. The product includes a complete eBook, 20 proven prompt patterns, ready-to-use templates, an AI Governance chapter, and a 60-day money-back guarantee. It delivers clear value to a broad audience with no technical background required. Why promote this product: Broad target market — any professional using AI tools (virtually unlimited audience) Low refund risk — backed by a 60-day money-back guarantee that builds buyer trust Ready-made marketing assets — banners, social posts, and a promotional video provided so you can start promoting immediately Instant digital delivery — no fulfillment issues, no delays for your audience Global reach — English-language product accessible worldwide. Affiliate resources and promotional materials are available upon joining the program.
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>100% affiliate commissions for all the products in the entire sales funnel!</strong></p>
-<p>This offer converts like crazy because it's an amazing offer.</p>
-<p>4 complete online products for only $4 plus they also get a bonus of the recordings of my London 2 day workshop.</p>
-<p>Today I'm giving you the opportunity to promote this funnel and I'm giving away <span style="background-color:#ffff00;">100% affiliate commission on all the products in the sales funnel. </span></p>
-<p><strong>Main product:</strong> The four product bundle $4</p>
-<p><strong>Order form bump offer:</strong> Micro-ads training class $67</p>
-<p><strong>OTO 1:</strong> Affiliate Formula X training class - $97</p>
-<p><strong>OTO 2:</strong> outsourcing Power online training class $197</p>
-<p><strong>OTO 3:</strong> Resell Rights To 10 of Sarah Staar's Best Selling Products $297</p>
+**Vendor's marketplace description:** 100% affiliate commissions for all the products in the entire sales funnel! This offer converts like crazy because it's an amazing offer. 4 complete online products for only $4 plus they also get a bonus of the recordings of my London 2 day workshop. Today I'm giving you the opportunity to promote this funnel and I'm giving away 100% affiliate commission on all the products in the sales funnel. Main product: The four product bundle $4 Order form bump offer: Micro-ads training class $67 OTO 1: Affiliate Formula X training class - $97 OTO 2: outsourcing Power online training class $197 OTO 3: Resell Rights To 10 of Sarah Staar's Best Selling Products $297
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Adobe Lightroom | Boudoir Secrets Masterclass | Ultimate Pack | EN</strong></p>
-<p> </p>
-<p><u>Elevate Your Photos with the Boudoir Secrets Masterclass | Ultimate Pack Lightroom Preset!</u></p>
-<p> </p>
-<p>Transform your photography with this expertly crafted preset pack designed for Adobe Lightroom. Enhance your images effortlessly with advanced AI-supported adjustments that refine every detail from start to finish. Perfect for both amateurs and professionals, this ultimate preset pack includes:</p>
-<p> </p>
-<ul>
-<li><strong>21 Diverse Presets:</strong> Choose from 16 scalable color and black &amp; white presets plus 5 specialized AI-enhanced portrait presets.</li>
-<li><strong>Comprehensive Adjustments:</strong> Customize your shots with essential edits including profiles, tone curves, sharpening, noise reduction, and lens corrections.</li>
-<li><strong>Specialized Portrait Enhancements:</strong> Perfect the details with dedicated presets for eyes, lips, skin, and teeth.</li>
-<li><strong>Creative Control:</strong> A single vignette preset allows for artistic framing and focus, enhancing the visual appeal and impact of your photos.</li>
-</ul>
-<p> </p>
-<p>Step up your photography game and produce images worthy of a high-gloss magazine. The Boudoir Secrets Masterclass | Ultimate Pack is your gateway to realizing the full potential of your creative vision.</p>
+**Vendor's marketplace description:** Adobe Lightroom | Boudoir Secrets Masterclass | Ultimate Pack | EN Elevate Your Photos with the Boudoir Secrets Masterclass | Ultimate Pack Lightroom Preset! Transform your photography with this expertly crafted preset pack designed for Adobe Lightroom. Enhance your images effortlessly with advanced AI-supported adjustments that refine every detail from start to finish. Perfect for both amateurs and professionals, this ultimate preset pack includes: 21 Diverse Presets: Choose from 16 scalable color and black & white presets plus 5 specialized AI-enhanced portrait presets. Comprehensive Adjustments: Customize your shots with essential edits including profiles, tone curves, sharpening, noise reduction, and lens corrections. Specialized Portrait Enhancements: Perfect the details with dedicated presets for eyes, lips, skin, and teeth. Creative Control: A single vignette preset allows for artistic framing and focus, enhancing the visual appeal and impact of your photos. Step up your photography game and produce images worthy of a high-gloss magazine. The Boudoir Secrets Masterclass | Ultimate Pack is your gateway to realizing the full potential of your creative vision.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Building Your Legal Journey to the USA" is a practical and accessible guide for anyone wishing to immigrate legally to the United States. Written by Daniel Costa, the e-book demystifies the complex U.S. immigration system, covering everything from temporary and permanent visas to cultural and financial adaptation. With clear language, essential checklists, and tips to avoid common mistakes, this material is a reliable first step to planning your new life in the U.S. with security and organization.</p>
-<p>Bonus: Ofillene App</p>
-<p>As an exclusive bonus, associates will receive access to the Ofillene app, a practical tool to help with organizing documents, deadlines, and immigration procedures. With it, you can manage your immigration journey more efficiently, right from your phone.</p>
+**Vendor's marketplace description:** Building Your Legal Journey to the USA" is a practical and accessible guide for anyone wishing to immigrate legally to the United States. Written by Daniel Costa, the e-book demystifies the complex U.S. immigration system, covering everything from temporary and permanent visas to cultural and financial adaptation. With clear language, essential checklists, and tips to avoid common mistakes, this material is a reliable first step to planning your new life in the U.S. with security and organization. Bonus: Ofillene App As an exclusive bonus, associates will receive access to the Ofillene app, a practical tool to help with organizing documents, deadlines, and immigration procedures. With it, you can manage your immigration journey more efficiently, right from your phone.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Email Templates for Collaborations help influencers and creators send professional outreach emails to brands, hotels and tourism boards.</p>
-<p>One of the biggest challenges for creators is writing collaboration emails that actually receive responses. These templates provide proven structures that clearly communicate the creator’s value and increase response rates.</p>
-<p>The templates can be easily customized and used immediately for outreach campaigns.</p>
-<p>This product is ideal for creators who want to start working with brands but don’t know how to approach companies professionally.</p>
-<p>Affiliates can promote this product to influencers, travel creators, bloggers and freelancers who want to secure profitable collaborations.</p>
-<p>Key features:</p>
-<p>• Proven outreach email templates<br />• Templates for product collaborations<br />• Templates for hotel partnerships<br />• Templates for tourism board collaborations<br />• Flexible template usable in any niche<br />• Strategic tips for better response rates</p>
-<p>Product format: Digital download (email templates + strategy tips)</p>
+**Vendor's marketplace description:** The Email Templates for Collaborations help influencers and creators send professional outreach emails to brands, hotels and tourism boards. One of the biggest challenges for creators is writing collaboration emails that actually receive responses. These templates provide proven structures that clearly communicate the creator’s value and increase response rates. The templates can be easily customized and used immediately for outreach campaigns. This product is ideal for creators who want to start working with brands but don’t know how to approach companies professionally. Affiliates can promote this product to influencers, travel creators, bloggers and freelancers who want to secure profitable collaborations. Key features: • Proven outreach email templates • Templates for product collaborations • Templates for hotel partnerships • Templates for tourism board collaborations • Flexible template usable in any niche • Strategic tips for better response rates Product format: Digital download (email templates + strategy tips)
 
 ## 2. Links
 

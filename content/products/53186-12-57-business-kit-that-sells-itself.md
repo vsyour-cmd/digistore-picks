@@ -41,31 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote one of the most compelling digital bundles on the market – a full "Digital Business Starter Kit" available in both English and Arabic.</p>
-<p>This bundle is specifically crafted for aspiring entrepreneurs, digital freelancers, creators, and anyone looking to launch or scale an online business without confusion or overwhelm.</p>
-<ul>
-<li> Inside the package, buyers receive:</li>
-</ul>
-<p>2 eBooks: A comprehensive business guide &amp; digital marketing manual</p>
-<p>Editable templates: Business plan + Social media calendar</p>
-<p>Available in Arabic &amp; English (2 complete versions)</p>
-<p>Fully printable, customizable, and beginner-friendly</p>
-<p>Delivered in PDF + Markdown formats</p>
-<p><br />All of this is offered at a no-brainer price of just $12.57 – one-time payment, which makes it highly attractive and easy to convert.</p>
-<ul>
-<li> Why promote this product?</li>
-</ul>
-<p>Zero learning curve – perfect for your cold audience</p>
-<p>Dual-language = bigger reach</p>
-<p>Professionally designed &amp; instantly deliverable</p>
-<p>High perceived value (estimated $167+)</p>
-<p>No upsells, no fluff – just pure utility</p>
-<ul>
-<li> You earn up to 40% commission per sale with minimal refunds thanks to high customer satisfaction.</li>
-<li> This offer is ideal for TikTok creators, content marketers, YouTubers, affiliate bloggers, and email marketers.</li>
-</ul>
-<p> Your promo materials are ready: email swipes, post captions, videos, scripts, AI tools &amp; more — just plug and play.</p>
-<p>➤ Join the affiliate program now and start earning by promoting real value.</p>
+**Vendor's marketplace description:** Promote one of the most compelling digital bundles on the market – a full "Digital Business Starter Kit" available in both English and Arabic. This bundle is specifically crafted for aspiring entrepreneurs, digital freelancers, creators, and anyone looking to launch or scale an online business without confusion or overwhelm. Inside the package, buyers receive: 2 eBooks: A comprehensive business guide & digital marketing manual Editable templates: Business plan + Social media calendar Available in Arabic & English (2 complete versions) Fully printable, customizable, and beginner-friendly Delivered in PDF + Markdown formats All of this is offered at a no-brainer price of just $12.57 – one-time payment, which makes it highly attractive and easy to convert. Why promote this product? Zero learning curve – perfect for your cold audience Dual-language = bigger reach Professionally designed & instantly deliverable High perceived value (estimated $167+) No upsells, no fluff – just pure utility You earn up to 40% commission per sale with minimal refunds thanks to high customer satisfaction. This offer is ideal for TikTok creators, content marketers, YouTubers, affiliate bloggers, and email marketers. Your promo materials are ready: email swipes, post captions, videos, scripts, AI tools & more — just plug and play. ➤ Join the affiliate program now and start earning by promoting real value.
 
 ## 2. Links
 

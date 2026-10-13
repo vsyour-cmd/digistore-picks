@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Explosive New Men's Health Offer Is Making Our Affiliates Rich!  </p>
-<p>This program teaches a proven formula for reversing erectile dysfunction and supercharging your stamina and vitality.</p>
-<p>Our customers are raving about the product, which is backed up by reviews, 7 figure sales and the lowest refund rate in the industry.</p>
-<ul>
-<li>
-<p>The expertly written "cinema style" Video Sales Letter appeals to a wide audience. This offer converts to men age 35+ and even to women (because E.D. harms their relationships and happiness, too.) </p>
-</li>
-<li>
-<p>You can expect EPC well above $1. The front end converts like crazy, and then this offer has a killer upsell flow which boosts your commissions.</p>
-</li>
-<li>
-<p>Our team is always rigorously testing and tweaking this offer with email and paid traffic, CONSTANTLY improving conversion rates. </p>
-</li>
-</ul>
-<p>We also offer some of the hottest email swipes in the industry, with emails you can send to any type of health/fitness/dating/relationships list. </p>
+**Vendor's marketplace description:** Explosive New Men's Health Offer Is Making Our Affiliates Rich! This program teaches a proven formula for reversing erectile dysfunction and supercharging your stamina and vitality. Our customers are raving about the product, which is backed up by reviews, 7 figure sales and the lowest refund rate in the industry. The expertly written "cinema style" Video Sales Letter appeals to a wide audience. This offer converts to men age 35+ and even to women (because E.D. harms their relationships and happiness, too.) You can expect EPC well above $1. The front end converts like crazy, and then this offer has a killer upsell flow which boosts your commissions. Our team is always rigorously testing and tweaking this offer with email and paid traffic, CONSTANTLY improving conversion rates. We also offer some of the hottest email swipes in the industry, with emails you can send to any type of health/fitness/dating/relationships list.
 
 ## 2. Links
 

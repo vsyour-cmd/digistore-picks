@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>SerCuerdas The Pure Art of Serrada ng Escrima Vol. 1 -3 The Foundation Set 1-3</p>
-<p>Vol. 1 Set1 Basic Weapons Training ca. 35 min. Runtime Master JC Cabiero shows, and demonstrates: Ser Cuerdas, The Rattan Parts, Twirling, C-Hand, Signals, Triangel Footwork Positioning 80/20, Salute,Basic Strikes 1-12, Cincotero Flow, DeCadena Flow, Basic Blocks 1-12 Set1</p>
-<p>Vol. 2 The Foundation Set 2 Basic Weapons Training ca. 35 min, Runtime Master JC Cabiero shows: Basic Strikes 1-12, Basic Blocks 1-12 Set 2 Lock and Block Sparring</p>
-<p>Vol. 3 The Foundation Set 3 Basic Weapons Training ca. 30 min. Runtime Master JC Cabiero shows: Basic Strikes 1-12, Basic Blocks 1-12 Set 3 Lock and Block Sparring Advanced Weapons Training Language Englisch</p>
+**Vendor's marketplace description:** SerCuerdas The Pure Art of Serrada ng Escrima Vol. 1 -3 The Foundation Set 1-3 Vol. 1 Set1 Basic Weapons Training ca. 35 min. Runtime Master JC Cabiero shows, and demonstrates: Ser Cuerdas, The Rattan Parts, Twirling, C-Hand, Signals, Triangel Footwork Positioning 80/20, Salute,Basic Strikes 1-12, Cincotero Flow, DeCadena Flow, Basic Blocks 1-12 Set1 Vol. 2 The Foundation Set 2 Basic Weapons Training ca. 35 min, Runtime Master JC Cabiero shows: Basic Strikes 1-12, Basic Blocks 1-12 Set 2 Lock and Block Sparring Vol. 3 The Foundation Set 3 Basic Weapons Training ca. 30 min. Runtime Master JC Cabiero shows: Basic Strikes 1-12, Basic Blocks 1-12 Set 3 Lock and Block Sparring Advanced Weapons Training Language Englisch
 
 ## 2. Links
 

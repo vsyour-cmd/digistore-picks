@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>[THE PROBLEM &amp; AUDIENCE]</strong> The ultimate food-first meal planning system for adults struggling with painful bloating, IBS, post-meal fatigue, and digestive sensitivity — zero extreme detox cleanses, zero restrictive fasting rules.</p>
-<p><br /><strong>[WHAT CONVERTS]</strong> 53-page A4 printable toolkit packed with 14 daily gastro-soothing meal blueprints, gentle low-FODMAP substitution ladders, batch-prep schedules, and printable grocery checklists. Grounded in American College of Gastroenterology &amp; USDA guidelines.<br /><br /><strong>[AFFILIATE EDGE]</strong> High-converting evergreen offer with &lt;1.8% refund rates, strong take-rate on the $67 Master Vault upsell, and plug-and-play email swipe copy ready to send at healthsecrets.com/affiliates.</p>
+**Vendor's marketplace description:** [THE PROBLEM & AUDIENCE] The ultimate food-first meal planning system for adults struggling with painful bloating, IBS, post-meal fatigue, and digestive sensitivity — zero extreme detox cleanses, zero restrictive fasting rules. [WHAT CONVERTS] 53-page A4 printable toolkit packed with 14 daily gastro-soothing meal blueprints, gentle low-FODMAP substitution ladders, batch-prep schedules, and printable grocery checklists. Grounded in American College of Gastroenterology & USDA guidelines. [AFFILIATE EDGE] High-converting evergreen offer with <1.8% refund rates, strong take-rate on the $67 Master Vault upsell, and plug-and-play email swipe copy ready to send at healthsecrets.com/affiliates.
 
 ## 2. Links
 

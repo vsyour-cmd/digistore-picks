@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote a complete digital planning solution! The Ultimate All-in-One Planner System includes a 90-Day Reflection Journal, Yearly Planner, Habit Tracker, and easy-to-follow instructions. Perfect for anyone looking to organize their year, practice daily reflection, and build positive habits. Simple to deliver digitally and valuable for anyone wanting a structured, mindful approach to productivity.</p>
+**Vendor's marketplace description:** Promote a complete digital planning solution! The Ultimate All-in-One Planner System includes a 90-Day Reflection Journal, Yearly Planner, Habit Tracker, and easy-to-follow instructions. Perfect for anyone looking to organize their year, practice daily reflection, and build positive habits. Simple to deliver digitally and valuable for anyone wanting a structured, mindful approach to productivity.
 
 ## 2. Links
 

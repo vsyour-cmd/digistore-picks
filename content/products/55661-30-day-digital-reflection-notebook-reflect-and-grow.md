@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote a digital notebook designed to help users reflect daily and practice mindfulness. Simple, valuable, and easy to deliver digitally, this 30-day reflection notebook resonates with anyone looking to reduce stress, gain clarity, and create a mindful routine.</p>
+**Vendor's marketplace description:** Promote a digital notebook designed to help users reflect daily and practice mindfulness. Simple, valuable, and easy to deliver digitally, this 30-day reflection notebook resonates with anyone looking to reduce stress, gain clarity, and create a mindful routine.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Secrets of Flirting eBook is a practical guide to the art of seduction, teaching you how to create authentic connections and arouse romantic interest in a natural and engaging way. It covers everything from developing self-confidence to effective communication techniques, body language and reading signs of interest. It also teaches you how to avoid common pitfalls, maintain a balance between mystery and showing interest, and hone your flirting skills both in person and by messaging. Ideal for those who want to improve their social interactions and make genuine conquests.</p>
+**Vendor's marketplace description:** The Secrets of Flirting eBook is a practical guide to the art of seduction, teaching you how to create authentic connections and arouse romantic interest in a natural and engaging way. It covers everything from developing self-confidence to effective communication techniques, body language and reading signs of interest. It also teaches you how to avoid common pitfalls, maintain a balance between mystery and showing interest, and hone your flirting skills both in person and by messaging. Ideal for those who want to improve their social interactions and make genuine conquests.
 
 ## 2. Links
 

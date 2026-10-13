@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Satış başında 35% komisyon alıyorsun.</p>
+**Vendor's marketplace description:** Satış başında 35% komisyon alıyorsun.
 
 ## 2. Links
 

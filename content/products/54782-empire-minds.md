@@ -41,32 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>Are you ready to be an Empire Mind?</strong></p>
-<p style="text-align:justify;">Empire Minds E-book invites leaders, teams and everyone ready to cultivate a mindset of excellence, designed for the leaders of the future, empowering individuals to lead with confidence, transform challenges into innovation, and create enviroments where people and ideas thrive together, Within these objectives lies the spirit of Empire Minds: fresh perspectives, bold thinking, and a new era of leadership. May each idea empower you to shape the future with clarity and confidence. </p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:center;"><strong>Empire Minds Affiliates!</strong></p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:justify;">We are excited to welcome motivated affiliates who want to promote a high-value digital product designed to inspire, educate and elevate future leaders. If you believe in empowering people to grow in their leadership skills and a confident version of themselves, Empire Minds is an excellent addition to your portfolio, As an added advantage, our sales page includes a <strong>FREE Chapter</strong> available through a popup, giving you access to extra content for your marketing strategies for the creation of content to promote <em>Empire Minds E-book.</em></p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:justify;"><strong><em>Why promote Empire Minds?</em></strong></p>
-<ul>
-<li style="text-align:justify;"><em><strong>Strong niche demand:</strong></em> Leadership mindset and self improvement remain among the top performing categories in digital sales.</li>
-<li style="text-align:justify;"><strong>Creative freedom:</strong> Promote the eBook in Blog Post, Youtube, Tiktok, reels, SEO, social media content or your own community.</li>
-<li style="text-align:justify;"><strong>Automated affiliate payouts:</strong> Digistore24 handles all tracking, comissions and payments smooth and reliable secure orders.</li>
-</ul>
-<p> </p>
-<p style="text-align:justify;"><strong><em>Your next step ✅</em></strong></p>
-<p style="text-align:justify;"><strong><em>✅Get your personal affiliate link and start promoting</em></strong></p>
-<p style="text-align:justify;"><strong><em><a href="https://empireminds.systeme.io/welcome#aff=AFFILIATE&amp;cam=CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://empireminds.systeme.io/welcome#aff=AFFILIATE&amp;cam=CAMPAIGNKEY</a></em></strong></p>
-<p style="text-align:justify;"><strong><em>✅Replace the placeholder AFFILIATE with your Digistore24 ID (username)</em></strong></p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:justify;"><strong><em>✅You can use the placeholder CAMPAIGNKEY to track your campaigns, to do this, replace CAMPAIGNKEY with e.g. the name of a campaign. But you can also simply omit the placeholder if desired.</em></strong></p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:center;"><strong><em>Welcome to the Empire Minds Affiliates !</em></strong></p>
-<p style="text-align:justify;"> </p>
-<p style="text-align:justify;"> </p>
+**Vendor's marketplace description:** Are you ready to be an Empire Mind? Empire Minds E-book invites leaders, teams and everyone ready to cultivate a mindset of excellence, designed for the leaders of the future, empowering individuals to lead with confidence, transform challenges into innovation, and create enviroments where people and ideas thrive together, Within these objectives lies the spirit of Empire Minds: fresh perspectives, bold thinking, and a new era of leadership. May each idea empower you to shape the future with clarity and confidence. Empire Minds Affiliates! We are excited to welcome motivated affiliates who want to promote a high-value digital product designed to inspire, educate and elevate future leaders. If you believe in empowering people to grow in their leadership skills and a confident version of themselves, Empire Minds is an excellent addition to your portfolio, As an added advantage, our sales page includes a FREE Chapter available through a popup, giving you access to extra content for your marketing strategies for the creation of content to promote Empire Minds E-book. Why promote Empire Minds? Strong niche demand: Leadership mindset and self improvement remain among the top performing categories in digital sales. Creative freedom: Promote the eBook in Blog Post, Youtube, Tiktok, reels, SEO, social media content or your own community. Automated affiliate payouts: Digistore24 handles all tracking, comissions and payments smooth and reliable secure orders. Your next step ✅ ✅Get your personal affiliate link and start promoting https://empireminds.systeme.io/welcome#aff=AFFILIATE&cam=CAMPAIGNKEY ✅Replace the placeholder AFFILIATE with your Digistore24 ID (username) ✅You can use the placeholder CAMPAIGNKEY to track your campaigns, to do this, replace CAMPAIGNKEY with e.g. the name of a campaign. But you can also simply omit the placeholder if desired. Welcome to the Empire Minds Affiliates !
 
 ## 2. Links
 

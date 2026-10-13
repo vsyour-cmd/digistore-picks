@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>UGC Quote Calculator and Project Planner</h2>
-<p>An English download toolkit for UGC creators who want to estimate project costs, define deliverables and keep client projects organised.</p>
-<ul>
-<li>XLSX quote calculator with editable hourly rate, task hours, direct costs and buffer.</li>
-<li>Project tracker for 20 jobs and three worked practice examples.</li>
-<li>Six-page PDF workbook plus editable DOCX: scope brief, quote message, change-request message and delivery checklist.</li>
-<li>START-HERE guide. One-time price: USD 29. No subscription.</li>
-</ul>
-<p>50% affiliate commission under the Digistore24 calculation rules. Suitable for creator education, freelance resources and UGC workflow audiences. English-language files; Excel-compatible spreadsheet software required.</p>
-<p>No bookings, earnings or market-rate guarantees. This is an estimation and organisation toolkit, not legal, tax or licensing advice. 60-day money-back guarantee through Digistore24. Support: info@einfachhaltbar.de.</p>
+**Vendor's marketplace description:** UGC Quote Calculator and Project Planner An English download toolkit for UGC creators who want to estimate project costs, define deliverables and keep client projects organised. XLSX quote calculator with editable hourly rate, task hours, direct costs and buffer. Project tracker for 20 jobs and three worked practice examples. Six-page PDF workbook plus editable DOCX: scope brief, quote message, change-request message and delivery checklist. START-HERE guide. One-time price: USD 29. No subscription. 50% affiliate commission under the Digistore24 calculation rules. Suitable for creator education, freelance resources and UGC workflow audiences. English-language files; Excel-compatible spreadsheet software required. No bookings, earnings or market-rate guarantees. This is an estimation and organisation toolkit, not legal, tax or licensing advice. 60-day money-back guarantee through Digistore24. Support: info@einfachhaltbar.de.
 
 ## 2. Links
 

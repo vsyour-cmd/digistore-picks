@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote AI Automation Mastery – Earn 50% Per Sale per sale</p>
-<p> </p>
-<p>Help your audience automate key parts of their business and improve efficiency using AI-powered systems.</p>
-<p> </p>
-<p>This product includes:</p>
-<p> </p>
-<ul>
-<li>20 ready-to-use automation workflows</li>
-<li>Practical prompt library for real tasks</li>
-<li>Proven frameworks used by modern businesses</li>
-</ul>
-<p> </p>
-<p> </p>
-<p>Designed for entrepreneurs, freelancers, and agencies looking to save time and streamline operations.</p>
+**Vendor's marketplace description:** Promote AI Automation Mastery – Earn 50% Per Sale per sale Help your audience automate key parts of their business and improve efficiency using AI-powered systems. This product includes: 20 ready-to-use automation workflows Practical prompt library for real tasks Proven frameworks used by modern businesses Designed for entrepreneurs, freelancers, and agencies looking to save time and streamline operations.
 
 ## 2. Links
 

@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3><strong>Why should you promote this online course? </strong></h3>
-<p>-Professional Sales Site!</p>
-<p>-We run remarketing ads (retargeting).</p>
-<p>-Other Courses for sale you also get provision!</p>
-<p>-Copy everything form my website <a>www.guitarschool24.com</a> when promoting</p>
-<p>and:</p>
-<p>In other online courses you only see how playing the guitar works. Here you will also learn how it does <strong>not</strong> work. I have taken a close look at which <strong>mistakes</strong> occur again and again in <strong>online guitar lessons</strong> and I have responded to them.</p>
-<p>With the help of <strong>videos of my students</strong> you can see which <strong>mistakes</strong> you should <strong>avoid from</strong> <strong>the very beginning</strong>. The students were, so to speak, caught in the act, and it is exactly this effect which has the most <strong>impact</strong> on learning.</p>
-<p>The first analysis of <strong>guitar mistakes</strong> on the market!</p>
-<p>Get to know the <strong>basics</strong> of the <strong>concert guitar</strong> straightaway according to the “Classical Method“. You can play along with all the pieces immediately. In this way, at the same time, you will learn the <strong>basics of music theory</strong> and <strong>how to read music</strong>.</p>
-<p>Establish a firm basis for yourself. The basics are the key to your <strong>success</strong>!</p>
+**Vendor's marketplace description:** Why should you promote this online course? -Professional Sales Site! -We run remarketing ads (retargeting). -Other Courses for sale you also get provision! -Copy everything form my website www.guitarschool24.com when promoting and: In other online courses you only see how playing the guitar works. Here you will also learn how it does not work. I have taken a close look at which mistakes occur again and again in online guitar lessons and I have responded to them. With the help of videos of my students you can see which mistakes you should avoid from the very beginning . The students were, so to speak, caught in the act, and it is exactly this effect which has the most impact on learning. The first analysis of guitar mistakes on the market! Get to know the basics of the concert guitar straightaway according to the “Classical Method“. You can play along with all the pieces immediately. In this way, at the same time, you will learn the basics of music theory and how to read music . Establish a firm basis for yourself. The basics are the key to your success !
 
 ## 2. Links
 

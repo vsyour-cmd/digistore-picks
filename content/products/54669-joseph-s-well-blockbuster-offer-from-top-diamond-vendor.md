@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>OPEN FOR ALL TRAFFIC! From a Top Diamond Vendor! Megadrought solution. Faith-based survival VSL 10%+ email CVR. $2+ EPCs. Converts Prepper, Christian, Green Energy, Homestead &amp; cold traffic. uswaterrevolution.com/affiliates</p>
+**Vendor's marketplace description:** OPEN FOR ALL TRAFFIC! From a Top Diamond Vendor! Megadrought solution. Faith-based survival VSL 10%+ email CVR. $2+ EPCs. Converts Prepper, Christian, Green Energy, Homestead & cold traffic. uswaterrevolution.com/affiliates
 
 ## 2. Links
 

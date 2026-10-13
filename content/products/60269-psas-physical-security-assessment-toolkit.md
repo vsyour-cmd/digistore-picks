@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="padding-left:40px;">PSAS Consultant Edition is a practical physical security assessment toolkit for independent security consultants and security professionals.</p>
-<p>It helps users assess sites, identify risks, prioritize improvements, and prepare professional reports using a structured workflow: PREPARE → INSPECT → ASSESS → PRIORITIZE → REPORT.</p>
-<p>The package includes:<br />• Pre-Assessment &amp; Client Intake Workbook<br />• Physical Security Field Inspection Workbook<br />• Security Risk Assessment Engine<br />• Security Improvement Roadmap<br />• Executive Security Assessment Report Template<br />• Management Briefing Deck<br />• Completed Case Study<br />• Consultant Field Pack<br />• Quick Start Guide &amp; Consultant Licence Terms</p>
-<p>Affiliate information:<br />• Price: USD 299<br />• Affiliate commission: 30%<br />• Digital download<br />• 60-day unconditional money-back guarantee for individual and business customers</p>
-<p>Ideal audiences include independent physical security consultants, security managers, and professionals who conduct site security assessments.</p>
-<p>For product information and affiliate enquiries, contact warzandigital@gmail.com.</p>
+**Vendor's marketplace description:** PSAS Consultant Edition is a practical physical security assessment toolkit for independent security consultants and security professionals. It helps users assess sites, identify risks, prioritize improvements, and prepare professional reports using a structured workflow: PREPARE → INSPECT → ASSESS → PRIORITIZE → REPORT. The package includes: • Pre-Assessment & Client Intake Workbook • Physical Security Field Inspection Workbook • Security Risk Assessment Engine • Security Improvement Roadmap • Executive Security Assessment Report Template • Management Briefing Deck • Completed Case Study • Consultant Field Pack • Quick Start Guide & Consultant Licence Terms Affiliate information: • Price: USD 299 • Affiliate commission: 30% • Digital download • 60-day unconditional money-back guarantee for individual and business customers Ideal audiences include independent physical security consultants, security managers, and professionals who conduct site security assessments. For product information and affiliate enquiries, contact warzandigital@gmail.com.
 
 ## 2. Links
 

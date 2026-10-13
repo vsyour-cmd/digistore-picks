@@ -41,39 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Calm Influence Playbook</strong> is a powerful digital guide designed for teens and young adults who want to:</p>
-<ul>
-<li>
-<p>Stay calm, confident, and in control without changing who they are</p>
-</li>
-<li>
-<p>Manage emotional overwhelm with practical tools</p>
-</li>
-<li>
-<p>Respond (not react) in tough situations</p>
-</li>
-<li>
-<p>Strengthen relationships without raising their voice</p>
-</li>
-<li>
-<p>Lead with quiet strength at home, school, or anywhere</p>
-</li>
-</ul>
-<p><strong>Why affiliates love promoting this product:</strong></p>
-<ul>
-<li>
-<p>Fresh, high-demand niche: emotional intelligence for youth</p>
-</li>
-<li>
-<p>Simple, clear product — no fluff, just actionable strategies</p>
-</li>
-<li>
-<p>60-day money-back guarantee increases conversion confidence</p>
-</li>
-<li>
-<p>Attractive commissions, no physical shipping, instant access</p>
-</li>
-</ul>
+**Vendor's marketplace description:** The Calm Influence Playbook is a powerful digital guide designed for teens and young adults who want to: Stay calm, confident, and in control without changing who they are Manage emotional overwhelm with practical tools Respond (not react) in tough situations Strengthen relationships without raising their voice Lead with quiet strength at home, school, or anywhere Why affiliates love promoting this product: Fresh, high-demand niche: emotional intelligence for youth Simple, clear product — no fluff, just actionable strategies 60-day money-back guarantee increases conversion confidence Attractive commissions, no physical shipping, instant access
 
 ## 2. Links
 

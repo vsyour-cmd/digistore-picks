@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Scoop Up An AOV Of $150 And A $5 EPC With This Blood Sugar Supplement That Affiliates Are Raving About! Hollywood Style VSL With A Powerful Weight Loss Angle. Works On All Types Of Health Traffic.</p>
-<p>This supplement supports healthy blood sugar levels and weight loss for men and women who have Type II diabetes, or want to manage their blood sugar to protect against this condition.</p>
-<p>It also contains ingredients that support weight loss, since excess weight is one of the primary causes of type 2 diabetes. And it has ingredients that help you to get deeper, more restful sleep, another important factor in losing weight and restoring health.</p>
-<p>This makes GlucoTrust a supplement with extremely broad appeal...</p>
-<p>And with its expertly-crafted sales funnel, featuring a "Hollywood style" Video Sales Letter and irresistible upsells, this is an offer that is converting like crazy for affiliates and paying out commissions of $150+ for every sale!</p>
-<p>With GlucoTrust, you get:</p>
-<p>- $3 - $5 + EPCs<br />- $158 + AOV<br />- 50% commissions. If you're able to send a high # of sales, we can see about bumping your commission even higher.</p>
+**Vendor's marketplace description:** Scoop Up An AOV Of $150 And A $5 EPC With This Blood Sugar Supplement That Affiliates Are Raving About! Hollywood Style VSL With A Powerful Weight Loss Angle. Works On All Types Of Health Traffic. This supplement supports healthy blood sugar levels and weight loss for men and women who have Type II diabetes, or want to manage their blood sugar to protect against this condition. It also contains ingredients that support weight loss, since excess weight is one of the primary causes of type 2 diabetes. And it has ingredients that help you to get deeper, more restful sleep, another important factor in losing weight and restoring health. This makes GlucoTrust a supplement with extremely broad appeal... And with its expertly-crafted sales funnel, featuring a "Hollywood style" Video Sales Letter and irresistible upsells, this is an offer that is converting like crazy for affiliates and paying out commissions of $150+ for every sale! With GlucoTrust, you get: - $3 - $5 + EPCs - $158 + AOV - 50% commissions. If you're able to send a high # of sales, we can see about bumping your commission even higher.
 
 ## 2. Links
 

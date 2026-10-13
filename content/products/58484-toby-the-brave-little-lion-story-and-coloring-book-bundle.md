@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Toby the Brave Little Lion – Story and Coloring Book Bundle</strong></p>
-<p><strong>Toby the Brave Little Lion – Story &amp; Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9. The bundle includes a 43-page children's storybook and a 35-page coloring book, for a total of 78 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promotional materials, including product images and video, are available on the Affiliate Support Page. Instant digital delivery – no physical product is shipped.</strong></p>
+**Vendor's marketplace description:** Toby the Brave Little Lion – Story and Coloring Book Bundle Toby the Brave Little Lion – Story & Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9. The bundle includes a 43-page children's storybook and a 35-page coloring book, for a total of 78 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promotional materials, including product images and video, are available on the Affiliate Support Page. Instant digital delivery – no physical product is shipped.
 
 ## 2. Links
 

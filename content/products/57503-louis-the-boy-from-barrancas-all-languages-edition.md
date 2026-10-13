@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Louis: The Boy From Barrancas – All Languages Edition</p>
-<p>A cinematic and illustrated digital ebook inspired by true events.</p>
-<p>Included with your purchase:</p>
-<p>• Complete ebook story<br />• 11 chapters<br />• More than 70 pages<br />• PDF and EPUB formats<br />• English, Spanish, German and Portuguese versions<br />• Instant digital download<br />• 60-Day Money Back Guarantee</p>
-<p>Follow Louis, a boy born in poverty in Barrancas, Colombia, as he pursues his dream of becoming one of the world’s greatest soccer players.</p>
+**Vendor's marketplace description:** Louis: The Boy From Barrancas – All Languages Edition A cinematic and illustrated digital ebook inspired by true events. Included with your purchase: • Complete ebook story • 11 chapters • More than 70 pages • PDF and EPUB formats • English, Spanish, German and Portuguese versions • Instant digital download • 60-Day Money Back Guarantee Follow Louis, a boy born in poverty in Barrancas, Colombia, as he pursues his dream of becoming one of the world’s greatest soccer players.
 
 ## 2. Links
 

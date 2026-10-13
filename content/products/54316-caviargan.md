@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>BOOSTS COLLAGEN PRODUCTION:</strong>Thanks to the synergy between MATRIXYLsynthe’6, Vitamin C, E, and Green tea, this firming face cream stimulates the skin's natural functions, leaving a tauter, youthful looking skin.</p>
-<p><strong>TURN BACK THE CLOCK:</strong> With our deeply replenishing anti-aging moisturizer. Our exclusive formula with Hyaluronic Acid, MATRIXYL Synthe'6, Caviar, and Retinol restores density and elasticity, visibly reducing the appearance of fine lines, deep wrinkles, and dullness.</p>
-<p><strong>You'll get 65% commission.</strong> VIP Concierge support. Access to tons of content and ugc. Low refunds and low chargebacks and commissions on any lifetime subscriptions captured.here are some benefits for your funnel and reach out to me @Kellyoshea1 for anything.<br /><br /><br /></p>
+**Vendor's marketplace description:** BOOSTS COLLAGEN PRODUCTION: Thanks to the synergy between MATRIXYLsynthe’6, Vitamin C, E, and Green tea, this firming face cream stimulates the skin's natural functions, leaving a tauter, youthful looking skin. TURN BACK THE CLOCK: With our deeply replenishing anti-aging moisturizer. Our exclusive formula with Hyaluronic Acid, MATRIXYL Synthe'6, Caviar, and Retinol restores density and elasticity, visibly reducing the appearance of fine lines, deep wrinkles, and dullness. You'll get 65% commission. VIP Concierge support. Access to tons of content and ugc. Low refunds and low chargebacks and commissions on any lifetime subscriptions captured.here are some benefits for your funnel and reach out to me @Kellyoshea1 for anything.
 
 ## 2. Links
 

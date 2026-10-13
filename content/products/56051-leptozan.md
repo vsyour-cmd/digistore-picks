@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Conversion-Driven Weight-Loss Offer Optimized For Stable &amp; Predictable ROI</h1>
-<p>A Scalable Funnel That Puts Real Cash In Your Pocket</p>
+**Vendor's marketplace description:** Conversion-Driven Weight-Loss Offer Optimized For Stable & Predictable ROI A Scalable Funnel That Puts Real Cash In Your Pocket
 
 ## 2. Links
 

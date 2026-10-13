@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#99cc00;">Get <strong>60%</strong> Commission</span><br /><span style="color:#99cc00;">Through The ENTIRE FUNNEL!</span></h2>
-<p>Reconnect with Earth’s healing energy through Tesla Grounding — a powerful tool designed to restore balance, gently relax, and recharge your body from the ground up.</p>
+**Vendor's marketplace description:** Get 60% Commission Through The ENTIRE FUNNEL! Reconnect with Earth’s healing energy through Tesla Grounding — a powerful tool designed to restore balance, gently relax, and recharge your body from the ground up.
 
 ## 2. Links
 

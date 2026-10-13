@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="background-color:#cc99ff;"><span style="background-color:#00ffff;">+90</span> Mega CV Resume Templates Bundle - Elevate Your Career for Just <span style="background-color:#00ff00;">$7</span></span></h2>
-<p> </p>
-<p>Looking to make a powerful first impression with a professional and sleek resume? Look no further! The Mega CV Resume Templates Bundle offers <span style="background-color:#00ff00;">+90</span> beautifully designed, fully customizable templates that will set you apart from the competition.</p>
-<p> </p>
-<p>Unbeatable Value</p>
-<p> </p>
-<p>Get <span style="background-color:#00ff00;">+90</span> premium CV Resume templates for just <span style="background-color:#00ff00;">$7</span>!</p>
+**Vendor's marketplace description:** +90 Mega CV Resume Templates Bundle - Elevate Your Career for Just $7 Looking to make a powerful first impression with a professional and sleek resume? Look no further! The Mega CV Resume Templates Bundle offers +90 beautifully designed, fully customizable templates that will set you apart from the competition. Unbeatable Value Get +90 premium CV Resume templates for just $7 !
 
 ## 2. Links
 

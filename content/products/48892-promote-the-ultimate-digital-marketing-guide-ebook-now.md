@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> Boost your earnings by promoting our high-converting Digital Marketing Guide eBook. Priced at $37, this comprehensive guide is perfect for anyone looking to master digital marketing.</p>
-<p>Why Promote?</p>
-<p>High Commission Rates</p>
-<p>Proven Demand in a Booming Niche</p>
-<p>Ready-to-Use Marketing Materials</p>
-<p>Join our affiliate program today and start earning with every sale</p>
+**Vendor's marketplace description:** Boost your earnings by promoting our high-converting Digital Marketing Guide eBook. Priced at $37, this comprehensive guide is perfect for anyone looking to master digital marketing. Why Promote? High Commission Rates Proven Demand in a Booming Niche Ready-to-Use Marketing Materials Join our affiliate program today and start earning with every sale
 
 ## 2. Links
 

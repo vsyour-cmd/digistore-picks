@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Brand New &amp; Unique 1st </strong><strong>Premium</strong><strong> GOLD ORMUS SUPPLEMENT!</strong></p>
-<p><strong><br />$2+ EPCs and up to 3% conversions from top affiliates! $300 AOV!</strong></p>
-<p>Unique custom formulation creates REAL results with super LOW refunds!</p>
-<p><strong>Convert your clicks to CASH now! Irresistible hook and story creates $$$!</strong></p>
+**Vendor's marketplace description:** Brand New & Unique 1st Premium GOLD ORMUS SUPPLEMENT! $2+ EPCs and up to 3% conversions from top affiliates! $300 AOV! Unique custom formulation creates REAL results with super LOW refunds! Convert your clicks to CASH now! Irresistible hook and story creates $$$!
 
 ## 2. Links
 

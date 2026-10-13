@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Help small businesses, entrepreneurs and consultants identify where artificial intelligence and automation can improve everyday business workflows.</p>
-<p>The Small Business AI &amp; Automation Toolkit™ includes four practical digital planning tools:</p>
-<p>• AI Business Readiness &amp; Opportunity Assessment Pro™<br />• Business Process Automation Audit &amp; Planner Pro™<br />• AI Customer Service &amp; Lead Follow-Up Planner Pro™<br />• AI Marketing &amp; Content Workflow Planner Pro™</p>
-<p>Ideal for audiences interested in AI adoption, workflow automation, productivity, customer follow-up, customer service and marketing processes.</p>
-<p>The toolkit helps users assess opportunities, organize automation priorities and plan practical AI-enabled workflows without promising specific financial or business outcomes.</p>
+**Vendor's marketplace description:** Help small businesses, entrepreneurs and consultants identify where artificial intelligence and automation can improve everyday business workflows. The Small Business AI & Automation Toolkit™ includes four practical digital planning tools: • AI Business Readiness & Opportunity Assessment Pro™ • Business Process Automation Audit & Planner Pro™ • AI Customer Service & Lead Follow-Up Planner Pro™ • AI Marketing & Content Workflow Planner Pro™ Ideal for audiences interested in AI adoption, workflow automation, productivity, customer follow-up, customer service and marketing processes. The toolkit helps users assess opportunities, organize automation priorities and plan practical AI-enabled workflows without promising specific financial or business outcomes.
 
 ## 2. Links
 

@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>100+ pages of no-fluff nutrition and dietary education. Field-tested protocols for home cooking, eating out, and on-the-go. No restrictive diets or elimination phases. Instant PDF download. Customers using since 2017, now availbale for affiliate distribution.</div>
-<div> </div>
-<div>Affiliate resources: https://supp-up.blog/affiliate-resources-ds24/</div>
+**Vendor's marketplace description:** 100+ pages of no-fluff nutrition and dietary education. Field-tested protocols for home cooking, eating out, and on-the-go. No restrictive diets or elimination phases. Instant PDF download. Customers using since 2017, now availbale for affiliate distribution. Affiliate resources: https://supp-up.blog/affiliate-resources-ds24/
 
 ## 2. Links
 

@@ -41,28 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Get instant access to <strong>100M+ digital products</strong> you can use, edit, rebrand, and resell with <strong>Master Resell Rights</strong>.<br />This bundle includes:</p>
-<ul>
-<li>
-<p>Midjourney prompts</p>
-</li>
-<li>
-<p>ChatGPT prompts</p>
-</li>
-<li>
-<p>Canva templates</p>
-</li>
-<li>
-<p>Faceless media (photos &amp; videos)</p>
-</li>
-<li>
-<p>Coloring book pages</p>
-</li>
-<li>
-<p>Bonus: faceless reels, Canva guide, social media planner &amp; more</p>
-</li>
-</ul>
-<p>Perfect for beginners, creators, moms, and anyone starting an online business.<br />Build, create &amp; sell instantly — keep 100% of the profits.</p>
+**Vendor's marketplace description:** Get instant access to 100M+ digital products you can use, edit, rebrand, and resell with Master Resell Rights . This bundle includes: Midjourney prompts ChatGPT prompts Canva templates Faceless media (photos & videos) Coloring book pages Bonus: faceless reels, Canva guide, social media planner & more Perfect for beginners, creators, moms, and anyone starting an online business. Build, create & sell instantly — keep 100% of the profits.
 
 ## 2. Links
 

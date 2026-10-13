@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>DigiStore Welcomes Denticore, The First And Only Tooth And Gum Rebuilding Solution Inspired by The Navy Divers. Big Conversions On All Types Of Traffic In A Highly Competitive Niche. Top Affiliates Are Already Ripping The Benefits Reporting 6 Fig/day.</p>
+**Vendor's marketplace description:** DigiStore Welcomes Denticore, The First And Only Tooth And Gum Rebuilding Solution Inspired by The Navy Divers. Big Conversions On All Types Of Traffic In A Highly Competitive Niche. Top Affiliates Are Already Ripping The Benefits Reporting 6 Fig/day.
 
 ## 2. Links
 

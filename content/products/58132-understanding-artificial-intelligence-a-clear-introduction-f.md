@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A clear, jargon-free introduction to AI for everyday life and business – ideal for audiences in tech, productivity, and business who want to actually understand AI, not just use it.</p>
-<p> </p>
-<p>24 chapters, practical over technical, written for beginners aged 40+. 50% commission per sale.</p>
+**Vendor's marketplace description:** A clear, jargon-free introduction to AI for everyday life and business – ideal for audiences in tech, productivity, and business who want to actually understand AI, not just use it. 24 chapters, practical over technical, written for beginners aged 40+. 50% commission per sale.
 
 ## 2. Links
 

@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A thoughtful digital guide that supports users in building a more balanced and less pressured relationship with their body.</p>
-<p>This product explores:</p>
-<ul>
-<li>Emotional patterns behind body image struggles</li>
-<li>Everyday triggers like comparison and self-criticism</li>
-<li>Gentle mindset shifts to reduce internal pressure</li>
-</ul>
-<p>Designed for audiences seeking a calmer, more sustainable approach to body image.</p>
-<p><strong>Delivery includes:</strong></p>
-<ul>
-<li>Full PDF guide</li>
-<li>Visual infographics (PNGs)</li>
-<li>Audio version for on-the-go reflection</li>
-</ul>
-<p>Delivered as a downloadable digital product.</p>
+**Vendor's marketplace description:** A thoughtful digital guide that supports users in building a more balanced and less pressured relationship with their body. This product explores: Emotional patterns behind body image struggles Everyday triggers like comparison and self-criticism Gentle mindset shifts to reduce internal pressure Designed for audiences seeking a calmer, more sustainable approach to body image. Delivery includes: Full PDF guide Visual infographics (PNGs) Audio version for on-the-go reflection Delivered as a downloadable digital product.
 
 ## 2. Links
 

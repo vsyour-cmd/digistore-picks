@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>new product on the nertowrk avaible in UK </p>
+**Vendor's marketplace description:** new product on the nertowrk avaible in UK
 
 ## 2. Links
 

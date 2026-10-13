@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A reflective digital guide for individuals who feel disconnected or out of alignment in their daily life.</p>
-<p>This product supports users in:</p>
-<ul>
-<li>Understanding the source of internal dissatisfaction</li>
-<li>Re-evaluating priorities and routines</li>
-<li>Moving toward a more intentional direction</li>
-</ul>
-<p>Designed for audiences seeking clarity without pressure or drastic change.</p>
-<p><strong>Delivery includes:</strong></p>
-<ul>
-<li>Full PDF guide</li>
-<li>Visual infographics (PNGs)</li>
-<li>Audio version for flexible engagement</li>
-</ul>
-<p>Delivered as a downloadable digital product.</p>
+**Vendor's marketplace description:** A reflective digital guide for individuals who feel disconnected or out of alignment in their daily life. This product supports users in: Understanding the source of internal dissatisfaction Re-evaluating priorities and routines Moving toward a more intentional direction Designed for audiences seeking clarity without pressure or drastic change. Delivery includes: Full PDF guide Visual infographics (PNGs) Audio version for flexible engagement Delivered as a downloadable digital product.
 
 ## 2. Links
 

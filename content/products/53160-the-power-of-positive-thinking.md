@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This product is an ebook, it is delivered in PDF format</p>
-<div>Here's what you'll receive:</div>
-<div>1 – How to make your attitude your ally How to progress, make the most of it and take advantage of some of the precious things that life has to offer…</div>
-<div> </div>
-<div>2 – The Power of Positive Thinking How to Deal with Frustrating Moments and Transform Bad Situations into a Productive Environment!</div>
-<div> </div>
-<div>3 – Secrets of innovative thinking exposed Deriving new inventions and ideas from innovative thinking…</div>
-<div> </div>
-<div>4 – How to adopt creative thinking How to generate innovative ideas and add value to your organizational skills…</div>
-<div> </div>
-<div>5 – The Art of Solving Problems How to Be Mentally Prepared to Deal with Life’s Obstacles…</div>
+**Vendor's marketplace description:** This product is an ebook, it is delivered in PDF format Here's what you'll receive: 1 – How to make your attitude your ally How to progress, make the most of it and take advantage of some of the precious things that life has to offer… 2 – The Power of Positive Thinking How to Deal with Frustrating Moments and Transform Bad Situations into a Productive Environment! 3 – Secrets of innovative thinking exposed Deriving new inventions and ideas from innovative thinking… 4 – How to adopt creative thinking How to generate innovative ideas and add value to your organizational skills… 5 – The Art of Solving Problems How to Be Mentally Prepared to Deal with Life’s Obstacles…
 
 ## 2. Links
 

@@ -41,43 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>• Compliant! </p>
-<p>• 75% initial commissions (for physical books sales)</p>
-<p>• Performs well in most niches: health, survival, remedies, etc</p>
-<p>• 10% conversion rate on email lists</p>
-<p>• Put it to test!</p>
-<p>https://homedoctorguide.com/affiliates/</p>
-
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page <a href="https://homedoctorbook.com/affiliates/">https://homedoctorbook.com/affiliates/</a> or email affiliates.gbs@gmail.com .</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<p>Promolink: <a href="https://www.digistore24.com/redir/394659/AFFILIATE/CAMPAIGNKEY">https://www.digistore24.com/redir/394659/AFFILIATE/CAMPAIGNKEY</a></p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** • Compliant! • 75% initial commissions (for physical books sales) • Performs well in most niches: health, survival, remedies, etc • 10% conversion rate on email lists • Put it to test! https://homedoctorguide.com/affiliates/ Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page https://homedoctorbook.com/affiliates/ or email affiliates.gbs@gmail.com . Promolink: https://www.digistore24.com/redir/394659/AFFILIATE/CAMPAIGNKEY
 
 ## 2. Links
 

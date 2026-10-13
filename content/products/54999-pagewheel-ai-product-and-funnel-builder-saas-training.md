@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Lifetime recurring commissions! With proven payout history and over 5,000 happy customers!</strong><br /><br />Pagewheel Gives Your Customers:</div>
-<ul>
-<li>Courses, Virtual Coaching Bots, Digital Products and MORE - made in minutes.</li>
-<li>Step-by-step guidance that shows them exactly what to build, and connects the products to a sales funnel.</li>
-<li>Professional sales pages and products, DONE without a team. No designer, developer, or copywriter required</li>
-<li>Less tech. Less guessing. More products launched, more sales!</li>
-</ul>
-<div><br />We will help your followers go from idea to live in minutes, not weeks!<br /><br />Our churn is low.<br />We have REAL human live support.<br />We have live classes - so your users will never be stuck in the tech!<br /><br />"<em>This program makes being an affiliate EASY</em>!"  April B.<br />"<em>I helped my clients get their funnels live under a week</em>"  Tonya.<br />~ Real affiliate promoters.</div>
+**Vendor's marketplace description:** Lifetime recurring commissions! With proven payout history and over 5,000 happy customers! Pagewheel Gives Your Customers: Courses, Virtual Coaching Bots, Digital Products and MORE - made in minutes. Step-by-step guidance that shows them exactly what to build, and connects the products to a sales funnel. Professional sales pages and products, DONE without a team. No designer, developer, or copywriter required Less tech. Less guessing. More products launched, more sales! We will help your followers go from idea to live in minutes, not weeks! Our churn is low. We have REAL human live support. We have live classes - so your users will never be stuck in the tech! " This program makes being an affiliate EASY !" April B. " I helped my clients get their funnels live under a week " Tonya. ~ Real affiliate promoters.
 
 ## 2. Links
 

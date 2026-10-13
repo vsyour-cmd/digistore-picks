@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Earn <strong>65% commission</strong> with hyper-conversions and BIG EPCs!</p>
-<p>The first 24/7 appetite control and digestive support supplements: GlutLess Energy boosts daytime metabolism and curbs cravings, while GlutLess Sleep enhances overnight digestion.</p>
-<p><strong>A game-changing combo for your audience!</strong></p>
+**Vendor's marketplace description:** Earn 65% commission with hyper-conversions and BIG EPCs! The first 24/7 appetite control and digestive support supplements: GlutLess Energy boosts daytime metabolism and curbs cravings, while GlutLess Sleep enhances overnight digestion. A game-changing combo for your audience!
 
 ## 2. Links
 

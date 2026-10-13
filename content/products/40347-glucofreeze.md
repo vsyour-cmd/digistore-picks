@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A product made to help soothe diabetes issues.</p>
+**Vendor's marketplace description:** A product made to help soothe diabetes issues.
 
 ## 2. Links
 

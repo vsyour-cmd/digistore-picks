@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The first eBook ever created about the start as an affiliate manager. It also contains valueable informations for every account manager in the performance marketing space.</strong></p>
-<p>You are not only earning from the sell of the eBook but also from the upsells for the program audits.</p>
-<p>Ready to make a difference and boost your income? Don't miss out on this golden opportunity! </p>
-<p><span style="color:#ff0000;"><strong>Become an affiliate for The Affiliate Management Starter Kit and start earning a generous 50% commission on every sale you generate.</strong></span></p>
+**Vendor's marketplace description:** The first eBook ever created about the start as an affiliate manager. It also contains valueable informations for every account manager in the performance marketing space. You are not only earning from the sell of the eBook but also from the upsells for the program audits. Ready to make a difference and boost your income? Don't miss out on this golden opportunity! Become an affiliate for The Affiliate Management Starter Kit and start earning a generous 50% commission on every sale you generate.
 
 ## 2. Links
 

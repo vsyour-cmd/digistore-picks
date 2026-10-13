@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A structured digital guide for individuals who feel uncertain or disconnected from their current career path.</p>
-<p>This product helps users:</p>
-<ul>
-<li>Reflect on their current situation</li>
-<li>Identify sources of confusion or misalignment</li>
-<li>Explore practical ways to move forward with clarity</li>
-</ul>
-<p>Suitable for audiences feeling “stuck” or unsure about next steps.</p>
-<p><strong>Delivery includes:</strong></p>
-<ul>
-<li>Full PDF guide</li>
-<li>Visual infographics (PNGs)</li>
-<li>Audio version for flexible learning</li>
-</ul>
-<p>Delivered as a downloadable digital product.</p>
+**Vendor's marketplace description:** A structured digital guide for individuals who feel uncertain or disconnected from their current career path. This product helps users: Reflect on their current situation Identify sources of confusion or misalignment Explore practical ways to move forward with clarity Suitable for audiences feeling “stuck” or unsure about next steps. Delivery includes: Full PDF guide Visual infographics (PNGs) Audio version for flexible learning Delivered as a downloadable digital product.
 
 ## 2. Links
 

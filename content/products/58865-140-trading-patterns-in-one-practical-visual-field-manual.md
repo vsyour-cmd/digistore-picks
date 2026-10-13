@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Pattern Trader’s Atlas is a comprehensive technical-analysis reference covering 140 chart, candlestick, price-action, gap and harmonic patterns. Each pattern is presented with recognition rules, confirmation principles, invalidation, targets, context and common mistakes. The product is designed as an educational reference for traders who want a more structured way to study technical analysis, not as a promise of profits or investment results. Strong fit for trading, investing, financial education and technical-analysis audiences.</p>
+**Vendor's marketplace description:** Pattern Trader’s Atlas is a comprehensive technical-analysis reference covering 140 chart, candlestick, price-action, gap and harmonic patterns. Each pattern is presented with recognition rules, confirmation principles, invalidation, targets, context and common mistakes. The product is designed as an educational reference for traders who want a more structured way to study technical analysis, not as a promise of profits or investment results. Strong fit for trading, investing, financial education and technical-analysis audiences.
 
 ## 2. Links
 

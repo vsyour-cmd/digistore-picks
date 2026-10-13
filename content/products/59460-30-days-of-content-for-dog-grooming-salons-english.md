@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>30 Days of Content for Dog Grooming Salons (English)</p>
-<p>For dog grooming salons planning their social content.</p>
-<p>English guide and workbook, twelve editable square PPTX layouts, twelve captions, six Reel outlines, six Story templates and a 30-day XLSX activity calendar.</p>
-<p>No photos, recorded videos, music licences or native Canva link. The calendar includes preparation, reply and review days.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$29.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** 30 Days of Content for Dog Grooming Salons (English) For dog grooming salons planning their social content. English guide and workbook, twelve editable square PPTX layouts, twelve captions, six Reel outlines, six Story templates and a 30-day XLSX activity calendar. No photos, recorded videos, music licences or native Canva link. The calendar includes preparation, reply and review days. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$29.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

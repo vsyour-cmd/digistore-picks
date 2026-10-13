@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Build a strong B1 English level in just 8 weeks with this simple and <strong>practical digital workbook</strong>. Designed for A2–B1 learners, this self-study plan includes step-by-step daily lessons, vocabulary exercises, grammar refreshers, and a list of essential irregular verbs.</p>
-<p>Improve your speaking, understanding, and confidence in English with <em>just 15–20 minutes a day</em> — without stress or overwhelming theory.</p>
-<p>Perfect for anyone who wants to <em>refresh their English, expand vocabulary, and create a consistent learning habit.</em></p>
+**Vendor's marketplace description:** Build a strong B1 English level in just 8 weeks with this simple and practical digital workbook . Designed for A2–B1 learners, this self-study plan includes step-by-step daily lessons, vocabulary exercises, grammar refreshers, and a list of essential irregular verbs. Improve your speaking, understanding, and confidence in English with just 15–20 minutes a day — without stress or overwhelming theory. Perfect for anyone who wants to refresh their English, expand vocabulary, and create a consistent learning habit.
 
 ## 2. Links
 

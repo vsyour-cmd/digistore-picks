@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Brand-New Prostate Solution Already Going for #1 Hottest Offer</strong></p>
-<p>- Amazing conversion on Native, Facebook, Email and YT</p>
-<p>- More than $3+ EPCs</p>
-<p>- Top VSL that targets a wide audience</p>
+**Vendor's marketplace description:** Brand-New Prostate Solution Already Going for #1 Hottest Offer - Amazing conversion on Native, Facebook, Email and YT - More than $3+ EPCs - Top VSL that targets a wide audience
 
 ## 2. Links
 

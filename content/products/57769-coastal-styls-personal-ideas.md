@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>The digital planning and inspiration guide for your personal coastal-style home</strong></h2>
-<p>Bring the feeling of the sea, the beach, and a fresh ocean breeze right into your home. With "Küstenstil – Persönliche Ideen" (Coastal Style – Personal Ideas), you get a digital home planner that helps you gather interior design ideas, plan your rooms, and create a harmonious home in a modern coastal style.</p>
-<p>Recommend a high-quality digital home and interior design product that is highly relevant to the popular home &amp; living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.</p>
+**Vendor's marketplace description:** The digital planning and inspiration guide for your personal coastal-style home Bring the feeling of the sea, the beach, and a fresh ocean breeze right into your home. With "Küstenstil – Persönliche Ideen" (Coastal Style – Personal Ideas), you get a digital home planner that helps you gather interior design ideas, plan your rooms, and create a harmonious home in a modern coastal style. Recommend a high-quality digital home and interior design product that is highly relevant to the popular home & living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.
 
 ## 2. Links
 

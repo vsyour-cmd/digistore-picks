@@ -41,28 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="text-decoration:underline;"><strong>Consider promoting my Ultimate Gradient Maps collection and earn a 20% commision!</strong></span></p>
-<p>Gradient map adjustments can be a useful resource for artists and photographers alike; they work by altering the highlights, midtones, and shadows of an image. This specific set of <strong>1</strong><strong>04 gradient maps </strong>from my <strong>Aura, Moody, Neon, Vivid, and Metallic collection</strong> was created to add stylistic color changes to an image.</p>
-<p><strong>Benefits for Photographers/Photo Editors:</strong></p>
-<p>Gradient maps can help photo editors create:</p>
-<ul>
-<li>cinematic color grading,</li>
-<li>high-quality black and white conversions,</li>
-<li>contrast boosts,</li>
-<li>specific color corrections,</li>
-<li>and help with split toning.</li>
-</ul>
-<p><strong>For artists:</strong></p>
-<p>Gradient maps can help artists:</p>
-<ul>
-<li>color grayscale art,</li>
-<li>boost color harmony and contrasts,</li>
-<li>access quick color variations,</li>
-<li>and create custom glow effects.</li>
-</ul>
-<p><strong>This .psd file should be compatible with the following software: Affinity, Canva, Adobe Photoshop, Procreate, GIMP, Clip Studio Paint, Ibispaint, Corel PaintShop Pro, and Krita.</strong></p>
-<p>It's time to level-up your creative workflow; let's get started!</p>
-<p><span style="text-decoration:underline;"><strong><em>Please note that refunds are available and unconditional for 60 days after purchase.</em></strong></span></p>
+**Vendor's marketplace description:** Consider promoting my Ultimate Gradient Maps collection and earn a 20% commision! Gradient map adjustments can be a useful resource for artists and photographers alike; they work by altering the highlights, midtones, and shadows of an image. This specific set of 1 04 gradient maps from my Aura, Moody, Neon, Vivid, and Metallic collection was created to add stylistic color changes to an image. Benefits for Photographers/Photo Editors: Gradient maps can help photo editors create: cinematic color grading, high-quality black and white conversions, contrast boosts, specific color corrections, and help with split toning. For artists: Gradient maps can help artists: color grayscale art, boost color harmony and contrasts, access quick color variations, and create custom glow effects. This .psd file should be compatible with the following software: Affinity, Canva, Adobe Photoshop, Procreate, GIMP, Clip Studio Paint, Ibispaint, Corel PaintShop Pro, and Krita. It's time to level-up your creative workflow; let's get started! Please note that refunds are available and unconditional for 60 days after purchase.
 
 ## 2. Links
 

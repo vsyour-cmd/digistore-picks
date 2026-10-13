@@ -41,67 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Earn 60% Commissions — Canva Cash Machine</div>
-<div> </div>
-<div>Promote: Canva Cash Machine — How to Create Digital Assets &amp; Print-on-Demand Products That Sell Themselves</div>
-<div> </div>
-<div>Price: $27 (Regular $97)</div>
-<div>Commission: 60% — That's $16.20 per sale</div>
-<div>Conversion: High — beginner-friendly offer with unique "design once, sell forever" angle</div>
-<div> </div>
-<div>What You're Promoting:</div>
-<div> </div>
-<div>This is a complete beginner's guide to creating and selling digital products and print-on-demand designs using Canva (free tool). Your audience learns how to find what's already selling, create their version in 30 minutes, and list it on marketplaces like Etsy, Redbubble, and Creative Market.</div>
-<div> </div>
-<div>The Unique Angle (Why This Stands Out):</div>
-<div> </div>
-<div>Most Canva courses teach how to use the tool. This system teaches WHAT to make that actually sells. No design skills needed. No social media following required. The marketplaces bring the traffic. Create once. Sell forever.</div>
-<div> </div>
-<div>What Your Audience Receives:</div>
-<div> </div>
-<div>• Main ebook (6 modules) — $97 value</div>
-<div>• Bonus 1: 50 Profitable Product Ideas — $47 value</div>
-<div>• Bonus 2: 50 Canva Templates (Ready to Customize) — $97 value</div>
-<div>• Bonus 3: Listing Optimization Checklist — $39 value</div>
-<div>• Bonus 4: Market Research Cheat Sheet — $37 value</div>
-<div>• Bonus 5: 30-Day Launch Tracker — $45 value</div>
-<div> </div>
-<div>Total value to customer: $347</div>
-<div>Customer pays only: $27</div>
-<div> </div>
-<div>Why This Offer Converts:</div>
-<div> </div>
-<div>• Unique angle — stands out from generic "learn Canva" courses</div>
-<div>• Low $27 price point — easy impulse buy</div>
-<div>• High perceived value ($347 total)</div>
-<div>• 60-day money-back guarantee removes risk</div>
-<div>• 5 bonuses create urgency</div>
-<div>• No design skills needed — broadens your audience</div>
-<div> </div>
-<div>Who To Promote This To:</div>
-<div> </div>
-<div>• People who want passive income but don't know where to start</div>
-<div>• Anyone who's heard of print-on-demand but felt overwhelmed</div>
-<div>• Complete beginners with zero design skills</div>
-<div>• People who tried Etsy or Redbubble and made no sales</div>
-<div>• Side hustlers wanting to build digital assets</div>
-<div>• Your email list (beginners love this offer)</div>
-<div> </div>
-<div>Promotional Angles That Work:</div>
-<div> </div>
-<div>1. "Design once. Sell forever. No design skills needed."</div>
-<div>2. "Earn 60% commissions promoting a product your audience actually needs."</div>
-<div>3. "$27 product. $347 value. 60% commission. Promote this now."</div>
-<div>4. "Create digital products and print-on-demand designs using Canva (free)."</div>
-<div>5. "No inventory. No shipping. No social media following. Just a system."</div>
-<div> </div>
-<div>Resources Available After Approval:</div>
-<div> </div>
-<div>• Email swipes (5 ready-to-send)</div>
-<div>• Social media graphics promotional materials </div>
-<div> </div>
-<div> </div>
-<div>Grab your affiliate link below and start earning 60% commissions today.</div>
+**Vendor's marketplace description:** Earn 60% Commissions — Canva Cash Machine Promote: Canva Cash Machine — How to Create Digital Assets & Print-on-Demand Products That Sell Themselves Price: $27 (Regular $97) Commission: 60% — That's $16.20 per sale Conversion: High — beginner-friendly offer with unique "design once, sell forever" angle What You're Promoting: This is a complete beginner's guide to creating and selling digital products and print-on-demand designs using Canva (free tool). Your audience learns how to find what's already selling, create their version in 30 minutes, and list it on marketplaces like Etsy, Redbubble, and Creative Market. The Unique Angle (Why This Stands Out): Most Canva courses teach how to use the tool. This system teaches WHAT to make that actually sells. No design skills needed. No social media following required. The marketplaces bring the traffic. Create once. Sell forever. What Your Audience Receives: • Main ebook (6 modules) — $97 value • Bonus 1: 50 Profitable Product Ideas — $47 value • Bonus 2: 50 Canva Templates (Ready to Customize) — $97 value • Bonus 3: Listing Optimization Checklist — $39 value • Bonus 4: Market Research Cheat Sheet — $37 value • Bonus 5: 30-Day Launch Tracker — $45 value Total value to customer: $347 Customer pays only: $27 Why This Offer Converts: • Unique angle — stands out from generic "learn Canva" courses • Low $27 price point — easy impulse buy • High perceived value ($347 total) • 60-day money-back guarantee removes risk • 5 bonuses create urgency • No design skills needed — broadens your audience Who To Promote This To: • People who want passive income but don't know where to start • Anyone who's heard of print-on-demand but felt overwhelmed • Complete beginners with zero design skills • People who tried Etsy or Redbubble and made no sales • Side hustlers wanting to build digital assets • Your email list (beginners love this offer) Promotional Angles That Work: 1. "Design once. Sell forever. No design skills needed." 2. "Earn 60% commissions promoting a product your audience actually needs." 3. "$27 product. $347 value. 60% commission. Promote this now." 4. "Create digital products and print-on-demand designs using Canva (free)." 5. "No inventory. No shipping. No social media following. Just a system." Resources Available After Approval: • Email swipes (5 ready-to-send) • Social media graphics promotional materials Grab your affiliate link below and start earning 60% commissions today.
 
 ## 2. Links
 

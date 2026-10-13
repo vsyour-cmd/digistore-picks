@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hunter Disk Cleaner is a modern, blazing-fast, and lightweight disk cleanup utility for Windows. Safely hunt down and remove hidden junk files to free up your computer storage instantly, eliminating digital waste.</p>
-<p>Unlike traditional opaque cleaners, Hunter features a unified transparency interface that shows you exactly what is being analyzed and gives you full control over your data, ensuring you know exactly how much space you can clean without any hidden surprises.</p>
-<p>✨ Features</p>
-<p>⚡ High-Speed Scanning: Multi-threaded engine optimized to scan critical Windows junk zones in seconds.</p>
-<p>And more...</p>
-<p> </p>
+**Vendor's marketplace description:** Hunter Disk Cleaner is a modern, blazing-fast, and lightweight disk cleanup utility for Windows. Safely hunt down and remove hidden junk files to free up your computer storage instantly, eliminating digital waste. Unlike traditional opaque cleaners, Hunter features a unified transparency interface that shows you exactly what is being analyzed and gives you full control over your data, ensuring you know exactly how much space you can clean without any hidden surprises. ✨ Features ⚡ High-Speed Scanning: Multi-threaded engine optimized to scan critical Windows junk zones in seconds. And more...
 
 ## 2. Links
 

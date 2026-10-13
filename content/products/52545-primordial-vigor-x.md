@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Primordial Vigor X</strong> is the strongest, most effective 100% natural male enhancing formula you've ever come across. Based on the most recent scientific studies, this new method will help you add inches to your penis size in just a few weeks, without the use of pumps, creams, or any other so-called solutions you've unsuccessfully used so far. Get Up To<strong> </strong><strong>85% Commission</strong> Per Sale!</p>
+**Vendor's marketplace description:** Primordial Vigor X is the strongest, most effective 100% natural male enhancing formula you've ever come across. Based on the most recent scientific studies, this new method will help you add inches to your penis size in just a few weeks, without the use of pumps, creams, or any other so-called solutions you've unsuccessfully used so far. Get Up To 85% Commission Per Sale!
 
 ## 2. Links
 

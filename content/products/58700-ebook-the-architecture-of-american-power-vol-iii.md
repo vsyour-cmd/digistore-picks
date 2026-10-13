@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>HOW NATIONAL POWER BECOMES GLOBAL INFLUENCE</strong></p>
-<p><em>The Architecture of American Power – Volume III</em> reveals how the United States transformed national strength into a global architecture of influence through alliances, institutions, economic networks, military presence, and strategic partnerships.</p>
-<p>What sets this book apart is its focus on <strong>networked power</strong>. Rather than measuring influence simply through military or economic strength, it shows how NATO, international institutions, the dollar-centered system, global partnerships, intelligence cooperation, and technological networks reinforce one another.</p>
-<p>Readers gain a structural understanding of why American influence extends far beyond U.S. territory—and why the future of global power will increasingly depend on the ability to build, connect, and adapt strategic networks.</p>
-<p>For affiliates, this creates a clearly differentiated geopolitical product with strong relevance to readers interested in NATO, international relations, great-power competition, global economics, military strategy, and the changing world order.</p>
+**Vendor's marketplace description:** HOW NATIONAL POWER BECOMES GLOBAL INFLUENCE The Architecture of American Power – Volume III reveals how the United States transformed national strength into a global architecture of influence through alliances, institutions, economic networks, military presence, and strategic partnerships. What sets this book apart is its focus on networked power . Rather than measuring influence simply through military or economic strength, it shows how NATO, international institutions, the dollar-centered system, global partnerships, intelligence cooperation, and technological networks reinforce one another. Readers gain a structural understanding of why American influence extends far beyond U.S. territory—and why the future of global power will increasingly depend on the ability to build, connect, and adapt strategic networks. For affiliates, this creates a clearly differentiated geopolitical product with strong relevance to readers interested in NATO, international relations, great-power competition, global economics, military strategy, and the changing world order.
 
 ## 2. Links
 

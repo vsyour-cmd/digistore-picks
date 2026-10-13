@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Compliant, non-hype written salespage - designed for Facebook traffic. </p>
+**Vendor's marketplace description:** Compliant, non-hype written salespage - designed for Facebook traffic.
 
 ## 2. Links
 

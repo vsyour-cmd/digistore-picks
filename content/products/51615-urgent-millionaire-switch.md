@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>We are very concerned about the EPC and CVR when we designed this offer.</p>
-<p>Finally, it’s a comms engine and it’s made for paid traffic and literally all PD lists.</p>
-<p>Many affiliates have tested and never stop sending.</p>
-<p>You can bet on it with all your clicks!</p>
+**Vendor's marketplace description:** We are very concerned about the EPC and CVR when we designed this offer. Finally, it’s a comms engine and it’s made for paid traffic and literally all PD lists. Many affiliates have tested and never stop sending. You can bet on it with all your clicks!
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Why do so many relationships fail despite love? ?</p>
-<p>“Relationship Code – The language behind real connection” helps you finally understand emotional patterns, fear of loss, communication and real closeness. ❤️</p>
-<p>? In this guide you will find out:<br />✔ why relationships fail or grow<br />✔ how emotional security is created<br />✔ how to better understand conflicts<br />✔ why self-esteem is so important<br />✔ and how real connection is built</p>
-<p>For everyone who wants to love more consciously and truly understand relationships. ✨</p>
+**Vendor's marketplace description:** Why do so many relationships fail despite love? ? “Relationship Code – The language behind real connection” helps you finally understand emotional patterns, fear of loss, communication and real closeness. ❤️ ? In this guide you will find out: ✔ why relationships fail or grow ✔ how emotional security is created ✔ how to better understand conflicts ✔ why self-esteem is so important ✔ and how real connection is built For everyone who wants to love more consciously and truly understand relationships. ✨
 
 ## 2. Links
 

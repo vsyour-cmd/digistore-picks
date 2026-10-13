@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hands-on guide for switching from Windows to Ubuntu 26.04 LTS, for complete beginners. <br />PDF with command poster and hardware guide, $9.99.</p>
-<p>Fits audiences whose PCs are too old for Windows 11, and Windows 10 updates now require ESU enrollment and end in October 2027, a timely hook.</p>
-<p>Banners, emails and posts: shop.code-content-ai.com/ditch-windows-embrace-linux/partners/</p>
+**Vendor's marketplace description:** Hands-on guide for switching from Windows to Ubuntu 26.04 LTS, for complete beginners. PDF with command poster and hardware guide, $9.99. Fits audiences whose PCs are too old for Windows 11, and Windows 10 updates now require ESU enrollment and end in October 2027, a timely hook. Banners, emails and posts: shop.code-content-ai.com/ditch-windows-embrace-linux/partners/
 
 ## 2. Links
 

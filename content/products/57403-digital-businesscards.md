@@ -41,37 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<div>
-<p>Share your contact details with a link or QR code and stay memorable to customers and business partners.</p>
-<p>With the<strong> Digital Business Card</strong>, anyone can create a professional online profile in just a few minutes. Instead of handing out traditional paper business cards, your contact details can be shared instantly via <strong>link, QR code, Apple Wallet, or Google Wallet</strong>.</p>
-<p>Customers and business partners can save your contact information directly to their smartphones, with <strong>no app required and no manual typing</strong>.</p>
-<h3>Who Is It For?</h3>
-<ul>
-<li>Self-employed professionals</li>
-<li>Business owners</li>
-<li>Freelancers</li>
-<li>Consultants</li>
-<li>Coaches</li>
-<li>Sales professionals</li>
-<li>Tradespeople</li>
-<li>Agencies</li>
-<li>Teams and companies</li>
-</ul>
-<h3>Key Benefits</h3>
-<p>✅ Create your digital business card in minutes<br />✅ Share via link, QR code, email signature, or wallet pass<br />✅ Professional design with your own branding<br />✅ Custom domain support<br />✅ Always up-to-date contact information<br />✅ Apple Wallet &amp; Google Wallet integration<br />✅ View and click analytics<br />✅ No app required for your contacts<br />✅ Team solution available for companies<br />✅ <strong>Optional NFC cards available upon request</strong></p>
-<h3>How It Works</h3>
-<ol>
-<li>Create your profile</li>
-<li>Share your link, QR code, or NFC card</li>
-<li>Generate new contacts and business opportunities</li>
-</ol>
-<h3>Why Do Customers Choose This Product?</h3>
-<p>Traditional paper business cards are often lost or thrown away. With a digital business card, your contact details are always available and can be saved instantly, increasing the likelihood that a new contact becomes a customer.</p>
-<p>In addition, you can connect your own domain, and whenever your contact information changes, such as a new phone number or surname, there is no need to reprint business cards. Your details are updated instantly and remain accessible through the same link, QR code, wallet pass, or optional NFC card.</p>
-</div>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Share your contact details with a link or QR code and stay memorable to customers and business partners. With the Digital Business Card , anyone can create a professional online profile in just a few minutes. Instead of handing out traditional paper business cards, your contact details can be shared instantly via link, QR code, Apple Wallet, or Google Wallet . Customers and business partners can save your contact information directly to their smartphones, with no app required and no manual typing . Who Is It For? Self-employed professionals Business owners Freelancers Consultants Coaches Sales professionals Tradespeople Agencies Teams and companies Key Benefits ✅ Create your digital business card in minutes ✅ Share via link, QR code, email signature, or wallet pass ✅ Professional design with your own branding ✅ Custom domain support ✅ Always up-to-date contact information ✅ Apple Wallet & Google Wallet integration ✅ View and click analytics ✅ No app required for your contacts ✅ Team solution available for companies ✅ Optional NFC cards available upon request How It Works Create your profile Share your link, QR code, or NFC card Generate new contacts and business opportunities Why Do Customers Choose This Product? Traditional paper business cards are often lost or thrown away. With a digital business card, your contact details are always available and can be saved instantly, increasing the likelihood that a new contact becomes a customer. In addition, you can connect your own domain, and whenever your contact information changes, such as a new phone number or surname, there is no need to reprint business cards. Your details are updated instantly and remain accessible through the same link, QR code, wallet pass, or optional NFC card.
 
 ## 2. Links
 

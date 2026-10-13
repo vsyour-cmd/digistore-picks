@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>High Converting Survival Product! This Is The Winning Offer You Were Looking For. It Works On Energy/solar, Home/garden/woodworking And Prepper/survival Lists As Well. Great Results On Native/Facebook Traffic! Contact Us For Paybump!</p>
-<p>OPEN FOR ALL TRAFFIC!</p>
-<p>If you need help with anything or any Affiliate Resource Tool reach out to Daniel at danielrowain@gmail.com</p>
+**Vendor's marketplace description:** High Converting Survival Product! This Is The Winning Offer You Were Looking For. It Works On Energy/solar, Home/garden/woodworking And Prepper/survival Lists As Well. Great Results On Native/Facebook Traffic! Contact Us For Paybump! OPEN FOR ALL TRAFFIC! If you need help with anything or any Affiliate Resource Tool reach out to Daniel at danielrowain@gmail.com
 
 ## 2. Links
 

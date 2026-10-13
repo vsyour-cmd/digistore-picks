@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>With a new funnel, VSL and eye-catching design, this book performs exceptionally well in the health, survival, and remedies niches.<br />We're offering a 75% commission to affiliates who want to put it to the test,<br />Give it a try today!</p>
+**Vendor's marketplace description:** With a new funnel, VSL and eye-catching design, this book performs exceptionally well in the health, survival, and remedies niches. We're offering a 75% commission to affiliates who want to put it to the test, Give it a try today!
 
 ## 2. Links
 

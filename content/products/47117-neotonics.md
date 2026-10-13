@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>DigiStore Says Hello To These Revolutionary Skin-Gut Gummies That Target The Root Cause of Skin Aging. Skyrocketing Conversions On All Types Of Traffic. Top Affiliates Are Already Ripping The Benefits, Reporting Up To $7 EPC!</p>
+**Vendor's marketplace description:** DigiStore Says Hello To These Revolutionary Skin-Gut Gummies That Target The Root Cause of Skin Aging. Skyrocketing Conversions On All Types Of Traffic. Top Affiliates Are Already Ripping The Benefits, Reporting Up To $7 EPC!
 
 ## 2. Links
 

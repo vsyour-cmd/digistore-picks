@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1><span style="color:#008080;"><strong>GUARANTEED:</strong> <strong>50% Commission!</strong></span></h1>
-<div>
-<div>
-<div>
-<p>You will get 50% through the entire funnel. We use our own customer service team to try our best to save the sale. We keep our refunds and chargebacks low. We love our customers and our affiliates - Being a part of the Peak Biome family...means FAMILY.</p>
-<p><span style="color:#000000;"><strong>Put Money In Your Pocket DAILY!</strong></span><br />For <strong>Peak BioBoost</strong> - Most affiliates are making $1.50 - $2 EPC with some making nearly <strong>$4 EPC</strong>. And we're <strong>CONSTANTLY</strong> testing and improving our funnels! </p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><strong>AFFILIATES MUST BE PRE-APPROVED</strong></span></span></p>
-<p style="text-align:center;"><span style="text-decoration:underline;"><span style="color:#ff0000;text-decoration:underline;"><strong><br /></strong></span><span style="color:#0000ff;"><a href="https://docs.google.com/forms/d/14cD6Sn9aUWCAwCIHOGBgV8FIt4yATEGx0oNhCPNXsoU/edit?ts=63695dd1&amp;pli=1" target="_blank" rel="noreferrer noopener"><strong>CLICK HERE TO FILL OUT APPROVAL SURVEY</strong></a><strong><br /></strong></span></span></p>
-</div>
-<div> </div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** GUARANTEED: 50% Commission! You will get 50% through the entire funnel. We use our own customer service team to try our best to save the sale. We keep our refunds and chargebacks low. We love our customers and our affiliates - Being a part of the Peak Biome family...means FAMILY. Put Money In Your Pocket DAILY! For Peak BioBoost - Most affiliates are making $1.50 - $2 EPC with some making nearly $4 EPC . And we're CONSTANTLY testing and improving our funnels! AFFILIATES MUST BE PRE-APPROVED CLICK HERE TO FILL OUT APPROVAL SURVEY
 
 ## 2. Links
 

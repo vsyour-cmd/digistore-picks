@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Digital Dating Profile Self-Audit Guide is a $29 psychology-backed PDF that helps singles fix their dating profile — photos, bio, prompts, and messaging — to attract better matches on Hinge, Bumble, and Tinder. It's a do-it-yourself guide (no service delivery, no support burden on you), backed by a 60-day money-back guarantee to keep refunds and disputes low.</p>
-<p>You earn <strong>50% commission on the front-end $29 guide AND the one-click $49 upsell</strong> (The Messaging Swipe File + Templates) — from the same link, automatically. That's up to ~$39 per buyer who takes both.</p>
-<p>Why it's easy to promote:</p>
-<ul>
-<li>Huge evergreen audience — anyone dating on the apps is a prospect.</li>
-<li>Clean, high-converting sales page with a built-in one-click upsell.</li>
-<li>A full affiliate resource center with <strong>40 ready-made ad graphics (every size), plug-and-play captions, email/DM swipes, and a link builder</strong> — grab it at digitaldating.socialnestmarketing.com/affiliate.</li>
-<li>Honest, refund-friendly positioning — no hype, no fake claims.</li>
-</ul>
-<p>Perfect for lists and audiences in dating, self-improvement, confidence, men's/women's lifestyle, and social-media coaching. Grab your link, drop it in your caption or bio, and start earning.</p>
+**Vendor's marketplace description:** The Digital Dating Profile Self-Audit Guide is a $29 psychology-backed PDF that helps singles fix their dating profile — photos, bio, prompts, and messaging — to attract better matches on Hinge, Bumble, and Tinder. It's a do-it-yourself guide (no service delivery, no support burden on you), backed by a 60-day money-back guarantee to keep refunds and disputes low. You earn 50% commission on the front-end $29 guide AND the one-click $49 upsell (The Messaging Swipe File + Templates) — from the same link, automatically. That's up to ~$39 per buyer who takes both. Why it's easy to promote: Huge evergreen audience — anyone dating on the apps is a prospect. Clean, high-converting sales page with a built-in one-click upsell. A full affiliate resource center with 40 ready-made ad graphics (every size), plug-and-play captions, email/DM swipes, and a link builder — grab it at digitaldating.socialnestmarketing.com/affiliate. Honest, refund-friendly positioning — no hype, no fake claims. Perfect for lists and audiences in dating, self-improvement, confidence, men's/women's lifestyle, and social-media coaching. Grab your link, drop it in your caption or bio, and start earning.
 
 ## 2. Links
 

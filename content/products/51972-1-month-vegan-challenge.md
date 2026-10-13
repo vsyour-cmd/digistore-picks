@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ready to earn 50% commissions promoting a high converting, evergreen product in the booming vegan and plant-based lifestyle niche?</p>
-<p>The One Month Vegan Challenge is a powerful, beginner-friendly digital bundle designed to help people transition to a plant-based lifestyle in just 28 days. With done-for-you meal plans, weekly shopping lists, and delicious, easy-to-follow vegan recipes, this is the perfect solution for anyone curious about going vegan. Whether it's for health, weight loss, the environment, or animal welfare.</p>
-<p>Help your audience go vegan in just 28 days with this best-selling digital bundle! Includes a 28-day meal plan, weekly shopping lists, and tasty vegan recipes — plus bonus cookbooks.</p>
-<p><strong>Affiliates earn 50% commission</strong> on all sales, with upsells and order bumps included.</p>
-<p>Perfect for health, fitness, weight loss, and plant-based lifestyle audiences.</p>
-<p><strong>Affiliate tools here:</strong><br /><a href="https://www.1monthvegan.com/affiliate-tools-ds/">https://www.1monthvegan.com/affiliate-tools-ds</a></p>
+**Vendor's marketplace description:** Ready to earn 50% commissions promoting a high converting, evergreen product in the booming vegan and plant-based lifestyle niche? The One Month Vegan Challenge is a powerful, beginner-friendly digital bundle designed to help people transition to a plant-based lifestyle in just 28 days. With done-for-you meal plans, weekly shopping lists, and delicious, easy-to-follow vegan recipes, this is the perfect solution for anyone curious about going vegan. Whether it's for health, weight loss, the environment, or animal welfare. Help your audience go vegan in just 28 days with this best-selling digital bundle! Includes a 28-day meal plan, weekly shopping lists, and tasty vegan recipes — plus bonus cookbooks. Affiliates earn 50% commission on all sales, with upsells and order bumps included. Perfect for health, fitness, weight loss, and plant-based lifestyle audiences. Affiliate tools here: https://www.1monthvegan.com/affiliate-tools-ds
 
 ## 2. Links
 

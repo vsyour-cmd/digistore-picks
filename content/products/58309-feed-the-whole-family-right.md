@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Feed the Whole Family Right: One Meal Everyone Actually Eats is a 41-page family-focused guide addressing a common household problem: preparing food that both adults and children can enjoy without cooking multiple separate meals.</p>
-<p>Topics include family meals, introducing more vegetables, reducing sugary drinks, picky eaters, snacks and lunchboxes, making food more appealing, eating together and establishing positive long-term habits.</p>
-<p>Ideal target audiences include: parents, caregivers, busy families, family-lifestyle audiences and consumers looking for practical ways to simplify household meals.</p>
-<p>Strong promotional angles: one meal for the whole family, dealing with picky eaters, easier family dinners, better lunchbox ideas, introducing vegetables and reducing mealtime stress.</p>
-<p>This gives affiliates a clearly defined family/parenting niche rather than competing solely within the general nutrition market.</p>
+**Vendor's marketplace description:** Feed the Whole Family Right: One Meal Everyone Actually Eats is a 41-page family-focused guide addressing a common household problem: preparing food that both adults and children can enjoy without cooking multiple separate meals. Topics include family meals, introducing more vegetables, reducing sugary drinks, picky eaters, snacks and lunchboxes, making food more appealing, eating together and establishing positive long-term habits. Ideal target audiences include: parents, caregivers, busy families, family-lifestyle audiences and consumers looking for practical ways to simplify household meals. Strong promotional angles: one meal for the whole family, dealing with picky eaters, easier family dinners, better lunchbox ideas, introducing vegetables and reducing mealtime stress. This gives affiliates a clearly defined family/parenting niche rather than competing solely within the general nutrition market.
 
 ## 2. Links
 

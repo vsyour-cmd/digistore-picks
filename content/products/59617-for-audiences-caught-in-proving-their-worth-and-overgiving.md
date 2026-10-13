@@ -41,23 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Chamber of Promises</strong> is a €47 multimedia Human Design Story Experience exploring worth, proving, commitment, burnout, relationship pressure, and the Heart/Ego Centre through Henrietta’s true-life inspired story.</p>
-<p>The product includes:</p>
-<ul>
-<li>31-minute narrated audio story</li>
-<li>39-page visual PDF companion</li>
-<li>48-minute Heart Centre teaching video</li>
-</ul>
-<p>It is suited to audiences interested in Human Design, self-worth, people-pleasing, burnout, somatic awareness, relationship conditioning, and personal development.</p>
-<p>Affiliates receive access to a dedicated Resource Centre containing approved social-media graphics, short and long promotional copy, product guidance, an audio preview and downloadable promotional video material.</p>
-<p>Promotional materials are developed around three core angles:</p>
-<ul>
-<li>Burnout</li>
-<li>Relationship pressure</li>
-<li>Somatic / Body Refusal</li>
-</ul>
-<p><strong>Affiliate commission: 50%</strong></p>
-<p>No prior knowledge of Human Design is required for the buyer.</p>
+**Vendor's marketplace description:** The Chamber of Promises is a €47 multimedia Human Design Story Experience exploring worth, proving, commitment, burnout, relationship pressure, and the Heart/Ego Centre through Henrietta’s true-life inspired story. The product includes: 31-minute narrated audio story 39-page visual PDF companion 48-minute Heart Centre teaching video It is suited to audiences interested in Human Design, self-worth, people-pleasing, burnout, somatic awareness, relationship conditioning, and personal development. Affiliates receive access to a dedicated Resource Centre containing approved social-media graphics, short and long promotional copy, product guidance, an audio preview and downloadable promotional video material. Promotional materials are developed around three core angles: Burnout Relationship pressure Somatic / Body Refusal Affiliate commission: 50% No prior knowledge of Human Design is required for the buyer.
 
 ## 2. Links
 

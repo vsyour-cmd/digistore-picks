@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Living World Workbook<br /><br />1) Access to creatives and ad copy<br />2) 24-hour contact with the producer<br />3) 80% commission</strong></p>
-<p>A premium guided worldbuilding system for fantasy writers and creators.</p>
-<p>Turn disconnected ideas into a coherent living world where every important element creates consequences, pressure, conflict, and story possibilities.</p>
-<p>Digital PDF product.</p>
+**Vendor's marketplace description:** The Living World Workbook 1) Access to creatives and ad copy 2) 24-hour contact with the producer 3) 80% commission A premium guided worldbuilding system for fantasy writers and creators. Turn disconnected ideas into a coherent living world where every important element creates consequences, pressure, conflict, and story possibilities. Digital PDF product.
 
 ## 2. Links
 

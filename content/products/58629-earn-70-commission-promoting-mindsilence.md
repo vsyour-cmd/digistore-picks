@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Earn 70% commission promoting MindSilence</strong>, a natural wellness supplement created to support calm, mental clarity, restful sleep, and auditory comfort.</p>
-<p>With a broad 45+ audience and multiple angles across sleep, stress, focus, healthy aging, and sensory wellness, affiliates have plenty of room to test different hooks and creatives.</p>
-<p>Built with a conversion-focused funnel designed for strong EPC potential, MindSilence is a strong fit for affiliates in the brain health, senior wellness, sleep, and natural supplement markets.</p>
+**Vendor's marketplace description:** Earn 70% commission promoting MindSilence , a natural wellness supplement created to support calm, mental clarity, restful sleep, and auditory comfort. With a broad 45+ audience and multiple angles across sleep, stress, focus, healthy aging, and sensory wellness, affiliates have plenty of room to test different hooks and creatives. Built with a conversion-focused funnel designed for strong EPC potential, MindSilence is a strong fit for affiliates in the brain health, senior wellness, sleep, and natural supplement markets.
 
 ## 2. Links
 

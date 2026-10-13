@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote Advanced Muscle Plus, a muscle and strength support supplement for adults who want to stay active as they age. The offer appeals to audiences interested in healthy aging, fitness, strength, and recovery.</p>
-<p><br />Earn 60% commission on tracked sales, with weekly payments through Digistore24. Your affiliate resource page includes promotional links, email copy, and creative assets to help you get started.</p>
+**Vendor's marketplace description:** Promote Advanced Muscle Plus, a muscle and strength support supplement for adults who want to stay active as they age. The offer appeals to audiences interested in healthy aging, fitness, strength, and recovery. Earn 60% commission on tracked sales, with weekly payments through Digistore24. Your affiliate resource page includes promotional links, email copy, and creative assets to help you get started.
 
 ## 2. Links
 

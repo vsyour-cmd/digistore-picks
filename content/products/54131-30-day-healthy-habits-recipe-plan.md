@@ -41,22 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote the 30-Day Healthy Habits Recipe Plan</p>
-<p>Looking for a practical digital wellness product to promote as an affiliate?</p>
-<p>The 30-Day Healthy Habits Recipe Plan is a structured digital recipe and wellness guide designed to help customers build practical, sustainable eating habits over 30 days.</p>
-<p>Inside the product, customers receive:</p>
-<p>- 20 practical core recipes</p>
-<p>- A 7-day meal rhythm designed to be repeated across the month</p>
-<p>- Plate, portion and preparation guidance</p>
-<p>- Shopping lists</p>
-<p>- Smart ingredient swaps</p>
-<p>- A 30-day progress calendar</p>
-<p>- Weekly reflection and habit-tracking tools</p>
-<p>The product focuses on realistic routines, balanced meals and consistency rather than extreme approaches or unrealistic promises.</p>
-<p><code></code></p>
-<p><code></code></p>
-<p><code></code></p>
-<div class="affiliate-download"><a href="https://drive.google.com/uc?export=download&amp;id=13AjermGvfuGTxUtqv3sHWJW3IGOenx9I" target="_blank" rel="noreferrer noopener"> <span class="icon">⬇</span> <span class="text"> <span class="main">Download Affiliate Materials</span> <span class="sub">PDFs, images &amp; promotional assets</span> </span> </a></div>
+**Vendor's marketplace description:** Promote the 30-Day Healthy Habits Recipe Plan Looking for a practical digital wellness product to promote as an affiliate? The 30-Day Healthy Habits Recipe Plan is a structured digital recipe and wellness guide designed to help customers build practical, sustainable eating habits over 30 days. Inside the product, customers receive: - 20 practical core recipes - A 7-day meal rhythm designed to be repeated across the month - Plate, portion and preparation guidance - Shopping lists - Smart ingredient swaps - A 30-day progress calendar - Weekly reflection and habit-tracking tools The product focuses on realistic routines, balanced meals and consistency rather than extreme approaches or unrealistic promises. ⬇ Download Affiliate Materials PDFs, images & promotional assets
 
 ## 2. Links
 

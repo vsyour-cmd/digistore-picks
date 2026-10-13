@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Scorpio Scalper is a highly converting Forex product!</p>
+**Vendor's marketplace description:** Scorpio Scalper is a highly converting Forex product!
 
 ## 2. Links
 

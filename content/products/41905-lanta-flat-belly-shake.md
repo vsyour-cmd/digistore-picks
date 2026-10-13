@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Lanta Flat Belly Shake is a proven weight loss winner. Created by an experienced team of direct response number 1 offer creators, affiliates are enjoying some incredibly generous commissions and high EPCs of $5-7 from multiple traffic sources including Facebook, email, native and display.</p>
-<ul>
-<li><em><strong>Incredibly high commissions</strong></em></li>
-<li><em><strong>Low refunds</strong></em></li>
-<li><em><strong>An amazing, responsive team</strong></em></li>
-</ul>
+**Vendor's marketplace description:** Lanta Flat Belly Shake is a proven weight loss winner. Created by an experienced team of direct response number 1 offer creators, affiliates are enjoying some incredibly generous commissions and high EPCs of $5-7 from multiple traffic sources including Facebook, email, native and display. Incredibly high commissions Low refunds An amazing, responsive team
 
 ## 2. Links
 

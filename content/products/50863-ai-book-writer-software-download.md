@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="font-family:Arial, sans-serif;max-width:600px;margin:0 auto;">
-<h2 style="text-align:center;color:#333;">AI Book Writer – Complete Books in Minutes</h2>
-<p>Want to promote a software that turns ideas into finished manuscripts fast? <strong>AI Book Writer</strong> leverages advanced automation to produce entire books in just minutes. Say goodbye to long writing sessions—this tool makes the process simple and efficient for your audience.</p>
-<ul style="margin-left:20px;">
-<li><strong>Automated Content Creation:</strong> Generate complete drafts in no time.</li>
-<li><strong>Fair Commission:</strong> Earn a solid percentage for each referral.</li>
-<li><strong>Easy Setup:</strong> We provide straightforward promo materials so you can start quickly.</li>
-<li><strong>Reliable Payments:</strong> Digistore24 handles transactions and ensures timely payouts.</li>
-</ul>
-<p>Join our affiliate program to introduce creators to an innovative solution, while earning commissions for every sale. Promote <strong>AI Book Writer</strong> today and help your audience write faster and smarter!</p>
-</div>
-<p> </p>
+**Vendor's marketplace description:** AI Book Writer – Complete Books in Minutes Want to promote a software that turns ideas into finished manuscripts fast? AI Book Writer leverages advanced automation to produce entire books in just minutes. Say goodbye to long writing sessions—this tool makes the process simple and efficient for your audience. Automated Content Creation: Generate complete drafts in no time. Fair Commission: Earn a solid percentage for each referral. Easy Setup: We provide straightforward promo materials so you can start quickly. Reliable Payments: Digistore24 handles transactions and ensures timely payouts. Join our affiliate program to introduce creators to an innovative solution, while earning commissions for every sale. Promote AI Book Writer today and help your audience write faster and smarter!
 
 ## 2. Links
 

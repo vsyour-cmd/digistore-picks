@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p># **The Ultimate Magical Adventures Mega Bundle – 3 Story &amp; 3 Coloring Books**</p>
-<p>**✨ A Massive Collection of Magical Adventures, Creativity &amp; Fun!**</p>
-<p>Give children aged 5–9 hours of screen-free entertainment with this ultimate 6-book mega bundle. It combines heartwarming animal adventures with creative coloring pages across 258 total pages of pure joy.</p>
-<p>**◻ Product Type:** 100% Digital Download (Instant Delivery - No physical shipping required)</p>
-<p>**◻ What's Inside (258 Total Pages):**<br />1. **Toby the Brave Little Lion** (43-Page Storybook + 35-Page Coloring Book)<br />2. **The Secret of the Magic Tree** (53-Page Storybook + 40-Page Coloring Book)<br />3. **The Three Friends and the Golden Berry Tree** (47-Page Storybook + 40-Page Coloring Book)</p>
-<p>**</p>
+**Vendor's marketplace description:** # **The Ultimate Magical Adventures Mega Bundle – 3 Story & 3 Coloring Books** **✨ A Massive Collection of Magical Adventures, Creativity & Fun!** Give children aged 5–9 hours of screen-free entertainment with this ultimate 6-book mega bundle. It combines heartwarming animal adventures with creative coloring pages across 258 total pages of pure joy. **◻ Product Type:** 100% Digital Download (Instant Delivery - No physical shipping required) **◻ What's Inside (258 Total Pages):** 1. **Toby the Brave Little Lion** (43-Page Storybook + 35-Page Coloring Book) 2. **The Secret of the Magic Tree** (53-Page Storybook + 40-Page Coloring Book) 3. **The Three Friends and the Golden Berry Tree** (47-Page Storybook + 40-Page Coloring Book) **
 
 ## 2. Links
 

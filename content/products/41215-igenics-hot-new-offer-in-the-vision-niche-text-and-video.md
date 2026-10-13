@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="font-size:14px;"><strong>iGenics is a premium eye support supplement based on the AREDS 2 formula.</strong></span></p>
-<ul style="list-style-type:disc;">
-<li>Offer is Battle Tested.</li>
-<li>Swipes that Convert.</li>
-<li>1.5 - 3% Conversion Rate and $200+ AOV with suppliment buyers and 55+ demographic.</li>
-<li>Great commisions (65% / 60%). Can be bumped for high traffic drivers.</li>
-<li>Low refund rate &amp; chargebacks.</li>
-</ul>
-<p>Get the email swipes <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://drive.google.com/drive/folders/10Rwr-yqzKgcgdSuB1ZyPHQgAfi2Ok8KS?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>HERE</strong></a></span>.</p>
-<p>Affiliate Page: <a href="https://clearvisionbreakthrough.com/aff/" target="_blank" rel="noreferrer noopener">https://clearvisionbreakthrough.com/aff/</a></p>
-<p>Affiliate Support: <a href="mailto:christi@sciencegenics.com">christi@sciencegenics.com</a></p>
-<p> </p>
-<div> </div>
+**Vendor's marketplace description:** iGenics is a premium eye support supplement based on the AREDS 2 formula. Offer is Battle Tested. Swipes that Convert. 1.5 - 3% Conversion Rate and $200+ AOV with suppliment buyers and 55+ demographic. Great commisions (65% / 60%). Can be bumped for high traffic drivers. Low refund rate & chargebacks. Get the email swipes HERE . Affiliate Page: https://clearvisionbreakthrough.com/aff/ Affiliate Support: christi@sciencegenics.com
 
 ## 2. Links
 

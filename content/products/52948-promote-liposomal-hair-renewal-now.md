@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p><strong>This new product is truly one-of-a-kind!</strong></p>
-</div>
-<h2><strong>Promote the #1 Hair Regrowth Offer – Clinically Proven &amp; High-Converting! </strong></h2>
-<div>
-<p>Purality Health Micelle Liposomal Hair RenewalEarn 50% through the entire funnel – upsells included! This new product is truly one-of-a-kind!<br /><br />We harnessed the Swiss ingredient AnaGain™ Nu [9 global patents and has won over 35 awards, including the Winner of the 2014 Beyond Beauty “Advanced Ingredient Award”]<br /><br /><strong>This Secret Swiss Compound Can Unlock NEW Hair Growth, 78% increase in just 8 weeks!</strong><br /><br />This Swiss ingredient, using our Unique Liposomal Technology brings you one of the most delicious and PROVEN hair supplements on the MARKET!<br /><br />The world’s only AnaGain™ Nu supplement that comes in our PATENTED PUREDOSE® MICELLE LIPOSOMAL FORMULA.<br /><br /><strong>Affiliates are seeing conversion rates as high as 6.50%!</strong></p>
-</div>
+**Vendor's marketplace description:** This new product is truly one-of-a-kind! Promote the #1 Hair Regrowth Offer – Clinically Proven & High-Converting! Purality Health Micelle Liposomal Hair RenewalEarn 50% through the entire funnel – upsells included! This new product is truly one-of-a-kind! We harnessed the Swiss ingredient AnaGain™ Nu [9 global patents and has won over 35 awards, including the Winner of the 2014 Beyond Beauty “Advanced Ingredient Award”] This Secret Swiss Compound Can Unlock NEW Hair Growth, 78% increase in just 8 weeks! This Swiss ingredient, using our Unique Liposomal Technology brings you one of the most delicious and PROVEN hair supplements on the MARKET! The world’s only AnaGain™ Nu supplement that comes in our PATENTED PUREDOSE® MICELLE LIPOSOMAL FORMULA. Affiliates are seeing conversion rates as high as 6.50%!
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>ADVANTAGES FOR AFFILIATES</strong><br />- regular income (subscription model) <br />- attractive language course concept that clearly stands out from other offers on the market: German course based on a coherent story instead of boring dialogues)<br />- book version of the course has been on the market for years and has been tested in depth</p>
-<p> </p>
-<p><strong>Learn German with an exciting story (A1/A2)</strong></p>
-<p>With your purchase you get immediate access to the whole course including:</p>
-<ul>
-<li>18 chapters of an exciting story to learn German (text, audio and vocabulary)</li>
-<li>more than 100 videos with explanations of pronunciation and grammar</li>
-<li>interactive exercises for each chapter</li>
-<li>more than 100 audio exercises to download (for listening comprehension, pronunciation and fluency)</li>
-</ul>
-<p>You can cancel your subscription every month. If you don't like the course, you will also get your money back within the first 60 days.</p>
-<h3>This is the story:</h3>
-<p>Jens and Jakob are two sparrows from Berlin. The day the Berlin Wall falls, Jens drops out of his nest, but a girl finds him, takes him home and raises him on the balcony. He befriends Jakob, a wild sparrow, who teaches him how to fly.<br />One day an unexpected visitor arrives, and Jens slowly begins to understand that for his human family, the removal of the Wall is not only sunshine and roses: there is a secret in the family that might be uncovered now that the border is open. For decades to come, the family will struggle with the consequences of the former separation of Berlin. How will they cope with them?<br /><em><strong>Jens und Jakob </strong></em>is a family saga, a fable, a historical novel … oh, and a German course!</p>
+**Vendor's marketplace description:** ADVANTAGES FOR AFFILIATES - regular income (subscription model) - attractive language course concept that clearly stands out from other offers on the market: German course based on a coherent story instead of boring dialogues) - book version of the course has been on the market for years and has been tested in depth Learn German with an exciting story (A1/A2) With your purchase you get immediate access to the whole course including: 18 chapters of an exciting story to learn German (text, audio and vocabulary) more than 100 videos with explanations of pronunciation and grammar interactive exercises for each chapter more than 100 audio exercises to download (for listening comprehension, pronunciation and fluency) You can cancel your subscription every month. If you don't like the course, you will also get your money back within the first 60 days. This is the story: Jens and Jakob are two sparrows from Berlin. The day the Berlin Wall falls, Jens drops out of his nest, but a girl finds him, takes him home and raises him on the balcony. He befriends Jakob, a wild sparrow, who teaches him how to fly. One day an unexpected visitor arrives, and Jens slowly begins to understand that for his human family, the removal of the Wall is not only sunshine and roses: there is a secret in the family that might be uncovered now that the border is open. For decades to come, the family will struggle with the consequences of the former separation of Berlin. How will they cope with them? Jens und Jakob is a family saga, a fable, a historical novel … oh, and a German course!
 
 ## 2. Links
 

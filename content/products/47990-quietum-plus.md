@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Tinnitus “Brain Wire Fix” Just Launched On DigiStore! EPC Is Already Up To $4! This Offer Could Mark Your Best Month Ever On Native/Email/Fb. Limited Slots Available. Contact Us To Get On Board!</p>
+**Vendor's marketplace description:** Tinnitus “Brain Wire Fix” Just Launched On DigiStore! EPC Is Already Up To $4! This Offer Could Mark Your Best Month Ever On Native/Email/Fb. Limited Slots Available. Contact Us To Get On Board!
 
 ## 2. Links
 

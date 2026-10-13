@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>• Compliant! </p>
-<p>• 72% commissions for initial product sales; 75% commission for physical upsell sales, and 90% for digital upsells sales</p>
-<p>• Performs well in most niches: health, survival, remedies, etc.</p>
-<p>• Put it to test!</p>
-<p>Promolink: https://medicinalseedkit.com/kit/#aff=AFFILIATE&amp;cam=CAMPAIGNKEY</p>
-<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
-<p>For support please visit our page <a href="https://medicinalseedkit.com/affiliates/" target="_blank" rel="noreferrer noopener">https://medicinalseedkit.com/affiliates/ </a> or email affiliates.gbs@gmail.com.</p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** • Compliant! • 72% commissions for initial product sales; 75% commission for physical upsell sales, and 90% for digital upsells sales • Performs well in most niches: health, survival, remedies, etc. • Put it to test! Promolink: https://medicinalseedkit.com/kit/#aff=AFFILIATE&cam=CAMPAIGNKEY Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page https://medicinalseedkit.com/affiliates/ or email affiliates.gbs@gmail.com.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>After <strong>$200k+</strong> in development costs &amp; <strong>$300k+</strong> in internal test traffic... we're <strong>open</strong> to affiliate traffic!</p>
-<p><strong>Remixable is THE 2023 tool-suite for Internet marketers.</strong></p>
-<p>It <strong>100% automates</strong> info marketing, list-building, affiliate marketing &amp; video marketing -- with site builders, video creators, resell rights, copywriting tools &amp; more.</p>
-<p><strong>Expect $5 EPCs</strong>.. steal our $100k swipes.. and embed our $100k demo videos.</p>
-<p><strong>Check out the JV page</strong> to see how stacked this offer is - and reach out about reciprocation.</p>
+**Vendor's marketplace description:** After $200k+ in development costs & $300k+ in internal test traffic... we're open to affiliate traffic! Remixable is THE 2023 tool-suite for Internet marketers. It 100% automates info marketing, list-building, affiliate marketing & video marketing -- with site builders, video creators, resell rights, copywriting tools & more. Expect $5 EPCs .. steal our $100k swipes.. and embed our $100k demo videos. Check out the JV page to see how stacked this offer is - and reach out about reciprocation.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Join the top-performing offer that's taking the market by storm! High conversions, lucrative EPCs, and a compelling VSL.</p>
-<p>Grab your high-converting link here: <a href="https://getmoneywave.com/DS/Affiliates/" target="_blank" rel="noreferrer noopener">https://getmoneywave.com/DS/Affiliates/</a></p>
-<p>Drive traffic and watch your commissions soar!</p>
-<p>Affiliate Resources: <a href="bit.ly/affiliateresourceguides" target="_blank" rel="noreferrer noopener">bit.ly/affiliateresourceguides</a></p>
+**Vendor's marketplace description:** Join the top-performing offer that's taking the market by storm! High conversions, lucrative EPCs, and a compelling VSL. Grab your high-converting link here: https://getmoneywave.com/DS/Affiliates/ Drive traffic and watch your commissions soar! Affiliate Resources: bit.ly/affiliateresourceguides
 
 ## 2. Links
 

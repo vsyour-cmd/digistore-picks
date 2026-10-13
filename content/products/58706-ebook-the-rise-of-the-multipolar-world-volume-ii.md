@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>HOW CHINA BECAME A SYSTEMIC CHALLENGER</strong></p>
-<p><em>The Rise of the Multipolar World – Volume II</em> examines how China transformed from an economically peripheral state into a manufacturing superpower, technological competitor, and major center of global power.</p>
-<p>What sets this book apart is its focus on <strong>power conversion</strong>. Rather than equating economic growth with geopolitical dominance, it shows how China combines industry, trade, technology, finance, state capacity, military modernization, and international influence—and where this architecture still faces limits.</p>
-<p>Readers gain a deeper understanding of why China represents a systemic challenge to American primacy without necessarily replacing the United States as the dominant global power.</p>
-<p>For affiliates, this creates a highly relevant product for audiences interested in China, US–China competition, geopolitics, global trade, technology, and the emerging multipolar world.</p>
+**Vendor's marketplace description:** HOW CHINA BECAME A SYSTEMIC CHALLENGER The Rise of the Multipolar World – Volume II examines how China transformed from an economically peripheral state into a manufacturing superpower, technological competitor, and major center of global power. What sets this book apart is its focus on power conversion . Rather than equating economic growth with geopolitical dominance, it shows how China combines industry, trade, technology, finance, state capacity, military modernization, and international influence—and where this architecture still faces limits. Readers gain a deeper understanding of why China represents a systemic challenge to American primacy without necessarily replacing the United States as the dominant global power. For affiliates, this creates a highly relevant product for audiences interested in China, US–China competition, geopolitics, global trade, technology, and the emerging multipolar world.
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote easily -  earn 50% commission per sale.</strong></p>
-<p><strong>10 Days to Abundance — A Guided Inner Journey</strong><br />A gentle 10-day self-guided experience to awaken inner peace, clarity and abundance. </p>
-<p><strong>Your audience gets</strong></p>
-<ul>
-<li>10 guided daily reflections</li>
-<li>Journaling prompts to raise vibration</li>
-<li>Simple energy practices to release resistance and invite flow</li>
-</ul>
-<p><strong>Perfect for</strong> mindfullness, journaling, spirituality &amp; personal development audiences. </p>
-<p><strong>How to promote</strong></p>
-<p>1. Click <strong>"Promote now" </strong>on this offer.</p>
-<p>2. Copy your personal <strong>Promolink</strong> (example: <code>https://www.checkout-ds24.com/redir/640611/YOURID/CAMPAIGNKEY</code>).</p>
-<p>3. <strong>Share only your Promolink.</strong> You may add a short campaign key (e.g., <code>/IG</code>, <code>/email</code>) for your own tracking.<br />⚠️ <strong>Do not use the merchant’s domain URL</strong> (<code>wellnessworld.ee</code>). Only your Digistore24 <strong>Promolink</strong> ensures tracking and commission.</p>
-<p><strong>Price:</strong> €33 • <strong>Commission:</strong> 50% per sale<br /><strong>Delivery &amp; refunds:</strong> Instant digital access via Digistore24 after purchase. <strong>60-day money-back guarantee.</strong> Payouts handled by Digistore24.</p>
+**Vendor's marketplace description:** Promote easily - earn 50% commission per sale. 10 Days to Abundance — A Guided Inner Journey A gentle 10-day self-guided experience to awaken inner peace, clarity and abundance. Your audience gets 10 guided daily reflections Journaling prompts to raise vibration Simple energy practices to release resistance and invite flow Perfect for mindfullness, journaling, spirituality & personal development audiences. How to promote 1. Click "Promote now" on this offer. 2. Copy your personal Promolink (example: https://www.checkout-ds24.com/redir/640611/YOURID/CAMPAIGNKEY ). 3. Share only your Promolink. You may add a short campaign key (e.g., /IG , /email ) for your own tracking. ⚠️ Do not use the merchant’s domain URL ( wellnessworld.ee ). Only your Digistore24 Promolink ensures tracking and commission. Price: €33 • Commission: 50% per sale Delivery & refunds: Instant digital access via Digistore24 after purchase. 60-day money-back guarantee. Payouts handled by Digistore24.
 
 ## 2. Links
 

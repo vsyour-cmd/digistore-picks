@@ -41,39 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>‎Mental Warfare</strong> is one of the most powerful performance boosters for athletes not physically, but mentally.</p>
-<p>‎Every athlete trains their body… but very few train their mind.</p>
-<p>‎That’s why this ebook converts extremely well.</p>
-<p>‎</p>
-<p>‎This system teaches athletes how to stay calm under pressure, think clearly, build discipline, and perform with confidence. It solves the #1 problem your audience already struggles with: the mental game.</p>
-<p>‎</p>
-<p>‎That’s why affiliates love promoting it  the demand is already there.</p>
-<p>‎</p>
-<p>‎Why This Offer Converts</p>
-<p>‎</p>
-<p>‎Athletes constantly look for a mental edge</p>
-<p>‎</p>
-<p>Works for boxing, MMA, fitness, basketball, soccer, and general sports audiences</p>
-<p>‎</p>
-<p>Simple, practical, and easy-to-sell system</p>
-<p>‎</p>
-<p>‎Comes with 2 valuable bonuses:</p>
-<p>‎• 7-Day Mental Toughness Workbook</p>
-<p>‎• Morning Routine Checklist</p>
-<p>‎</p>
-<p>‎</p>
-<p>‎Why Affiliates Love This Product</p>
-<p>‎</p>
-<p>‎You earn 60% commission on every sale  meaning you get paid heavily for every athlete who wants to improve their mindset, discipline, and performance.</p>
-<p>‎</p>
-<p>‎No complicated funnel.</p>
-<p>‎No upsells.</p>
-<p>‎Just a clean, high-demand ebook with bonuses that increase value and conversion.</p>
-<p>‎</p>
-<ul>
-<li>‎If your audience includes athletes, gym-goers, fighters, or anyone chasing discipline and mental strength this is one of the easiest digital products to promote for fast commissions.</li>
-</ul>
-<p>‎</p>
+**Vendor's marketplace description:** ‎Mental Warfare is one of the most powerful performance boosters for athletes not physically, but mentally. ‎Every athlete trains their body… but very few train their mind. ‎That’s why this ebook converts extremely well. ‎ ‎This system teaches athletes how to stay calm under pressure, think clearly, build discipline, and perform with confidence. It solves the #1 problem your audience already struggles with: the mental game. ‎ ‎That’s why affiliates love promoting it the demand is already there. ‎ ‎Why This Offer Converts ‎ ‎Athletes constantly look for a mental edge ‎ Works for boxing, MMA, fitness, basketball, soccer, and general sports audiences ‎ Simple, practical, and easy-to-sell system ‎ ‎Comes with 2 valuable bonuses: ‎• 7-Day Mental Toughness Workbook ‎• Morning Routine Checklist ‎ ‎ ‎Why Affiliates Love This Product ‎ ‎You earn 60% commission on every sale meaning you get paid heavily for every athlete who wants to improve their mindset, discipline, and performance. ‎ ‎No complicated funnel. ‎No upsells. ‎Just a clean, high-demand ebook with bonuses that increase value and conversion. ‎ ‎If your audience includes athletes, gym-goers, fighters, or anyone chasing discipline and mental strength this is one of the easiest digital products to promote for fast commissions. ‎
 
 ## 2. Links
 

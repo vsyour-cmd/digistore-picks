@@ -41,45 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4 style="text-align:justify;"><strong>This is our brand new offer - meaning less competition!</strong></h4>
-<p>We have made the easiest product to sell on Digistore24.</p>
-<p>You can now earn Thousands Of Dollars per month easily!</p>
-<p><strong>Product Information:</strong></p>
-<p><strong>This 32-part video course will provide you with everything you need to know to start a successful internet business.</strong></p>
-<p><strong>Topics covered:</strong></p>
-<ul>
-<li><strong>Sales Funnel-The Basics</strong></li>
-<li><strong>Setting Up Your Online Business</strong></li>
-<li><strong>What Is Affiliate Marketing</strong></li>
-<li><strong>Your High Ticket Offer</strong></li>
-<li><strong>Components Of a Sales Funnel</strong></li>
-<li><strong>Spying On The Market</strong></li>
-<li><strong>The CRAFT Strategy</strong></li>
-<li><strong>Your Step By Step Guide</strong></li>
-<li><strong>Introduction Marketing Your Offer</strong></li>
-<li><strong>The 7 Figure Mindset</strong></li>
-<li><strong>The Myth Of Affiliate Marketing</strong></li>
-<li><strong>Copywriting Writing To Sell</strong></li>
-<li><strong>How To Choose The Best Product To Promote</strong></li>
-<li><strong>Criteria Of The Best Product</strong></li>
-<li><strong>Google Adwords Basics</strong></li>
-<li><strong>Killer Promo Secrets</strong></li>
-<li><strong>How To Triple Your Commissions</strong></li>
-<li><strong>Bonus Techniques</strong></li>
-<li><strong>Optimizing Your Google Adwords Campaign</strong></li>
-<li><strong>Media Buying Research And Analysis</strong></li>
-<li><strong>Types Of Killer Bonuses</strong></li>
-<li><strong>Media Buying Your First Banner And Offer</strong></li>
-<li><strong>Solo Ads To Market Your Business</strong></li>
-<li><strong>Facebook Ads The Fundamentals </strong></li>
-<li><strong>Warrior Special Offers WSO</strong></li>
-<li><strong>Search Engine Optimization SEO</strong></li>
-<li><strong>Instagram</strong></li>
-<li><strong>Tumblr</strong></li>
-<li><strong>Pinterest</strong></li>
-</ul>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** This is our brand new offer - meaning less competition! We have made the easiest product to sell on Digistore24. You can now earn Thousands Of Dollars per month easily! Product Information: This 32-part video course will provide you with everything you need to know to start a successful internet business. Topics covered: Sales Funnel-The Basics Setting Up Your Online Business What Is Affiliate Marketing Your High Ticket Offer Components Of a Sales Funnel Spying On The Market The CRAFT Strategy Your Step By Step Guide Introduction Marketing Your Offer The 7 Figure Mindset The Myth Of Affiliate Marketing Copywriting Writing To Sell How To Choose The Best Product To Promote Criteria Of The Best Product Google Adwords Basics Killer Promo Secrets How To Triple Your Commissions Bonus Techniques Optimizing Your Google Adwords Campaign Media Buying Research And Analysis Types Of Killer Bonuses Media Buying Your First Banner And Offer Solo Ads To Market Your Business Facebook Ads The Fundamentals Warrior Special Offers WSO Search Engine Optimization SEO Instagram Tumblr Pinterest
 
 ## 2. Links
 

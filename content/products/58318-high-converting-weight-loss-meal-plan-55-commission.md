@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote our top-converting 30-Day Weight Loss Meal Plan designed to deliver fast results for your audience and high earnings for you!</p>
-<p><strong>Why Promote Us?</strong></p>
-<ul>
-<li>Generous 55% Commission on front-end sales</li>
-<li>High-Converting Upsell Funnel (Includes 21-Day Sugar Detox System)</li>
-<li>Tested &amp; Optimized Sales Page with high conversion rates</li>
-<li>Fast digital delivery with high customer satisfaction</li>
-</ul>
-<p>We provide full affiliate support, including email swipes, high-converting banner ads, and marketing assets to make your promotion effortless.</p>
-<p>Check our Affiliate Support Page for all promotional materials and start driving traffic today!</p>
+**Vendor's marketplace description:** Promote our top-converting 30-Day Weight Loss Meal Plan designed to deliver fast results for your audience and high earnings for you! Why Promote Us? Generous 55% Commission on front-end sales High-Converting Upsell Funnel (Includes 21-Day Sugar Detox System) Tested & Optimized Sales Page with high conversion rates Fast digital delivery with high customer satisfaction We provide full affiliate support, including email swipes, high-converting banner ads, and marketing assets to make your promotion effortless. Check our Affiliate Support Page for all promotional materials and start driving traffic today!
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unique Angle for a Quality Vertigo Supplement! EPC Exceeding All Expectations (Up to $4)! This Offer Could Make Your Best Month Ever On Fb, Native &amp; Email. Contact Our Affiliate Manager Today!</p>
+**Vendor's marketplace description:** Unique Angle for a Quality Vertigo Supplement! EPC Exceeding All Expectations (Up to $4)! This Offer Could Make Your Best Month Ever On Fb, Native & Email. Contact Our Affiliate Manager Today!
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>You have <strong>studied Norwegian</strong> like crazy, and now you are ready to take <strong>Norskprøven</strong>?</p>
-<p>But you're <strong>afraid you won't get the result you are hoping for</strong> because you ...</p>
-<p>- ... don't know the exam tasks well enough?<br />- ... don't know how to prepare?<br /><br /><em>Norskprøven</em> is not just about speaking and writing Norwegian well, but it is also crucial to know <strong>what</strong> <strong>exactly you have to do in the exam</strong>. Learn all of this in my <em>Norskprøve</em> video course.</p>
-<p>Here's what awaits you:</p>
-<p> </p>
+**Vendor's marketplace description:** You have studied Norwegian like crazy, and now you are ready to take Norskprøven ? But you're afraid you won't get the result you are hoping for because you ... - ... don't know the exam tasks well enough? - ... don't know how to prepare? Norskprøven is not just about speaking and writing Norwegian well, but it is also crucial to know what exactly you have to do in the exam . Learn all of this in my Norskprøve video course. Here's what awaits you:
 
 ## 2. Links
 

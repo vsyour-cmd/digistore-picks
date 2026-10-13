@@ -41,23 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Reducing Stress with Meditation and Mindfulness</p>
-<div>
-<p>The energy we run through our bodies is powerful. Meditation &amp; Mindfulness are some of the ways to restore energy, heal and ground back into harmony.</p>
-<p> </p>
-<p><strong>Now we can use technology AND nature to help us restore balance. This Bundle of 4 Spiritual E-Book's is about :<br /></strong></p>
-<p> </p>
-<ul>
-<li><strong>Beginner's Guide to Meditation</strong></li>
-<li><strong>Stress Less - Guide to Reduce Stress</strong></li>
-<li><strong>Overcoming Storms in Life</strong></li>
-<li><strong>Self Hypnosis for Business</strong></li>
-</ul>
-<p> </p>
-<p>It is very important if you can learn how to empower yourself to become everything that you want to. It is very important that you take control of your life and not allow someone else to dictate everything. This is very important just because everyone needs to learn how to handle life and deal with life for themselves.</p>
-<p>The biggest problem that most people have is that they don’t know what to do with them. They have no idea what it takes to live a good life because everyone has told them what to do, but you can change.</p>
-<p><strong>Everyone has the power to change, but are you ready?</strong></p>
-</div>
+**Vendor's marketplace description:** Reducing Stress with Meditation and Mindfulness The energy we run through our bodies is powerful. Meditation & Mindfulness are some of the ways to restore energy, heal and ground back into harmony. Now we can use technology AND nature to help us restore balance. This Bundle of 4 Spiritual E-Book's is about : Beginner's Guide to Meditation Stress Less - Guide to Reduce Stress Overcoming Storms in Life Self Hypnosis for Business It is very important if you can learn how to empower yourself to become everything that you want to. It is very important that you take control of your life and not allow someone else to dictate everything. This is very important just because everyone needs to learn how to handle life and deal with life for themselves. The biggest problem that most people have is that they don’t know what to do with them. They have no idea what it takes to live a good life because everyone has told them what to do, but you can change. Everyone has the power to change, but are you ready?
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Copy what I do for the next 30 days to start your own highly-profitable e-Farming online business and start making money from anywhere in the world.</p>
+**Vendor's marketplace description:** Copy what I do for the next 30 days to start your own highly-profitable e-Farming online business and start making money from anywhere in the world.
 
 ## 2. Links
 
@@ -71,6 +71,25 @@ language: "en"
 - **Page word count:** 2473
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> Step-by-step over the shoulder training showing how to build your own list machine from scratch. Rinse and repeat to build new lis machines as many times as you need to create new income streams on demand.
+> "He's an amazing coach. He taught me how to sell. I've already recouped my investment with him and we're just getting started."
+> "I was making $100 per day working full time on my email list before I started working with Igor. Igor taught me how to take it to $400 per day while taking 2 months off to travel around the United States with little to no internet connection."
+
+### 3c. Cautions
+
+> "I've had nothing but good experiences with Igor... every time I refer a client to him I'm confident they'll get excellent service and attention, even if they are new to email advertising... and his List Building Lifestyle show is a tremendous resource all on its own!."
+> "I've had a successful business before meeting Igor. But I've always struggled to break through the 3-figure per day barrier. I used to charge $750 an hour. After having one coaching session with Igor, I sold my first $2750 consulting package. The next sales call I asked for a $2,000 an hour. The client paid for 4 hours upfront."
+> "I've had nothing but good experiences with Igor... every time I refer a client to him I'm confident they'll get excellent service and attention, even if they are new to email advertising... and his List Building Lifestyle show is a tremendous resource all on its own!."
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/40468-g1.webp
+- assets/products/40468-g2.webp
+- assets/products/40468-g3.webp
+- assets/products/40468-g4.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Modern crises don't announce themselves. Supply chain disruptions, extreme weather events, cyber attacks on infrastructure, and economic instability have become our new reality.</p>
-<p> </p>
-<p>This manual transforms you from vulnerable to resilient. You'll master the essential skills every household needs to protect their loved ones and maintain independence during any emergency.</p>
+**Vendor's marketplace description:** Modern crises don't announce themselves. Supply chain disruptions, extreme weather events, cyber attacks on infrastructure, and economic instability have become our new reality. This manual transforms you from vulnerable to resilient. You'll master the essential skills every household needs to protect their loved ones and maintain independence during any emergency.
 
 ## 2. Links
 

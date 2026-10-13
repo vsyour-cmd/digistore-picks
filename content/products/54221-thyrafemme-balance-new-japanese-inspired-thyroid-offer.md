@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><em>Target all the major pain points of millions of women - thyroid, fatigue, brain fog, skin &amp; hair loss with this one-of-a-kind offer! Proven angles, multiple VSLs, insane EPCs. Apply now and lock in your slice of this evergreen market! </em></p>
+**Vendor's marketplace description:** Target all the major pain points of millions of women - thyroid, fatigue, brain fog, skin & hair loss with this one-of-a-kind offer! Proven angles, multiple VSLs, insane EPCs. Apply now and lock in your slice of this evergreen market!
 
 ## 2. Links
 

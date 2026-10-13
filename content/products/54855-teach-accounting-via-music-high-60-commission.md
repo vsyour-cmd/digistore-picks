@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Earn high commissions with the world’s only "Sing &amp; Solve" Accounting method!</p>
-<p> </p>
-<p>We’ve turned the 5 Building Blocks of Accounting into catchy songs that make learning finance effortless. This is a completely unique angle in a crowded market—perfect for cold traffic, students, and entrepreneurs.</p>
-<p> </p>
-<p><strong>Why Affiliates Love Us:</strong></p>
-<p> </p>
-<ol>
-<li><strong>60% Commission:</strong> Generous payouts on every sale.</li>
-<li><strong>Zero Competition:</strong> No one else is selling "Accounting you can sing." It stands out instantly.</li>
-<li><strong>High Retention:</strong> Students love the fun, innovative format (low refunds!).</li>
-<li><strong>Ready-to-Go Assets:</strong> Full swipe files and banners on our Affiliate Support Page.</li>
-</ol>
-<p> </p>
-<p><em><strong>Promote the only product that makes accounting fun and get paid what you deserve!</strong></em></p>
+**Vendor's marketplace description:** Earn high commissions with the world’s only "Sing & Solve" Accounting method! We’ve turned the 5 Building Blocks of Accounting into catchy songs that make learning finance effortless. This is a completely unique angle in a crowded market—perfect for cold traffic, students, and entrepreneurs. Why Affiliates Love Us: 60% Commission: Generous payouts on every sale. Zero Competition: No one else is selling "Accounting you can sing." It stands out instantly. High Retention: Students love the fun, innovative format (low refunds!). Ready-to-Go Assets: Full swipe files and banners on our Affiliate Support Page. Promote the only product that makes accounting fun and get paid what you deserve!
 
 ## 2. Links
 

@@ -41,32 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This digital report helps pet owners review dog food labels and better understand common ingredient risk patterns and potential sensitivities.<br />It is designed for education and transparency, so buyers can make more informed feeding decisions.</p>
-<p><strong>What customers receive:</strong></p>
-<ul>
-<li>
-<p>A structured ingredient risk report for selected dog food labels</p>
-</li>
-<li>
-<p>Clear explanations of ingredient categories</p>
-</li>
-<li>
-<p>Practical guidance for comparing products</p>
-</li>
-</ul>
-<p><strong>Affiliate details:</strong></p>
-<ul>
-<li>
-<p>Commission: 50% per sale</p>
-</li>
-<li>
-<p>Promotional angle: label transparency and informed product choice</p>
-</li>
-<li>
-<p>Audience: dog owners who want clearer ingredient information</p>
-</li>
-</ul>
-<p><strong>Important note:</strong><br />This product provides educational information only and is not veterinary advice, diagnosis, or treatment.</p>
+**Vendor's marketplace description:** This digital report helps pet owners review dog food labels and better understand common ingredient risk patterns and potential sensitivities. It is designed for education and transparency, so buyers can make more informed feeding decisions. What customers receive: A structured ingredient risk report for selected dog food labels Clear explanations of ingredient categories Practical guidance for comparing products Affiliate details: Commission: 50% per sale Promotional angle: label transparency and informed product choice Audience: dog owners who want clearer ingredient information Important note: This product provides educational information only and is not veterinary advice, diagnosis, or treatment.
 
 ## 2. Links
 

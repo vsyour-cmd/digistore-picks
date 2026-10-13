@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h5>Top converting Survival Food offer from the creators of Air Fountain and Backyard Liberty. Solution to upcoming food shortage in the US and worldwide. Kills on 35+ male traffic. 100% upsell take rate, optimized on internal traffic, profitable on display!</h5>
-<p>Attention... If you have (but not limited to) a General, Energy, Survival, Health, Home and Garden List or other alternative traffic sources, our offer will be a perfect fit!</p>
-<p>WHY PROMOTE US?</p>
-<ul>
-<li>Hot Trending Offer - We've just launched Air Fountain and it's climbing ranks fast!</li>
-<li>Insane Conversion Rates - 6-18% actually... (it even got 11% in a dead list)</li>
-<li>Extremely Low Refund Rates - Yep... Just 3%!</li>
-<li>75% Commissions On Both Front And Backend Items</li>
-<li>Crazy Funnel Take Rates - 90 to 120% crazy that is!</li>
-</ul>
+**Vendor's marketplace description:** Top converting Survival Food offer from the creators of Air Fountain and Backyard Liberty. Solution to upcoming food shortage in the US and worldwide. Kills on 35+ male traffic. 100% upsell take rate, optimized on internal traffic, profitable on display! Attention... If you have (but not limited to) a General, Energy, Survival, Health, Home and Garden List or other alternative traffic sources, our offer will be a perfect fit! WHY PROMOTE US? Hot Trending Offer - We've just launched Air Fountain and it's climbing ranks fast! Insane Conversion Rates - 6-18% actually... (it even got 11% in a dead list) Extremely Low Refund Rates - Yep... Just 3%! 75% Commissions On Both Front And Backend Items Crazy Funnel Take Rates - 90 to 120% crazy that is!
 
 ## 2. Links
 

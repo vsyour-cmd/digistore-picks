@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Quantum Heart is a physical, shippable aluminum pendant with three body-facing 650nm visible red-light LEDs and USB-C recharging. Customers can choose one pendant for $679 USD or the Couple Set of two for $1,149 USD. Affiliates receive 50% commission on eligible, properly attributed sales, subject to the applicable refund and chargeback rules. The customer offer includes a 60-day money-back guarantee. Product images, an introductory email template, and promotion guidelines are available at https://getquantumheart.com/affiliates/digistore24</p>
+**Vendor's marketplace description:** Quantum Heart is a physical, shippable aluminum pendant with three body-facing 650nm visible red-light LEDs and USB-C recharging. Customers can choose one pendant for $679 USD or the Couple Set of two for $1,149 USD. Affiliates receive 50% commission on eligible, properly attributed sales, subject to the applicable refund and chargeback rules. The customer offer includes a 60-day money-back guarantee. Product images, an introductory email template, and promotion guidelines are available at https://getquantumheart.com/affiliates/digistore24
 
 ## 2. Links
 

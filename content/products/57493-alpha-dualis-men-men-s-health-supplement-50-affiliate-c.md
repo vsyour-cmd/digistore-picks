@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Продвигайте Alpha Dualis Men — высококачественную добавку для мужского здоровья, пользующуюся высоким спросом на рынке товаров для здоровья мужчин.</span></span></p>
-<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Получайте 50% комиссионных, используя готовое к продвижению предложение, оптимизированную воронку продаж, различные варианты пакетов услуг и надежную систему отслеживания Digistore24.</span></span></p>
-<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Почему партнёрам нравится это предложение: </span></span><br /><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">• Востребованная ниша мужского здоровья </span></span><br /><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">• Высокоэффективная страница продаж </span></span><br /><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">• Несколько пакетов для максимизации дохода </span></span><br /><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">• Простое продвижение с полным отслеживанием</span></span></p>
-<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Присоединяйтесь и начните продвигать премиум-предложение, созданное для увеличения конверсий.</span></span></p>
+**Vendor's marketplace description:** Продвигайте Alpha Dualis Men — высококачественную добавку для мужского здоровья, пользующуюся высоким спросом на рынке товаров для здоровья мужчин. Получайте 50% комиссионных, используя готовое к продвижению предложение, оптимизированную воронку продаж, различные варианты пакетов услуг и надежную систему отслеживания Digistore24. Почему партнёрам нравится это предложение: • Востребованная ниша мужского здоровья • Высокоэффективная страница продаж • Несколько пакетов для максимизации дохода • Простое продвижение с полным отслеживанием Присоединяйтесь и начните продвигать премиум-предложение, созданное для увеличения конверсий.
 
 ## 2. Links
 

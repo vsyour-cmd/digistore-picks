@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The cultural moment is here — and millions of beginners are actively searching for a structured system to start.</p>
-<p>That's what the Carnivore Power Bundle delivers. Not another vague "eat meat" guide. A complete 60-day done-for-you system: daily meal plans, 100 recipes, weekly shopping lists, and a Week 1 Quick-Start guide for the adaptation phase — the hardest week, when most beginners abandon the diet before it starts working.</p>
-<p><strong>WHY THIS CONVERTS</strong></p>
-<p>At $27 this is a straightforward yes for any warm audience in the health and nutrition space. The bundle looks and feels like a premium product — professional mockups, instant PDF delivery, genuine value. Buyers don't hesitate.</p>
-<p>The audience is everywhere: keto and low-carb communities, weight loss blogs, biohacking podcasts, men's health content, ancestral diet forums. If your audience has ever heard of carnivore, they are warm to this offer.</p>
-<p><strong>WHAT YOU GET AS AN AFFILIATE</strong></p>
-<ul>
-<li>80% commission — $21.60 per bundle sale </li>
-<li>30-day cookie window on all purchases </li>
-<li>Complete swipe kit: 2 email templates, Instagram/TikTok/YouTube/Podcast scripts, 5 banner ad sizes — all ready to use </li>
-<li>Instant approval — link within 24 hours </li>
-</ul>
-<p><strong>IDEAL TRAFFIC SOURCES</strong></p>
-<p>Email lists in keto, low-carb, weight loss, paleo, digestive wellness, men's fitness YouTube: nutrition, biohacking, body composition, carnivore channels Instagram/TikTok: food content, physical wellness journeys, meal prep Podcasts: health, longevity, ancestral diet shows</p>
-<p>Questions? Email: <a>affiliate@healthhealing.net</a> — Response within 24 hours.</p>
+**Vendor's marketplace description:** The cultural moment is here — and millions of beginners are actively searching for a structured system to start. That's what the Carnivore Power Bundle delivers. Not another vague "eat meat" guide. A complete 60-day done-for-you system: daily meal plans, 100 recipes, weekly shopping lists, and a Week 1 Quick-Start guide for the adaptation phase — the hardest week, when most beginners abandon the diet before it starts working. WHY THIS CONVERTS At $27 this is a straightforward yes for any warm audience in the health and nutrition space. The bundle looks and feels like a premium product — professional mockups, instant PDF delivery, genuine value. Buyers don't hesitate. The audience is everywhere: keto and low-carb communities, weight loss blogs, biohacking podcasts, men's health content, ancestral diet forums. If your audience has ever heard of carnivore, they are warm to this offer. WHAT YOU GET AS AN AFFILIATE 80% commission — $21.60 per bundle sale 30-day cookie window on all purchases Complete swipe kit: 2 email templates, Instagram/TikTok/YouTube/Podcast scripts, 5 banner ad sizes — all ready to use Instant approval — link within 24 hours IDEAL TRAFFIC SOURCES Email lists in keto, low-carb, weight loss, paleo, digestive wellness, men's fitness YouTube: nutrition, biohacking, body composition, carnivore channels Instagram/TikTok: food content, physical wellness journeys, meal prep Podcasts: health, longevity, ancestral diet shows Questions? Email: affiliate@healthhealing.net — Response within 24 hours.
 
 ## 2. Links
 

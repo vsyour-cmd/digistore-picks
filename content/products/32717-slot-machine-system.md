@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Slot Machine System - #1 New Offer On Digistore <br />From The Creators Of Multiple #1 7 Figure Offers On Clickbank. Get Back On The Gravy Train And Promote The #1 Making Money Offer Ever Created. Huge Frontend And Backend Commissions. Get All The Aff Tools</p>
+**Vendor's marketplace description:** Slot Machine System - #1 New Offer On Digistore From The Creators Of Multiple #1 7 Figure Offers On Clickbank. Get Back On The Gravy Train And Promote The #1 Making Money Offer Ever Created. Huge Frontend And Backend Commissions. Get All The Aff Tools
 
 ## 2. Links
 

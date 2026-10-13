@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request. <br /><br />Let's grow together!</p>
+**Vendor's marketplace description:** Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request. Let's grow together!
 
 ## 2. Links
 

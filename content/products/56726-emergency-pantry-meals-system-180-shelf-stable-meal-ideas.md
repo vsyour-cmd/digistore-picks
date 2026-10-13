@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Emergency Pantry Meals System is a practical digital pantry planning guide for households that want to organize shelf-stable foods, plan simple emergency meals, and build a calmer food storage system using normal grocery-store items.</p>
-<p>Inside the guide, customers get 180+ shelf-stable meal ideas, 7-day, 14-day, and 30-day pantry planning frameworks, storage and rotation guidance, budget pantry build paths, water planning notes, and household preparedness reference pages.</p>
-<p>This is a digital product delivered electronically. No physical product will be shipped. The current front-end offer is $37 and includes a 60-day money-back guarantee handled through Digistore24.</p>
+**Vendor's marketplace description:** Emergency Pantry Meals System is a practical digital pantry planning guide for households that want to organize shelf-stable foods, plan simple emergency meals, and build a calmer food storage system using normal grocery-store items. Inside the guide, customers get 180+ shelf-stable meal ideas, 7-day, 14-day, and 30-day pantry planning frameworks, storage and rotation guidance, budget pantry build paths, water planning notes, and household preparedness reference pages. This is a digital product delivered electronically. No physical product will be shipped. The current front-end offer is $37 and includes a 60-day money-back guarantee handled through Digistore24.
 
 ## 2. Links
 

@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Peak Pilates Gold: Regain Strength, Balance, and Confidence</h1>
-<p><strong>Peak Pilates Gold</strong> is a Pilates-focused digital program designed to help users incorporate structured movement and Pilates exercises into their regular fitness routine.</p>
-<p>The program emphasizes controlled movement, core engagement, balance, flexibility, strength, and overall body awareness. It provides an accessible approach for individuals looking to develop a consistent Pilates practice and support their everyday physical wellbeing.</p>
-<h3>What Customers Can Expect</h3>
-<ul>
-<li>Structured Pilates-focused workouts</li>
-<li>Exercises designed around strength and balance</li>
-<li>Guidance for improving flexibility and body awareness</li>
-<li>Practical movement routines for regular practice</li>
-<li>Easy-to-follow digital fitness content</li>
-<li>A convenient resource for building a consistent exercise routine</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** Peak Pilates Gold: Regain Strength, Balance, and Confidence Peak Pilates Gold is a Pilates-focused digital program designed to help users incorporate structured movement and Pilates exercises into their regular fitness routine. The program emphasizes controlled movement, core engagement, balance, flexibility, strength, and overall body awareness. It provides an accessible approach for individuals looking to develop a consistent Pilates practice and support their everyday physical wellbeing. What Customers Can Expect Structured Pilates-focused workouts Exercises designed around strength and balance Guidance for improving flexibility and body awareness Practical movement routines for regular practice Easy-to-follow digital fitness content A convenient resource for building a consistent exercise routine
 
 ## 2. Links
 

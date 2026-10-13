@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The practical template helps with the creation of feasibility studies and is primarily aimed at project managers who have little experience with feasibility studies.</p>
-<ul>
-<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
-<li>If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.  </li>
-</ul>
+**Vendor's marketplace description:** The practical template helps with the creation of feasibility studies and is primarily aimed at project managers who have little experience with feasibility studies. As an affiliate, you earn 50% per sale. If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.
 
 ## 2. Links
 

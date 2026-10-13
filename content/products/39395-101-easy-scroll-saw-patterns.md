@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>101 Easy Scroll Saw Patterns is a great bundle of original, unique hand drawn scroll saw patterns for experienced woodworkers and people just starting out using a scroll saw. Create beautiful scroll saw art with these patterns that you can make for yourself, present as gifts for others, or make wooden scroll saw art from these patterns to sell at craft shows, in a gift shop, or sell online.</p>
-<p>Could work well with woodworking blogs, art and crafts pages and blogs or woodworking tools review websites and blogs. </p>
-<p>Affiliates can use images that I created for ads at the following page:</p>
-<p><a href="http://www.easyscrollsawpatterns.com/for-affiliates">www.easyscrollsawpatterns.com/for-affiliates</a></p>
-<p> </p>
+**Vendor's marketplace description:** 101 Easy Scroll Saw Patterns is a great bundle of original, unique hand drawn scroll saw patterns for experienced woodworkers and people just starting out using a scroll saw. Create beautiful scroll saw art with these patterns that you can make for yourself, present as gifts for others, or make wooden scroll saw art from these patterns to sell at craft shows, in a gift shop, or sell online. Could work well with woodworking blogs, art and crafts pages and blogs or woodworking tools review websites and blogs. Affiliates can use images that I created for ads at the following page: www.easyscrollsawpatterns.com/for-affiliates
 
 ## 2. Links
 

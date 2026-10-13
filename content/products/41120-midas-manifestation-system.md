@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The 8-figure blockbuster is now on digistore24! 1-Click recurring billing upsells, $2+ EPCs, fully optimized downsell and upsells funnels, this offer has made millions for affiliates, and has recently been updated and revamped for even more amazing conversion!</p>
-<p>Written by a copywriter who has created many 7 figure offers, this offer is expertly crafted and practically guaranteed to make you insane amounts of money.</p>
-<p>This offer is geared toward people who are interested in manifestation, and also creating wealth and abundance. Does well with any kind of biz opp or spirituality traffic. Feel free to contact us at affiliates@midasmanifestation.com for with questions.</p>
+**Vendor's marketplace description:** The 8-figure blockbuster is now on digistore24! 1-Click recurring billing upsells, $2+ EPCs, fully optimized downsell and upsells funnels, this offer has made millions for affiliates, and has recently been updated and revamped for even more amazing conversion! Written by a copywriter who has created many 7 figure offers, this offer is expertly crafted and practically guaranteed to make you insane amounts of money. This offer is geared toward people who are interested in manifestation, and also creating wealth and abundance. Does well with any kind of biz opp or spirituality traffic. Feel free to contact us at affiliates@midasmanifestation.com for with questions.
 
 ## 2. Links
 

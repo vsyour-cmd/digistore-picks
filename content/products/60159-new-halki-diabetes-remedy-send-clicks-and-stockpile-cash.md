@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The <strong>Easiest Commission</strong> you have ever made on Digistore24. Get in touch with Benson at <a href="mailto:medibenson@gmail.com">medibenson@gmail.com</a> for TopTier Commissions (90% Comms Available). Send Clicks and Smile</p>
-<p>Open to all Affiliates.This Diabetes Offer is taking Conversions by Storm</p>
-<p>New VSl - <strong>Converts at 75%</strong> Better.Just send Clicks and Watch Your Digistore24 Dashboard Lines Grow Bigger Than Ever.</p>
-<p> </p>
+**Vendor's marketplace description:** The Easiest Commission you have ever made on Digistore24. Get in touch with Benson at medibenson@gmail.com for TopTier Commissions (90% Comms Available). Send Clicks and Smile Open to all Affiliates.This Diabetes Offer is taking Conversions by Storm New VSl - Converts at 75% Better.Just send Clicks and Watch Your Digistore24 Dashboard Lines Grow Bigger Than Ever.
 
 ## 2. Links
 

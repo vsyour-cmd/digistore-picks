@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Looking for a GLP-1 themed weight management offer your audience can understand?</strong><br />GLP-1 Plus is built around a clear “GLP-1 for the rest of us” message for people interested in appetite support and metabolic wellness. The offer pairs that angle with a 90-day money-back guarantee.<br /><strong>Here’s what’s in it for you:</strong></div>
-<ul>
-<li><strong>60% commission</strong> on tracked sales</li>
-<li><strong>10% cart conversion rate</strong> currently shown in the Digistore24 marketplace</li>
-<li>Promotional links, email copy, and creative assets ready to use</li>
-<li>Weekly affiliate payments through Digistore24</li>
-<li>Dedicated affiliate support when you need it</li>
-</ul>
-<div>Explore the <a>GLP-1 Plus Affiliate Resource Center</a> to get your links and marketing materials.</div>
+**Vendor's marketplace description:** Looking for a GLP-1 themed weight management offer your audience can understand? GLP-1 Plus is built around a clear “GLP-1 for the rest of us” message for people interested in appetite support and metabolic wellness. The offer pairs that angle with a 90-day money-back guarantee. Here’s what’s in it for you: 60% commission on tracked sales 10% cart conversion rate currently shown in the Digistore24 marketplace Promotional links, email copy, and creative assets ready to use Weekly affiliate payments through Digistore24 Dedicated affiliate support when you need it Explore the GLP-1 Plus Affiliate Resource Center to get your links and marketing materials.
 
 ## 2. Links
 

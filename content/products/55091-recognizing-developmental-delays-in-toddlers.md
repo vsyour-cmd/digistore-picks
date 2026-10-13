@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">An educational guide helping parents recognize early developmental delays, understand milestones, and know when to seek support.</p>
-<p style="text-align:justify;">High trust and informational appeal.</p>
-<p style="text-align:justify;"><br /><strong>Commission: 70% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** An educational guide helping parents recognize early developmental delays, understand milestones, and know when to seek support. High trust and informational appeal. Commission: 70% | Automatic Approval
 
 ## 2. Links
 

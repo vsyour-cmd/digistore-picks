@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Amazon FBA for Beginners – Costs and Risks with Matze</p>
-<p>Evaluate a product idea, unit economics and a small pilot. This English self-paced course guides you from an initial idea to a unit-economics worksheet and criteria for a small pilot. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. Model and available capital<br />2. Customer need and product rules<br />3. Suppliers and samples<br />4. Full unit economics<br />5. Listing, inventory and pilot<br />6. Review the pilot</p>
-<p>Who is it for? Beginners who want to evaluate a physical product idea for Amazon FBA.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>Transparency: The example is fictional. The course provider has yet to document a real FBA pilot; this edition remains unpublished until then.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** Amazon FBA for Beginners – Costs and Risks with Matze Evaluate a product idea, unit economics and a small pilot. This English self-paced course guides you from an initial idea to a unit-economics worksheet and criteria for a small pilot. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. Model and available capital 2. Customer need and product rules 3. Suppliers and samples 4. Full unit economics 5. Listing, inventory and pilot 6. Review the pilot Who is it for? Beginners who want to evaluate a physical product idea for Amazon FBA. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. Transparency: The example is fictional. The course provider has yet to document a real FBA pilot; this edition remains unpublished until then. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Hi Affiliates! If your audience are tired of boring, complicated money advice, they are going to love this ebook. It breaks down smart financial strategies into simple, everyday steps that anyone can actually use.</div>
-<div>Since you are helping me share this message, I want to make sure you are taken care of. That is why I am giving my affiliate partners a massive <strong>60% commission</strong> on every single sale.</div>
-<div> </div>
-<div>
-<div><strong>Why partner with me?</strong></div>
-<ul>
-<li><strong>High Payouts:</strong> You earn a generous 60% on every single purchase.</li>
-<li><strong>Real Value:</strong> The ebook delivers practical insights, meaning happy readers.</li>
-<li><strong>Easy to Promote:</strong> Simply share your unique affiliate link directly with your audience on social media, blogs, or email.</li>
-</ul>
-<div>I truly appreciate your support and cannot wait to celebrate our sales together. Grab your link and let's get started!</div>
-<div> </div>
-<hr />
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
+**Vendor's marketplace description:** Hi Affiliates! If your audience are tired of boring, complicated money advice, they are going to love this ebook. It breaks down smart financial strategies into simple, everyday steps that anyone can actually use. Since you are helping me share this message, I want to make sure you are taken care of. That is why I am giving my affiliate partners a massive 60% commission on every single sale. Why partner with me? High Payouts: You earn a generous 60% on every single purchase. Real Value: The ebook delivers practical insights, meaning happy readers. Easy to Promote: Simply share your unique affiliate link directly with your audience on social media, blogs, or email. I truly appreciate your support and cannot wait to celebrate our sales together. Grab your link and let's get started!
 
 ## 2. Links
 

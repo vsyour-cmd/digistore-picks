@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Hit it Big In A Niche With Big Untapped Potential! This Original Skin Tags Formula Converts Massively On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 EPC.</p>
+**Vendor's marketplace description:** Hit it Big In A Niche With Big Untapped Potential! This Original Skin Tags Formula Converts Massively On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 EPC.
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote a clearly defined B2B service for vacation-rental operators, property managers and agencies.</p>
-<p>The package includes:</p>
-<ul>
-<li>15 individually produced vertical social-media videos in 9:16 and also landscape 16:9</li>
-<li>Creation from an existing public property listing</li>
-<li>Property-specific USP voice-over scripts</li>
-<li>Individual captions and hashtags</li>
-<li>Publishing or scheduling on up to six existing social-media accounts</li>
-<li>Delivery within three business days after receipt of the property URL, briefing and required channel access</li>
-<li>No filming or separate media upload required</li>
-</ul>
-<p>Package price: €1,799 net plus applicable VAT.<br />Affiliate commission: 20% (€359.80 per sale).</p>
-<p>Ideal customers are professional hosts, serviced-apartment operators, property-management companies and vacation-rental agencies that need regular social-media content without producing it internally.</p>
-<p>B2B only.</p>
+**Vendor's marketplace description:** Promote a clearly defined B2B service for vacation-rental operators, property managers and agencies. The package includes: 15 individually produced vertical social-media videos in 9:16 and also landscape 16:9 Creation from an existing public property listing Property-specific USP voice-over scripts Individual captions and hashtags Publishing or scheduling on up to six existing social-media accounts Delivery within three business days after receipt of the property URL, briefing and required channel access No filming or separate media upload required Package price: €1,799 net plus applicable VAT. Affiliate commission: 20% (€359.80 per sale). Ideal customers are professional hosts, serviced-apartment operators, property-management companies and vacation-rental agencies that need regular social-media content without producing it internally. B2B only.
 
 ## 2. Links
 

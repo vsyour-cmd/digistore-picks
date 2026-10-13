@@ -41,22 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Are you ready to make <strong>one sale</strong> and keep earning <strong>commissions every week for the next 2 months</strong>?</p>
-<p>Welcome to Call of Destiny, a <strong>weekly astrology subscription</strong> which pays affiliates like yourself 75% commissions on everything, including the recurring.</p>
-<p>Here are the <strong>highlights </strong>or our offer:</p>
-<ul>
-<li><strong>75% commission on everything</strong></li>
-<li>AOV of $16 on a $7 front-end</li>
-<li><strong>Average stick rate of subscriptions: 5 weeks</strong></li>
-<li>100% compliant with Facebook and all major traffic sources</li>
-<li><strong>Order-bumps, upsells and downsells fully optimized</strong></li>
-<li>Best-in-class customer service for low refund rate of only 6.9%</li>
-<li><strong>Tailored affiliate support via email</strong></li>
-<li>Wide range of affiliate promo tools</li>
-</ul>
-<p><strong><span style="color:#ff0000;">Get in touch and start earning today!</span></strong></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Are you ready to make one sale and keep earning commissions every week for the next 2 months ? Welcome to Call of Destiny, a weekly astrology subscription which pays affiliates like yourself 75% commissions on everything, including the recurring. Here are the highlights or our offer: 75% commission on everything AOV of $16 on a $7 front-end Average stick rate of subscriptions: 5 weeks 100% compliant with Facebook and all major traffic sources Order-bumps, upsells and downsells fully optimized Best-in-class customer service for low refund rate of only 6.9% Tailored affiliate support via email Wide range of affiliate promo tools Get in touch and start earning today!
 
 ## 2. Links
 

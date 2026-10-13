@@ -41,31 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Relationship Signal Code is a structured 90-day relationship education system designed to help people better understand communication patterns, mixed signals, compatibility, commitment and relationship decision-making. The program includes practical signal breakdowns, communication scripts, compatibility questions, case studies, decision tools and guided worksheets. It is designed for a broad dating, relationship and self-development audience and focuses on practical clarity rather than unrealistic relationship promises. A strong evergreen offer for affiliates promoting dating advice, communication, personal growth and relationship education.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Relationship Signal Code is a structured 90-day relationship education system designed to help people better understand communication patterns, mixed signals, compatibility, commitment and relationship decision-making. The program includes practical signal breakdowns, communication scripts, compatibility questions, case studies, decision tools and guided worksheets. It is designed for a broad dating, relationship and self-development audience and focuses on practical clarity rather than unrealistic relationship promises. A strong evergreen offer for affiliates promoting dating advice, communication, personal growth and relationship education.
 
 ## 2. Links
 

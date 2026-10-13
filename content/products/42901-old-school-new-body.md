@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>OSNB is a body shaping system that helps people get back to their youth through fitness.</div>
-<div><strong>We pay 90% through the funnel.</strong></div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** OSNB is a body shaping system that helps people get back to their youth through fitness. We pay 90% through the funnel.
 
 ## 2. Links
 

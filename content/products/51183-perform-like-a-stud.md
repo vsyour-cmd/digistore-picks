@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Monster Offer from award-winning adult film star &amp; men’s performance expert Stirling Cooper, this science-backed supplement helps men last longer, go harder, and perform like a true STUD.</p>
-<p> </p>
+**Vendor's marketplace description:** Monster Offer from award-winning adult film star & men’s performance expert Stirling Cooper, this science-backed supplement helps men last longer, go harder, and perform like a true STUD.
 
 ## 2. Links
 

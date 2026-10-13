@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Help your audience build a rock-solid daily spiritual routine! "Daily Strength for Quiet Moments" is a premium 20-day high-impact audio and devotional guide designed specifically for the modern world.</p>
-<p>Each day delivers punchy scripture, deep life insights, and practical action steps that listeners can apply instantly. Why promote us?</p>
-<p>• Massive 60% Commission: Earn top-tier payouts on every single sale!</p>
-<p>• High-Converting Product: Beautifully formatted audio and text that solves a real, daily need for spiritual grounding.</p>
-<p>• Full Affiliate Support: We provide high-impact swipe files, social media hooks, and promo graphics to do the heavy lifting for you.</p>
-<p>Target Audience:</p>
-<p>Christian content consumers, busy professionals seeking daily motivation, youth ministries, and anyone looking for structured morning devotionals. Grab your affiliate link and join the squad today!</p>
+**Vendor's marketplace description:** Help your audience build a rock-solid daily spiritual routine! "Daily Strength for Quiet Moments" is a premium 20-day high-impact audio and devotional guide designed specifically for the modern world. Each day delivers punchy scripture, deep life insights, and practical action steps that listeners can apply instantly. Why promote us? • Massive 60% Commission: Earn top-tier payouts on every single sale! • High-Converting Product: Beautifully formatted audio and text that solves a real, daily need for spiritual grounding. • Full Affiliate Support: We provide high-impact swipe files, social media hooks, and promo graphics to do the heavy lifting for you. Target Audience: Christian content consumers, busy professionals seeking daily motivation, youth ministries, and anyone looking for structured morning devotionals. Grab your affiliate link and join the squad today!
 
 ## 2. Links
 
@@ -64,6 +58,14 @@ language: "en"
 - **Page word count:** 3
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

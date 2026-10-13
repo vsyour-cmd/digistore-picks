@@ -41,37 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics – Cutout People Bundle With 30% Discount for only $159</strong></p>
-<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
-<p>6 AI-generated cutout people collections in one bundle — over 2,700 photorealistic PNG figures for architectural entourage.</p>
-<p>Find all information and free sample downloads on the product page:<br /><a href="https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/">https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/</a><br /><br /></p>
-<p><strong>Following single collections are part of this bundle:</strong></p>
-<ul>
-<li><a href="https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/" target="_blank" rel="noreferrer noopener">Cutout People - General</a></li>
-<li><a href="https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/" target="_blank" rel="noreferrer noopener">Cutout People - Business</a></li>
-<li><a href="https://www.tonytextures.com/archviz-scale-figures-medical-healthcare-entourage-png/" target="_blank" rel="noreferrer noopener">Cutout People - Medical</a></li>
-<li><a href="https://www.tonytextures.com/family-kids-png-residential-entourage-archviz/" target="_blank" rel="noreferrer noopener">Cutout People - Residential</a></li>
-<li><a href="https://www.tonytextures.com/render-architecture-people-sport-fitness-entourage-png/" target="_blank" rel="noreferrer noopener">Cutout People - Sport</a></li>
-<li><a href="https://www.tonytextures.com/architectural-rendering-png-people-travel-airport-suitcase-baggage" target="_blank" rel="noreferrer noopener">Cutout People - Travel</a></li>
-</ul>
-<p> </p>
-<p><strong>What your audience gets:</strong></p>
-<ul>
-<li>6 themed collections: General, Business, Medical, Home, Sport, Travel</li>
-<li>2,700+ AI-generated PNG cutout people total</li>
-<li>No personality rights concerns — no real persons used</li>
-<li>Consistent photorealistic style across all collections</li>
-<li>Instant digital download</li>
-<li>60-day money-back guarantee + free sample download available</li>
-</ul>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
-<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
-<li>Free sample download reduces purchase hesitation</li>
-<li>Unique AI-generated product — no personality rights issues is a strong selling point</li>
-</ul>
-<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
+**Vendor's marketplace description:** Architecture VIZ Graphics – Cutout People Bundle With 30% Discount for only $159 Professional graphic collections for architectural visualizations by Tonytextures — designed for architects , landscape designers and ArchVIZ studios. 6 AI-generated cutout people collections in one bundle — over 2,700 photorealistic PNG figures for architectural entourage. Find all information and free sample downloads on the product page: https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/ Following single collections are part of this bundle: Cutout People - General Cutout People - Business Cutout People - Medical Cutout People - Residential Cutout People - Sport Cutout People - Travel What your audience gets: 6 themed collections: General, Business, Medical, Home, Sport, Travel 2,700+ AI-generated PNG cutout people total No personality rights concerns — no real persons used Consistent photorealistic style across all collections Instant digital download 60-day money-back guarantee + free sample download available Why it converts: Clear niche: architects, landscape designers, ArchVIZ studios Established brand: Tonytextures.com – 10+ years serving architects Free sample download reduces purchase hesitation Unique AI-generated product — no personality rights issues is a strong selling point Overview of all Tonytextures products for architectural visualization: https://www.tonytextures.com/shop/
 
 ## 2. Links
 

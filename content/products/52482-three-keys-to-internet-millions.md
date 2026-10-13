@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Kevin Trudeau has generated billions in worldwide sales with winning products that positively impact the whole person.</p>
-<ul>
-<li><strong>$7.85 revenue per click ($32,910 generated from 4 email promotion sequence to 21,000 contacts)</strong></li>
-<li><strong>$997 Product</strong></li>
-<li><strong>Instant access video course</strong></li>
-<li><strong>$0 In Refunds</strong></li>
-<li><strong>$0 in Chargebacks</strong></li>
-<li><strong>30% Gross Affiliate Commission</strong></li>
-<li><strong>Kevin Trudeau Brand Strength</strong></li>
-<li><strong>60-Day Money Back Guarantee</strong></li>
-</ul>
+**Vendor's marketplace description:** Kevin Trudeau has generated billions in worldwide sales with winning products that positively impact the whole person. $7.85 revenue per click ($32,910 generated from 4 email promotion sequence to 21,000 contacts) $997 Product Instant access video course $0 In Refunds $0 in Chargebacks 30% Gross Affiliate Commission Kevin Trudeau Brand Strength 60-Day Money Back Guarantee
 
 ## 2. Links
 

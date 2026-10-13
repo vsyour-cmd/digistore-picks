@@ -41,25 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>This personal development book helps readers overcome fear, take courageous action, and create a life driven by purpose instead of limitation.</p>
-<p>Its timeless message, practical mindset shifts, and broad appeal make it highly relevant for audiences interested in confidence, self-growth, success, and life transformation.</p>
-<p>With strong emotional triggers, universal demand, and a clear promise of lasting personal change, it offers excellent conversion potential for affiliates.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** This personal development book helps readers overcome fear, take courageous action, and create a life driven by purpose instead of limitation. Its timeless message, practical mindset shifts, and broad appeal make it highly relevant for audiences interested in confidence, self-growth, success, and life transformation. With strong emotional triggers, universal demand, and a clear promise of lasting personal change, it offers excellent conversion potential for affiliates.
 
 ## 2. Links
 

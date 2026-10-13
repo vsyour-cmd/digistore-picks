@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Introducing <strong>NewEra Protect</strong>—the latest innovation from the team behind Pelvic Floor Strong—top women’s health offer for 4 consecutive years.</p>
-<p>With a proven track record of success, <strong>NewEra Protect</strong> is set to be the next BIG HIT, and you can be a part of this incredible opportunity!</p>
-<p><strong>IMPORTANT: You must fill out the application in the Affiliate Support Page to be whitelisted at our max payout!!</strong></p>
+**Vendor's marketplace description:** Introducing NewEra Protect —the latest innovation from the team behind Pelvic Floor Strong—top women’s health offer for 4 consecutive years. With a proven track record of success, NewEra Protect is set to be the next BIG HIT, and you can be a part of this incredible opportunity! IMPORTANT: You must fill out the application in the Affiliate Support Page to be whitelisted at our max payout!!
 
 ## 2. Links
 

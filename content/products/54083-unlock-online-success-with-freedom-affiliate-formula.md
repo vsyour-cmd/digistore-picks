@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>BRAND NEW</strong> Offer from the #1 Affiliate! Freedom Affiliate is crushing on paid traffic. <br /><br /><strong>Freedom Affiliate is created off of Robby Blanchard's winning formula and 9 figure student success.</strong> <br /><br />We offer targeting, creatives and high commission payouts for top affiliates.</p>
-<p>Apply Here: <a>https://jv.getfreedomaffiliate.com/</a></p>
-<p>Affiliate Support: support@commissionhero.com</p>
+**Vendor's marketplace description:** BRAND NEW Offer from the #1 Affiliate! Freedom Affiliate is crushing on paid traffic. Freedom Affiliate is created off of Robby Blanchard's winning formula and 9 figure student success. We offer targeting, creatives and high commission payouts for top affiliates. Apply Here: https://jv.getfreedomaffiliate.com/ Affiliate Support: support@commissionhero.com
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affiliates and Super-Affiliates</strong> are calling The Language of Desire <em>“The highest converting women’s relationship offer </em><strong><em>EVER</em></strong><em>.”</em></p>
-<p><strong>CONVERTS</strong> on weight loss, personal development, home business, fitness, hobby and other women’s traffic . . .</p>
-<p><strong>CONVERTS</strong> on social media . . .</p>
-<p><strong>CONVERTS</strong> on COLD traffic . . .</p>
-<p><strong>Over 7,500 front end sales made during launch. Best-selling relationship launch in Clickbank History lead to over $540,000.00 in sales and over $292,000 paid to affiliates!</strong></p>
-<p>Sales video written by 9-figure copywriter Chris “Mr. Moneyfingers” Haddad and every inch of this funnel has been tested, tuned and perfected to make you a TON of money.</p>
+**Vendor's marketplace description:** Affiliates and Super-Affiliates are calling The Language of Desire “The highest converting women’s relationship offer EVER .” CONVERTS on weight loss, personal development, home business, fitness, hobby and other women’s traffic . . . CONVERTS on social media . . . CONVERTS on COLD traffic . . . Over 7,500 front end sales made during launch. Best-selling relationship launch in Clickbank History lead to over $540,000.00 in sales and over $292,000 paid to affiliates! Sales video written by 9-figure copywriter Chris “Mr. Moneyfingers” Haddad and every inch of this funnel has been tested, tuned and perfected to make you a TON of money.
 
 ## 2. Links
 

@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1>Learn Italian by speaking</h1>
-<p>is a <strong>revolutionary language course</strong> that enables everyone to <strong>learn Italian </strong>and become fluent.</p>
-<p>This is a <strong>proven method</strong> and a <strong>serious business</strong> model. Customers are highly satisfied and that is why we have basically <strong>no returns yet.</strong></p>
-<h3 style="text-align:center;"><strong>We just need to get it out on the market, </strong></h3>
-<h2 style="text-align:center;"><strong>We need you!</strong></h2>
-<p>Lets become part of the <strong>multi million dolllar</strong> language market and start <strong>earning your pie </strong>with a highly new and interesting product, basically next <strong>language learning revolution</strong></p>
-<p><strong>Professional sales page </strong>and a<strong> professional product</strong> will guarantee you high returns. You can earn a good amount of money with our <strong>75% affiliate provision.</strong></p>
-<p>We are excited to hear from you. If you have any questions, please write to: <a>naturallanguagesystem@gmail.com</a></p>
-<p><strong>Lets work together </strong>and earn money online. </p>
-<p> </p>
+**Vendor's marketplace description:** Learn Italian by speaking is a revolutionary language course that enables everyone to learn Italian and become fluent. This is a proven method and a serious business model. Customers are highly satisfied and that is why we have basically no returns yet. We just need to get it out on the market, We need you! Lets become part of the multi million dolllar language market and start earning your pie with a highly new and interesting product, basically next language learning revolution Professional sales page and a professional product will guarantee you high returns. You can earn a good amount of money with our 75% affiliate provision. We are excited to hear from you. If you have any questions, please write to: naturallanguagesystem@gmail.com Lets work together and earn money online.
 
 ## 2. Links
 

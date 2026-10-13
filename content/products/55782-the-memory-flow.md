@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Explosive New Memory Loss Offer with a Never-Seen-Before Angle! NASA Neuroscientist Reveals Audio-Based Fix. No Pills, No Supplements. EPC Already Up to $4! Massive Buyer Intent. Scales Well on FB, Native &amp; Email. Limited Spots Available!</p>
+**Vendor's marketplace description:** Explosive New Memory Loss Offer with a Never-Seen-Before Angle! NASA Neuroscientist Reveals Audio-Based Fix. No Pills, No Supplements. EPC Already Up to $4! Massive Buyer Intent. Scales Well on FB, Native & Email. Limited Spots Available!
 
 ## 2. Links
 

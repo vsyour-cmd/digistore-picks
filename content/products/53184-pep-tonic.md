@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Earn 60% Commissions Promoting the Ultimate Energy-Boosting Superfood Drink!</strong></p>
-<p>Boost energy, vitality, and wellness with <strong>Pep Tonic</strong> - the revolutionary superfood drink inspired by Nobel Prize-winning science! Packed with over 50 superfoods, antioxidants, and nutrients, it clears out aging cells, recharges energy, and supports whole-body health. With a <strong><em>90-day money-back guarantee</em></strong> and high-converting offers, Pep Tonic is the perfect product to promote to your audience.</p>
-<p><strong>Join our affiliate program today and start earning 60% commissions</strong> while helping others feel their best!</p>
+**Vendor's marketplace description:** Earn 60% Commissions Promoting the Ultimate Energy-Boosting Superfood Drink! Boost energy, vitality, and wellness with Pep Tonic - the revolutionary superfood drink inspired by Nobel Prize-winning science! Packed with over 50 superfoods, antioxidants, and nutrients, it clears out aging cells, recharges energy, and supports whole-body health. With a 90-day money-back guarantee and high-converting offers, Pep Tonic is the perfect product to promote to your audience. Join our affiliate program today and start earning 60% commissions while helping others feel their best!
 
 ## 2. Links
 

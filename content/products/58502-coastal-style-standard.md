@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>A digital source of inspiration for a bright home featuring maritime charm and a relaxed holiday atmosphere.</h2>
-<p>Bring the feeling of sunshine, the beach, and the sound of the sea into your home. "Coastal Style – A Sea Breeze in the Living Room" is a digital inspiration guide that shows you how to combine the airy ease of seaside living with timeless décor and modern design.</p>
-<p>Recommend a high-quality digital home and interior design product that strongly appeals to the popular home &amp; living audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—making it ideal for Pinterest, blogs, social media, and email marketing.</p>
+**Vendor's marketplace description:** A digital source of inspiration for a bright home featuring maritime charm and a relaxed holiday atmosphere. Bring the feeling of sunshine, the beach, and the sound of the sea into your home. "Coastal Style – A Sea Breeze in the Living Room" is a digital inspiration guide that shows you how to combine the airy ease of seaside living with timeless décor and modern design. Recommend a high-quality digital home and interior design product that strongly appeals to the popular home & living audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—making it ideal for Pinterest, blogs, social media, and email marketing.
 
 ## 2. Links
 

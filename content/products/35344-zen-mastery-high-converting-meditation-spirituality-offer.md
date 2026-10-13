@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>With Zen Mastery, You Get:</strong></p>
-<ul>
-<li><span style="background-color:#00ccff;"><strong>50% COMMISSIONS</strong></span></li>
-<li><span style="background-color:#00ccff;"><strong>INSANELY HIGH CONVERSIONS</strong></span></li>
-<li><span style="background-color:#00ccff;"><strong>AMAZING LEAD MAGNET (CHECK AFFILIATE PAGE)</strong></span></li>
-</ul>
-<p><strong>Why Does Zen Mastery Convert So Well?</strong></p>
-<p>Zen meditation is a well known meditation technique rooted in buddhist psychology. </p>
-<p>Everyone wants to know more about it. Except there's one problem. Nobody teaches it.</p>
-<p><strong>That's where we come in!</strong></p>
-<p> </p>
+**Vendor's marketplace description:** With Zen Mastery, You Get: 50% COMMISSIONS INSANELY HIGH CONVERSIONS AMAZING LEAD MAGNET (CHECK AFFILIATE PAGE) Why Does Zen Mastery Convert So Well? Zen meditation is a well known meditation technique rooted in buddhist psychology. Everyone wants to know more about it. Except there's one problem. Nobody teaches it. That's where we come in!
 
 ## 2. Links
 

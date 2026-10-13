@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An illustrated English-language children’s eBook that takes young readers on an imaginative journey with living letters, helping them discover letters, words, and reading through story and adventure.</p>
-<p>Affiliates earn 40% commission on confirmed sales.</p>
-<p>Promotional materials, book cover, and video are available.<br />Official website: <a>www.elbossilydigitalhome.com</a></p>
+**Vendor's marketplace description:** An illustrated English-language children’s eBook that takes young readers on an imaginative journey with living letters, helping them discover letters, words, and reading through story and adventure. Affiliates earn 40% commission on confirmed sales. Promotional materials, book cover, and video are available. Official website: www.elbossilydigitalhome.com
 
 ## 2. Links
 

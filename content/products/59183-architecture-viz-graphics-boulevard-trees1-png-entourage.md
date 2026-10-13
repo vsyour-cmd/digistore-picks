@@ -41,29 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics – Boulevard Trees V01</strong></p>
-<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
-<p>Hand-masked sets of similar cutout trees — specifically designed to avoid the clone effect when visualizing tree-lined avenues and boulevards.</p>
-<p>Find all information and free sample downloads on the product page: <br /><a>https://www.tonytextures.com/boulevard-trees-v01-cutout-avenue-tree-photos/</a></p>
-<p><strong>What your audience gets:</strong></p>
-<ul>
-<li>Sets of similar high-resolution trees for consistent avenue visualizations</li>
-<li>Photorealistic, manually masked</li>
-<li>PNG with alpha channel + JPG color and alpha map included</li>
-<li>Up to 6,500 px height</li>
-<li>Instant digital download</li>
-<li>60-day money-back guarantee + free sample download available<br /><br /></li>
-</ul>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
-<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
-<li>Free sample download reduces purchase hesitation</li>
-<li>Unique concept (sets of similar trees) — solves a real problem architects face<br /><br /></li>
-</ul>
-<p><strong>Upsell opportunity - the MEGA Bundle:</strong></p>
-<p>This collection is part of <a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">Tonytexture's MEGA Bundle</a> which includes all 26 ArchVIZ collection with a 50% discount!<br /><br /></p>
-<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
+**Vendor's marketplace description:** Architecture VIZ Graphics – Boulevard Trees V01 Professional graphic collections for architectural visualizations by Tonytextures — designed for architects , landscape designers and ArchVIZ studios. Hand-masked sets of similar cutout trees — specifically designed to avoid the clone effect when visualizing tree-lined avenues and boulevards. Find all information and free sample downloads on the product page: https://www.tonytextures.com/boulevard-trees-v01-cutout-avenue-tree-photos/ What your audience gets: Sets of similar high-resolution trees for consistent avenue visualizations Photorealistic, manually masked PNG with alpha channel + JPG color and alpha map included Up to 6,500 px height Instant digital download 60-day money-back guarantee + free sample download available Why it converts: Clear niche: architects, landscape designers, ArchVIZ studios Established brand: Tonytextures.com – 10+ years serving architects Free sample download reduces purchase hesitation Unique concept (sets of similar trees) — solves a real problem architects face Upsell opportunity - the MEGA Bundle: This collection is part of Tonytexture's MEGA Bundle which includes all 26 ArchVIZ collection with a 50% discount! Overview of all Tonytextures products for architectural visualization: https://www.tonytextures.com/shop/
 
 ## 2. Links
 

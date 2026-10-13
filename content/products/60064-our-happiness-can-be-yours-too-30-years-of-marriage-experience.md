@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Our Happiness Can Be Yours Too is an English digital marriage guide by Anna and Adam, drawing on 30 years of marriage.</p>
-<p>For audiences interested in long-term relationships, everyday communication and making more room for connection. The book is delivered as PDF and EPUB through Digistore24.</p>
-<p>Promote an honest, experience-led relationship guide without promises of guaranteed results. Please use your personal Digistore24 promotional link and clearly disclose your affiliate relationship. No misleading claims, spam or invented testimonials.</p>
-<p>Affiliate enquiries: kociko@gmx.at</p>
+**Vendor's marketplace description:** Our Happiness Can Be Yours Too is an English digital marriage guide by Anna and Adam, drawing on 30 years of marriage. For audiences interested in long-term relationships, everyday communication and making more room for connection. The book is delivered as PDF and EPUB through Digistore24. Promote an honest, experience-led relationship guide without promises of guaranteed results. Please use your personal Digistore24 promotional link and clearly disclose your affiliate relationship. No misleading claims, spam or invented testimonials. Affiliate enquiries: kociko@gmx.at
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Aligned Love Archetypes is a practical 30-day relationship-readiness system designed for singles and couples who want more clarity in dating, communication, compatibility and boundaries. Customers receive a 55-page digital guide featuring a 36-question Love Archetype Scan, six detailed archetype profiles, compatibility frameworks, red and green flag exercises, conversation tools and a complete 30-day action plan. A polished, easy-to-understand relationship product with a broad evergreen audience and strong promotional angles across dating, self-development and relationship content.</p>
+**Vendor's marketplace description:** Aligned Love Archetypes is a practical 30-day relationship-readiness system designed for singles and couples who want more clarity in dating, communication, compatibility and boundaries. Customers receive a 55-page digital guide featuring a 36-question Love Archetype Scan, six detailed archetype profiles, compatibility frameworks, red and green flag exercises, conversation tools and a complete 30-day action plan. A polished, easy-to-understand relationship product with a broad evergreen audience and strong promotional angles across dating, self-development and relationship content.
 
 ## 2. Links
 

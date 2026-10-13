@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Top seller in CB for more than a decade! Now Comes to <strong>Digistore24</strong>.</p>
-<p>This WoodWorking Offer has made more millionaires than any other woodworking offer on the internet</p>
-<p><strong>OPEN TO ALL AFFILIATES.</strong></p>
-<p>Evergreen niche with a HUGE market. Get $125/sale with a highly optimized funnel for 11% conversions + 75% comm on front &amp; upsells. Crushes on FB and media buys with insane EPC on DIY, Survival, Conservative lists.</p>
-<p><strong>Top Tier Commissions (90%+ Available).</strong></p>
-<p>Reach Out to Our Affiliate Manager Johnny (<a href="mailto:johnnyrowain@gmail.com">johnnyrowain@gmail.com</a>)</p>
+**Vendor's marketplace description:** Top seller in CB for more than a decade! Now Comes to Digistore24 . This WoodWorking Offer has made more millionaires than any other woodworking offer on the internet OPEN TO ALL AFFILIATES. Evergreen niche with a HUGE market. Get $125/sale with a highly optimized funnel for 11% conversions + 75% comm on front & upsells. Crushes on FB and media buys with insane EPC on DIY, Survival, Conservative lists. Top Tier Commissions (90%+ Available). Reach Out to Our Affiliate Manager Johnny ( johnnyrowain@gmail.com )
 
 ## 2. Links
 
@@ -88,6 +83,25 @@ language: "en"
 - **OG image:** images/16plansimg.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> You're standing in your shop with a half-built project, instructions that stopped making sense two steps ago, and lumber that might already be wasted.
+> Just a guy in his shop on a Tuesday night, realizing that the only way to make a plan that works is to build it first — then write the instructions from what you learned.
+> It's a set of instructions someone is going to follow , step by step, on a real workbench.
+
+### 3c. Cautions
+
+> And this page is going away very soon. I reserve the right to end this discount at anytime without warning after in 2 days
+> This is a one-time purchase. I reserve the right to end this discount at anytime without warning after in 2 days
+> This is a one-time purchase. No monthly fees. No hidden costs. I reserve the right to end this discount at anytime without warning after in 2 days
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60245-g1.webp
+- assets/products/60245-g2.webp
+- assets/products/60245-g3.webp
+- assets/products/60245-g4.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

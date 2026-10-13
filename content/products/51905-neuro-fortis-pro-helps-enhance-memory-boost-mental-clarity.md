@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Neuro Fortis PRO helps enhance memory, boost mental clarity, and protect against cognitive decline!</p>
+**Vendor's marketplace description:** Neuro Fortis PRO helps enhance memory, boost mental clarity, and protect against cognitive decline!
 
 ## 2. Links
 

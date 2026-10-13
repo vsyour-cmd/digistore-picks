@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Master the Art of Authentic Connection.</p>
-<p>Have you ever wondered why some people seem to naturally attract others like a magnet? <strong>Attraction is not a trick, but an art based on connection, charisma and trust.</strong></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Master the Art of Authentic Connection. Have you ever wondered why some people seem to naturally attract others like a magnet? Attraction is not a trick, but an art based on connection, charisma and trust.
 
 ## 2. Links
 

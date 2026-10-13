@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The template helps with the creation of construction project mobilization plan and besides the plan also incl.udes a checklist.</p>
-<ul>
-<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
-<li>If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.  </li>
-</ul>
+**Vendor's marketplace description:** The template helps with the creation of construction project mobilization plan and besides the plan also incl.udes a checklist. As an affiliate, you earn 50% per sale. If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.
 
 ## 2. Links
 

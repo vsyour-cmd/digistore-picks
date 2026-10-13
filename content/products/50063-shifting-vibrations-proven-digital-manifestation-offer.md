@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Has Done OVER $1.8M In Sales Using Our Own COLD Paid Traffic. Shifting Vibrations Is Proven Wealth Manifestation Offer Your Traffic Will LOVE. Great Conversions, High AOV And EPCs. Send A Test Today And See! Contact Us For More.</p>
+**Vendor's marketplace description:** This Has Done OVER $1.8M In Sales Using Our Own COLD Paid Traffic. Shifting Vibrations Is Proven Wealth Manifestation Offer Your Traffic Will LOVE. Great Conversions, High AOV And EPCs. Send A Test Today And See! Contact Us For More.
 
 ## 2. Links
 

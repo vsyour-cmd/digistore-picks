@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Three Friends and the Golden Berry Tree – Story and Coloring Book Bundle</p>
-<p>The Three Friends and the Golden Berry Tree – Story &amp; Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9 The bundle includes a 47-page children's storybook and a 40-page coloring book, for a total of 87 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promotional materials, including product images and video, are available on the Affiliate Support Page. Instant digital delivery – no physical product is shipped.</p>
+**Vendor's marketplace description:** The Three Friends and the Golden Berry Tree – Story and Coloring Book Bundle The Three Friends and the Golden Berry Tree – Story & Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9 The bundle includes a 47-page children's storybook and a 40-page coloring book, for a total of 87 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promotional materials, including product images and video, are available on the Affiliate Support Page. Instant digital delivery – no physical product is shipped.
 
 ## 2. Links
 

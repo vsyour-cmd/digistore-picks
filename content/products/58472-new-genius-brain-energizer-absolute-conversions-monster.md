@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>From a <strong>Digistore24 Platinum Vendor</strong>. Neuro Genius Brain Energizer is a proven brain enhancement offer we’ve personally tested with our own ad spend on Facebook and Meta. Fully optimized for cold traffic with 2–5% conversions and an $80–$90 AOV.</p>
+**Vendor's marketplace description:** From a Digistore24 Platinum Vendor . Neuro Genius Brain Energizer is a proven brain enhancement offer we’ve personally tested with our own ad spend on Facebook and Meta. Fully optimized for cold traffic with 2–5% conversions and an $80–$90 AOV.
 
 ## 2. Links
 

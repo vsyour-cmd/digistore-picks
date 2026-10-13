@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Affirmation </strong></p>
-<div>
-<div>
-<p>Affirmation is a collection of positive, beneficial and uplifting phrases and instructions, beginning with a meditative, heart-connection establishing and relaxation-promoting introduction. Revitalize and refresh your mind, change your thinking and thus your life!</p>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-<div>
-<p><strong>Your advantages as an affiliate:</strong></p>
-<p>25% commission for every sale made<br />Promote peace, relaxation, and well-being!</p>
-<p>Support people in feeling relaxed, finding peace, and regaining their strength!</p>
-</div>
+**Vendor's marketplace description:** Affirmation Affirmation is a collection of positive, beneficial and uplifting phrases and instructions, beginning with a meditative, heart-connection establishing and relaxation-promoting introduction. Revitalize and refresh your mind, change your thinking and thus your life! Your advantages as an affiliate: 25% commission for every sale made Promote peace, relaxation, and well-being! Support people in feeling relaxed, finding peace, and regaining their strength!
 
 ## 2. Links
 

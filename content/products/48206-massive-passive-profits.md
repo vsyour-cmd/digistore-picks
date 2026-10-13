@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>BRAND NEW BIZOPP OFFER! Make Up To $447 Per Sale On This HUGE new DIGISTORE24 Launch.</p>
+**Vendor's marketplace description:** BRAND NEW BIZOPP OFFER! Make Up To $447 Per Sale On This HUGE new DIGISTORE24 Launch.
 
 ## 2. Links
 

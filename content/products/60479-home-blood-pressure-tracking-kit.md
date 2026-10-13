@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>[THE PROBLEM &amp; AUDIENCE]</strong> The doctor-approved home logging protocol that eliminates "white-coat hypertension" and provides clean, structured data for physicians to optimize treatments.</p>
-<p><br /><strong>[WHAT CONVERTS]</strong> 34-page fillable toolkit featuring validated cuff placement instructions, morning vs. evening recording logs, lifestyle trigger correlation cards, and physician 1-page summaries.</p>
-<p><br /><strong>[AFFILIATE EDGE]</strong> Massive audience: over 1.2 billion adults manage blood pressure worldwide. High trust, zero compliance friction, and seamless upsell into our comprehensive binders.</p>
-<p> </p>
-<p><strong>Best Traffic Channels:</strong> Hypertension communities, home health device reviewers, medical tracking blogs, family health portals.</p>
+**Vendor's marketplace description:** [THE PROBLEM & AUDIENCE] The doctor-approved home logging protocol that eliminates "white-coat hypertension" and provides clean, structured data for physicians to optimize treatments. [WHAT CONVERTS] 34-page fillable toolkit featuring validated cuff placement instructions, morning vs. evening recording logs, lifestyle trigger correlation cards, and physician 1-page summaries. [AFFILIATE EDGE] Massive audience: over 1.2 billion adults manage blood pressure worldwide. High trust, zero compliance friction, and seamless upsell into our comprehensive binders. Best Traffic Channels: Hypertension communities, home health device reviewers, medical tracking blogs, family health portals.
 
 ## 2. Links
 

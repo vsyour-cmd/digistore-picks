@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>High conversions, FAT EPC's, killer copy, and a great product. This is a BRAND-NEW VSL monster</p>
-<p>If you've got traffic, your EPC's will be BANANAS. There's no offer like this one. Contact us at <a href="mailto:binauraltechnologies@gmail.com">binauraltechnologies@gmail.com</a> for Commission Bumps and Other Resources. Aff's are SCALING RN. Join them.</p>
+**Vendor's marketplace description:** High conversions, FAT EPC's, killer copy, and a great product. This is a BRAND-NEW VSL monster If you've got traffic, your EPC's will be BANANAS. There's no offer like this one. Contact us at binauraltechnologies@gmail.com for Commission Bumps and Other Resources. Aff's are SCALING RN. Join them.
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>90-Day Proven Fat Loss Challenge — ZTraining</strong></p>
-<p>A structured fat loss programme used by 1,000+ clients across the UK, US and Middle East. Created by Francesco Zen 18 years of coaching and 400+ individual successful transformations.</p>
-<p>Priced at $97 with a 60-day money-back guarantee. Instant PDF delivery, no supplements required, no ongoing costs.</p>
-<p>The sales page is fully built and benefit-led with real client testimonials from multiple countries. Converts well to health-conscious adults aged 25–50 who have tried other programmes without success.</p>
-<p><strong>Commission:</strong> 65%</p>
-<p><strong>Contact:</strong> <a>francesco@ztraining.co.uk</a></p>
+**Vendor's marketplace description:** 90-Day Proven Fat Loss Challenge — ZTraining A structured fat loss programme used by 1,000+ clients across the UK, US and Middle East. Created by Francesco Zen 18 years of coaching and 400+ individual successful transformations. Priced at $97 with a 60-day money-back guarantee. Instant PDF delivery, no supplements required, no ongoing costs. The sales page is fully built and benefit-led with real client testimonials from multiple countries. Converts well to health-conscious adults aged 25–50 who have tried other programmes without success. Commission: 65% Contact: francesco@ztraining.co.uk
 
 ## 2. Links
 

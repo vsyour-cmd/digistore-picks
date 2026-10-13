@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>If you want to prepare for Comptia Linux+ or LPIC-1, you are right here! We take care you get in touch with the required topics and provide you realistic training questions, similar to the real test but without time pressure.<br /><br />Get explanations and related links directly to further material in the internet to learn with context.<br /><br />Detailed statistics help you to focus on your knowledge gaps and achieve success in the shortest possible time.<br /><br /></p>
-<ul>
-<li>More than 1250 questions</li>
-<li>8 topics</li>
-<li>Strength analysis</li>
-<li>Smartphone compatible website</li>
-</ul>
-<p><br />Made by experienced Linux administrators knowing what is required and what you need to know for an exam and real life.<br /><br />Join now to achieve the best results in your Linux exam!<br /><br />(Page is provided in English)</p>
+**Vendor's marketplace description:** If you want to prepare for Comptia Linux+ or LPIC-1, you are right here! We take care you get in touch with the required topics and provide you realistic training questions, similar to the real test but without time pressure. Get explanations and related links directly to further material in the internet to learn with context. Detailed statistics help you to focus on your knowledge gaps and achieve success in the shortest possible time. More than 1250 questions 8 topics Strength analysis Smartphone compatible website Made by experienced Linux administrators knowing what is required and what you need to know for an exam and real life. Join now to achieve the best results in your Linux exam! (Page is provided in English)
 
 ## 2. Links
 

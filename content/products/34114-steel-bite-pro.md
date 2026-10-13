@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Holy Grail Of Fb Aff, Crazy Epc, Max Cart Value $881!! This Just Took The Markeplace By Storm, Aff Getting $5.37 Epc, Works On Any Traffic, Killer Copy Made By Gurus, Will Make You Rich Almost-guaranteed This Month. Let's Go!!</p>
+**Vendor's marketplace description:** The Holy Grail Of Fb Aff, Crazy Epc, Max Cart Value $881!! This Just Took The Markeplace By Storm, Aff Getting $5.37 Epc, Works On Any Traffic, Killer Copy Made By Gurus, Will Make You Rich Almost-guaranteed This Month. Let's Go!!
 
 ## 2. Links
 

@@ -41,27 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>HOW WILL AMERICAN POWER EVOLVE IN A CHANGING WORLD?</strong></p>
-<p><em>The Architecture of American Power – Volume VI</em> moves beyond snapshots of current strength to examine power as a <strong>trajectory through time</strong>—shaped by accumulated advantages, vulnerabilities, adaptation, and structural change.</p>
-<p>What sets this book apart is that it <strong>does not predict one fixed future</strong>. Instead, it analyzes how technology, resources, infrastructure, competition with China, multipolarity, strategic shocks, and different rates of adaptation can reshape American power.</p>
-<p>Readers gain a framework for understanding when established power can persist, adapt, erode, or fundamentally transform.</p>
-<p>For affiliates, this creates a distinctive product for audiences interested in geopolitics, U.S.–China competition, multipolarity, strategic forecasting, and the future global balance of power.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** HOW WILL AMERICAN POWER EVOLVE IN A CHANGING WORLD? The Architecture of American Power – Volume VI moves beyond snapshots of current strength to examine power as a trajectory through time —shaped by accumulated advantages, vulnerabilities, adaptation, and structural change. What sets this book apart is that it does not predict one fixed future . Instead, it analyzes how technology, resources, infrastructure, competition with China, multipolarity, strategic shocks, and different rates of adaptation can reshape American power. Readers gain a framework for understanding when established power can persist, adapt, erode, or fundamentally transform. For affiliates, this creates a distinctive product for audiences interested in geopolitics, U.S.–China competition, multipolarity, strategic forecasting, and the future global balance of power.
 
 ## 2. Links
 

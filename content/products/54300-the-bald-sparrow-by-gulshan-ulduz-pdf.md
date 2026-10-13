@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Little tales for kind hearts. Written for all ages.</strong></p>
-<p>Promote <em>The Bald Sparrow</em> to audiences interested in character-driven allegories and animal-based moral tales. Perfect for parenting, educational, and literature-themed channels.</p>
-<p>Comes with a bonus tale, <em>Zhann</em>.</p>
-<p>All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 <strong>Advertising Media Area</strong> for this product.</p>
+**Vendor's marketplace description:** Little tales for kind hearts. Written for all ages. Promote The Bald Sparrow to audiences interested in character-driven allegories and animal-based moral tales. Perfect for parenting, educational, and literature-themed channels. Comes with a bonus tale, Zhann . All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 Advertising Media Area for this product.
 
 ## 2. Links
 

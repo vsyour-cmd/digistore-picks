@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An Exclusive Astronauts’ “Pee In 0 Gravity” Prostate Protocol That Converts On All Types Of Traffic.</p>
-<p>Top Affiliates Are Reporting Up To $7 Epc.</p>
-<p>Already Scaling On Native And Fb with 6 Fig/day.</p>
+**Vendor's marketplace description:** An Exclusive Astronauts’ “Pee In 0 Gravity” Prostate Protocol That Converts On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
 
 ## 2. Links
 

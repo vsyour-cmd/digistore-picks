@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Forbidden Dubai angle. Killer VSL. This is blowing up faster than Dubai’s skyline. This offer is converting like a monster right now: <strong>Fat $2 EPC on average and $86 AOV.</strong> GET YOUR affiliate link here: <a href="https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24" target="_blank" rel="noreferrer noopener">https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24</a></p>
+**Vendor's marketplace description:** Forbidden Dubai angle. Killer VSL. This is blowing up faster than Dubai’s skyline. This offer is converting like a monster right now: Fat $2 EPC on average and $86 AOV. GET YOUR affiliate link here: https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24
 
 ## 2. Links
 

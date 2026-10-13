@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Insane CVR's and EPC's. Neuroscientist-endorsed. Click here to get your link and CPA PAYOUTS: Contact us at <a>binauraltechnologies@gmail.com</a> for Commission Bumps and Other Resources. This offer is from the creators of The Genius Wave. Jump on it now.</p>
+**Vendor's marketplace description:** Insane CVR's and EPC's. Neuroscientist-endorsed. Click here to get your link and CPA PAYOUTS: Contact us at binauraltechnologies@gmail.com for Commission Bumps and Other Resources. This offer is from the creators of The Genius Wave. Jump on it now.
 
 ## 2. Links
 

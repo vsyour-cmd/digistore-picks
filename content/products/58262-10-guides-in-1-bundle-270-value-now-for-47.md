@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>50% commission per sale.</p>
-<p> </p>
-<p>All 10 guide topics complete in English: relationships, finances, burnout, side income, caregiving, anxiety, procrastination, ADHD, menopause, and AI. 10 complete eBooks for 47€ instead of 270€ separately.</p>
-<p> </p>
-<p>10 complete guides with exercises, real examples, and checklists. Great entry-level bundle with broad appeal.</p>
+**Vendor's marketplace description:** 50% commission per sale. All 10 guide topics complete in English: relationships, finances, burnout, side income, caregiving, anxiety, procrastination, ADHD, menopause, and AI. 10 complete eBooks for 47€ instead of 270€ separately. 10 complete guides with exercises, real examples, and checklists. Great entry-level bundle with broad appeal.
 
 ## 2. Links
 

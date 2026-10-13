@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An honest, compassionate guide for family caregivers – with real tools against guilt and exhaustion. Ideal for audiences in health, caregiving, and self-help.</p>
-<p> </p>
-<p>23 chapters, warmly written, with clear guidance to seek professional support when needed. 50% commission per sale.</p>
+**Vendor's marketplace description:** An honest, compassionate guide for family caregivers – with real tools against guilt and exhaustion. Ideal for audiences in health, caregiving, and self-help. 23 chapters, warmly written, with clear guidance to seek professional support when needed. 50% commission per sale.
 
 ## 2. Links
 

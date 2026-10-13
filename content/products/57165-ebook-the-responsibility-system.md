@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This empowering self-development book helps readers break free from blame, excuses, and passivity by embracing personal responsibility and taking ownership of their lives.</p>
-<p>Its practical, motivating message resonates with a broad audience interested in personal growth, mindset, success, and self-leadership.</p>
-<p>With universal appeal, strong emotional impact, and a clear promise of transformation, it offers excellent affiliate potential and high conversion opportunities.</p>
+**Vendor's marketplace description:** This empowering self-development book helps readers break free from blame, excuses, and passivity by embracing personal responsibility and taking ownership of their lives. Its practical, motivating message resonates with a broad audience interested in personal growth, mindset, success, and self-leadership. With universal appeal, strong emotional impact, and a clear promise of transformation, it offers excellent affiliate potential and high conversion opportunities.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>We're offering 60% of our front end sales, and a further 15% throughout the remainder of the funnel.</strong></p>
-<p><strong>TOP CUSTOMER SUPPORT</strong></p>
-<p><strong>LOW REFUNDS AND LOW CHARGEBACKS</strong></p>
-<p><strong>GENEROUS COMMISSIONS</strong></p>
-<p><strong>EXTREMELY BROAD APPEAL</strong> The hair loss market for women is huge – and it's getting bigger. According to the latest research, 50% of women over 50 experience significant hair loss. And our serum contains rosemary, which is extremely popular as a remedy for hair loss.</p>
-<p><strong>PROVEN SALES PAGE</strong> This sales page is a solid performer on straight cold paid prospects from Meta. For this reason, we expect the affiliate channel to do absolutely great.</p>
-<p><strong>NO GOOGLE BRAND ADS:</strong></p>
-<p>We do not currently allow Google PPC ads to the offer.</p>
+**Vendor's marketplace description:** We're offering 60% of our front end sales, and a further 15% throughout the remainder of the funnel. TOP CUSTOMER SUPPORT LOW REFUNDS AND LOW CHARGEBACKS GENEROUS COMMISSIONS EXTREMELY BROAD APPEAL The hair loss market for women is huge – and it's getting bigger. According to the latest research, 50% of women over 50 experience significant hair loss. And our serum contains rosemary, which is extremely popular as a remedy for hair loss. PROVEN SALES PAGE This sales page is a solid performer on straight cold paid prospects from Meta. For this reason, we expect the affiliate channel to do absolutely great. NO GOOGLE BRAND ADS: We do not currently allow Google PPC ads to the offer.
 
 ## 2. Links
 

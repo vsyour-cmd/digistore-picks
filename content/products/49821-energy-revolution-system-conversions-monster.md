@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Brand new offer with an ultra optimized upsell funnel and low refund rates. Unparalled EPCs and conversion rates. Crushes on Warn, Cold, Native and more...</strong></p>
+**Vendor's marketplace description:** Brand new offer with an ultra optimized upsell funnel and low refund rates. Unparalled EPCs and conversion rates. Crushes on Warn, Cold, Native and more...
 
 ## 2. Links
 

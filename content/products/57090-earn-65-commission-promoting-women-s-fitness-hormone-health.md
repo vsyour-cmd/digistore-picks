@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote the Science-First Offer Women's Fitness Has Been Missing.</strong></p>
-<p>The Women's Hormone Blueprint is a 60-page science-based guide that maps every phase of a woman's hormonal cycle — menstrual, follicular, ovulatory, luteal — to <strong>training, nutrition, fat loss, energy and recovery</strong>. Not vague advice: specific protocols, decision rules, pocket guides, a 60-day tracker and cycle diagrams.</p>
-<p>This taps directly into the explosive demand for <strong>cycle syncing</strong>, <strong>training with your cycle</strong>, and <strong>hormonal nutrition</strong> — a conversation flooding fitness search and social, where women have heard the words but have never been handed one credible, structured guide telling them exactly what to do, phase by phase.</p>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li><strong>A real gap, clearly filled.</strong> Serious women notice their strength, fat loss and energy swing wildly week to week. This explains why, and gives them the protocols.</li>
-<li><strong>The honest emotional hook:</strong> "You weren't inconsistent, you were following a plan that ignored half your biology." That relief is the sell.</li>
-<li><strong>The serious offer.</strong> For the woman who wants the mechanism and the data, not a journal or a vibe. Strong fit for fitness, training, nutrition and female-biohacking audiences.</li>
-<li><strong>60-day money-back guarantee</strong> removes purchase risk for her, and refund anxiety for you.</li>
-</ul>
-<p><strong>What you earn:</strong></p>
-<ul>
-<li><strong>65% commission</strong> on every sale (~$24 per guide), the strongest single-product payout in the catalog.</li>
-<li>Cookie window up to 180 days (EU) / 365 days (US), you earn even if she buys later.</li>
-<li>Your one signup link also enrolls you for the $44.99 Bundle (~$29/sale) and the $14.99 Journal (easy cold-traffic offer).</li>
-</ul>
-<p><strong>Ready-made assets:</strong> affiliate support page with email swipes, keywords, audience targeting and downloadable graphics.</p>
-<p> </p>
+**Vendor's marketplace description:** Promote the Science-First Offer Women's Fitness Has Been Missing. The Women's Hormone Blueprint is a 60-page science-based guide that maps every phase of a woman's hormonal cycle — menstrual, follicular, ovulatory, luteal — to training, nutrition, fat loss, energy and recovery . Not vague advice: specific protocols, decision rules, pocket guides, a 60-day tracker and cycle diagrams. This taps directly into the explosive demand for cycle syncing , training with your cycle , and hormonal nutrition — a conversation flooding fitness search and social, where women have heard the words but have never been handed one credible, structured guide telling them exactly what to do, phase by phase. Why it converts: A real gap, clearly filled. Serious women notice their strength, fat loss and energy swing wildly week to week. This explains why, and gives them the protocols. The honest emotional hook: "You weren't inconsistent, you were following a plan that ignored half your biology." That relief is the sell. The serious offer. For the woman who wants the mechanism and the data, not a journal or a vibe. Strong fit for fitness, training, nutrition and female-biohacking audiences. 60-day money-back guarantee removes purchase risk for her, and refund anxiety for you. What you earn: 65% commission on every sale (~$24 per guide), the strongest single-product payout in the catalog. Cookie window up to 180 days (EU) / 365 days (US), you earn even if she buys later. Your one signup link also enrolls you for the $44.99 Bundle (~$29/sale) and the $14.99 Journal (easy cold-traffic offer). Ready-made assets: affiliate support page with email swipes, keywords, audience targeting and downloadable graphics.
 
 ## 2. Links
 

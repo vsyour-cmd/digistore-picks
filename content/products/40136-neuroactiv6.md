@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>We are excited to offer you a supplement that you can feel proud and comfortable promoting, because we only use patented, clinically tested ingredients at their proven doses.</p>
-<p>Since you’ll earn a <strong>25% commission</strong> (<strong>If you plan on mailing to a list, conteact us to upgrade you to 75%)</strong> on our entire sales funnel you’ll be pleased to know that our customers love our product and continue purchasing it month after month (so you keep getting paid).</p>
-<p>Unlike many free trial or low quality supplements one simple scan of our label will show you that we truly prioritize health over profits. And you can feel comfortable recommending <strong>NeuroActiv6</strong> to even the most skeptical consumer.</p>
-<p>Our sales funnels are optimized and proven to convert across multiple markets such as health, fitness, nutrition, mommy blogs, gamers, and even the dating and relationship space.</p>
+**Vendor's marketplace description:** We are excited to offer you a supplement that you can feel proud and comfortable promoting, because we only use patented, clinically tested ingredients at their proven doses. Since you’ll earn a 25% commission ( If you plan on mailing to a list, conteact us to upgrade you to 75%) on our entire sales funnel you’ll be pleased to know that our customers love our product and continue purchasing it month after month (so you keep getting paid). Unlike many free trial or low quality supplements one simple scan of our label will show you that we truly prioritize health over profits. And you can feel comfortable recommending NeuroActiv6 to even the most skeptical consumer. Our sales funnels are optimized and proven to convert across multiple markets such as health, fitness, nutrition, mommy blogs, gamers, and even the dating and relationship space.
 
 ## 2. Links
 

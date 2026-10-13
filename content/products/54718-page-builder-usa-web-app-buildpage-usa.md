@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Page Builder – Usa [Web app – buildpage-usa]</p>
-<p>Build Fast Landing Pages That Sell Every Single Day</p>
-<p>Stop struggling with complex, heavy builders or high recurring monthly payments. Create high-performing page layouts instantly. Perfect your sales funnel and achieve lightning-fast loading speeds that skyrocket your marketing results.</p>
-<p> </p>
-<p> </p>
-<p>Try Online For Free</p>
+**Vendor's marketplace description:** Page Builder – Usa [Web app – buildpage-usa] Build Fast Landing Pages That Sell Every Single Day Stop struggling with complex, heavy builders or high recurring monthly payments. Create high-performing page layouts instantly. Perfect your sales funnel and achieve lightning-fast loading speeds that skyrocket your marketing results. Try Online For Free
 
 ## 2. Links
 

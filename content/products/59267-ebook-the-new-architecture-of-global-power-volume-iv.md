@@ -41,27 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>WHEN DOES CONNECTION BECOME POWER?</strong></p>
-<p><em>The New Architecture of Global Power – Volume IV: The Architecture of Connectivity Power</em> examines how the physical networks moving goods, resources, and energy become structures of geopolitical power.</p>
-<p>What sets this book apart is its focus on <strong>connectivity itself</strong>: chokepoints, ports, corridors, pipelines, and logistics are analyzed through dependency, alternatives, resilience, and strategic leverage.</p>
-<p>Readers discover why infrastructure or geography alone does not create power—and when network positions can shape strategic choices.</p>
-<p>For affiliates, this offers a distinctive product for audiences interested in geopolitics, global trade, supply chains, energy security, infrastructure, and strategic chokepoints.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** WHEN DOES CONNECTION BECOME POWER? The New Architecture of Global Power – Volume IV: The Architecture of Connectivity Power examines how the physical networks moving goods, resources, and energy become structures of geopolitical power. What sets this book apart is its focus on connectivity itself : chokepoints, ports, corridors, pipelines, and logistics are analyzed through dependency, alternatives, resilience, and strategic leverage. Readers discover why infrastructure or geography alone does not create power—and when network positions can shape strategic choices. For affiliates, this offers a distinctive product for audiences interested in geopolitics, global trade, supply chains, energy security, infrastructure, and strategic chokepoints.
 
 ## 2. Links
 

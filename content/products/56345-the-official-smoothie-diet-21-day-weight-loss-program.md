@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>The Official 21-Day Smoothie Diet™ Weight Loss Offer — Now Available on Digistore24</strong></h2>
-<p>The Smoothie Diet™ is a proven 21-day digital weight loss program with broad appeal in the weight loss, women’s health, wellness, and smoothie/nutrition markets.</p>
-<p>This offer has been promoted successfully for years through affiliate traffic and is built around a simple, highly visual concept that is easy for customers to understand: replace two meals per day with delicious smoothies and follow a simple 21-day plan.</p>
-<p><strong>Why affiliates promote this offer:</strong></p>
-<ul>
-<li>Simple 21-day weight loss angle</li>
-<li>Highly visual smoothie-based concept</li>
-<li>Broad appeal in the health and weight loss market</li>
-<li>Thousands of customer success stories</li>
-<li>Works well with social media-style traffic</li>
-<li>Digital product with instant access</li>
-</ul>
-<p><strong>Best traffic sources:</strong> Facebook, Instagram, TikTok, native, email, SEO, content, and health/wellness audiences.</p>
-<p><strong>Note:</strong> Affiliates must follow all Digistore24 rules, platform policies, and compliant advertising guidelines. No false income claims, unrealistic weight loss claims, or misleading before/after advertising.</p>
+**Vendor's marketplace description:** The Official 21-Day Smoothie Diet™ Weight Loss Offer — Now Available on Digistore24 The Smoothie Diet™ is a proven 21-day digital weight loss program with broad appeal in the weight loss, women’s health, wellness, and smoothie/nutrition markets. This offer has been promoted successfully for years through affiliate traffic and is built around a simple, highly visual concept that is easy for customers to understand: replace two meals per day with delicious smoothies and follow a simple 21-day plan. Why affiliates promote this offer: Simple 21-day weight loss angle Highly visual smoothie-based concept Broad appeal in the health and weight loss market Thousands of customer success stories Works well with social media-style traffic Digital product with instant access Best traffic sources: Facebook, Instagram, TikTok, native, email, SEO, content, and health/wellness audiences. Note: Affiliates must follow all Digistore24 rules, platform policies, and compliant advertising guidelines. No false income claims, unrealistic weight loss claims, or misleading before/after advertising.
 
 ## 2. Links
 

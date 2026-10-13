@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A practical video course that teaches non-Koreans the Korean actually used in Korean offices:<span style="background-color:#ffff00;"> honorifics, job titles, emails, meetings, phone calls, negotiation and company dinners (회식).</span></p>
-<p><span style="background-color:#ffff00;">WHY PROMOTE IT</span><br />• Huge, growing audience: K-culture fans, expats in Korea, and professionals working with Korean companies<br /><span style="background-color:#ffff00;">• Clear promise: "Stop sounding like a textbook at work"</span><br /><span style="background-color:#ffff00;">• Credible instructor: business-language instructor &amp; simultaneous interpreter Jessica Lee (Invest UAE Roadshow 2025, ex-Yonhap News)</span><br /><span style="background-color:#ffff00;">• 33 video lessons (66 min), taught in English, with 2 free preview lessons on the sales page</span><br /><span style="background-color:#ffff00;">• 60-day money-back guarantee</span><br /><span style="background-color:#ffff00;">• One-time price $84.99 (was $148)</span></p>
-<p><span style="background-color:#ffff00;">Banners, Instagram captions, tweets and email swipes are on the affiliate support page:</span><br />https://jessicabusinesskorean.com/affiliates.html</p>
+**Vendor's marketplace description:** A practical video course that teaches non-Koreans the Korean actually used in Korean offices: honorifics, job titles, emails, meetings, phone calls, negotiation and company dinners (회식). WHY PROMOTE IT • Huge, growing audience: K-culture fans, expats in Korea, and professionals working with Korean companies • Clear promise: "Stop sounding like a textbook at work" • Credible instructor: business-language instructor & simultaneous interpreter Jessica Lee (Invest UAE Roadshow 2025, ex-Yonhap News) • 33 video lessons (66 min), taught in English, with 2 free preview lessons on the sales page • 60-day money-back guarantee • One-time price $84.99 (was $148) Banners, Instagram captions, tweets and email swipes are on the affiliate support page: https://jessicabusinesskorean.com/affiliates.html
 
 ## 2. Links
 
@@ -83,6 +81,14 @@ language: "en"
 - **OG image:** media/og.png
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

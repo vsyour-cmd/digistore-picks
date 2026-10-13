@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4><span style="text-decoration:underline;color:#ff0000;"><strong>#1 MAKE MONEY ONLINE OFFER!</strong></span></h4>
-<p>Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $500/Sale.</p>
-<p><span style="background-color:#ffff00;"><strong>Only $17 front end for massive commissions.</strong></span></p>
-<p>Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche.</p>
-<p><span style="background-color:#ffff00;"><strong>Test 300-500 clicks and be surprised!</strong></span></p>
-<p> </p>
+**Vendor's marketplace description:** #1 MAKE MONEY ONLINE OFFER! Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $500/Sale. Only $17 front end for massive commissions. Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche. Test 300-500 clicks and be surprised!
 
 ## 2. Links
 

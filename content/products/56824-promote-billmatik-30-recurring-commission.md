@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Product: BillMatik – The AI-Powered Restaurant OS</p>
-<p>Commission: 30% recurring on all subscription payments (monthly).</p>
-<p>What is BillMatik?<br />BillMatik is an all‑in‑one restaurant management platform that includes:<br />- Cloud POS (point of sale)<br />- AI WhatsApp ordering &amp; marketing<br />- Online store &amp; QR table ordering<br />- Credit system (Udhaar) &amp; loyalty rewards<br />- Inventory management &amp; advanced analytics</p>
-<p>Target audience: Restaurant owners, cafe owners, cloud kitchens, food trucks, and small food chains.</p>
-<p>Why promote BillMatik?<br />- High demand: Restaurants need digital tools to streamline operations.<br />- Recurring commissions: You earn 30% every month for as long as the customer stays subscribed.<br />- Competitive conversion: Our checkout process is optimized for sales.<br />- Affiliate resources: Banners, email templates, and tracking links available upon request.</p>
-<p>Get started: Sign up as an affiliate using the invitation link, then share your unique promolink.</p>
-<p>Questions? Contact us at mentorsuccessss@gmail.com</p>
+**Vendor's marketplace description:** Product: BillMatik – The AI-Powered Restaurant OS Commission: 30% recurring on all subscription payments (monthly). What is BillMatik? BillMatik is an all‑in‑one restaurant management platform that includes: - Cloud POS (point of sale) - AI WhatsApp ordering & marketing - Online store & QR table ordering - Credit system (Udhaar) & loyalty rewards - Inventory management & advanced analytics Target audience: Restaurant owners, cafe owners, cloud kitchens, food trucks, and small food chains. Why promote BillMatik? - High demand: Restaurants need digital tools to streamline operations. - Recurring commissions: You earn 30% every month for as long as the customer stays subscribed. - Competitive conversion: Our checkout process is optimized for sales. - Affiliate resources: Banners, email templates, and tracking links available upon request. Get started: Sign up as an affiliate using the invitation link, then share your unique promolink. Questions? Contact us at mentorsuccessss@gmail.com
 
 ## 2. Links
 

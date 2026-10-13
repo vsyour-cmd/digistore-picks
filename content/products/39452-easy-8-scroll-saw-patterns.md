@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Easy 8 Hand Drawn Scroll Saw Patterns is a multi page digital download consisting of 8 PDF files in 2 zipped files.</p>
-<p>Make 8 beautiful scroll saw art pieces from these 8 Easy hand drawn scroll saw patterns. Make these for yourself, to present as gifts to others, or to sell wooden scroll saw art online, at a gift shop, or at art and craft shows.</p>
-<p>Contains, Wood Cat, Wood Squirrel, Wood Wolf, Wood Fox, Wood Ducks, Wood Rabbits, Wood Elephant, and Minimalist Wood Fox scroll saw patterns as PDF files. Scroll Saw patterns are meant to be printed on regular printer paper which means none of your scroll saw art pieces that you make from these patterns will exceed 8-1/2'' x 11''.</p>
-<p>Could work well in woodworking blogs, scrollsaw product reviews, art and craft websites etc.</p>
+**Vendor's marketplace description:** Easy 8 Hand Drawn Scroll Saw Patterns is a multi page digital download consisting of 8 PDF files in 2 zipped files. Make 8 beautiful scroll saw art pieces from these 8 Easy hand drawn scroll saw patterns. Make these for yourself, to present as gifts to others, or to sell wooden scroll saw art online, at a gift shop, or at art and craft shows. Contains, Wood Cat, Wood Squirrel, Wood Wolf, Wood Fox, Wood Ducks, Wood Rabbits, Wood Elephant, and Minimalist Wood Fox scroll saw patterns as PDF files. Scroll Saw patterns are meant to be printed on regular printer paper which means none of your scroll saw art pieces that you make from these patterns will exceed 8-1/2'' x 11''. Could work well in woodworking blogs, scrollsaw product reviews, art and craft websites etc.
 
 ## 2. Links
 

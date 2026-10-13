@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>The intelligent prompt generator for perfect AI results</strong></h2>
-<p>Many people use AI tools like ChatGPT or DeepSeek – but few get truly excellent results. The reason is almost always the same: <strong>the prompt</strong>. If you don't know exactly HOW to formulate a query, you'll only get average or unsatisfactory answers. A result is only ever as good as the prompt.</p>
-<p>This is the point where this intelligent <strong>prompt generator</strong> comes in.</p>
-<p>This tool creates <strong>any prompt for any use case</strong> – whether for everyday life, work, marketing, programming, content creation, analysis, or business processes. You don't need to be a prompt expert or have any prior knowledge.</p>
-<p><strong>Here's how it works:</strong></p>
-<p>Simply describe your problem or goal in plain language. The prompt generator takes care of the rest. The AI asks you targeted follow-up questions to truly understand your request – just as an experienced expert would. Step by step, your needs are refined until a perfectly structured, optimal prompt is created.</p>
-<p><strong>The result:</strong></p>
-<p>A prompt precisely tailored to your goal, delivering maximum AI results.</p>
-<p><strong>Your benefits:</strong></p>
-<p>• Works for every use case</p>
-<p>• Suitable for beginners, professionals, teams, and businesses</p>
-<p>• Saves time, reduces errors, and drastically increases the quality of AI responses</p>
-<p>• Eliminates the need for complex prompt knowledge</p>
-<p>Whether for personal or business use: This tool anticipates your needs, asks the right questions, and always delivers the perfect prompt - no prior knowledge required.</p>
-<p><strong>You receive a special master prompt that allows you to create any other prompt in ChatGPT or DeepSeek - for any purpose and goal.</strong></p>
+**Vendor's marketplace description:** The intelligent prompt generator for perfect AI results Many people use AI tools like ChatGPT or DeepSeek – but few get truly excellent results. The reason is almost always the same: the prompt . If you don't know exactly HOW to formulate a query, you'll only get average or unsatisfactory answers. A result is only ever as good as the prompt. This is the point where this intelligent prompt generator comes in. This tool creates any prompt for any use case – whether for everyday life, work, marketing, programming, content creation, analysis, or business processes. You don't need to be a prompt expert or have any prior knowledge. Here's how it works: Simply describe your problem or goal in plain language. The prompt generator takes care of the rest. The AI asks you targeted follow-up questions to truly understand your request – just as an experienced expert would. Step by step, your needs are refined until a perfectly structured, optimal prompt is created. The result: A prompt precisely tailored to your goal, delivering maximum AI results. Your benefits: • Works for every use case • Suitable for beginners, professionals, teams, and businesses • Saves time, reduces errors, and drastically increases the quality of AI responses • Eliminates the need for complex prompt knowledge Whether for personal or business use: This tool anticipates your needs, asks the right questions, and always delivers the perfect prompt - no prior knowledge required. You receive a special master prompt that allows you to create any other prompt in ChatGPT or DeepSeek - for any purpose and goal.
 
 ## 2. Links
 

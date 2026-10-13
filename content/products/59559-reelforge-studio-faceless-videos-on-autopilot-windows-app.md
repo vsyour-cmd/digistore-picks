@@ -41,29 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Faceless videos, made for you - no camera, no microphone, no editing</p>
-<p>ReelForge Studio is a portable Windows app that turns a topic into a finished, upload-ready short video. It writes the script, creates the visuals, voices the narration, animates the captions and renders the MP4 - your PC does the work, so there is nothing to log into and no monthly fee.</p>
-<p>You bring the idea. It does the rest.</p>
-<p>WHAT IT DOES</p>
-<ul>
-<li>AI scripting in six niches - history, true crime, sci-fi, science, general info, weird &amp; creepy, conspiracy theories - plus horror stories and whiteboard doodles.</li>
-<li>AI visuals in six art styles - creepy cartoon, dark western novel, anime, normal cartoon, 3D illustration, or your own custom style hint.</li>
-<li>Neural voiceover in 12 voices, with word-by-word animated captions (Word Pop, Pop, Neon, Cinematic, Typewriter) and an animated end card.</li>
-<li>Render and export 1080x1920, 1920x1080 or square - an MP4 ready for YouTube Shorts, TikTok, Instagram Reels and Snapchat.</li>
-<li>Generate Viral - pulls live trending topics, finds an underserved niche and writes a complete six-scene script around it.</li>
-<li>Viral Validation - scores your script and hands you alternative titles, a first-three-seconds hook, a publish-ready description, hashtags and an end-card call to action.</li>
-<li>Auto-Pilot - set your posting days and times once and it generates, renders and posts new videos on schedule, logging every run.</li>
-<li>YouTube auto-publish, plus a one-tap post kit for TikTok, Instagram and Snapchat.</li>
-</ul>
-<p>WHY BUY REELFORGE STUDIO</p>
-<ul>
-<li>Post daily without ever being on camera.</li>
-<li>Everything in one app - no juggling five different subscriptions.</li>
-<li>Your projects and exported videos stay on your own PC.</li>
-<li>One-time payment. No subscription, no monthly fee, no credits.</li>
-<li>Instant delivery - your download link and personal licence key arrive by e-mail right after purchase. Runs on Windows 10/11 (64-bit): portable, no installer, no admin rights.</li>
-</ul>
-<p>Turn one idea into a whole channel. Get ReelForge Studio today.</p>
+**Vendor's marketplace description:** Faceless videos, made for you - no camera, no microphone, no editing ReelForge Studio is a portable Windows app that turns a topic into a finished, upload-ready short video. It writes the script, creates the visuals, voices the narration, animates the captions and renders the MP4 - your PC does the work, so there is nothing to log into and no monthly fee. You bring the idea. It does the rest. WHAT IT DOES AI scripting in six niches - history, true crime, sci-fi, science, general info, weird & creepy, conspiracy theories - plus horror stories and whiteboard doodles. AI visuals in six art styles - creepy cartoon, dark western novel, anime, normal cartoon, 3D illustration, or your own custom style hint. Neural voiceover in 12 voices, with word-by-word animated captions (Word Pop, Pop, Neon, Cinematic, Typewriter) and an animated end card. Render and export 1080x1920, 1920x1080 or square - an MP4 ready for YouTube Shorts, TikTok, Instagram Reels and Snapchat. Generate Viral - pulls live trending topics, finds an underserved niche and writes a complete six-scene script around it. Viral Validation - scores your script and hands you alternative titles, a first-three-seconds hook, a publish-ready description, hashtags and an end-card call to action. Auto-Pilot - set your posting days and times once and it generates, renders and posts new videos on schedule, logging every run. YouTube auto-publish, plus a one-tap post kit for TikTok, Instagram and Snapchat. WHY BUY REELFORGE STUDIO Post daily without ever being on camera. Everything in one app - no juggling five different subscriptions. Your projects and exported videos stay on your own PC. One-time payment. No subscription, no monthly fee, no credits. Instant delivery - your download link and personal licence key arrive by e-mail right after purchase. Runs on Windows 10/11 (64-bit): portable, no installer, no admin rights. Turn one idea into a whole channel. Get ReelForge Studio today.
 
 ## 2. Links
 

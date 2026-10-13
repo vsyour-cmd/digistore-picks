@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>GlucoAlly is formulated to help maintain healthy blood sugar levels and support a healthy weight with a blend of scientifically studied and proven ingredients.</p>
+**Vendor's marketplace description:** GlucoAlly is formulated to help maintain healthy blood sugar levels and support a healthy weight with a blend of scientifically studied and proven ingredients.
 
 ## 2. Links
 

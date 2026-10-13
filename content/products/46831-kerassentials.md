@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Finally On DigiStore! This Novel Fungus Destroying Formula Converts On All Types Of Traffic. Get Access To A Crazy Profitable Niche, With $624 Maximum Cart Value. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.</p>
+**Vendor's marketplace description:** Finally On DigiStore! This Novel Fungus Destroying Formula Converts On All Types Of Traffic. Get Access To A Crazy Profitable Niche, With $624 Maximum Cart Value. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
 
 ## 2. Links
 

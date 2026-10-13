@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This is a simple, beginner-friendly course that explains Scrum in clear, everyday language for people without a technical background.</p>
-<p>It helps you understand what’s happening in meetings, what your role is, and how to confidently take part, without needing any coding knowledge.</p>
-<p>It’s also an easy product to promote because it solves a common problem: people feeling lost in Scrum environments. If your audience works in teams or projects, this is a practical, accessible solution they can quickly understand and use.</p>
+**Vendor's marketplace description:** This is a simple, beginner-friendly course that explains Scrum in clear, everyday language for people without a technical background. It helps you understand what’s happening in meetings, what your role is, and how to confidently take part, without needing any coding knowledge. It’s also an easy product to promote because it solves a common problem: people feeling lost in Scrum environments. If your audience works in teams or projects, this is a practical, accessible solution they can quickly understand and use.
 
 ## 2. Links
 

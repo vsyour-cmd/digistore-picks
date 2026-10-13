@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Affiliates get the benefit of an established (20+ years) brand, developed by world famous anti-aging pioneer Dr. Al Sears MD. We have industry leading LTVs, very low refund or chargeback rates and a dedicated customer support team. 65% Comission on the entire funnel.</p>
-<p> </p>
-<div>
-<div>
-<div>
-<h3><span style="color:#99cc00;">GUARANTEED: 65% on the full funnel</span></h3>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
+**Vendor's marketplace description:** Affiliates get the benefit of an established (20+ years) brand, developed by world famous anti-aging pioneer Dr. Al Sears MD. We have industry leading LTVs, very low refund or chargeback rates and a dedicated customer support team. 65% Comission on the entire funnel. GUARANTEED: 65% on the full funnel
 
 ## 2. Links
 

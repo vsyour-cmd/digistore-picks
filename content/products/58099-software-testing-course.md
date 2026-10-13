@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Software Testing Mastery in Scrum - Affiliate Program</strong></p>
-<p>6 tests run, 6 passed, 0 failed!</p>
-<p>Price: $67 · Your commission: 50% · Per sale: $33.50</p>
-<p><strong>✓ Low friction</strong><br />Low price, easy yes. At $67, it's a much easier sell than typical $300–500 testing courses. Your audience doesn't need to be sold, just informed.</p>
-<p><strong>✓ Instructor credibility</strong><br />Real credibility, not manufactured. Taught by a sitting CIO with 20+ years in IT and 140,000+ students trained.</p>
-<p><strong>✓ Market demand</strong><br />Evergreen, not trend-dependent. Every company doing Agile needs testers. This niche doesn't disappear next year.</p>
-<p><strong>✓ Audience reach</strong><br />Wider audience than most testing courses. No coding required, so it reaches manual testers, career switchers, and non-technical QA people that competitors skip.</p>
-<p><strong>✓ Refund risk</strong><br />Lower clawback risk. 30-day money-back guarantee. Refund requests tend to happen fast, not months after you've already been paid.</p>
-<p><strong>✓ Product substance</strong><br />Something real to point to. 10 modules, 11+ hours, plus bonuses: testing glossary, interview prep, private community, quiz platform, and a certificate.</p>
-<p>50% commission on every sale. No cap, no minimum.</p>
+**Vendor's marketplace description:** Software Testing Mastery in Scrum - Affiliate Program 6 tests run, 6 passed, 0 failed! Price: $67 · Your commission: 50% · Per sale: $33.50 ✓ Low friction Low price, easy yes. At $67, it's a much easier sell than typical $300–500 testing courses. Your audience doesn't need to be sold, just informed. ✓ Instructor credibility Real credibility, not manufactured. Taught by a sitting CIO with 20+ years in IT and 140,000+ students trained. ✓ Market demand Evergreen, not trend-dependent. Every company doing Agile needs testers. This niche doesn't disappear next year. ✓ Audience reach Wider audience than most testing courses. No coding required, so it reaches manual testers, career switchers, and non-technical QA people that competitors skip. ✓ Refund risk Lower clawback risk. 30-day money-back guarantee. Refund requests tend to happen fast, not months after you've already been paid. ✓ Product substance Something real to point to. 10 modules, 11+ hours, plus bonuses: testing glossary, interview prep, private community, quiz platform, and a certificate. 50% commission on every sale. No cap, no minimum.
 
 ## 2. Links
 

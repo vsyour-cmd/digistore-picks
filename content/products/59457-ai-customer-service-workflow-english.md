@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>AI Customer Service Workflow (English)</p>
-<p>For support leads introducing human-reviewed ai drafts.</p>
-<p>English guide and workbook, reusable master instruction, five fictional knowledge cards, ten worked customer cases, sentence-review method, escalation matrix, test log and pilot plan.</p>
-<p>All replies require human review. This is not an autonomous support agent.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$99.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** AI Customer Service Workflow (English) For support leads introducing human-reviewed ai drafts. English guide and workbook, reusable master instruction, five fictional knowledge cards, ten worked customer cases, sentence-review method, escalation matrix, test log and pilot plan. All replies require human review. This is not an autonomous support agent. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$99.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

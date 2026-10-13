@@ -41,55 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="width:100%;max-width:100%;margin:0;padding:0;font-family:Arial, Helvetica, sans-serif;color:#26332b;line-height:1.55;">
-<div style="padding:4px 0 14px;background:#ffffff;">
-<div style="margin:0 0 6px;color:#064e1f;font-size:22px;line-height:1.3;font-weight:800;">EZNaturals Moringa Leaf Complex</div>
-<div style="margin:0 0 8px;color:#b7861d;font-size:13px;line-height:1.4;font-weight:800;">70% Affiliate Commission</div>
-<div style="margin:0;color:#3c4740;font-size:14px;line-height:1.65;font-weight:400;">A physical, plant-based dietary supplement offer with three clear package options, ready-to-use marketing resources, affiliate tools, and direct vendor support.</div>
-</div>
-
-<div style="margin-top:15px;padding:19px 20px;background:#FFF9E8;border:1px solid #E7D493;">
-<div style="margin:0 0 12px;color:#064e1f;font-size:18px;line-height:1.3;font-weight:800;">Why Promote EZNaturals?</div>
-<div style="margin:7px 0;color:#34483b;font-size:14px;line-height:1.55;"><strong style="color:#064e1f;">✓ 70% Commission</strong> — Earn 70% commission on the product price for qualifying affiliate sales.</div>
-<div style="margin:7px 0;color:#34483b;font-size:14px;line-height:1.55;"><strong style="color:#064e1f;">✓ Physical Product</strong> — Promote a physical, plant-based dietary supplement.</div>
-<div style="margin:7px 0;color:#34483b;font-size:14px;line-height:1.55;"><strong style="color:#064e1f;">✓ 3 Package Options</strong> — Give your audience clear 1-, 3-, and 6-bottle choices.</div>
-<div style="margin:7px 0;color:#34483b;font-size:14px;line-height:1.55;"><strong style="color:#064e1f;">✓ Ready-to-Use Resources</strong> — Product images, social creatives, videos, approved copy, and affiliate tools.</div>
-<div style="margin:7px 0;color:#34483b;font-size:14px;line-height:1.55;"><strong style="color:#064e1f;">✓ Direct Vendor Support</strong> — Get promotional guidance and support directly from EZNaturals.</div>
-</div>
-
-<div style="margin-top:15px;padding:19px 20px;background:#FFFFFF;border:1px solid #DCE6DF;">
-<div style="margin:0 0 8px;color:#064e1f;font-size:18px;line-height:1.3;font-weight:800;">Plant-Based Physical Wellness Offer</div>
-<div style="margin:0;color:#46584d;font-size:14px;line-height:1.65;"><strong style="color:#263b2e;"> EZNaturals Moringa Leaf Complex </strong> is a plant-based dietary supplement featuring Moringa leaf powder in a convenient veggie-capsule format, designed as a simple addition to an everyday wellness routine.</div>
-</div>
-
-<div style="margin-top:15px;padding:19px 20px;background:#EFF8EE;border-left:4px solid #D4A437;">
-<div style="margin:0 0 12px;color:#064e1f;font-size:18px;line-height:1.3;font-weight:800;">Three Package Options</div>
-<div style="margin:6px 0;color:#34483b;font-size:14px;"><strong>1 Bottle — $69</strong>   |   Product ID 692711</div>
-<div style="margin:6px 0;color:#34483b;font-size:14px;"><strong>3 Bottles — $159</strong>   |   Product ID 692712</div>
-<div style="margin:6px 0;color:#34483b;font-size:14px;"><strong>6 Bottles — $249</strong>   |   Product ID 692713</div>
-<div style="margin-top:14px;padding:10px 12px;background:#064E1F;color:#f5c542;font-size:14px;line-height:1.4;font-weight:800;text-align:center;">70% AFFILIATE COMMISSION ON PRODUCT PRICE</div>
-</div>
-
-<div style="margin-top:15px;padding:20px;background:#064E1F;">
-<div style="margin:0 0 10px;color:#f5c542;font-size:18px;line-height:1.3;font-weight:800;">Affiliate Resources Included</div>
-<div style="margin:0;color:#ffffff;font-size:14px;line-height:1.85;">✓ Approved product images<br />✓ Promotional banners<br />✓ Social media creatives<br />✓ Affiliate videos<br />✓ Approved promotional copy<br />✓ Tracking-link tools<br />✓ Promotional guidelines<br />✓ Direct vendor support</div>
-</div>
-
-<div style="margin-top:15px;padding:19px 20px;background:#FFFFFF;border:1px solid #DCE6DF;">
-<div style="margin:0 0 8px;color:#064e1f;font-size:18px;line-height:1.3;font-weight:800;">Ideal for Wellness-Focused Audiences</div>
-<div style="margin:0;color:#46584d;font-size:14px;line-height:1.65;">Suitable for relevant content around Moringa, plant-based wellness, dietary supplements, herbal supplements, nutrition, natural wellness, and healthy lifestyle topics.</div>
-</div>
-
-<div style="margin-top:15px;padding:18px 20px;background:#FFF8E5;border:1px solid #E8D397;">
-<div style="margin:0 0 7px;color:#765411;font-size:14px;line-height:1.3;font-weight:800;">Responsible Promotion</div>
-<div style="margin:0;color:#62583e;font-size:12px;line-height:1.65;">Affiliates must use approved EZNaturals product information and promotional claims. Disease, cure, detox, weight-loss, guaranteed-result, and unsupported medical claims are not permitted. Affiliate relationships should be clearly disclosed where required.</div>
-</div>
-
-<div style="margin-top:15px;padding:22px 20px;background:#F1F3F2;border:1px solid #DCE2DE;text-align:center;">
-<div style="margin:0 0 7px;color:#064e1f;font-size:18px;line-height:1.3;font-weight:800;">Ready to Promote EZNaturals?</div>
-<div style="margin:0 0 14px;color:#46534b;font-size:13px;line-height:1.6;">Access approved creatives, promotional guidance, affiliate videos, and tracking tools.</div>
-<a style="padding:11px 21px;background:#D4A437;color:#173d28;font-size:12px;line-height:1.2;font-weight:800;text-decoration:none;" href="https://eznaturals.co/affiliate-resources/"> ACCESS AFFILIATE RESOURCES → </a></div>
-</div>
+**Vendor's marketplace description:** EZNaturals Moringa Leaf Complex 70% Affiliate Commission A physical, plant-based dietary supplement offer with three clear package options, ready-to-use marketing resources, affiliate tools, and direct vendor support. Why Promote EZNaturals? ✓ 70% Commission — Earn 70% commission on the product price for qualifying affiliate sales. ✓ Physical Product — Promote a physical, plant-based dietary supplement. ✓ 3 Package Options — Give your audience clear 1-, 3-, and 6-bottle choices. ✓ Ready-to-Use Resources — Product images, social creatives, videos, approved copy, and affiliate tools. ✓ Direct Vendor Support — Get promotional guidance and support directly from EZNaturals. Plant-Based Physical Wellness Offer EZNaturals Moringa Leaf Complex is a plant-based dietary supplement featuring Moringa leaf powder in a convenient veggie-capsule format, designed as a simple addition to an everyday wellness routine. Three Package Options 1 Bottle — $69 | Product ID 692711 3 Bottles — $159 | Product ID 692712 6 Bottles — $249 | Product ID 692713 70% AFFILIATE COMMISSION ON PRODUCT PRICE Affiliate Resources Included ✓ Approved product images ✓ Promotional banners ✓ Social media creatives ✓ Affiliate videos ✓ Approved promotional copy ✓ Tracking-link tools ✓ Promotional guidelines ✓ Direct vendor support Ideal for Wellness-Focused Audiences Suitable for relevant content around Moringa, plant-based wellness, dietary supplements, herbal supplements, nutrition, natural wellness, and healthy lifestyle topics. Responsible Promotion Affiliates must use approved EZNaturals product information and promotional claims. Disease, cure, detox, weight-loss, guaranteed-result, and unsupported medical claims are not permitted. Affiliate relationships should be clearly disclosed where required. Ready to Promote EZNaturals? Access approved creatives, promotional guidance, affiliate videos, and tracking tools. ACCESS AFFILIATE RESOURCES →
 
 ## 2. Links
 

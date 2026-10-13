@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><strong>ALPHA DRIVE 24<br />EARN MORE WHEN YOU PROMOTE THE FASTEST SCALING OFFER FROM THE GOAT MARKET LTD!</strong></h3>
+**Vendor's marketplace description:** ALPHA DRIVE 24 EARN MORE WHEN YOU PROMOTE THE FASTEST SCALING OFFER FROM THE GOAT MARKET LTD!
 
 ## 2. Links
 

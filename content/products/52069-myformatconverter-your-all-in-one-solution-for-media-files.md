@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>MyFormatConverter</strong></p>
-<p>Enjoy your music, movies, and photos exactly the way you want – anytime, anywhere, and on any device. Whether it’s a smartphone, tablet, or media player: MyFormatConverter transforms your files into the perfect format.</p>
-<p>Say goodbye to compatibility issues. Say hello to smooth playback and brilliant quality – every time.</p>
-<p>Compatible with Windows 7, 8.1, 10 (32- and 64-bit), and Windows 11.</p>
-<p>Ready for use right after purchase: Download available instantly, and your license key is sent via email.</p>
+**Vendor's marketplace description:** MyFormatConverter Enjoy your music, movies, and photos exactly the way you want – anytime, anywhere, and on any device. Whether it’s a smartphone, tablet, or media player: MyFormatConverter transforms your files into the perfect format. Say goodbye to compatibility issues. Say hello to smooth playback and brilliant quality – every time. Compatible with Windows 7, 8.1, 10 (32- and 64-bit), and Windows 11. Ready for use right after purchase: Download available instantly, and your license key is sent via email.
 
 ## 2. Links
 

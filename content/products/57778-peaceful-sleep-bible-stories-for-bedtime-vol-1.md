@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This book features five Bible-inspired stories, written in a simple and comforting style, meant to be read aloud—one each night. At the end of each story, there is a short, rhyming prayer that your child can repeat with you. <br /><br />Use this time to cuddle, talk about the day, and remind your child that they are loved and protected, always. <br /><br />May these pages bring peace to your family's hearts, night after night.</p>
+**Vendor's marketplace description:** This book features five Bible-inspired stories, written in a simple and comforting style, meant to be read aloud—one each night. At the end of each story, there is a short, rhyming prayer that your child can repeat with you. Use this time to cuddle, talk about the day, and remind your child that they are loved and protected, always. May these pages bring peace to your family's hearts, night after night.
 
 ## 2. Links
 

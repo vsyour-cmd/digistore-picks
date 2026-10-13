@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote the Best Price Action Based Products and get a <strong><span style="color:#ff0000;">30% Recurring Commission</span></strong> on each sale.</p>
-<p><span style="color:#ff0000;"><strong>Give value to customers and you'll get the same in return</strong></span></p>
-<p><span style="color:#000000;">This indicator plots the supply and demand zones on the price chart of financial assets. These zones help retail traders in trading. </span></p>
-<p><span style="color:#000000;">it plots four types of zones</span></p>
-<ul>
-<li><span style="color:#000000;">Rally base Rally</span></li>
-<li><span style="color:#000000;">Drop base Drop</span></li>
-<li><span style="color:#000000;">Drop base Rally</span></li>
-<li><span style="color:#000000;">Rally base Drop</span></li>
-</ul>
-<p><span style="color:#000000;"><strong>INCREDIBLE</strong> Conversions<br /><strong>LONG-TERM</strong> Evergreen Offer<br /><strong>MASSIVE</strong> Payouts </span></p>
+**Vendor's marketplace description:** Promote the Best Price Action Based Products and get a 30% Recurring Commission on each sale. Give value to customers and you'll get the same in return This indicator plots the supply and demand zones on the price chart of financial assets. These zones help retail traders in trading. it plots four types of zones Rally base Rally Drop base Drop Drop base Rally Rally base Drop INCREDIBLE Conversions LONG-TERM Evergreen Offer MASSIVE Payouts
 
 ## 2. Links
 

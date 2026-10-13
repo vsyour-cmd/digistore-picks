@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Amazon Associates for Beginners – Practical Matze Course</p>
-<p>Create careful product recommendations and maintain compliant affiliate links. This English self-paced course guides you from an initial idea to a useful recommendation draft and an affiliate link register. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. Content before commission<br />2. Check programme and channel<br />3. Real product insight<br />4. Links and disclosure<br />5. Availability and pricing<br />6. Maintain and interpret reports</p>
-<p>Who is it for? Beginners learning to create transparent Amazon Associates recommendations.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** Amazon Associates for Beginners – Practical Matze Course Create careful product recommendations and maintain compliant affiliate links. This English self-paced course guides you from an initial idea to a useful recommendation draft and an affiliate link register. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. Content before commission 2. Check programme and channel 3. Real product insight 4. Links and disclosure 5. Availability and pricing 6. Maintain and interpret reports Who is it for? Beginners learning to create transparent Amazon Associates recommendations. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

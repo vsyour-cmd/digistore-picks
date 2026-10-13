@@ -41,27 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>To kickstart your creative journey, you'll also get an incredible a massive 200GB library of premium graphic design assets. This treasure trove includes:</p>
-<ul>
-<li>
-<p>Thousands of high-resolution textures and backgrounds</p>
-</li>
-<li>
-<p>Professional fonts and typography kits</p>
-</li>
-<li>
-<p>Brushes for every style imaginable</p>
-</li>
-<li>
-<p>Mockups, templates, and pre-made elements</p>
-</li>
-<li>
-<p>And so much more!</p>
-</li>
-</ul>
-<p>Get the assets today and transform your ideas into reality.</p>
-<p> </p>
-<p><strong>"Order with confidence! We stand behind our digital product with a 60-day money-back guarantee, no questions asked."</strong></p>
+**Vendor's marketplace description:** To kickstart your creative journey, you'll also get an incredible a massive 200GB library of premium graphic design assets. This treasure trove includes: Thousands of high-resolution textures and backgrounds Professional fonts and typography kits Brushes for every style imaginable Mockups, templates, and pre-made elements And so much more! Get the assets today and transform your ideas into reality. "Order with confidence! We stand behind our digital product with a 60-day money-back guarantee, no questions asked."
 
 ## 2. Links
 

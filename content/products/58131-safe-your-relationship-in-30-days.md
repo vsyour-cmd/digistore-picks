@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An honest, step-by-step guide back to closeness and trust for couples who've drifted apart but still see a chance. Ideal for audiences in relationships, personal growth, and self-help.</p>
-<p> </p>
-<p>29 chapters, real exercises, weekly roadmap, and a warm, honest tone instead of dry advice. 50% commission per sale.</p>
+**Vendor's marketplace description:** An honest, step-by-step guide back to closeness and trust for couples who've drifted apart but still see a chance. Ideal for audiences in relationships, personal growth, and self-help. 29 chapters, real exercises, weekly roadmap, and a warm, honest tone instead of dry advice. 50% commission per sale.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This is a test product</p>
+**Vendor's marketplace description:** This is a test product
 
 ## 2. Links
 

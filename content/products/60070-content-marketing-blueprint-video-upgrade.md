@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Content Marketing Blueprint – Video Upgrade</strong> is a practical video-based training designed to help users better understand the fundamentals of content marketing and how to apply them to their online projects.</p>
-<p>The training provides easy-to-follow guidance on creating, organizing, and improving content with a focus on building a consistent content marketing strategy.</p>
-<h3>What’s Included</h3>
-<ul>
-<li>Video-based content marketing training</li>
-<li>Content planning and strategy guidance</li>
-<li>Practical content creation concepts</li>
-<li>Tips for improving content effectiveness</li>
-<li>Step-by-step educational lessons</li>
-<li>Convenient digital access</li>
-</ul>
+**Vendor's marketplace description:** Content Marketing Blueprint – Video Upgrade is a practical video-based training designed to help users better understand the fundamentals of content marketing and how to apply them to their online projects. The training provides easy-to-follow guidance on creating, organizing, and improving content with a focus on building a consistent content marketing strategy. What’s Included Video-based content marketing training Content planning and strategy guidance Practical content creation concepts Tips for improving content effectiveness Step-by-step educational lessons Convenient digital access
 
 ## 2. Links
 

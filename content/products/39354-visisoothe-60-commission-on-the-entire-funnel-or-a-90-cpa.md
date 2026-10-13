@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Get ready to promote a high-production vision VSL that converts like gangbusters on cold traffic!</p>
-<p>-Enjoy up to 60% commission on the entire funnel or a $90 CPA.</p>
-<p>-Expect to see HUGE Earnings per Click at ~$2.50 - $5.00 EPCs</p>
-<p>-Conversion rates at the top of the industry, converting well over 2% on cold traffic!</p>
-<p>This is one of the top offers for beginner and advanced affiliates alike. And the opportunity for scale is there for the taking. Now is your chance to make game-changing money by becoming one of our affiliates!</p>
+**Vendor's marketplace description:** Get ready to promote a high-production vision VSL that converts like gangbusters on cold traffic! -Enjoy up to 60% commission on the entire funnel or a $90 CPA. -Expect to see HUGE Earnings per Click at ~$2.50 - $5.00 EPCs -Conversion rates at the top of the industry, converting well over 2% on cold traffic! This is one of the top offers for beginner and advanced affiliates alike. And the opportunity for scale is there for the taking. Now is your chance to make game-changing money by becoming one of our affiliates!
 
 ## 2. Links
 
@@ -59,6 +55,14 @@ language: "en"
 > Sales page not yet researched. This section will be filled by the next research run.
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Get in on a sizzling hot, BRAND new - (Just Launched December 20th 2023) Homesteading offer from a renowned direct response expert - with over 20 years in the biz... And oh yeah over 50 Million dollars in DR sales (not a typo).</p>
-<p>Killer copy from one of THE top survival writers in the business with a news-current angle means high conversions and EPCs.</p>
-<p>Up to $3.45 EPC with solid traffic. <br />Expect $2.05-$2.20 EPC with so-so traffic.<br />Receive up to $130 Order Value on day 1—PLUS recurring—pushing up to $290 after 6 months.<br /><strong>75% of front-end sales, and up to 50% of all back-end upsells.</strong> <br />Start promoting before everybody else does!<br />Homesteading capitalizes on a brand new trend that’s crushing it, but only if you get in before everybody else does!</p>
+**Vendor's marketplace description:** Get in on a sizzling hot, BRAND new - (Just Launched December 20th 2023) Homesteading offer from a renowned direct response expert - with over 20 years in the biz... And oh yeah over 50 Million dollars in DR sales (not a typo). Killer copy from one of THE top survival writers in the business with a news-current angle means high conversions and EPCs. Up to $3.45 EPC with solid traffic. Expect $2.05-$2.20 EPC with so-so traffic. Receive up to $130 Order Value on day 1—PLUS recurring—pushing up to $290 after 6 months. 75% of front-end sales, and up to 50% of all back-end upsells. Start promoting before everybody else does! Homesteading capitalizes on a brand new trend that’s crushing it, but only if you get in before everybody else does!
 
 ## 2. Links
 

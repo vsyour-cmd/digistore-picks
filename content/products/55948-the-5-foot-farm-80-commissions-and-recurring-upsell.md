@@ -41,39 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>80% Commissions on all one-time transactions throughout entire funnel.</p>
-<p> </p>
-<p>And 40% lifetime recurring commissions for membership upsells!</p>
-<p> </p>
-<p>Go here to get your UNIQUE link (Recommended!)</p>
-<p> </p>
-<p><a href="https://cf.5footfarm.com/affiliates">https://cf.5footfarm.com/affiliates</a></p>
-<p> </p>
-<p>Created by a 26-year $9figures online marketing legend.</p>
-<p> </p>
-<p><strong>Target Audiences:</strong></p>
-<p>​-Survival</p>
-<p>​-Preppers</p>
-<p>​-Homesteading</p>
-<p>​-Gardening</p>
-<p>​-And even the broad general audience that's wants to save money on their grocery bills due to current food inflation.</p>
-<p> </p>
-<p>Hyper-conversions, BIG-TIME EPCs, evergreen product - this offer's broad audience is never saturated or fatigued!</p>
-<p> </p>
-<p>Tested on Meta, Instagram, Youtube, Google ads, NewsBreak, etc. with over $1mm adspend.</p>
-<p> </p>
-<p>Optimized to even convert between 4%-6% with broad audiences with no specific interests or lookalikes.</p>
-<p> </p>
-<p>Test your traffic &amp; watch the big EPC's roll in!</p>
-<p> </p>
-<p>Massive conversions on warm and cold email traffic.</p>
-<p> </p>
-<p>Vendor is also always interested in reciprocal joint ventures.</p>
-<p> </p>
-<p>Go here to get your UNIQUE link (Recommended!)</p>
-<p> </p>
-<p><a href="https://cf.5footfarm.com/affiliates">https://cf.5footfarm.com/affiliates</a></p>
-<p> </p>
+**Vendor's marketplace description:** 80% Commissions on all one-time transactions throughout entire funnel. And 40% lifetime recurring commissions for membership upsells! Go here to get your UNIQUE link (Recommended!) https://cf.5footfarm.com/affiliates Created by a 26-year $9figures online marketing legend. Target Audiences: ​-Survival ​-Preppers ​-Homesteading ​-Gardening ​-And even the broad general audience that's wants to save money on their grocery bills due to current food inflation. Hyper-conversions, BIG-TIME EPCs, evergreen product - this offer's broad audience is never saturated or fatigued! Tested on Meta, Instagram, Youtube, Google ads, NewsBreak, etc. with over $1mm adspend. Optimized to even convert between 4%-6% with broad audiences with no specific interests or lookalikes. Test your traffic & watch the big EPC's roll in! Massive conversions on warm and cold email traffic. Vendor is also always interested in reciprocal joint ventures. Go here to get your UNIQUE link (Recommended!) https://cf.5footfarm.com/affiliates
 
 ## 2. Links
 

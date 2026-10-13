@@ -41,35 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>WHAT DOES A MULTIPOLAR WORLD ACTUALLY LOOK LIKE?</strong></p>
-<p><em>The Rise of the Multipolar World – Volume VI</em> brings the series together by examining the emerging international order created by multiple, unequal centers of power.</p>
-<p>What sets this book apart is its concept of <strong>asymmetric multipolarity</strong>. Rather than treating multipolarity as a slogan, it analyzes how unequal powers, coalitions, institutions, networks, and strategic dependencies interact.</p>
-<p>Readers gain a framework for understanding whether the world is becoming genuinely multipolar—or moving toward bipolarity, fragmentation, or a hybrid order.</p>
-<p>For affiliates, this offers a distinctive product for audiences interested in geopolitics, BRICS+, global institutions, strategic competition, and the future world order.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** WHAT DOES A MULTIPOLAR WORLD ACTUALLY LOOK LIKE? The Rise of the Multipolar World – Volume VI brings the series together by examining the emerging international order created by multiple, unequal centers of power. What sets this book apart is its concept of asymmetric multipolarity . Rather than treating multipolarity as a slogan, it analyzes how unequal powers, coalitions, institutions, networks, and strategic dependencies interact. Readers gain a framework for understanding whether the world is becoming genuinely multipolar—or moving toward bipolarity, fragmentation, or a hybrid order. For affiliates, this offers a distinctive product for audiences interested in geopolitics, BRICS+, global institutions, strategic competition, and the future world order.
 
 ## 2. Links
 

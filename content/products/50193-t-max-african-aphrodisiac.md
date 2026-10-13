@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A unique "African Aphrodisiac" created by Dr. Al Sears. Packed with herbs he discovered in his travels, this chewable tablet delivers the same male power and performance that powered the legendary Zulu Warriors. This product has not been seen in the affiliate space before and it's ready to scale!</p>
+**Vendor's marketplace description:** A unique "African Aphrodisiac" created by Dr. Al Sears. Packed with herbs he discovered in his travels, this chewable tablet delivers the same male power and performance that powered the legendary Zulu Warriors. This product has not been seen in the affiliate space before and it's ready to scale!
 
 ## 2. Links
 

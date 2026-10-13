@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Wellness Vault Pro is a subscription-based resource and AI support platform created for wellness coaches, practitioners, and health professionals. Members get ready-to-use client worksheets, meal-plan resources, habit trackers, intake forms, coaching tools, and AI-assisted client support resources.</p>
+**Vendor's marketplace description:** Wellness Vault Pro is a subscription-based resource and AI support platform created for wellness coaches, practitioners, and health professionals. Members get ready-to-use client worksheets, meal-plan resources, habit trackers, intake forms, coaching tools, and AI-assisted client support resources.
 
 ## 2. Links
 
@@ -78,6 +78,21 @@ language: "en"
 - **OG image:** https://vitalitywellnessexecutive.fit/og-image.jpg
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60268-g1.webp
+- assets/products/60268-g2.webp
+- assets/products/60268-g3.webp
+- assets/products/60268-g4.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>With this offer you get the benefit of a formula backed by over 20 years of research and experience in the supplement business.</p>
-<p> </p>
-<p>As a Primal Force product, Native Rest comes with some of the best LTVs in the industry, plus the benefit of a large and dedicated in-house customer support team for a super low refund and chargeback rate.You'll get 65% RevShare for this uniquely powerful natural sleep spray... and at only $29 for a bottle as well as a Buy 2 Get 1 free deal, it's a no-brainer for anyone having sleep issues.</p>
-<p> </p>
-<p>On top of that, our team of elite copywriters is always working to develop hard-hitting new swipes, and we're happy to work with you to customize something for your audience.</p>
+**Vendor's marketplace description:** With this offer you get the benefit of a formula backed by over 20 years of research and experience in the supplement business. As a Primal Force product, Native Rest comes with some of the best LTVs in the industry, plus the benefit of a large and dedicated in-house customer support team for a super low refund and chargeback rate.You'll get 65% RevShare for this uniquely powerful natural sleep spray... and at only $29 for a bottle as well as a Buy 2 Get 1 free deal, it's a no-brainer for anyone having sleep issues. On top of that, our team of elite copywriters is always working to develop hard-hitting new swipes, and we're happy to work with you to customize something for your audience.
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><a title="Unique Methodology" href="https://drive.google.com/file/d/1c1W5Vhk9BIyItcjwUUkgb6hP2lHhQ3Nd/view?usp=drivesdk" target="_blank" rel="noreferrer noopener">Headline: Direct Impact Technology: Neuro-Business Strategy for High Performanc</a><a title="Unique Methodology:" href="https://drive.google.com/file/d/1c1W5Vhk9BIyItcjwUUkgb6hP2lHhQ3Nd/view?usp=drivesdk" target="_blank" rel="noreferrer noopener">●Product Price: €27 (All taxes included). ●Your Commission: 50% (€13.50 per sale). ●Target Audience: Entrepreneurs, Business Owners, and High-Achievers.</a> Are.-The Strike Digital Bundle is a comprehensive 18-module system for spiritual growth. Includes 6 HD Videos, 6 Power Audios, and 6 PDF Guides. High-quality content in the Esotericism niche with 50% commission for partners.</p>
-<p><a title="Click here to get your Affiliate Link" href="https://www.digistore24.com/signup/671787/" target="_blank" rel="noreferrer noopener">Click here to get your Affiliate Link</a></p>
+**Vendor's marketplace description:** Headline: Direct Impact Technology: Neuro-Business Strategy for High Performanc ●Product Price: €27 (All taxes included). ●Your Commission: 50% (€13.50 per sale). ●Target Audience: Entrepreneurs, Business Owners, and High-Achievers. Are.-The Strike Digital Bundle is a comprehensive 18-module system for spiritual growth. Includes 6 HD Videos, 6 Power Audios, and 6 PDF Guides. High-quality content in the Esotericism niche with 50% commission for partners. Click here to get your Affiliate Link
 
 ## 2. Links
 

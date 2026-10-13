@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Mega Bundle includes 50 bestselling romance eBooks and audiobooks, perfect for romance lovers.
+**Vendor's marketplace description:** This Mega Bundle includes 50 bestselling romance eBooks and audiobooks, perfect for romance lovers. High-quality stories featuring Billionaire Romance, Second Chance, Sweet Romance, and more. Promote this bundle to earn generous commissions of 70%!
 
 ## 2. Links
 

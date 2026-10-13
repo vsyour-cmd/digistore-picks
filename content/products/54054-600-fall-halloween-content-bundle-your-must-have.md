@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Need cozy autumn vibes for your feed?</strong></p>
-<p><strong>PROMOTE THIS and EARN 50% COMMISSION!</strong></p>
-<p>This 600+ Fall &amp; Halloween Content Bundle is packed with ready-to-use photos and videos for posts, stories, and more. Save time, stay consistent, and easily give your content that seasonal, eye-catching touch.</p>
-<p>Get instant access to 600+ high-quality Fall &amp; Halloween photos and videos designed to boost your seasonal marketing. Perfect for posts, stories, email graphics, and ads — <strong>this bundle saves you hours of content creation while giving your brand an irresistible, on-trend autumn vibe that converts.</strong></p>
-<p>Perfect for:</p>
-<p> <strong>Instagram feeds &amp; Pinterest boards</strong></p>
-<p><strong>Digital products &amp; online shops</strong></p>
-<p><strong>Branding, mood boards &amp; content creation</strong></p>
-<p><strong>These aren’t just pictures and videos. </strong>They’re <strong>next-level digital art</strong>—trendsetting, eye-catching, and made to blow your design and social presence everywhere.</p>
-<p>60-day money-back guarantee, no questions asked</p>
-<p> </p>
-<p><img src="https://i.postimg.cc/MKDnMB2L/easy-mockups-tentary-2.png" alt="easy-mockups-tentary-2" border="0" /></p>
+**Vendor's marketplace description:** Need cozy autumn vibes for your feed? PROMOTE THIS and EARN 50% COMMISSION! This 600+ Fall & Halloween Content Bundle is packed with ready-to-use photos and videos for posts, stories, and more. Save time, stay consistent, and easily give your content that seasonal, eye-catching touch. Get instant access to 600+ high-quality Fall & Halloween photos and videos designed to boost your seasonal marketing. Perfect for posts, stories, email graphics, and ads — this bundle saves you hours of content creation while giving your brand an irresistible, on-trend autumn vibe that converts. Perfect for: Instagram feeds & Pinterest boards Digital products & online shops Branding, mood boards & content creation These aren’t just pictures and videos. They’re next-level digital art —trendsetting, eye-catching, and made to blow your design and social presence everywhere. 60-day money-back guarantee, no questions asked
 
 ## 2. Links
 

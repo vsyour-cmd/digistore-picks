@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Claritrix turns messy vendor, hiring, and business decisions into weighted scorecards that hold up under scrutiny. Built for consultants, procurement managers, HR teams, and finance professionals who need to justify decisions with numbers, not gut feel.</p>
-<p>One-time $39 with no recurring fees, and 18 built-in templates across the Business &amp; Finance, HR &amp; People, Vendor &amp; Risk, and Custom categories. 100% browser-based, no account, no cloud, no subscription. Exports branded PDF, Excel, and CSV.</p>
-<p>High-converting B2B niche, low refund risk (privacy-first positioning resonates strongly with this audience), and a straightforward one-time-purchase funnel with no complex upsell chain to explain.</p>
+**Vendor's marketplace description:** Claritrix turns messy vendor, hiring, and business decisions into weighted scorecards that hold up under scrutiny. Built for consultants, procurement managers, HR teams, and finance professionals who need to justify decisions with numbers, not gut feel. One-time $39 with no recurring fees, and 18 built-in templates across the Business & Finance, HR & People, Vendor & Risk, and Custom categories. 100% browser-based, no account, no cloud, no subscription. Exports branded PDF, Excel, and CSV. High-converting B2B niche, low refund risk (privacy-first positioning resonates strongly with this audience), and a straightforward one-time-purchase funnel with no complex upsell chain to explain.
 
 ## 2. Links
 

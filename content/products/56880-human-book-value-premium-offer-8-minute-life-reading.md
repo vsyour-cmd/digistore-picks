@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Human Book Value™ is a $19.99 premium digital assessment for people who look functional on the outside but feel the hidden cost of their life underneath.</p>
-<p>In about 8 minutes, customers complete a private assessment and receive a personalized HBV Full Reading by email. Their report reveals the pressure, trade-offs, and misalignment shaping their life across six areas:</p>
-<p>• Energy<br />• Time<br />• Freedom<br />• Money<br />• Relationships<br />• Meaning</p>
-<p>The outcome is tangible: a clear personal reading, the main pressure affecting them now, and a focused 90-day direction for what deserves attention first.</p>
-<p>Why affiliates promote HBV:</p>
-<p>• Low-ticket, one-time $19.99 offer<br />• Private 8-minute assessment with a personalized report delivered by email<br />• Clear positioning that is easy to explain and easy for audiences to recognize<br />• Broad fit for professionals, founders, ambitious adults, parents, and anyone carrying more than their life appears to show<br />• Not therapy, coaching, motivation, or another generic personality test</p>
-<p>HBV gives people language for something many already feel but cannot clearly name:</p>
-<p>Their life may still be working. That does not mean it is not costing them.</p>
+**Vendor's marketplace description:** Human Book Value™ is a $19.99 premium digital assessment for people who look functional on the outside but feel the hidden cost of their life underneath. In about 8 minutes, customers complete a private assessment and receive a personalized HBV Full Reading by email. Their report reveals the pressure, trade-offs, and misalignment shaping their life across six areas: • Energy • Time • Freedom • Money • Relationships • Meaning The outcome is tangible: a clear personal reading, the main pressure affecting them now, and a focused 90-day direction for what deserves attention first. Why affiliates promote HBV: • Low-ticket, one-time $19.99 offer • Private 8-minute assessment with a personalized report delivered by email • Clear positioning that is easy to explain and easy for audiences to recognize • Broad fit for professionals, founders, ambitious adults, parents, and anyone carrying more than their life appears to show • Not therapy, coaching, motivation, or another generic personality test HBV gives people language for something many already feel but cannot clearly name: Their life may still be working. That does not mean it is not costing them.
 
 ## 2. Links
 

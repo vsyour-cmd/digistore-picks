@@ -41,34 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Why does this product stand out, especially compared to other courses?</p>
-<p>Here is why: </p>
-<ol>
-<li><strong>$73.50+ commission per sale:</strong> the course is $147 one-time, and pays 50% instantly via Digistore24. No waiting, no tiered percentages.</li>
-<li><strong>Proven case studies that speak for themselves:</strong> students have scaled from $50K to $200K in 6 weeks, with others reporting 36% lower CPA and 50% higher ROAS, thanks to the Smart+ strategy. That’s hard proof to beat.</li>
-<li><strong>Built by a certified TikTok Partner:</strong> Dejan Majkic, with 20+ years in IT and Agile/Scrum coaching, has trained 120,000+ students worldwide. He holds official TikTok partner status, giving trust instantly.</li>
-</ol>
-<p>That sounds solid. But what’s the product actually teach?</p>
-<p>It’s a 5-hour course broken into 6 modules and 22 video lectures, designed to transform someone from skeptical about paid ads into a strategic TikTok advertiser.</p>
-<p>You’ll get step-by-step training on:</p>
-<ul>
-<li>Module 1 – The TikTok Goldmine Mindset</li>
-<li>Module 2 – The 3-layer campaign framework</li>
-<li>Module 3 – Smart+ automation</li>
-<li>Module 4 – TikTok Shop ads from creative to conversion</li>
-<li>Module 5 – Shopify ad funnels with TEACH framework</li>
-<li>Module 6 – The decision map for choosing the right campaign for your niche.</li>
-</ul>
-<p>“Okay—but what about risk? Will people hesitate at the buy button?</p>
-<p>Not really. Entry price is low enough to convert, $147 plus VAT, and there’s a 60-day money‑back guarantee. Buyers who go through modules and still aren’t convinced get a full refund—dramatically reduces friction.</p>
-<p>“This sounds like a winner. How do I get started?”</p>
-<ol>
-<li><strong>Sign up on Digistore24</strong> (your affiliate link works across all).</li>
-<li><strong>Plug-share-promote:</strong> TikTok creators, coaches, and ecom marketers are already searching for how to run TikTok ads profitably—this course matches that search directly.</li>
-</ol>
-<p><strong>Pro Tip</strong>:</p>
-<p>Preface your pitch with a personal test case: “I lost $500 before this framework helped me get a positive ROI in five days.” It shifts the narrative from skepticism to strategy: you’re helping them avoid the same costly mistakes.</p>
-<p><span style="color:#ff0000;"><strong>Let's goooo!!!</strong></span></p>
+**Vendor's marketplace description:** Why does this product stand out, especially compared to other courses? Here is why: $73.50+ commission per sale: the course is $147 one-time, and pays 50% instantly via Digistore24. No waiting, no tiered percentages. Proven case studies that speak for themselves: students have scaled from $50K to $200K in 6 weeks, with others reporting 36% lower CPA and 50% higher ROAS, thanks to the Smart+ strategy. That’s hard proof to beat. Built by a certified TikTok Partner: Dejan Majkic, with 20+ years in IT and Agile/Scrum coaching, has trained 120,000+ students worldwide. He holds official TikTok partner status, giving trust instantly. That sounds solid. But what’s the product actually teach? It’s a 5-hour course broken into 6 modules and 22 video lectures, designed to transform someone from skeptical about paid ads into a strategic TikTok advertiser. You’ll get step-by-step training on: Module 1 – The TikTok Goldmine Mindset Module 2 – The 3-layer campaign framework Module 3 – Smart+ automation Module 4 – TikTok Shop ads from creative to conversion Module 5 – Shopify ad funnels with TEACH framework Module 6 – The decision map for choosing the right campaign for your niche. “Okay—but what about risk? Will people hesitate at the buy button? Not really. Entry price is low enough to convert, $147 plus VAT, and there’s a 60-day money‑back guarantee. Buyers who go through modules and still aren’t convinced get a full refund—dramatically reduces friction. “This sounds like a winner. How do I get started?” Sign up on Digistore24 (your affiliate link works across all). Plug-share-promote: TikTok creators, coaches, and ecom marketers are already searching for how to run TikTok ads profitably—this course matches that search directly. Pro Tip : Preface your pitch with a personal test case: “I lost $500 before this framework helped me get a positive ROI in five days.” It shifts the narrative from skepticism to strategy: you’re helping them avoid the same costly mistakes. Let's goooo!!!
 
 ## 2. Links
 

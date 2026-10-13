@@ -41,36 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>High Payouts! From the creators of The Lost Ways and The Lost Book of Remedies! Converts well on interests like self-sufficiency, off grid, gardening, DIY, survival, and others. Send us an email for marketing materials, best banners, videos, etc.</p>
-
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-
-<p>For more details, please visit our page <a href="https://independentbackyard.com/affiliates/">https://independentbackyard.com/affiliates/</a>  or email a<a>ffiliates.gbs@gmail.com .</a></p>
-<p>Promocode Link: <a href="https://www.independentbackyard.com/my-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.independentbackyard.com/my-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY</a></p>
+**Vendor's marketplace description:** High Payouts! From the creators of The Lost Ways and The Lost Book of Remedies! Converts well on interests like self-sufficiency, off grid, gardening, DIY, survival, and others. Send us an email for marketing materials, best banners, videos, etc. Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For more details, please visit our page https://independentbackyard.com/affiliates/ or email a ffiliates.gbs@gmail.com . Promocode Link: https://www.independentbackyard.com/my-book/?aff=AFFILIATE&cam=CAMPAIGNKEY
 
 ## 2. Links
 

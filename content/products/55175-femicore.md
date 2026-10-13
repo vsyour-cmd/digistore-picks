@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Brand-New Bladder Control Breakthrough for Women Is Crushing It! Unique Urinary Microbiome Angle No One Else Is Using. EPC Exceeding All Expectations (Up to $4)! Ideal for Native, Email &amp; FB. This Could Be a Monster Winner. Reach Out Now!</p>
+**Vendor's marketplace description:** Brand-New Bladder Control Breakthrough for Women Is Crushing It! Unique Urinary Microbiome Angle No One Else Is Using. EPC Exceeding All Expectations (Up to $4)! Ideal for Native, Email & FB. This Could Be a Monster Winner. Reach Out Now!
 
 ## 2. Links
 

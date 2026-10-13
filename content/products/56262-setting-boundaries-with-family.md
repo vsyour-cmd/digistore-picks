@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A practical digital guide for individuals who feel overwhelmed by family expectations while wanting to maintain connection.</p>
-<p>This product helps users:</p>
-<ul>
-<li>Understand emotional pressure within family dynamics</li>
-<li>Recognize where boundaries may be needed</li>
-<li>Approach boundaries in a calm and respectful way</li>
-</ul>
-<p>Suitable for audiences balancing care, responsibility, and personal space.</p>
-<p><strong>Delivery includes:</strong></p>
-<ul>
-<li>Full PDF guide</li>
-<li>Visual infographics (PNGs)</li>
-<li>Audio version for guided support</li>
-</ul>
-<p>Delivered as a downloadable digital product.</p>
+**Vendor's marketplace description:** A practical digital guide for individuals who feel overwhelmed by family expectations while wanting to maintain connection. This product helps users: Understand emotional pressure within family dynamics Recognize where boundaries may be needed Approach boundaries in a calm and respectful way Suitable for audiences balancing care, responsibility, and personal space. Delivery includes: Full PDF guide Visual infographics (PNGs) Audio version for guided support Delivered as a downloadable digital product.
 
 ## 2. Links
 

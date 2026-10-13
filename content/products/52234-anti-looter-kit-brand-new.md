@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>• Compliant! </p>
-<p>• 33% commissions for initial product sales; 90% for digital upsells sales</p>
-<p>• Performs well in niches like survival, home defense, emergency preparedness, etc.</p>
-<p>• Put it to test!</p>
-<p>Promolink: https://www.theantilooterkit.com/main/#aff=AFFILIATE&amp;cam=CAMPAIGNKEY</p>
-<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
-<p>For support please visit our page <a href="https://www.theantilooterkit.com/dgs-affiliates/">https://www.theantilooterkit.com/dgs-affiliates/</a> or email <span style="text-decoration:underline;">affiliates.gbs@gmail.com</span>.</p>
+**Vendor's marketplace description:** • Compliant! • 33% commissions for initial product sales; 90% for digital upsells sales • Performs well in niches like survival, home defense, emergency preparedness, etc. • Put it to test! Promolink: https://www.theantilooterkit.com/main/#aff=AFFILIATE&cam=CAMPAIGNKEY Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page https://www.theantilooterkit.com/dgs-affiliates/ or email affiliates.gbs@gmail.com .
 
 ## 2. Links
 

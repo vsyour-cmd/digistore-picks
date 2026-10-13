@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Customer Service Reply Toolkit - 20 Practice Scenarios (English)</p>
-<p>For small support teams practising clear customer replies.</p>
-<p>20 practice scenarios with starting facts, missing information, reply drafts and human-review checks; PDF, DOCX, Markdown and CSV.</p>
-<p>Fictional cases require factual checks and human review. No automatic replies, legal decisions or software.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$9.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Customer Service Reply Toolkit - 20 Practice Scenarios (English) For small support teams practising clear customer replies. 20 practice scenarios with starting facts, missing information, reply drafts and human-review checks; PDF, DOCX, Markdown and CSV. Fictional cases require factual checks and human review. No automatic replies, legal decisions or software. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$9.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

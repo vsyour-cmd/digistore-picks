@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Unique “7-Second Drainage Reset” Deflates Swollen Legs Naturally. Doctor-backed, wildly engaging &amp; optimized for scale. Multiple intros available. Top affiliates are hitting up to $6 EPC.</p>
+**Vendor's marketplace description:** This Unique “7-Second Drainage Reset” Deflates Swollen Legs Naturally. Doctor-backed, wildly engaging & optimized for scale. Multiple intros available. Top affiliates are hitting up to $6 EPC.
 
 ## 2. Links
 

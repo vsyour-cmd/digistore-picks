@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Refer &amp; Earn 55% Recurring Sales Commission.</p>
-<p><br />High-Ticket Sales<br />Recurring Monthly Sales Commissions.<br /><br />Digital Member Product<br />No Inventory or Premises Needed.<br /><br />Work From Home/Side Hustle.<br />Work Remotely Anywhere.<br /><br />Digital Marketing<br />Online Marketing Curriculum.<br /><br />Fixed Forever Monthly Cost.<br />No Hidden Fees.<br /><br />60-Day Money-Back Guarantee.<br />Full Refund, No Questions Asked<br /><br />Private Digital Community.<br />Make Posts, Add Videos, and Network.<br /><br />Partner Program.<br />For Members Only = More Profit For You.<br />Less Competition.<br /><br />Promote Your Products Within The Community.<br />Regular Cash Flow For Businesses<br />and Your Bank Account.<br /><br />No Referral Sales Limit<br />No Cap On Earnings</p>
+**Vendor's marketplace description:** Refer & Earn 55% Recurring Sales Commission. High-Ticket Sales Recurring Monthly Sales Commissions. Digital Member Product No Inventory or Premises Needed. Work From Home/Side Hustle. Work Remotely Anywhere. Digital Marketing Online Marketing Curriculum. Fixed Forever Monthly Cost. No Hidden Fees. 60-Day Money-Back Guarantee. Full Refund, No Questions Asked Private Digital Community. Make Posts, Add Videos, and Network. Partner Program. For Members Only = More Profit For You. Less Competition. Promote Your Products Within The Community. Regular Cash Flow For Businesses and Your Bank Account. No Referral Sales Limit No Cap On Earnings
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>AI-Generated Aesthetic Masterpieces</strong></p>
-<p>Discover visuals that feel like art from another dimension—AI-crafted images designed to captivate, inspire, and elevate any space or feed. Each piece blends modern trends, timeless elegance, and surreal detail, creating a style that’s versatile enough to fit any aesthetic.</p>
-<p>From soft and dreamy tones to bold and futuristic vibes, these images are built to stop the scroll and make an unforgettable impression. Perfect for:</p>
-<p> <strong>Instagram feeds &amp; Pinterest boards</strong></p>
-<p><strong>Digital products &amp; online shops</strong></p>
-<p><strong>Branding, mood boards &amp; content creation</strong></p>
-<p> </p>
-<p><strong>These aren’t just pictures. </strong>They’re <strong>next-level digital art</strong>—trendsetting, eye-catching, and made to blow your design and social presence everywhere.</p>
+**Vendor's marketplace description:** AI-Generated Aesthetic Masterpieces Discover visuals that feel like art from another dimension—AI-crafted images designed to captivate, inspire, and elevate any space or feed. Each piece blends modern trends, timeless elegance, and surreal detail, creating a style that’s versatile enough to fit any aesthetic. From soft and dreamy tones to bold and futuristic vibes, these images are built to stop the scroll and make an unforgettable impression. Perfect for: Instagram feeds & Pinterest boards Digital products & online shops Branding, mood boards & content creation These aren’t just pictures. They’re next-level digital art —trendsetting, eye-catching, and made to blow your design and social presence everywhere.
 
 ## 2. Links
 

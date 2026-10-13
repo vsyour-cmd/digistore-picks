@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote The Sleep Code – tracks that help people fall asleep fast and wake up refreshed.</p>
-<p><br /><br /></p>
-<p>Perfect for: sleep, insomnia, parenting, wellness, biohacking niches.</p>
+**Vendor's marketplace description:** Promote The Sleep Code – tracks that help people fall asleep fast and wake up refreshed. Perfect for: sleep, insomnia, parenting, wellness, biohacking niches.
 
 ## 2. Links
 

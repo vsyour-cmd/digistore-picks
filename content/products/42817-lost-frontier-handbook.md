@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>NEW! - The Lost Frontier Handbook Compliant!</strong></p>
-<p><span style="color:#ff0000;">75%</span> initial commissions (for physical books sales).</p>
-<p>Performs well in most niches: health, survival, remedies, etc.</p>
-<p><strong><span style="color:#ff0000;"> SKY HIGH conversion rate on email lists. </span></strong></p>
-<p>You need to test this!</p>
-<p> </p>
+**Vendor's marketplace description:** NEW! - The Lost Frontier Handbook Compliant! 75% initial commissions (for physical books sales). Performs well in most niches: health, survival, remedies, etc. SKY HIGH conversion rate on email lists. You need to test this!
 
 ## 2. Links
 

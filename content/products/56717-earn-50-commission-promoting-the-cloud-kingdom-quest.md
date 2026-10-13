@@ -41,39 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p>Promote <em><strong>Max &amp; Mia: </strong></em><strong><em>The Cloud Kingdom Quest</em></strong>, an exciting children's adventure story where Max and Mia journey through magical skies, floating islands, glowing creatures, and unforgettable discoveries.</p>
-<p>This imaginative story delivers an engaging reading experience while highlighting values such as courage, kindness, and teamwork.</p>
-<p><strong>Affiliate Highlights:</strong></p>
-<ul>
-<li><strong>50% commission on every sale</strong></li>
-<li>Adventure-filled story for young readers</li>
-<li>Family-friendly content</li>
-<li>Instant digital download</li>
-<li>60-Day Money-Back Guarantee</li>
-<li>Appeals to parents seeking fun screen-free experiences</li>
-</ul>
-<p>Help families bring imagination and adventure into story time while earning commissions on every successful referral.</p>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div> </div>
+**Vendor's marketplace description:** Promote Max & Mia: The Cloud Kingdom Quest , an exciting children's adventure story where Max and Mia journey through magical skies, floating islands, glowing creatures, and unforgettable discoveries. This imaginative story delivers an engaging reading experience while highlighting values such as courage, kindness, and teamwork. Affiliate Highlights: 50% commission on every sale Adventure-filled story for young readers Family-friendly content Instant digital download 60-Day Money-Back Guarantee Appeals to parents seeking fun screen-free experiences Help families bring imagination and adventure into story time while earning commissions on every successful referral.
 
 ## 2. Links
 

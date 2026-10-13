@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Format</strong>: Service</p>
-<p>✅ Logo Concept<br />✅ Brand Colors<br />✅ Typography<br />✅ Instagram Style<br />✅ 10 Social Media Templates<br />✅ 5 Reels Covers<br />✅ Mini Brand Guide</p>
-<p><strong>AND</strong></p>
-<p>✅ Your complete Instagram brand system<br />➡️ Visual identity. <br />➡️ Content system. <br />➡️ Brand voice. <br />➡️ AI image style. <br />➡️ Content ideas.<br />✅ 20 Instagram Templates<br />✅ Content Guidelines AI Image Style<br />✅ Brand Voice <br />✅ 30 Content Ideas</p>
+**Vendor's marketplace description:** Format : Service ✅ Logo Concept ✅ Brand Colors ✅ Typography ✅ Instagram Style ✅ 10 Social Media Templates ✅ 5 Reels Covers ✅ Mini Brand Guide AND ✅ Your complete Instagram brand system ➡️ Visual identity. ➡️ Content system. ➡️ Brand voice. ➡️ AI image style. ➡️ Content ideas. ✅ 20 Instagram Templates ✅ Content Guidelines AI Image Style ✅ Brand Voice ✅ 30 Content Ideas
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Genius Brain Signal is a brand new high converting brain optimisation offer. Based on a unique audio mechanism that people love. Made by a multi year platinum plus vendor and with a high AOV. You get 80% commissions on the entire funnel, send a test today.</p>
+**Vendor's marketplace description:** Genius Brain Signal is a brand new high converting brain optimisation offer. Based on a unique audio mechanism that people love. Made by a multi year platinum plus vendor and with a high AOV. You get 80% commissions on the entire funnel, send a test today.
 
 ## 2. Links
 

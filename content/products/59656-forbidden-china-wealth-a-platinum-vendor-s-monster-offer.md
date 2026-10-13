@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>From the 7-figure team behind <em>Dubai Wealth Secret</em> comes the highly-anticipated follow-up: Forbidden China Wealth. <strong>$1.60+ EPC. $84 AOV.</strong> Killer VSL, fresh angle, high-converting upsells. Grab your affiliate link here: <a href="https://theforbiddenchinawealth.com/affiliates" target="_blank" rel="noreferrer noopener">https://theforbiddenchinawealth.com/affiliates</a></p>
+**Vendor's marketplace description:** From the 7-figure team behind Dubai Wealth Secret comes the highly-anticipated follow-up: Forbidden China Wealth. $1.60+ EPC. $84 AOV. Killer VSL, fresh angle, high-converting upsells. Grab your affiliate link here: https://theforbiddenchinawealth.com/affiliates
 
 ## 2. Links
 

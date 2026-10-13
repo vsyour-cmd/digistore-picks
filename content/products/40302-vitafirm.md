@@ -41,33 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#ff0000;"><strong>Elite media buyers are calling it the...</strong></span></p>
-<p style="text-align:center;"><span style="color:#ff0000;"><strong>#1 Health Offer In History!</strong></span></p>
-<div>
-<div>
-<div> </div>
-<div><strong>#1For Commissions</strong></div>
-<div>
-<p><strong>Earn 65% Revshare On Entire Funnel!<br /></strong></p>
-<p><strong>#2 For Earnings Per Click!</strong></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p><strong>Enjoy Huge $3.00-$5.50 EPCs<br /></strong></p>
-<p><strong>#3 For Conversions</strong></p>
-</div>
-</div>
-</div>
-<div>
-<div>
-<div>
-<p><strong>Get Insane Conversions On All Traffic</strong></p>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Elite media buyers are calling it the... #1 Health Offer In History! #1For Commissions Earn 65% Revshare On Entire Funnel! #2 For Earnings Per Click! Enjoy Huge $3.00-$5.50 EPCs #3 For Conversions Get Insane Conversions On All Traffic
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Canva Mini-Products Practical Course (English)</p>
-<p>For creators designing a useful pdf product.</p>
-<p>English guide and workbook, twelve-page original sample manuscript, A4 layout instructions, page plan, rights/export register and product-description, FAQ and start-copy examples.</p>
-<p>No native Canva template link or finished planner. Original sample text and layout instructions may be adapted into your own finished products under the included licence.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$99.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Canva Mini-Products Practical Course (English) For creators designing a useful pdf product. English guide and workbook, twelve-page original sample manuscript, A4 layout instructions, page plan, rights/export register and product-description, FAQ and start-copy examples. No native Canva template link or finished planner. Original sample text and layout instructions may be adapted into your own finished products under the included licence. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$99.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

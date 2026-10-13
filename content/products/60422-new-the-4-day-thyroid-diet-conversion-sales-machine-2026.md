@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>This will be Easiest Commission</strong> you have ever made on Digistore24. Get in touch with Benson at <a>medibenson@gmail.com</a> for TopTier Commissions (90% Comms Available). Send Clicks and Smile</p>
-<p>This Offer has already generated Over $1Million In Approved Commissions for Affiliates by solving an issue most offers don't </p>
-<p>Open to all Affiliates.This Thyroid Offer is taking Conversions by Storm</p>
-<p>New VSl - <strong>Converts at 75% with $2-4 Epc</strong> Better.Just send Clicks and Watch why we call it a Conversion Machine.</p>
+**Vendor's marketplace description:** This will be Easiest Commission you have ever made on Digistore24. Get in touch with Benson at medibenson@gmail.com for TopTier Commissions (90% Comms Available). Send Clicks and Smile This Offer has already generated Over $1Million In Approved Commissions for Affiliates by solving an issue most offers don't Open to all Affiliates.This Thyroid Offer is taking Conversions by Storm New VSl - Converts at 75% with $2-4 Epc Better.Just send Clicks and Watch why we call it a Conversion Machine.
 
 ## 2. Links
 
@@ -66,6 +63,15 @@ language: "en"
 - **Page word count:** 382
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+> Privacy Policy | Disclaimer | Terms and Conditions | Customer Support | Order Now
+> * These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using this product.
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

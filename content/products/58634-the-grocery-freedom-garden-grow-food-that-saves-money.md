@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Grocery Freedom Garden is a 170-page illustrated digital guide plus a 13-page printable workbook that helps people decide which foods are actually worth growing if they want to reduce their grocery spending.</strong></p>
-<p>Instead of giving readers another generic list of vegetables to grow, it starts with what their household already buys. Readers learn which crops can make the biggest difference to their grocery bill, then find realistic places to grow them using the space they already have.</p>
-<p>The offer can be promoted to audiences interested in vegetable gardening, grow-your-own food, grocery savings, frugal living, self-sufficiency, homesteading, container gardening and small-space gardening.</p>
-<p><strong>Affiliates earn 60% commission and receive extensive promotional support</strong>, including ready-to-use emails, Facebook and Instagram posts, longer social posts, product images, social graphics and multiple promotional angles.</p>
-<p>The product is suitable for beginners as well as existing gardeners who want their garden to contribute more towards their grocery bill.</p>
+**Vendor's marketplace description:** The Grocery Freedom Garden is a 170-page illustrated digital guide plus a 13-page printable workbook that helps people decide which foods are actually worth growing if they want to reduce their grocery spending. Instead of giving readers another generic list of vegetables to grow, it starts with what their household already buys. Readers learn which crops can make the biggest difference to their grocery bill, then find realistic places to grow them using the space they already have. The offer can be promoted to audiences interested in vegetable gardening, grow-your-own food, grocery savings, frugal living, self-sufficiency, homesteading, container gardening and small-space gardening. Affiliates earn 60% commission and receive extensive promotional support , including ready-to-use emails, Facebook and Instagram posts, longer social posts, product images, social graphics and multiple promotional angles. The product is suitable for beginners as well as existing gardeners who want their garden to contribute more towards their grocery bill.
 
 ## 2. Links
 

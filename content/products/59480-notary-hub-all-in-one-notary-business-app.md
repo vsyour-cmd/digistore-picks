@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Help notaries and loan signing agents manage appointments, clients, documents, payments, invoices, scanbacks, shipping, journals, and daily business tasks in one organized digital hub. The Notary Hub also includes Berry AI writing tools, state-based notary and loan-signing resources, business resources, appointment preparation tools, and 12 printable notary forms. Perfect for mobile notaries and signing agents who want to save time, stay organized, and manage their work with confidence.</p>
+**Vendor's marketplace description:** Help notaries and loan signing agents manage appointments, clients, documents, payments, invoices, scanbacks, shipping, journals, and daily business tasks in one organized digital hub. The Notary Hub also includes Berry AI writing tools, state-based notary and loan-signing resources, business resources, appointment preparation tools, and 12 printable notary forms. Perfect for mobile notaries and signing agents who want to save time, stay organized, and manage their work with confidence.
 
 ## 2. Links
 

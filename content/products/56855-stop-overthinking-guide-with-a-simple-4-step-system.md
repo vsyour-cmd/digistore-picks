@@ -41,22 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Product Description</strong></p>
-<p>Stop Overthinking is a digital workbook available on Digistore24 that focuses on a structured 4-step system (Catch → Calm → Clarify → Continue) combined with practical exercises and a 7-day mental reset plan. It is designed for people who want simple, actionable tools to manage overthinking and mental overload in everyday situations.</p>
-<p> </p>
-<p><strong>Your Benefits as an Affiliate</strong></p>
-<ul>
-<li>Affiliates earn <strong>40%</strong> commission per sale via Digistore24</li>
-<li>Competitive affiliate commission on all sales generated through your link</li>
-<li>Promotion of a digital product with instant delivery and no purchase friction</li>
-<li>Strong evergreen market with consistent demand (overthinking, stress, mental overload)</li>
-<li>Easy-to-understand offer structure, making it suitable for fast content creation and advertising</li>
-<li>High suitability for short-form content platforms such as TikTok, Instagram Reels, and YouTube Shorts</li>
-<li>International English-language product with a broad global target audience</li>
-<li>Clear and simple framework (4-step system) that makes positioning and marketing straightforward</li>
-<li>Performance-based opportunity with scalable earning potential depending on traffic and conversion performance</li>
-</ul>
-<p>If you have any questions regarding the product or affiliate partnership, you can find my contact details on the sales page.</p>
+**Vendor's marketplace description:** Product Description Stop Overthinking is a digital workbook available on Digistore24 that focuses on a structured 4-step system (Catch → Calm → Clarify → Continue) combined with practical exercises and a 7-day mental reset plan. It is designed for people who want simple, actionable tools to manage overthinking and mental overload in everyday situations. Your Benefits as an Affiliate Affiliates earn 40% commission per sale via Digistore24 Competitive affiliate commission on all sales generated through your link Promotion of a digital product with instant delivery and no purchase friction Strong evergreen market with consistent demand (overthinking, stress, mental overload) Easy-to-understand offer structure, making it suitable for fast content creation and advertising High suitability for short-form content platforms such as TikTok, Instagram Reels, and YouTube Shorts International English-language product with a broad global target audience Clear and simple framework (4-step system) that makes positioning and marketing straightforward Performance-based opportunity with scalable earning potential depending on traffic and conversion performance If you have any questions regarding the product or affiliate partnership, you can find my contact details on the sales page.
 
 ## 2. Links
 

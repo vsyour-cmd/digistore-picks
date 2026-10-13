@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>SPARTAMAX</strong> Male Enhancement Gummies – High-EPC Monster With Insane Conversions<br /><a href="https://getspartamax.com/digi-affiliates.php" target="_blank" rel="noreferrer noopener">https://getspartamax.com/digi-affiliates.php</a></p>
+**Vendor's marketplace description:** SPARTAMAX Male Enhancement Gummies – High-EPC Monster With Insane Conversions https://getspartamax.com/digi-affiliates.php
 
 ## 2. Links
 

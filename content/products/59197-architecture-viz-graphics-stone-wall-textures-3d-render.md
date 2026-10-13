@@ -41,29 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics – Stone &amp; Wall Textures </strong></p>
-<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
-<p>Tileable stone and wall texture collection for architectural visualizations — brickwork, natural stone, rendered walls and more.</p>
-<p>Find all information and free sample downloads on the product page: <br /><a href="https://www.tonytextures.com/stonewall-texture-collection-for-architects/">https://www.tonytextures.com/stonewall-texture-collection-for-architects/</a></p>
-<p><strong>What your audience gets:</strong></p>
-<ul>
-<li>High-resolution tileable stone and wall textures</li>
-<li>Various materials: brick, natural stone, rendered walls</li>
-<li>Compatible with Photoshop, 3ds Max, Cinema 4D, SketchUp and more</li>
-<li>Seamless tiling for large surface coverage</li>
-<li>Instant digital download</li>
-<li>60-day money-back guarantee + free sample download available<br /><br /></li>
-</ul>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
-<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
-<li>Free sample download reduces purchase hesitation</li>
-<li>Textures are needed in every 3D render — extremely broad use case<br /><br /></li>
-</ul>
-<p><strong>Upsell opportunity - the MEGA Bundle:</strong></p>
-<p>This collection is part of <a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">Tonytexture's MEGA Bundle</a> which includes all 26 ArchVIZ collection with a 50% discount!<br /><br /></p>
-<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
+**Vendor's marketplace description:** Architecture VIZ Graphics – Stone & Wall Textures Professional graphic collections for architectural visualizations by Tonytextures — designed for architects , landscape designers and ArchVIZ studios. Tileable stone and wall texture collection for architectural visualizations — brickwork, natural stone, rendered walls and more. Find all information and free sample downloads on the product page: https://www.tonytextures.com/stonewall-texture-collection-for-architects/ What your audience gets: High-resolution tileable stone and wall textures Various materials: brick, natural stone, rendered walls Compatible with Photoshop, 3ds Max, Cinema 4D, SketchUp and more Seamless tiling for large surface coverage Instant digital download 60-day money-back guarantee + free sample download available Why it converts: Clear niche: architects, landscape designers, ArchVIZ studios Established brand: Tonytextures.com – 10+ years serving architects Free sample download reduces purchase hesitation Textures are needed in every 3D render — extremely broad use case Upsell opportunity - the MEGA Bundle: This collection is part of Tonytexture's MEGA Bundle which includes all 26 ArchVIZ collection with a 50% discount! Overview of all Tonytextures products for architectural visualization: https://www.tonytextures.com/shop/
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Social Media Campaign Library - 12 Campaigns and 36 Posts (English)</p>
-<p>For solo businesses looking for adaptable campaign examples.</p>
-<p>12 campaigns and 36 complete post drafts with hooks, media directions, captions, calls to action and checks; PDF, DOCX, Markdown and CSV.</p>
-<p>Fictional examples require adaptation. No finished images, videos or automatic posting.</p>
-<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
-<p>US$19.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
-<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
-<p>Support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Social Media Campaign Library - 12 Campaigns and 36 Posts (English) For solo businesses looking for adaptable campaign examples. 12 campaigns and 36 complete post drafts with hooks, media directions, captions, calls to action and checks; PDF, DOCX, Markdown and CSV. Fictional examples require adaptation. No finished images, videos or automatic posting. Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income. US$19.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation. Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results. Support: info@einfachhaltbar.de
 
 ## 2. Links
 

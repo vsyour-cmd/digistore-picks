@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Forensic System</strong></p>
-<p>Discover your computer’s past and become a digital investigator! Ideal not only for tech enthusiasts and curious minds, but also easy to use for beginners — with just a few clicks and scans.</p>
-<p>The SecuPerts Forensic System includes a wide range of research, analysis, and backup tools that let you uncover what’s really been happening on your PC.</p>
-<p>It’s especially valuable if other people — friends, colleagues, or even strangers — have had access to your computer. You might be surprised by what you’ll find.</p>
-<p>Fully compatible with <em>all</em> versions of Windows.</p>
-<p>Available for immediate download. The software must be installed on a USB stick (not included).</p>
+**Vendor's marketplace description:** Forensic System Discover your computer’s past and become a digital investigator! Ideal not only for tech enthusiasts and curious minds, but also easy to use for beginners — with just a few clicks and scans. The SecuPerts Forensic System includes a wide range of research, analysis, and backup tools that let you uncover what’s really been happening on your PC. It’s especially valuable if other people — friends, colleagues, or even strangers — have had access to your computer. You might be surprised by what you’ll find. Fully compatible with all versions of Windows. Available for immediate download. The software must be installed on a USB stick (not included).
 
 ## 2. Links
 

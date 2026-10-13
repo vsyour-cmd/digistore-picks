@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h4>Integrative, flexible and safe: Online Collaboration Software made in Germany</h4>
-<p>Group calendars, address books, tasks and projects, tracking system, file management, e-mail client: EGroupware is an open-source enterprise software for business use. The software supports integrated project teams across and within organisation boundaries.</p>
-<p>Windows, Linux or Mac – EGroupware runs browser-based and thereby independent from the installed running system. The mobile version enables online access to all data on the go – without any need of synchronisation.</p>
-<p>Interlinking any data across applications and setting up business processes through configurable custom fields are making EGroupware desirable for companies, who require the highest flexibility from a collaborative software solution.</p>
+**Vendor's marketplace description:** Integrative, flexible and safe: Online Collaboration Software made in Germany Group calendars, address books, tasks and projects, tracking system, file management, e-mail client: EGroupware is an open-source enterprise software for business use. The software supports integrated project teams across and within organisation boundaries. Windows, Linux or Mac – EGroupware runs browser-based and thereby independent from the installed running system. The mobile version enables online access to all data on the go – without any need of synchronisation. Interlinking any data across applications and setting up business processes through configurable custom fields are making EGroupware desirable for companies, who require the highest flexibility from a collaborative software solution.
 
 ## 2. Links
 

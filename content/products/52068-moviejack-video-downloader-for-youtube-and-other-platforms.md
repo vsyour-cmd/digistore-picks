@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>MovieJack</strong></p>
-<p>Download your favorite videos from YouTube and many other sites – quickly and easily. Includes one year of free updates!</p>
-<p>Compatible with Windows 7, 8, 8.1, 10, and 11.</p>
-<p>The software is available for immediate download after purchase. Your license key will be sent by email.</p>
+**Vendor's marketplace description:** MovieJack Download your favorite videos from YouTube and many other sites – quickly and easily. Includes one year of free updates! Compatible with Windows 7, 8, 8.1, 10, and 11. The software is available for immediate download after purchase. Your license key will be sent by email.
 
 ## 2. Links
 

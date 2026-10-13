@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Introducing METANAIL COMPLEX – The Fresh New Approach to Nail Wellness!</h3>
-<p>A unique drops + supplement format designed to support healthy-looking nails and elevate your audience's daily nail-care routine.</p>
-<p> </p>
+**Vendor's marketplace description:** Introducing METANAIL COMPLEX – The Fresh New Approach to Nail Wellness! A unique drops + supplement format designed to support healthy-looking nails and elevate your audience's daily nail-care routine.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>From decorated Purple Heart veteran Teddy Daniels: High-converting survival offer exposing the HEMP threat + 365-day blackout prep. CRUSHING IT with conservative, prepper, survival, and patriot lists. 8-12% email CVR, $2-$5 EPCs on cold/warm traffic. Proven winner on FB, YouTube, and email. Multiple bonuses + irresistible guarantee = INSANE conversions. Open to ALL traffic. Contact for paybump opportunities!<br /><br /><strong>Keywords:</strong><br /> EMP survival, blackout preparedness, HEMP attack, grid down, survival guide, prepper offer, emergency power, food storage, water filtration, home defense, conservative survival, patriot prep, military survival, Christian preppers, off-grid living, societal collapse, 365-day blackout, renewable energy survival, self-reliance, disaster readiness</p>
+**Vendor's marketplace description:** From decorated Purple Heart veteran Teddy Daniels: High-converting survival offer exposing the HEMP threat + 365-day blackout prep. CRUSHING IT with conservative, prepper, survival, and patriot lists. 8-12% email CVR, $2-$5 EPCs on cold/warm traffic. Proven winner on FB, YouTube, and email. Multiple bonuses + irresistible guarantee = INSANE conversions. Open to ALL traffic. Contact for paybump opportunities! Keywords: EMP survival, blackout preparedness, HEMP attack, grid down, survival guide, prepper offer, emergency power, food storage, water filtration, home defense, conservative survival, patriot prep, military survival, Christian preppers, off-grid living, societal collapse, 365-day blackout, renewable energy survival, self-reliance, disaster readiness
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Unique “Gold Ritual” Protocol Is Making Manifestation Possible For Anyone. Powerful Pitch, Multiple Intros Available. Top Affs Are Scoring Up To $6 EPC.</p>
+**Vendor's marketplace description:** This Unique “Gold Ritual” Protocol Is Making Manifestation Possible For Anyone. Powerful Pitch, Multiple Intros Available. Top Affs Are Scoring Up To $6 EPC.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>There is a reason why ZenCortex is the <br />HIGHEST EPC offer on the Digistore24 Marketplace</p>
-<p>Discover why by sending just a few clicks...</p>
-<p>Get Paid The Highest Commissions</p>
-<p>Up to 70% commissions on a HUGE <br />$265 AOV &amp; $3.00 EPCs</p>
+**Vendor's marketplace description:** There is a reason why ZenCortex is the HIGHEST EPC offer on the Digistore24 Marketplace Discover why by sending just a few clicks... Get Paid The Highest Commissions Up to 70% commissions on a HUGE $265 AOV & $3.00 EPCs
 
 ## 2. Links
 

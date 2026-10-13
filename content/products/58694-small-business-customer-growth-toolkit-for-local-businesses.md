@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Help small businesses and consultants identify growth bottlenecks, improve local visibility, strengthen website conversion and build better customer retention systems.</p>
-<p>The Small Business Customer Growth Toolkit™ includes four practical digital planning tools:</p>
-<p>• Growth Bottleneck Assessment Pro™<br />• Google Visibility &amp; Local Search Planner Pro™<br />• Website Conversion &amp; Booking Journey Planner Pro™<br />• Reviews, Referrals &amp; Retention Growth Planner Pro™</p>
-<p>Ideal for small-business owners, local service businesses, consultants and customer-growth audiences looking for a more structured approach to visibility, conversion, bookings, reviews, referrals and retention.</p>
-<p>The toolkit helps users organize growth priorities and improve customer-facing systems without promising specific financial or business outcomes.</p>
+**Vendor's marketplace description:** Help small businesses and consultants identify growth bottlenecks, improve local visibility, strengthen website conversion and build better customer retention systems. The Small Business Customer Growth Toolkit™ includes four practical digital planning tools: • Growth Bottleneck Assessment Pro™ • Google Visibility & Local Search Planner Pro™ • Website Conversion & Booking Journey Planner Pro™ • Reviews, Referrals & Retention Growth Planner Pro™ Ideal for small-business owners, local service businesses, consultants and customer-growth audiences looking for a more structured approach to visibility, conversion, bookings, reviews, referrals and retention. The toolkit helps users organize growth priorities and improve customer-facing systems without promising specific financial or business outcomes.
 
 ## 2. Links
 

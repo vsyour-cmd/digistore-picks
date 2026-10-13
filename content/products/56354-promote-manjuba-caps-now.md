@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Manjuba Caps is a premium international offer in the male wellness market, focused on long-term results, customer retention, and strong conversion rates. Our ecosystem goes beyond a single product, including upsell and downsell opportunities, cart recovery strategies, and active customer support that increases LTV and recurring revenue.</p>
-<p><strong>Affiliates receive 60% commission per sale, access to tested VSLs, validated creatives, proven advertising strategies, and strategic support to help scale campaigns with compliance and strong branding.</strong> We operate mainly in the United States, Canada, United Kingdom, and Australia, with the U.S. as our top-performing market.</p>
-<p>Built for serious affiliates, Manjuba Caps is not just a product — it is a complete structure designed for sustainable growth and higher profits.</p>
+**Vendor's marketplace description:** Manjuba Caps is a premium international offer in the male wellness market, focused on long-term results, customer retention, and strong conversion rates. Our ecosystem goes beyond a single product, including upsell and downsell opportunities, cart recovery strategies, and active customer support that increases LTV and recurring revenue. Affiliates receive 60% commission per sale, access to tested VSLs, validated creatives, proven advertising strategies, and strategic support to help scale campaigns with compliance and strong branding. We operate mainly in the United States, Canada, United Kingdom, and Australia, with the U.S. as our top-performing market. Built for serious affiliates, Manjuba Caps is not just a product — it is a complete structure designed for sustainable growth and higher profits.
 
 ## 2. Links
 

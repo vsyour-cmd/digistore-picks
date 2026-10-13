@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">A digital guide combining mindfulness and practical weight-loss strategies for long-term results. Appeals to adults tired of extreme diets and converts well with wellness, lifestyle, and email traffic.</p>
-<p style="text-align:justify;"><br /><strong>Commission: 75% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** A digital guide combining mindfulness and practical weight-loss strategies for long-term results. Appeals to adults tired of extreme diets and converts well with wellness, lifestyle, and email traffic. Commission: 75% | Automatic Approval
 
 ## 2. Links
 

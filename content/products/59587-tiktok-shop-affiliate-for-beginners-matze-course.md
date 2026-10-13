@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>TikTok Shop Affiliate for Beginners – Matze Course</p>
-<p>Check eligibility, review products and plan an honest video. This English self-paced course guides you from an initial idea to a video plan and a checklist for eligibility, disclosure and publishing. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. Market and eligibility<br />2. Product and first-hand check<br />3. Video that teaches<br />4. Disclosure and product link<br />5. Publish and answer<br />6. Read reports carefully</p>
-<p>Who is it for? Creators who want to prepare a useful TikTok Shop Affiliate product demonstration.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** TikTok Shop Affiliate for Beginners – Matze Course Check eligibility, review products and plan an honest video. This English self-paced course guides you from an initial idea to a video plan and a checklist for eligibility, disclosure and publishing. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. Market and eligibility 2. Product and first-hand check 3. Video that teaches 4. Disclosure and product link 5. Publish and answer 6. Read reports carefully Who is it for? Creators who want to prepare a useful TikTok Shop Affiliate product demonstration. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

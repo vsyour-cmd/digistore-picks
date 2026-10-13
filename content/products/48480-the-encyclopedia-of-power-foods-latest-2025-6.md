@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Great Conversion!</p>
-<p>• Compliant!<br />• AOV: $528-$1064<br />• 70% commissions across the funnels. Commision bump for super affiliates<br />• 3-9% conversion rate on email lists</p>
-<p><br />Promolink: <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=AFFILIATE" target="_blank" rel="noreferrer noopener">https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=AFFILIATE</a></p>
-<p>For product support please email: mailto:contact@365dailyhealth.com<br />For affiliate support please email: mailto:affiliates@365dailyhealth.com</p>
+**Vendor's marketplace description:** Great Conversion! • Compliant! • AOV: $528-$1064 • 70% commissions across the funnels. Commision bump for super affiliates • 3-9% conversion rate on email lists Promolink: https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=AFFILIATE For product support please email: mailto:contact@365dailyhealth.com For affiliate support please email: mailto:affiliates@365dailyhealth.com
 
 ## 2. Links
 

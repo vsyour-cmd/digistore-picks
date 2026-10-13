@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Helix One PC is a Windows PC optimization, cleanup, maintenance, and repair utility for everyday users.</p>
-<p>Affiliates earn <strong>30% commission</strong> on eligible verified sales of the <strong>1-year license for 1 PC</strong>, priced at <strong>$89.99</strong>.</p>
-<p><strong>Key benefits:</strong></p>
-<ul>
-<li>Junk and unnecessary file cleanup</li>
-<li>Windows startup optimization</li>
-<li>PC health and performance checks</li>
-<li>Repair of supported Windows system-file issues</li>
-<li>Easy-to-use Windows maintenance tools</li>
-<li>Helps users address slow performance, clutter, startup issues, and common Windows problems</li>
-</ul>
+**Vendor's marketplace description:** Helix One PC is a Windows PC optimization, cleanup, maintenance, and repair utility for everyday users. Affiliates earn 30% commission on eligible verified sales of the 1-year license for 1 PC , priced at $89.99 . Key benefits: Junk and unnecessary file cleanup Windows startup optimization PC health and performance checks Repair of supported Windows system-file issues Easy-to-use Windows maintenance tools Helps users address slow performance, clutter, startup issues, and common Windows problems
 
 ## 2. Links
 
@@ -85,6 +75,14 @@ language: "en"
 - **OG image:** https://helixonepc.com/assets/img/screenshots/activated-dashboard.png?v=20261009final
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+(no usage paragraphs found on the sales page)
+
+### 3c. Cautions
+
+(no explicit caution paragraphs found; see marketplace stats above)
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

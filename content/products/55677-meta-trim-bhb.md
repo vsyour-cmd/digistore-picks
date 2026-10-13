@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>MONSTER OFFER Meta Trim BHB<sup>TM</sup>!</h3>
-<h3>is going to supercharge your commissions!</h3>
-<ul>
-<li>Massive payouts - <strong>Up to 75% Frontend &amp; 45% Backend Revenue Share</strong></li>
-<li>BHB Ketone weight loss supplement - converts well with a wide audience base</li>
-<li>Constantly optimized swipes &amp; landers to ensure best conversions</li>
-</ul>
+**Vendor's marketplace description:** MONSTER OFFER Meta Trim BHB TM ! is going to supercharge your commissions! Massive payouts - Up to 75% Frontend & 45% Backend Revenue Share BHB Ketone weight loss supplement - converts well with a wide audience base Constantly optimized swipes & landers to ensure best conversions
 
 ## 2. Links
 

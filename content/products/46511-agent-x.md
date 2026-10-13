@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The AI tech of 2024 is here! </strong><br /><br />Presenting <strong>AGENT X</strong>, the world's first true autonomous AI agent, which automates basically everything we do as marketers.Now, I'm sure you've heard the hype about Chat-GPT and generative AI.. but <strong>THIS is a whole new level</strong>: an AI agent that simply does everything for you. You need to see this to believe it. Exclusive to Digistore24, for 2024!</p>
-<p><strong>Grab your link and promote</strong></p>
+**Vendor's marketplace description:** The AI tech of 2024 is here! Presenting AGENT X , the world's first true autonomous AI agent, which automates basically everything we do as marketers.Now, I'm sure you've heard the hype about Chat-GPT and generative AI.. but THIS is a whole new level : an AI agent that simply does everything for you. You need to see this to believe it. Exclusive to Digistore24, for 2024! Grab your link and promote
 
 ## 2. Links
 

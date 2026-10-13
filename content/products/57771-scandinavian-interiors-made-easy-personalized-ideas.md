@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>The digital planning and inspiration guide for your personalized home interior design</strong></h2>
-<p>Transform your furnishing ideas into a well-thought-out living concept. With "Scandinavian Decorating Made Easy – Personal Ideas," you get far more than just an ordinary e-book—it is your personal home planner, idea repository, and creative companion for creating a home in the popular Scandinavian style.</p>
-<p>Recommend a high-quality digital home and interior design product that is highly relevant to the popular home &amp; living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.</p>
+**Vendor's marketplace description:** The digital planning and inspiration guide for your personalized home interior design Transform your furnishing ideas into a well-thought-out living concept. With "Scandinavian Decorating Made Easy – Personal Ideas," you get far more than just an ordinary e-book—it is your personal home planner, idea repository, and creative companion for creating a home in the popular Scandinavian style. Recommend a high-quality digital home and interior design product that is highly relevant to the popular home & living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.
 
 ## 2. Links
 

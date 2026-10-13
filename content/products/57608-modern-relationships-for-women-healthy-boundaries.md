@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote a premium personal development course created for women who want to build healthier relationships without losing their identity, confidence or emotional balance.</p>
-<p>Modern Relationships for Women provides practical and accessible education on self-awareness, personal boundaries, emotional maturity, recurring relationship patterns and conscious decision-making.</p>
-<p>The course includes eight carefully produced video lessons, with approximately 20 minutes of premium narrated content per lesson, together with practical exercises designed to help students apply what they learn.</p>
-<p>This offer is suitable for audiences interested in relationships, dating, confidence, self-worth, personal growth and emotional wellbeing.</p>
-<p>Affiliates receive access to promotional resources, campaign guidance and dedicated support. Please use responsible, educational marketing and avoid medical, therapeutic or diagnostic claims.</p>
-<p>Target audience: adult women interested in relationships and personal development.</p>
-<p>Language: English.</p>
-<p>Please visit the affiliate support page for promotional materials, approved messaging and campaign information.</p>
-<p>The course is delivered inside the Full-Wisdom member area. Final checkout price, taxes and membership access terms are shown clearly on the order form.</p>
-<p> </p>
+**Vendor's marketplace description:** Promote a premium personal development course created for women who want to build healthier relationships without losing their identity, confidence or emotional balance. Modern Relationships for Women provides practical and accessible education on self-awareness, personal boundaries, emotional maturity, recurring relationship patterns and conscious decision-making. The course includes eight carefully produced video lessons, with approximately 20 minutes of premium narrated content per lesson, together with practical exercises designed to help students apply what they learn. This offer is suitable for audiences interested in relationships, dating, confidence, self-worth, personal growth and emotional wellbeing. Affiliates receive access to promotional resources, campaign guidance and dedicated support. Please use responsible, educational marketing and avoid medical, therapeutic or diagnostic claims. Target audience: adult women interested in relationships and personal development. Language: English. Please visit the affiliate support page for promotional materials, approved messaging and campaign information. The course is delivered inside the Full-Wisdom member area. Final checkout price, taxes and membership access terms are shown clearly on the order form.
 
 ## 2. Links
 

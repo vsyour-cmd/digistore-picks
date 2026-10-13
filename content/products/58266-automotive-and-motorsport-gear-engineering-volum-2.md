@@ -41,48 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Automotive Transmission Component Design – Volume 2</p>
-<p> </p>
-<p>A specialized automotive engineering digital product focused on the components that turn transmission theory into a functioning gearbox.</p>
-<p> </p>
-<p>Volume 2: Automotive Transmission Component Design moves beyond gear fundamentals and focuses on the engineering and design of shafts, splines, bearings and transmission housings.</p>
-<p> </p>
-<p>It is particularly suited to affiliates targeting automotive, engineering, motorsport, technical education and performance-car audiences.</p>
-<p> </p>
-<p>Key topics include:</p>
-<p> </p>
-<p>- Shaft and torsional-system design</p>
-<p>- Combined bending and torsional loads</p>
-<p>- Stress concentrations and critical sections</p>
-<p>- Splines and shaft-hub connections</p>
-<p>- Bearing selection and arrangements</p>
-<p>- Bearing-life calculations</p>
-<p>- Transmission housing design</p>
-<p>- Structural stiffness and alignment</p>
-<p>- Engineering formulas, reference information and worked examples</p>
-<p> </p>
-<p>Why promote this product?</p>
-<p> </p>
-<p>Volume 2 addresses a more advanced and highly focused part of automotive transmission engineering. It provides affiliates with a product that can be marketed to customers who want to go beyond basic gearbox knowledge and understand how actual transmission components are designed.</p>
-<p> </p>
-<p>Ideal audiences include:</p>
-<p> </p>
-<p>Mechanical engineering students • Automotive enthusiasts • Motorsport enthusiasts • Gearbox builders • Technicians • Race-car builders • Automotive engineers • CAD/design enthusiasts • Performance-car communities</p>
-<p> </p>
-<p>Strong promotional angles</p>
-<p> </p>
-<p>Affiliates can market Volume 2 around themes such as:</p>
-<p> </p>
-<p>- Learn how real gearbox components are engineered</p>
-<p>- Go beyond gear theory into practical transmission design</p>
-<p>- Understand shaft, spline and bearing calculations</p>
-<p>- Learn the engineering principles behind stronger transmissions</p>
-<p>- Technical knowledge for performance and motorsport applications</p>
-<p>- Continue the learning path established in Volume 1</p>
-<p> </p>
-<p>Volume 2 can also be cross-promoted with Volume 1, giving affiliates an opportunity to recommend both products to customers who want a broader understanding of automotive transmission engineering.</p>
-<p> </p>
-<p>Digital product – instant delivery – worldwide audience.</p>
+**Vendor's marketplace description:** Automotive Transmission Component Design – Volume 2 A specialized automotive engineering digital product focused on the components that turn transmission theory into a functioning gearbox. Volume 2: Automotive Transmission Component Design moves beyond gear fundamentals and focuses on the engineering and design of shafts, splines, bearings and transmission housings. It is particularly suited to affiliates targeting automotive, engineering, motorsport, technical education and performance-car audiences. Key topics include: - Shaft and torsional-system design - Combined bending and torsional loads - Stress concentrations and critical sections - Splines and shaft-hub connections - Bearing selection and arrangements - Bearing-life calculations - Transmission housing design - Structural stiffness and alignment - Engineering formulas, reference information and worked examples Why promote this product? Volume 2 addresses a more advanced and highly focused part of automotive transmission engineering. It provides affiliates with a product that can be marketed to customers who want to go beyond basic gearbox knowledge and understand how actual transmission components are designed. Ideal audiences include: Mechanical engineering students • Automotive enthusiasts • Motorsport enthusiasts • Gearbox builders • Technicians • Race-car builders • Automotive engineers • CAD/design enthusiasts • Performance-car communities Strong promotional angles Affiliates can market Volume 2 around themes such as: - Learn how real gearbox components are engineered - Go beyond gear theory into practical transmission design - Understand shaft, spline and bearing calculations - Learn the engineering principles behind stronger transmissions - Technical knowledge for performance and motorsport applications - Continue the learning path established in Volume 1 Volume 2 can also be cross-promoted with Volume 1, giving affiliates an opportunity to recommend both products to customers who want a broader understanding of automotive transmission engineering. Digital product – instant delivery – worldwide audience.
 
 ## 2. Links
 

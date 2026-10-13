@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><code>A complete, beginner-friendly 30-day guide to sustainable weight loss, healthy eating, gentle movement, and habit building. Includes 34 detailed chapters, visual portion guides, workout plans, and 7 printable bonus planners &amp; trackers! High-converting fitness/wellness niche with 50% affiliate commission.</code></p>
-<p> </p>
+**Vendor's marketplace description:** A complete, beginner-friendly 30-day guide to sustainable weight loss, healthy eating, gentle movement, and habit building. Includes 34 detailed chapters, visual portion guides, workout plans, and 7 printable bonus planners & trackers! High-converting fitness/wellness niche with 50% affiliate commission.
 
 ## 2. Links
 

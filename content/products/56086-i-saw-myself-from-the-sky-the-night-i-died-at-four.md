@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A true and emotional story of a four-year-old girl who lived through a near-death experience after a sudden hit-and-run accident on a dark night.</p>
-<p>In moments between life and death,</p>
-<p>How did she feel? What did she see? And was she truly outside her body?</p>
-<p>This story opens the door to questions about the soul, consciousness, and life after death through an unforgettable real experience.</p>
-<p> </p>
-<p>✔ Instant access after purchase</p>
-<p>✔ Easy-to-read PDF format</p>
-<p>✔ 60-day money-back guarantee</p>
-<p> </p>
+**Vendor's marketplace description:** A true and emotional story of a four-year-old girl who lived through a near-death experience after a sudden hit-and-run accident on a dark night. In moments between life and death, How did she feel? What did she see? And was she truly outside her body? This story opens the door to questions about the soul, consciousness, and life after death through an unforgettable real experience. ✔ Instant access after purchase ✔ Easy-to-read PDF format ✔ 60-day money-back guarantee
 
 ## 2. Links
 

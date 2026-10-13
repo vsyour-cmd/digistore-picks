@@ -41,35 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3 style="text-align:center;"><span style="background-color:#ffffff;"><strong>"Get Instant Access To 200 Powerful Social Media Marketing Tips To Increase Your Followers, Build Credibility and Gain More Customers....</strong></span></h3>
-<p> </p>
-<h3 style="text-align:center;"><span style="color:#000000;background-color:#ffffff;"><strong>Here's what you'll discover in this Guide:</strong></span></h3>
-<p> </p>
-<ul>
-<li><span style="color:#000080;"><strong>200 Tips on social media marketing so you can take full advantage of these free, high traffic sites.</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on choosing which social media site to use</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on getting started with a social media site</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on keeping subscribers glued to your page/account</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on using multimedia content</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on using language</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on using Youtube effectively</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on how to expand the reach of your social media account</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on outsourcing work and task</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on dealing with trolling, defamation, and other derogatory comments from users</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on using Facebook</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on using Twitter</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips for safety</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on involvements you should avoid</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on measuring and improving the effectiveness of your social media acoount</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on coming up with good content</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on writing your comments and posts effectively</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on unique ways to deliver your message</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on improving customer relationships</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips of dealing with competition</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on financing your social media account</strong></span></li>
-<li><span style="color:#000080;"><strong>Tips on making your social media account user friendly</strong></span></li>
-<li><span style="color:#000080;"><strong>.....And much, much more !    </strong></span></li>
-</ul>
+**Vendor's marketplace description:** "Get Instant Access To 200 Powerful Social Media Marketing Tips To Increase Your Followers, Build Credibility and Gain More Customers.... Here's what you'll discover in this Guide: 200 Tips on social media marketing so you can take full advantage of these free, high traffic sites. Tips on choosing which social media site to use Tips on getting started with a social media site Tips on keeping subscribers glued to your page/account Tips on using multimedia content Tips on using language Tips on using Youtube effectively Tips on how to expand the reach of your social media account Tips on outsourcing work and task Tips on dealing with trolling, defamation, and other derogatory comments from users Tips on using Facebook Tips on using Twitter Tips for safety Tips on involvements you should avoid Tips on measuring and improving the effectiveness of your social media acoount Tips on coming up with good content Tips on writing your comments and posts effectively Tips on unique ways to deliver your message Tips on improving customer relationships Tips of dealing with competition Tips on financing your social media account Tips on making your social media account user friendly .....And much, much more !
 
 ## 2. Links
 

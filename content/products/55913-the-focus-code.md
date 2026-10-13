@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <pre>The Focus Code is a premium binaural beats audio system with 30 tracks designed to help writers, programmers, entrepreneurs, and students achieve deep focus and flow state on demand.
-</pre>
-<pre>Perfect for affiliates in: productivity, self-development, business, entrepreneurship, writing, programming, and online education niches.</pre>
+**Vendor's marketplace description:** The Focus Code is a premium binaural beats audio system with 30 tracks designed to help writers, programmers, entrepreneurs, and students achieve deep focus and flow state on demand. Perfect for affiliates in: productivity, self-development, business, entrepreneurship, writing, programming, and online education niches.
 
 ## 2. Links
 

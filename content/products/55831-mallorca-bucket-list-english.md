@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Mallorca Bucket List (English) is a curated collection of the most beautiful places, attractions and unique highlights of the destination, designed to inspire travel ideas and make trip planning easier. Instead of spending hours researching the best places to visit, this bucket list provides a clear and compact overview of must-see highlights and special locations that make a trip memorable. All locations are organized in an easy-to-use format so they can quickly be explored or integrated into an existing travel plan. The bucket list also includes a ready-to-use Google Maps map, allowing all locations to be easily found and navigated during the trip. This creates an inspiring overview of the most beautiful places at the destination that can be used both for planning and during the journey.</p>
-<p>• Collection of the most beautiful places and attractions at the destination</p>
-<p>• Combination of well-known highlights and special locations</p>
-<p>• Clear structure for quick inspiration</p>
-<p>• Perfect for travel planning or as an addition to existing itineraries</p>
-<p>• Directly accessible locations via an integrated Google Maps map</p>
-<p>• All places organized and easy to find</p>
-<p>Product format: Digital bucket list + Google Maps map (download)</p>
+**Vendor's marketplace description:** The Mallorca Bucket List (English) is a curated collection of the most beautiful places, attractions and unique highlights of the destination, designed to inspire travel ideas and make trip planning easier. Instead of spending hours researching the best places to visit, this bucket list provides a clear and compact overview of must-see highlights and special locations that make a trip memorable. All locations are organized in an easy-to-use format so they can quickly be explored or integrated into an existing travel plan. The bucket list also includes a ready-to-use Google Maps map, allowing all locations to be easily found and navigated during the trip. This creates an inspiring overview of the most beautiful places at the destination that can be used both for planning and during the journey. • Collection of the most beautiful places and attractions at the destination • Combination of well-known highlights and special locations • Clear structure for quick inspiration • Perfect for travel planning or as an addition to existing itineraries • Directly accessible locations via an integrated Google Maps map • All places organized and easy to find Product format: Digital bucket list + Google Maps map (download)
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Discover Your Perfect Research Topic in Minutes!</strong></p>
-<p><br />This eBook, <em>AI Prompts for Dissertation Topic Research and Selection</em>, is your smart shortcut to finding a unique, research-worthy dissertation idea. Packed with expertly crafted AI prompts, it helps you brainstorm, refine, and define topics that align with your field, passion, and academic goals, no more research block or endless searching.</p>
+**Vendor's marketplace description:** Discover Your Perfect Research Topic in Minutes! This eBook, AI Prompts for Dissertation Topic Research and Selection , is your smart shortcut to finding a unique, research-worthy dissertation idea. Packed with expertly crafted AI prompts, it helps you brainstorm, refine, and define topics that align with your field, passion, and academic goals, no more research block or endless searching.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Special software (web app) for fonts and image editing with a subscription model.</strong></p>
-<p>Imagine you can create any lettering you want to! Fantastic compositions, charming fonts and lovely decorations. The lettering generator plus helps you to realize exactly the ideas you have in mind.</p>
-<p>App:<br /><a href="https://lettering.org/lettering-generator/" target="_blank" rel="noreferrer noopener">https://lettering.org/lettering-generator/</a></p>
-<p>Salespage:<br /><a href="https://fontilo.com/en/plus" target="_blank" rel="noreferrer noopener">https://fontilo.com/en/plus</a></p>
+**Vendor's marketplace description:** Special software (web app) for fonts and image editing with a subscription model. Imagine you can create any lettering you want to! Fantastic compositions, charming fonts and lovely decorations. The lettering generator plus helps you to realize exactly the ideas you have in mind. App: https://lettering.org/lettering-generator/ Salespage: https://fontilo.com/en/plus
 
 ## 2. Links
 

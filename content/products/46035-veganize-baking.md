@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Thanks to our high-converting video sales letter, promote Veganize Baking and pocket a whopping 75% commission.</p>
-<p>Veganize Baking features 100 easy-to-bake Vegan recipes. Your audience will love the comprehensive introduction with detailed how-to instructions for a seamless baking experience.</p>
-<p>Why Partner with Us? Earn a generous 75% commission. Benefit from top-notch customer support and minimal refund rates.</p>
-<p>Interests &amp; Keywords: Vegan baking, plant-based recipes, cruelty-free treats, healthy desserts, vegan lifestyle, weight-conscious baking, delicious and ethical cooking, homemade vegan sweets, compassionate living.</p>
-<p>Join us in spreading the joy of Veganize Baking and reap the rewards of the thriving vegan movement! </p>
-<h3> </h3>
+**Vendor's marketplace description:** Thanks to our high-converting video sales letter, promote Veganize Baking and pocket a whopping 75% commission. Veganize Baking features 100 easy-to-bake Vegan recipes. Your audience will love the comprehensive introduction with detailed how-to instructions for a seamless baking experience. Why Partner with Us? Earn a generous 75% commission. Benefit from top-notch customer support and minimal refund rates. Interests & Keywords: Vegan baking, plant-based recipes, cruelty-free treats, healthy desserts, vegan lifestyle, weight-conscious baking, delicious and ethical cooking, homemade vegan sweets, compassionate living. Join us in spreading the joy of Veganize Baking and reap the rewards of the thriving vegan movement!
 
 ## 2. Links
 

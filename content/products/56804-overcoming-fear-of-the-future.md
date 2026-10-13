@@ -41,63 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Overcoming Fear of the Future</strong> is a calm, honest self-help eBook for people struggling with fear of the future, inner restlessness, overthinking, and constant worry — based on personal experience.</p>
-<p>The program combines practical insights with easy-to-follow exercises and includes the bonus workbook <strong>LET GO. BEGIN TODAY.</strong>, featuring 33 additional exercises focused on letting go, self-compassion, emotional balance, and inner calm.</p>
-<p>The sales page and overall branding are intentionally designed to feel calm, trustworthy, and professional.</p>
-<p><strong>This product is especially suitable for:</strong></p>
-<ul>
-<li>
-<p>Mental health and mindset creators</p>
-</li>
-<li>
-<p>Personal development YouTube channels</p>
-</li>
-<li>
-<p>Instagram accounts focused on anxiety, emotional well-being, self-love, and mindfulness</p>
-</li>
-<li>
-<p>Mental health blogs and online communities</p>
-</li>
-<li>
-<p>Newsletter publishers covering personal growth, emotional freedom, and conscious living</p>
-</li>
-</ul>
-<p><strong>Highlights:</strong></p>
-<ul>
-<li>
-<p>Instant download</p>
-</li>
-<li>
-<p>Includes the bonus workbook <strong>LET GO. BEGIN TODAY.</strong> with 33 practical exercises</p>
-</li>
-<li>
-<p>Calm, trustworthy, and premium positioning</p>
-</li>
-<li>
-<p>Highly relevant topic with growing demand as more people struggle with uncertainty, anxiety, and overthinking about the future</p>
-</li>
-</ul>
-<p><strong>Not Allowed:</strong></p>
-<ul>
-<li>
-<p>No unrealistic health or recovery claims</p>
-</li>
-<li>
-<p>No statements such as “cures anxiety disorders” or similar claims</p>
-</li>
-<li>
-<p>No paid advertising on platforms such as Google, YouTube, Meta, TikTok, or Pinterest</p>
-</li>
-<li>
-<p>No bidding on brand keywords or trademarked terms</p>
-</li>
-<li>
-<p>No misleading marketing claims</p>
-</li>
-<li>
-<p>No spam marketing</p>
-</li>
-</ul>
+**Vendor's marketplace description:** Overcoming Fear of the Future is a calm, honest self-help eBook for people struggling with fear of the future, inner restlessness, overthinking, and constant worry — based on personal experience. The program combines practical insights with easy-to-follow exercises and includes the bonus workbook LET GO. BEGIN TODAY. , featuring 33 additional exercises focused on letting go, self-compassion, emotional balance, and inner calm. The sales page and overall branding are intentionally designed to feel calm, trustworthy, and professional. This product is especially suitable for: Mental health and mindset creators Personal development YouTube channels Instagram accounts focused on anxiety, emotional well-being, self-love, and mindfulness Mental health blogs and online communities Newsletter publishers covering personal growth, emotional freedom, and conscious living Highlights: Instant download Includes the bonus workbook LET GO. BEGIN TODAY. with 33 practical exercises Calm, trustworthy, and premium positioning Highly relevant topic with growing demand as more people struggle with uncertainty, anxiety, and overthinking about the future Not Allowed: No unrealistic health or recovery claims No statements such as “cures anxiety disorders” or similar claims No paid advertising on platforms such as Google, YouTube, Meta, TikTok, or Pinterest No bidding on brand keywords or trademarked terms No misleading marketing claims No spam marketing
 
 ## 2. Links
 

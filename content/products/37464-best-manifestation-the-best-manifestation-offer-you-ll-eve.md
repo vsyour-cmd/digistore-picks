@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unique Manifestation offer made by an 8-Figure Copywriter makes you money 24/7. The offer is something completely different your traffic can’t get enough of, because it uses a new angle, never tried before in the niche.</p>
+**Vendor's marketplace description:** Unique Manifestation offer made by an 8-Figure Copywriter makes you money 24/7. The offer is something completely different your traffic can’t get enough of, because it uses a new angle, never tried before in the niche.
 
 ## 2. Links
 

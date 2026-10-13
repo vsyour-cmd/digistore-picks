@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Calling All Affiliates!</strong></p>
-<p>Maximize Your Earnings By Joining Our Ultimate Blood Sugar Offer</p>
-<p>With Our Proven Solution, YOU Will Dominate The Market And Boost Your Commissions</p>
-<p>How To Earn Up To $6 EPCs?! <br />Apply Now And Get Your Link To Success!</p>
+**Vendor's marketplace description:** Calling All Affiliates! Maximize Your Earnings By Joining Our Ultimate Blood Sugar Offer With Our Proven Solution, YOU Will Dominate The Market And Boost Your Commissions How To Earn Up To $6 EPCs?! Apply Now And Get Your Link To Success!
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong>WELCOME AFFILIATES</strong>!</p>
-<p>Make Up To $316 Per Sale On This RED Hot DIGISTORE24 Launch - Brand New For 2024!</p>
+**Vendor's marketplace description:** WELCOME AFFILIATES ! Make Up To $316 Per Sale On This RED Hot DIGISTORE24 Launch - Brand New For 2024!
 
 ## 2. Links
 

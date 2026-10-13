@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Highly converting salesfunnel for biz-opp, mmo, PD traffic. Send 300 ~ 500 Clicks To See Amazing Conversions!<br /><br /></p>
+**Vendor's marketplace description:** Highly converting salesfunnel for biz-opp, mmo, PD traffic. Send 300 ~ 500 Clicks To See Amazing Conversions!
 
 ## 2. Links
 

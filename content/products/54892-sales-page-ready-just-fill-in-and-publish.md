@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Sales Page Generator – AI-Powered Landing Page Builder [Instant online access to the Sales Page Generat] </p>
+**Vendor's marketplace description:** Sales Page Generator – AI-Powered Landing Page Builder [Instant online access to the Sales Page Generat]
 
 ## 2. Links
 

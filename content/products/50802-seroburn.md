@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>100% Science-Backed NATURAL Weight Loss Formula</strong>. <br /><strong>DOMINATING</strong> Conversion Rates! <br /><strong>HUGE EPCs</strong> Across All Lists. <br />Engineered for <strong>MAX</strong> Cold Traffic Performance with <strong>BATTLE-TESTED</strong> Creatives Included!</p>
+**Vendor's marketplace description:** 100% Science-Backed NATURAL Weight Loss Formula . DOMINATING Conversion Rates! HUGE EPCs Across All Lists. Engineered for MAX Cold Traffic Performance with BATTLE-TESTED Creatives Included!
 
 ## 2. Links
 

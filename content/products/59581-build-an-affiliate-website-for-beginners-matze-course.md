@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Build an Affiliate Website for Beginners – Matze Course</p>
-<p>Plan useful content and transparent product recommendations. This English self-paced course guides you from an initial idea to a site map and one original, reviewable buying guide. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. Pick a problem and audience<br />2. Map the site<br />3. Check products honestly<br />4. Write the useful guide<br />5. Links and disclosure<br />6. Maintain and improve</p>
-<p>Who is it for? Beginners building a focused website with genuinely useful affiliate content.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** Build an Affiliate Website for Beginners – Matze Course Plan useful content and transparent product recommendations. This English self-paced course guides you from an initial idea to a site map and one original, reviewable buying guide. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. Pick a problem and audience 2. Map the site 3. Check products honestly 4. Write the useful guide 5. Links and disclosure 6. Maintain and improve Who is it for? Beginners building a focused website with genuinely useful affiliate content. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

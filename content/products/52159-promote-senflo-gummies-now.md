@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>SenFlo Gummies is a vegan, non‑GMO gummy that uses time‑honored Senna to support natural digestive regularity in a tasty, grab‑and‑go format.</p>
-<p><strong> Affiliates earn up to 65 % commission on every sale, with weekly payouts, 60‑day cookies, and professionally tested creatives ready to deploy. </strong></p>
-<p>Expect strong EPCs, low refunds, low chargebacks, and responsive, hands‑on affiliate support.</p>
-<p>Promote a clean‑label product customers love while turning your traffic into rapid, reliable revenue.</p>
+**Vendor's marketplace description:** SenFlo Gummies is a vegan, non‑GMO gummy that uses time‑honored Senna to support natural digestive regularity in a tasty, grab‑and‑go format. Affiliates earn up to 65 % commission on every sale, with weekly payouts, 60‑day cookies, and professionally tested creatives ready to deploy. Expect strong EPCs, low refunds, low chargebacks, and responsive, hands‑on affiliate support. Promote a clean‑label product customers love while turning your traffic into rapid, reliable revenue.
 
 ## 2. Links
 

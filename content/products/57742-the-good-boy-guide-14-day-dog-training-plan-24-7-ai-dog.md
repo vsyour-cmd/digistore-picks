@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><span style="color:#000000;background-color:#ffcc00;">THE GOOD BOY GUIDE</span></p>
-<p style="text-align:center;"><span style="color:#000000;background-color:#ffcc00;">14-DAY BETTER BEHAVIOR PLAN FOR DOG OWNERS</span></p>
-<p style="text-align:center;"><br /><span style="color:#ff0000;">NEW FOR AFFILIATES</span></p>
-<p style="text-align:center;">YOUR AI AFFILIATE ASSISTANT - Check the link below</p>
-<p style="text-align:center;"><strong>https://thegoodboyguide.com/affiliate-ai/</strong></p>
-<p style="text-align:center;"><br /><span style="background-color:#00ffff;">DIGISTORE24 AFFILIATE SUPPORT PAGE</span></p>
-<p style="text-align:center;">Access promotional information, resources and tools created specifically for Digistore24 affiliates:</p>
-<p style="text-align:center;">https://thegoodboyguide.com/digistore24-affiliates/</p>
-<p style="text-align:center;"><br />Looking for a practical pet offer that is simple to understand, easy to promote, and created for everyday dog owners?</p>
-<p style="text-align:center;">The Good Boy Guide is a beginner-friendly digital ebook and workbook that gives dog owners a clear 14-day plan for building better attention, communication, basic obedience, and calmer daily habits.</p>
-<p style="text-align:center;">Short, positive training sessions are designed to take approximately 10 minutes a day.</p>
-<p style="text-align:center;"><br /><span style="background-color:#00ffff;">WHAT CUSTOMERS RECEIVE</span></p>
-<p style="text-align:center;">✓ The Good Boy Guide — 14-Day Training Plan<br />✓ Quick Start Puppy Routine<br />✓ Dog Command Cheat Sheet<br />✓ Family Training Tracker<br />✓ 24/7 AI Dog Agent Support<br />✓ Instant Digital Access</p>
-<p style="text-align:center;"><br /><span style="background-color:#00ffff;">WHY AFFILIATES WILL LIKE THIS OFFER</span></p>
-<p style="text-align:center;">✓ $27 simple one-time offer<br />✓ Beginner-friendly dog training niche<br />✓ Large audience of everyday dog owners<br />✓ Clear 14-day product concept<br />✓ Dedicated AI Affiliate Assistant<br />✓ Ready-to-use promotional resources</p>
-<p style="text-align:center;"><br /><span style="background-color:#00ffff;">COMPLETE AFFILIATE PROMOTION KIT</span></p>
-<p style="text-align:center;">https://drive.google.com/drive/folders/17wr9wZYjV24kph92cPeFh7taOOaSEI56?usp=drive_link</p>
-<p style="text-align:center;"><br />Start promoting The Good Boy Guide today.</p>
+**Vendor's marketplace description:** THE GOOD BOY GUIDE 14-DAY BETTER BEHAVIOR PLAN FOR DOG OWNERS NEW FOR AFFILIATES YOUR AI AFFILIATE ASSISTANT - Check the link below https://thegoodboyguide.com/affiliate-ai/ DIGISTORE24 AFFILIATE SUPPORT PAGE Access promotional information, resources and tools created specifically for Digistore24 affiliates: https://thegoodboyguide.com/digistore24-affiliates/ Looking for a practical pet offer that is simple to understand, easy to promote, and created for everyday dog owners? The Good Boy Guide is a beginner-friendly digital ebook and workbook that gives dog owners a clear 14-day plan for building better attention, communication, basic obedience, and calmer daily habits. Short, positive training sessions are designed to take approximately 10 minutes a day. WHAT CUSTOMERS RECEIVE ✓ The Good Boy Guide — 14-Day Training Plan ✓ Quick Start Puppy Routine ✓ Dog Command Cheat Sheet ✓ Family Training Tracker ✓ 24/7 AI Dog Agent Support ✓ Instant Digital Access WHY AFFILIATES WILL LIKE THIS OFFER ✓ $27 simple one-time offer ✓ Beginner-friendly dog training niche ✓ Large audience of everyday dog owners ✓ Clear 14-day product concept ✓ Dedicated AI Affiliate Assistant ✓ Ready-to-use promotional resources COMPLETE AFFILIATE PROMOTION KIT https://drive.google.com/drive/folders/17wr9wZYjV24kph92cPeFh7taOOaSEI56?usp=drive_link Start promoting The Good Boy Guide today.
 
 ## 2. Links
 

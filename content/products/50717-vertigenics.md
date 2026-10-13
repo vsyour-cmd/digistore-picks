@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fresh On DigiStore! The Vertigo Formula That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Bringing Dizzying Profits On Native And Fb with 6 Fig/day.</p>
+**Vendor's marketplace description:** Fresh On DigiStore! The Vertigo Formula That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Bringing Dizzying Profits On Native And Fb with 6 Fig/day.
 
 ## 2. Links
 

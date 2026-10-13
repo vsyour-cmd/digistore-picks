@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Are you looking for a high-converting digital product to promote—one that truly helps lives and still rewards you with excellent commissions?<br />Then <strong>“From Chaos to Calm: How to Control Anxiety”</strong> is the perfect choice.</p>
-<p>Written by a clinical psychologist with over 12 years of experience treating anxiety and emotional disorders, this eBook offers practical, evidence-based strategies that readers can apply immediately. The content is clear, empowering, and developed from real clinical experience—making it highly appealing to a broad audience.</p>
+**Vendor's marketplace description:** Are you looking for a high-converting digital product to promote—one that truly helps lives and still rewards you with excellent commissions? Then “From Chaos to Calm: How to Control Anxiety” is the perfect choice. Written by a clinical psychologist with over 12 years of experience treating anxiety and emotional disorders, this eBook offers practical, evidence-based strategies that readers can apply immediately. The content is clear, empowering, and developed from real clinical experience—making it highly appealing to a broad audience.
 
 ## 2. Links
 

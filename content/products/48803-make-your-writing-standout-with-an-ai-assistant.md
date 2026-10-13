@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Our nifty little software runs on the background of your MacOS system and allows you to write better everywhere.<br /><br />Whether it's Google Docs, E-Mail, Powerpoint and more our assistant runs on top of your native and online apps to help you write the best content possible.</p>
+**Vendor's marketplace description:** Our nifty little software runs on the background of your MacOS system and allows you to write better everywhere. Whether it's Google Docs, E-Mail, Powerpoint and more our assistant runs on top of your native and online apps to help you write the best content possible.
 
 ## 2. Links
 

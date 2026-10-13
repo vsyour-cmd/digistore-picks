@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Your Personal Prosperity Code</strong> is a 219-page digital ebook by Johnny Stegmeier created for audiences interested in personal development, mindset, health, prosperity, relationships, purpose, and personal freedom.</p>
-<p>The book gives readers practical reflection tools and structured frameworks for examining the beliefs, habits, information, associations, decisions, and daily actions shaping their results.</p>
-<p><strong>Why affiliates may want to promote it:</strong></p>
-<p>• $29.95 digital front-end product<br />• Optional $9.95 Prosperous From Within Action Workbook order bump<br />• Broad appeal across personal development, mindset, health/wellness, and prosperity audiences<br />• Professionally built sales page and Digistore24 checkout<br />• Dedicated Prosperous From Within Affiliate Center and Marketing Toolkit with approved promotional resources<br />• Immediate digital delivery through Digistore24<br />• 60-day refund policy</p>
-<p>Prosperous From Within is designed to give affiliates a clear, professional product they can introduce to audiences interested in practical personal growth and meaningful change from the inside out.</p>
+**Vendor's marketplace description:** Your Personal Prosperity Code is a 219-page digital ebook by Johnny Stegmeier created for audiences interested in personal development, mindset, health, prosperity, relationships, purpose, and personal freedom. The book gives readers practical reflection tools and structured frameworks for examining the beliefs, habits, information, associations, decisions, and daily actions shaping their results. Why affiliates may want to promote it: • $29.95 digital front-end product • Optional $9.95 Prosperous From Within Action Workbook order bump • Broad appeal across personal development, mindset, health/wellness, and prosperity audiences • Professionally built sales page and Digistore24 checkout • Dedicated Prosperous From Within Affiliate Center and Marketing Toolkit with approved promotional resources • Immediate digital delivery through Digistore24 • 60-day refund policy Prosperous From Within is designed to give affiliates a clear, professional product they can introduce to audiences interested in practical personal growth and meaningful change from the inside out.
 
 ## 2. Links
 

@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>[THE PROBLEM &amp; AUDIENCE]</strong> The practical culinary framework for lowering sodium and supporting arterial health without sacrificing meal enjoyment or eating bland "hospital food."</p>
-<p><br /><strong>[WHAT CONVERTS]</strong> 48-page printable guide packed with sodium-to-potassium ratio quick decoders, supermarket perimeter navigation maps, sodium-free culinary spice blends, and batch dinners.</p>
-<p><br /><strong>[AFFILIATE EDGE]</strong> Solves an urgent emotional problem for cardiovascular health seekers. High email open rates, zero medical controversy, and high cart conversion rates.</p>
-<p><strong>Best Traffic Channels:</strong> Heart health / DASH diet newsletters, cardiovascular health forums, senior wellness publishers.</p>
+**Vendor's marketplace description:** [THE PROBLEM & AUDIENCE] The practical culinary framework for lowering sodium and supporting arterial health without sacrificing meal enjoyment or eating bland "hospital food." [WHAT CONVERTS] 48-page printable guide packed with sodium-to-potassium ratio quick decoders, supermarket perimeter navigation maps, sodium-free culinary spice blends, and batch dinners. [AFFILIATE EDGE] Solves an urgent emotional problem for cardiovascular health seekers. High email open rates, zero medical controversy, and high cart conversion rates. Best Traffic Channels: Heart health / DASH diet newsletters, cardiovascular health forums, senior wellness publishers.
 
 ## 2. Links
 

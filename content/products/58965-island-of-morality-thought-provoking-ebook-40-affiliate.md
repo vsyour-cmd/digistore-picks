@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Island of Morality is a thought-provoking English-language eBook exploring morality, human behavior, and the consequences of a world in which moral values are increasingly abandoned.</div>
-<div> </div>
-<div>Through an imaginative story, Morality retreats to a deserted island after immorality spreads throughout the world, creating a reflective journey about values, choices, and society.</div>
-<div> </div>
-<div>Affiliates earn 40% commission on every confirmed sale.</div>
-<div> </div>
-<div>Promotional materials, book cover, and marketing support are available.</div>
-<div> </div>
-<div>Official website:</div>
-<div>www.elbossilydigitalhome.com</div>
-<div> </div>
-<div>Promotional video:</div>
-<div>https://www.youtube.com/watch?v=pAJ5cAJUyFo</div>
+**Vendor's marketplace description:** Island of Morality is a thought-provoking English-language eBook exploring morality, human behavior, and the consequences of a world in which moral values are increasingly abandoned. Through an imaginative story, Morality retreats to a deserted island after immorality spreads throughout the world, creating a reflective journey about values, choices, and society. Affiliates earn 40% commission on every confirmed sale. Promotional materials, book cover, and marketing support are available. Official website: www.elbossilydigitalhome.com Promotional video: https://www.youtube.com/watch?v=pAJ5cAJUyFo
 
 ## 2. Links
 

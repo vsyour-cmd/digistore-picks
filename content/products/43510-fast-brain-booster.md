@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Ready To Promote? Lets Get Going!</p>
-<p>On our Affiliate support pageyou'll find everything you need to know about promoting our best-selling product.</p>
+**Vendor's marketplace description:** Ready To Promote? Lets Get Going! On our Affiliate support pageyou'll find everything you need to know about promoting our best-selling product.
 
 ## 2. Links
 

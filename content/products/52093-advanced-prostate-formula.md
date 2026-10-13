@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div><strong>Promote Advanced Prostate Formula – A High-Converting, Doctor-Designed Prostate Health Solution!</strong></div>
-<ul>
-<li><strong>Earn 60% commissions</strong> on the entire funnel for every sale you drive.</li>
-<li>Boost conversions with a <strong>90-day risk-free money-back guarantee</strong>.</li>
-<li>Get started quickly with <strong>professional creatives, email swipes, and promotional assets</strong> to kickstart your campaign.</li>
-</ul>
+**Vendor's marketplace description:** Promote Advanced Prostate Formula – A High-Converting, Doctor-Designed Prostate Health Solution! Earn 60% commissions on the entire funnel for every sale you drive. Boost conversions with a 90-day risk-free money-back guarantee . Get started quickly with professional creatives, email swipes, and promotional assets to kickstart your campaign.
 
 ## 2. Links
 

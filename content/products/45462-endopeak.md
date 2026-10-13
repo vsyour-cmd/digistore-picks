@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>With a proven track record, <br />this product is already transforming lives <br />and satisfying customers.<br /><br />Tap into this high-demand niche, <br />and watch your commissions soar <br />as you help men regain confidence and vitality.</p>
-<p>Don't miss your chance to lead the way <br />in this flourishing market.<br /><br />PROMOTE NOW and dominate the male performance supplement space like never before!</p>
+**Vendor's marketplace description:** With a proven track record, this product is already transforming lives and satisfying customers. Tap into this high-demand niche, and watch your commissions soar as you help men regain confidence and vitality. Don't miss your chance to lead the way in this flourishing market. PROMOTE NOW and dominate the male performance supplement space like never before!
 
 ## 2. Links
 

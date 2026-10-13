@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Introducing <strong>Oradentum </strong>- The ultimate 21-in-1 oral care solution, packed only with powerful, natural ingredients! This innovative formula is designed to offer superior dental rejuvenation and is sure to make everyone eager to try it!</p>
-<p> </p>
+**Vendor's marketplace description:** Introducing Oradentum - The ultimate 21-in-1 oral care solution, packed only with powerful, natural ingredients! This innovative formula is designed to offer superior dental rejuvenation and is sure to make everyone eager to try it!
 
 ## 2. Links
 

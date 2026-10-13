@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"From Zero to Commission" is the complete 90-minute daily system for Digistore24 affiliates who are tired of posting links with zero results. Includes 16 chapters, 7 templates, and 4 bonuses worth $180. 60-day money-back guarantee. Perfect for beginners and intermediate affiliates alike. $27.</p>
+**Vendor's marketplace description:** "From Zero to Commission" is the complete 90-minute daily system for Digistore24 affiliates who are tired of posting links with zero results. Includes 16 chapters, 7 templates, and 4 bonuses worth $180. 60-day money-back guarantee. Perfect for beginners and intermediate affiliates alike. $27.
 
 ## 2. Links
 

@@ -41,75 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Quantum Wealth Frequencies - High-Converting Affiliate Offer</strong></p>
-<p>Convert cold traffic with this neuroscience-backed wealth attraction system. This digital product offers:</p>
-<p><strong>PROVEN ANGLES THAT CONVERT:</strong></p>
-<ul>
-<li>
-<p>Science-based approach (not "woo-woo")</p>
-</li>
-<li>
-<p>Specific frequency technology (432Hz, 528Hz, 963Hz)</p>
-</li>
-<li>
-<p>Tangible "9 minutes daily" system</p>
-</li>
-<li>
-<p>Multiple success stories and testimonials</p>
-</li>
-</ul>
-<p><strong>AFFILIATE ADVANTAGES:</strong></p>
-<ul>
-<li>
-<p>High perceived value ($197 value at $27 price point)</p>
-</li>
-<li>
-<p>Strong conversion rates across financial, self-help, and biohacking niches</p>
-</li>
-<li>
-<p>Multiple marketing angles (science, debt freedom, manifestation upgrade)</p>
-</li>
-<li>
-<p>Ready-made email swipes and ad copy provided</p>
-</li>
-</ul>
-<p><strong>WHAT YOU'RE PROMOTING:</strong></p>
-<ul>
-<li>
-<p>30 scientifically-designed wealth attraction soundscapes</p>
-</li>
-<li>
-<p>Morning and evening optimization tracks</p>
-</li>
-<li>
-<p>Complete usage guide and schedule</p>
-</li>
-<li>
-<p>Private community access</p>
-</li>
-<li>
-<p>Digital delivery with instant access</p>
-</li>
-</ul>
-<p><strong>TARGET AUDIENCES:</strong></p>
-<ul>
-<li>
-<p>Personal development and self-help audiences</p>
-</li>
-<li>
-<p>Financial improvement and debt freedom seekers</p>
-</li>
-<li>
-<p>Law of attraction and manifestation communities</p>
-</li>
-<li>
-<p>Biohackers and science-minded consumers</p>
-</li>
-<li>
-<p>Stress reduction and mindfulness markets</p>
-</li>
-</ul>
-<p><strong>WHY IT CONVERTS:</strong><br />Solves the universal pain point of financial stress with a unique, science-positioned solution that stands out in the crowded money mindset space.</p>
+**Vendor's marketplace description:** Quantum Wealth Frequencies - High-Converting Affiliate Offer Convert cold traffic with this neuroscience-backed wealth attraction system. This digital product offers: PROVEN ANGLES THAT CONVERT: Science-based approach (not "woo-woo") Specific frequency technology (432Hz, 528Hz, 963Hz) Tangible "9 minutes daily" system Multiple success stories and testimonials AFFILIATE ADVANTAGES: High perceived value ($197 value at $27 price point) Strong conversion rates across financial, self-help, and biohacking niches Multiple marketing angles (science, debt freedom, manifestation upgrade) Ready-made email swipes and ad copy provided WHAT YOU'RE PROMOTING: 30 scientifically-designed wealth attraction soundscapes Morning and evening optimization tracks Complete usage guide and schedule Private community access Digital delivery with instant access TARGET AUDIENCES: Personal development and self-help audiences Financial improvement and debt freedom seekers Law of attraction and manifestation communities Biohackers and science-minded consumers Stress reduction and mindfulness markets WHY IT CONVERTS: Solves the universal pain point of financial stress with a unique, science-positioned solution that stands out in the crowded money mindset space.
 
 ## 2. Links
 

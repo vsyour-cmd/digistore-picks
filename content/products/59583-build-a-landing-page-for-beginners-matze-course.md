@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Build a Landing Page for Beginners – Matze Course</p>
-<p>Write a clear offer, test mobile layout and the action path. This English self-paced course guides you from an initial idea to page copy, a layout plan and a checked mobile and form path. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. Understand the visitor<br />2. Make a verifiable promise<br />3. Sequence and evidence<br />4. Copy and call to action<br />5. Test access and function<br />6. Review without false precision</p>
-<p>Who is it for? Beginners building a landing page for one specific offer and action.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** Build a Landing Page for Beginners – Matze Course Write a clear offer, test mobile layout and the action path. This English self-paced course guides you from an initial idea to page copy, a layout plan and a checked mobile and form path. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. Understand the visitor 2. Make a verifiable promise 3. Sequence and evidence 4. Copy and call to action 5. Test access and function 6. Review without false precision Who is it for? Beginners building a landing page for one specific offer and action. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

@@ -41,55 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="background-color:#ff0000;color:#ffffff;"><strong>UNDISPUTABLE MEDIA MONSTER IS BACK!!</strong></span></h1>
-<p>We Love Digistore24 Affiliates and we are back to share the love. Last year we crushed it, and we are here again. Jump on the Gravy Wagon!</p>
-<p>This is a Brand New Offer from us and is bound to make you bank. Top Digistore24 Affiliates are all switching to this brand new health offer—conversions are over <strong>12%</strong> and <strong>$2.15 EPC</strong> from both cold and warm traffic. We have 3 high-ticket upsells that are absolutely crushing it for both male and female demographics, especially the 35+ crowd.</p>
-<p>To join and learn more about our upcoming contest, email our Affiliate Support Manager</p>
-<h3><span style="color:#ffffff;background-color:#ff0000;"><strong>The Offer Has Great Conversions!</strong></span></h3>
-<ul>
-<li>
-<p><strong>Compliant!</strong></p>
-</li>
-<li>
-<p><strong>AOV:</strong> $100-$150</p>
-</li>
-<li>
-<p><strong>Commissions:</strong> 85% across the entire funnel</p>
-</li>
-<li>
-<p><strong>Email Conversions:</strong> 3-9% conversion rate on email lists</p>
-</li>
-</ul>
-<h3 style="text-align:center;"><span style="color:#ffffff;background-color:#ff0000;"><strong>SPECIAL OFFER FOR OUR AFFILIATES AS ALWAYS</strong></span></h3>
-<p>We want to ensure that you have almost overnight success with <strong>Smoothie Sweets</strong>, so we are stretching things a bit to reward action-takers:</p>
-<blockquote>
-<p><strong>&gt;&gt; All Affiliates Who Make At Least 10 Sales Will Be Bumped To 90% Commissions Immediately!</strong></p>
-</blockquote>
-<h3 style="text-align:center;"><span style="color:#ffffff;background-color:#ff0000;"><strong>MORE ABOUT SMOOTHIE SWEETS</strong></span></h3>
-<p><strong>Smoothie Sweets</strong> is a highly-converting digital wellness and recipe program with massive, broad appeal across the health, weight management, and healthy living markets for both men and women.</p>
-<p>This offer is engineered to convert affiliate traffic and is built around a simple, highly visual concept that is instantly understood by customers: seamlessly integrate delicious, dessert-like sweet smoothies into your daily routine to crush sugar cravings, feel energized, and manage your weight without feeling deprived.</p>
-<p><strong>Why affiliates promote this offer:</strong></p>
-<ul>
-<li>
-<p><strong>Unique Hook:</strong> A simple "drink your sweets to get healthy" angle that hooks buyers fast.</p>
-</li>
-<li>
-<p><strong>Scroll-Stopping:</strong> Highly visual, mouth-watering smoothie concept that grabs attention immediately on social media.</p>
-</li>
-<li>
-<p><strong>Broad Target Audience:</strong> Massive appeal in the health, wellness, and weight loss markets across all adult demographics (designed to convert both men and women).</p>
-</li>
-<li>
-<p><strong>Sticky Product:</strong> Proven customer satisfaction with an easy-to-follow, realistic system that doesn't feel like a restrictive diet.</p>
-</li>
-<li>
-<p><strong>High Converting:</strong> Works exceptionally well with social media-style traffic and direct-response funnels.</p>
-</li>
-<li>
-<p><strong>Instant Delivery:</strong> 100% Digital product with instant access (zero physical shipping or fulfillment headaches).</p>
-</li>
-</ul>
-<p><strong>Best Traffic Sources:</strong> Facebook/Meta ads, Instagram, TikTok, native ads, email drops, SEO, content marketing, and broad health/wellness audiences.</p>
+**Vendor's marketplace description:** UNDISPUTABLE MEDIA MONSTER IS BACK!! We Love Digistore24 Affiliates and we are back to share the love. Last year we crushed it, and we are here again. Jump on the Gravy Wagon! This is a Brand New Offer from us and is bound to make you bank. Top Digistore24 Affiliates are all switching to this brand new health offer—conversions are over 12% and $2.15 EPC from both cold and warm traffic. We have 3 high-ticket upsells that are absolutely crushing it for both male and female demographics, especially the 35+ crowd. To join and learn more about our upcoming contest, email our Affiliate Support Manager The Offer Has Great Conversions! Compliant! AOV: $100-$150 Commissions: 85% across the entire funnel Email Conversions: 3-9% conversion rate on email lists SPECIAL OFFER FOR OUR AFFILIATES AS ALWAYS We want to ensure that you have almost overnight success with Smoothie Sweets , so we are stretching things a bit to reward action-takers: >> All Affiliates Who Make At Least 10 Sales Will Be Bumped To 90% Commissions Immediately! MORE ABOUT SMOOTHIE SWEETS Smoothie Sweets is a highly-converting digital wellness and recipe program with massive, broad appeal across the health, weight management, and healthy living markets for both men and women. This offer is engineered to convert affiliate traffic and is built around a simple, highly visual concept that is instantly understood by customers: seamlessly integrate delicious, dessert-like sweet smoothies into your daily routine to crush sugar cravings, feel energized, and manage your weight without feeling deprived. Why affiliates promote this offer: Unique Hook: A simple "drink your sweets to get healthy" angle that hooks buyers fast. Scroll-Stopping: Highly visual, mouth-watering smoothie concept that grabs attention immediately on social media. Broad Target Audience: Massive appeal in the health, wellness, and weight loss markets across all adult demographics (designed to convert both men and women). Sticky Product: Proven customer satisfaction with an easy-to-follow, realistic system that doesn't feel like a restrictive diet. High Converting: Works exceptionally well with social media-style traffic and direct-response funnels. Instant Delivery: 100% Digital product with instant access (zero physical shipping or fulfillment headaches). Best Traffic Sources: Facebook/Meta ads, Instagram, TikTok, native ads, email drops, SEO, content marketing, and broad health/wellness audiences.
 
 ## 2. Links
 

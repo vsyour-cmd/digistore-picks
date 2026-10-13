@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;">Perfect for busy people who hate intense workouts. This guide introduces the “slow fitness” approach that delivers real results with less strain and better long-term adherence. Targets beginners, over-40s, and anyone recovering from injury or burnout. Strong appeal in the health, wellness &amp; fitness niche. $37 price | 80% commission ($29.60 per sale).</p>
+**Vendor's marketplace description:** Perfect for busy people who hate intense workouts. This guide introduces the “slow fitness” approach that delivers real results with less strain and better long-term adherence. Targets beginners, over-40s, and anyone recovering from injury or burnout. Strong appeal in the health, wellness & fitness niche. $37 price | 80% commission ($29.60 per sale).
 
 ## 2. Links
 

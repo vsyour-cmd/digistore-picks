@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>⚡ <strong>Lifetime Commissions</strong> ⚡</p>
-<p>You not only receive a commission for the purchase you broker, but also for all subsequent purchases of our products (like <strong>Adaptichat</strong>) by your referred customers using the same email address. This without lifting a single finger.</p>
-<p>⚡ Conquer New Frontiers: English &amp; Spanish ⚡</p>
-<p>With a user interface available in both languages, you can seamlessly cater to a broader audience, targeting not only English speakers but also millions of potential customers in the fast-growing Latin American market, expanding your reach across borders.</p>
-<p>⭐ Recurrent Commissions: Making Money on Autopilot ⭐</p>
-<p>Picture this: A steady stream of passive income flowing into your bank account month after month. As a Writelytic affiliate, you earn a <strong>30% recurring commission</strong> on the subscription, <strong>including additional charges</strong> like extra words. Sit back, relax, and let the cash roll in while our cutting-edge AI technology does the heavy lifting!</p>
-<p>Writelytic is a game-changing AI platform that generates high-quality copy for businesses and individuals, revolutionizing the way they communicate with their audience.</p>
+**Vendor's marketplace description:** ⚡ Lifetime Commissions ⚡ You not only receive a commission for the purchase you broker, but also for all subsequent purchases of our products (like Adaptichat ) by your referred customers using the same email address. This without lifting a single finger. ⚡ Conquer New Frontiers: English & Spanish ⚡ With a user interface available in both languages, you can seamlessly cater to a broader audience, targeting not only English speakers but also millions of potential customers in the fast-growing Latin American market, expanding your reach across borders. ⭐ Recurrent Commissions: Making Money on Autopilot ⭐ Picture this: A steady stream of passive income flowing into your bank account month after month. As a Writelytic affiliate, you earn a 30% recurring commission on the subscription, including additional charges like extra words. Sit back, relax, and let the cash roll in while our cutting-edge AI technology does the heavy lifting! Writelytic is a game-changing AI platform that generates high-quality copy for businesses and individuals, revolutionizing the way they communicate with their audience.
 
 ## 2. Links
 

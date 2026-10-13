@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>✅ 100+ AI Prompts + Bonus materials to create better digital content</p>
-<p><strong>Format</strong>: PDF download<br /><br /><strong>Content:</strong><br />15x Instagram Hooks<br />15x Captions<br />15x Reels<br />10x Carousels<br />10x Stories<br />10x Content Ideas<br />10x Visual &amp; Image Prompts<br />10x Personal Brand<br />5x Marketing &amp; Sales<br />5x Viral/Engagement</p>
+**Vendor's marketplace description:** ✅ 100+ AI Prompts + Bonus materials to create better digital content Format : PDF download Content: 15x Instagram Hooks 15x Captions 15x Reels 10x Carousels 10x Stories 10x Content Ideas 10x Visual & Image Prompts 10x Personal Brand 5x Marketing & Sales 5x Viral/Engagement
 
 ## 2. Links
 

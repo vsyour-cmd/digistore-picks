@@ -41,58 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<h1><strong>Why should you promote this online course!? </strong></h1>
-<p>-Professional Sales Site!</p>
-<p>-We run Remarketing Ads!</p>
-<p>-Other Courses for sale you also get provision!</p>
-<p>-Copy everything form my website <a>www.guitarschool24.com</a> when promoting</p>
-</div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<h2>contents</h2>
-<p><strong>NEW 9:16 compaible videos!!!</strong></p>
-</div>
-</div>
-<div>
-<div>
-<ul>
-<li>Type: Flamenco Online Course (Book PDF. + Videos)</li>
-<li>Level: Beginner to Advanced</li>
-<li>Compatible with: Smartphone, Tablet, PC, Mac</li>
-<li>Format: Full HD .mp4</li>
-<li>Member area available immediately</li>
-<li>One-off payment – no monthly costs!</li>
-<li>60-day money-back guarantee</li>
-</ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<h1>Flamenco Guitar Method</h1>
-</div>
-</div>
-<div>
-<div>
-<h3>Learn to play Flamenco Guitar online with the most detailed tutorials and methods for adults. Finally find the great feeling of making music on your own!</h3>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Why should you promote this online course!? -Professional Sales Site! -We run Remarketing Ads! -Other Courses for sale you also get provision! -Copy everything form my website www.guitarschool24.com when promoting contents NEW 9:16 compaible videos!!! Type: Flamenco Online Course (Book PDF. + Videos) Level: Beginner to Advanced Compatible with: Smartphone, Tablet, PC, Mac Format: Full HD .mp4 Member area available immediately One-off payment – no monthly costs! 60-day money-back guarantee Flamenco Guitar Method Learn to play Flamenco Guitar online with the most detailed tutorials and methods for adults. Finally find the great feeling of making music on your own!
 
 ## 2. Links
 

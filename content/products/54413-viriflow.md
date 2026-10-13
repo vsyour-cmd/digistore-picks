@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The “Prostate Flush Protocol” Men Are Raving About. Doctor-endorsed, high-converting &amp; optimized for scale. Multiple intros available. Top affiliates are banking up to $6 EPC.</p>
+**Vendor's marketplace description:** The “Prostate Flush Protocol” Men Are Raving About. Doctor-endorsed, high-converting & optimized for scale. Multiple intros available. Top affiliates are banking up to $6 EPC.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Meet TribalForce X! The Celebrities’ Secret “African XXL Cocktail” That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.</p>
+**Vendor's marketplace description:** Meet TribalForce X! The Celebrities’ Secret “African XXL Cocktail” That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
 
 ## 2. Links
 

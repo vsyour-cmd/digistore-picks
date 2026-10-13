@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Make any computer screen look like it’s installing an update in seconds.</p>
-<p>UpdateScreen is a lightweight, easy-to-use visual simulator designed for presentations, videos, demonstrations, creative content, and harmless pranks.</p>
-<p>With fullscreen mode and a simple local setup, you can create a convincing update-style screen without complicated software or accounts.</p>
-<p> </p>
-<p><strong>What you get:</strong></p>
-<ul>
-<li>Realistic update-style fullscreen display</li>
-<li>Lightweight and easy to use</li>
-<li>Runs locally on your computer</li>
-<li>Great for videos, presentations, and demonstrations</li>
-<li>Perfect for harmless pranks</li>
-<li>Instant digital access</li>
-<li>One-time purchase with no subscription</li>
-</ul>
-<p> </p>
-<p>Get UpdateScreen today and turn any screen into an update-style presentation in seconds.</p>
-<p> </p>
-<p><em>UpdateScreen is a visual simulation tool, not an actual system update, and is not affiliated with or endorsed by Microsoft. Use responsibly and only on computers you own or have permission to use.</em></p>
+**Vendor's marketplace description:** Make any computer screen look like it’s installing an update in seconds. UpdateScreen is a lightweight, easy-to-use visual simulator designed for presentations, videos, demonstrations, creative content, and harmless pranks. With fullscreen mode and a simple local setup, you can create a convincing update-style screen without complicated software or accounts. What you get: Realistic update-style fullscreen display Lightweight and easy to use Runs locally on your computer Great for videos, presentations, and demonstrations Perfect for harmless pranks Instant digital access One-time purchase with no subscription Get UpdateScreen today and turn any screen into an update-style presentation in seconds. UpdateScreen is a visual simulation tool, not an actual system update, and is not affiliated with or endorsed by Microsoft. Use responsibly and only on computers you own or have permission to use.
 
 ## 2. Links
 

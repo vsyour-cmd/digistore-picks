@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This “Prostate-Shrinking Chew Candy” Is Like<br />Nothing You’ve Ever Seen: Top Affs Expect 6 Figures<br />In Less Than A Week</p>
-<ul>
-<li>Unique medical mechanism and formula, backed by strong science</li>
-<li>Converts like crazy on Email, Native, Youtube, and Facebook</li>
-<li>$3+ average EPCs</li>
-</ul>
+**Vendor's marketplace description:** This “Prostate-Shrinking Chew Candy” Is Like Nothing You’ve Ever Seen: Top Affs Expect 6 Figures In Less Than A Week Unique medical mechanism and formula, backed by strong science Converts like crazy on Email, Native, Youtube, and Facebook $3+ average EPCs
 
 ## 2. Links
 

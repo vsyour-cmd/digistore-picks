@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">A practical guide teaching mindfulness techniques to manage stress, improve mental clarity, and support daily wellbeing. Broad appeal across professionals, parents, and students.</p>
-<p style="text-align:justify;"><br /><strong>Commission: 75% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** A practical guide teaching mindfulness techniques to manage stress, improve mental clarity, and support daily wellbeing. Broad appeal across professionals, parents, and students. Commission: 75% | Automatic Approval
 
 ## 2. Links
 

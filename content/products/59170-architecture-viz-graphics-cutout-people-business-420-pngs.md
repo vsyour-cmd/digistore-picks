@@ -41,32 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics: Cutout People - Business</strong></p>
-<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
-<p>420+ AI-generated business people PNG cutouts for office, corporate and workspace architectural renderings.</p>
-<p>Find all information and free sample downloads on the product page: <a href="https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/">https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/</a></p>
-<p><strong>What your audience gets:</strong></p>
-<ul>
-<li>420+ photorealistic office entourage figures with transparent background</li>
-<li>Professionals, meeting groups, commuters — various business poses</li>
-<li>No personality rights concerns — fully AI-generated</li>
-<li>Avg. resolution: H 1,900 x W 1,100 px</li>
-<li>Instant digital download</li>
-<li>60-day money-back guarantee + free sample download available</li>
-</ul>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
-<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
-<li>Free sample download reduces purchase hesitation</li>
-<li>Highly specific niche — ideal for architects designing offices and corporate HQs</li>
-</ul>
-<p><strong>Upsell Opportunity! Also available as bundle:</strong></p>
-<ul>
-<li><a href="https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/#specialdeal" target="_blank" rel="noreferrer noopener">Cutout People Bundle</a> </li>
-<li><a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">MEGA Bundle</a><br /><br /></li>
-</ul>
-<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
+**Vendor's marketplace description:** Architecture VIZ Graphics: Cutout People - Business Professional graphic collections for architectural visualizations by Tonytextures — designed for architects , landscape designers and ArchVIZ studios. 420+ AI-generated business people PNG cutouts for office, corporate and workspace architectural renderings. Find all information and free sample downloads on the product page: https://www.tonytextures.com/cutout-business-people-png-office-entourage-archviz/ What your audience gets: 420+ photorealistic office entourage figures with transparent background Professionals, meeting groups, commuters — various business poses No personality rights concerns — fully AI-generated Avg. resolution: H 1,900 x W 1,100 px Instant digital download 60-day money-back guarantee + free sample download available Why it converts: Clear niche: architects, landscape designers, ArchVIZ studios Established brand: Tonytextures.com – 10+ years serving architects Free sample download reduces purchase hesitation Highly specific niche — ideal for architects designing offices and corporate HQs Upsell Opportunity! Also available as bundle: Cutout People Bundle MEGA Bundle Overview of all Tonytextures products for architectural visualization: https://www.tonytextures.com/shop/
 
 ## 2. Links
 

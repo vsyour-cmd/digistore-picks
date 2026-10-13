@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Healed Soul is a book which serves as a BLUEPRINT on how to SURVIVE and THRIVE in the 21st century.</p>
-<p>I teach people how to create their own “NEW NORMAL”  so that they can start to live their BEST LIFE! I explain WHY the "Law of Attraction '' is not enough and REVEAL the missing link.</p>
-<p>The information is delivered FAST and EFFECTIVE in order for people to get quick results when it comes to MANIFESTING. For the past 35 years I have studied every single MANIFEST, HIDDEN KNOWLEDGE, ANCIENT TEXT, and system to learn how to manifest, and now everyone will have EXCLUSIVE access to all of this SIMPLE yet TRANSFORMATIONAL knowledge.  </p>
-<p>So many people claim they know this and that but it’s been said that “those who cannot do, teach”  There are many FRAUDS out there trying to teach things that they have never even manifested and probably never will.</p>
-<p>In The Healed Soul we will discuss shortcuts and tips and tricks on how to get WHATEVER they want when they want it, by applying a few easy steps and principles.</p>
-<p>Let's get this information out to the WORLD so that they can start to implement these simple steps.</p>
-<p>By promoting this book you are in turn assisting in raising the GLOBAL VIBRATION which is always going to deliver you GOOD KARMA.</p>
-<p>In addition to the book, customers will receive my EXCLUSIVE and PRIVATE video series called "LIVE YOUR BEST LIFE" , and the mp3's to the videos. It's time to UNLEASH the SECRETS to MANIFESTING in record time.</p>
+**Vendor's marketplace description:** The Healed Soul is a book which serves as a BLUEPRINT on how to SURVIVE and THRIVE in the 21st century. I teach people how to create their own “NEW NORMAL” so that they can start to live their BEST LIFE! I explain WHY the "Law of Attraction '' is not enough and REVEAL the missing link. The information is delivered FAST and EFFECTIVE in order for people to get quick results when it comes to MANIFESTING. For the past 35 years I have studied every single MANIFEST, HIDDEN KNOWLEDGE, ANCIENT TEXT, and system to learn how to manifest, and now everyone will have EXCLUSIVE access to all of this SIMPLE yet TRANSFORMATIONAL knowledge. So many people claim they know this and that but it’s been said that “those who cannot do, teach” There are many FRAUDS out there trying to teach things that they have never even manifested and probably never will. In The Healed Soul we will discuss shortcuts and tips and tricks on how to get WHATEVER they want when they want it, by applying a few easy steps and principles. Let's get this information out to the WORLD so that they can start to implement these simple steps. By promoting this book you are in turn assisting in raising the GLOBAL VIBRATION which is always going to deliver you GOOD KARMA. In addition to the book, customers will receive my EXCLUSIVE and PRIVATE video series called "LIVE YOUR BEST LIFE" , and the mp3's to the videos. It's time to UNLEASH the SECRETS to MANIFESTING in record time.
 
 ## 2. Links
 

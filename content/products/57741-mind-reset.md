@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>In this e-book you will learn how to redefine your mind to eliminate self-limiting beliefs and gain greater clarity, focus, and begin to enjoy the rewards of this positive and confident mindset in your professional and personal life...</p>
-<p> </p>
+**Vendor's marketplace description:** In this e-book you will learn how to redefine your mind to eliminate self-limiting beliefs and gain greater clarity, focus, and begin to enjoy the rewards of this positive and confident mindset in your professional and personal life...
 
 ## 2. Links
 

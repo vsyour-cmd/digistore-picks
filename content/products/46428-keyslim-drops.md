@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>KEYSLIM DROPS - NEW "Drip &amp; Drop" Metabolic Support Offer</h3>
-<p>One-of-a-kind wellness offer with multiple intros, fresh new angles &amp; a customized funnel.</p>
+**Vendor's marketplace description:** KEYSLIM DROPS - NEW "Drip & Drop" Metabolic Support Offer One-of-a-kind wellness offer with multiple intros, fresh new angles & a customized funnel.
 
 ## 2. Links
 

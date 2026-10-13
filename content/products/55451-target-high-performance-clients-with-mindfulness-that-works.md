@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Forget the clichés: these ebooks bridge the gap between mindfulness and business efficiency. Our English-language e-books are designed for doers—from self-employed craftsmen to executives.</p>
-<p><strong>Your advantages</strong>: Classic Mindfulness meets Business Performance. </p>
-<p>This intersection is a real niche that needs to be reached! </p>
-<p>Partner with allnikabloom.com - Professional Mindset E-Books for High-Performers - and those who want to become so! </p>
-<p><strong>New high-ticket potential: Mental performance for entrepreneurs</strong></p>
-<p>Are you looking for content for founders and self-employed people who are working at their limits? These “High-Performance E-Books” provide the solution to brain fog and lack of time. With approaches from brain research and efficient ADHD power systems, these products appeal to a target group with high purchasing power who want to maximize their business impact. <strong>Become a partner and benefit from attractive commissions in a growing niche.</strong></p>
-<p><strong>Commission</strong>: 40%</p>
-<p><strong>Target Audience</strong>: Entrepreneurs, Leaders &amp; Self-employed. People who want to find more time and calmness through practical steps that are suitable for everyday life. </p>
-<p><strong>Language</strong>: English</p>
+**Vendor's marketplace description:** Forget the clichés: these ebooks bridge the gap between mindfulness and business efficiency. Our English-language e-books are designed for doers—from self-employed craftsmen to executives. Your advantages : Classic Mindfulness meets Business Performance. This intersection is a real niche that needs to be reached! Partner with allnikabloom.com - Professional Mindset E-Books for High-Performers - and those who want to become so! New high-ticket potential: Mental performance for entrepreneurs Are you looking for content for founders and self-employed people who are working at their limits? These “High-Performance E-Books” provide the solution to brain fog and lack of time. With approaches from brain research and efficient ADHD power systems, these products appeal to a target group with high purchasing power who want to maximize their business impact. Become a partner and benefit from attractive commissions in a growing niche. Commission : 40% Target Audience : Entrepreneurs, Leaders & Self-employed. People who want to find more time and calmness through practical steps that are suitable for everyday life. Language : English
 
 ## 2. Links
 

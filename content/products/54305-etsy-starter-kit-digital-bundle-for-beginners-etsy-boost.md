@@ -41,30 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:center;"><strong> Ready to start your Etsy shop but don’t know where to begin?</strong><br />The <strong>Etsy Success Starter Kit</strong> is your complete beginner-friendly bundle packed with tools, templates, and training to help you launch, design, and grow your shop faster. Perfect for new sellers, side hustlers, or anyone ready to take Etsy seriously.</p>
-<p><strong>What’s Inside the Bundle:</strong></p>
-<p><strong>Etsy Booster Blueprint</strong> – Step-by-step guide to boost visibility &amp; sales</p>
-<p><strong>Canva Crash Course</strong> – Learn to design listings without experience</p>
-<p><strong>128 Etsy Listing Mockups</strong> – Ready-made templates for product images</p>
-<p><strong>Etsy Shop Planner &amp; Checklist</strong> – Stay organized and on track</p>
-<p><strong>Bonus 800 Canva Templates</strong> – Planners, journals, and PLR products</p>
-<p><strong>Bonus 70 Etsy Video Mockup Templates</strong> – Stand out with video listings</p>
-<p><strong> Why You’ll Love It:</strong></p>
-<p><strong>Instant digital download</strong> – start today!</p>
-<p><strong>PLR/MRR rights included</strong> – edit, customize, and resell if you choose</p>
-<p><strong>Beginner-friendly</strong> – no tech experience required</p>
-<p>Saves you time &amp; money while giving your shop a professional look</p>
-<p>Format:</p>
-<p><strong> Digital files (PDF, Canva templates, MP4 mockups)</strong><br /><strong>Delivery:</strong> Instant download – no physical product shipped</p>
-<p><strong>Perfect for:</strong></p>
-<ul>
-<li>New Etsy shop owners</li>
-<li>Side hustlers launching their first store</li>
-<li>Digital product sellers looking for PLR/MRR content</li>
-<li>Creators who want to save time with pre-made templates</li>
-</ul>
-<p>Start your Etsy journey with confidence. Get the Etsy Success Starter Kit today and set your shop up for success!</p>
-<p><em>60-day money-back guarantee, no questions asked</em></p>
+**Vendor's marketplace description:** Ready to start your Etsy shop but don’t know where to begin? The Etsy Success Starter Kit is your complete beginner-friendly bundle packed with tools, templates, and training to help you launch, design, and grow your shop faster. Perfect for new sellers, side hustlers, or anyone ready to take Etsy seriously. What’s Inside the Bundle: Etsy Booster Blueprint – Step-by-step guide to boost visibility & sales Canva Crash Course – Learn to design listings without experience 128 Etsy Listing Mockups – Ready-made templates for product images Etsy Shop Planner & Checklist – Stay organized and on track Bonus 800 Canva Templates – Planners, journals, and PLR products Bonus 70 Etsy Video Mockup Templates – Stand out with video listings Why You’ll Love It: Instant digital download – start today! PLR/MRR rights included – edit, customize, and resell if you choose Beginner-friendly – no tech experience required Saves you time & money while giving your shop a professional look Format: Digital files (PDF, Canva templates, MP4 mockups) Delivery: Instant download – no physical product shipped Perfect for: New Etsy shop owners Side hustlers launching their first store Digital product sellers looking for PLR/MRR content Creators who want to save time with pre-made templates Start your Etsy journey with confidence. Get the Etsy Success Starter Kit today and set your shop up for success! 60-day money-back guarantee, no questions asked
 
 ## 2. Links
 

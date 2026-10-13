@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Are you ready to supercharge your earnings? We’re thrilled to offer you an exclusive <strong>60% commission</strong> for promoting <strong>Advanced Mitochondrial Formula</strong> - a cutting-edge supplement designed to boost energy and cellular health!</p>
-<p><strong>Why promote Advanced Mitochondrial Formula?</strong></p>
-<p><strong>* High conversion rates</strong>: Customers experience noticeable energy boosts!</p>
-<p><strong>* Powerful benefits</strong>: Enhances mitochondrial function, supports energy production, fights fatigue, and promotes overall cellular health.</p>
-<p><strong>* Generous 60% commission</strong> on every sale.</p>
-<p><strong>* All the marketing materials you need</strong>: banners, emails, and product images.</p>
-<p>Ready to start earning? <a href="https://digistore24.advancedbionutritionals.com/advanced-mitochondrial-formula-7" target="_blank" rel="noreferrer noopener"><strong>Visit our affiliate support page</strong></a> to get your affiliate link, graphics, social posts, and email swipes!</p>
+**Vendor's marketplace description:** Are you ready to supercharge your earnings? We’re thrilled to offer you an exclusive 60% commission for promoting Advanced Mitochondrial Formula - a cutting-edge supplement designed to boost energy and cellular health! Why promote Advanced Mitochondrial Formula? * High conversion rates : Customers experience noticeable energy boosts! * Powerful benefits : Enhances mitochondrial function, supports energy production, fights fatigue, and promotes overall cellular health. * Generous 60% commission on every sale. * All the marketing materials you need : banners, emails, and product images. Ready to start earning? Visit our affiliate support page to get your affiliate link, graphics, social posts, and email swipes!
 
 ## 2. Links
 

@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>BookCoverly is desktop software for self-publishers and graphic designers to easily create book covers for printed books, ebooks and audiobooks -</p>
-<p>Much easier and cheaper than Photoshop, BookCoverly is still the leading book cover software for printed (paperback &amp; hardcover) books since 2007.</p>
-<p>Both Mac &amp; Windows compatible.</p>
-<p>This license is for both Personal and Commercial use. Includes over 80 professionally designed book cover templates, ready to edit in just minutes. Graphic designers can start an instant business creating book covers for authors and publishers.</p>
-<p>Start promoting this offer today!</p>
-<p>AFFILIATE PAGE: <a href="https://bookcoverly.com/affiliate-page-digi24/" target="_blank" rel="noreferrer noopener">https://bookcoverly.com/affiliate-page-digi24/</a></p>
+**Vendor's marketplace description:** BookCoverly is desktop software for self-publishers and graphic designers to easily create book covers for printed books, ebooks and audiobooks - Much easier and cheaper than Photoshop, BookCoverly is still the leading book cover software for printed (paperback & hardcover) books since 2007. Both Mac & Windows compatible. This license is for both Personal and Commercial use. Includes over 80 professionally designed book cover templates, ready to edit in just minutes. Graphic designers can start an instant business creating book covers for authors and publishers. Start promoting this offer today! AFFILIATE PAGE: https://bookcoverly.com/affiliate-page-digi24/
 
 ## 2. Links
 

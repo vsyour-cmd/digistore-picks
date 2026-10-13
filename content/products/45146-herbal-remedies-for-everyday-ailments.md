@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Get 100 remedies at your hand with this E-Book-</strong></p>
-<p><strong>Why you should buy this book:</strong></p>
-<ul>
-<li>Herbal remedies are a <strong>safe and effective</strong> way to treat common health problems.</li>
-<li>Herbal remedies are often more <strong>affordable and accessible</strong> than conventional medicines.</li>
-<li>This book <strong>provides recipes and instructions</strong> for creating herbal remedies at home, using simple ingredients that are easy to find.</li>
-<li>This book is a valuable resource for anyone who wants to learn more about the benefits of herbal remedies and <strong>how to use them</strong> to improve their own health and well-being.</li>
-</ul>
-<p><strong>For Affiliates -</strong></p>
-<p>A product with good niche and low price to increase sale. Also, <strong>to make it affordable for public</strong>.</p>
+**Vendor's marketplace description:** Get 100 remedies at your hand with this E-Book- Why you should buy this book: Herbal remedies are a safe and effective way to treat common health problems. Herbal remedies are often more affordable and accessible than conventional medicines. This book provides recipes and instructions for creating herbal remedies at home, using simple ingredients that are easy to find. This book is a valuable resource for anyone who wants to learn more about the benefits of herbal remedies and how to use them to improve their own health and well-being. For Affiliates - A product with good niche and low price to increase sale. Also, to make it affordable for public .
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h3>Promote the #1 Scientific Brainwave<br />Offer for 2026: The Quantum Brainwave Protocol.</h3>
-<p>Earn <strong>75% RevShare</strong> or High-Level <strong>CPA</strong> on a Proven<br />NASA-Based Funnel (7-Minute Daily Ritual).</p>
-<div> </div>
-<div>
-<div>
-<div>
-<div>
-<div> </div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** Promote the #1 Scientific Brainwave Offer for 2026: The Quantum Brainwave Protocol. Earn 75% RevShare or High-Level CPA on a Proven NASA-Based Funnel (7-Minute Daily Ritual).
 
 ## 2. Links
 

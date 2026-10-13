@@ -41,22 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A powerful, natural supplement designed to support healthy blood sugar, blood pressure, and cholesterol levels.</p>
-<p>Backed by real results, many of our customers have made the switch from traditional pharmaceuticals — choosing to stay with Clear Flux long-term because they feel the difference.</p>
-<p> </p>
-<p>We tested Clear Flux against the competitors and we converted better EVERY time.</p>
-<p> </p>
-<p>Earn a 50% revenue share through the entire funnel!</p>
-<p> </p>
-<p>-USA &amp; Canada geo traffic is accepted.</p>
-<p> </p>
-<p>-Email, Native, Google, Meta, Social traffic welcome</p>
-<p> </p>
-<p>-No SMS traffic</p>
-<p> </p>
-<p>-Branded &amp; Non-branded keyword search is fine</p>
-<p> </p>
-<p>We're looking for a handful of strong affiliates to work with and will make our offer exclusive to the top couple affiliates who show they can scale the hardest. This is your chance to lock in a sweet deal and block out the competition.</p>
+**Vendor's marketplace description:** A powerful, natural supplement designed to support healthy blood sugar, blood pressure, and cholesterol levels. Backed by real results, many of our customers have made the switch from traditional pharmaceuticals — choosing to stay with Clear Flux long-term because they feel the difference. We tested Clear Flux against the competitors and we converted better EVERY time. Earn a 50% revenue share through the entire funnel! -USA & Canada geo traffic is accepted. -Email, Native, Google, Meta, Social traffic welcome -No SMS traffic -Branded & Non-branded keyword search is fine We're looking for a handful of strong affiliates to work with and will make our offer exclusive to the top couple affiliates who show they can scale the hardest. This is your chance to lock in a sweet deal and block out the competition.
 
 ## 2. Links
 

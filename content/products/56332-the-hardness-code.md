@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The Hardness Code</strong> is a premium international digital offer in the men’s pelvic health and wellness market, focused on education, functional improvement, and long-term customer value. Operating mainly in the United States, Canada, United Kingdom, Australia, and New Zealand, we provide affiliates with 70% commission per sale, high-converting VSLs, validated creatives, pre-sell pages, TSLs, upsell and downsell offers, cart recovery, and strategic support.</p>
-<p>Our structure is built for serious affiliates who want to scale with compliance, strong branding, and real support. We allow traffic through Google Ads, Meta Ads, Native Ads, Email Marketing, and funnel strategies that follow platform policies.</p>
-<p>More than just an ebook, The Hardness Code is a complete educational system designed for sustainable growth, stronger conversions, and higher profits.</p>
+**Vendor's marketplace description:** The Hardness Code is a premium international digital offer in the men’s pelvic health and wellness market, focused on education, functional improvement, and long-term customer value. Operating mainly in the United States, Canada, United Kingdom, Australia, and New Zealand, we provide affiliates with 70% commission per sale, high-converting VSLs, validated creatives, pre-sell pages, TSLs, upsell and downsell offers, cart recovery, and strategic support. Our structure is built for serious affiliates who want to scale with compliance, strong branding, and real support. We allow traffic through Google Ads, Meta Ads, Native Ads, Email Marketing, and funnel strategies that follow platform policies. More than just an ebook, The Hardness Code is a complete educational system designed for sustainable growth, stronger conversions, and higher profits.
 
 ## 2. Links
 

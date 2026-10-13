@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Updated for 2025! 200+ Delicious Vegan Recipes + 30-Day Meal Plan &amp; Bonuses! <br />LIMITED-TIME 80% COMMISSION! Earn $60+ per sale with high-converting upsells! <br />LOW Refund Rate &amp; HIGH Conversions!</p>
-<p>Interests &amp; Keywords: Plant-based cooking, plant-based recipes, cruelty-free meals, healthy desserts, vegan lifestyle, delicious and ethical cooking, homemade vegan sweets, compassionate living.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Updated for 2025! 200+ Delicious Vegan Recipes + 30-Day Meal Plan & Bonuses! LIMITED-TIME 80% COMMISSION! Earn $60+ per sale with high-converting upsells! LOW Refund Rate & HIGH Conversions! Interests & Keywords: Plant-based cooking, plant-based recipes, cruelty-free meals, healthy desserts, vegan lifestyle, delicious and ethical cooking, homemade vegan sweets, compassionate living.
 
 ## 2. Links
 

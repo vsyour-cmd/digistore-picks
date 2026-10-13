@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Goliath XL 10</strong> is the most effective, 100% natural formula that will help you add those desired inches, without the use of pumps, creams or other shady solutions. Get Up To<strong> </strong><strong>85% Comision</strong> Per Sale</p>
+**Vendor's marketplace description:** Goliath XL 10 is the most effective, 100% natural formula that will help you add those desired inches, without the use of pumps, creams or other shady solutions. Get Up To 85% Comision Per Sale
 
 ## 2. Links
 

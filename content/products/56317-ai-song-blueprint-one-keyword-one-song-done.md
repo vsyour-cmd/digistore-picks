@@ -41,17 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>45% Commission | Digital Blueprint | Instant Download</strong></p>
-<p>Most people dream of creating music but feel overwhelmed by complex software, music theory, and expensive studios. The <em>AI Song Blueprint</em> shows anyone how to go from a single keyword to a fully produced song – no prior music experience needed.</p>
-<p><strong>What Affiliates Are Promoting:</strong></p>
-<ul>
-<li>Step-by-step system using AI tools (Suno, Udio &amp; more) to create real songs</li>
-<li>Works for complete beginners – no music theory or instruments required</li>
-<li>Instantly actionable prompts and keyword strategies for unique results</li>
-<li>45% commission on every sale</li>
-</ul>
-<p><strong>Target Audience:</strong> Aspiring musicians, content creators, and AI enthusiasts between 20 and 50 who want to create original music effortlessly.</p>
-<p>High-converting sales page with embedded promo code already in place.</p>
+**Vendor's marketplace description:** 45% Commission | Digital Blueprint | Instant Download Most people dream of creating music but feel overwhelmed by complex software, music theory, and expensive studios. The AI Song Blueprint shows anyone how to go from a single keyword to a fully produced song – no prior music experience needed. What Affiliates Are Promoting: Step-by-step system using AI tools (Suno, Udio & more) to create real songs Works for complete beginners – no music theory or instruments required Instantly actionable prompts and keyword strategies for unique results 45% commission on every sale Target Audience: Aspiring musicians, content creators, and AI enthusiasts between 20 and 50 who want to create original music effortlessly. High-converting sales page with embedded promo code already in place.
 
 ## 2. Links
 

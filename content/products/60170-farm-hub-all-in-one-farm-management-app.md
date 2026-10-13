@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Keep livestock, barns and facilities, feed, pastures, equipment, farm finances, and daily chores organized in one place. Berry OS Farm Hub helps farmers plan their work, track farm progress, and manage daily farm tasks. The digital hub includes farm management tools and 12 farm printables.</p>
+**Vendor's marketplace description:** Keep livestock, barns and facilities, feed, pastures, equipment, farm finances, and daily chores organized in one place. Berry OS Farm Hub helps farmers plan their work, track farm progress, and manage daily farm tasks. The digital hub includes farm management tools and 12 farm printables.
 
 ## 2. Links
 

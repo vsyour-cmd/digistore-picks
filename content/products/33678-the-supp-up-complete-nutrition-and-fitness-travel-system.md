@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Complete, no-fluff nutrition and fitness system for travelers, operators, and executives. Field-tested protocols across 5 field guides + 2 free bonuses. Instant download. Customers using since 2017, now available for affiliate distribution.</p>
-<p>Full affiliate resources provided and updated regularly. Affiliate tools: https://supp-up.blog/affiliate-resources-ds24/</p>
+**Vendor's marketplace description:** Complete, no-fluff nutrition and fitness system for travelers, operators, and executives. Field-tested protocols across 5 field guides + 2 free bonuses. Instant download. Customers using since 2017, now available for affiliate distribution. Full affiliate resources provided and updated regularly. Affiliate tools: https://supp-up.blog/affiliate-resources-ds24/
 
 ## 2. Links
 

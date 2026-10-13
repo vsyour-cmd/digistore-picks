@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Get your links and start promoting this </strong><strong>AMAZING OFFER</strong></h2>
+**Vendor's marketplace description:** Get your links and start promoting this AMAZING OFFER
 
 ## 2. Links
 

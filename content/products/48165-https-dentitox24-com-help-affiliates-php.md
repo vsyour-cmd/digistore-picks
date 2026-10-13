@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Teeth &amp; Gum Detox Formula, Powerful Pitch, Multiple Intros, 100% Doctor Formulated. Top Affs Are Scoring Up To $4 EPC. Limited Slots. Contact Us To Get Whitelisted</p>
+**Vendor's marketplace description:** Teeth & Gum Detox Formula, Powerful Pitch, Multiple Intros, 100% Doctor Formulated. Top Affs Are Scoring Up To $4 EPC. Limited Slots. Contact Us To Get Whitelisted
 
 ## 2. Links
 

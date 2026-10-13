@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>EARN 50% COMMISSION PROMOTING A PROGRAMME WOMEN 45+ GENUINELY NEED.</p>
-<p>Métabo-Cycle 45 is a 45-day structured nutrition programme based on Carbohydrate Rotation — designed specifically for active women aged 45+.</p>
-<p>PRODUCT DETAILS</p>
-<p>→ Format: 5 PDF documents delivered by email + 4 interactive online bonus apps<br />→ Method: Carbohydrate Rotation (Low / Moderate / High phases)<br />→ Price: $197 USD — one-time payment<br />→ Markets approved: USA · UK · Ireland · Germany<br />→ Created by Beatrix Povazson, Nutritherapist &amp; Bromatologist</p>
-<p>WHY PROMOTE THIS PROGRAMME</p>
-<p>→ Underserved niche: women 45+ with high purchase intent<br />→ Named, differentiating method (not keto, not fasting, not low-carb)<br />→ Polished sales tunnel already validated by Digistore24<br />→ Complete affiliate kit available: 5 emails, social media scripts, customer avatar, SEO keywords, visual brief, FAQ<br />→ Compliant vocabulary (no medical promises, no flagged terms)<br />→ 60-day money-back guarantee through Digistore24<br />→ Direct vendor contact: Beatrix responds personally within 48 hours</p>
-<p>YOUR AFFILIATE RESOURCES</p>
-<p>Download the complete affiliate kit and get all promotional materials:</p>
+**Vendor's marketplace description:** EARN 50% COMMISSION PROMOTING A PROGRAMME WOMEN 45+ GENUINELY NEED. Métabo-Cycle 45 is a 45-day structured nutrition programme based on Carbohydrate Rotation — designed specifically for active women aged 45+. PRODUCT DETAILS → Format: 5 PDF documents delivered by email + 4 interactive online bonus apps → Method: Carbohydrate Rotation (Low / Moderate / High phases) → Price: $197 USD — one-time payment → Markets approved: USA · UK · Ireland · Germany → Created by Beatrix Povazson, Nutritherapist & Bromatologist WHY PROMOTE THIS PROGRAMME → Underserved niche: women 45+ with high purchase intent → Named, differentiating method (not keto, not fasting, not low-carb) → Polished sales tunnel already validated by Digistore24 → Complete affiliate kit available: 5 emails, social media scripts, customer avatar, SEO keywords, visual brief, FAQ → Compliant vocabulary (no medical promises, no flagged terms) → 60-day money-back guarantee through Digistore24 → Direct vendor contact: Beatrix responds personally within 48 hours YOUR AFFILIATE RESOURCES Download the complete affiliate kit and get all promotional materials:
 
 ## 2. Links
 

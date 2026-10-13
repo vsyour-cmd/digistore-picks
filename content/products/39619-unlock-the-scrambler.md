@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>You will get 20% on the front end offer and 50% on all upsells</strong> and rebills of a proven funnel that has been generating over 7-figures in sales on cold traffic over the past year.  </p>
-<p><strong><span style="color:#ff0000;">Important.</span> </strong>NO "branded keywords" allowed.  Any affiliates bidding on any terms in google or bing like "unlock the scrambler" "bobby rio" or variations of that, will be deactivated.</p>
-<p>The product targets the hot button niche of men looking to rekindle things with a woman who is slipping away, and the conversions are sky high across all traffic types.</p>
+**Vendor's marketplace description:** You will get 20% on the front end offer and 50% on all upsells and rebills of a proven funnel that has been generating over 7-figures in sales on cold traffic over the past year. Important. NO "branded keywords" allowed. Any affiliates bidding on any terms in google or bing like "unlock the scrambler" "bobby rio" or variations of that, will be deactivated. The product targets the hot button niche of men looking to rekindle things with a woman who is slipping away, and the conversions are sky high across all traffic types.
 
 ## 2. Links
 

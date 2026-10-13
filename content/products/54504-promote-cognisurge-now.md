@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>A Massive $300+ Average Order Value!</strong></h2>
-<h3><strong>Digistore24's Premium Brain Health Supplement!</strong></h3>
-<p><strong>$2+ EPCs and up to 3% conversions from top affiliates! $300 AOV!</strong></p>
-<p>Unique custom formulation creates REAL results with super LOW refunds!</p>
-<p><strong>Convert your clicks to CASH now! Irresistible hook and story creates $$$!</strong></p>
+**Vendor's marketplace description:** A Massive $300+ Average Order Value! Digistore24's Premium Brain Health Supplement! $2+ EPCs and up to 3% conversions from top affiliates! $300 AOV! Unique custom formulation creates REAL results with super LOW refunds! Convert your clicks to CASH now! Irresistible hook and story creates $$$!
 
 ## 2. Links
 

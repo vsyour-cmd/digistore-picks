@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>Medicinal Mushrooms Are Exploding. Longevity Is the #1 Health Obsession. RhythmONE Is the First Digistore Offer to Combine Both, and the Market Is Wide Open.<br /><br /></div>
-<ul>
-<li>BUILT TO CONVERT: VSL and upsell funnel engineered by a direct response veteran with tens of millions in sales.</li>
-<li>HIGH AOV: $300+ average order value with a stacked upsell funnel built to maximize every click.</li>
-<li>LOW REFUNDS: Real customer testimonials coming in daily and one of the lowest refund rates in the category.</li>
-<li>TRENDING MARKET: Medicinal mushrooms and longevity are two of the fastest-growing trends in health. RhythmONE is the only offer on Digistore that combines both. Come ride the wave.</li>
-</ul>
+**Vendor's marketplace description:** Medicinal Mushrooms Are Exploding. Longevity Is the #1 Health Obsession. RhythmONE Is the First Digistore Offer to Combine Both, and the Market Is Wide Open. BUILT TO CONVERT: VSL and upsell funnel engineered by a direct response veteran with tens of millions in sales. HIGH AOV: $300+ average order value with a stacked upsell funnel built to maximize every click. LOW REFUNDS: Real customer testimonials coming in daily and one of the lowest refund rates in the category. TRENDING MARKET: Medicinal mushrooms and longevity are two of the fastest-growing trends in health. RhythmONE is the only offer on Digistore that combines both. Come ride the wave.
 
 ## 2. Links
 

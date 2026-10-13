@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Top Converting Product. </p>
-<p>Top Biz Op, Personal Developement, IM, MMO... Make up to $300+ sale. </p>
-<p>Backed by real results, real testimonies, and has generated over $1.1 million in sales in 2021. </p>
-<p><a href="https://affiliate-one.com/digi-jv-page" target="_blank" rel="noreferrer noopener">https://affiliate-one.com/digi-jv-page</a></p>
-<p>50% commissions funnel wide!!!</p>
-<p>Over 50% conversions on full funnel. </p>
-<p>Over 3000+ customers proven. </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Top Converting Product. Top Biz Op, Personal Developement, IM, MMO... Make up to $300+ sale. Backed by real results, real testimonies, and has generated over $1.1 million in sales in 2021. https://affiliate-one.com/digi-jv-page 50% commissions funnel wide!!! Over 50% conversions on full funnel. Over 3000+ customers proven.
 
 ## 2. Links
 

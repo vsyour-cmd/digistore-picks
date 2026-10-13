@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote The Ultimate Digital Marketing Bundle &amp; Earn BIG!</strong> </p>
-<p>-<strong>High-Demand Niche</strong> – Instagram growth &amp; digital marketing!<br />-<strong>PLR &amp; MRR Resale Rights</strong> – Buyers can <strong>rebrand &amp; resell</strong> for <strong>100% profit</strong>!<br />-<strong>Beginner-Friendly &amp; High-Value</strong> – Covers <strong>growth + monetization</strong> strategies!<br />-<strong>Optimized for Conversions</strong> – <strong>Instant access</strong> + actionable steps = easy sales!</p>
-<h3><strong>What’s Inside?</strong></h3>
-<p><strong>Instagram Growth Blueprint (3-Hour Course)</strong> – Master <strong>Reels, Stories, Hashtags &amp; Engagement</strong><br /><strong>Pathway to Profits (2.5-Hour Course)</strong> – <strong>Sell on Instagram, Email Marketing, Digital Products &amp; More</strong></p>
-<h3><strong>Who Needs This?</strong></h3>
-<p><strong>Digital marketers, coaches, influencers &amp; side hustlers</strong> looking to <strong>grow &amp; monetize Instagram</strong>!</p>
-<p><strong>Easy to Promote via Instagram, TikTok, Facebook, Email &amp; YouTube</strong></p>
-<p><strong>Get High Commissions! Start Promoting Now!</strong></p>
+**Vendor's marketplace description:** Promote The Ultimate Digital Marketing Bundle & Earn BIG! - High-Demand Niche – Instagram growth & digital marketing! - PLR & MRR Resale Rights – Buyers can rebrand & resell for 100% profit ! - Beginner-Friendly & High-Value – Covers growth + monetization strategies! - Optimized for Conversions – Instant access + actionable steps = easy sales! What’s Inside? Instagram Growth Blueprint (3-Hour Course) – Master Reels, Stories, Hashtags & Engagement Pathway to Profits (2.5-Hour Course) – Sell on Instagram, Email Marketing, Digital Products & More Who Needs This? Digital marketers, coaches, influencers & side hustlers looking to grow & monetize Instagram ! Easy to Promote via Instagram, TikTok, Facebook, Email & YouTube Get High Commissions! Start Promoting Now!
 
 ## 2. Links
 

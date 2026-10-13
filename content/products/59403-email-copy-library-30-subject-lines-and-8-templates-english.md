@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Email Copy Library – 30 Subject Lines and 8 Email Templates</h2>
-<p>English edition. Write a message that matches the actual occasion. This copy library combines 30 subject lines with matching preview text and calls to action, plus eight complete messages for updates, practical tips, support replies, feedback, add-ons, launch notices and corrections.</p>
-<h3>What you receive</h3>
-<ul>
-<li>A 19-page PDF guide.</li>
-<li>An editable DOCX and a Markdown edition.</li>
-<li>Two CSV indexes and START-HERE instructions.</li>
-</ul>
-<p>Examples use a fictional planner business and can be adapted to your own real product. An optional companion to the Email Marketing Workflow course; usable independently with an existing permission-based email process. The core course and its five-message sequence are not included.</p>
-<p>Requires a PDF reader and compatible software to edit DOCX/CSV. No email platform licence, automation setup, coaching or sending service is included. No guaranteed open, click or sales rate. Check permission, facts and links before sending.</p>
-<p>Support: info@einfachhaltbar.de</p>
-<h3>For affiliates</h3>
-<p>50% affiliate commission. English promotional copy and the full Matze cover are available in the linked affiliate kit. Suitable for creators and small businesses looking for adaptable email examples. Please disclose affiliate relationships and do not promise sales or open rates.</p>
+**Vendor's marketplace description:** Email Copy Library – 30 Subject Lines and 8 Email Templates English edition. Write a message that matches the actual occasion. This copy library combines 30 subject lines with matching preview text and calls to action, plus eight complete messages for updates, practical tips, support replies, feedback, add-ons, launch notices and corrections. What you receive A 19-page PDF guide. An editable DOCX and a Markdown edition. Two CSV indexes and START-HERE instructions. Examples use a fictional planner business and can be adapted to your own real product. An optional companion to the Email Marketing Workflow course; usable independently with an existing permission-based email process. The core course and its five-message sequence are not included. Requires a PDF reader and compatible software to edit DOCX/CSV. No email platform licence, automation setup, coaching or sending service is included. No guaranteed open, click or sales rate. Check permission, facts and links before sending. Support: info@einfachhaltbar.de For affiliates 50% affiliate commission. English promotional copy and the full Matze cover are available in the linked affiliate kit. Suitable for creators and small businesses looking for adaptable email examples. Please disclose affiliate relationships and do not promise sales or open rates.
 
 ## 2. Links
 

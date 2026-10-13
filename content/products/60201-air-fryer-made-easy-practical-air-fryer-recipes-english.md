@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Air Fryer Made Easy — English edition.</strong> A PDF e-book with 100 practical air fryer recipes in six categories, plus five PDF bonuses.</p>
-<p><strong>Audience:</strong> home cooks looking for more ideas for their air fryer. Digital product; no physical shipment.</p>
-<p><strong>Offer:</strong> US$19.90, one-time payment. Standard affiliate commission: 40 %. Product 740280. Use the affiliate link for this edition to send buyers to the English sales page and checkout.</p>
-<p><strong>Promotion:</strong> describe the actual contents; avoid health or income promises and unauthorized discounts. Clearly disclose affiliate links as required for your channel.</p>
-<p><strong>Customer and affiliate support:</strong> <a href="mailto:ClickApps.ai@gmail.com">ClickApps.ai@gmail.com</a>. Contact us for help or promotional materials for this edition.</p>
+**Vendor's marketplace description:** Air Fryer Made Easy — English edition. A PDF e-book with 100 practical air fryer recipes in six categories, plus five PDF bonuses. Audience: home cooks looking for more ideas for their air fryer. Digital product; no physical shipment. Offer: US$19.90, one-time payment. Standard affiliate commission: 40 %. Product 740280. Use the affiliate link for this edition to send buyers to the English sales page and checkout. Promotion: describe the actual contents; avoid health or income promises and unauthorized discounts. Clearly disclose affiliate links as required for your channel. Customer and affiliate support: ClickApps.ai@gmail.com . Contact us for help or promotional materials for this edition.
 
 ## 2. Links
 

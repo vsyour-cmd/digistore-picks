@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote Portuguese Guide Deluxe — a practical, high-converting phrasebook for anyone traveling to or working in a Portuguese-speaking country.</p>
-<p> </p>
-<p>What makes this easy to sell: Portuguese is spoken by over 260 million people worldwide, spanning Portugal, Brazil, and beyond — giving this guide a large, often underserved audience compared to more commonly taught languages. Over 500 ready-to-use phrases, simplified pronunciation, and real-life dialogues make this feel immediately useful rather than academic.</p>
-<p> </p>
-<p>Target audience: Travelers planning a trip to Portugal or Brazil; people relocating for work or study; expats and digital nomads; anyone with an upcoming trip who wants to avoid the "I wish I'd learned some phrases" regret. Great for travel bloggers, expat community pages, relocation and immigration content creators, and general language-learning audiences.</p>
-<p> </p>
-<p>Key selling points to highlight:</p>
-<p>- No grammar textbook — just ready-to-use phrases for real situations</p>
-<p>- Covers travel, work, dating, emergencies, shopping, and more in one guide</p>
-<p>- Simplified pronunciation makes it accessible even with zero Portuguese experience</p>
-<p>- Instant digital delivery — no shipping, no waiting</p>
-<p>- Pairs naturally with the other Language Guides (German, French, Spanish) or the full 54-Guide Bundle for a higher-value upsell</p>
-<p> </p>
-<p>This product works well in travel-focused email lists, expat and relocation content, and as a natural upsell alongside broader self-improvement or lifestyle bundles.</p>
+**Vendor's marketplace description:** Promote Portuguese Guide Deluxe — a practical, high-converting phrasebook for anyone traveling to or working in a Portuguese-speaking country. What makes this easy to sell: Portuguese is spoken by over 260 million people worldwide, spanning Portugal, Brazil, and beyond — giving this guide a large, often underserved audience compared to more commonly taught languages. Over 500 ready-to-use phrases, simplified pronunciation, and real-life dialogues make this feel immediately useful rather than academic. Target audience: Travelers planning a trip to Portugal or Brazil; people relocating for work or study; expats and digital nomads; anyone with an upcoming trip who wants to avoid the "I wish I'd learned some phrases" regret. Great for travel bloggers, expat community pages, relocation and immigration content creators, and general language-learning audiences. Key selling points to highlight: - No grammar textbook — just ready-to-use phrases for real situations - Covers travel, work, dating, emergencies, shopping, and more in one guide - Simplified pronunciation makes it accessible even with zero Portuguese experience - Instant digital delivery — no shipping, no waiting - Pairs naturally with the other Language Guides (German, French, Spanish) or the full 54-Guide Bundle for a higher-value upsell This product works well in travel-focused email lists, expat and relocation content, and as a natural upsell alongside broader self-improvement or lifestyle bundles.
 
 ## 2. Links
 

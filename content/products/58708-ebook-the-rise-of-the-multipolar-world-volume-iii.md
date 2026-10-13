@@ -41,26 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><em>The Rise of the Multipolar World – Volume III</em> examines how Russia remains a major geopolitical actor despite economic, demographic, and technological constraints.</p>
-<p>What sets this book apart is its focus on <strong>asymmetric power</strong>. It shows how nuclear deterrence, military capability, strategic resources, geography, state capacity, and international relationships can compensate for weaknesses in other areas.</p>
-<p>Readers gain a differentiated understanding of Russia’s strategic resilience, its relationships with China, India, and the Global South, and the limits of its strategic autonomy.</p>
-<p>For affiliates, this creates a distinctive product for audiences interested in Russia, geopolitics, military strategy, sanctions, great-power competition, and the emerging multipolar world.</p>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+**Vendor's marketplace description:** The Rise of the Multipolar World – Volume III examines how Russia remains a major geopolitical actor despite economic, demographic, and technological constraints. What sets this book apart is its focus on asymmetric power . It shows how nuclear deterrence, military capability, strategic resources, geography, state capacity, and international relationships can compensate for weaknesses in other areas. Readers gain a differentiated understanding of Russia’s strategic resilience, its relationships with China, India, and the Global South, and the limits of its strategic autonomy. For affiliates, this creates a distinctive product for audiences interested in Russia, geopolitics, military strategy, sanctions, great-power competition, and the emerging multipolar world.
 
 ## 2. Links
 

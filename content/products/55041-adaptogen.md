@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>You'll get 80% commission on the entire funnel, on top of A-level customer support. </p>
+**Vendor's marketplace description:** You'll get 80% commission on the entire funnel, on top of A-level customer support.
 
 ## 2. Links
 

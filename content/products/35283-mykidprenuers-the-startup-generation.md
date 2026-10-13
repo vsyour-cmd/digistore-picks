@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Financial Literacy for Kids Toolkit is a comprehensive resource designed to empower young minds with essential money management skills. It includes:</p>
-<ol>
-<li>
-<p><strong>"MyKidpreneurs" eBook:</strong> An engaging and informative eBook tailored for children, teaching them the fundamentals of entrepreneurship, financial responsibility, and creative thinking.</p>
-</li>
-<li>
-<p><strong>Bonus Teaching MP4:</strong> A multimedia resource offering dynamic visual content to enhance the learning experience. These MP4 files supplement the eBook, providing interactive lessons and real-life examples to reinforce financial concepts.</p>
-</li>
-<li>
-<p><strong>Teaching Financial Literacy and Creativity Course:</strong> A structured course designed to educate both kids and educators. It covers a wide range of topics, including budgeting, saving, investing, and fostering creativity. This course equips children with practical skills while nurturing their creative thinking abilities.</p>
-</li>
-</ol>
-<p>Together, these components form a powerful toolkit that not only imparts financial knowledge but also encourages innovative thinking, setting a strong foundation for a financially literate and creative future generation.</p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** The Financial Literacy for Kids Toolkit is a comprehensive resource designed to empower young minds with essential money management skills. It includes: "MyKidpreneurs" eBook: An engaging and informative eBook tailored for children, teaching them the fundamentals of entrepreneurship, financial responsibility, and creative thinking. Bonus Teaching MP4: A multimedia resource offering dynamic visual content to enhance the learning experience. These MP4 files supplement the eBook, providing interactive lessons and real-life examples to reinforce financial concepts. Teaching Financial Literacy and Creativity Course: A structured course designed to educate both kids and educators. It covers a wide range of topics, including budgeting, saving, investing, and fostering creativity. This course equips children with practical skills while nurturing their creative thinking abilities. Together, these components form a powerful toolkit that not only imparts financial knowledge but also encourages innovative thinking, setting a strong foundation for a financially literate and creative future generation.
 
 ## 2. Links
 

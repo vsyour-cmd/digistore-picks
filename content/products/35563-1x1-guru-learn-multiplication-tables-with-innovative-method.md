@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Learning multiplication tables with innovative learning technology. Through mental visualization, children can learn the multiplication tables autonomously, easily and with a lot of fun.</p>
-<p>It is a unique and innovative learning method that is a revolution for the tedious learning of multiplications. Mathematics and especially the 1x1 becomes a simple game, which gives the child great self-confidence.</p>
-<p>In addition, the child learns very quickly mental arithmetic.</p>
-<p>This course has dream conversion rates and sells very well to parents and teaching persons.</p>
+**Vendor's marketplace description:** Learning multiplication tables with innovative learning technology. Through mental visualization, children can learn the multiplication tables autonomously, easily and with a lot of fun. It is a unique and innovative learning method that is a revolution for the tedious learning of multiplications. Mathematics and especially the 1x1 becomes a simple game, which gives the child great self-confidence. In addition, the child learns very quickly mental arithmetic. This course has dream conversion rates and sells very well to parents and teaching persons.
 
 ## 2. Links
 

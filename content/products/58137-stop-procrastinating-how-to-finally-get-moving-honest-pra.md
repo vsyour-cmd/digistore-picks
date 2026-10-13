@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An honest, practical guide against procrastination – with over 20 real exercises you can try right away. Ideal for audiences in productivity, self-organization, and mental health.</p>
-<p> </p>
-<p>23 chapters, no guilt trips, just real, everyday strategies. 50% commission per sale.</p>
+**Vendor's marketplace description:** An honest, practical guide against procrastination – with over 20 real exercises you can try right away. Ideal for audiences in productivity, self-organization, and mental health. 23 chapters, no guilt trips, just real, everyday strategies. 50% commission per sale.
 
 ## 2. Links
 

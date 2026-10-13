@@ -41,22 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2> </h2>
-<p>A calm, practical digital guide designed to help users understand and gently manage overthinking patterns.</p>
-<p>This product focuses on:</p>
-<ul>
-<li>Identifying common thought loops</li>
-<li>Understanding why overthinking happens</li>
-<li>Learning simple, non-overwhelming ways to create mental clarity</li>
-</ul>
-<p>Suitable for audiences experiencing mental overload, decision fatigue, or constant internal analysis.</p>
-<p><strong>Delivery includes:</strong></p>
-<ul>
-<li>Full PDF guide</li>
-<li>Visual infographics (PNGs) for easy understanding</li>
-<li>Audio version for flexible listening</li>
-</ul>
-<p>Delivered as a downloadable digital product. No prior knowledge required.</p>
+**Vendor's marketplace description:** A calm, practical digital guide designed to help users understand and gently manage overthinking patterns. This product focuses on: Identifying common thought loops Understanding why overthinking happens Learning simple, non-overwhelming ways to create mental clarity Suitable for audiences experiencing mental overload, decision fatigue, or constant internal analysis. Delivery includes: Full PDF guide Visual infographics (PNGs) for easy understanding Audio version for flexible listening Delivered as a downloadable digital product. No prior knowledge required.
 
 ## 2. Links
 

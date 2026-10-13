@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>WHEN DO NATURAL RESOURCES BECOME STRATEGIC POWER?</strong></p>
-<p><em>The New Architecture of Global Power – Volume III: The Architecture of Resource Power</em> examines how energy, critical materials, and essential resources shape economic and geopolitical power.</p>
-<p>What sets this book apart is its focus on <strong>power conversion</strong>. Resource ownership alone does not create power—processing capacity, technology, infrastructure, dependencies, alternatives, and strategic resilience determine its real significance.</p>
-<p>Readers explore hydrocarbons, critical minerals, rare earths, uranium, food, water, processing bottlenecks, and the changing dependencies created by the energy transition.</p>
-<p>For affiliates, it targets audiences interested in <strong>energy security, critical minerals, resources, supply dependencies, geopolitics, and strategic competition</strong>.</p>
+**Vendor's marketplace description:** WHEN DO NATURAL RESOURCES BECOME STRATEGIC POWER? The New Architecture of Global Power – Volume III: The Architecture of Resource Power examines how energy, critical materials, and essential resources shape economic and geopolitical power. What sets this book apart is its focus on power conversion . Resource ownership alone does not create power—processing capacity, technology, infrastructure, dependencies, alternatives, and strategic resilience determine its real significance. Readers explore hydrocarbons, critical minerals, rare earths, uranium, food, water, processing bottlenecks, and the changing dependencies created by the energy transition. For affiliates, it targets audiences interested in energy security, critical minerals, resources, supply dependencies, geopolitics, and strategic competition .
 
 ## 2. Links
 

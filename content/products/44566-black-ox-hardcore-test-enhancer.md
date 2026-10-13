@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Experience Black Ox, the tried-and-true testosterone booster designed to target the most effective natural pathways, improving a wide range of men's health aspects from libido and performance to muscle building and beyond. <br /><br />Hundreds, if not thousands, of today's top bodybuilders and industry elites rely on Black Ox as their primary testosterone-boosting supplement for peak vitality and strength.</p>
+**Vendor's marketplace description:** Experience Black Ox, the tried-and-true testosterone booster designed to target the most effective natural pathways, improving a wide range of men's health aspects from libido and performance to muscle building and beyond. Hundreds, if not thousands, of today's top bodybuilders and industry elites rely on Black Ox as their primary testosterone-boosting supplement for peak vitality and strength.
 
 ## 2. Links
 

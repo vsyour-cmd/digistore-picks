@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>PROMOTE JOINT ETERNAL NOW<br />GET 75% PER SALE!<br />AND EARN UP TO $250+ AVERAGE ORDER VALUE!</p>
-<p>Works great on email traffic... no branded search allowed</p>
+**Vendor's marketplace description:** PROMOTE JOINT ETERNAL NOW GET 75% PER SALE! AND EARN UP TO $250+ AVERAGE ORDER VALUE! Works great on email traffic... no branded search allowed
 
 ## 2. Links
 

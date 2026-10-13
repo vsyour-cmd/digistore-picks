@@ -41,46 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This program offers a no-nonsense, step-by-step approach to transforming heartbreak into personal empowerment.</p>
-<h2>Target Audience</h2>
-<ul>
-<li>Women recently experiencing breakups or relationship disappointments</li>
-<li>Those struggling with post-breakup confidence and self-worth</li>
-<li>Women looking to rebuild their identity after a relationship</li>
-<li>Anyone seeking emotional resilience and personal transformation</li>
-</ul>
-<h2>Key Selling Points</h2>
-<ul>
-<li>Complete 7-day transformation program requiring just 15 minutes per day</li>
-<li>Proven system that has helped over 12,000 women</li>
-<li>Includes 5 valuable bonus guides (total bonus value: $184)</li>
-<li>Psychological strategies specifically designed for post-breakup psychology</li>
-<li>Written by someone who personally transformed after a devastating breakup</li>
-<li>Immediate digital delivery - customers can start their transformation today</li>
-</ul>
-<h2>Commission Structure</h2>
-<ul>
-<li>Cookie duration: 60 days</li>
-<li>Average conversion rate: 3.7%</li>
-<li>Top affiliates earning $3,500+ monthly promoting this product</li>
-</ul>
-<h2>Promotional Resources Available</h2>
-<ul>
-<li>High-converting email swipes</li>
-<li>Social media templates and captions</li>
-<li>Proven TikTok video concepts</li>
-<li>Banner ads in multiple sizes</li>
-<li>Product images and mockups</li>
-<li>Testimonial graphics from real customers</li>
-</ul>
-<h2>Conversion Highlights</h2>
-<ul>
-<li>Low-priced entry point ($14) for easy customer acquisition</li>
-<li>Professionally designed sales page with 4.5% conversion rate</li>
-<li>Perfectly positioned upsells to maximize your earnings</li>
-<li>60-day money-back guarantee reducing purchase resistance</li>
-<li>Instant delivery system for immediate customer satisfaction</li>
-</ul>
+**Vendor's marketplace description:** This program offers a no-nonsense, step-by-step approach to transforming heartbreak into personal empowerment. Target Audience Women recently experiencing breakups or relationship disappointments Those struggling with post-breakup confidence and self-worth Women looking to rebuild their identity after a relationship Anyone seeking emotional resilience and personal transformation Key Selling Points Complete 7-day transformation program requiring just 15 minutes per day Proven system that has helped over 12,000 women Includes 5 valuable bonus guides (total bonus value: $184) Psychological strategies specifically designed for post-breakup psychology Written by someone who personally transformed after a devastating breakup Immediate digital delivery - customers can start their transformation today Commission Structure Cookie duration: 60 days Average conversion rate: 3.7% Top affiliates earning $3,500+ monthly promoting this product Promotional Resources Available High-converting email swipes Social media templates and captions Proven TikTok video concepts Banner ads in multiple sizes Product images and mockups Testimonial graphics from real customers Conversion Highlights Low-priced entry point ($14) for easy customer acquisition Professionally designed sales page with 4.5% conversion rate Perfectly positioned upsells to maximize your earnings 60-day money-back guarantee reducing purchase resistance Instant delivery system for immediate customer satisfaction
 
 ## 2. Links
 

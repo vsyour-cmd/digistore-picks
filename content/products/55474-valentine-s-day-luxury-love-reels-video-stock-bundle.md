@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Valentine's Day Luxury Love Reels Video Stock Bundle | Editable in Canva | Master Resell Rights</strong></p>
-<p><em>+ BONUS 100 VIDEOS for reels &amp; 175 aesthetic photos</em></p>
-<p>Elevate your content or digital product business this Valentine’s Day with this romantic-themed video reels bundle, designed for resale. With Master Resell Rights (MRR), you can edit these videos in Canva, customize them, and resell them as your own. Perfect for adding a touch of love and luxury to your brand or celebrating Valentine’s Day in style!</p>
-<p><strong>Bundle Includes:</strong><br />Romantic Roses: Create a luxurious and elegant vibe.<br />Luxury Gifts: Showcase the beauty of thoughtful gestures.<br />Date Night Moments: Stunning visuals with an opulent touch.<br />Celebrate Love Together: Joyful clips celebrating timeless love.</p>
-<p><strong>Features:</strong><br />Master Resell Rights License: Resell these videos and generate income.<br />Editable in Canva: Personalize and brand with ease.<br />Instant Download: Access your bundle immediately.</p>
-<p> </p>
-<p>Ideal for social media managers, Etsy sellers, or anyone looking to create and sell love-inspired content.</p>
-<p>Start spreading love with your unique reels today!</p>
+**Vendor's marketplace description:** Valentine's Day Luxury Love Reels Video Stock Bundle | Editable in Canva | Master Resell Rights + BONUS 100 VIDEOS for reels & 175 aesthetic photos Elevate your content or digital product business this Valentine’s Day with this romantic-themed video reels bundle, designed for resale. With Master Resell Rights (MRR), you can edit these videos in Canva, customize them, and resell them as your own. Perfect for adding a touch of love and luxury to your brand or celebrating Valentine’s Day in style! Bundle Includes: Romantic Roses: Create a luxurious and elegant vibe. Luxury Gifts: Showcase the beauty of thoughtful gestures. Date Night Moments: Stunning visuals with an opulent touch. Celebrate Love Together: Joyful clips celebrating timeless love. Features: Master Resell Rights License: Resell these videos and generate income. Editable in Canva: Personalize and brand with ease. Instant Download: Access your bundle immediately. Ideal for social media managers, Etsy sellers, or anyone looking to create and sell love-inspired content. Start spreading love with your unique reels today!
 
 ## 2. Links
 

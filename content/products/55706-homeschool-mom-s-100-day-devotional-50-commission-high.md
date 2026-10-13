@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Target a dedicated audience of homeschool educators with "Homeschool Mom’s Sacred Pause." This 100-day devotional is the perfect low-ticket offer ($10) for your Christian, parenting, or education-focused traffic.</p>
-<p><strong>Why Promote This Book?</strong></p>
-<ul>
-<li>
-<p><strong>50% Commission:</strong> Earn a steady split on every sale.</p>
-</li>
-<li>
-<p><strong>Niche Authority:</strong> Specifically designed for the unique stresses and joys of homeschooling.</p>
-</li>
-<li>
-<p><strong>Easy Upsell:</strong> Perfect as a front-end offer for your email list or social media followers.</p>
-</li>
-</ul>
-<p>We welcome all affiliates in the family, education, and faith spaces!</p>
+**Vendor's marketplace description:** Target a dedicated audience of homeschool educators with "Homeschool Mom’s Sacred Pause." This 100-day devotional is the perfect low-ticket offer ($10) for your Christian, parenting, or education-focused traffic. Why Promote This Book? 50% Commission: Earn a steady split on every sale. Niche Authority: Specifically designed for the unique stresses and joys of homeschooling. Easy Upsell: Perfect as a front-end offer for your email list or social media followers. We welcome all affiliates in the family, education, and faith spaces!
 
 ## 2. Links
 

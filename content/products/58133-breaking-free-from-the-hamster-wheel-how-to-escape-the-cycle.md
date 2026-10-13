@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>An honest, practical guide to breaking free from the cycle of working, spending, and exhaustion – with real steps that don't require quitting your job. Ideal for audiences in personal finance, productivity, and personal growth.</p>
-<p> </p>
-<p>25 chapters, real exercises, 30-day roadmap, honest tone instead of empty promises. 50% commission per sale.</p>
+**Vendor's marketplace description:** An honest, practical guide to breaking free from the cycle of working, spending, and exhaustion – with real steps that don't require quitting your job. Ideal for audiences in personal finance, productivity, and personal growth. 25 chapters, real exercises, 30-day roadmap, honest tone instead of empty promises. 50% commission per sale.
 
 ## 2. Links
 

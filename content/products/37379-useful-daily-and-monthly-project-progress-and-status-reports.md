@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Please check the sales page for more product information.</p>
-<ul>
-<li>Practical work aid for project teams for quick and easy creation of reports, with analysis function.</li>
-<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
-<li>If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.  </li>
-</ul>
+**Vendor's marketplace description:** Please check the sales page for more product information. Practical work aid for project teams for quick and easy creation of reports, with analysis function. As an affiliate, you earn 50% per sale. If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.
 
 ## 2. Links
 

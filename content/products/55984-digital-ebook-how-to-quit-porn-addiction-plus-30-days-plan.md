@@ -41,41 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Digital Ebook on how to quit pornography + first 30 days plan</strong></p>
-<p>Why is this book different:</p>
-<ul>
-<li>Nofap doesnt offer cure for addiction it only gives abstinence from porn which make men delusional to end up being damaged</li>
-<li>It offers a new approuch to curing addiction with detailed guide on how addiction works who you become when addicted and how to cure addiction</li>
-<li>The whole book is system on how to cure addiction it offers mechanism that helps cure porn addiction.</li>
-</ul>
-<p>Benefits of quitting porn:</p>
-<ul>
-<li>Better concentration and focus</li>
-<li>No brain fog</li>
-<li>No porn induced Erectile Dysfunction</li>
-<li>Bigger motivation and discipline</li>
-<li>Having less social anxiety</li>
-</ul>
-<p>For who this book isn't:</p>
-<ul>
-<li>Woman</li>
-<li>Those who are ready for change</li>
-<li>Those who are persistent in achieving success</li>
-</ul>
-<p>This book offers:</p>
-<ul>
-<li>How to cure addiction</li>
-<li>How to understand what's happening</li>
-<li>What to do when urges come</li>
-<li>What to do long term about curing addiction</li>
-<li>Explanation on what to do when you relapse</li>
-</ul>
-<p>Table of Contents<br />Introduction<br />PART I — Why This Happens<br />Chapter 1 — What PMO Does to the Brain<br />Chapter 2 — Why We Become Addicted to PMO<br />Chapter 3 — How You Fell Into the Trap<br />Chapter 4 — The Screen Trains Your Brain<br />Chapter 5 — The Symptoms You Ignore<br />Chapter 6 — Why It Resembles a Drug<br />Chapter 7 — The Chain of Addiction<br />PART II — Who You Become in This State<br />Chapter 1 — A Man Without Drive<br />Chapter 2 — Anger, Emptiness, and Emotional Numbness<br />Chapter 3 — When You Begin to Withdraw<br />Chapter 4 — Fantasy vs Reality<br />Chapter 5 — What a Clean Man Looks Like<br />Chapter 6 — Calm Mind and strong Body.<br />PART III — The Mechanics of Recovery<br />Chapter 1 — The Four System Malfunctions<br />Chapter 2 — The Highway That Remains (and How to Shut It Down)<br />Chapter 3 — Flatline: When You Feel Dead (But You Are Actually Healing)<br />Chapter 4 — Porn-Induced Erectile Dysfunction (PIED): When It “Works” Only With a Screen<br />PART IV — Recovery: How the System Changes<br />Chapter 1 — Clear the Field<br />Chapter 2 — Reboot<br />Chapter 3 — Rewire<br />Chapter 4 — Impulse Control (Not Reacting)<br />Chapter 5 — Mindset: Hunter + Builder<br />PART V — System Stability<br />Chapter 1 — Regulation of Stress and Emotions<br />Chapter 2 — Dopamine: Fuel or Poison<br />Chapter 3 — Optimal Challenge (Step Out of the Comfort Zone)<br />Chapter 4 — Work, Hobby, Purpose<br />Chapter 5 — Environment for the Long Term (Systems, Not Willpower) <br />PART VI — Moments That Decide<br />Chapter 1 — When the Urge Hits: 7 Quick Moves<br />Chapter 2 — How to Recognize That a Relapse Is Coming<br />Chapter 3 — Sleep and Morning Urges: The Most Dangerous Hours<br />Chapter 4 — What If You Slip (when you do it) (No Drama)<br />PART VII — After Everything<br />Chapter 1 – Final Identity<br />Chapter 2 — The Spiritual Dimension of the Struggle (Orthodox Perspective)<br />Chapter 3 — Conclusion</p>
-<p>Here are two sales page you can find motivation from</p>
-<p><a href="https://hijacked1.carrd.co/">https://hijacked1.carrd.co/</a></p>
-<p><a href="https://hijacked.carrd.co/">https://hijacked.carrd.co/</a></p>
-<p>If you need further information please contact me on email: <a href="mailto:Filipmyt12@gmail.com">Filipmyt12@gmail.com</a></p>
-<p> </p>
+**Vendor's marketplace description:** Digital Ebook on how to quit pornography + first 30 days plan Why is this book different: Nofap doesnt offer cure for addiction it only gives abstinence from porn which make men delusional to end up being damaged It offers a new approuch to curing addiction with detailed guide on how addiction works who you become when addicted and how to cure addiction The whole book is system on how to cure addiction it offers mechanism that helps cure porn addiction. Benefits of quitting porn: Better concentration and focus No brain fog No porn induced Erectile Dysfunction Bigger motivation and discipline Having less social anxiety For who this book isn't: Woman Those who are ready for change Those who are persistent in achieving success This book offers: How to cure addiction How to understand what's happening What to do when urges come What to do long term about curing addiction Explanation on what to do when you relapse Table of Contents Introduction PART I — Why This Happens Chapter 1 — What PMO Does to the Brain Chapter 2 — Why We Become Addicted to PMO Chapter 3 — How You Fell Into the Trap Chapter 4 — The Screen Trains Your Brain Chapter 5 — The Symptoms You Ignore Chapter 6 — Why It Resembles a Drug Chapter 7 — The Chain of Addiction PART II — Who You Become in This State Chapter 1 — A Man Without Drive Chapter 2 — Anger, Emptiness, and Emotional Numbness Chapter 3 — When You Begin to Withdraw Chapter 4 — Fantasy vs Reality Chapter 5 — What a Clean Man Looks Like Chapter 6 — Calm Mind and strong Body. PART III — The Mechanics of Recovery Chapter 1 — The Four System Malfunctions Chapter 2 — The Highway That Remains (and How to Shut It Down) Chapter 3 — Flatline: When You Feel Dead (But You Are Actually Healing) Chapter 4 — Porn-Induced Erectile Dysfunction (PIED): When It “Works” Only With a Screen PART IV — Recovery: How the System Changes Chapter 1 — Clear the Field Chapter 2 — Reboot Chapter 3 — Rewire Chapter 4 — Impulse Control (Not Reacting) Chapter 5 — Mindset: Hunter + Builder PART V — System Stability Chapter 1 — Regulation of Stress and Emotions Chapter 2 — Dopamine: Fuel or Poison Chapter 3 — Optimal Challenge (Step Out of the Comfort Zone) Chapter 4 — Work, Hobby, Purpose Chapter 5 — Environment for the Long Term (Systems, Not Willpower) PART VI — Moments That Decide Chapter 1 — When the Urge Hits: 7 Quick Moves Chapter 2 — How to Recognize That a Relapse Is Coming Chapter 3 — Sleep and Morning Urges: The Most Dangerous Hours Chapter 4 — What If You Slip (when you do it) (No Drama) PART VII — After Everything Chapter 1 – Final Identity Chapter 2 — The Spiritual Dimension of the Struggle (Orthodox Perspective) Chapter 3 — Conclusion Here are two sales page you can find motivation from https://hijacked1.carrd.co/ https://hijacked.carrd.co/ If you need further information please contact me on email: Filipmyt12@gmail.com
 
 ## 2. Links
 

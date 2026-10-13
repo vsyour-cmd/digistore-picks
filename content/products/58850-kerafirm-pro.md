@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Explosive Doctor-Endorsed Toenail Fungus Offer! High buyer intent, strong early EPCs, and proven scalability across Facebook, native, and email. Simple applicator-based solution with broad appeal. Limited spots available.</p>
+**Vendor's marketplace description:** Explosive Doctor-Endorsed Toenail Fungus Offer! High buyer intent, strong early EPCs, and proven scalability across Facebook, native, and email. Simple applicator-based solution with broad appeal. Limited spots available.
 
 ## 2. Links
 

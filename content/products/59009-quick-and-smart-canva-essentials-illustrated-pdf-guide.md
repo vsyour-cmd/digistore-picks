@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><span style="color:#0000ff;">Quick &amp; Smart Canva Essentials</span> is a 47-page illustrated PDF guide that helps readers understand Canva and create visual content with greater confidence.</h2>
-<p> </p>
-<p>The guide covers templates, text, colours, photos, frames, grids, transparency, the Canva interface, Canva Free and Canva Pro, and useful keyboard shortcuts.</p>
-<p>It is suitable for entrepreneurs, content creators, freelancers, students, small businesses and anyone interested in creating visual content.</p>
-<p> </p>
-<h2>Why promote this product?</h2>
-<p>• Practical digital product with broad audience appeal<br />• 47-page illustrated PDF guide<br />• Immediate digital delivery<br />• No physical stock or shipping<br />• Easy to promote through social media, content marketing and newsletters<br />• English-language product<br />• Personal-use license clearly stated; and resale rights available upon request.</p>
-<p> </p>
-<p>Affiliates must use their Digistore24 promotional link when promoting this product.</p>
+**Vendor's marketplace description:** Quick & Smart Canva Essentials is a 47-page illustrated PDF guide that helps readers understand Canva and create visual content with greater confidence. The guide covers templates, text, colours, photos, frames, grids, transparency, the Canva interface, Canva Free and Canva Pro, and useful keyboard shortcuts. It is suitable for entrepreneurs, content creators, freelancers, students, small businesses and anyone interested in creating visual content. Why promote this product? • Practical digital product with broad audience appeal • 47-page illustrated PDF guide • Immediate digital delivery • No physical stock or shipping • Easy to promote through social media, content marketing and newsletters • English-language product • Personal-use license clearly stated; and resale rights available upon request. Affiliates must use their Digistore24 promotional link when promoting this product.
 
 ## 2. Links
 

@@ -41,15 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:left;"><strong>Diary 1</strong> – Everything Has a Beginning<br /><strong>Self-Awareness &amp; Grounding</strong> | Designed to help you reconnect with yourself, build clarity, and create a grounded inner foundation.<br />This first stage of the DYNVERA series focuses on awareness, presence, and intentional beginnings — because every meaningful transformation starts within.</p>
-<p style="text-align:justify;"><br />A journey of <strong>DYNVERA Diaries</strong> — where every page connects you back to identity, integrity, and strength. More than a diary.</p>
-<p style="text-align:justify;"><br /><strong>PDF Diary -</strong> Everything you love about paper in a digital notebook</p>
-<ul>
-<li style="text-align:justify;">Diary is designed to guide you through 4 powerful weeks — 28 days of growth, clarity, and intention.</li>
-<li>Each day offers 5 thoughtfully crafted sections to help you reflect, reset, and rise.</li>
-<li>With more than 170 pages per diary, becomes a space where your ideas expand, your goals take shape, and your journey truly begins.<br /><br /></li>
-</ul>
-<p style="text-align:justify;"><em><strong>In a world that moves faster every day, this diary invites you to slow down, reflect, and rediscover the power of real progress — one day at a time.</strong></em></p>
+**Vendor's marketplace description:** Diary 1 – Everything Has a Beginning Self-Awareness & Grounding | Designed to help you reconnect with yourself, build clarity, and create a grounded inner foundation. This first stage of the DYNVERA series focuses on awareness, presence, and intentional beginnings — because every meaningful transformation starts within. A journey of DYNVERA Diaries — where every page connects you back to identity, integrity, and strength. More than a diary. PDF Diary - Everything you love about paper in a digital notebook Diary is designed to guide you through 4 powerful weeks — 28 days of growth, clarity, and intention. Each day offers 5 thoughtfully crafted sections to help you reflect, reset, and rise. With more than 170 pages per diary, becomes a space where your ideas expand, your goals take shape, and your journey truly begins. In a world that moves faster every day, this diary invites you to slow down, reflect, and rediscover the power of real progress — one day at a time.
 
 ## 2. Links
 

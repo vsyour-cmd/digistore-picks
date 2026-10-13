@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> <code>A premium bundle of high-resolution, cute Halloween ghost PNG clipart assets with transparent backgrounds. Perfect for crafters, digital planners, print-on-demand, and seasonal Halloween projects. Excellent conversion rate for creative and seasonal niches!</code></p>
-<ul>
-<li>
-<p> </p>
-</li>
-</ul>
+**Vendor's marketplace description:** A premium bundle of high-resolution, cute Halloween ghost PNG clipart assets with transparent backgrounds. Perfect for crafters, digital planners, print-on-demand, and seasonal Halloween projects. Excellent conversion rate for creative and seasonal niches!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong><em>Vexio is a complete SaaS invoicing and subscription management platform designed for businesses, agencies, freelancers, and SaaS providers. It enables users to create professional invoices, manage clients, track payments, and automate recurring billing from one centralized platform.</em></strong></p>
-<p><strong><em>The solution is suitable for freelancers, agencies, and companies that want to offer invoicing as a SaaS service or manage their own clients and subscriptions.</em></strong></p>
-<h3><br /><em>Main Features:</em></h3>
-<p><em>✅ Invoice management</em><br /><em>✅ Client management</em><br /><em>✅ Recurring subscriptions</em><br /><em>✅ Customer portal</em><br /><em>✅ Administrator panel</em><br /><em>✅ Multilingual interface</em><br /><em>✅ Payment gateways</em><br /><em>✅ Modern responsive design</em></p>
-<h3><br /><em>Technical Information:</em></h3>
-<p><em>The system is built with Laravel and supports:</em><br /><em>✅ PHP 8.4+, 8.5+</em><br /><em>✅ MySQL 8.4.8 / MariaDB 10.11.18+</em><br /><em>✅ Apache and Nginx</em><br /><em>✅ Installation on cPanel and VPS</em><br /><em>✅ Composer</em><br /><em>✅ Node.js</em></p>
-<p> </p>
-<p> </p>
+**Vendor's marketplace description:** Vexio is a complete SaaS invoicing and subscription management platform designed for businesses, agencies, freelancers, and SaaS providers. It enables users to create professional invoices, manage clients, track payments, and automate recurring billing from one centralized platform. The solution is suitable for freelancers, agencies, and companies that want to offer invoicing as a SaaS service or manage their own clients and subscriptions. Main Features: ✅ Invoice management ✅ Client management ✅ Recurring subscriptions ✅ Customer portal ✅ Administrator panel ✅ Multilingual interface ✅ Payment gateways ✅ Modern responsive design Technical Information: The system is built with Laravel and supports: ✅ PHP 8.4+, 8.5+ ✅ MySQL 8.4.8 / MariaDB 10.11.18+ ✅ Apache and Nginx ✅ Installation on cPanel and VPS ✅ Composer ✅ Node.js
 
 ## 2. Links
 

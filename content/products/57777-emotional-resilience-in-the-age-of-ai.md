@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>We are living through a transformation unlike any in human history. Artificial intelligence is no longer a<br />speculative technology confined to research labs — it is the invisible infrastructure reshaping how we work,<br />think, connect, and understand ourselves.<br />This ebook is a call to action — not to resist technology, but to reclaim the depths of human emotional<br />resilience that no algorithm can replicate.</p>
+**Vendor's marketplace description:** We are living through a transformation unlike any in human history. Artificial intelligence is no longer a speculative technology confined to research labs — it is the invisible infrastructure reshaping how we work, think, connect, and understand ourselves. This ebook is a call to action — not to resist technology, but to reclaim the depths of human emotional resilience that no algorithm can replicate.
 
 ## 2. Links
 

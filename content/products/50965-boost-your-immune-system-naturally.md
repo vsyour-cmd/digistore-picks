@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="font-size:26px;"><strong>Ideal for customers who are busy professionals, parents, and seniors.</strong></p>
-<p> </p>
-<p style="font-size:26px;"><strong>And you get 70% of every sale.</strong></p>
-<p> </p>
+**Vendor's marketplace description:** Ideal for customers who are busy professionals, parents, and seniors. And you get 70% of every sale.
 
 ## 2. Links
 

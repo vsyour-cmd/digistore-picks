@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1><span style="color:#ff0000;">Promote our e-book "Community to Cash" and earn a 50% commission!</span></h1>
-<p>In 21 chapters, we explain how to build a scalable online business using Pinterest, newsletter automation, AI, and memberships.</p>
-<p>Many people don’t fail because of a lack of effort, but because they lack structure. This book offers online entrepreneurs proven, practical strategies to achieve lasting success.</p>
+**Vendor's marketplace description:** Promote our e-book "Community to Cash" and earn a 50% commission! In 21 chapters, we explain how to build a scalable online business using Pinterest, newsletter automation, AI, and memberships. Many people don’t fail because of a lack of effort, but because they lack structure. This book offers online entrepreneurs proven, practical strategies to achieve lasting success.
 
 ## 2. Links
 

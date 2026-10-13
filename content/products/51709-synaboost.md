@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>How To Make $1,000-5,000 RECURRING -- Every Time Your "AI Army" Finds &amp; Closes $100 FREE LEADS</strong></p>
-<p>Join Rich in this exclusive webinar, where he reveals how he makes an incredible $1000 -$5000 Recurring every time his AI Army closes free leads. His secret? Interactive AI voice agents that manage traffic, engage customers, and generate passive income 24/7. After spending 2024 perfecting his "AI Empire" in stealth mode, Rich is now opening the doors for YOU to profit. This is your chance to capitalize on the chatbot revolution that's</p>
+**Vendor's marketplace description:** How To Make $1,000-5,000 RECURRING -- Every Time Your "AI Army" Finds & Closes $100 FREE LEADS Join Rich in this exclusive webinar, where he reveals how he makes an incredible $1000 -$5000 Recurring every time his AI Army closes free leads. His secret? Interactive AI voice agents that manage traffic, engage customers, and generate passive income 24/7. After spending 2024 perfecting his "AI Empire" in stealth mode, Rich is now opening the doors for YOU to profit. This is your chance to capitalize on the chatbot revolution that's
 
 ## 2. Links
 

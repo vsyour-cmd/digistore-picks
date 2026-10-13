@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Top Affiliates Estimate 6 Figures</strong><br /><strong>With This Unique Deep Sea Hearing Formula</strong></p>
-<ul>
-<li>Converts like crazy on Email, Native, YouTube and Facebook</li>
-<li>$3+ average EPCs</li>
-</ul>
+**Vendor's marketplace description:** Top Affiliates Estimate 6 Figures With This Unique Deep Sea Hearing Formula Converts like crazy on Email, Native, YouTube and Facebook $3+ average EPCs
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>15-Minute Healthy Meals: Real Food, Faster Than Takeout is a 40-page digital guide aimed at consumers who want to prepare better food but believe they don't have enough time to cook.</p>
-<p>The guide focuses on meals and techniques designed around a 15-minute timeframe, including speedy scrambles, 10-minute bowls, blender options, quick stir-fries, upgraded toast, kitchen preparation shortcuts and simple go-to meals.</p>
-<p>Ideal target audiences include: busy professionals, students, parents, people living alone, beginner cooks, fitness audiences and consumers who frequently rely on takeout because of limited time.</p>
-<p>Strong promotional angles: 15-minute meals, healthy food for busy people, faster-than-takeout meals, quick breakfasts and dinners, and simple cooking for beginners.</p>
-<p>The combination of speed + convenience + food provides affiliates with an easy-to-understand offer and numerous opportunities for recipe, lifestyle, productivity and short-form video promotion.</p>
+**Vendor's marketplace description:** 15-Minute Healthy Meals: Real Food, Faster Than Takeout is a 40-page digital guide aimed at consumers who want to prepare better food but believe they don't have enough time to cook. The guide focuses on meals and techniques designed around a 15-minute timeframe, including speedy scrambles, 10-minute bowls, blender options, quick stir-fries, upgraded toast, kitchen preparation shortcuts and simple go-to meals. Ideal target audiences include: busy professionals, students, parents, people living alone, beginner cooks, fitness audiences and consumers who frequently rely on takeout because of limited time. Strong promotional angles: 15-minute meals, healthy food for busy people, faster-than-takeout meals, quick breakfasts and dinners, and simple cooking for beginners. The combination of speed + convenience + food provides affiliates with an easy-to-understand offer and numerous opportunities for recipe, lifestyle, productivity and short-form video promotion.
 
 ## 2. Links
 

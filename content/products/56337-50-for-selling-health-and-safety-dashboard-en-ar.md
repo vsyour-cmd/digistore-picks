@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote a digital Health and Safety Dashboard designed for HSE professionals, who need a simple way to track workplace injuries, occupational illnesses, and safety performance indicators. This Excel-based dashboard helps users monitor TRIR, LTIFR, injury trends, root causes, and heatmap injury analysis. The product is available in English and Arabic, making it suitable for the Gulf region, Saudi Arabia, and the wider Middle East market. This product is worthwhile for affiliates to promote because it targets a clear professional audience with a real business need:</p>
-<ul>
-<li>Better HSE reporting</li>
-<li>Easier KPI tracking</li>
-<li>More professional management reports</li>
-</ul>
-<p>The product is digital, low-priced, easy to understand, and offers a 50% commission, which makes it attractive for affiliates targeting HSE communities, LinkedIn audiences, safety professionals, and occupational health and safety groups. Affiliates can promote this product to professionals who need practical tools to save time, improve reporting quality, and present safety data in a more professional way.</p>
+**Vendor's marketplace description:** Promote a digital Health and Safety Dashboard designed for HSE professionals, who need a simple way to track workplace injuries, occupational illnesses, and safety performance indicators. This Excel-based dashboard helps users monitor TRIR, LTIFR, injury trends, root causes, and heatmap injury analysis. The product is available in English and Arabic, making it suitable for the Gulf region, Saudi Arabia, and the wider Middle East market. This product is worthwhile for affiliates to promote because it targets a clear professional audience with a real business need: Better HSE reporting Easier KPI tracking More professional management reports The product is digital, low-priced, easy to understand, and offers a 50% commission, which makes it attractive for affiliates targeting HSE communities, LinkedIn audiences, safety professionals, and occupational health and safety groups. Affiliates can promote this product to professionals who need practical tools to save time, improve reporting quality, and present safety data in a more professional way.
 
 ## 2. Links
 

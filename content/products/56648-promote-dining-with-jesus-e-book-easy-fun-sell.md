@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Dining With Jesus: Discover What the Bible Really Says About Food</h2>
-<p>What if the Bible had more to say about your diet than you ever imagined?</p>
+**Vendor's marketplace description:** Dining With Jesus: Discover What the Bible Really Says About Food What if the Bible had more to say about your diet than you ever imagined?
 
 ## 2. Links
 

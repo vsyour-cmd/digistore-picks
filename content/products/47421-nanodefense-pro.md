@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>DigiStore Welcomes NanoDefense Pro, The Space Station Nail Fungus Fighting Breakthrough. Powerful Pitch, Multiple Intros Available, 100% Backed By Science.</p>
-<p>Top Affs Are Scoring Up To $7 EPC.</p>
+**Vendor's marketplace description:** DigiStore Welcomes NanoDefense Pro, The Space Station Nail Fungus Fighting Breakthrough. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.
 
 ## 2. Links
 

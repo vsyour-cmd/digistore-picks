@@ -41,25 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote the Lowest-Friction Offer in Women's Wellness.</strong></p>
-<p>The Aligned Woman Journal is a 244-page digital journal built around the four phases of a woman's hormonal cycle. Every single daily page knows where she is, follicular, ovulatory, luteal, menstrual, and meets her there with a different question, a different permission, a different tone. It's the rare journal a woman actually keeps, because it doesn't ask her to be the same every day.</p>
-<p>At <strong>$14.99</strong>, this is an impulse-level yes, which makes it the <strong>perfect entry offer for cold and top-of-funnel traffic</strong>, and a natural fit for the huge journaling, mindfulness, self-development and cycle-syncing audiences.</p>
-<p><strong>Why it converts:</strong></p>
-<ul>
-<li><strong>Low price, instant decision.</strong> No deliberation, she feels seen and buys.</li>
-<li><strong>A deeply emotional, honest hook:</strong> "A journal that doesn't ask you to be the same every day, because you never were." Every woman who's abandoned a journal feels that instantly.</li>
-<li><strong>Beautiful, complete, and digital.</strong> 168 unique daily pages, energy and sleep trackers, a hormonal glossary, all interactive on any device, delivered instantly to every country.</li>
-<li><strong>Strong gift angle:</strong> the thoughtful gift for "the woman who has every notebook and finishes none."</li>
-<li><strong>60-day money-back guarantee</strong> removes all risk for her, and refund anxiety for you.</li>
-</ul>
-<p><strong>What you earn:</strong></p>
-<ul>
-<li><strong>65% commission</strong> on every sale (~$10 per journal), with volume coming from how easily it converts.</li>
-<li>Cookie window up to 180 days (EU) / 365 days (US), you earn even if she buys later.</li>
-<li>Your one signup link also enrolls you to promote the $44.99 Bundle (~$29/sale) and the Blueprint, upsell your warmer audiences to the bigger offer.</li>
-</ul>
-<p><strong>Ready-made assets:</strong> affiliate support page with email swipes, keywords, audience targeting and downloadable graphics.</p>
-<p> </p>
+**Vendor's marketplace description:** Promote the Lowest-Friction Offer in Women's Wellness. The Aligned Woman Journal is a 244-page digital journal built around the four phases of a woman's hormonal cycle. Every single daily page knows where she is, follicular, ovulatory, luteal, menstrual, and meets her there with a different question, a different permission, a different tone. It's the rare journal a woman actually keeps, because it doesn't ask her to be the same every day. At $14.99 , this is an impulse-level yes, which makes it the perfect entry offer for cold and top-of-funnel traffic , and a natural fit for the huge journaling, mindfulness, self-development and cycle-syncing audiences. Why it converts: Low price, instant decision. No deliberation, she feels seen and buys. A deeply emotional, honest hook: "A journal that doesn't ask you to be the same every day, because you never were." Every woman who's abandoned a journal feels that instantly. Beautiful, complete, and digital. 168 unique daily pages, energy and sleep trackers, a hormonal glossary, all interactive on any device, delivered instantly to every country. Strong gift angle: the thoughtful gift for "the woman who has every notebook and finishes none." 60-day money-back guarantee removes all risk for her, and refund anxiety for you. What you earn: 65% commission on every sale (~$10 per journal), with volume coming from how easily it converts. Cookie window up to 180 days (EU) / 365 days (US), you earn even if she buys later. Your one signup link also enrolls you to promote the $44.99 Bundle (~$29/sale) and the Blueprint, upsell your warmer audiences to the bigger offer. Ready-made assets: affiliate support page with email swipes, keywords, audience targeting and downloadable graphics.
 
 ## 2. Links
 

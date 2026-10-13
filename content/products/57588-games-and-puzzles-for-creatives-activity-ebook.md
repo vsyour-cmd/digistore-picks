@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A fun way to use down time, take a break from creating, challenge your mind, and relax.</p>
-<p> </p>
-<ul>
-<li>PDF file download</li>
-<li>Bright and colorful</li>
-<li>Mixed craft themes</li>
-<li>Great gift for crafty friends</li>
-<li>Mixed puzzle activity e-book</li>
-<li>Includes puzzle solution pages</li>
-<li>50+ easy to medium mixed puzzles</li>
-<li>100 total pages (inclusive of cover, solutions, etc.)</li>
-</ul>
-<p> </p>
+**Vendor's marketplace description:** A fun way to use down time, take a break from creating, challenge your mind, and relax. PDF file download Bright and colorful Mixed craft themes Great gift for crafty friends Mixed puzzle activity e-book Includes puzzle solution pages 50+ easy to medium mixed puzzles 100 total pages (inclusive of cover, solutions, etc.)
 
 ## 2. Links
 

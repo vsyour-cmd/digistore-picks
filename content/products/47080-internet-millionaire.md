@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Affiliates, Earn $1000 Commissions Per Sale!</h2>
-<p>This is your early opportunity to promote Internet Millionaire before we do an official product launch soon.</p>
-<p><span style="color:#99cc00;"><strong>START PROMOTING TODAY</strong><br /></span>Product Price: $2000<br />50% commissions<br />You make $1000 per sale!</p>
+**Vendor's marketplace description:** Affiliates, Earn $1000 Commissions Per Sale! This is your early opportunity to promote Internet Millionaire before we do an official product launch soon. START PROMOTING TODAY Product Price: $2000 50% commissions You make $1000 per sale!
 
 ## 2. Links
 

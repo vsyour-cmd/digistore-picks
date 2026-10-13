@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Add This Brand New High Converting Free+Shipping Keto Cookbook Offer To Your Promotions Now (you will be surprised!)</strong><br /><br />This has been selling like hotcakes elsewhere and has just been released to the Digistore affiliate marketplace... yours for the taking! </p>
-<p>Among the highest conversion rates with optimized upsell funnel and AOV... email swipe copy available.</p>
-<p>We also have several other high-converting cookbooks and nutritionals ready for your promos! <img src="https://www.digistore24-app.com/pb/img/merchant_972899/image/product/JU81PBGC.jpg" alt="phd-keto-books-2.jpg" width="375" height="102" /> <img src="https://www.digistore24-app.com/pb/img/merchant_972899/image/product/M777TCTF.jpg" alt="phd-nutritionals-group-1740-2.jpg" width="375" height="70" /></p>
-<p>*NOTE: All affiliates must be approved prior to promoting. This keeps things safe for all of us! VISIT THE AFFILIATE RESOURCES LINK TO GET APPROVED: https://www.primehealthsource.com/affiliates-ds.php</p>
+**Vendor's marketplace description:** Add This Brand New High Converting Free+Shipping Keto Cookbook Offer To Your Promotions Now (you will be surprised!) This has been selling like hotcakes elsewhere and has just been released to the Digistore affiliate marketplace... yours for the taking! Among the highest conversion rates with optimized upsell funnel and AOV... email swipe copy available. We also have several other high-converting cookbooks and nutritionals ready for your promos! *NOTE: All affiliates must be approved prior to promoting. This keeps things safe for all of us! VISIT THE AFFILIATE RESOURCES LINK TO GET APPROVED: https://www.primehealthsource.com/affiliates-ds.php
 
 ## 2. Links
 

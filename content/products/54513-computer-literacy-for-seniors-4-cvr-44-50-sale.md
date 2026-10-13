@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Master Your Machine in 90 Days is a beginner-friendly computer literacy course designed specifically for adults 50+ who feel left behind by technology. This 90-day program teaches everyday computer skills through daily bite-sized lessons. No tech jargon, just practical guidance. With a 4% conversion rate and 50% commission ($44.50 per sale), you'll earn well while helping your audience gain confidence with technology, connect with family online, and stay safe from scams. Our customers are motivated, engaged, and grateful for the transformation this course provides.</p>
+**Vendor's marketplace description:** Master Your Machine in 90 Days is a beginner-friendly computer literacy course designed specifically for adults 50+ who feel left behind by technology. This 90-day program teaches everyday computer skills through daily bite-sized lessons. No tech jargon, just practical guidance. With a 4% conversion rate and 50% commission ($44.50 per sale), you'll earn well while helping your audience gain confidence with technology, connect with family online, and stay safe from scams. Our customers are motivated, engaged, and grateful for the transformation this course provides.
 
 ## 2. Links
 

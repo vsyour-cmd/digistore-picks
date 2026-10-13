@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><code>A complete, beautifully designed Cozy Fall &amp; Winter Life Planner for daily tracking, goal setting, habits, and seasonal routines. Includes printable PDF and digital formats. High converting niche with great affiliate support and generous commissions!</code></p>
-<p> </p>
+**Vendor's marketplace description:** A complete, beautifully designed Cozy Fall & Winter Life Planner for daily tracking, goal setting, habits, and seasonal routines. Includes printable PDF and digital formats. High converting niche with great affiliate support and generous commissions!
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Promote the Future of Lymphatic Health with SanoLabs!<br /><br /></strong></p>
-<p>Join the <strong>Lymphatic System Support</strong> affiliate program and take advantage of a groundbreaking opportunity to market the hottest lymphatic supplement for 2025.</p>
-<p> </p>
-<ol>
-<li><strong>Earn from 65% RevShare commissions</strong> with a product built for affiliate success!</li>
-<li>High-converting sales page, trusted physician endorsements, and seamless upsell funnels.</li>
-<li><strong>CPA options available for top performers!</strong></li>
-</ol>
+**Vendor's marketplace description:** Promote the Future of Lymphatic Health with SanoLabs! Join the Lymphatic System Support affiliate program and take advantage of a groundbreaking opportunity to market the hottest lymphatic supplement for 2025. Earn from 65% RevShare commissions with a product built for affiliate success! High-converting sales page, trusted physician endorsements, and seamless upsell funnels. CPA options available for top performers!
 
 ## 2. Links
 

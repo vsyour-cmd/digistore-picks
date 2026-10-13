@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>⭐⭐ <strong>The Hottest Keto</strong><strong> Offer of The Year</strong> ⭐⭐ </h2>
-<h2><em> the ULTIMATE KETO BUNDLE. </em></h2>
-<h3>Tested on cold traffic... add this Brand New High Converting  Keto Cookbook Offer to your promotions. Among the highest conversion rates. Several other cookbooks and nutritionals... email swipes ready for you.</h3>
-<h1><strong>Digital copy, immediate download after purchase.</strong></h1>
+**Vendor's marketplace description:** ⭐⭐ The Hottest Keto Offer of The Year ⭐⭐ the ULTIMATE KETO BUNDLE. Tested on cold traffic... add this Brand New High Converting Keto Cookbook Offer to your promotions. Among the highest conversion rates. Several other cookbooks and nutritionals... email swipes ready for you. Digital copy, immediate download after purchase.
 
 ## 2. Links
 

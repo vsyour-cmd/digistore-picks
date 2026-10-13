@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Feng shui—literally “wind and water”—is an ancient Chinese art of shaping living spaces to support health, harmony, and growth. Today, millions worldwide use feng shui to sleep better, reduce stress, strengthen relationships, and create homes that feel balanced and alive.</p>
-<p> </p>
-<p>Unlock the ancient wisdom of Feng Shui in a modern, practical guide!<br />This beautifully designed <strong>PDF e-book</strong> helps readers transform their homes into spaces that support <strong>better health, stronger relationships, improved focus, and lasting prosperity</strong>.</p>
-<p>✅ <strong>Room-by-room guidance</strong> – Entrance, living room, bedroom, kitchen, bathroom, balcony, and more<br />✅ <strong>Easy checklists &amp; diagrams</strong> – Quick fixes anyone can apply, whether renting or owning<br />✅ <strong>Modern-friendly approach</strong> – No superstition, just clear design &amp; wellness principles<br />✅ <strong>Instant download</strong> – Print-friendly PDF, ready right after purchase</p>
-<p> </p>
+**Vendor's marketplace description:** Feng shui—literally “wind and water”—is an ancient Chinese art of shaping living spaces to support health, harmony, and growth. Today, millions worldwide use feng shui to sleep better, reduce stress, strengthen relationships, and create homes that feel balanced and alive. Unlock the ancient wisdom of Feng Shui in a modern, practical guide! This beautifully designed PDF e-book helps readers transform their homes into spaces that support better health, stronger relationships, improved focus, and lasting prosperity . ✅ Room-by-room guidance – Entrance, living room, bedroom, kitchen, bathroom, balcony, and more ✅ Easy checklists & diagrams – Quick fixes anyone can apply, whether renting or owning ✅ Modern-friendly approach – No superstition, just clear design & wellness principles ✅ Instant download – Print-friendly PDF, ready right after purchase
 
 ## 2. Links
 

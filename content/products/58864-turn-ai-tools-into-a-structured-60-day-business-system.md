@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>AI Business Operator is a practical 60-day system for people who want to organize AI tools into real business workflows and service offers. It includes 12 AI service blueprints, a 100-prompt operator vault, offer-development frameworks, client discovery and objection scripts, workflow templates, delivery systems and a step-by-step launch roadmap. The product focuses on practical implementation rather than income promises, making it suitable for audiences interested in AI, freelancing, entrepreneurship, productivity and digital services.</p>
+**Vendor's marketplace description:** AI Business Operator is a practical 60-day system for people who want to organize AI tools into real business workflows and service offers. It includes 12 AI service blueprints, a 100-prompt operator vault, offer-development frameworks, client discovery and objection scripts, workflow templates, delivery systems and a step-by-step launch roadmap. The product focuses on practical implementation rather than income promises, making it suitable for audiences interested in AI, freelancing, entrepreneurship, productivity and digital services.
 
 ## 2. Links
 

@@ -41,18 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Why You Need This Bundle</h2>
-<h3>Tired of Feeling Stuck?</h3>
-<p>Break the cycle of procrastination, self-doubt, and unfulfilled potential. Our guides give you the clarity and actionable steps to move forward.</p>
-<p> </p>
-<h3>Overwhelmed by Information?</h3>
-<p>Forget endless searching. This bundle curates the most vital insights and strategies, saving you time and giving you a clear path.</p>
-<p> </p>
-<h3>Seeking Lasting Change?</h3>
-<p>Unlike fleeting advice, this bundle focuses on building sustainable habits and cultivating a resilient mindset for long-term transformation.</p>
-<p> </p>
-<h3>Want Practical, Actionable Tools?</h3>
-<p>Beyond just reading, you'll get interactive guides, journals, and checklists to actively apply what you learn, making real progress tangible.</p>
+**Vendor's marketplace description:** Why You Need This Bundle Tired of Feeling Stuck? Break the cycle of procrastination, self-doubt, and unfulfilled potential. Our guides give you the clarity and actionable steps to move forward. Overwhelmed by Information? Forget endless searching. This bundle curates the most vital insights and strategies, saving you time and giving you a clear path. Seeking Lasting Change? Unlike fleeting advice, this bundle focuses on building sustainable habits and cultivating a resilient mindset for long-term transformation. Want Practical, Actionable Tools? Beyond just reading, you'll get interactive guides, journals, and checklists to actively apply what you learn, making real progress tangible.
 
 ## 2. Links
 

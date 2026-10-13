@@ -41,21 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div>
-<p>Bestseller with a powerful knowledge of world-class Coaches bundled in seven E-Books:</p>
-<ol>
-<li>Coaching Busines Success</li>
-<li>Search Engine Optimization</li>
-<li>Time Management</li>
-<li>Time to become Limitless</li>
-<li>Business Systemization</li>
-<li>Influential Sales Funnels</li>
-<li>E-Mail Marketing Mastermind</li>
-</ol>
-<p>Unlock the Secrets to Building a Successful Coaching Business with Ease. Discover Essential Strategies and Proven Techniques to Maximize Your Coaching Business's Growth and Success.</p>
-<p>When it comes to coaching people, there are a lot of good qualities that many coaches exhibit. In fact, every coach out there has some good qualities that you could list about them, but if you talk to enough coaches and you get to know the people at the top of the industry, you will notice a pattern starting to emerge. You will see that the most successful coaches actually share some of the same attributes.</p>
-<p>This is the ultimative Guide to become a succesful Business Coach and a lecture for the Road to success.</p>
-</div>
+**Vendor's marketplace description:** Bestseller with a powerful knowledge of world-class Coaches bundled in seven E-Books: Coaching Busines Success Search Engine Optimization Time Management Time to become Limitless Business Systemization Influential Sales Funnels E-Mail Marketing Mastermind Unlock the Secrets to Building a Successful Coaching Business with Ease. Discover Essential Strategies and Proven Techniques to Maximize Your Coaching Business's Growth and Success. When it comes to coaching people, there are a lot of good qualities that many coaches exhibit. In fact, every coach out there has some good qualities that you could list about them, but if you talk to enough coaches and you get to know the people at the top of the industry, you will notice a pattern starting to emerge. You will see that the most successful coaches actually share some of the same attributes. This is the ultimative Guide to become a succesful Business Coach and a lecture for the Road to success.
 
 ## 2. Links
 

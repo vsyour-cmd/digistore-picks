@@ -41,51 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="color:#339966;"><strong>75% commission on Initial</strong></span><br /><span style="color:#339966;"><strong>3 Upsells with 75% commission</strong></span></h1>
-<h1 style="text-align:center;"><span style="color:#339966;"><strong>Tested resources on Lists &amp; Facebook!</strong></span></h1>
-<p>260-page "Backyard Healing Herbs" book on Gardening and Alternative Medicine. </p>
-<p>The perfect system for growing healing herbs, written in every detail. It will help you live longer, have more energy and overall start taking advantage of a whole new level of beaming health. No more pills and no more side effects.</p>
-<div>
-<div>
-<div>
-<h2>What other people say about Backyard Healing Herbs</h2>
-</div>
-</div>
-</div>
-<div>
-<div>⭐⭐⭐⭐⭐</div>
-<div>
-<p><strong>It's a very nice book.</strong></p>
-</div>
-</div>
-<div>
-<p><em>"I already knew a lot of what's in here, so I plan to give it as a gift to someone who's interested in learning."</em></p>
-</div>
-<div>
-<p><strong>-Pam</strong></p>
-</div>
-<div>
-<div>
-<p><strong>This book has some great information.</strong></p>
-</div>
-</div>
-<div>
-<p><em>"Has helped me to understand the medical concepts and benefits. Some I use to cook with but to realize that I can make tea out of them is great information."</em></p>
-</div>
-<div>
-<p><strong>-Jocelyn Orr-Thompson</strong></p>
-<div>
-<div>
-<p><strong>Its straight forward and practical.</strong></p>
-</div>
-</div>
-<div>
-<p><em>"It uses all the common herbs that I use. It's hard to find a guide that breaks down the basics, as books always assume you have prior knowledge. "</em></p>
-</div>
-<div>
-<p><strong>-Michelle</strong></p>
-</div>
-</div>
+**Vendor's marketplace description:** 75% commission on Initial 3 Upsells with 75% commission Tested resources on Lists & Facebook! 260-page "Backyard Healing Herbs" book on Gardening and Alternative Medicine. The perfect system for growing healing herbs, written in every detail. It will help you live longer, have more energy and overall start taking advantage of a whole new level of beaming health. No more pills and no more side effects. What other people say about Backyard Healing Herbs ⭐⭐⭐⭐⭐ It's a very nice book. "I already knew a lot of what's in here, so I plan to give it as a gift to someone who's interested in learning." -Pam This book has some great information. "Has helped me to understand the medical concepts and benefits. Some I use to cook with but to realize that I can make tea out of them is great information." -Jocelyn Orr-Thompson Its straight forward and practical. "It uses all the common herbs that I use. It's hard to find a guide that breaks down the basics, as books always assume you have prior knowledge. " -Michelle
 
 ## 2. Links
 

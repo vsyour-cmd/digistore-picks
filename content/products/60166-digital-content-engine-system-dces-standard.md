@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>⚙️ <strong>DCES™- Standard</strong> is a prompt generator featuring a hook database, topic logic, filtered dropdown menus, and a status overview. It saves time immediately: simply select theme &amp; hook, copy the generated prompt, paste it into ChatGPT or Claude, and generate a ready-made carousel content.</p>
-<p><strong>Features:</strong><br />✅ 40 predefined themes (fitness, business, health, …)<br />✅ 5 hooks for each theme (200 hooks in total)<br />✅ 5 content packages for each theme (200 content packages in total)<br />✅ delivered as a complete package in English and German</p>
+**Vendor's marketplace description:** ⚙️ DCES™- Standard is a prompt generator featuring a hook database, topic logic, filtered dropdown menus, and a status overview. It saves time immediately: simply select theme & hook, copy the generated prompt, paste it into ChatGPT or Claude, and generate a ready-made carousel content. Features: ✅ 40 predefined themes (fitness, business, health, …) ✅ 5 hooks for each theme (200 hooks in total) ✅ 5 content packages for each theme (200 content packages in total) ✅ delivered as a complete package in English and German
 
 ## 2. Links
 

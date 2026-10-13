@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Earn a massive 75% commission</strong> with the new blood sugar supplement that's taking the market by storm!</p>
-<p>Our <strong>high-converting VSL, powerful upsells</strong> and <strong>low refunds</strong> make this offer a clear winner! What are you waiting for? <em><strong>Apply now for a huge commission percentage</strong> </em>and get the $$$ rolling in!</p>
-<p>• <strong>High conversions</strong> with diabetes and weight loss lists</p>
-<p>• <strong>$166</strong> average order value</p>
-<p>• <strong>2 - 4%</strong> conversion rate</p>
-<p>• <strong>$5 -$7</strong> EPC</p>
-<p> </p>
+**Vendor's marketplace description:** Earn a massive 75% commission with the new blood sugar supplement that's taking the market by storm! Our high-converting VSL, powerful upsells and low refunds make this offer a clear winner! What are you waiting for? Apply now for a huge commission percentage and get the $$$ rolling in! • High conversions with diabetes and weight loss lists • $166 average order value • 2 - 4% conversion rate • $5 -$7 EPC
 
 ## 2. Links
 

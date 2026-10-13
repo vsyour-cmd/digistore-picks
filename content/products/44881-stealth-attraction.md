@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>You'll get <strong>100%</strong> commission on front end sale. We have excellent customer support and very low refunds. It's the highest converting dating offer for men and has been for 10+ years.</p>
+**Vendor's marketplace description:** You'll get 100% commission on front end sale. We have excellent customer support and very low refunds. It's the highest converting dating offer for men and has been for 10+ years.
 
 ## 2. Links
 

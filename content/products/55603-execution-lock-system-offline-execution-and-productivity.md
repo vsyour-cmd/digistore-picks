@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Execution Lock System is a practical offline execution toolkit designed to help users turn knowledge into consistent action.</p>
-<p>Delivery: downloadable ZIP file (no login, no members area, no subscription).<br />Start point: open “START-HERE.html” locally in any browser to begin immediately.</p>
-<p>Includes:<br />• Offline HTML tools (focus, streak, weekly review, anti-planning, decision clarity, etc.)<br />• Manuals + workbook + checklists + trackers + templates<br />• Notion templates (optional use)<br />• Export-ready outputs (PDF/DOCX/CSV depending on the included tools)</p>
-<p>Languages: English + Arabic versions included.</p>
-<p>All checkout, payments, and affiliate tracking are handled securely by Digistore24.<br />Affiliate commission: 35%.</p>
+**Vendor's marketplace description:** Execution Lock System is a practical offline execution toolkit designed to help users turn knowledge into consistent action. Delivery: downloadable ZIP file (no login, no members area, no subscription). Start point: open “START-HERE.html” locally in any browser to begin immediately. Includes: • Offline HTML tools (focus, streak, weekly review, anti-planning, decision clarity, etc.) • Manuals + workbook + checklists + trackers + templates • Notion templates (optional use) • Export-ready outputs (PDF/DOCX/CSV depending on the included tools) Languages: English + Arabic versions included. All checkout, payments, and affiliate tracking are handled securely by Digistore24. Affiliate commission: 35%.
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Why You Need This Bundle</h2>
-<p>You've likely spent time and money on single books, courses, or apps that gave you a temporary boost but didn't lead to lasting change. The reason is simple: your life is not a series of isolated problems. This bundle is different. It’s a complete system designed to solve the problem of fragmented personal development. You need this bundle because it:</p>
+**Vendor's marketplace description:** Why You Need This Bundle You've likely spent time and money on single books, courses, or apps that gave you a temporary boost but didn't lead to lasting change. The reason is simple: your life is not a series of isolated problems. This bundle is different. It’s a complete system designed to solve the problem of fragmented personal development. You need this bundle because it:
 
 ## 2. Links
 

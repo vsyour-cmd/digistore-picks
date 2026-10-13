@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>“Imagination” </strong>is a kind of guided meditation. An original capability and consciousness exercise. A manifestation and creation technique. A tool and a guide to create a desired state or adjust a certain circumstance in your life.</p>
-<p><strong>Working with the inner imagination guided by the heart</strong>: We create a desirable situation, design a preferred state, and then install it in our brain with the help of our pineal gland. We anchor the adjusted situation in our system, in all cells, and then upload it into this reality.</p>
-<p> </p>
-<p><strong>Your advantages as an affiliate:</strong></p>
-<p>25% commission for every sale made<br />Promote peace, relaxation, and well-being!</p>
-<p>Support people in feeling relaxed, finding peace, and regaining their strength!</p>
+**Vendor's marketplace description:** “Imagination” is a kind of guided meditation. An original capability and consciousness exercise. A manifestation and creation technique. A tool and a guide to create a desired state or adjust a certain circumstance in your life. Working with the inner imagination guided by the heart : We create a desirable situation, design a preferred state, and then install it in our brain with the help of our pineal gland. We anchor the adjusted situation in our system, in all cells, and then upload it into this reality. Your advantages as an affiliate: 25% commission for every sale made Promote peace, relaxation, and well-being! Support people in feeling relaxed, finding peace, and regaining their strength!
 
 ## 2. Links
 

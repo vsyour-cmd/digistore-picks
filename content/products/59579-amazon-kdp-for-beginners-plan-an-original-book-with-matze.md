@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Amazon KDP for Beginners – Plan an Original Book with Matze</p>
-<p>Plan a book, check the manuscript, cover and metadata. This English self-paced course guides you from an initial idea to a checked book concept and a release checklist. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
-<p>What you will work through:<br />1. Choose a reader and a task<br />2. Develop content and rights<br />3. Test format and readability<br />4. Cover and metadata<br />5. Price and distribution rights<br />6. Preview and release check</p>
-<p>Who is it for? Beginners who want to prepare an original book for Amazon KDP.</p>
-<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
-<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
-<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
+**Vendor's marketplace description:** Amazon KDP for Beginners – Plan an Original Book with Matze Plan a book, check the manuscript, cover and metadata. This English self-paced course guides you from an initial idea to a checked book concept and a release checklist. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through: 1. Choose a reader and a task 2. Develop content and rights 3. Test format and readability 4. Cover and metadata 5. Price and distribution rights 6. Preview and release check Who is it for? Beginners who want to prepare an original book for Amazon KDP. Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises. For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%. Planning tools are optional. The course may contain a disclosed Metricool affiliate link.
 
 ## 2. Links
 

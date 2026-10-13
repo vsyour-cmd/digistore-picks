@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Downloadable Hormone Health Meal Plan Ebook – a comprehensive resource designed to support women in achieving hormonal balance and overall well-being.</p>
-<p>This ebook is not only a Meal Planner but also an invaluable Grocery Shopping List tailored to address the unique needs of women going through perimenopause and menopause.</p>
+**Vendor's marketplace description:** Downloadable Hormone Health Meal Plan Ebook – a comprehensive resource designed to support women in achieving hormonal balance and overall well-being. This ebook is not only a Meal Planner but also an invaluable Grocery Shopping List tailored to address the unique needs of women going through perimenopause and menopause.
 
 ## 2. Links
 

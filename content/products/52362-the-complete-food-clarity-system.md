@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Complete Food Clarity System for clear idea about your food</p>
+**Vendor's marketplace description:** The Complete Food Clarity System for clear idea about your food
 
 ## 2. Links
 

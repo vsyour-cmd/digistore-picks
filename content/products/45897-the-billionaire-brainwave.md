@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>High conversions, FAT EPC's, killer copy, and a great product. This is a BRAND-NEW VSL monster. Go HERE to get your link: <a href="https://thebillionairebrainwave.com/DSAffiliates/" target="_blank" rel="noreferrer noopener">https://thebillionairebrainwave.com/DSAffiliates/ </a>Test your traffic and SEE why aff's love this promoting this offer.</p>
-<p>Affiliate Resources: <a href="bit.ly/affiliateresourceguides" target="_blank" rel="noreferrer noopener">bit.ly/affiliateresourceguides</a></p>
+**Vendor's marketplace description:** High conversions, FAT EPC's, killer copy, and a great product. This is a BRAND-NEW VSL monster. Go HERE to get your link: https://thebillionairebrainwave.com/DSAffiliates/ Test your traffic and SEE why aff's love this promoting this offer. Affiliate Resources: bit.ly/affiliateresourceguides
 
 ## 2. Links
 

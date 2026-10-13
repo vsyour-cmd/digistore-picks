@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>You'll get 55% commission off the entire funnel</strong>! Plus A+ customer support, low refunds, and low chargebacks</p>
+**Vendor's marketplace description:** You'll get 55% commission off the entire funnel ! Plus A+ customer support, low refunds, and low chargebacks
 
 ## 2. Links
 

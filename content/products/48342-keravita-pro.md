@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This 100% Natural Anti-Nail Fungus Breakthrough Converts On All Types Of Traffic. $624 Maximum Cart Value. Top Affiliates Are Reporting Up To $7 EPC. Already Scaling On Native And Fb with 6 Fig/day.</p>
+**Vendor's marketplace description:** This 100% Natural Anti-Nail Fungus Breakthrough Converts On All Types Of Traffic. $624 Maximum Cart Value. Top Affiliates Are Reporting Up To $7 EPC. Already Scaling On Native And Fb with 6 Fig/day.
 
 ## 2. Links
 

@@ -41,9 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <pre><code>SKY-HIGH CONVERSIONS: This offer was created by a team with millions of dollars in sales! 
-PAID TRAFFIC KILLER: This offer is scaling on paid media right now!
-GREAT PRODUCT: We have one of the lowest refund rates around. Start promoting today!</code></pre>
+**Vendor's marketplace description:** SKY-HIGH CONVERSIONS: This offer was created by a team with millions of dollars in sales! PAID TRAFFIC KILLER: This offer is scaling on paid media right now!
+GREAT PRODUCT: We have one of the lowest refund rates around. Start promoting today!
 
 ## 2. Links
 

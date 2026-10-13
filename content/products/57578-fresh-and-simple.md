@@ -41,25 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Fresh &amp; Simple – Healthy Recipes for Everyday Life</p>
-<p> </p>
-<p>Fresh &amp; Simple is a practical digital cookbook designed for people who want to enjoy delicious, nutritious meals without spending hours in the kitchen.</p>
-<p> </p>
-<p>Inside, you'll find 25 easy-to-follow recipes made with simple, accessible ingredients. Each recipe is created to help support a balanced lifestyle while delivering great flavor.</p>
-<p> </p>
-<p>What's included:</p>
-<p> </p>
-<p>- 25 healthy and delicious recipes</p>
-<p>- Simple step-by-step instructions</p>
-<p>- Everyday ingredients</p>
-<p>- Quick meal ideas for busy schedules</p>
-<p>- Nutritional balance with protein, fiber, and healthy fats</p>
-<p>- Perfect for beginners and experienced home cooks</p>
-<p> </p>
-<p>Whether your goal is to eat healthier, save time, or discover new meal ideas, Fresh &amp; Simple makes healthy cooking enjoyable and easy.</p>
-<p> </p>
-<p>Format: Digital eBook (Instant Download)</p>
-<p>Language: English</p>
+**Vendor's marketplace description:** Fresh & Simple – Healthy Recipes for Everyday Life Fresh & Simple is a practical digital cookbook designed for people who want to enjoy delicious, nutritious meals without spending hours in the kitchen. Inside, you'll find 25 easy-to-follow recipes made with simple, accessible ingredients. Each recipe is created to help support a balanced lifestyle while delivering great flavor. What's included: - 25 healthy and delicious recipes - Simple step-by-step instructions - Everyday ingredients - Quick meal ideas for busy schedules - Nutritional balance with protein, fiber, and healthy fats - Perfect for beginners and experienced home cooks Whether your goal is to eat healthier, save time, or discover new meal ideas, Fresh & Simple makes healthy cooking enjoyable and easy. Format: Digital eBook (Instant Download) Language: English
 
 ## 2. Links
 

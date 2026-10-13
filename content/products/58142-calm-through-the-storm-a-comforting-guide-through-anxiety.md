@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A comforting, honest guide through anxiety and panic attacks – with real exercises for the moment things feel worst. Ideal for audiences in mental health, mindfulness, and self-help.</p>
-<p> </p>
-<p>Understandable, warm, no clinical jargon. 50% commission per sale.</p>
+**Vendor's marketplace description:** A comforting, honest guide through anxiety and panic attacks – with real exercises for the moment things feel worst. Ideal for audiences in mental health, mindfulness, and self-help. Understandable, warm, no clinical jargon. 50% commission per sale.
 
 ## 2. Links
 

@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">Focused on men’s health, this guide explains prostate wellness, early warning signs, and lifestyle-based prevention strategies. Ideal for mature male audiences and trust-based promotions.</p>
-<p style="text-align:justify;"><br /><strong>Commission: 70% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** Focused on men’s health, this guide explains prostate wellness, early warning signs, and lifestyle-based prevention strategies. Ideal for mature male audiences and trust-based promotions. Commission: 70% | Automatic Approval
 
 ## 2. Links
 

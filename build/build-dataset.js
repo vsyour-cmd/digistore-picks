@@ -72,6 +72,17 @@ function promoLink(p) {
 
 // 厂商描述去污染:整句剔除含 CJK 的句子(厂商塞入的机器翻译重复文本),保留原语言内容
 const hasCJK = (s) => /[\u3000-\u303f\u3400-\u4dbf\u4e00-\u9fff\uff00-\uffef]/.test(s);
+// 厂商描述是 HTML 片段(h2/p/br/span style 等):转纯文本,否则页面模板 esc() 后标签原样可见
+const htmlToText = (s) => {
+  if (!s || !/<[a-z!/]/i.test(s)) return s;
+  return s
+    .replace(/<\s*(br|\/p|\/h[1-6]|\/li|\/div|\/tr)\s*\/?\s*>/gi, " ")
+    .replace(/<[^>]+>/g, " ")
+    .replace(/&nbsp;/gi, " ").replace(/&amp;/gi, "&").replace(/&lt;/gi, "<").replace(/&gt;/gi, ">")
+    .replace(/&quot;/gi, '"').replace(/&#0?39;|&apos;/gi, "'").replace(/&#\d+;/g, " ")
+    .replace(/\s{2,}/g, " ")
+    .trim();
+};
 const cleanDesc = (s) => {
   if (!s || !hasCJK(s)) return s;
   const kept = s.split(/(?<=[.!?。！？])\s+/).filter((sen) => !hasCJK(sen)).join(" ").replace(/\s{2,}/g, " ").trim();
@@ -94,7 +105,7 @@ const products = d.products.map((p) => {
     earningsPerSale: p.earningsPerSale,
     earningsPerClick: p.earningsPerOrderformClick,
     vendorName: p.vendorName,
-    description: cleanDesc(p.description),
+    description: cleanDesc(htmlToText(p.description)),
     imageUrl: img,                       // marketplace 官方图(可能为 null)
     salesPageUrl: p.salesPageUrl,
     promoLink: promoLink(p),

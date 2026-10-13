@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Heart Harmonics is a unique love manifestation offer, based on solfeggio frequencies and sound. Created by a proven vendor who has done over $2M in sales across their other offers. Send a test today!</p>
+**Vendor's marketplace description:** Heart Harmonics is a unique love manifestation offer, based on solfeggio frequencies and sound. Created by a proven vendor who has done over $2M in sales across their other offers. Send a test today!
 
 ## 2. Links
 

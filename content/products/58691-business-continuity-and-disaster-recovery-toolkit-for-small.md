@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Help small and midsize businesses take a more structured approach to business continuity, disaster recovery, incident response and backup readiness.</p>
-<p>The Business Continuity and Disaster Recovery Toolkit™ includes four practical digital planning tools:</p>
-<p>• Business Continuity Risk Assessment Pro™<br />• Disaster Recovery and RTO/RPO Planner Pro™<br />• Incident Response and Communications Planner Pro™<br />• Backup, Restore and Recovery Readiness Planner Pro™</p>
-<p>Ideal for small businesses, IT consultants, MSPs, technology service providers and organizations that want to assess operational risks, document recovery priorities and improve preparedness.</p>
-<p>The toolkit provides structured planning resources for continuity and recovery without promising specific financial, operational or business outcomes.</p>
+**Vendor's marketplace description:** Help small and midsize businesses take a more structured approach to business continuity, disaster recovery, incident response and backup readiness. The Business Continuity and Disaster Recovery Toolkit™ includes four practical digital planning tools: • Business Continuity Risk Assessment Pro™ • Disaster Recovery and RTO/RPO Planner Pro™ • Incident Response and Communications Planner Pro™ • Backup, Restore and Recovery Readiness Planner Pro™ Ideal for small businesses, IT consultants, MSPs, technology service providers and organizations that want to assess operational risks, document recovery priorities and improve preparedness. The toolkit provides structured planning resources for continuity and recovery without promising specific financial, operational or business outcomes.
 
 ## 2. Links
 

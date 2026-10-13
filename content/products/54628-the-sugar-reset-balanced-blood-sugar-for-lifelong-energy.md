@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The Sugar Reset + Diabetes Health App</p>
-<p>Your complete guide to balanced blood sugar, lasting energy, and optimal health – no complicated diets.</p>
-<p>✅ E-book + Android app included</p>
-<p>✅ 7-day action plan</p>
-<p>✅ 60-day money-back guarantee</p>
-<p>Perfect for anyone with energy issues, sugar cravings, or diabetes risk!</p>
+**Vendor's marketplace description:** The Sugar Reset + Diabetes Health App Your complete guide to balanced blood sugar, lasting energy, and optimal health – no complicated diets. ✅ E-book + Android app included ✅ 7-day action plan ✅ 60-day money-back guarantee Perfect for anyone with energy issues, sugar cravings, or diabetes risk!
 
 ## 2. Links
 

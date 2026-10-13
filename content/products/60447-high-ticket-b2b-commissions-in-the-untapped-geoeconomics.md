@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Attention: Financial Publishers, B2B Marketers, and Executive Network Owners.</strong></p>
-<p>The era of frictionless global trade is over. In a world defined by weaponized finance, sudden supply chain blockades, and data localization mandates, traditional macroeconomic advice is officially obsolete.</p>
-<p>C-suite executives, institutional fund managers, and enterprise risk architects have a massive, burning pain point: <em>They do not know how to accurately price geopolitical friction into their capital allocation models.</em></p>
-<p><strong>Enter the mayaNomics One-Day Intensive on GeoEconomics of Trade and Investment.</strong></p>
-<p>We have built the ultimate executive workshop designed to solve this exact problem, and we are looking for premium affiliate partners to bring it to a global, high-net-worth audience.</p>
-<h4> </h4>
+**Vendor's marketplace description:** Attention: Financial Publishers, B2B Marketers, and Executive Network Owners. The era of frictionless global trade is over. In a world defined by weaponized finance, sudden supply chain blockades, and data localization mandates, traditional macroeconomic advice is officially obsolete. C-suite executives, institutional fund managers, and enterprise risk architects have a massive, burning pain point: They do not know how to accurately price geopolitical friction into their capital allocation models. Enter the mayaNomics One-Day Intensive on GeoEconomics of Trade and Investment. We have built the ultimate executive workshop designed to solve this exact problem, and we are looking for premium affiliate partners to bring it to a global, high-net-worth audience.
 
 ## 2. Links
 
@@ -78,6 +73,20 @@ language: "en"
 - **Page word count:** 1134
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
+
+### 3b. Usage (vendor claims, not verified by us)
+
+> Full-day intensive : 8 hours of structured instruction and case analysis
+> Component Standalone Value Full-day intensive instruction (8 hours)
+
+### 3c. Cautions
+
+> Read full disclaimer → Payment processed securely by DigiStore24. By completing your registration you agree to the Terms & Conditions above.
+
+### 3d. Gallery (from vendor sales page)
+
+- assets/products/60447-g1.webp
+- assets/products/60447-g2.webp
 
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 

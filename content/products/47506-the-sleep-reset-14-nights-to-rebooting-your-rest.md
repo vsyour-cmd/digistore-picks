@@ -41,16 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2 style="text-align:center;">Welcome, Sleep Champions!</h2>
-<p>Thank you for joining us on a mission to help people achieve restful sleep! We know a good night's sleep is essential for overall health and well-being, and we deeply appreciate your support in spreading the word about The Sleep Reset: 14 Nights to Rebooting Your Rest.</p>
-<p>By recommending our program, you're not just promoting a product – you're offering the gift of better sleep, improved focus, and a more energized life. We're confident that your network will benefit greatly from your insights and The Sleep Reset's powerful techniques.</p>
-<p><strong>Here's what you can expect:</strong></p>
-<ul>
-<li><strong>Generous Referral Commissions:</strong> Earn a 60% commission for every successful sale generated through your unique referral link.</li>
-<li><strong>Dedicated Support Team:</strong> Our team is here to answer any questions you may have about the program or the referral program.</li>
-</ul>
-<p><strong>Together, let's help people reclaim their nights and unlock the power of deep sleep!</strong></p>
-<p><strong><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">For more information <a href="https://sites.google.com/view/sleep-reset" target="_blank" rel="noreferrer noopener">CLICK HERE</a></span></span></strong></p>
+**Vendor's marketplace description:** Welcome, Sleep Champions! Thank you for joining us on a mission to help people achieve restful sleep! We know a good night's sleep is essential for overall health and well-being, and we deeply appreciate your support in spreading the word about The Sleep Reset: 14 Nights to Rebooting Your Rest. By recommending our program, you're not just promoting a product – you're offering the gift of better sleep, improved focus, and a more energized life. We're confident that your network will benefit greatly from your insights and The Sleep Reset's powerful techniques. Here's what you can expect: Generous Referral Commissions: Earn a 60% commission for every successful sale generated through your unique referral link. Dedicated Support Team: Our team is here to answer any questions you may have about the program or the referral program. Together, let's help people reclaim their nights and unlock the power of deep sleep! For more information CLICK HERE
 
 ## 2. Links
 

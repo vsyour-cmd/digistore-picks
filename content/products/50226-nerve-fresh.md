@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>NEW TOP CONVERTING DISCOMFORT RELIEF PRODUCT FOR 2024: Works on ALL types of health traffic. Unique formulation super low refund rate. 220 AOV-Top emailers in space mail regularly.</p>
+**Vendor's marketplace description:** NEW TOP CONVERTING DISCOMFORT RELIEF PRODUCT FOR 2024: Works on ALL types of health traffic. Unique formulation super low refund rate. 220 AOV-Top emailers in space mail regularly.
 
 ## 2. Links
 

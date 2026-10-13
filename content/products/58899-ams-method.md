@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>A practical course designed to help you shift your mindset.</p>
+**Vendor's marketplace description:** A practical course designed to help you shift your mindset.
 
 ## 2. Links
 

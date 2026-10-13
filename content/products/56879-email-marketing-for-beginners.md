@@ -41,34 +41,24 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <pre>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**Vendor's marketplace description:** ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 EMAIL MARKETING FOR BEGINNERS
 Affiliate Summary
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Price: $17
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Price: $17
 Commission: 60% ($10.20/sale)
 Conversion: High (beginner-friendly)
-Refund rate: Low (60-day guarantee)
-
-Customer gets:
+Refund rate: Low (60-day guarantee) Customer gets:
 • 1 main ebook + 5 bonuses
 • $306 total value
-• Instant digital delivery
-
-Best audiences:
+• Instant digital delivery Best audiences:
 • Email marketing beginners
 • List building seekers
 • Affiliate marketers
-• Content creators
-
-Promo angles:
+• Content creators Promo angles:
 • "Own your audience, don't rent it"
 • "Stop guessing what to write"
-• "From zero to 100 subscribers"
-
-Get your link → Promote → Earn
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</pre>
+• "From zero to 100 subscribers" Get your link → Promote → Earn
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Unlock a lucrative opportunity with Lottery Whiz, the leading platform transforming the lottery experience through sophisticated technology and analytics.</p>
-<p>Our unique approach to lotto gaming not only captivates players but also ensures our affiliates enjoy high payouts and exceptional conversion rates.</p>
-<p>Rules:</p>
-<p>- No google/bing ads</p>
-<p>- No incentivized traffic</p>
-<p>For more information, email us at: <a href="mailto:affiliates@lotterywhiz.com" target="_blank" rel="noreferrer noopener">affiliates@lotterywhiz.com</a></p>
-<p> </p>
+**Vendor's marketplace description:** Unlock a lucrative opportunity with Lottery Whiz, the leading platform transforming the lottery experience through sophisticated technology and analytics. Our unique approach to lotto gaming not only captivates players but also ensures our affiliates enjoy high payouts and exceptional conversion rates. Rules: - No google/bing ads - No incentivized traffic For more information, email us at: affiliates@lotterywhiz.com
 
 ## 2. Links
 

@@ -41,13 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Your Go-To Guide for start working with Epoxy Resin. Learn creating fascinating Resin Arts and Crafts within minutes. All the tips and tricks that nobody tells you when you start. Including several detailed tutorials for your first projects.</p>
-<p> </p>
-<ul>
-<li>160 Pages</li>
-<li>7 In-depth tutorials</li>
-<li>Including all basic information to start</li>
-</ul>
+**Vendor's marketplace description:** Your Go-To Guide for start working with Epoxy Resin. Learn creating fascinating Resin Arts and Crafts within minutes. All the tips and tricks that nobody tells you when you start. Including several detailed tutorials for your first projects. 160 Pages 7 In-depth tutorials Including all basic information to start
 
 ## 2. Links
 

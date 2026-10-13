@@ -41,38 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Technician Digital Toolkit is made for <strong>Electrical and Instrumentation technicians, students, and junior engineers</strong> who work in industrial plants, factories, refineries, utilities, or any technical field.</p>
-<p>It contains <strong>ready-to-use guides, checklists, templates, and logs</strong> that make daily work easier, faster, and more organized. Everything is written in simple English, with practical steps that technicians can use immediately in the field.</p>
-<p>Inside the toolkit, you will find:</p>
-<ul>
-<li>
-<p>Daily, weekly, and monthly checklists</p>
-</li>
-<li>
-<p>Preventive maintenance sheets for common equipment</p>
-</li>
-<li>
-<p>Field inspection templates</p>
-</li>
-<li>
-<p>Troubleshooting guides</p>
-</li>
-<li>
-<p>Corrective maintenance steps</p>
-</li>
-<li>
-<p>Safety reminders</p>
-</li>
-<li>
-<p>Editable logs and forms</p>
-</li>
-<li>
-<p>Quick learning notes for students and beginners</p>
-</li>
-</ul>
-<p>This bundle is designed to:  <strong>save time</strong>, <strong>improve accuracy</strong>, and help technicians understand their responsibilities clearly.</p>
-<p>Students and fresh graduates can use it as a “real-world training guide” to prepare for job interviews and field work.</p>
-<p>Whether you are a new technician or an experienced one, this toolkit gives you all the important documents you need in one place for office as well as field activities.</p>
+**Vendor's marketplace description:** This Technician Digital Toolkit is made for Electrical and Instrumentation technicians, students, and junior engineers who work in industrial plants, factories, refineries, utilities, or any technical field. It contains ready-to-use guides, checklists, templates, and logs that make daily work easier, faster, and more organized. Everything is written in simple English, with practical steps that technicians can use immediately in the field. Inside the toolkit, you will find: Daily, weekly, and monthly checklists Preventive maintenance sheets for common equipment Field inspection templates Troubleshooting guides Corrective maintenance steps Safety reminders Editable logs and forms Quick learning notes for students and beginners This bundle is designed to: save time , improve accuracy , and help technicians understand their responsibilities clearly. Students and fresh graduates can use it as a “real-world training guide” to prepare for job interviews and field work. Whether you are a new technician or an experienced one, this toolkit gives you all the important documents you need in one place for office as well as field activities.
 
 ## 2. Links
 

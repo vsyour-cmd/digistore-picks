@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>The American Accent Course helps English learners master pronunciation, rhythm, stress, intonation, and connected speech. Students gain clarity, fluency, and confidence to sound natural in conversations, at work, or in studies with a true American accent.</p>
+**Vendor's marketplace description:** The American Accent Course helps English learners master pronunciation, rhythm, stress, intonation, and connected speech. Students gain clarity, fluency, and confidence to sound natural in conversations, at work, or in studies with a true American accent.
 
 ## 2. Links
 

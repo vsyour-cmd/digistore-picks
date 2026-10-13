@@ -41,26 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="max-width:700px;margin:0 auto;font-family:Arial, Helvetica, sans-serif;line-height:1.6;color:#222;">
-<p style="font-size:20px;font-weight:bold;margin-bottom:20px;">Looking for a weight loss offer that actually converts, and pays you like it should?</p>
-<p><strong>Leptozan</strong> taps into one of the most talked-about concepts in the health space right now, supporting the body’s natural GLP-1 response without needles or prescriptions. It’s a clean, direct message that resonates with today’s buyers.</p>
-<p style="margin-top:25px;font-weight:bold;">Here’s what’s in it for you:</p>
-<ul style="margin-top:10px;margin-bottom:25px;padding-left:20px;">
-<li style="margin-bottom:8px;">Earn <strong>60% commission</strong> on every sale</li>
-<li style="margin-bottom:8px;">CPA setup available, ask your manager</li>
-<li style="margin-bottom:8px;"><strong>Strong EPC potential</strong> with scalable traffic angles</li>
-<li>Broad appeal in a red-hot niche</li>
-</ul>
-<p>This funnel was built to be affiliate-friendly from day one, strong AOV, compelling VSL, and a clear mechanism that grabs attention fast.</p>
-<p style="margin-top:25px;font-weight:bold;">Everything you need to launch is ready:</p>
-<ul style="margin-top:10px;margin-bottom:25px;padding-left:20px;">
-<li style="margin-bottom:8px;"><a href="https://leptozan.com/ds/affiliates/#get-links" target="_blank" rel="noreferrer noopener"> Tracking links </a></li>
-<li style="margin-bottom:8px;"><a href="https://leptozan.com/ds/affiliates/#resources" target="_blank" rel="noreferrer noopener"> Compliant creatives </a></li>
-<li><a href="https://leptozan.com/ds/affiliates/#email-swipes" target="_blank" rel="noreferrer noopener"> Proven email swipes </a></li>
-</ul>
-<p>If you’re serious about promoting a weight loss offer with real upside, this is your shot.</p>
-<p style="margin-top:25px;font-size:18px;"><a style="font-weight:bold;text-decoration:underline;" href="https://leptozan.com/ds/affiliates/" target="_blank" rel="noreferrer noopener"> Visit our affiliates hub </a> , grab your link, plug into the resources folder, start driving traffic and <strong>cash out</strong>.</p>
-</div>
+**Vendor's marketplace description:** Looking for a weight loss offer that actually converts, and pays you like it should? Leptozan taps into one of the most talked-about concepts in the health space right now, supporting the body’s natural GLP-1 response without needles or prescriptions. It’s a clean, direct message that resonates with today’s buyers. Here’s what’s in it for you: Earn 60% commission on every sale CPA setup available, ask your manager Strong EPC potential with scalable traffic angles Broad appeal in a red-hot niche This funnel was built to be affiliate-friendly from day one, strong AOV, compelling VSL, and a clear mechanism that grabs attention fast. Everything you need to launch is ready: Tracking links Compliant creatives Proven email swipes If you’re serious about promoting a weight loss offer with real upside, this is your shot. Visit our affiliates hub , grab your link, plug into the resources folder, start driving traffic and cash out .
 
 ## 2. Links
 

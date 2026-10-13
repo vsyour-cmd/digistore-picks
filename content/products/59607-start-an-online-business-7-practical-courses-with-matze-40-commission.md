@@ -41,19 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>Seven practical courses. One focused start.</h2>
-<p>Introduce your English-speaking audience to a bundle covering content, affiliate marketing, publishing and commerce. Written lessons, workbooks and editable templates help learners compare their options and plan a practical next step.</p>
-<ul>
-<li>Faceless videos, Amazon KDP, affiliate websites and landing pages.</li>
-<li>Amazon Associates, TikTok Shop affiliate marketing and Amazon FBA.</li>
-<li>Seven ZIP downloads with written lessons, workbooks and templates.</li>
-<li>US$499 as a one-time payment; no subscription.</li>
-<li>40% affiliate commission under Digistore24 settlement terms.</li>
-</ul>
-<h3>Ready-to-use affiliate resources</h3>
-<p>A full-scene Matze cover, English social posts, Pinterest copy, an email draft and a product-specific affiliate link generator are available on the linked affiliate support page.</p>
-<p>For beginners planning a project they will implement themselves. Written self-study files; no video lessons or personal coaching. External accounts, approvals and costs are not included. Earnings and sales are not guaranteed.</p>
-<p>Affiliate support: info@einfachhaltbar.de</p>
+**Vendor's marketplace description:** Seven practical courses. One focused start. Introduce your English-speaking audience to a bundle covering content, affiliate marketing, publishing and commerce. Written lessons, workbooks and editable templates help learners compare their options and plan a practical next step. Faceless videos, Amazon KDP, affiliate websites and landing pages. Amazon Associates, TikTok Shop affiliate marketing and Amazon FBA. Seven ZIP downloads with written lessons, workbooks and templates. US$499 as a one-time payment; no subscription. 40% affiliate commission under Digistore24 settlement terms. Ready-to-use affiliate resources A full-scene Matze cover, English social posts, Pinterest copy, an email draft and a product-specific affiliate link generator are available on the linked affiliate support page. For beginners planning a project they will implement themselves. Written self-study files; no video lessons or personal coaching. External accounts, approvals and costs are not included. Earnings and sales are not guaranteed. Affiliate support: info@einfachhaltbar.de
 
 ## 2. Links
 

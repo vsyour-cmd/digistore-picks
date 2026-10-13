@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2><strong>Scandinavian Interior Design Made Easy – Premium</strong></h2>
-<p>More brightness, more coziness, a better sense of home—discover the Scandinavian interior design style for your living space.</p>
-<p>Do you want to create a home that is stylish, harmonious, and timeless? Then "Scandinavian Interior Design Made Easy" is your ideal companion. This digital inspiration book shows you, step by step, how to bring the popular Nordic interior style to life in a way that is both authentic and uniquely yours.</p>
-<p>Recommend a high-quality digital home and interior design product that is highly relevant to the popular home &amp; living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.</p>
+**Vendor's marketplace description:** Scandinavian Interior Design Made Easy – Premium More brightness, more coziness, a better sense of home—discover the Scandinavian interior design style for your living space. Do you want to create a home that is stylish, harmonious, and timeless? Then "Scandinavian Interior Design Made Easy" is your ideal companion. This digital inspiration book shows you, step by step, how to bring the popular Nordic interior style to life in a way that is both authentic and uniquely yours. Recommend a high-quality digital home and interior design product that is highly relevant to the popular home & living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.
 
 ## 2. Links
 

@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This Simple Nighttime Chewing Protocol Addresses Teeth And Memory Problems In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Big.</p>
+**Vendor's marketplace description:** This Simple Nighttime Chewing Protocol Addresses Teeth And Memory Problems In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Big.
 
 ## 2. Links
 

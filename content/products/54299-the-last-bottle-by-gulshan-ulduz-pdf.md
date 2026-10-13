@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Little tales for kind hearts. Written for all ages.</strong></p>
-<p><em>The Last Bottle</em> is an emotional, engaging story perfect for promoting across educational, parenting, mental health, and storytelling niches. This tale of recovery, friendship, and resilience resonates with teens and adults alike. Professionally illustrated and beautifully told, this high-quality PDF also includes the bonus satirical fable <em>The Croaking</em>.</p>
-<p>This product is highly sharable and evergreen, with great visual appeal.</p>
-<p>All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 <strong>Advertising Media Area</strong> for this product.</p>
+**Vendor's marketplace description:** Little tales for kind hearts. Written for all ages. The Last Bottle is an emotional, engaging story perfect for promoting across educational, parenting, mental health, and storytelling niches. This tale of recovery, friendship, and resilience resonates with teens and adults alike. Professionally illustrated and beautifully told, this high-quality PDF also includes the bonus satirical fable The Croaking . This product is highly sharable and evergreen, with great visual appeal. All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 Advertising Media Area for this product.
 
 ## 2. Links
 

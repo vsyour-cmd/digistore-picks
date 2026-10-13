@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Junk to Fresh: Swap It! – The Same Taste, Minus the Regret is a 43-page practical food-swap guide built around a simple, highly marketable concept: don't ban the craving — find a better alternative.</p>
-<p>The eBook covers alternatives for crunchy snacks, sugary drinks, sweet foods, creamy cravings, fast-food-style meals and breakfast, as well as smarter choices when eating out and a system for creating personalized food swaps.</p>
-<p>Ideal target audiences include: snack lovers, fast-food consumers, beginners interested in healthier eating, people who dislike restrictive diets and general lifestyle/wellness audiences.</p>
-<p>Strong promotional angles: junk-food alternatives, healthier snack swaps, smarter alternatives to favorite foods, reducing sugary drinks and “same craving, better choice.”</p>
-<p>The simple before/after nature of food swaps makes this product particularly suitable for visual social media content, reels, short videos, comparison posts and food-focused advertising.</p>
+**Vendor's marketplace description:** Junk to Fresh: Swap It! – The Same Taste, Minus the Regret is a 43-page practical food-swap guide built around a simple, highly marketable concept: don't ban the craving — find a better alternative. The eBook covers alternatives for crunchy snacks, sugary drinks, sweet foods, creamy cravings, fast-food-style meals and breakfast, as well as smarter choices when eating out and a system for creating personalized food swaps. Ideal target audiences include: snack lovers, fast-food consumers, beginners interested in healthier eating, people who dislike restrictive diets and general lifestyle/wellness audiences. Strong promotional angles: junk-food alternatives, healthier snack swaps, smarter alternatives to favorite foods, reducing sugary drinks and “same craving, better choice.” The simple before/after nature of food swaps makes this product particularly suitable for visual social media content, reels, short videos, comparison posts and food-focused advertising.
 
 ## 2. Links
 

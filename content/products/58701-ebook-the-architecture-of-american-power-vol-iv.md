@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>HOW SEPARATE STRENGTHS BECOME STRATEGIC POWER</strong></p>
-<p><em>The Architecture of American Power – Volume IV</em> explores a decisive question: Why do economic strength, technology, finance, and industry create lasting power in some nations—but not in others?</p>
-<p>What sets this book apart is its focus on <strong>strategic integration</strong>. It shows how economic performance, financial systems, industrial capacity, innovation, infrastructure, and resilience reinforce one another to create capabilities greater than any single component could generate alone.</p>
-<p>Readers gain a deeper understanding of modern great-power competition—not simply as a contest of wealth, technology, or production, but as a competition between entire systems capable of connecting and continuously renewing their strengths.</p>
-<p>For affiliates, this creates a distinctive product for audiences interested in geopolitics, economics, finance, industry, technology, competitiveness, and the structural foundations of long-term national power.</p>
+**Vendor's marketplace description:** HOW SEPARATE STRENGTHS BECOME STRATEGIC POWER The Architecture of American Power – Volume IV explores a decisive question: Why do economic strength, technology, finance, and industry create lasting power in some nations—but not in others? What sets this book apart is its focus on strategic integration . It shows how economic performance, financial systems, industrial capacity, innovation, infrastructure, and resilience reinforce one another to create capabilities greater than any single component could generate alone. Readers gain a deeper understanding of modern great-power competition—not simply as a contest of wealth, technology, or production, but as a competition between entire systems capable of connecting and continuously renewing their strengths. For affiliates, this creates a distinctive product for audiences interested in geopolitics, economics, finance, industry, technology, competitiveness, and the structural foundations of long-term national power.
 
 ## 2. Links
 

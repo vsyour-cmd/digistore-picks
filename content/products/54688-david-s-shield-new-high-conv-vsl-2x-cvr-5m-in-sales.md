@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>From a Top Vendor, now featuring a brand-new VSL with  $5M+ in sales that DOUBLES conversions and dominates across Christian, prepper, and conservative audiences.Faith-driven EMP &amp; collapse offer with massive emotional pull and real-world urgency — turning believers into buyers.<br />10%+ email CVR ; $2–$4 EPCs ; Proven across cold, warm, and native ; Open to all traffic types (email, native, social, search, push, display)For whitelisting, swipe files, and creative assets:<br /><a href="https://thedavidsshield.com/d/daff/affiliates/" target="_blank" rel="noreferrer noopener">https://thedavidsshield.com/d/daff/affiliates/</a></p>
+**Vendor's marketplace description:** From a Top Vendor, now featuring a brand-new VSL with $5M+ in sales that DOUBLES conversions and dominates across Christian, prepper, and conservative audiences.Faith-driven EMP & collapse offer with massive emotional pull and real-world urgency — turning believers into buyers. 10%+ email CVR ; $2–$4 EPCs ; Proven across cold, warm, and native ; Open to all traffic types (email, native, social, search, push, display)For whitelisting, swipe files, and creative assets: https://thedavidsshield.com/d/daff/affiliates/
 
 ## 2. Links
 

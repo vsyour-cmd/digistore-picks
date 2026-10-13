@@ -41,24 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <blockquote>
-<p><strong>SelfPlus AGE+ is a premium once-daily Resveratrol supplement positioned for the healthy-aging and daily wellness market. Each bottle contains 30 capsules and provides 125 mg of Trans-Resveratrol per capsule from Japanese Knotweed root.</strong></p>
-<p><strong>Affiliates can promote multiple front-end package options, including 1, 3, and 6-bottle offers, giving customers flexibility while providing strong order-value potential. The funnel also includes a dedicated post-purchase upsell offer designed to increase average order value.</strong></p>
-<p><strong>The sales funnel is professionally designed, mobile optimized, and supported by a 60-day money-back guarantee. Approved promotional positioning includes healthy aging support, antioxidant support, cellular wellness, and daily Resveratrol supplementation.</strong></p>
-<p><strong>Affiliate promotional guidelines are available to help partners advertise the product accurately and compliantly.</strong></p>
-<p><strong>Product highlights:</strong></p>
-<ul>
-<li>125 mg Trans-Resveratrol per capsule</li>
-<li>30 capsules per bottle</li>
-<li>Once-daily formula</li>
-<li>Multiple front-end package options</li>
-<li>Dedicated upsell funnel</li>
-<li>60-day money-back guarantee</li>
-<li>Designed for the U.S. health &amp; wellness market</li>
-</ul>
-<p><strong>SelfPlus AGE+ is a strong fit for affiliates in the healthy aging, wellness, supplement, and lifestyle niches.</strong></p>
-</blockquote>
-<p> </p>
+**Vendor's marketplace description:** SelfPlus AGE+ is a premium once-daily Resveratrol supplement positioned for the healthy-aging and daily wellness market. Each bottle contains 30 capsules and provides 125 mg of Trans-Resveratrol per capsule from Japanese Knotweed root. Affiliates can promote multiple front-end package options, including 1, 3, and 6-bottle offers, giving customers flexibility while providing strong order-value potential. The funnel also includes a dedicated post-purchase upsell offer designed to increase average order value. The sales funnel is professionally designed, mobile optimized, and supported by a 60-day money-back guarantee. Approved promotional positioning includes healthy aging support, antioxidant support, cellular wellness, and daily Resveratrol supplementation. Affiliate promotional guidelines are available to help partners advertise the product accurately and compliantly. Product highlights: 125 mg Trans-Resveratrol per capsule 30 capsules per bottle Once-daily formula Multiple front-end package options Dedicated upsell funnel 60-day money-back guarantee Designed for the U.S. health & wellness market SelfPlus AGE+ is a strong fit for affiliates in the healthy aging, wellness, supplement, and lifestyle niches.
 
 ## 2. Links
 

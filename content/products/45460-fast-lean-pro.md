@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Fast Lean Pro</strong>: The Nobel "Fasting" Formula<br />That Works Faster Than Keto</p>
-<ul>
-<li>VSL written by an A-list copywriter with hundreds of winners</li>
-<li>4 intros to choose the right one for you</li>
-<li>Instant Commission Bump for volume and proven affs</li>
-</ul>
+**Vendor's marketplace description:** Fast Lean Pro : The Nobel "Fasting" Formula That Works Faster Than Keto VSL written by an A-list copywriter with hundreds of winners 4 intros to choose the right one for you Instant Commission Bump for volume and proven affs
 
 ## 2. Links
 

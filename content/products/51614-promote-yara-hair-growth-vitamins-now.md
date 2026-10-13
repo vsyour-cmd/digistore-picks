@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Yara Hair Growth Vitamins are expertly crafted to support stronger, thicker, and healthier hair from within.</strong></p>
-<p> </p>
-<p>Our unique Brazilian formula, developed by top Korean scientists and created by women, blends nature and science to target the root causes of hair thinning. Infused with Fo-Ti Root, Saw Palmetto, Horsetail, and Bamboo Extract, Yara delivers the essential nutrients your hair needs to thrive. We've also included our Proprietary Hair Growth Complex to enhance scalp health, reduce shedding, and promote long-lasting hair vitality.</p>
-<p><strong>Doctor-Formulated:</strong> Designed by experts using cutting-edge technology, our formula ensures high efficacy, clean ingredients, and superior absorption for real results. Every ingredient is clinically tested to provide the best possible hair support.</p>
-<p><strong>Lab Tested:</strong> Yara undergoes rigorous third-party lab testing to guarantee purity, potency, and safety. Manufactured in the USA under strict practices to maintain the highest quality standards.</p>
+**Vendor's marketplace description:** Yara Hair Growth Vitamins are expertly crafted to support stronger, thicker, and healthier hair from within. Our unique Brazilian formula, developed by top Korean scientists and created by women, blends nature and science to target the root causes of hair thinning. Infused with Fo-Ti Root, Saw Palmetto, Horsetail, and Bamboo Extract, Yara delivers the essential nutrients your hair needs to thrive. We've also included our Proprietary Hair Growth Complex to enhance scalp health, reduce shedding, and promote long-lasting hair vitality. Doctor-Formulated: Designed by experts using cutting-edge technology, our formula ensures high efficacy, clean ingredients, and superior absorption for real results. Every ingredient is clinically tested to provide the best possible hair support. Lab Tested: Yara undergoes rigorous third-party lab testing to guarantee purity, potency, and safety. Manufactured in the USA under strict practices to maintain the highest quality standards.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p> </p>
-<ul>
-<li><strong>High-Converting VSL</strong>: Drives massive sales and boosts your commissions!</li>
-<li><strong>Big Payouts</strong>: Earn top-tier commissions on every sale!</li>
-<li><strong>Hot Product</strong>: In-demand weight loss solution with huge market appeal!</li>
-<li><strong>Proven Success</strong>: Low refunds, high profits!</li>
-</ul>
-<p>Promote GlucoGuard now and watch your earnings explode! </p>
+**Vendor's marketplace description:** High-Converting VSL : Drives massive sales and boosts your commissions! Big Payouts : Earn top-tier commissions on every sale! Hot Product : In-demand weight loss solution with huge market appeal! Proven Success : Low refunds, high profits! Promote GlucoGuard now and watch your earnings explode!
 
 ## 2. Links
 

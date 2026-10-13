@@ -41,12 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>The MfL.Academy is brand new on the market and offers you the rare opportunity to be part of it right from the start!</strong><br />Our platform combines international online training programs and e-books across a wide variety of subjects – featuring a selection of top lecturers from diverse industries.</p>
-<h3>Your Benefits as an Affiliate:</h3>
-<p>✅ Attractive <strong>15% commission</strong> on all sales (60-day cookie duration)<br />✅ Strong growth potential thanks to our fresh launch<br />✅ High-profile lecturers from practice, business, social media, creative industries, and more<br />✅ Premium content designed for beginners, self-employed professionals, and experts alike<br />✅ International reach: courses and sales pages available in <strong>DE / EN / ES</strong> and many more languages<br />✅ High conversion rates driven by persuasive sales pages<br />✅ Professional marketing materials ready to copy and use<br />✅ Continuously growing portfolio – new courses and e-books released regularly</p>
-<hr />
-<p><strong>Become a partner now and grow with us!</strong></p>
-<p>Take advantage of this unique chance to collaborate with an innovative educational platform that relies on strong partners and excellent content from the very beginning. Benefit from high commissions, a wide range of topics, and a motivated target audience.</p>
+**Vendor's marketplace description:** The MfL.Academy is brand new on the market and offers you the rare opportunity to be part of it right from the start! Our platform combines international online training programs and e-books across a wide variety of subjects – featuring a selection of top lecturers from diverse industries. Your Benefits as an Affiliate: ✅ Attractive 15% commission on all sales (60-day cookie duration) ✅ Strong growth potential thanks to our fresh launch ✅ High-profile lecturers from practice, business, social media, creative industries, and more ✅ Premium content designed for beginners, self-employed professionals, and experts alike ✅ International reach: courses and sales pages available in DE / EN / ES and many more languages ✅ High conversion rates driven by persuasive sales pages ✅ Professional marketing materials ready to copy and use ✅ Continuously growing portfolio – new courses and e-books released regularly Become a partner now and grow with us! Take advantage of this unique chance to collaborate with an innovative educational platform that relies on strong partners and excellent content from the very beginning. Benefit from high commissions, a wide range of topics, and a motivated target audience.
 
 ## 2. Links
 

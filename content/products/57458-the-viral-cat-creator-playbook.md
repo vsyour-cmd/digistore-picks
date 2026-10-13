@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>This 32-page creator guide gives cat creators the exact system to grow on Instagram and TikTok in 2026. No generic tips. No fluff. Just the frameworks that actually work.</p>
-<p>Inside you get a complete 30-day done-for-you content calendar, 50 scroll-stopping hook templates sorted by goal, 4 high-converting script frameworks, a full brand deal pitch template with rate card guidance, 6 revenue streams beyond brand deals, an analytics guide with the 4 KPIs that actually predict growth, a mistakes section covering the 10 account killers, and a growth blueprint for months 2 to 6.</p>
-<p>Instant PDF download. Available in English (and German soon.</p>
+**Vendor's marketplace description:** This 32-page creator guide gives cat creators the exact system to grow on Instagram and TikTok in 2026. No generic tips. No fluff. Just the frameworks that actually work. Inside you get a complete 30-day done-for-you content calendar, 50 scroll-stopping hook templates sorted by goal, 4 high-converting script frameworks, a full brand deal pitch template with rate card guidance, 6 revenue streams beyond brand deals, an analytics guide with the 4 KPIs that actually predict growth, a mistakes section covering the 10 account killers, and a growth blueprint for months 2 to 6. Instant PDF download. Available in English (and German soon.
 
 ## 2. Links
 

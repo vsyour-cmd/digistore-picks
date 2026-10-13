@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>Ready to Boost Your Earnings While Promoting Joint Health and Mobility?</strong></p>
-<p>We’re offering an exclusive <strong>60% commission</strong> for every sale of <strong>Curcumitol-Q</strong> you drive!</p>
-<p><strong>Curcumitol-Q</strong> is a breakthrough supplement formulated with advanced curcumin technology to support joint comfort, reduce inflammation, and enhance overall mobility.</p>
-<p>As an affiliate, you'll earn <strong>60% commission</strong> on each sale you generate.</p>
-<p>When someone purchases Curcumitol-Q through your referral, you’ll receive a generous cut for every bottle sold.</p>
-<p>No minimum order is required, and you can promote Curcumitol-Q via your website, social media, or email campaigns.</p>
-<p><strong>Don't miss out!</strong></p>
-<p>Visit our affiliate support page to get your affiliate link, graphics, social posts, and email swipes—and start maximizing your income today!</p>
+**Vendor's marketplace description:** Ready to Boost Your Earnings While Promoting Joint Health and Mobility? We’re offering an exclusive 60% commission for every sale of Curcumitol-Q you drive! Curcumitol-Q is a breakthrough supplement formulated with advanced curcumin technology to support joint comfort, reduce inflammation, and enhance overall mobility. As an affiliate, you'll earn 60% commission on each sale you generate. When someone purchases Curcumitol-Q through your referral, you’ll receive a generous cut for every bottle sold. No minimum order is required, and you can promote Curcumitol-Q via your website, social media, or email campaigns. Don't miss out! Visit our affiliate support page to get your affiliate link, graphics, social posts, and email swipes—and start maximizing your income today!
 
 ## 2. Links
 

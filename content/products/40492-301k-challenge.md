@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Paint-by-numbers follow-along quick-start training for beginners. Start here if you often find yourself thinking “there’s no way I can do this... this is too complicated!” whenever you’re going through courses. We’ve created this “do this, do that” 30-day challenge to kick-start your online business without forcing you to get a PhD in internet marketing or spending thousands of dollars on private mentoring programs. Just follow the system.</p>
+**Vendor's marketplace description:** Paint-by-numbers follow-along quick-start training for beginners. Start here if you often find yourself thinking “there’s no way I can do this... this is too complicated!” whenever you’re going through courses. We’ve created this “do this, do that” 30-day challenge to kick-start your online business without forcing you to get a PhD in internet marketing or spending thousands of dollars on private mentoring programs. Just follow the system.
 
 ## 2. Links
 

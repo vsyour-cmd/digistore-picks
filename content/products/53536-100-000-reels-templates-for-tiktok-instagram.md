@@ -41,33 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <div style="font-family:Arial, Helvetica, sans-serif;line-height:1.55;color:#1f2937;max-width:900px;">
-<h3 style="margin:0 0 10px;font-size:22px;color:#111827;">Reelara All-Access Reels Bundle (Instant Download)</h3>
-<p style="margin:0 0 12px;font-size:15px;">Reelara is a high-demand digital bundle with 100,000+ ready-to-post short-form video assets for Instagram, TikTok and Shorts. Buyers get instant access after checkout.</p>
-<div style="background:#f8fafc;border:1px solid #e5e7eb;padding:12px;margin:0 0 14px;"><strong style="color:#111827;">Why affiliates promote this offer:</strong>
-<ul style="margin:8px 0 0 18px;padding:0;">
-<li>50% commission per sale</li>
-<li>One-time payment offer (easy to communicate)</li>
-<li>Broad target audience: creators, coaches, agencies, ecom brands</li>
-<li>Strong pain-point fit: save time, post faster, no editing bottleneck</li>
-</ul>
-</div>
-<strong style="margin:0 0 8px;color:#111827;">What the customer receives:</strong>
-<ul style="margin:0 0 14px 18px;padding:0;">
-<li>100,000+ reels templates (9:16 MP4)</li>
-<li>Hooks, captions and sound suggestions</li>
-<li>10+ niches included</li>
-<li>Commercial usage for personal and client projects</li>
-<li>Instant delivery via DigiStore24 after payment</li>
-</ul>
-<strong style="margin:0 0 8px;color:#111827;">Affiliate support:</strong>
-<ul style="margin:0 0 14px 18px;padding:0;">
-<li>Promo materials available (angles, creatives, copy ideas)</li>
-<li>Fast partner support for campaign questions</li>
-<li>Transparent offer with clear customer promise</li>
-</ul>
-<p style="margin:0;font-size:13px;color:#4b5563;">Note: Final checkout amount is displayed in the buyer's local currency and may include VAT depending on country.</p>
-</div>
+**Vendor's marketplace description:** Reelara All-Access Reels Bundle (Instant Download) Reelara is a high-demand digital bundle with 100,000+ ready-to-post short-form video assets for Instagram, TikTok and Shorts. Buyers get instant access after checkout. Why affiliates promote this offer: 50% commission per sale One-time payment offer (easy to communicate) Broad target audience: creators, coaches, agencies, ecom brands Strong pain-point fit: save time, post faster, no editing bottleneck What the customer receives: 100,000+ reels templates (9:16 MP4) Hooks, captions and sound suggestions 10+ niches included Commercial usage for personal and client projects Instant delivery via DigiStore24 after payment Affiliate support: Promo materials available (angles, creatives, copy ideas) Fast partner support for campaign questions Transparent offer with clear customer promise Note: Final checkout amount is displayed in the buyer's local currency and may include VAT depending on country.
 
 ## 2. Links
 

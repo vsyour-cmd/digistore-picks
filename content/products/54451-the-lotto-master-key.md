@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Tap into the massive lottery market ($100B+ annually) &amp; hit all the major pain points - crushing debt, medical bills, mortgage struggles, living paycheck-to-paycheck! Multiple high-converting VSLs, rock-solid credibility, high-ticket flow. Evergreen $100B+ market, hungry buyers, killer EPCs. Apply now!</p>
+**Vendor's marketplace description:** Tap into the massive lottery market ($100B+ annually) & hit all the major pain points - crushing debt, medical bills, mortgage struggles, living paycheck-to-paycheck! Multiple high-converting VSLs, rock-solid credibility, high-ticket flow. Evergreen $100B+ market, hungry buyers, killer EPCs. Apply now!
 
 ## 2. Links
 

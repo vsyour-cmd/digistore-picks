@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Discover clearing techniques to remove negative blocks and elevate your spiritual power.<br /><br />Rewrite the mental patterns holding you back from achieving your dreams without even realizing it.<br /><br />Instantly dissolve limiting patterns, even if you've felt stuck for years.<br /><br />Easily banish unproductive beliefs and unlock the freedom of unlimited power.<br /><br />Effortlessly melt away stagnation, doubt, and self-criticism.<br /><br />Use new affirmations to easily clear away unhelpful beliefs.</p>
+**Vendor's marketplace description:** Discover clearing techniques to remove negative blocks and elevate your spiritual power. Rewrite the mental patterns holding you back from achieving your dreams without even realizing it. Instantly dissolve limiting patterns, even if you've felt stuck for years. Easily banish unproductive beliefs and unlock the freedom of unlimited power. Effortlessly melt away stagnation, doubt, and self-criticism. Use new affirmations to easily clear away unhelpful beliefs.
 
 ## 2. Links
 

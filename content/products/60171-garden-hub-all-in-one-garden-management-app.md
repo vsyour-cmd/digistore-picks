@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Keep plants, garden plans, journals, harvests, soil and fertilizer, seeds and supplies, budgets, and watering schedules organized in one place. Garden Hub helps gardeners plan their work, track progress, and manage daily garden tasks. The digital hub includes garden management tools and 12 garden printables.</p>
+**Vendor's marketplace description:** Keep plants, garden plans, journals, harvests, soil and fertilizer, seeds and supplies, budgets, and watering schedules organized in one place. Garden Hub helps gardeners plan their work, track progress, and manage daily garden tasks. The digital hub includes garden management tools and 12 garden printables.
 
 ## 2. Links
 

@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Tired of watching another day slip by in “I’ll start tomorrow” mode?</p>
-<p> </p>
-<p>6 Simple Habits to Beat Procrastination and Build Lasting Confidence hands readers 6 dead-simple habits to break the procrastination cycle — no willpower hacks, no burnout, just real momentum. Plus, it comes with a bonus Anti-Procrastination Plan: a step-by-step action guide to start beating delay today, not “someday.”</p>
-<p> </p>
-<p>Perfect for the chronic overthinkers, the serial planners, and anyone who’s sick of their own excuses.</p>
+**Vendor's marketplace description:** Tired of watching another day slip by in “I’ll start tomorrow” mode? 6 Simple Habits to Beat Procrastination and Build Lasting Confidence hands readers 6 dead-simple habits to break the procrastination cycle — no willpower hacks, no burnout, just real momentum. Plus, it comes with a bonus Anti-Procrastination Plan: a step-by-step action guide to start beating delay today, not “someday.” Perfect for the chronic overthinkers, the serial planners, and anyone who’s sick of their own excuses.
 
 ## 2. Links
 

@@ -41,14 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>• Compliant! </p>
-<p>• 75% commission for initial product sales; 75% commission for upsells</p>
-<p>• Performs well in most niches: survival, homesteading, off grird, self-sufficiency, remedies, etc.</p>
-<p>• Put it to test!</p>
-<p>If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com.</p>
-<p>Promolink: https://www.digistore24.com/redir/471054/AFFILIATE/CAMPAIGNKEY</p>
-<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
-<p>For support please visit our page <a href="https://offgridsurvivalprojects.com/dgaffiliates/">https://offgridsurvivalprojects.com/dgaffiliates/</a> or email affiliates.gbs@gmail.com.</p>
+**Vendor's marketplace description:** • Compliant! • 75% commission for initial product sales; 75% commission for upsells • Performs well in most niches: survival, homesteading, off grird, self-sufficiency, remedies, etc. • Put it to test! If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com. Promolink: https://www.digistore24.com/redir/471054/AFFILIATE/CAMPAIGNKEY Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. For support please visit our page https://offgridsurvivalprojects.com/dgaffiliates/ or email affiliates.gbs@gmail.com.
 
 ## 2. Links
 

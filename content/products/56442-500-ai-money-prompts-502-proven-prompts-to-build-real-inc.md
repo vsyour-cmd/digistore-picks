@@ -41,65 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <h2>502 prompts. One bundle. Unlimited AI income potential.</h2>
-<p> </p>
-<p>What separates people who <em>talk</em> about making money with AI - and those who actually do it? The right prompts.</p>
-<p>The <strong>500+ AI Money Prompts Bundle</strong> gives you <strong>502 battle-tested prompts</strong> engineered to turn AI tools like ChatGPT, Claude, and Gemini into real income-generating machines - for freelancers, digital entrepreneurs, content creators, coaches, and side-hustlers.</p>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3>What's inside</h3>
-<ul>
-<li><strong>Side Income (86 prompts)</strong> — Freelancing, Etsy listings, digital products, Gumroad offers, coaching packages, passive income, online courses, print-on-demand, Amazon KDP</li>
-<li><strong>Viral Content (91 prompts)</strong> — TikTok scripts, Twitter/X threads, Instagram carousels, YouTube ideas, LinkedIn posts, Reels, Shorts, Pinterest</li>
-<li><strong>Email &amp; Sales Copy (71 prompts)</strong> — Welcome sequences, launch emails, cold outreach, sales pages, abandoned cart, re-engagement</li>
-<li><strong>Automation Templates (61 prompts)</strong> — SOPs, Zapier and Make workflows, AI tool stacks, client onboarding, CRM setup, Notion OS</li>
-<li><strong>Business Strategy (78 prompts)</strong> — Niche validation, competitor analysis, pricing psychology, scaling roadmaps, OKR frameworks, go-to-market</li>
-<li><strong>Writing &amp; Blogging (66 prompts)</strong> — SEO articles, lead magnets, newsletters, pillar content, case studies, ghostwriting</li>
-<li><strong>Design &amp; Branding (49 prompts)</strong> — AI image prompts for Midjourney and DALL-E, brand identity, logo briefs, social templates, pitch decks</li>
-</ul>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3>Who this is for</h3>
-<ul>
-<li>Freelancers who want to 10x their output and charge more</li>
-<li>Digital product creators building AI-powered income streams</li>
-<li>Coaches and consultants who want done-for-you AI workflows</li>
-<li>Side-hustlers ready to monetize AI without the learning curve</li>
-<li>Anyone who wants to stop guessing and start earning with AI</li>
-</ul>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3>Why this bundle works</h3>
-<p>Most people waste hours writing vague prompts that produce mediocre results. This bundle eliminates that friction. Every prompt is structured to produce <strong>commercially usable output</strong> - the kind clients pay for and customers buy.</p>
-<p>Stop experimenting. Start delivering.</p>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3>Free bonuses included</h3>
-<ul>
-<li><strong>AI Tool Stack Guide</strong> — The exact tools used by 6-figure creators, ranked by ROI</li>
-<li><strong>90-Day Content Calendar</strong> — Foundation, Momentum, and Monetization phases mapped month by month</li>
-<li><strong>Monetization Roadmap</strong> — 30/60/90-day action plan from first dollar to scalable income</li>
-</ul>
-<p> </p>
-<hr />
-<p> </p>
-<p><strong>Compatible with:</strong> Claude, ChatGPT, Gemini, Llama, Mistral, and all major AI tools. Instant digital download.</p>
-<p><strong>60-day money-back guarantee.</strong> Full refund if not satisfied.</p>
-<p> </p>
-<hr />
-<h3> </h3>
-<h3>Affiliate information</h3>
-<ul>
-<li><strong>Commission:</strong> 60% per sale</li>
-<li><strong>Best audience:</strong> Make money online, AI, freelancing, digital marketing, side income lists</li>
-</ul>
-<p> </p>
-<p>Get your affiliate link and start promoting today.</p>
-<p><small>Results vary by individual. This product provides tools and prompts; actual income depends on the buyer's effort, skills, and market conditions. No specific income is guaranteed.</small></p>
+**Vendor's marketplace description:** 502 prompts. One bundle. Unlimited AI income potential. What separates people who talk about making money with AI - and those who actually do it? The right prompts. The 500+ AI Money Prompts Bundle gives you 502 battle-tested prompts engineered to turn AI tools like ChatGPT, Claude, and Gemini into real income-generating machines - for freelancers, digital entrepreneurs, content creators, coaches, and side-hustlers. What's inside Side Income (86 prompts) — Freelancing, Etsy listings, digital products, Gumroad offers, coaching packages, passive income, online courses, print-on-demand, Amazon KDP Viral Content (91 prompts) — TikTok scripts, Twitter/X threads, Instagram carousels, YouTube ideas, LinkedIn posts, Reels, Shorts, Pinterest Email & Sales Copy (71 prompts) — Welcome sequences, launch emails, cold outreach, sales pages, abandoned cart, re-engagement Automation Templates (61 prompts) — SOPs, Zapier and Make workflows, AI tool stacks, client onboarding, CRM setup, Notion OS Business Strategy (78 prompts) — Niche validation, competitor analysis, pricing psychology, scaling roadmaps, OKR frameworks, go-to-market Writing & Blogging (66 prompts) — SEO articles, lead magnets, newsletters, pillar content, case studies, ghostwriting Design & Branding (49 prompts) — AI image prompts for Midjourney and DALL-E, brand identity, logo briefs, social templates, pitch decks Who this is for Freelancers who want to 10x their output and charge more Digital product creators building AI-powered income streams Coaches and consultants who want done-for-you AI workflows Side-hustlers ready to monetize AI without the learning curve Anyone who wants to stop guessing and start earning with AI Why this bundle works Most people waste hours writing vague prompts that produce mediocre results. This bundle eliminates that friction. Every prompt is structured to produce commercially usable output - the kind clients pay for and customers buy. Stop experimenting. Start delivering. Free bonuses included AI Tool Stack Guide — The exact tools used by 6-figure creators, ranked by ROI 90-Day Content Calendar — Foundation, Momentum, and Monetization phases mapped month by month Monetization Roadmap — 30/60/90-day action plan from first dollar to scalable income Compatible with: Claude, ChatGPT, Gemini, Llama, Mistral, and all major AI tools. Instant digital download. 60-day money-back guarantee. Full refund if not satisfied. Affiliate information Commission: 60% per sale Best audience: Make money online, AI, freelancing, digital marketing, side income lists Get your affiliate link and start promoting today. Results vary by individual. This product provides tools and prompts; actual income depends on the buyer's effort, skills, and market conditions. No specific income is guaranteed.
 
 ## 2. Links
 

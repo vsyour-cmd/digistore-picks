@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>the tradbook AI </strong> ultimate plan multi profile support Facebbok End User DM , Instagram Post Comment &amp; Youtube liker accont reply this is ameging plan for digital marketing </p>
+**Vendor's marketplace description:** the tradbook AI ultimate plan multi profile support Facebbok End User DM , Instagram Post Comment & Youtube liker accont reply this is ameging plan for digital marketing
 
 ## 2. Links
 

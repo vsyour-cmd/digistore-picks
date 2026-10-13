@@ -41,11 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <pre>Promote The Flow Code – the binaural beats system that helps creators enter flow state on demand.
-
-50% commission ($97 per sale)
-
-Perfect for affiliates in: productivity, creativity, <br />writing, programming, entrepreneurship, <br />self-improvement niches.</pre>
+**Vendor's marketplace description:** Promote The Flow Code – the binaural beats system that helps creators enter flow state on demand. 50% commission ($97 per sale) Perfect for affiliates in: productivity, creativity, writing, programming, entrepreneurship, self-improvement niches.
 
 ## 2. Links
 

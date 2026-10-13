@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong> NEW BATTERY 2025!! High Converting Battery Reconditioning course!</strong></p>
-<p>The Winning Offer You Were Looking For With Huge EPC! It Works On Energy/Home/Garden/Woodworking And Prepper/Survival Lists.Great Results On Native/Facebook Traffic!</p>
-<p><strong>Contact Us For Paybump!</strong></p>
+**Vendor's marketplace description:** NEW BATTERY 2025!! High Converting Battery Reconditioning course! The Winning Offer You Were Looking For With Huge EPC! It Works On Energy/Home/Garden/Woodworking And Prepper/Survival Lists.Great Results On Native/Facebook Traffic! Contact Us For Paybump!
 
 ## 2. Links
 

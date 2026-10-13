@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>50% Commission on a $47/month software</p>
-<p>Commisions are monthly recurring for life!</p>
-<p>The BEST AI YouTube software to grow a channel</p>
-<p>Used by top YouTubers, Feel GOOD About Promoting</p>
+**Vendor's marketplace description:** 50% Commission on a $47/month software Commisions are monthly recurring for life! The BEST AI YouTube software to grow a channel Used by top YouTubers, Feel GOOD About Promoting
 
 ## 2. Links
 

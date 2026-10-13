@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>"My Feelings (Radio Edit)" by Jay V Flyy is a vibrant Tech House track that captures the essence of summer energy and dancefloor euphoria. Released on January 31, 2025, this single blends minimal house grooves with uplifting melodies, creating a feel-good anthem designed for both intimate gatherings and high-energy club nights.</p>
+**Vendor's marketplace description:** "My Feelings (Radio Edit)" by Jay V Flyy is a vibrant Tech House track that captures the essence of summer energy and dancefloor euphoria. Released on January 31, 2025, this single blends minimal house grooves with uplifting melodies, creating a feel-good anthem designed for both intimate gatherings and high-energy club nights.
 
 ## 2. Links
 

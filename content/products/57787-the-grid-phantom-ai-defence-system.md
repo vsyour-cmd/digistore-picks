@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>BRAND NEW for 2026 from 11x ClickBank Platinum Vendor!  Open to ALL affiliates.  <strong>90% on the entire funnel!</strong><br /><br />AI fear = money in your pocket.  Desperate market = <strong>6.1% conversion rate</strong> and <strong>$2.10 EPC's</strong>.  Converts cold traffic.  Take advantage while the craze is here!  </p>
-<p>For more info, contact us.</p>
+**Vendor's marketplace description:** BRAND NEW for 2026 from 11x ClickBank Platinum Vendor! Open to ALL affiliates. 90% on the entire funnel! AI fear = money in your pocket. Desperate market = 6.1% conversion rate and $2.10 EPC's . Converts cold traffic. Take advantage while the craze is here! For more info, contact us.
 
 ## 2. Links
 

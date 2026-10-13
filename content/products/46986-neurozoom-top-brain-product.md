@@ -41,8 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>New Memory Product Ready To Be Scaled!</p>
-<p>Successfully Tested On All Traffic Sources. Apply Now!</p>
+**Vendor's marketplace description:** New Memory Product Ready To Be Scaled! Successfully Tested On All Traffic Sources. Apply Now!
 
 ## 2. Links
 

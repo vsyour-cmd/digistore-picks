@@ -41,9 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p style="text-align:justify;">A practical health guide helping women understand hormonal imbalance and address fatigue, mood swings, and weight challenges naturally.</p>
-<p>Broad appeal in the wellness niche with strong conversion potential.</p>
-<p><br /><strong>Commission: 70% | Automatic Approval</strong></p>
+**Vendor's marketplace description:** A practical health guide helping women understand hormonal imbalance and address fatigue, mood swings, and weight challenges naturally. Broad appeal in the wellness niche with strong conversion potential. Commission: 70% | Automatic Approval
 
 ## 2. Links
 

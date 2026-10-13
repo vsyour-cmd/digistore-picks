@@ -41,10 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p><strong>An AI assistant that answers every customer message on WhatsApp, Instagram, Messenger, Telegram, email, SMS and the website chat widget, books appointments into the calendar, and follows up with people who go quiet.</strong></p>
-<p><strong>Who it sells to:</strong> salons, clinics, trades, gyms, agencies, any local service business that loses enquiries out of hours.</p>
-<p><strong>The offer:</strong> $99 paid once. No subscription and nothing renews. Setup is self-serve and takes about fifteen minutes. 60-day money-back guarantee.</p>
-<p><strong>For affiliates:</strong> 40% commission. English sales page at dealbotai.com/ds. One-off product, so the commission is paid on the spot rather than over a rebill.</p>
+**Vendor's marketplace description:** An AI assistant that answers every customer message on WhatsApp, Instagram, Messenger, Telegram, email, SMS and the website chat widget, books appointments into the calendar, and follows up with people who go quiet. Who it sells to: salons, clinics, trades, gyms, agencies, any local service business that loses enquiries out of hours. The offer: $99 paid once. No subscription and nothing renews. Setup is self-serve and takes about fifteen minutes. 60-day money-back guarantee. For affiliates: 40% commission. English sales page at dealbotai.com/ds. One-off product, so the commission is paid on the spot rather than over a rebill.
 
 ## 2. Links
 

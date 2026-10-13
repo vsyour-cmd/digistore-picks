@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Pet Food for Furbabies</p>
+**Vendor's marketplace description:** Pet Food for Furbabies
 
 ## 2. Links
 

@@ -41,20 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** <p>Promote <em><strong>Max &amp; Mia: The Dinosaur Island</strong></em>, a complete bedtime experience designed to help families create calmer and more enjoyable evening routines through storytelling, imagination, and meaningful connection.</p>
-<p>This bundle combines engaging adventures, audio narration, and practical parent resources to create enjoyable screen-free moments for children and families.</p>
-<p><strong>Affiliate Highlights:</strong></p>
-<ul>
-<li><strong>50% commission on every sale</strong></li>
-<li>Complete bedtime bundle for ages 4–12</li>
-<li>Full Storybook: <em>Max &amp; Mia: The Dinosaur Island </em></li>
-<li>Audio narration included</li>
-<li>Bonus Parent Success System guide included</li>
-<li>Instant digital download</li>
-<li>60-Day Money-Back Guarantee</li>
-<li>Appeals to parents seeking enjoyable screen-free experiences</li>
-</ul>
-<p>Help families transform bedtime into calm, connection, and imagination while earning generous commissions on every successful referral.</p>
+**Vendor's marketplace description:** Promote Max & Mia: The Dinosaur Island , a complete bedtime experience designed to help families create calmer and more enjoyable evening routines through storytelling, imagination, and meaningful connection. This bundle combines engaging adventures, audio narration, and practical parent resources to create enjoyable screen-free moments for children and families. Affiliate Highlights: 50% commission on every sale Complete bedtime bundle for ages 4–12 Full Storybook: Max & Mia: The Dinosaur Island Audio narration included Bonus Parent Success System guide included Instant digital download 60-Day Money-Back Guarantee Appeals to parents seeking enjoyable screen-free experiences Help families transform bedtime into calm, connection, and imagination while earning generous commissions on every successful referral.
 
 ## 2. Links
 
