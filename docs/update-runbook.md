@@ -132,9 +132,9 @@ node build/ping-indexnow.js       # 德语目录名版(kategorie/empfehlungen/al
 
 ## 每日改进轮换与总结(自动任务第6/8步)
 
-- 改进清单: G:/Digistore24/improvements-backlog.json(每项 {id, site: both/en/de, title, done, doneDate})。每日取第一个未完成且匹配的项执行,完成标记 done+doneDate;失败的标记 done+note 并顺延下一项。
+- 改进清单: G:/Digistore24/improvements-backlog.json(每项 {id, site: both/en/de, title, done, doneDate, blockedUntil?})。每日取第一个未完成、blockedUntil 未到期且匹配的项执行(blockedUntil 未到期的跳过,继续取下一项;若所有待办均被阻塞 = 队列实质耗尽,按自主生成规则新造一项插入阻塞项之前),完成标记 done+doneDate;失败的标记 done+note 并顺延下一项。
 - 每日总结: 两站 build/changelog.json 顶部插入今日条目 {date, summary, changes[]},保留≤60条;build-site 渲染为公开页 /changelog.html(What's new / Neuigkeiten),页脚有入口,sitemap 收录。
-- QA 门禁(qa-links.js): 死链=0、模板泄漏=0、标题>70=0、DE无correction残留。不过不提交。
+- QA 门禁(qa-links.js): 死链=0、模板泄漏=0、转义HTML泄漏=0、标题>70=0、DE无correction残留。不过不提交。
 
 
 ## Reddit 发帖轮换(每日)
