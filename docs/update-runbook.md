@@ -67,7 +67,7 @@ node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂�
 - **厂商描述是 HTML 片段**,build-dataset 的 `htmlToText()` 已转纯文本;fetch-research 会拒绝 Cloudflare 验证页;QA 门禁含转义HTML泄漏=0。
 - **产品 slug 随厂商改名而变**,旧 URL 404 属正常,靠 sitemap 重收录。
 
-推广链接规律(三档;2026-10-13 起官方链接文件 `data/promolinks-*.json` 优先级最高,经 `/v2/api/marketplace/promolink/{id}` 获取,厂商改版自动跟随):
+推广链接规律(三档;⚠️ 2026-10-13 教训:`/v2/api/marketplace/promolink/{id}` 端点按传入 id 原样回显 redir/{id},而 redir 体系只认 productId——用市场 id 调用会生成指向错误产品的链接(已在全量部署后发现并回退)。厂商自定义 promo 链接只能来自通知或人工。):
 1. **Digistore24 自家域名**(digistore24.com/product、checkout-ds24.com/product):`销售页 + ('?'或'&') + 'aff=adminstore'`(查询参数,官方追踪格式,如 `?voucher=X&aff=adminstore`)
 2. **vendor 域名**:`销售页 + ('?'或'&') + 'aff=adminstore' + '#aff=adminstore'`(查询+锚点双保险:DS24 嵌入 JS 读锚点,funnel 工具读查询参数)
 3. **坏URL**(含 `#`、`[占位符]`、无销售页):规范重定向 `https://www.digistore24.com/redir/{productId}/adminstore`

@@ -2,6 +2,15 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-13c",
+      "summary": "Correction: an earlier \"official promo link\" rollout was reverted. The marketplace promolink API echoes back whatever identifier is passed, but the redir system only accepts vendor product-IDs — links generated from marketplace IDs pointed at the wrong products. All CTAs are back on the correct three-tier links (vendor sales page + affiliate parameter, or the canonical redir/product-ID fallback). Full button-by-button consistency check: 5,518/5,518 product pages match the dataset.",
+      "changes": [
+        "reverted mis-keyed promolink files (would have sent buyers to unrelated products)",
+        "CTA↔dataset consistency verified across all 1,255 EN + 4,263 DE product pages",
+        "promo-link audit tool now separates bot-wall 403/429 responses from genuinely broken links (8 of 18 prior 403s proved live in a real browser)"
+      ]
+    },
+    {
       "date": "2026-10-13b",
       "summary": "Marketplace data fully refreshed after re-login (snapshot 2026-10-13; the freeze since 10-10 is over). Every product's promo link is now the official platform-generated link fetched from the Digistore24 content-link API — replacing all derived vendor-domain deep links, which had been silently rotting whenever vendors changed their funnels (the exact failure mode behind 18 vendor notifications received this week). 18 notifications parsed and confirmed; 24 affected products were delisted and their pages pruned. Daily snapshots resumed for the price tracker.",
       "changes": [
