@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60473/adminstore/"
 sales_page: "https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner"
 language: "en"
 ---
 # The 14-Day Gut-Friendly Meal Planning System
 
 > Product ID `60473` · Digistore24 productId `733146` · [HTML profile page](../../reviews/the-14-day-gut-friendly-meal-planning-system-60473.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** [THE PROBLEM & AUDIENCE] The ultimate food-first meal planning system for adults struggling with painful bloating, IBS, post-meal fatigue, and digestive sensitivity — zero extreme detox cleanses, zero restrictive fasting rules. [WHAT CONVERTS] 53-page A4 printable toolkit packed with 14 daily gastro-soothing meal blueprints, gentle low-FODMAP substitution ladders, batch-prep schedules, and printab…
+**Vendor's marketplace description:** <p><strong>[THE PROBLEM &amp; AUDIENCE]</strong> The ultimate food-first meal planning system for adults struggling with painful bloating, IBS, post-meal fatigue, and digestive sensitivity — zero extreme detox cleanses, zero restrictive fasting rules.</p>
+<p><br /><strong>[WHAT CONVERTS]</strong> 53-page A4 printable toolkit packed with 14 daily gastro-soothing meal blueprints, gentle low-FODMAP substitution ladders, batch-prep schedules, and printable grocery checklists. Grounded in American College of Gastroenterology &amp; USDA guidelines.<br /><br /><strong>[AFFILIATE EDGE]</strong> High-converting evergreen offer with &lt;1.8% refund rates, strong take-rate on the $67 Master Vault upsell, and plug-and-play email swipe copy ready to send at healthsecrets.com/affiliates.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60473/adminstore/
 - Sales page: https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner
 - Vendor affiliate support: https://healthsecrets.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/733146/adminstore

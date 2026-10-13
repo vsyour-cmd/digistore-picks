@@ -4,34 +4,34 @@ digistore24_product_id: 586248
 title: "The Ultimate Viddeos A.I. System | 50% Recurring Commissions"
 vendor: "viddeosai"
 product_type: "Software"
-price: 1005.18
+price: 1002.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 502.59
+earnings_per_sale: 501.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2024-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://viddeos.ai/yes/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53065/adminstore/"
 sales_page: "https://viddeos.ai/yes/"
 language: "en"
 ---
 # The Ultimate Viddeos A.I. System | 50% Recurring Commissions
 
 > Product ID `53065` · Digistore24 productId `586248` · [HTML profile page](../../reviews/the-ultimate-viddeos-a-i-system-50-recurring-commissions-53065.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1005.18 (Subscription) |
+| Price | $1002.94 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $502.59 |
+| Earnings/sale* | $501.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | viddeosai |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Automated FREE Traffic & Video System Instantly generate FREE traffic with viral, scroll-stopping videos for Tik Tok, YouTube, Facebook, Instagram and more... No prior video skills, experience or technical skills needed.
+**Vendor's marketplace description:** <h1><strong>Automated FREE Traffic &amp; Video System</strong></h1>
+<h2><br />Instantly generate FREE traffic with viral, scroll-stopping videos for Tik Tok, YouTube, Facebook, Instagram and more...</h2>
+<p>No prior video skills, experience or technical skills needed.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://viddeos.ai/yes/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53065/adminstore/
 - Sales page: https://viddeos.ai/yes/
 - Vendor affiliate support: https://docs.google.com/document/d/1psLOqMwXpoFdKucWzfyEHjBtPgI1NPUe55upv_iZKz4/edit?usp=sharing
 - Canonical redirect: https://www.digistore24.com/redir/586248/adminstore
@@ -87,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: viddeosai, listed since 2024-12-16
-- How much? — 1005.1782000000001 USD
+- How much? — 1002.9357000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

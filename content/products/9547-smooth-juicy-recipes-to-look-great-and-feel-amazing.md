@@ -4,16 +4,16 @@ digistore24_product_id: 42495
 title: "Smooth & Juicy - recipes to look great and feel amazing"
 vendor: "Rohtopia"
 product_type: "Downloads"
-price: 16.7
+price: 16.66
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.35
+earnings_per_sale: 8.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2015-02-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.rohtopia.com/smoothie-book?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rohtopia.com/smoothie-book"
@@ -22,16 +22,16 @@ language: "en"
 # Smooth & Juicy - recipes to look great and feel amazing
 
 > Product ID `9547` · Digistore24 productId `42495` · [HTML profile page](../../reviews/smooth-juicy-recipes-to-look-great-and-feel-amazing-9547.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.70 (Single payment) |
+| Price | $16.66 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.35 |
+| Earnings/sale* | $8.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rohtopia |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** “over 130 smoothies, juices and cocktails” This book is my personal collection of the best recipes to create delicious smoothies, green smoothies, super shakes, power juices, elixirs and genius cocktails that are magic for your body. Feast as you fancy, with recipes that make your smoothie challenge .. smooth sailing, carry you through your juice fast, ease your detoxing after wild times and suppo…
+**Vendor's marketplace description:** <p><em>&ldquo;over 130 smoothies, juices and cocktails&rdquo;</em></p>
+<p>This book is my personal collection of the best&nbsp;recipes to create delicious smoothies, green smoothies, super shakes, power juices, elixirs and genius cocktails that are magic&nbsp;for your body.</p>
+<p>Feast as you fancy, with recipes that make your&nbsp;smoothie challenge .. smooth sailing, carry you through&nbsp;your juice fast, ease&nbsp;your detoxing after wild times and support&nbsp;you with an extra boost of nutrients when you are unwell &ndash; while&nbsp;super charging your system.</p>
+<p>&nbsp;</p>
+<p><strong>84&nbsp;colour pages<br />PDF format</strong><br />(DIGITAL &ndash; ideal for computers, laptops, tablets or to print out)</p>
+<h4>&nbsp;</h4>
+<p>&nbsp;</p>
 
 ## 2. Links
 
@@ -79,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Rohtopia, listed since 2015-02-10
-- How much? — 16.69694 USD
+- How much? — 16.65969 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

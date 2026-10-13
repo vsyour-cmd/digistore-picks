@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Profession & Job","Office Organization"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735105?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735105"
@@ -22,7 +22,7 @@ language: "en"
 # Virtual Assistant Client Onboarding Toolkit - English Templates
 
 > Product ID `59398` · Digistore24 productId `735105` · [HTML profile page](../../reviews/virtual-assistant-client-onboarding-toolkit-english-templates-59398.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Virtual Assistant Client Onboarding Toolkit English templates for freelance virtual assistants who need a clear client brief, agreed responsibilities, task tracking and a documented handover. 8-page workbook in PDF and editable DOCX. Excel planner with Tasks, Access and Handover sheets; 30 task rows and automatic task/approval counters. Briefing form, 30-minute kickoff agenda, scope-change process…
+**Vendor's marketplace description:** <h2>Virtual Assistant Client Onboarding Toolkit</h2>
+<p>English templates for freelance virtual assistants who need a clear client brief, agreed responsibilities, task tracking and a documented handover.</p>
+<ul>
+<li>8-page workbook in PDF and editable DOCX.</li>
+<li>Excel planner with Tasks, Access and Handover sheets; 30 task rows and automatic task/approval counters.</li>
+<li>Briefing form, 30-minute kickoff agenda, scope-change process, status and approval messages, offboarding checklist and worked project example.</li>
+</ul>
+<p><strong>US$39 one-time purchase. 50% affiliate commission under Digistore24’s calculation.</strong> English digital download, immediate access after payment. Compatible DOCX/XLSX software required; no subscription or software licence included.</p>
+<p>Self-paced organisational toolkit, not coaching, a video course or legal templates. No guaranteed clients, income or time savings.</p>
+<p>The affiliate page includes the correct English Matze cover, product facts, an email draft and a social post draft. Please disclose affiliate links and use accurate, substantiated claims.</p>
+<p>Product support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

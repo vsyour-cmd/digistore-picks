@@ -4,34 +4,34 @@ digistore24_product_id: 670141
 title: "Meta Trim BHB™"
 vendor: "hummafaranpilotaa88"
 product_type: "Supplements - for slimming"
-price: 177.05
+price: 176.66
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 132.79
+earnings_per_sale: 132.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-02-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://metatrim.trustednutraproduct.com/v1/best/go/go.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55677/adminstore/"
 sales_page: "https://metatrim.trustednutraproduct.com/v1/best/go/go.html"
 language: "en"
 ---
 # Meta Trim BHB™
 
 > Product ID `55677` · Digistore24 productId `670141` · [HTML profile page](../../reviews/meta-trim-bhb-55677.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $177.05 (Single payment) |
+| Price | $176.66 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $132.79 |
+| Earnings/sale* | $132.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hummafaranpilotaa88 |
@@ -41,11 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MONSTER OFFER Meta Trim BHBTM! is going to supercharge your commissions! Massive payouts - Up to 75% Frontend & 45% Backend Revenue Share BHB Ketone weight loss supplement - converts well with a wide audience base Constantly optimized swipes & landers to ensure best conversions
+**Vendor's marketplace description:** <h3>MONSTER OFFER Meta Trim BHB<sup>TM</sup>!</h3>
+<h3>is going to supercharge your commissions!</h3>
+<ul>
+<li>Massive payouts - <strong>Up to 75% Frontend &amp; 45% Backend Revenue Share</strong></li>
+<li>BHB Ketone weight loss supplement - converts well with a wide audience base</li>
+<li>Constantly optimized swipes &amp; landers to ensure best conversions</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://metatrim.trustednutraproduct.com/v1/best/go/go.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55677/adminstore/
 - Sales page: https://metatrim.trustednutraproduct.com/v1/best/go/go.html
 - Vendor affiliate support: https://metatrim.trustednutraproduct.com/v1/aff/aff_details/aff/afftools.html
 - Canonical redirect: https://www.digistore24.com/redir/670141/adminstore
@@ -98,7 +104,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: hummafaranpilotaa88, listed since 2026-02-19
-- How much? — 177.0548 USD
+- How much? — 176.65980000000002 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

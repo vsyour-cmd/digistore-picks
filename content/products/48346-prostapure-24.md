@@ -4,16 +4,16 @@ digistore24_product_id: 553211
 title: "ProstaPure 24"
 vendor: "alphadrive24"
 product_type: "Supplements - health"
-price: 137.32
+price: 137.01
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 128.02
+earnings_per_sale: 127.73
 cart_conversion_pct: 5
 cancel_rate_pct: 15.22
 categories: ["Food Supplements"]
 listed_since: "2024-05-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://prostapure24.com/ancient-secret-8817-d?aff=adminstore#aff=adminstore"
 sales_page: "https://prostapure24.com/ancient-secret-8817-d"
@@ -22,16 +22,16 @@ language: "en"
 # ProstaPure 24
 
 > Product ID `48346` · Digistore24 productId `553211` · [HTML profile page](../../reviews/prostapure-24-48346.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $137.32 (Single payment) |
+| Price | $137.01 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $128.02 |
+| Earnings/sale* | $127.73 |
 | Cart conversion* | 5% |
 | Cancel rate* | 15.22% |
 | Vendor | alphadrive24 |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Get your links and start promoting this AMAZING OFFER
+**Vendor's marketplace description:** <h2><strong>Get your links and start promoting this </strong><strong>AMAZING OFFER</strong></h2>
 
 ## 2. Links
 
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: alphadrive24, listed since 2024-05-21
-- How much? — 137.31832400000002 USD
+- How much? — 137.011974 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

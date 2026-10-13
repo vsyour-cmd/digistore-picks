@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2022-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41823/adminstore/"
 sales_page: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/"
 language: "en"
 ---
 # No Grid Survival Projects – BRAND NEW!
 
 > Product ID `41823` · Digistore24 productId `471054` · [HTML profile page](../../reviews/no-grid-survival-projects-brand-new-41823.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** • Compliant! • 75% commission for initial product sales; 75% commission for upsells • Performs well in most niches: survival, homesteading, off grird, self-sufficiency, remedies, etc. • Put it to test! If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com. Promolink: https://www.digistore24.com/redir/471054…
+**Vendor's marketplace description:** <p>• Compliant! </p>
+<p>• 75% commission for initial product sales; 75% commission for upsells</p>
+<p>• Performs well in most niches: survival, homesteading, off grird, self-sufficiency, remedies, etc.</p>
+<p>• Put it to test!</p>
+<p>If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com.</p>
+<p>Promolink: https://www.digistore24.com/redir/471054/AFFILIATE/CAMPAIGNKEY</p>
+<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
+<p>For support please visit our page <a href="https://offgridsurvivalprojects.com/dgaffiliates/">https://offgridsurvivalprojects.com/dgaffiliates/</a> or email affiliates.gbs@gmail.com.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41823/adminstore/
 - Sales page: https://offgridsurvivalprojects.com/book-ngp-dgs-aff/
 - Vendor affiliate support: https://offgridsurvivalprojects.com/dgaffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/471054/adminstore

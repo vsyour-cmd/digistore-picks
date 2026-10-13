@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://thelivingworldmethod.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://thelivingworldmethod.site/"
@@ -22,7 +22,7 @@ language: "en"
 # The Living World Workbook
 
 > Product ID `60396` · Digistore24 productId `714096` · [HTML profile page](../../reviews/the-living-world-workbook-60396.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Living World Workbook1) Access to creatives and ad copy2) 24-hour contact with the producer3) 80% commission A premium guided worldbuilding system for fantasy writers and creators. Turn disconnected ideas into a coherent living world where every important element creates consequences, pressure, conflict, and story possibilities. Digital PDF product.
+**Vendor's marketplace description:** <p><strong>The Living World Workbook<br /><br />1) Access to creatives and ad copy<br />2) 24-hour contact with the producer<br />3) 80% commission</strong></p>
+<p>A premium guided worldbuilding system for fantasy writers and creators.</p>
+<p>Turn disconnected ideas into a coherent living world where every important element creates consequences, pressure, conflict, and story possibilities.</p>
+<p>Digital PDF product.</p>
 
 ## 2. Links
 

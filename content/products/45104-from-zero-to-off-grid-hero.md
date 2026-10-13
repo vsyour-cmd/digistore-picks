@@ -4,16 +4,16 @@ digistore24_product_id: 510033
 title: "From Zero To Off-Grid Hero"
 vendor: "IndependentHomestead"
 product_type: "Webinar"
-price: 19.05
+price: 19.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.53
+earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Home & Garden","Real Estate"]
 listed_since: "2023-08-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf?aff=adminstore#aff=adminstore"
 sales_page: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf"
@@ -22,16 +22,16 @@ language: "en"
 # From Zero To Off-Grid Hero
 
 > Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $19.05 (Single payment) |
+| Price | $19.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.53 |
+| Earnings/sale* | $9.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IndependentHomestead |
@@ -41,7 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AOV $60 Conversion rate 12.8% on cold traffic EPC $2.62 High upsell take rate >> Click here to get the email campaign that makes $10,000 in under a week If you want to chat about other ways we can help, just book a call in with our dedicated affiliate manager. >>Book a quick call with Tom
+**Vendor's marketplace description:** <ul>
+<li>AOV $60</li>
+<li>Conversion rate 12.8% on cold traffic</li>
+<li>EPC $2.62</li>
+<li>High upsell take rate</li>
+</ul>
+<h3 style="text-align:center;"><span style="background-color:#993366;"><a style="background-color:#993366;" href="https://drive.google.com/drive/folders/1RZ92cnZYMNR0buiX3_5A4biwJ0nU9w6-?usp=drive_link" target="_blank" rel="noreferrer noopener"><span style="color:#ffffff;">&gt;&gt; Click here to get the email campaign that makes $10,000 in under a week</span></a></span></h3>
+<p> </p>
+<p>If you want to chat about other ways we can help, just book a call in with our dedicated affiliate manager.</p>
+<h3 style="text-align:center;"><span style="background-color:#993366;color:#ffffff;"><a style="background-color:#993366;color:#ffffff;" href="https://calendly.com/livingtheoffgriddream/affiliate-program" target="_blank" rel="noreferrer noopener">&gt;&gt;Book a quick call with Tom </a></span></h3>
 
 ## 2. Links
 
@@ -97,7 +106,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Webinar, vendor: IndependentHomestead, listed since 2023-08-03
-- How much? — 19.0502 USD
+- How much? — 19.0077 USD
 - Guarantee? — refund within 60 day
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/719791?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58965/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/719791"
 language: "en"
 ---
 # Island of Morality – Thought-Provoking eBook | 40% Affiliate
 
 > Product ID `58965` · Digistore24 productId `719791` · [HTML profile page](../../reviews/island-of-morality-thought-provoking-ebook-40-affiliate-58965.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,23 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Island of Morality is a thought-provoking English-language eBook exploring morality, human behavior, and the consequences of a world in which moral values are increasingly abandoned. Through an imaginative story, Morality retreats to a deserted island after immorality spreads throughout the world, creating a reflective journey about values, choices, and society. Affiliates earn 40% commission on e…
+**Vendor's marketplace description:** <div>Island of Morality is a thought-provoking English-language eBook exploring morality, human behavior, and the consequences of a world in which moral values are increasingly abandoned.</div>
+<div> </div>
+<div>Through an imaginative story, Morality retreats to a deserted island after immorality spreads throughout the world, creating a reflective journey about values, choices, and society.</div>
+<div> </div>
+<div>Affiliates earn 40% commission on every confirmed sale.</div>
+<div> </div>
+<div>Promotional materials, book cover, and marketing support are available.</div>
+<div> </div>
+<div>Official website:</div>
+<div>www.elbossilydigitalhome.com</div>
+<div> </div>
+<div>Promotional video:</div>
+<div>https://www.youtube.com/watch?v=pAJ5cAJUyFo</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719791?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58965/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/719791
 - Canonical redirect: https://www.digistore24.com/redir/719791/adminstore
 

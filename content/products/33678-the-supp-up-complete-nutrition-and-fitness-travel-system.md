@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Travel & Culture"]
 listed_since: "2020-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://supp-up.com/ds24-complete-travel-system?aff=adminstore#aff=adminstore"
 sales_page: "https://supp-up.com/ds24-complete-travel-system"
@@ -22,7 +22,7 @@ language: "en"
 # The SUPP UP. Complete Nutrition and Fitness Travel System
 
 > Product ID `33678` · Digistore24 productId `338690` · [HTML profile page](../../reviews/the-supp-up-complete-nutrition-and-fitness-travel-system-33678.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Complete, no-fluff nutrition and fitness system for travelers, operators, and executives. Field-tested protocols across 5 field guides + 2 free bonuses. Instant download. Customers using since 2017, now available for affiliate distribution. Full affiliate resources provided and updated regularly. Affiliate tools: https://supp-up.blog/affiliate-resources-ds24/
+**Vendor's marketplace description:** <p>Complete, no-fluff nutrition and fitness system for travelers, operators, and executives. Field-tested protocols across 5 field guides + 2 free bonuses. Instant download. Customers using since 2017, now available for affiliate distribution.</p>
+<p>Full affiliate resources provided and updated regularly. Affiliate tools: https://supp-up.blog/affiliate-resources-ds24/</p>
 
 ## 2. Links
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2026-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/711839?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57777/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/711839"
 language: "en"
 ---
 # Emotional Resilience in the Age of AI
 
 > Product ID `57777` · Digistore24 productId `711839` · [HTML profile page](../../reviews/emotional-resilience-in-the-age-of-ai-57777.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** We are living through a transformation unlike any in human history. Artificial intelligence is no longer aspeculative technology confined to research labs — it is the invisible infrastructure reshaping how we work,think, connect, and understand ourselves.This ebook is a call to action — not to resist technology, but to reclaim the depths of human emotionalresilience that no algorithm can replicate…
+**Vendor's marketplace description:** <p>We are living through a transformation unlike any in human history. Artificial intelligence is no longer a<br />speculative technology confined to research labs — it is the invisible infrastructure reshaping how we work,<br />think, connect, and understand ourselves.<br />This ebook is a call to action — not to resist technology, but to reclaim the depths of human emotional<br />resilience that no algorithm can replicate.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/711839?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57777/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/711839
 - Canonical redirect: https://www.digistore24.com/redir/711839/adminstore
 

@@ -4,34 +4,34 @@ digistore24_product_id: 532379
 title: "Online Kirtan and Harmonium Course"
 vendor: "PeaceYogaBerlin"
 product_type: "Member area and video courses"
-price: 112.79
+price: 112.54
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 59.34
+earnings_per_sale: 59.2
 cart_conversion_pct: 8
 cancel_rate_pct: 3.81
 categories: ["Education","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-01-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/532379?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47609/adminstore/"
 sales_page: "https://www.digistore24.com/product/532379"
 language: "en"
 ---
 # Online Kirtan and Harmonium Course
 
 > Product ID `47609` · Digistore24 productId `532379` · [HTML profile page](../../reviews/online-kirtan-and-harmonium-course-47609.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.79 (Single payment, Installment) |
+| Price | $112.54 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $59.34 |
+| Earnings/sale* | $59.20 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.81% |
 | Vendor | PeaceYogaBerlin |
@@ -41,9 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
+**Vendor's marketplace description:** <p>
+
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/532379?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47609/adminstore/
 - Sales page: https://www.digistore24.com/product/532379
 - Canonical redirect: https://www.digistore24.com/redir/532379/adminstore
 
@@ -74,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: PeaceYogaBerlin, listed since 2024-01-02
-- How much? — 112.78839 USD
+- How much? — 112.53676500000002 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,17 +4,17 @@ digistore24_product_id: 361682
 title: "Passive Income System 2.0"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 946.58
+price: 944.47
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 366.02
+earnings_per_sale: 365.21
 cart_conversion_pct: 2
 cancel_rate_pct: 19.2
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
-research_quality: "none"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
+research_quality: "thin"
 promo_link: "https://vipliveclass.com/aff?aff=adminstore#aff=adminstore"
 sales_page: "https://vipliveclass.com/aff"
 language: "en"
@@ -22,16 +22,16 @@ language: "en"
 # Passive Income System 2.0
 
 > Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](../../reviews/passive-income-system-2-0-44042.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $946.58 (Single payment) |
+| Price | $944.47 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $366.02 |
+| Earnings/sale* | $365.21 |
 | Cart conversion* | 2% |
 | Cancel rate* | 19.2% |
 | Vendor | impassive |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** #1 MAKE MONEY ONLINE WEBINAR ON DIGISTORE24 Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $2000/Sale. Only $997 front end with multiple upsells for massive commissions. Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche. Test 300-500 clicks and THANK ME LATER!! Contact Me Via Em…
+**Vendor's marketplace description:** <h4><strong><span style="background-color:#ffff00;">#1 MAKE MONEY ONLINE WEBINAR ON DIGISTORE24</span><br /></strong></h4>
+<p>Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $2000/Sale.</p>
+<p><span style="background-color:#ffff00;"><strong>Only $997 front end with multiple upsells for massive commissions.</strong></span></p>
+<p>Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche.</p>
+<p><strong><span style="background-color:#ffff00;">Test 300-500 clicks and THANK ME LATER!!</span><br /></strong></p>
+<p><strong>Contact Me Via Email On JV Page For More Info!</strong></p>
 
 ## 2. Links
 
@@ -52,7 +57,8 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Final URL after redirects:** https://vipliveclass.com/aff/
+- **Page word count:** 0
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2020-12-07
-- How much? — 946.582026 USD
+- How much? — 944.4702510000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

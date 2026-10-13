@@ -4,34 +4,34 @@ digistore24_product_id: 552603
 title: "https://dentitox24.com/help/affiliates.php"
 vendor: "Dentitox"
 product_type: "Supplements - health"
-price: 179.87
+price: 179.47
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 117.33
+earnings_per_sale: 117.07
 cart_conversion_pct: 6
 cancel_rate_pct: 2.83
 categories: ["Food Supplements"]
 listed_since: "2024-05-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://dentitox24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48165/adminstore/"
 sales_page: "https://dentitox24.com/text.php"
 language: "en"
 ---
 # https://dentitox24.com/help/affiliates.php
 
 > Product ID `48165` · Digistore24 productId `552603` · [HTML profile page](../../reviews/https-dentitox24-com-help-affiliates-php-48165.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $179.87 (Single payment) |
+| Price | $179.47 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $117.33 |
+| Earnings/sale* | $117.07 |
 | Cart conversion* | 6% |
 | Cancel rate* | 2.83% |
 | Vendor | Dentitox |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Teeth & Gum Detox Formula, Powerful Pitch, Multiple Intros, 100% Doctor Formulated. Top Affs Are Scoring Up To $4 EPC. Limited Slots. Contact Us To Get Whitelisted
+**Vendor's marketplace description:** <p>Teeth &amp; Gum Detox Formula, Powerful Pitch, Multiple Intros, 100% Doctor Formulated. Top Affs Are Scoring Up To $4 EPC. Limited Slots. Contact Us To Get Whitelisted</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://dentitox24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48165/adminstore/
 - Sales page: https://dentitox24.com/text.php
 - Vendor affiliate support: https://dentitox24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/552603/adminstore
@@ -82,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Dentitox, listed since 2024-05-16
-- How much? — 179.867506 USD
+- How much? — 179.466231 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

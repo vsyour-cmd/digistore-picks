@@ -4,16 +4,16 @@ digistore24_product_id: 618774
 title: "Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes"
 vendor: "plantbasedresource"
 product_type: "E-books"
-price: 19.05
+price: 19.01
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.43
+earnings_per_sale: 11.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2025-06-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.plantbasedforkids.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.plantbasedforkids.com/ds/"
@@ -22,16 +22,16 @@ language: "en"
 # Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes
 
 > Product ID `52936` · Digistore24 productId `618774` · [HTML profile page](../../reviews/plant-based-for-kids-cookbook-100-fun-easy-vegan-recipes-52936.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.05 (Single payment) |
+| Price | $19.01 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.43 |
+| Earnings/sale* | $11.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plantbasedresource |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Perfect Digital Cookbook for Health-Conscious Families! Looking to tap into a growing niche of plant-based parents? Promote the Plant-Based for Kids Cookbook – an easy-to-follow, family-friendly recipe guide with over 100 nutritious vegan meals tailored just for children! This value-packed digital cookbook includes: ✅ Breakfasts, lunches, dinners & snacks✅ Allergy-friendly recipes (soy-free, n…
+**Vendor's marketplace description:** <p><strong>The Perfect Digital Cookbook for Health-Conscious Families!</strong></p>
+<p><br />Looking to tap into a growing niche of <strong>plant-based parents</strong>? Promote the <strong>Plant-Based for Kids Cookbook</strong> – an easy-to-follow, family-friendly recipe guide with over <strong>100 nutritious vegan meals</strong> tailored just for children!</p>
+<p>This value-packed digital cookbook includes:</p>
+<p><br />✅ Breakfasts, lunches, dinners &amp; snacks<br />✅ Allergy-friendly recipes (soy-free, nut-free, gluten-free options)<br />✅ Simple, fuss-free instructions<br />✅ Beautiful photos and printable PDF format<br />✅ Bonus: Free 1-week kid meal planner + shopping list</p>
+<p> </p>
 
 ## 2. Links
 
@@ -99,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: plantbasedresource, listed since 2025-06-16
-- How much? — 19.0502 USD
+- How much? — 19.0077 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2025-05-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/613374?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/613374"
@@ -22,7 +22,7 @@ language: "en"
 # Tech House Track by Jay V Flyy | My Feelings (Radio Edit)
 
 > Product ID `52554` · Digistore24 productId `613374` · [HTML profile page](../../reviews/tech-house-track-by-jay-v-flyy-my-feelings-radio-edit-52554.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "My Feelings (Radio Edit)" by Jay V Flyy is a vibrant Tech House track that captures the essence of summer energy and dancefloor euphoria. Released on January 31, 2025, this single blends minimal house grooves with uplifting melodies, creating a feel-good anthem designed for both intimate gatherings and high-energy club nights.
+**Vendor's marketplace description:** <p>"My Feelings (Radio Edit)" by Jay V Flyy is a vibrant Tech House track that captures the essence of summer energy and dancefloor euphoria. Released on January 31, 2025, this single blends minimal house grooves with uplifting melodies, creating a feel-good anthem designed for both intimate gatherings and high-energy club nights.</p>
 
 ## 2. Links
 
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: JayVFlyy, listed since 2025-05-17
-- How much? — 2.8015 USD
+- How much? — 2.7952500000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

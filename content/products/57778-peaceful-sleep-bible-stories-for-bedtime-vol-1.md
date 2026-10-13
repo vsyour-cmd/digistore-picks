@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/712276?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/712276"
@@ -22,7 +22,7 @@ language: "en"
 # Peaceful Sleep: Bible Stories for Bedtime - Vol.1
 
 > Product ID `57778` · Digistore24 productId `712276` · [HTML profile page](../../reviews/peaceful-sleep-bible-stories-for-bedtime-vol-1-57778.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This book features five Bible-inspired stories, written in a simple and comforting style, meant to be read aloud—one each night. At the end of each story, there is a short, rhyming prayer that your child can repeat with you. Use this time to cuddle, talk about the day, and remind your child that they are loved and protected, always. May these pages bring peace to your family's hearts, night after …
+**Vendor's marketplace description:** <p>This book features five Bible-inspired stories, written in a simple and comforting style, meant to be read aloud—one each night. At the end of each story, there is a short, rhyming prayer that your child can repeat with you. <br /><br />Use this time to cuddle, talk about the day, and remind your child that they are loved and protected, always. <br /><br />May these pages bring peace to your family's hearts, night after night.</p>
 
 ## 2. Links
 

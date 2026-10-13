@@ -4,16 +4,16 @@ digistore24_product_id: 507221
 title: "Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond"
 vendor: "kineticps"
 product_type: "E-books"
-price: 43.7
+price: 43.61
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 32.78
+earnings_per_sale: 32.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2023-07-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html?aff=adminstore#aff=adminstore"
 sales_page: "https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html"
@@ -22,16 +22,16 @@ language: "en"
 # Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond
 
 > Product ID `45898` · Digistore24 productId `507221` · [HTML profile page](../../reviews/solar-innovator-massive-offer-will-shine-like-a-diamond-45898.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $43.70 (Single payment) |
+| Price | $43.61 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $32.78 |
+| Earnings/sale* | $32.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kineticps |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Stellar Green Energy Offer Is Crushing It. Just Launched And EPCs Are Already Up To $3! Unique Product, Cinematic VSL & Legendary 100% Upsell Funnel = The Perfect Recipe For A REAL CONVERSION BEAST that KILLS on Warm, Cold, Native And More. +90% Revshare Available!
+**Vendor's marketplace description:** <p>Stellar Green Energy Offer Is Crushing It.</p>
+<p>Just Launched And EPCs Are Already Up To $3!</p>
+<p>Unique Product, Cinematic VSL &amp; Legendary 100% Upsell Funnel = The Perfect Recipe For A REAL CONVERSION BEAST that <strong>KILLS on Warm, Cold, Native And More</strong>.</p>
+<p>+90% Revshare Available!</p>
 
 ## 2. Links
 
@@ -87,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: kineticps, listed since 2023-07-12
-- How much? — 43.7034 USD
+- How much? — 43.605900000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

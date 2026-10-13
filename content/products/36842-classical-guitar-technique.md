@@ -4,16 +4,16 @@ digistore24_product_id: 383385
 title: "Classical Guitar Technique"
 vendor: "Guitarschool24"
 product_type: "Member area and video courses"
-price: 32.5
+price: 32.42
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 9.75
+earnings_per_sale: 9.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.guitarschool24.com/classical-guitar-basic-techniques/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool24.com/classical-guitar-basic-techniques/"
@@ -22,16 +22,16 @@ language: "en"
 # Classical Guitar Technique
 
 > Product ID `36842` · Digistore24 productId `383385` · [HTML profile page](../../reviews/classical-guitar-technique-36842.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.50 (Single payment) |
+| Price | $32.42 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $9.75 |
+| Earnings/sale* | $9.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Guitarschool24 |
@@ -41,7 +41,44 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Why should you promote this online course? -Professional Sales Site! -We run remarketing ads (retargeting). -Other Courses for sale you also get provision! -Copy everything form my website www.guitarschool24.com when promoting 5-Week-Guitar-Course with Yaroslava Ihnatenko Yaroslava shares her daily progress on the guitar with more than 70,000 instagram followers. In this course she teaches the rig…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h3><strong>Why should you promote this online course? </strong></h3>
+<p>-Professional Sales Site!</p>
+<p>-We run remarketing ads (retargeting).</p>
+<p>-Other Courses for sale you also get provision!</p>
+<p>-Copy everything form my website <a>www.guitarschool24.com</a> when promoting</p>
+<h3>5-Week-Guitar-Course with Yaroslava Ihnatenko</h3>
+</div>
+</div>
+<div>
+<div>
+<div>
+<p>Yaroslava shares her daily progress on the guitar with more than 70,000 instagram followers. In this course she teaches the right technique to master this pieces. Your step by step guide to the perfect guitar technique!</p>
+</div>
+</div>
+</div>
+<h2>Contents</h2>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Type: 5-week Online Course (+course manual as PDF. download)</li>
+<li>Level: Beginner to Advanced</li>
+<li>Compatible with: Smartphone, Tablet, PC, Mac</li>
+<li>Format: Full HD .mp4</li>
+<li>Member area available immediately</li>
+<li>One-off payment – no monthly costs!</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -84,7 +121,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2021-04-08
-- How much? — 32.4974 USD
+- How much? — 32.4249 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 

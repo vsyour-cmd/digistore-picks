@@ -4,34 +4,34 @@ digistore24_product_id: 736416
 title: "Amazon FBA for Beginners – Costs and Risks with Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 166.97
+price: 166.6
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 66.79
+earnings_per_sale: 66.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/736416?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59589/adminstore/"
 sales_page: "https://www.digistore24.com/product/736416"
 language: "en"
 ---
 # Amazon FBA for Beginners – Costs and Risks with Matze
 
 > Product ID `59589` · Digistore24 productId `736416` · [HTML profile page](../../reviews/amazon-fba-for-beginners-costs-and-risks-with-matze-59589.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $166.97 (Single payment) |
+| Price | $166.60 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $66.79 |
+| Earnings/sale* | $66.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Amazon FBA for Beginners – Costs and Risks with Matze Evaluate a product idea, unit economics and a small pilot. This English self-paced course guides you from an initial idea to a unit-economics worksheet and criteria for a small pilot. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through:1. Model and available capital2. Cus…
+**Vendor's marketplace description:** <p>Amazon FBA for Beginners – Costs and Risks with Matze</p>
+<p>Evaluate a product idea, unit economics and a small pilot. This English self-paced course guides you from an initial idea to a unit-economics worksheet and criteria for a small pilot. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
+<p>What you will work through:<br />1. Model and available capital<br />2. Customer need and product rules<br />3. Suppliers and samples<br />4. Full unit economics<br />5. Listing, inventory and pilot<br />6. Review the pilot</p>
+<p>Who is it for? Beginners who want to evaluate a physical product idea for Amazon FBA.</p>
+<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
+<p>Transparency: The example is fictional. The course provider has yet to document a real FBA pilot; this edition remains unpublished until then.</p>
+<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
+<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/736416?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59589/adminstore/
 - Sales page: https://www.digistore24.com/product/736416
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736416/
 - Canonical redirect: https://www.digistore24.com/redir/736416/adminstore
@@ -77,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 166.9694 USD
+- How much? — 166.5969 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

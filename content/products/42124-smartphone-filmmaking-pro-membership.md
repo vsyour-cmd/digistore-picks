@@ -4,16 +4,16 @@ digistore24_product_id: 455348
 title: "Smartphone Filmmaking Pro - Membership"
 vendor: "SFP-Media1121"
 product_type: "Member area and video courses"
-price: 164.73
+price: 164.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 82.36
+earnings_per_sale: 82.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2022-08-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://go.smartphonefilmmakingpro.com/premium-affiliate?aff=adminstore#aff=adminstore"
 sales_page: "https://go.smartphonefilmmakingpro.com/premium-affiliate"
@@ -22,16 +22,16 @@ language: "en"
 # Smartphone Filmmaking Pro - Membership
 
 > Product ID `42124` · Digistore24 productId `455348` · [HTML profile page](../../reviews/smartphone-filmmaking-pro-membership-42124.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.73 (Single payment) |
+| Price | $164.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $82.36 |
+| Earnings/sale* | $82.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SFP-Media1121 |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Smartphone Filmmaking Pro is THE WAY to learn how to create amazing looking videos with a smartphone in the fastest and easiest way somehow possible. We do offer a discount for our affiliates so that people can buy the course for just $147 and we offer you, as our affiliate partner, a massive commission of 50% ($73). Inside of the course are over 230 tutorials, well over 23 hours of content, we gr…
+**Vendor's marketplace description:** <p><strong>Smartphone Filmmaking Pro</strong> is THE WAY to learn how to create amazing looking videos with a smartphone in the <strong>fastest</strong> and <strong>easiest</strong> way somehow possible.</p>
+<p>We do offer a discount for our affiliates so that people can buy the course for <strong>just $147</strong> and we offer you, as our affiliate partner, a massive <strong>commission of 50% ($73).</strong></p>
+<p>Inside of the course are over <strong>230 tutorials</strong>, well over <strong>23 hours of content</strong>, we grant our members access to our private and exclusive community and this is also the place where our students can show their work and get feedback from us.</p>
+<p>Additionally to all of that we do also offer discounts on gear - as we have partnerships with several different brands and we also provide countless downloads to shorten the learning curve of our students.</p>
 
 ## 2. Links
 
@@ -91,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: SFP-Media1121, listed since 2022-08-12
-- How much? — 164.72820000000002 USD
+- How much? — 164.3607 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 

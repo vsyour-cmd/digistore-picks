@@ -4,34 +4,34 @@ digistore24_product_id: 644649
 title: "Leptozan"
 vendor: "leptozan"
 product_type: "Supplements - for slimming"
-price: 177.05
+price: 176.66
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 115.09
+earnings_per_sale: 114.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.leptozan.com/ds/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56051/adminstore/"
 sales_page: "https://www.leptozan.com/ds/"
 language: "en"
 ---
 # Leptozan
 
 > Product ID `56051` · Digistore24 productId `644649` · [HTML profile page](../../reviews/leptozan-56051.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $177.05 (Single payment) |
+| Price | $176.66 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $115.09 |
+| Earnings/sale* | $114.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | leptozan |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Conversion-Driven Weight-Loss Offer Optimized For Stable & Predictable ROI A Scalable Funnel That Puts Real Cash In Your Pocket
+**Vendor's marketplace description:** <h1>Conversion-Driven Weight-Loss Offer Optimized For Stable &amp; Predictable ROI</h1>
+<p>A Scalable Funnel That Puts Real Cash In Your Pocket</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.leptozan.com/ds/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56051/adminstore/
 - Sales page: https://www.leptozan.com/ds/
 - Vendor affiliate support: https://leptozan.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/644649/adminstore
@@ -99,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: leptozan, listed since 2025-10-28
-- How much? — 177.0548 USD
+- How much? — 176.65980000000002 USD
 - Guarantee? — 90 Days Guarantee
 - Alternatives? — see the comparison table on the profile / alternatives page
 

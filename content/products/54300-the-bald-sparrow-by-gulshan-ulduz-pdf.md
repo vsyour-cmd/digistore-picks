@@ -4,16 +4,16 @@ digistore24_product_id: 638754
 title: "THE BALD SPARROW by Gulshan Ulduz PDF"
 vendor: "DECLARATIONPLUS"
 product_type: "E-books"
-price: 13.45
+price: 13.42
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 2.69
+earnings_per_sale: 2.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638754?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638754"
@@ -22,16 +22,16 @@ language: "en"
 # THE BALD SPARROW by Gulshan Ulduz PDF
 
 > Product ID `54300` · Digistore24 productId `638754` · [HTML profile page](../../reviews/the-bald-sparrow-by-gulshan-ulduz-pdf-54300.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.45 (Single payment) |
+| Price | $13.42 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $2.69 |
+| Earnings/sale* | $2.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DECLARATIONPLUS |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Little tales for kind hearts. Written for all ages. Promote The Bald Sparrow to audiences interested in character-driven allegories and animal-based moral tales. Perfect for parenting, educational, and literature-themed channels. Comes with a bonus tale, Zhann. All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 Advertising M…
+**Vendor's marketplace description:** <p><strong>Little tales for kind hearts. Written for all ages.</strong></p>
+<p>Promote <em>The Bald Sparrow</em> to audiences interested in character-driven allegories and animal-based moral tales. Perfect for parenting, educational, and literature-themed channels.</p>
+<p>Comes with a bonus tale, <em>Zhann</em>.</p>
+<p>All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 <strong>Advertising Media Area</strong> for this product.</p>
 
 ## 2. Links
 
@@ -76,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DECLARATIONPLUS, listed since 2025-09-30
-- How much? — 13.4472 USD
+- How much? — 13.417200000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

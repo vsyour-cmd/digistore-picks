@@ -4,16 +4,16 @@ digistore24_product_id: 365097
 title: "Blood Pressure 911"
 vendor: "Phytage"
 product_type: "Supplements - health"
-price: 78.39
+price: 78.21
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.95
+earnings_per_sale: 50.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-12-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://ds.bloodpressure911.com/bp911slowv2/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://ds.bloodpressure911.com/bp911slowv2/index.php"
@@ -22,16 +22,16 @@ language: "en"
 # Blood Pressure 911
 
 > Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](../../reviews/blood-pressure-911-38142.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $78.39 (Single payment) |
+| Price | $78.21 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.95 |
+| Earnings/sale* | $50.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Phytage |
@@ -41,7 +41,24 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Why do you NEED to promote Blood Pressure 911? 65% commission on initial sale 55% on ALL upsells High conversion rate for cold and warm traffic CVR up to 4% $190+ avg. cart values LOW refund rates If you have any questions, please contact our affiliate manager: affiliates@phytagesupport.com Please note: We do not allow any brand bidding on our products.
+**Vendor's marketplace description:** <div>
+<div>
+<h4>Why do you NEED to promote Blood Pressure 911?</h4>
+<ul style="list-style-type:square;">
+<li>65% commission on initial sale</li>
+<li>55% on ALL upsells</li>
+<li>High conversion rate for cold and warm traffic</li>
+<li>CVR up to 4%</li>
+<li>$190+ avg. cart values</li>
+<li>LOW refund rates</li>
+</ul>
+<p> </p>
+<p>If you have any questions, please contact our affiliate manager: <strong><a href="mailto:affiliates@phytagesupport.com">affiliates@phytagesupport.com</a></strong></p>
+<p> </p>
+<p><strong>Please note: </strong>We do not allow any brand bidding on our products.</p>
+<p> </p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -67,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Phytage, listed since 2020-12-29
-- How much? — 78.38597 USD
+- How much? — 78.21109500000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

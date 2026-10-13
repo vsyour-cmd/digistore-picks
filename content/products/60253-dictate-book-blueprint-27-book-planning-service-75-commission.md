@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://digistore24.getstartdictate.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60253/adminstore/"
 sales_page: "https://digistore24.getstartdictate.com/"
 language: "en"
 ---
 # Dictate Book Blueprint — $27 Book-Planning Service | 75% Commission
 
 > Product ID `60253` · Digistore24 productId `736154` · [HTML profile page](../../reviews/dictate-book-blueprint-27-book-planning-service-75-commission-60253.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Turn your audience’s book idea into a clear plan they can act on. Dictate Book Blueprint is a $27 personalized book-planning service for coaches, consultants, educators, business owners and other nonfiction experts. Buyers speak about their expertise instead of starting with a blank document. WHY PROMOTE DICTATE• 75% configured commission on the $27 Book Blueprint. Digistore24’s commission calcula…
+**Vendor's marketplace description:** <p>Turn your audience’s book idea into a clear plan they can act on.</p>
+<p>Dictate Book Blueprint is a $27 personalized book-planning service for coaches, consultants, educators, business owners and other nonfiction experts. Buyers speak about their expertise instead of starting with a blank document.</p>
+<p>WHY PROMOTE DICTATE<br />• 75% configured commission on the $27 Book Blueprint. Digistore24’s commission calculation and your partnership terms apply.<br />• Automatic affiliate partnership acceptance is enabled.<br />• A focused offer for writing, publishing, coaching and business-education audiences.<br />• An optional $27 Competitive Gap Report order bump, followed by two complementary paid upsells.<br />• A 60-day unconditional, no-questions-asked refund policy.<br />• Direct affiliate support: mike@appendment.com.</p>
+<p>WHAT YOUR BUYER RECEIVES<br />A human strategy call, a guided phone interview with Silas (Dictate’s AI interviewer), and a personalized Book Blueprint PDF. The plan includes a book concept, three title options, chapter outline, ideal reader, author positioning, market comparisons, a voice sample and a concept cover image.</p>
+<p>This is a remote planning service, not a finished manuscript or instant download. Buyers receive booking instructions after checkout; their personalized PDFs are created and emailed after the interview. No physical book is shipped.</p>
+<p>THE OPTIONAL FUNNEL<br />• Competitive Gap Report: $27 once.<br />• Interview Roadmap: $97 once or 2 monthly payments of $50 ($100 total).<br />• Book Launch Planner: $197 once or 3 monthly payments of $77 ($231 total).<br />Customers receive only what they purchase. Check your Digistore24 partnership for each product’s applicable commission.</p>
+<p>GET STARTED<br />Establish your Digistore24 partnership for product 736154 and use your personal Promolink. Visit startdictate.com/affiliates for the affiliate portal and contact Mike for Digistore-specific promotional guidance. Review the offer and illustrative product samples at digistore24.getstartdictate.com/samples.</p>
+<p>Promotions must disclose the affiliate relationship and describe the offer accurately. Do not promise book sales, income, publication or a finished book. Do not advertise free bonuses or use countdowns, unsupported testimonials or earnings claims.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digistore24.getstartdictate.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60253/adminstore/
 - Sales page: https://digistore24.getstartdictate.com/
 - Vendor affiliate support: https://startdictate.com/affiliates/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/736154/adminstore

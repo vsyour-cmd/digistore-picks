@@ -4,16 +4,16 @@ digistore24_product_id: 420539
 title: "⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds"
 vendor: "alldayslimtea"
 product_type: "Supplements - for slimming"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 197.67
+earnings_per_sale: 197.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-12-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://alldayslimmingtea.com/costa-rican-tradition/?aff=adminstore#aff=adminstore"
 sales_page: "https://alldayslimmingtea.com/costa-rican-tradition/"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds
 
 > Product ID `38750` · Digistore24 productId `420539` · [HTML profile page](../../reviews/all-day-slimming-tea-over-100-per-sale-low-refunds-38750.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $197.67 |
+| Earnings/sale* | $197.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | alldayslimtea |
@@ -41,7 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This is one of the best offers in Digistore24 History! One Of The Best For Revshare - Get 60%+ on the whole funnel One Of The Best For Sale Value - $100+ #1 For Conversions! Your Promo Link:(replace AFFILIATE with your DS24 aff id) https://www.digistore24.com/redir/420545/AFFILIATE/CAMPAIGNKEY Affiliate support:email support@morningfatmelter.zendesk.com
+**Vendor's marketplace description:** <p><span style="color:#800080;"><strong>This is one of the best offers in Digistore24 History!</strong></span></p>
+<ul>
+<li>One Of The Best For Revshare - Get 60%+ on the whole funnel</li>
+<li>One Of The Best For Sale Value - $100+</li>
+<li>#1 For Conversions!</li>
+</ul>
+<p><span style="color:#800080;"><em><strong>Your Promo Link:</strong></em></span><br /><em>(replace AFFILIATE with your DS24 aff id)</em></p>
+<p><a href="https://www.digistore24.com/redir/420545/AFFILIATE/CAMPAIGNKEY%20" target="_blank" rel="noreferrer noopener"><span style="color:#3366ff;"><strong>https://www.digistore24.com/redir/420545/AFFILIATE/CAMPAIGNKEY </strong></span></a></p>
+<p><span style="color:#800080;"><strong>Affiliate support:</strong></span><br />email <a href="mailto:support@morningfatmelter.zendesk.com">support@morningfatmelter.zendesk.com</a> </p>
 
 ## 2. Links
 
@@ -90,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: alldayslimtea, listed since 2021-12-13
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

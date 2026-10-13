@@ -4,34 +4,34 @@ digistore24_product_id: 684554
 title: "The Relationship Anxiety Guide"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.88
+earnings_per_sale: 24.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/684554?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56261/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/684554"
 language: "en"
 ---
 # The Relationship Anxiety Guide
 
 > Product ID `56261` · Digistore24 productId `684554` · [HTML profile page](../../reviews/the-relationship-anxiety-guide-56261.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.88 |
+| Earnings/sale* | $24.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
@@ -41,11 +41,25 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A supportive digital guide focused on understanding and navigating relationship-related anxiety. This product covers: Common patterns such as overanalyzing and reassurance-seeking Emotional triggers within relationships Ways to respond more calmly and intentionally Designed for audiences who experience internal unease even in stable relationships. Delivery includes: Full PDF guide Visual infograph…
+**Vendor's marketplace description:** <p>A supportive digital guide focused on understanding and navigating relationship-related anxiety.</p>
+<p>This product covers:</p>
+<ul>
+<li>Common patterns such as overanalyzing and reassurance-seeking</li>
+<li>Emotional triggers within relationships</li>
+<li>Ways to respond more calmly and intentionally</li>
+</ul>
+<p>Designed for audiences who experience internal unease even in stable relationships.</p>
+<p><strong>Delivery includes:</strong></p>
+<ul>
+<li>Full PDF guide</li>
+<li>Visual infographics (PNGs)</li>
+<li>Audio version for easy access</li>
+</ul>
+<p>Delivered as a downloadable digital product.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/684554?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56261/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/684554
 - Canonical redirect: https://www.digistore24.com/redir/684554/adminstore
 
@@ -82,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

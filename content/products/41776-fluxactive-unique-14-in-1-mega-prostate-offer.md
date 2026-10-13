@@ -4,16 +4,16 @@ digistore24_product_id: 466656
 title: "FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer"
 vendor: "fluxactive"
 product_type: "Supplements - health"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.54
+earnings_per_sale: 57.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-10-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://getfluxactive.cc/vslv1/?aff=adminstore#aff=adminstore"
 sales_page: "https://getfluxactive.cc/vslv1/"
@@ -22,16 +22,16 @@ language: "en"
 # FLUXACTIVE: Unique 14-in-1 MEGA PROSTATE Offer
 
 > Product ID `41776` · Digistore24 productId `466656` · [HTML profile page](../../reviews/fluxactive-unique-14-in-1-mega-prostate-offer-41776.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.54 |
+| Earnings/sale* | $57.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fluxactive |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 1 in 2 men suffer from prostate problems. Imagine the profits! Ready to pull up to 6 figures/day already? Contact us at david@mediapulseltd.com for swipes + commission bumps!
+**Vendor's marketplace description:** <h5>1 in 2 men suffer from prostate problems. Imagine the profits! Ready to pull up to 6 figures/day already? Contact us at david@mediapulseltd.com for swipes + commission bumps!</h5>
 
 ## 2. Links
 
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: fluxactive, listed since 2022-10-26
-- How much? — 88.5274 USD
+- How much? — 88.32990000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

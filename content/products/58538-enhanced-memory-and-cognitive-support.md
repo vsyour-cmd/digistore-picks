@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://memorycogsupport-x1x.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://memorycogsupport-x1x.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Enhanced memory and cognitive support
 
 > Product ID `58538` · Digistore24 productId `725183` · [HTML profile page](../../reviews/enhanced-memory-and-cognitive-support-58538.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

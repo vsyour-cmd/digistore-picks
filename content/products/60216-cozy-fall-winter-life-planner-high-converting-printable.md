@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/740956?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/740956"
@@ -22,7 +22,7 @@ language: "en"
 # Cozy Fall  Winter Life Planner - High Converting Printable
 
 > Product ID `60216` · Digistore24 productId `740956` · [HTML profile page](../../reviews/cozy-fall-winter-life-planner-high-converting-printable-60216.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A complete, beautifully designed Cozy Fall & Winter Life Planner for daily tracking, goal setting, habits, and seasonal routines. Includes printable PDF and digital formats. High converting niche with great affiliate support and generous commissions!
+**Vendor's marketplace description:** <p><code>A complete, beautifully designed Cozy Fall &amp; Winter Life Planner for daily tracking, goal setting, habits, and seasonal routines. Includes printable PDF and digital formats. High converting niche with great affiliate support and generous commissions!</code></p>
+<p> </p>
 
 ## 2. Links
 

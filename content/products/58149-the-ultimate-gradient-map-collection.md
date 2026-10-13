@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/711472?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58149/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/711472"
 language: "en"
 ---
 # The Ultimate Gradient Map Collection
 
 > Product ID `58149` · Digistore24 productId `711472` · [HTML profile page](../../reviews/the-ultimate-gradient-map-collection-58149.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,32 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Consider promoting my Ultimate Gradient Maps collection and earn a 20% commision! Gradient map adjustments can be a useful resource for artists and photographers alike; they work by altering the highlights, midtones, and shadows of an image. This specific set of 104 gradient maps from my Aura, Moody, Neon, Vivid, and Metallic collection was created to add stylistic color changes to an image. Benef…
+**Vendor's marketplace description:** <p><span style="text-decoration:underline;"><strong>Consider promoting my Ultimate Gradient Maps collection and earn a 20% commision!</strong></span></p>
+<p>Gradient map adjustments can be a useful resource for artists and photographers alike; they work by altering the highlights, midtones, and shadows of an image. This specific set of <strong>1</strong><strong>04 gradient maps </strong>from my <strong>Aura, Moody, Neon, Vivid, and Metallic collection</strong> was created to add stylistic color changes to an image.</p>
+<p><strong>Benefits for Photographers/Photo Editors:</strong></p>
+<p>Gradient maps can help photo editors create:</p>
+<ul>
+<li>cinematic color grading,</li>
+<li>high-quality black and white conversions,</li>
+<li>contrast boosts,</li>
+<li>specific color corrections,</li>
+<li>and help with split toning.</li>
+</ul>
+<p><strong>For artists:</strong></p>
+<p>Gradient maps can help artists:</p>
+<ul>
+<li>color grayscale art,</li>
+<li>boost color harmony and contrasts,</li>
+<li>access quick color variations,</li>
+<li>and create custom glow effects.</li>
+</ul>
+<p><strong>This .psd file should be compatible with the following software: Affinity, Canva, Adobe Photoshop, Procreate, GIMP, Clip Studio Paint, Ibispaint, Corel PaintShop Pro, and Krita.</strong></p>
+<p>It's time to level-up your creative workflow; let's get started!</p>
+<p><span style="text-decoration:underline;"><strong><em>Please note that refunds are available and unconditional for 60 days after purchase.</em></strong></span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/711472?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58149/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/711472
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5681197/en
 - Canonical redirect: https://www.digistore24.com/redir/711472/adminstore

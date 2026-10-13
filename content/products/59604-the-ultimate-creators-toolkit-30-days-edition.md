@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ultimatecreatorstoolkit-xd9.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://ultimatecreatorstoolkit-xd9.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # The ultimate creators toolkit: 30 days edition
 
 > Product ID `59604` · Digistore24 productId `736594` · [HTML profile page](../../reviews/the-ultimate-creators-toolkit-30-days-edition-59604.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** My product help creators to grow their Instagram and tiktok follower and view and help them earn through Instagram and tiktok my product gave them 30 days content 100 hooks for solving their problem script builder for their content and canva templates
+**Vendor's marketplace description:** My product help creators to grow their Instagram and tiktok follower  and view and help them earn through Instagram and tiktok my product gave them 30 days content 100 hooks for solving their problem script builder for their content and canva templates
 
 ## 2. Links
 

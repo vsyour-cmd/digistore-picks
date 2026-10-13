@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/735497?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59455/adminstore/"
 sales_page: "https://www.digistore24.com/product/735497"
 language: "en"
 ---
 # Social Media on Autopilot for Beginners (English)
 
 > Product ID `59455` · Digistore24 productId `735497` · [HTML profile page](../../reviews/social-media-on-autopilot-for-beginners-english-59455.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Social Media Content Workflow (English) For solo business owners building a manageable content routine. English guide and workbook, twelve fictional example posts, carousel and Reel directions, 30-day example plan, blank calendar, drafting prompts and weekly review. Planning CSVs are not a native Metricool import. No finished social images or videos. Written self-study download in English. No vide…
+**Vendor's marketplace description:** <p>Social Media Content Workflow (English)</p>
+<p>For solo business owners building a manageable content routine.</p>
+<p>English guide and workbook, twelve fictional example posts, carousel and Reel directions, 30-day example plan, blank calendar, drafting prompts and weekly review.</p>
+<p>Planning CSVs are not a native Metricool import. No finished social images or videos.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$129.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/735497?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59455/adminstore/
 - Sales page: https://www.digistore24.com/product/735497
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735497/
 - Canonical redirect: https://www.digistore24.com/redir/735497/adminstore

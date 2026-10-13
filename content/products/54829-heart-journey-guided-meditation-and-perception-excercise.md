@@ -4,34 +4,34 @@ digistore24_product_id: 651678
 title: "Heart Journey | Guided Meditation and Perception Excercise"
 vendor: "Matrixreport"
 product_type: "Downloads"
-price: 11.09
+price: 11.07
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 2.78
+earnings_per_sale: 2.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://kevinmanke.com/the-heart-journey/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54829/adminstore/"
 sales_page: "https://kevinmanke.com/the-heart-journey/"
 language: "en"
 ---
 # Heart Journey | Guided Meditation and Perception Excercise
 
 > Product ID `54829` · Digistore24 productId `651678` · [HTML profile page](../../reviews/heart-journey-guided-meditation-and-perception-excercise-54829.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.09 (Single payment) |
+| Price | $11.07 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $2.78 |
+| Earnings/sale* | $2.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Matrixreport |
@@ -41,11 +41,22 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Heart Journey Guided meditation and perception exercise: The Heart Journey is a body and consciousness journey for deep relaxation and intense body awareness. Experience silence, feel yourself and your body, and enter your original force field, your physical heart! Your advantages as an affiliate: 25% commission for every sale madePromote peace, relaxation, and well-being! Support people in fe…
+**Vendor's marketplace description:** <div>
+<div>
+<p><strong>The Heart Journey</strong></p>
+<p>Guided meditation and perception exercise: The Heart Journey is a body and consciousness journey for deep relaxation and intense body awareness. Experience silence, feel yourself and your body, and enter your original force field, your physical heart!</p>
+<p> </p>
+</div>
+</div>
+<div>
+<p><strong>Your advantages as an affiliate:</strong></p>
+<p>25% commission for every sale made<br />Promote peace, relaxation, and well-being!</p>
+<p>Support people in feeling relaxed, finding peace, and regaining their strength!</p>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://kevinmanke.com/the-heart-journey/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54829/adminstore/
 - Sales page: https://kevinmanke.com/the-heart-journey/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/651678/adminstore
@@ -88,7 +99,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Matrixreport, listed since 2025-11-28
-- How much? — 11.09394 USD
+- How much? — 11.06919 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

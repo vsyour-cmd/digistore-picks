@@ -4,34 +4,34 @@ digistore24_product_id: 555279
 title: "Knowledge is Power"
 vendor: "RonaldoFraga"
 product_type: "E-books"
-price: 15.69
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 10.98
+earnings_per_sale: 10.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2024-06-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48447/adminstore/"
 sales_page: "https://masterprods.com/knowledge-is-power/"
 language: "en"
 ---
 # Knowledge is Power
 
 > Product ID `48447` · Digistore24 productId `555279` · [HTML profile page](../../reviews/knowledge-is-power-48447.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.69 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $10.98 |
+| Earnings/sale* | $10.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RonaldoFraga |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** "Knowledge is Power" is not just another e-book about finance. It's a step-by-step plan for you to achieve the financial freedom you desire. With simple and direct language, the e-book simplifies the world of finance and puts you in control of your future. As an affiliate you will receive 70% of the amount you sell!
+**Vendor's marketplace description:** <p>"Knowledge is Power" is not just another e-book about finance. It's a step-by-step plan for you to achieve the financial freedom you desire.</p>
+<p>With simple and direct language, the e-book simplifies the world of finance and puts you in control of your future.</p>
+<p>As an affiliate you will receive 70% of the amount you sell!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48447/adminstore/
 - Sales page: https://masterprods.com/knowledge-is-power/
 - Canonical redirect: https://www.digistore24.com/redir/555279/adminstore
 
@@ -98,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: RonaldoFraga, listed since 2024-06-03
-- How much? — 15.688400000000001 USD
+- How much? — 15.653400000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

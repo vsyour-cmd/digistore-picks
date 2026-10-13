@@ -4,7 +4,7 @@ digistore24_product_id: 638897
 title: "THE MICE IN THE HOUSE by Gulshan Ulduz and her Father PDF"
 vendor: "DECLARATIONPLUS"
 product_type: "E-books"
-price: 11.21
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.24
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638897?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638897"
@@ -22,14 +22,14 @@ language: "en"
 # THE MICE IN THE HOUSE by Gulshan Ulduz and her Father PDF
 
 > Product ID `54296` · Digistore24 productId `638897` · [HTML profile page](../../reviews/the-mice-in-the-house-by-gulshan-ulduz-and-her-father-pdf-54296.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.21 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.24 |
 | Cart conversion* | — |
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote a storybook kids will love! Ready to promote a children’s book that parents will love and kids will read again and again? The Mice in the House is a fun, illustrated story packed with humor, clever characters, and moral lessons. With vibrant artwork and a playful tone, this storybook is a great digital product for family-friendly audiences. – Fully illustrated and easy to read – Educationa…
+**Vendor's marketplace description:** <p><strong>Promote a storybook kids will love!</strong></p>
+<p>Ready to promote a children’s book that parents will love and kids will read again and again? <em>The Mice in the House</em> is a fun, illustrated story packed with humor, clever characters, and moral lessons. With vibrant artwork and a playful tone, this storybook is a great digital product for family-friendly audiences.</p>
+<p> – Fully illustrated and easy to read</p>
+<p> – Educational AND entertaining</p>
+<p> – Parents and teachers love read-aloud-ready books</p>
+<p><strong>Includes fun coloring pages</strong> — perfect for creative time after reading!  </p>
+<p>Help parents find a story their children will adore — and earn commissions while doing it!</p>
+<p>All official promotional materials (banners, pins, videos, and affiliate links) are provided directly inside the Digistore24 <strong>Advertising Media Area</strong> for this product.</p>
 
 ## 2. Links
 
@@ -76,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DECLARATIONPLUS, listed since 2025-09-30
-- How much? — 11.206 USD
+- How much? — 11.181000000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

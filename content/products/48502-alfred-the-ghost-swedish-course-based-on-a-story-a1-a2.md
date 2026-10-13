@@ -4,16 +4,16 @@ digistore24_product_id: 546416
 title: "Alfred the Ghost - Swedish course based on a story (A1/A2)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 279.03
+price: 278.41
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.71
+earnings_per_sale: 83.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Travel & Culture"]
 listed_since: "2024-04-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/swedish-course-beginners-alfred?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/swedish-course-beginners-alfred"
@@ -22,16 +22,16 @@ language: "en"
 # Alfred the Ghost - Swedish course based on a story (A1/A2)
 
 > Product ID `48502` · Digistore24 productId `546416` · [HTML profile page](../../reviews/alfred-the-ghost-swedish-course-based-on-a-story-a1-a2-48502.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $279.03 (Subscription) |
+| Price | $278.41 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.71 |
+| Earnings/sale* | $83.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -41,7 +41,19 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ADVANTAGES FOR AFFILIATES- regular income (subscription model) - attractive language course concept that clearly stands out from other offers on the market: Norwegian course based on a coherent story instead of boring dialogues)- book version of the course has been on the market for years and has been tested in depth Alfred the Ghost - Swedish course for beginners (A1/A2) Learn Swedish with an exc…
+**Vendor's marketplace description:** <p><strong>ADVANTAGES FOR AFFILIATES</strong><br />- regular income (subscription model) <br />- attractive language course concept that clearly stands out from other offers on the market: Norwegian course based on a coherent story instead of boring dialogues)<br />- book version of the course has been on the market for years and has been tested in depth</p>
+<h3>Alfred the Ghost - Swedish course for beginners (A1/A2)</h3>
+<div>
+<p><strong>Learn Swedish with an exciting story <br /></strong></p>
+<p>With your purchase you get immediate access to the whole course including: </p>
+<ul>
+<li>27 chapters of an exciting story to learn Norwegian (text, audio and vocabulary)</li>
+<li>more than 100 videos with explanations of pronunciation and grammar</li>
+<li>interactive exercises for each chapter</li>
+<li>more than 100 audio exercises to download (for listening comprehension, pronunciation and fluency)</li>
+</ul>
+<p>You can cancel your subscription every month. If you don't like the course, you will also get your money back within the first 60 days.</p>
+</div>
 
 ## 2. Links
 
@@ -77,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2024-04-02
-- How much? — 279.0294 USD
+- How much? — 278.4069 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

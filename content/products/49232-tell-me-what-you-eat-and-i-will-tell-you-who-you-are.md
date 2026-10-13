@@ -4,16 +4,16 @@ digistore24_product_id: 554497
 title: "Tell Me What You Eat and I Will Tell You Who You Are"
 vendor: "Santttos"
 product_type: "E-books"
-price: 7.84
+price: 7.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.92
+earnings_per_sale: 3.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2024-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/554497?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/554497"
@@ -22,16 +22,16 @@ language: "en"
 # Tell Me What You Eat and I Will Tell You Who You Are
 
 > Product ID `49232` · Digistore24 productId `554497` · [HTML profile page](../../reviews/tell-me-what-you-eat-and-i-will-tell-you-who-you-are-49232.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.84 (Single payment) |
+| Price | $7.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.92 |
+| Earnings/sale* | $3.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Santttos |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** (EBOOK: PDF/EPUB) How Food Influences Your Personality, Health, and Happiness. Have you ever wondered how what you eat influences who you are? Do you know that your diet not only affects your physical health, but also your emotional, mental and spiritual well-being? Would you like to learn how to eat better, feel better and be better? If your answer is yes, this book is for you. In it, I will show…
+**Vendor's marketplace description:** <p>(EBOOK: PDF/EPUB)</p>
+<p><strong>How Food Influences Your Personality, Health, and Happiness.</strong></p>
+<p> Have you ever wondered how what you eat influences who you are? Do you know that your diet not only affects your physical health, but also your emotional, mental and spiritual well-being? Would you like to learn how to eat better, feel better and be better? If your answer is yes, this book is for you. In it, I will show you how food is a key factor for your personal development, and how you can improve your quality of life through what you put on your plate. In this book, you will discover: How food influences your emotions, and how you can use it to improve your mood, self-control and happiness. How food influences your brain, and how you can use it to improve your intelligence, memory and creativity. How food influences your body, and how you can use it to improve your health, beauty and energy. How food influences your spirit, and how you can use it to enhance your self-esteem, values and purpose. How food influences your relationships, and how you can use it to enhance your communication, love and sexuality. How food influences the world, and how you can use it to improve the environment, society and the economy. This book is not a diet or a nutrition plan. It is a practical and simple guide that teaches you how to eat in a conscious, balanced and fun way. It offers tips, exercises and references so you can apply what you learn in your daily life. This book is a gift to yourself. A gift that will help you to know yourself better, to take better care of yourself and to live better. A gift that will make you say: Tell me what you eat and I will tell you who you are.</p>
 
 ## 2. Links
 
@@ -76,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Santttos, listed since 2024-05-29
-- How much? — 7.844200000000001 USD
+- How much? — 7.826700000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

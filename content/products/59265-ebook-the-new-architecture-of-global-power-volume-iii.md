@@ -4,34 +4,34 @@ digistore24_product_id: 733900
 title: "Ebook - The New Architecture of Global Power - Volume III"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/733900?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59265/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/733900"
 language: "en"
 ---
 # Ebook - The New Architecture of Global Power - Volume III
 
 > Product ID `59265` · Digistore24 productId `733900` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-iii-59265.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WHEN DO NATURAL RESOURCES BECOME STRATEGIC POWER? The New Architecture of Global Power – Volume III: The Architecture of Resource Power examines how energy, critical materials, and essential resources shape economic and geopolitical power. What sets this book apart is its focus on power conversion. Resource ownership alone does not create power—processing capacity, technology, infrastructure, depe…
+**Vendor's marketplace description:** <p><strong>WHEN DO NATURAL RESOURCES BECOME STRATEGIC POWER?</strong></p>
+<p><em>The New Architecture of Global Power – Volume III: The Architecture of Resource Power</em> examines how energy, critical materials, and essential resources shape economic and geopolitical power.</p>
+<p>What sets this book apart is its focus on <strong>power conversion</strong>. Resource ownership alone does not create power—processing capacity, technology, infrastructure, dependencies, alternatives, and strategic resilience determine its real significance.</p>
+<p>Readers explore hydrocarbons, critical minerals, rare earths, uranium, food, water, processing bottlenecks, and the changing dependencies created by the energy transition.</p>
+<p>For affiliates, it targets audiences interested in <strong>energy security, critical minerals, resources, supply dependencies, geopolitics, and strategic competition</strong>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/733900?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59265/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/733900
 - Canonical redirect: https://www.digistore24.com/redir/733900/adminstore
 
@@ -90,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-09-16
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

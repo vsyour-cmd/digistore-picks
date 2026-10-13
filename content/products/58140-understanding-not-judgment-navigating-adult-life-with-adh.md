@@ -4,16 +4,16 @@ digistore24_product_id: 718427
 title: "Understanding, Not Judgment – Navigating Adult Life With ADH"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.13
+earnings_per_sale: 15.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/718427?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718427"
@@ -22,16 +22,16 @@ language: "en"
 # Understanding, Not Judgment – Navigating Adult Life With ADH
 
 > Product ID `58140` · Digistore24 productId `718427` · [HTML profile page](../../reviews/understanding-not-judgment-navigating-adult-life-with-adh-58140.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.13 |
+| Earnings/sale* | $15.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** An honest, practical guide for adults with late-diagnosed ADHD – with real, everyday strategies instead of "just try harder." Ideal for audiences in mental health, neurodiversity, and self-help. 22 chapters, warmly written, no diagnostic claims, with clear guidance toward professional evaluation. 50% commission per sale.
+**Vendor's marketplace description:** <p>An honest, practical guide for adults with late-diagnosed ADHD – with real, everyday strategies instead of "just try harder." Ideal for audiences in mental health, neurodiversity, and self-help.</p>
+<p> </p>
+<p>22 chapters, warmly written, no diagnostic claims, with clear guidance toward professional evaluation. 50% commission per sale.</p>
 
 ## 2. Links
 
@@ -75,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.2562 USD
+- How much? — 30.188700000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

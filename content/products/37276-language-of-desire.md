@@ -4,16 +4,16 @@ digistore24_product_id: 391642
 title: "Language of Desire"
 vendor: "digitalromance"
 product_type: "Member area and video courses"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.1
+earnings_per_sale: 31.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-05-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://desirelanguage.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://desirelanguage.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Language of Desire
 
 > Product ID `37276` · Digistore24 productId `391642` · [HTML profile page](../../reviews/language-of-desire-37276.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.10 |
+| Earnings/sale* | $31.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalromance |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliates and Super-Affiliates are calling The Language of Desire “The highest converting women’s relationship offer EVER.” CONVERTS on weight loss, personal development, home business, fitness, hobby and other women’s traffic . . . CONVERTS on social media . . . CONVERTS on COLD traffic . . . Over 7,500 front end sales made during launch. Best-selling relationship launch in Clickbank History lea…
+**Vendor's marketplace description:** <p><strong>Affiliates and Super-Affiliates</strong> are calling The Language of Desire <em>“The highest converting women’s relationship offer </em><strong><em>EVER</em></strong><em>.”</em></p>
+<p><strong>CONVERTS</strong> on weight loss, personal development, home business, fitness, hobby and other women’s traffic . . .</p>
+<p><strong>CONVERTS</strong> on social media . . .</p>
+<p><strong>CONVERTS</strong> on COLD traffic . . .</p>
+<p><strong>Over 7,500 front end sales made during launch. Best-selling relationship launch in Clickbank History lead to over $540,000.00 in sales and over $292,000 paid to affiliates!</strong></p>
+<p>Sales video written by 9-figure copywriter Chris “Mr. Moneyfingers” Haddad and every inch of this funnel has been tested, tuned and perfected to make you a TON of money.</p>
 
 ## 2. Links
 
@@ -98,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: digitalromance, listed since 2021-05-26
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

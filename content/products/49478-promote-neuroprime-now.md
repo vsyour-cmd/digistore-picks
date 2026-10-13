@@ -4,16 +4,16 @@ digistore24_product_id: 570703
 title: "Promote NeuroPrime Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 275.12
+price: 274.5
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 76.13
+earnings_per_sale: 75.96
 cart_conversion_pct: 8
 cancel_rate_pct: 5.55
 categories: ["Food Supplements"]
 listed_since: "2024-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://theneuroprime.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://theneuroprime.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote NeuroPrime Now!
 
 > Product ID `49478` · Digistore24 productId `570703` · [HTML profile page](../../reviews/promote-neuroprime-now-49478.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $275.12 (Single payment) |
+| Price | $274.50 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $76.13 |
+| Earnings/sale* | $75.96 |
 | Cart conversion* | 8% |
 | Cancel rate* | 5.55% |
 | Vendor | zenmavibe |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Brand New & Unique Premium Brain Health Supplement!$2+ EPCs and up to 3% conversions from top affiliates! $300 AOV! Unique custom formulation creates REAL results with super LOW refunds! Convert your clicks to CASH now! Irresistible hook and story creates $$$!
+**Vendor's marketplace description:** <p><strong>Brand New &amp; Unique </strong><strong>Premium Brain Health Supplement</strong><strong>!<br /><br />$2+ EPCs and up to 3% conversions from top affiliates! $300 AOV!</strong></p>
+<p>Unique custom formulation creates REAL results with super LOW refunds!</p>
+<p><strong>Convert your clicks to CASH now! Irresistible hook and story creates $$$!</strong></p>
 
 ## 2. Links
 
@@ -94,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2024-09-16
-- How much? — 275.118506 USD
+- How much? — 274.504731 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

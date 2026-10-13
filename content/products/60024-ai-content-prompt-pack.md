@@ -4,16 +4,16 @@ digistore24_product_id: 737756
 title: "AI Content Prompt Pack"
 vendor: "xarutacom"
 product_type: "E-books"
-price: 25.77
+price: 25.72
 currency: "USD"
-affiliate_commission_pct: 10
-earnings_per_sale: 2.58
+affiliate_commission_pct: 30
+earnings_per_sale: 7.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/ai-content-prompt-pack/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/ai-content-prompt-pack/"
@@ -22,16 +22,16 @@ language: "en"
 # AI Content Prompt Pack
 
 > Product ID `60024` · Digistore24 productId `737756` · [HTML profile page](../../reviews/ai-content-prompt-pack-60024.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.77 (Single payment) |
-| Affiliate commission | 10% |
-| Earnings/sale* | $2.58 |
+| Price | $25.72 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $7.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ 100+ AI Prompts + Bonus materials to create better digital content Format: PDF downloadContent:15x Instagram Hooks15x Captions15x Reels10x Carousels10x Stories10x Content Ideas10x Visual & Image Prompts10x Personal Brand5x Marketing & Sales5x Viral/Engagement
+**Vendor's marketplace description:** <p>✅ 100+ AI Prompts + Bonus materials to create better digital content</p>
+<p><strong>Format</strong>: PDF download<br /><br /><strong>Content:</strong><br />15x Instagram Hooks<br />15x Captions<br />15x Reels<br />10x Carousels<br />10x Stories<br />10x Content Ideas<br />10x Visual &amp; Image Prompts<br />10x Personal Brand<br />5x Marketing &amp; Sales<br />5x Viral/Engagement</p>
 
 ## 2. Links
 
@@ -75,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: xarutacom, listed since 2026-09-29
-- How much? — 25.7738 USD
+- How much? — 25.716300000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

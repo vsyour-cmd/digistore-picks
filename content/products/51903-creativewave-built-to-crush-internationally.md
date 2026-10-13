@@ -4,34 +4,34 @@ digistore24_product_id: 595983
 title: "CreativeWave – Built to CRUSH Internationally!"
 vendor: "primarytour"
 product_type: "Downloads"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 43.93
+earnings_per_sale: 43.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Personal Development","Marketing Services"]
 listed_since: "2025-02-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/595983?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51903/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/595983"
 language: "en"
 ---
 # CreativeWave – Built to CRUSH Internationally!
 
 > Product ID `51903` · Digistore24 productId `595983` · [HTML profile page](../../reviews/creativewave-built-to-crush-internationally-51903.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.91 (Single payment) |
+| Price | $54.79 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $43.93 |
+| Earnings/sale* | $43.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | primarytour |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Highly-Optimized forBIG-TIME EPCsFully localized advertorials for Germany, France, and the USHigh-performing VSLs for US & Germany Your traffic is about to love you. Test it and watch the commissions roll in. Grab your link now:
+**Vendor's marketplace description:** <p>Highly-Optimized for<br />BIG-TIME EPCs<br />Fully localized advertorials for Germany, France, and the US<br />High-performing VSLs for US &amp; Germany</p>
+<p>Your traffic is about to love you. Test it and watch the commissions roll in.</p>
+<p>Grab your link now:</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/595983?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51903/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/595983
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/creativewave
 - Canonical redirect: https://www.digistore24.com/redir/595983/adminstore
@@ -81,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: primarytour, listed since 2025-02-13
-- How much? — 54.909400000000005 USD
+- How much? — 54.7869 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

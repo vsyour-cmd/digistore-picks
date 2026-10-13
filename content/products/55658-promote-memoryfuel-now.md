@@ -4,16 +4,16 @@ digistore24_product_id: 669662
 title: "Promote MemoryFuel Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 148.2
+price: 147.87
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 73.4
+earnings_per_sale: 73.24
 cart_conversion_pct: 7
 cancel_rate_pct: 39.96
 categories: ["Food Supplements"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://thememoryfuel.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://thememoryfuel.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote MemoryFuel Now!
 
 > Product ID `55658` · Digistore24 productId `669662` · [HTML profile page](../../reviews/promote-memoryfuel-now-55658.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $148.20 (Single payment) |
+| Price | $147.87 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $73.40 |
+| Earnings/sale* | $73.24 |
 | Cart conversion* | 7% |
 | Cancel rate* | 39.96% |
 | Vendor | zenmavibe |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MemoryFuel – Meta Compliant 2026 Brain Supplement with Creatine! The latest trending Creatine for Brain formulation — high-converting brain formula for memory on demand. Proven funnel, $300+ AOV, rabid 55+ buyers. Email & native crews past $3 EPC.
+**Vendor's marketplace description:** <p><strong>MemoryFuel – Meta Compliant 2026 Brain Supplement with Creatine!</strong></p>
+<p>The latest trending Creatine for Brain formulation — high-converting brain formula for memory on demand.</p>
+<p><strong> Proven funnel, $300+ AOV, rabid 55+ buyers. Email &amp; native crews past $3 EPC.</strong></p>
 
 ## 2. Links
 
@@ -96,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2026-02-18
-- How much? — 148.19935 USD
+- How much? — 147.868725 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

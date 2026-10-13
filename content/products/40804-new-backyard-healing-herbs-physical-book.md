@@ -4,16 +4,16 @@ digistore24_product_id: 454227
 title: "NEW: Backyard Healing Herbs PHYSICAL BOOK"
 vendor: "BackyardHealingHerbs"
 product_type: "Book (printed)"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.1
+earnings_per_sale: 31.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2022-08-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.healingbackyard.net/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.healingbackyard.net/index.php"
@@ -22,16 +22,16 @@ language: "en"
 # NEW: Backyard Healing Herbs PHYSICAL BOOK
 
 > Product ID `40804` · Digistore24 productId `454227` · [HTML profile page](../../reviews/new-backyard-healing-herbs-physical-book-40804.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.10 |
+| Earnings/sale* | $31.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BackyardHealingHerbs |
@@ -41,7 +41,51 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 75% commission on Initial3 Upsells with 75% commission Tested resources on Lists & Facebook! 260-page "Backyard Healing Herbs" book on Gardening and Alternative Medicine. The perfect system for growing healing herbs, written in every detail. It will help you live longer, have more energy and overall start taking advantage of a whole new level of beaming health. No more pills and no more side effec…
+**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="color:#339966;"><strong>75% commission on Initial</strong></span><br /><span style="color:#339966;"><strong>3 Upsells with 75% commission</strong></span></h1>
+<h1 style="text-align:center;"><span style="color:#339966;"><strong>Tested resources on Lists &amp; Facebook!</strong></span></h1>
+<p>260-page "Backyard Healing Herbs" book on Gardening and Alternative Medicine. </p>
+<p>The perfect system for growing healing herbs, written in every detail. It will help you live longer, have more energy and overall start taking advantage of a whole new level of beaming health. No more pills and no more side effects.</p>
+<div>
+<div>
+<div>
+<h2>What other people say about Backyard Healing Herbs</h2>
+</div>
+</div>
+</div>
+<div>
+<div>⭐⭐⭐⭐⭐</div>
+<div>
+<p><strong>It's a very nice book.</strong></p>
+</div>
+</div>
+<div>
+<p><em>"I already knew a lot of what's in here, so I plan to give it as a gift to someone who's interested in learning."</em></p>
+</div>
+<div>
+<p><strong>-Pam</strong></p>
+</div>
+<div>
+<div>
+<p><strong>This book has some great information.</strong></p>
+</div>
+</div>
+<div>
+<p><em>"Has helped me to understand the medical concepts and benefits. Some I use to cook with but to realize that I can make tea out of them is great information."</em></p>
+</div>
+<div>
+<p><strong>-Jocelyn Orr-Thompson</strong></p>
+<div>
+<div>
+<p><strong>Its straight forward and practical.</strong></p>
+</div>
+</div>
+<div>
+<p><em>"It uses all the common herbs that I use. It's hard to find a guide that breaks down the basics, as books always assume you have prior knowledge. "</em></p>
+</div>
+<div>
+<p><strong>-Michelle</strong></p>
+</div>
+</div>
 
 ## 2. Links
 
@@ -102,7 +146,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: BackyardHealingHerbs, listed since 2022-08-05
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

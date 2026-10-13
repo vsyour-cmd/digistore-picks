@@ -4,16 +4,16 @@ digistore24_product_id: 732625
 title: "Earn 20% Commission on Our 15-Video Vacation-Rental Package"
 vendor: "wdpxdigitalproducts"
 product_type: "Remote service provided electronically"
-price: 2015.96
+price: 2011.46
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 403.19
+earnings_per_sale: 402.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Real Estate","Marketing Services"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://airbnb.wdpx.de/video-pakete/?aff=adminstore#aff=adminstore"
 sales_page: "https://airbnb.wdpx.de/video-pakete/"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 20% Commission on Our 15-Video Vacation-Rental Package
 
 > Product ID `59154` · Digistore24 productId `732625` · [HTML profile page](../../reviews/earn-20-commission-on-our-15-video-vacation-rental-package-59154.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Remote service provided electronically |
-| Price | $2015.96 (Single payment) |
+| Price | $2011.46 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $403.19 |
+| Earnings/sale* | $402.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wdpxdigitalproducts |
@@ -41,7 +41,20 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote a clearly defined B2B service for vacation-rental operators, property managers and agencies. The package includes: 15 individually produced vertical social-media videos in 9:16 and also landscape 16:9 Creation from an existing public property listing Property-specific USP voice-over scripts Individual captions and hashtags Publishing or scheduling on up to six existing social-media account…
+**Vendor's marketplace description:** <p>Promote a clearly defined B2B service for vacation-rental operators, property managers and agencies.</p>
+<p>The package includes:</p>
+<ul>
+<li>15 individually produced vertical social-media videos in 9:16 and also landscape 16:9</li>
+<li>Creation from an existing public property listing</li>
+<li>Property-specific USP voice-over scripts</li>
+<li>Individual captions and hashtags</li>
+<li>Publishing or scheduling on up to six existing social-media accounts</li>
+<li>Delivery within three business days after receipt of the property URL, briefing and required channel access</li>
+<li>No filming or separate media upload required</li>
+</ul>
+<p>Package price: €1,799 net plus applicable VAT.<br />Affiliate commission: 20% (€359.80 per sale).</p>
+<p>Ideal customers are professional hosts, serviced-apartment operators, property-management companies and vacation-rental agencies that need regular social-media content without producing it internally.</p>
+<p>B2B only.</p>
 
 ## 2. Links
 
@@ -81,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Remote service provided electronically, vendor: wdpxdigitalproducts, listed since 2026-09-13
-- How much? — 2015.9594 USD
+- How much? — 2011.4619000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

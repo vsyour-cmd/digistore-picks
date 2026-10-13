@@ -4,34 +4,34 @@ digistore24_product_id: 574669
 title: "Shifting Vibrations - Proven Digital Manifestation Offer"
 vendor: "astral43"
 product_type: "Downloads"
-price: 59.39
+price: 59.26
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 38.02
+earnings_per_sale: 37.94
 cart_conversion_pct: 13
 cancel_rate_pct: 24.19
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-10-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://astralhq.com/ds-shifting/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50063/adminstore/"
 sales_page: "https://astralhq.com/ds-shifting/"
 language: "en"
 ---
 # Shifting Vibrations - Proven Digital Manifestation Offer
 
 > Product ID `50063` · Digistore24 productId `574669` · [HTML profile page](../../reviews/shifting-vibrations-proven-digital-manifestation-offer-50063.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $59.39 (Single payment) |
+| Price | $59.26 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $38.02 |
+| Earnings/sale* | $37.94 |
 | Cart conversion* | 13% |
 | Cancel rate* | 24.19% |
 | Vendor | astral43 |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Has Done OVER $1.8M In Sales Using Our Own COLD Paid Traffic. Shifting Vibrations Is Proven Wealth Manifestation Offer Your Traffic Will LOVE. Great Conversions, High AOV And EPCs. Send A Test Today And See! Contact Us For More.
+**Vendor's marketplace description:** <p>This Has Done OVER $1.8M In Sales Using Our Own COLD Paid Traffic. Shifting Vibrations Is Proven Wealth Manifestation Offer Your Traffic Will LOVE. Great Conversions, High AOV And EPCs. Send A Test Today And See! Contact Us For More.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://astralhq.com/ds-shifting/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50063/adminstore/
 - Sales page: https://astralhq.com/ds-shifting/
 - Vendor affiliate support: https://astralhq.com/affiliates-ds/
 - Canonical redirect: https://www.digistore24.com/redir/574669/adminstore
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: astral43, listed since 2024-10-10
-- How much? — 59.3918 USD
+- How much? — 59.2593 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

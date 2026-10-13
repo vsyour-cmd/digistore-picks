@@ -4,16 +4,16 @@ digistore24_product_id: 650003
 title: "Page Builder – Usa [Web app – buildpage-usa]"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 31.38
+price: 31.31
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 23.53
+earnings_per_sale: 23.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Social Media","Software","Online Marketing"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://pagebuilder-usa.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://pagebuilder-usa.netlify.app/"
@@ -22,16 +22,16 @@ language: "en"
 # Page Builder – Usa [Web app – buildpage-usa]
 
 > Product ID `54718` · Digistore24 productId `650003` · [HTML profile page](../../reviews/page-builder-usa-web-app-buildpage-usa-54718.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $31.38 (Single payment) |
+| Price | $31.31 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $23.53 |
+| Earnings/sale* | $23.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Page Builder – Usa [Web app – buildpage-usa] Build Fast Landing Pages That Sell Every Single Day Stop struggling with complex, heavy builders or high recurring monthly payments. Create high-performing page layouts instantly. Perfect your sales funnel and achieve lightning-fast loading speeds that skyrocket your marketing results. Try Online For Free
+**Vendor's marketplace description:** <p>Page Builder – Usa [Web app – buildpage-usa]</p>
+<p>Build Fast Landing Pages That Sell Every Single Day</p>
+<p>Stop struggling with complex, heavy builders or high recurring monthly payments. Create high-performing page layouts instantly. Perfect your sales funnel and achieve lightning-fast loading speeds that skyrocket your marketing results.</p>
+<p> </p>
+<p> </p>
+<p>Try Online For Free</p>
 
 ## 2. Links
 
@@ -67,7 +72,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: manuelcosta, listed since 2025-11-20
-- How much? — 31.376800000000003 USD
+- How much? — 31.306800000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

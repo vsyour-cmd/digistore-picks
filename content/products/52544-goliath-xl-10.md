@@ -4,16 +4,16 @@ digistore24_product_id: 592274
 title: "Goliath XL 10"
 vendor: "KoalaAdvertising"
 product_type: "Supplements - health"
-price: 149.88
+price: 149.55
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 116.97
+earnings_per_sale: 116.71
 cart_conversion_pct: 7
 cancel_rate_pct: 8.15
 categories: ["Food Supplements"]
 listed_since: "2025-01-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://getgoliathxl10.com/read?aff=adminstore#aff=adminstore"
 sales_page: "https://getgoliathxl10.com/read"
@@ -22,16 +22,16 @@ language: "en"
 # Goliath XL 10
 
 > Product ID `52544` · Digistore24 productId `592274` · [HTML profile page](../../reviews/goliath-xl-10-52544.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $149.88 (Single payment) |
+| Price | $149.55 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $116.97 |
+| Earnings/sale* | $116.71 |
 | Cart conversion* | 7% |
 | Cancel rate* | 8.15% |
 | Vendor | KoalaAdvertising |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Goliath XL 10 is the most effective, 100% natural formula that will help you add those desired inches, without the use of pumps, creams or other shady solutions. Get Up To 85% Comision Per Sale
+**Vendor's marketplace description:** <p><strong>Goliath XL 10</strong> is the most effective, 100% natural formula that will help you add those desired inches, without the use of pumps, creams or other shady solutions. Get Up To<strong> </strong><strong>85% Comision</strong> Per Sale</p>
 
 ## 2. Links
 
@@ -73,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: KoalaAdvertising, listed since 2025-01-24
-- How much? — 149.88025000000002 USD
+- How much? — 149.54587500000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,34 +4,34 @@ digistore24_product_id: 719526
 title: "Vexio SaaS Invoicing and Subscription Management"
 vendor: "JosefHosek"
 product_type: "Software"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 55.47
+earnings_per_sale: 55.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://shopvexio.ooguy.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58347/adminstore/"
 sales_page: "https://shopvexio.ooguy.com"
 language: "en"
 ---
 # Vexio SaaS Invoicing and Subscription Management
 
 > Product ID `58347` · Digistore24 productId `719526` · [HTML profile page](../../reviews/vexio-saas-invoicing-and-subscription-management-58347.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $55.47 |
+| Earnings/sale* | $55.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | JosefHosek |
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Vexio is a complete SaaS invoicing and subscription management platform designed for businesses, agencies, freelancers, and SaaS providers. It enables users to create professional invoices, manage clients, track payments, and automate recurring billing from one centralized platform. The solution is suitable for freelancers, agencies, and companies that want to offer invoicing as a SaaS service or …
+**Vendor's marketplace description:** <p><strong><em>Vexio is a complete SaaS invoicing and subscription management platform designed for businesses, agencies, freelancers, and SaaS providers. It enables users to create professional invoices, manage clients, track payments, and automate recurring billing from one centralized platform.</em></strong></p>
+<p><strong><em>The solution is suitable for freelancers, agencies, and companies that want to offer invoicing as a SaaS service or manage their own clients and subscriptions.</em></strong></p>
+<h3><br /><em>Main Features:</em></h3>
+<p><em>✅ Invoice management</em><br /><em>✅ Client management</em><br /><em>✅ Recurring subscriptions</em><br /><em>✅ Customer portal</em><br /><em>✅ Administrator panel</em><br /><em>✅ Multilingual interface</em><br /><em>✅ Payment gateways</em><br /><em>✅ Modern responsive design</em></p>
+<h3><br /><em>Technical Information:</em></h3>
+<p><em>The system is built with Laravel and supports:</em><br /><em>✅ PHP 8.4+, 8.5+</em><br /><em>✅ MySQL 8.4.8 / MariaDB 10.11.18+</em><br /><em>✅ Apache and Nginx</em><br /><em>✅ Installation on cPanel and VPS</em><br /><em>✅ Composer</em><br /><em>✅ Node.js</em></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shopvexio.ooguy.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58347/adminstore/
 - Sales page: https://shopvexio.ooguy.com
 - Canonical redirect: https://www.digistore24.com/redir/719526/adminstore
 
@@ -66,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: JosefHosek, listed since 2026-08-14
-- How much? — 110.9394 USD
+- How much? — 110.6919 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

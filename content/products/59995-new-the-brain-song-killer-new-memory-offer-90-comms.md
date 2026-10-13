@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "http://puredaily-health.com/stronger-memory?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59995/adminstore/"
 sales_page: "http://puredaily-health.com/stronger-memory"
 language: "en"
 ---
 # NEW: The Brain Song - Killer NEW Memory Offer - 90% Comms
 
 > Product ID `59995` · Digistore24 productId `738155` · [HTML profile page](../../reviews/new-the-brain-song-killer-new-memory-offer-90-comms-59995.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sick EPC's on YT, FB, TT. Over 80K customers already. Insane AOV's. We are giving out CPA's to aff's that make them go "HOLY COW". Contact us at binauraltechnologies@gmail.com for Commission Bumps and Other Resources
+**Vendor's marketplace description:** <p>Sick EPC's on YT, FB, TT. Over 80K customers already. Insane AOV's. We are giving out CPA's to aff's that make them go "HOLY COW". Contact us at <a>binauraltechnologies@gmail.com</a> for Commission Bumps and Other Resources</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://puredaily-health.com/stronger-memory?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59995/adminstore/
 - Sales page: http://puredaily-health.com/stronger-memory
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/738155/adminstore

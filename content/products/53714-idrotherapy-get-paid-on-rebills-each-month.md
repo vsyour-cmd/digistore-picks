@@ -4,16 +4,16 @@ digistore24_product_id: 629810
 title: "Idrotherapy *GET PAID ON REBILLS EACH MONTH*"
 vendor: "koshea76"
 product_type: "Deliverable"
-price: 114.93
+price: 114.67
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 93.1
+earnings_per_sale: 92.89
 cart_conversion_pct: 2
 cancel_rate_pct: 1.97
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2025-08-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://e-idrotherapylove.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-idrotherapylove.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Idrotherapy *GET PAID ON REBILLS EACH MONTH*
 
 > Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](../../reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $114.93 (Single payment) |
+| Price | $114.67 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $93.10 |
+| Earnings/sale* | $92.89 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.97% |
 | Vendor | koshea76 |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** iDrotherapy has paid out over $75m in affiliate commissions and is excited to exceed those numbers with DigiStore! *EARN COMMISSIONS ON MONTHLY REBILLS* We will provide you with the best support, assets, and platforms to ensure bigger payouts and better conversions. We wholeheartedly believe that your success is our success and we are willing to do whatever it takes to see you succeed. We will hel…
+**Vendor's marketplace description:** <p>iDrotherapy has paid out over $75m in affiliate commissions and is excited to exceed those numbers with DigiStore!</p>
+<p style="text-align:center;"><strong><span style="color:#ff0000;">*EARN COMMISSIONS ON MONTHLY REBILLS*</span></strong></p>
+<p>We will provide you with the best support, assets, and platforms to ensure bigger payouts and better conversions.</p>
+<p>We wholeheartedly believe that your success is our success and we are willing to do whatever it takes to see you succeed.</p>
+<p>We will help provide you with presell/advertorial pages, ads, ugc, product images, VSLs and ensure you’re rocking the best toolkit in the space.</p>
+<p>We can't wait to work with you, so you can see the iDrotherapy difference and elevate your earning experience with us.</p>
+<p>Our robust multi brand multi sku set up ensure more upsells than anyone on the planet – meaning your make more money because our average order value is higher than the rest</p>
 
 ## 2. Links
 
@@ -80,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: koshea76, listed since 2025-08-15
-- How much? — 114.928736 USD
+- How much? — 114.67233600000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

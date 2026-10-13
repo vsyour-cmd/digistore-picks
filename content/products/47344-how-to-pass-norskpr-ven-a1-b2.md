@@ -4,16 +4,16 @@ digistore24_product_id: 530046
 title: "How to pass Norskprøven (A1-B2)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 110.94
+price: 110.69
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.28
+earnings_per_sale: 33.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2023-12-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norskproven/?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/norskproven/"
@@ -22,16 +22,16 @@ language: "en"
 # How to pass Norskprøven (A1-B2)
 
 > Product ID `47344` · Digistore24 productId `530046` · [HTML profile page](../../reviews/how-to-pass-norskpr-ven-a1-b2-47344.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.94 (Single payment) |
+| Price | $110.69 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.28 |
+| Earnings/sale* | $33.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** You have studied Norwegian like crazy, and now you are ready to take Norskprøven? But you're afraid you won't get the result you are hoping for because you ... - ... don't know the exam tasks well enough?- ... don't know how to prepare?Norskprøven is not just about speaking and writing Norwegian well, but it is also crucial to know what exactly you have to do in the exam. Learn all of this in my N…
+**Vendor's marketplace description:** <p>You have <strong>studied Norwegian</strong> like crazy, and now you are ready to take <strong>Norskprøven</strong>?</p>
+<p>But you're <strong>afraid you won't get the result you are hoping for</strong> because you ...</p>
+<p>- ... don't know the exam tasks well enough?<br />- ... don't know how to prepare?<br /><br /><em>Norskprøven</em> is not just about speaking and writing Norwegian well, but it is also crucial to know <strong>what</strong> <strong>exactly you have to do in the exam</strong>. Learn all of this in my <em>Norskprøve</em> video course.</p>
+<p>Here's what awaits you:</p>
+<p> </p>
 
 ## 2. Links
 
@@ -87,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2023-12-15
-- How much? — 110.9394 USD
+- How much? — 110.6919 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

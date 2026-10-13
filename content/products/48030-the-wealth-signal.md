@@ -4,16 +4,16 @@ digistore24_product_id: 550119
 title: "The Wealth Signal"
 vendor: "thewealthsignal"
 product_type: "Downloads"
-price: 49.95
+price: 49.83
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 36.26
+earnings_per_sale: 36.18
 cart_conversion_pct: 15
 cancel_rate_pct: 10.69
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://wealthsignaloriginal.com/DS/vsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://wealthsignaloriginal.com/DS/vsl/"
@@ -22,16 +22,16 @@ language: "en"
 # The Wealth Signal
 
 > Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](../../reviews/the-wealth-signal-48030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $49.95 (Single payment) |
+| Price | $49.83 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $36.26 |
+| Earnings/sale* | $36.18 |
 | Cart conversion* | 15% |
 | Cancel rate* | 10.69% |
 | Vendor | thewealthsignal |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SKY-HIGH CONVERSIONS: The VSL/Upsell funnel was created by a Clickbank marketer with nearly $100M in sales of his own products. PAID TRAFFIC KILLER: This offer is scaling on paid media right now by the product owner. Get in on the action! GREAT PRODUCT: We get testimonials everyday from customers. We have one of the lowest refund rates on Clickbank. Get Your Promotional Materials pn our ASP!
+**Vendor's marketplace description:** <ul>
+<li>SKY-HIGH CONVERSIONS: The VSL/Upsell funnel was created by a Clickbank marketer with nearly $100M in sales of his own products. </li>
+<li>PAID TRAFFIC KILLER: This offer is scaling on paid media right now by the product owner. Get in on the action!</li>
+<li>GREAT PRODUCT: We get testimonials everyday from customers. We have one of the lowest refund rates on Clickbank. <em>Get Your Promotional Materials pn our ASP!</em></li>
+</ul>
 
 ## 2. Links
 
@@ -78,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: thewealthsignal, listed since 2024-04-28
-- How much? — 49.945142000000004 USD
+- How much? — 49.83371700000001 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

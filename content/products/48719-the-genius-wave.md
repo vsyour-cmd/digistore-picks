@@ -4,34 +4,34 @@ digistore24_product_id: 547017
 title: "The Genius Wave"
 vendor: "thegeniuswave"
 product_type: "Downloads"
-price: 48.52
+price: 48.41
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 42
+earnings_per_sale: 41.91
 cart_conversion_pct: 15
 cancel_rate_pct: 7.79
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48719/adminstore/"
 sales_page: "https://ingeniuswave.com/DSvsl/"
 language: "en"
 ---
 # The Genius Wave
 
 > Product ID `48719` · Digistore24 productId `547017` · [HTML profile page](../../reviews/the-genius-wave-48719.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $48.52 (Single payment) |
+| Price | $48.41 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $42.00 |
+| Earnings/sale* | $41.91 |
 | Cart conversion* | 15% |
 | Cancel rate* | 7.79% |
 | Vendor | thegeniuswave |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hyper-conversions, BIG-TIME EPCs, Neuroscientist-endorsed product. Go HERE to get your link: https://realgeniuswave.com/DSAffiliates/ From the 8-figure VSL team behind Billionaire Brain Wave. Test your traffic & watch the big EPC's roll in. Affiliate Resources: bit.ly/affiliateresourceguides
+**Vendor's marketplace description:** <p>Hyper-conversions, BIG-TIME EPCs, Neuroscientist-endorsed product. Go HERE to get your link: <a href="https://realgeniuswave.com/DSAffiliates/" target="_blank" rel="noreferrer noopener">https://realgeniuswave.com/DSAffiliates/</a></p>
+<p>From the 8-figure VSL team behind Billionaire Brain Wave. Test your traffic &amp; watch the big EPC's roll in.</p>
+<p>Affiliate Resources: <a href="bit.ly/affiliateresourceguides" target="_blank" rel="noreferrer noopener">bit.ly/affiliateresourceguides</a></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48719/adminstore/
 - Sales page: https://ingeniuswave.com/DSvsl/
 - Vendor affiliate support: https://realgeniuswave.com/DSAffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/547017/adminstore
@@ -76,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: thegeniuswave, listed since 2024-04-06
-- How much? — 48.52198 USD
+- How much? — 48.41373 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

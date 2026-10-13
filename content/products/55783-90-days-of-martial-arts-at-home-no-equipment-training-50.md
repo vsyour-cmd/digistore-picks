@@ -4,34 +4,34 @@ digistore24_product_id: 672537
 title: "90 Days of Martial Arts at Home —  No Equipment Training 50%"
 vendor: "ahmadrrrtx3332f1e"
 product_type: "E-books"
-price: 19.05
+price: 19.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.53
+earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Sport"]
 listed_since: "2026-03-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://martialarts90.netlify.app/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55783/adminstore/"
 sales_page: "https://martialarts90.netlify.app/"
 language: "en"
 ---
 # 90 Days of Martial Arts at Home —  No Equipment Training 50%
 
 > Product ID `55783` · Digistore24 productId `672537` · [HTML profile page](../../reviews/90-days-of-martial-arts-at-home-no-equipment-training-50-55783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.05 (Single payment) |
+| Price | $19.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.53 |
+| Earnings/sale* | $9.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ahmadrrrtx3332f1e |
@@ -41,11 +41,19 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** EARN $8.50 PER SALE — 50% COMMISSION A professionally structured 90-day martial arts training program for complete beginners.No equipment needed. Works in any small space. COMMISSION DETAILS:Commission rate: 50% per saleEarnings per sale: $8.50 USDProduct price: $17.00 USDCookie duration: 180 daysAffiliate approval: AutomaticAffiliate support page:https://martialarts90.netlify.app/ WHAT THE BUYER …
+**Vendor's marketplace description:** <p>EARN $8.50 PER SALE — 50% COMMISSION</p>
+<p>A professionally structured 90-day martial <br />arts training program for complete beginners.<br />No equipment needed. Works in any small space.</p>
+<p>COMMISSION DETAILS:<br />Commission rate: 50% per sale<br />Earnings per sale: $8.50 USD<br />Product price: $17.00 USD<br />Cookie duration: 180 days<br />Affiliate approval: Automatic<br />Affiliate support page:<br />https://martialarts90.netlify.app/</p>
+<p>WHAT THE BUYER GETS:<br />- Complete 90-day training plan PDF<br />- Fighting stance and footwork system<br />- Punch and kick technique guides<br />- Full shadowboxing progression<br />- Progress testing every 14 days<br />- Warm-up and cool-down protocols<br />- Based on WHO and ACSM guidelines<br />- Instant PDF download after payment<br />- 30-day money-back guarantee</p>
+<p>WHY THIS CONVERTS:<br />- Low price $17 — impulse buy range<br />- Zero barriers — no equipment needed<br />- Mass market appeal — anyone can buy<br />- Science-backed credibility<br />- Instant delivery — no waiting<br />- Strong guarantee reduces buyer risk</p>
+<p>TARGET AUDIENCE:<br />Fitness beginners, college students,<br />apartment dwellers, busy professionals,<br />martial arts enthusiasts worldwide.</p>
+<p>BEST TRAFFIC SOURCES:<br />YouTube martial arts and fitness channels,<br />Instagram fitness pages 5k to 500k followers,<br />Reddit communities r/martialarts and r/homegym,<br />TikTok home workout content creators,<br />Email lists in fitness and self-improvement niche.</p>
+<p>PROMOTIONAL MATERIALS:<br />Full email swipe copy, product description<br />and promotional guide available at:<br />https://martialarts90.netlify.app/</p>
+<p>CONTACT:<br />ahmadrrrtx333@gmail.com</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://martialarts90.netlify.app/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55783/adminstore/
 - Sales page: https://martialarts90.netlify.app/
 - Vendor affiliate support: https://martialarts90.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/672537/adminstore
@@ -85,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: ahmadrrrtx3332f1e, listed since 2026-03-01
-- How much? — 19.0502 USD
+- How much? — 19.0077 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

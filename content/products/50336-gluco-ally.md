@@ -4,16 +4,16 @@ digistore24_product_id: 576400
 title: "Gluco Ally"
 vendor: "Asperdigital"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.26
+earnings_per_sale: 50.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-10-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://glucoally.org/?aff=adminstore#aff=adminstore"
 sales_page: "https://glucoally.org/"
@@ -22,16 +22,16 @@ language: "en"
 # Gluco Ally
 
 > Product ID `50336` · Digistore24 productId `576400` · [HTML profile page](../../reviews/gluco-ally-50336.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.26 |
+| Earnings/sale* | $50.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Asperdigital |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** GlucoAlly is formulated to help maintain healthy blood sugar levels and support a healthy weight with a blend of scientifically studied and proven ingredients.
+**Vendor's marketplace description:** <p>GlucoAlly is formulated to help maintain healthy blood sugar levels and support a healthy weight with a blend of scientifically studied and proven ingredients.</p>
 
 ## 2. Links
 
@@ -68,7 +68,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Asperdigital, listed since 2024-10-21
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

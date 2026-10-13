@@ -4,16 +4,16 @@ digistore24_product_id: 620151
 title: "DigestiStart"
 vendor: "DigestiStart"
 product_type: "Supplements - health"
-price: 177.05
+price: 176.66
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 115.09
+earnings_per_sale: 114.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-06-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://digestistart24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://digestistart24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # DigestiStart
 
 > Product ID `52958` · Digistore24 productId `620151` · [HTML profile page](../../reviews/digestistart-52958.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $177.05 (Single payment) |
+| Price | $176.66 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $115.09 |
+| Earnings/sale* | $114.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DigestiStart |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Unique “Gut Releasing” Protocol Is Fixing Digestive Issues In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.
+**Vendor's marketplace description:** <p>This Unique “Gut Releasing” Protocol Is Fixing Digestive Issues In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.</p>
 
 ## 2. Links
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: DigestiStart, listed since 2025-06-23
-- How much? — 177.0548 USD
+- How much? — 176.65980000000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

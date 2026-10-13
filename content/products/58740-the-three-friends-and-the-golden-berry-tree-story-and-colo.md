@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725666?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/725666"
@@ -22,7 +22,7 @@ language: "en"
 # The Three Friends and the Golden Berry Tree – Story and Colo
 
 > Product ID `58740` · Digistore24 productId `725666` · [HTML profile page](../../reviews/the-three-friends-and-the-golden-berry-tree-story-and-colo-58740.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Three Friends and the Golden Berry Tree – Story and Coloring Book Bundle The Three Friends and the Golden Berry Tree – Story & Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9 The bundle includes a 47-page children's storybook and a 40-page coloring book, for a total of 87 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission…
+**Vendor's marketplace description:** <p>The Three Friends and the Golden Berry Tree – Story and Coloring Book Bundle</p>
+<p>The Three Friends and the Golden Berry Tree – Story &amp; Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9 The bundle includes a 47-page children's storybook and a 40-page coloring book, for a total of 87 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promotional materials, including product images and video, are available on the Affiliate Support Page. Instant digital delivery – no physical product is shipped.</p>
 
 ## 2. Links
 

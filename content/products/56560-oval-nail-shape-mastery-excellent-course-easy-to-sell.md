@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Fashion","Health & Fitness"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://vel.academy/oval-shape-d24?aff=adminstore#aff=adminstore"
 sales_page: "https://vel.academy/oval-shape-d24"
@@ -22,7 +22,7 @@ language: "en"
 # Oval Nail Shape Mastery [Excellent course, easy to sell]
 
 > Product ID `56560` · Digistore24 productId `687485` · [HTML profile page](../../reviews/oval-nail-shape-mastery-excellent-course-easy-to-sell-56560.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request. Earn 70% Commission Promoting 5-Star Nail Education CoursesLet's grow together!
+**Vendor's marketplace description:** <p>Zero refunds in 2 months. <br />Fast support — promo materials delivered within 2 days of request. <br />Earn 70% Commission Promoting 5-Star Nail Education Courses<br /><br />Let's grow together!</p>
 
 ## 2. Links
 

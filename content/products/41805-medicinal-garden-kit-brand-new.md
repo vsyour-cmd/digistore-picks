@@ -4,34 +4,34 @@ digistore24_product_id: 379812
 title: "Medicinal Garden Kit – BRAND NEW!"
 vendor: "bookofren"
 product_type: "Deliverable"
-price: 70.96
+price: 70.8
 currency: "USD"
 affiliate_commission_pct: 72
-earnings_per_sale: 43.77
+earnings_per_sale: 43.67
 cart_conversion_pct: 18
 cancel_rate_pct: 2.07
 categories: ["Home & Garden"]
 listed_since: "2021-03-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://medicinalseedkit.com/kit/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41805/adminstore/"
 sales_page: "https://medicinalseedkit.com/kit/"
 language: "en"
 ---
 # Medicinal Garden Kit – BRAND NEW!
 
 > Product ID `41805` · Digistore24 productId `379812` · [HTML profile page](../../reviews/medicinal-garden-kit-brand-new-41805.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $70.96 (Single payment) |
+| Price | $70.80 (Single payment) |
 | Affiliate commission | 72% |
-| Earnings/sale* | $43.77 |
+| Earnings/sale* | $43.67 |
 | Cart conversion* | 18% |
 | Cancel rate* | 2.07% |
 | Vendor | bookofren |
@@ -41,11 +41,21 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** • Compliant! • 72% commissions for initial product sales; 75% commission for physical upsell sales, and 90% for digital upsells sales • Performs well in most niches: health, survival, remedies, etc. • Put it to test! Promolink: https://medicinalseedkit.com/kit/#aff=AFFILIATE&cam=CAMPAIGNKEY Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising…
+**Vendor's marketplace description:** <p>• Compliant! </p>
+<p>• 72% commissions for initial product sales; 75% commission for physical upsell sales, and 90% for digital upsells sales</p>
+<p>• Performs well in most niches: health, survival, remedies, etc.</p>
+<p>• Put it to test!</p>
+<p>Promolink: https://medicinalseedkit.com/kit/#aff=AFFILIATE&amp;cam=CAMPAIGNKEY</p>
+<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
+<p>For support please visit our page <a href="https://medicinalseedkit.com/affiliates/" target="_blank" rel="noreferrer noopener">https://medicinalseedkit.com/affiliates/ </a> or email affiliates.gbs@gmail.com.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://medicinalseedkit.com/kit/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41805/adminstore/
 - Sales page: https://medicinalseedkit.com/kit/
 - Vendor affiliate support: https://medicinalseedkit.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/379812/adminstore
@@ -83,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: bookofren, listed since 2021-03-19
-- How much? — 70.95639200000001 USD
+- How much? — 70.79809200000001 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

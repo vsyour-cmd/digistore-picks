@@ -4,16 +4,16 @@ digistore24_product_id: 733892
 title: "Ebook - The New Architecture of Global Power - Volume I-VI"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/733892?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/733892"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The New Architecture of Global Power - Volume I-VI
 
 > Product ID `59262` · Digistore24 productId `733892` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-i-vi-59262.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WHAT IS GLOBAL POWER ACTUALLY BUILT ON? The New Architecture of Global Power is a comprehensive six-volume series revealing the interconnected systems through which modern global power is created, exercised, challenged, and constrained. The series examines financial power, geoeconomic power, resource power, connectivity power, technological power, and systemic power—from money, markets, production…
+**Vendor's marketplace description:** <p><strong>WHAT IS GLOBAL POWER ACTUALLY BUILT ON?</strong></p>
+<p><em>The New Architecture of Global Power</em> is a comprehensive six-volume series revealing the interconnected systems through which modern global power is created, exercised, challenged, and constrained.</p>
+<p>The series examines <strong>financial power, geoeconomic power, resource power, connectivity power, technological power, and systemic power</strong>—from money, markets, production, and supply chains to critical resources, chokepoints, digital infrastructure, compute, standards, knowledge, and institutional rules.</p>
+<p><strong>Unlike many established works that analyze individual countries, industries, resources, or technologies in isolation, this series examines the architecture connecting them.</strong> Its distinctive approach asks where strategic dependencies arise, who controls critical nodes and networks, how interdependence becomes leverage—and where apparent strength fails to become actual power.</p>
+<p>Its unique strength is the systematic progression from <strong>Money → Production → Resources → Connections → Technology → Rules</strong>. Readers see how financial networks, supply chains, resource processing, physical corridors, technological chokepoints, and ultimately standards and institutions interact as parts of one global power system.</p>
+<p>For affiliates, <em>The New Architecture of Global Power</em> offers a clearly differentiated six-volume product for audiences interested in <strong>geopolitics, global finance, supply chains, energy, critical minerals, trade routes, technology, semiconductors, AI infrastructure, economic security, and the changing global order</strong>—built around one fundamental question: <strong>Which actors control which architectures of power, and where do they remain dependent on others?</strong></p>
 
 ## 2. Links
 
@@ -90,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-09-16
-- How much? — 6.802042 USD
+- How much? — 6.786867000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

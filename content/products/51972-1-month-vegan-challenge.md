@@ -4,16 +4,16 @@ digistore24_product_id: 605910
 title: "1 Month Vegan Challenge"
 vendor: "plantbasedresource"
 product_type: "E-books"
-price: 19.05
+price: 19.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.53
+earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Green Products & Environmental Protection","Health & Fitness"]
 listed_since: "2025-04-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.1monthvegan.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.1monthvegan.com/ds/"
@@ -22,16 +22,16 @@ language: "en"
 # 1 Month Vegan Challenge
 
 > Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](../../reviews/1-month-vegan-challenge-51972.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.05 (Single payment) |
+| Price | $19.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.53 |
+| Earnings/sale* | $9.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plantbasedresource |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ready to earn 50% commissions promoting a high converting, evergreen product in the booming vegan and plant-based lifestyle niche? The One Month Vegan Challenge is a powerful, beginner-friendly digital bundle designed to help people transition to a plant-based lifestyle in just 28 days. With done-for-you meal plans, weekly shopping lists, and delicious, easy-to-follow vegan recipes, this is the pe…
+**Vendor's marketplace description:** <p>Ready to earn 50% commissions promoting a high converting, evergreen product in the booming vegan and plant-based lifestyle niche?</p>
+<p>The One Month Vegan Challenge is a powerful, beginner-friendly digital bundle designed to help people transition to a plant-based lifestyle in just 28 days. With done-for-you meal plans, weekly shopping lists, and delicious, easy-to-follow vegan recipes, this is the perfect solution for anyone curious about going vegan. Whether it's for health, weight loss, the environment, or animal welfare.</p>
+<p>Help your audience go vegan in just 28 days with this best-selling digital bundle! Includes a 28-day meal plan, weekly shopping lists, and tasty vegan recipes — plus bonus cookbooks.</p>
+<p><strong>Affiliates earn 50% commission</strong> on all sales, with upsells and order bumps included.</p>
+<p>Perfect for health, fitness, weight loss, and plant-based lifestyle audiences.</p>
+<p><strong>Affiliate tools here:</strong><br /><a href="https://www.1monthvegan.com/affiliate-tools-ds/">https://www.1monthvegan.com/affiliate-tools-ds</a></p>
 
 ## 2. Links
 
@@ -101,7 +106,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: plantbasedresource, listed since 2025-04-07
-- How much? — 19.0502 USD
+- How much? — 19.0077 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

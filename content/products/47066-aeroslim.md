@@ -4,16 +4,16 @@ digistore24_product_id: 535461
 title: "AeroSlim"
 vendor: "AeroSlim"
 product_type: "Supplements - for slimming"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 181.2
+earnings_per_sale: 180.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-01-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://aeroslim24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://aeroslim24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # AeroSlim
 
 > Product ID `47066` · Digistore24 productId `535461` · [HTML profile page](../../reviews/aeroslim-47066.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $181.20 |
+| Earnings/sale* | $180.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AeroSlim |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DigiStore Says Hello To The First And Only Formula That Improves Metabolic Respiration for Rapid Weight Loss. Skyrocketing Conversions On All Types Of Traffic. Top Affiliates Are Already Ripping The Benefits, Reporting Up To $7 EPC!
+**Vendor's marketplace description:** <p>DigiStore Says Hello To The First And Only Formula That Improves Metabolic Respiration for Rapid Weight Loss.</p>
+<p>Skyrocketing Conversions On All Types Of Traffic.</p>
+<p>Top Affiliates Are Already Ripping The Benefits, Reporting Up To $7 EPC!</p>
 
 ## 2. Links
 
@@ -84,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: AeroSlim, listed since 2024-01-22
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 621048
 title: "Synaptigen"
 vendor: "Synaptigen"
 product_type: "Supplements - health"
-price: 246.55
+price: 246
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 191.26
+earnings_per_sale: 190.84
 cart_conversion_pct: 5
 cancel_rate_pct: 13
 categories: ["Food Supplements"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://synaptigen24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://synaptigen24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Synaptigen
 
 > Product ID `53030` · Digistore24 productId `621048` · [HTML profile page](../../reviews/synaptigen-53030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $246.55 (Single payment) |
+| Price | $246.00 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $191.26 |
+| Earnings/sale* | $190.84 |
 | Cart conversion* | 5% |
 | Cancel rate* | 13% |
 | Vendor | Synaptigen |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Unique Brain Probiotic Formula Is Addressing Memory Loss In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.
+**Vendor's marketplace description:** <p>This Unique Brain Probiotic Formula Is Addressing Memory Loss In A Completely Unexpected Way. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.</p>
 
 ## 2. Links
 
@@ -92,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Synaptigen, listed since 2025-06-27
-- How much? — 246.554412 USD
+- How much? — 246.00436200000004 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

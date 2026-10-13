@@ -4,34 +4,34 @@ digistore24_product_id: 564237
 title: "Make your writing standout with an AI Assistant"
 vendor: "team24-hnagarajan"
 product_type: "Online coaching"
-price: 56.03
+price: 55.91
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems","Software","Online Marketing"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48803/adminstore/"
 sales_page: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching"
 language: "en"
 ---
 # Make your writing standout with an AI Assistant
 
 > Product ID `48803` · Digistore24 productId `564237` · [HTML profile page](../../reviews/make-your-writing-standout-with-an-ai-assistant-48803.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $56.03 (Subscription) |
+| Price | $55.91 (Subscription) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | team24-hnagarajan |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Our nifty little software runs on the background of your MacOS system and allows you to write better everywhere.Whether it's Google Docs, E-Mail, Powerpoint and more our assistant runs on top of your native and online apps to help you write the best content possible.
+**Vendor's marketplace description:** <p>Our nifty little software runs on the background of your MacOS system and allows you to write better everywhere.<br /><br />Whether it's Google Docs, E-Mail, Powerpoint and more our assistant runs on top of your native and online apps to help you write the best content possible.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48803/adminstore/
 - Sales page: https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching
 - Canonical redirect: https://www.digistore24.com/redir/564237/adminstore
 
@@ -66,7 +66,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Online coaching, vendor: team24-hnagarajan, listed since 2024-08-06
-- How much? — 56.03 USD
+- How much? — 55.905 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

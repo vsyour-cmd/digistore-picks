@@ -4,16 +4,16 @@ digistore24_product_id: 651061
 title: "Quantum Perception | Quantum Physics Perception Exercise"
 vendor: "Matrixreport"
 product_type: "Downloads"
-price: 11.09
+price: 11.07
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 2.78
+earnings_per_sale: 2.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kevinmanke.com/quantum-perception/?aff=adminstore#aff=adminstore"
 sales_page: "https://kevinmanke.com/quantum-perception/"
@@ -22,16 +22,16 @@ language: "en"
 # Quantum Perception | Quantum Physics Perception Exercise
 
 > Product ID `54830` · Digistore24 productId `651061` · [HTML profile page](../../reviews/quantum-perception-quantum-physics-perception-exercise-54830.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.09 (Single payment) |
+| Price | $11.07 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $2.78 |
+| Earnings/sale* | $2.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Matrixreport |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Quantum Perception "Quantum Perception" is a kind of guided meditation. A perception exercise and consciousness technique. An original ability that is inherent in you as a human being to bring targeted and very precise movement into a specific topic or situation in your life. Your advantages as an affiliate: 25% commission for every sale madePromote peace, relaxation, and well-being! Support peopl…
+**Vendor's marketplace description:** <p><strong>Quantum Perception</strong></p>
+<p>"Quantum Perception" is a kind of guided meditation. A perception exercise and consciousness technique. An original ability that is inherent in you as a human being to bring targeted and very precise movement into a specific topic or situation in your life.</p>
+<p> </p>
+<p><strong>Your advantages as an affiliate:</strong></p>
+<p>25% commission for every sale made<br />Promote peace, relaxation, and well-being!</p>
+<p>Support people in feeling relaxed, finding peace, and regaining their strength!</p>
 
 ## 2. Links
 
@@ -87,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Matrixreport, listed since 2025-11-26
-- How much? — 11.09394 USD
+- How much? — 11.06919 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 516334
 title: "MovieJack – Video Downloader for YouTube and Other Platforms"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 18.83
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.41
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Social Media","Software"]
 listed_since: "2023-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/516334?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/516334"
@@ -22,16 +22,16 @@ language: "en"
 # MovieJack – Video Downloader for YouTube and Other Platforms
 
 > Product ID `52068` · Digistore24 productId `516334` · [HTML profile page](../../reviews/moviejack-video-downloader-for-youtube-and-other-platforms-52068.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $18.83 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MovieJack Download your favorite videos from YouTube and many other sites – quickly and easily. Includes one year of free updates! Compatible with Windows 7, 8, 8.1, 10, and 11. The software is available for immediate download after purchase. Your license key will be sent by email.
+**Vendor's marketplace description:** <p><strong>MovieJack</strong></p>
+<p>Download your favorite videos from YouTube and many other sites – quickly and easily. Includes one year of free updates!</p>
+<p>Compatible with Windows 7, 8, 8.1, 10, and 11.</p>
+<p>The software is available for immediate download after purchase. Your license key will be sent by email.</p>
 
 ## 2. Links
 
@@ -75,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-13
-- How much? — 18.82608 USD
+- How much? — 18.784080000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,34 +4,34 @@ digistore24_product_id: 467549
 title: "Remixable - Founder Edition"
 vendor: "remixable"
 product_type: "Software"
-price: 490.43
+price: 489.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 170.06
+earnings_per_sale: 169.68
 cart_conversion_pct: 10
 cancel_rate_pct: 22.85
 categories: ["Software"]
 listed_since: "2022-11-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://remixable.net/join/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41713/adminstore/"
 sales_page: "https://remixable.net/join/"
 language: "en"
 ---
 # Remixable - Founder Edition
 
 > Product ID `41713` · Digistore24 productId `467549` · [HTML profile page](../../reviews/remixable-founder-edition-41713.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $490.43 (Single payment, Installment) |
+| Price | $489.34 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $170.06 |
+| Earnings/sale* | $169.68 |
 | Cart conversion* | 10% |
 | Cancel rate* | 22.85% |
 | Vendor | remixable |
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** After $200k+ in development costs & $300k+ in internal test traffic... we're open to affiliate traffic! Remixable is THE 2023 tool-suite for Internet marketers. It 100% automates info marketing, list-building, affiliate marketing & video marketing -- with site builders, video creators, resell rights, copywriting tools & more. Expect $5 EPCs.. steal our $100k swipes.. and embed our $100k demo video…
+**Vendor's marketplace description:** <p>After <strong>$200k+</strong> in development costs &amp; <strong>$300k+</strong> in internal test traffic... we're <strong>open</strong> to affiliate traffic!</p>
+<p><strong>Remixable is THE 2023 tool-suite for Internet marketers.</strong></p>
+<p>It <strong>100% automates</strong> info marketing, list-building, affiliate marketing &amp; video marketing -- with site builders, video creators, resell rights, copywriting tools &amp; more.</p>
+<p><strong>Expect $5 EPCs</strong>.. steal our $100k swipes.. and embed our $100k demo videos.</p>
+<p><strong>Check out the JV page</strong> to see how stacked this offer is - and reach out about reciprocation.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://remixable.net/join/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41713/adminstore/
 - Sales page: https://remixable.net/join/
 - Vendor affiliate support: https://remixable.net/digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/467549/adminstore
@@ -89,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: remixable, listed since 2022-11-01
-- How much? — 490.43059 USD
+- How much? — 489.33646500000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

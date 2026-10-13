@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://kerafirmpro24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://kerafirmpro24.com/text.php"
@@ -22,7 +22,7 @@ language: "en"
 # KeraFirm Pro
 
 > Product ID `58850` · Digistore24 productId `728008` · [HTML profile page](../../reviews/kerafirm-pro-58850.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Explosive Doctor-Endorsed Toenail Fungus Offer! High buyer intent, strong early EPCs, and proven scalability across Facebook, native, and email. Simple applicator-based solution with broad appeal. Limited spots available.
+**Vendor's marketplace description:** <p>Explosive Doctor-Endorsed Toenail Fungus Offer! High buyer intent, strong early EPCs, and proven scalability across Facebook, native, and email. Simple applicator-based solution with broad appeal. Limited spots available.</p>
 
 ## 2. Links
 

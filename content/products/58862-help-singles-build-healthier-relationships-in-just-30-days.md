@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://love.esr.mobi/digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://love.esr.mobi/digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # Help Singles Build Healthier Relationships in Just 30 Days
 
 > Product ID `58862` · Digistore24 productId `728264` · [HTML profile page](../../reviews/help-singles-build-healthier-relationships-in-just-30-days-58862.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Aligned Love Archetypes is a practical 30-day relationship-readiness system designed for singles and couples who want more clarity in dating, communication, compatibility and boundaries. Customers receive a 55-page digital guide featuring a 36-question Love Archetype Scan, six detailed archetype profiles, compatibility frameworks, red and green flag exercises, conversation tools and a complete 30-…
+**Vendor's marketplace description:** <p>Aligned Love Archetypes is a practical 30-day relationship-readiness system designed for singles and couples who want more clarity in dating, communication, compatibility and boundaries. Customers receive a 55-page digital guide featuring a 36-question Love Archetype Scan, six detailed archetype profiles, compatibility frameworks, red and green flag exercises, conversation tools and a complete 30-day action plan. A polished, easy-to-understand relationship product with a broad evergreen audience and strong promotional angles across dating, self-development and relationship content.</p>
 
 ## 2. Links
 

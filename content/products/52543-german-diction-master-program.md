@@ -4,34 +4,34 @@ digistore24_product_id: 612441
 title: "German Diction Master Program"
 vendor: "RobertSawilla"
 product_type: "Member area and video courses"
-price: 561.42
+price: 560.17
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 22.41
+earnings_per_sale: 22.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music","Health & Fitness"]
 listed_since: "2025-05-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://naturalpowerbodyprograms.com/german-diction-masterprogram/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52543/adminstore/"
 sales_page: "https://naturalpowerbodyprograms.com/german-diction-masterprogram/"
 language: "en"
 ---
 # German Diction Master Program
 
 > Product ID `52543` · Digistore24 productId `612441` · [HTML profile page](../../reviews/german-diction-master-program-52543.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $561.42 (Single payment, Installment) |
+| Price | $560.17 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $22.41 |
+| Earnings/sale* | $22.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RobertSawilla |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** You’re in exactly the right place if you want to improve your German for classical singing. There’s simply no better way to harmoniously combine the beauty of the German language with classical vocal artistry than with the German Diction Master Program. Robert Sawilla isn’t just a native German speaker—he brings together a rich blend of stage experience in operetta, oratorio, and art song, over 25…
+**Vendor's marketplace description:** <p><strong>You’re in exactly the right place if you want to improve your German for classical singing.</strong></p>
+<p>There’s simply no better way to harmoniously combine the beauty of the German language with classical vocal artistry than with the <em>German Diction Master Program</em>.</p>
+<p>Robert Sawilla isn’t just a native German speaker—he brings together a rich blend of stage experience in operetta, oratorio, and art song, over 25 years as a vocal coach and voice therapist, and a deep well of linguistic and functional-anatomical expertise. In short: when it comes to German diction, Robert is the real deal.</p>
+<p>This course offers a goldmine of content and practice videos, all presented in clear, simple English. It’s didactically well-crafted, extremely practical, and designed to make sure what you learn sticks—and sings!</p>
+<p>And here's the real treat: purchasing this course is the <em>only</em> way to be coached by Robert personally via Zoom, in one-on-one sessions tailored to the highest professional level.</p>
+<p>So, what are you waiting for?<br /><strong>Join now and take your singing to the next level.</strong><br />This course comes highly recommended by singers and coaches alike!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://naturalpowerbodyprograms.com/german-diction-masterprogram/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52543/adminstore/
 - Sales page: https://naturalpowerbodyprograms.com/german-diction-masterprogram/
 - Vendor affiliate support: https://naturalpowerbodyprograms.com/german-diction-master-program/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/612441/adminstore
@@ -91,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: RobertSawilla, listed since 2025-05-13
-- How much? — 561.4206 USD
+- How much? — 560.1681000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

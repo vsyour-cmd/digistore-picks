@@ -4,34 +4,34 @@ digistore24_product_id: 683970
 title: "AI Song Blueprint – One Keyword. One Song. Done."
 vendor: "DomkeMedia"
 product_type: "E-books"
-price: 32.5
+price: 32.42
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 14.62
+earnings_per_sale: 14.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56317/adminstore/"
 sales_page: "https://domke24.com/ai-song-blueprint/"
 language: "en"
 ---
 # AI Song Blueprint – One Keyword. One Song. Done.
 
 > Product ID `56317` · Digistore24 productId `683970` · [HTML profile page](../../reviews/ai-song-blueprint-one-keyword-one-song-done-56317.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.50 (Single payment) |
+| Price | $32.42 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $14.62 |
+| Earnings/sale* | $14.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DomkeMedia |
@@ -41,11 +41,21 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 45% Commission | Digital Blueprint | Instant Download Most people dream of creating music but feel overwhelmed by complex software, music theory, and expensive studios. The AI Song Blueprint shows anyone how to go from a single keyword to a fully produced song – no prior music experience needed. What Affiliates Are Promoting: Step-by-step system using AI tools (Suno, Udio & more) to create real so…
+**Vendor's marketplace description:** <p><strong>45% Commission | Digital Blueprint | Instant Download</strong></p>
+<p>Most people dream of creating music but feel overwhelmed by complex software, music theory, and expensive studios. The <em>AI Song Blueprint</em> shows anyone how to go from a single keyword to a fully produced song – no prior music experience needed.</p>
+<p><strong>What Affiliates Are Promoting:</strong></p>
+<ul>
+<li>Step-by-step system using AI tools (Suno, Udio &amp; more) to create real songs</li>
+<li>Works for complete beginners – no music theory or instruments required</li>
+<li>Instantly actionable prompts and keyword strategies for unique results</li>
+<li>45% commission on every sale</li>
+</ul>
+<p><strong>Target Audience:</strong> Aspiring musicians, content creators, and AI enthusiasts between 20 and 50 who want to create original music effortlessly.</p>
+<p>High-converting sales page with embedded promo code already in place.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56317/adminstore/
 - Sales page: https://domke24.com/ai-song-blueprint/
 - Vendor affiliate support: https://domke24.com/affiliates-ai-song-blueprint.html
 - Canonical redirect: https://www.digistore24.com/redir/683970/adminstore
@@ -69,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DomkeMedia, listed since 2026-04-11
-- How much? — 32.4974 USD
+- How much? — 32.4249 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

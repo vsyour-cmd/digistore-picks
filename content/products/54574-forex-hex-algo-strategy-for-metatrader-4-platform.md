@@ -4,16 +4,16 @@ digistore24_product_id: 646108
 title: "Forex HEX Algo Strategy For MetaTrader 4 Platform"
 vendor: "forexobroker"
 product_type: "Software"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.88
+earnings_per_sale: 24.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://forexprofitkeeper.com/forex-hex-algo-strategy-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-hex-algo-strategy-dg/"
@@ -22,16 +22,16 @@ language: "en"
 # Forex HEX Algo Strategy For MetaTrader 4 Platform
 
 > Product ID `54574` · Digistore24 productId `646108` · [HTML profile page](../../reviews/forex-hex-algo-strategy-for-metatrader-4-platform-54574.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.88 |
+| Earnings/sale* | $24.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | forexobroker |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** What is HEX ALGO? HEX ALGO is a cutting-edge MetaTrader 4 indicator engineered to detect swing highs and lows (“extremums”) with exceptional precision. This advanced tool empowers traders to confidently spot optimal BUY and SELL zones before the market reverses, guiding entries and exits on forex, indices, commodities, and crypto. Using proprietary price action algorithms and adaptive filters, HEX…
+**Vendor's marketplace description:** <h2>What is HEX ALGO?</h2>
+<p><strong>HEX ALGO</strong> is a cutting-edge MetaTrader 4 indicator engineered to detect swing highs and lows (“extremums”) with exceptional precision. This advanced tool empowers traders to confidently spot optimal BUY and SELL zones before the market reverses, guiding entries and exits on forex, indices, commodities, and crypto. Using proprietary price action algorithms and adaptive filters, HEX ALGO delivers non-repainting, real-time signals straight to the chart—making it ideal for scalpers, day traders, and swing traders aiming to stay one step ahead of volatile moves.</p>
+<h2>Affiliate Commission Structure</h2>
+<p> </p>
 
 ## 2. Links
 
@@ -81,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: forexobroker, listed since 2025-11-04
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

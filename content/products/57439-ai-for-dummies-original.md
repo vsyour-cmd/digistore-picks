@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://aifordummies-e8k.plannerpack.fun?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57439/adminstore/"
 sales_page: "https://aifordummies-e8k.plannerpack.fun"
 language: "en"
 ---
 # AI FOR DUMMIES ORIGINAL
 
 > Product ID `57439` · Digistore24 productId `701222` · [HTML profile page](../../reviews/ai-for-dummies-original-57439.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://aifordummies-e8k.plannerpack.fun?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57439/adminstore/
 - Sales page: https://aifordummies-e8k.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/701222/adminstore
 

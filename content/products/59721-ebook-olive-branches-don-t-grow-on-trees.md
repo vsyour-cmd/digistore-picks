@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.checkout-ds24.com/product/737175?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59721/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/737175"
 language: "en"
 ---
 # ebook- Olive Branches Don't Grow on Trees
 
 > Product ID `59721` · Digistore24 productId `737175` · [HTML profile page](../../reviews/ebook-olive-branches-don-t-grow-on-trees-59721.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In the first novel of The Greco Family Trilogy, Olive Branches Don’t Grow on Trees is a heartfelt, humorous work of literary fiction about family, forgiveness, and the hard work of peacemaking. Middle child Silvia Greco is a feisty, determined young artist who dreams of healing her deeply divided Italian-American family. When she convinces the warring factions of the Greco clan to reunite for her …
+**Vendor's marketplace description:** <p>In the first novel of The Greco Family Trilogy, Olive Branches Don’t Grow on Trees is a heartfelt, humorous work of literary fiction about family, forgiveness, and the hard work of peacemaking.</p>
+<p>Middle child Silvia Greco is a feisty, determined young artist who dreams of healing her deeply divided Italian-American family. When she convinces the warring factions of the Greco clan to reunite for her younger brother’s high school graduation, Silvia quickly learns that love alone isn’t always enough. Peace, she discovers, doesn’t simply exist—it must be cultivated with patience, courage, and compassion.</p>
+<p>Lovable yet stubborn, the Grecos are a vividly drawn Italian-American family whose conflicts are as enduring as their bonds. As old wounds resurface and long-buried resentments emerge, Silvia is forced to confront the limits of her role as peacemaker—and the personal cost of trying to hold everyone together.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/737175?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59721/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/737175
 - Canonical redirect: https://www.digistore24.com/redir/737175/adminstore
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-03-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://heikoboos.com/how-to-build-your-e-mail-list?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47711/adminstore/"
 sales_page: "http://heikoboos.com/how-to-build-your-e-mail-list"
 language: "en"
 ---
 # Build Your Email List
 
 > Product ID `47711` · Digistore24 productId `542334` · [HTML profile page](../../reviews/build-your-email-list-47711.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,23 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ATTENTION: Use this link to ensure 100% affiliate attribution: https://www.digistore24.com/redir/542334/AFFILIATE/CAMPAIGNKEY 50% commission per sale! With the latest strategies and advertising materials you can earn attractive commissions every day... Commission model: - 50% commission on the ebook ($27) - 50% commission on add-ons - $3.99 / 13.97 / 27,97 - 50% commission on upsells and downsells…
+**Vendor's marketplace description:** <h3><strong><span style="color:#ff0000;"> ATTENTION: Use this link to ensure 100% affiliate attribution:</span> </strong></h3>
+<h4><strong>https://www.digistore24.com/redir/542334/AFFILIATE/CAMPAIGNKEY </strong></h4>
+<h3><strong>50% commission per sale!</strong></h3>
+<h4><strong>With the latest strategies and advertising materials you can earn attractive commissions every day...</strong></h4>
+<h4><strong>Commission model:</strong></h4>
+<h4>- 50% commission on the ebook ($27)</h4>
+<h4>- 50% commission on add-ons - $3.99 / 13.97 / 27,97</h4>
+<h4>- 50% commission on upsells and downsells</h4>
+<h3><strong>You can earn $40 with a single sale!</strong></h3>
+<h3><strong>2nd level commissions:</strong></h3>
+<h4>Earn another 10% passively on top when an affiliate you refer sells something!</h4>
+<h4><a href="https://heikoboos.com/partnerprogram/" target="_blank" rel="noreferrer noopener"><strong> --&gt; Click here to go to the partner program page with advertising materials!</strong></a></h4>
+<h3><strong>I would be happy to unlock the product for you as a cross-upsell. Please send an email with the subject “CU-Partner Digistore24”, the product name and your affiliate ID to: heiko.boos@gmx.de</strong></h3>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://heikoboos.com/how-to-build-your-e-mail-list?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47711/adminstore/
 - Sales page: http://heikoboos.com/how-to-build-your-e-mail-list
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/542334/adminstore

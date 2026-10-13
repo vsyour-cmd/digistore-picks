@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.humandesignexperiences.com/the-chamber-of-promises?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59617/adminstore/"
 sales_page: "https://www.humandesignexperiences.com/the-chamber-of-promises"
 language: "en"
 ---
 # For audiences caught in proving their worth and overgiving
 
 > Product ID `59617` · Digistore24 productId `735128` · [HTML profile page](../../reviews/for-audiences-caught-in-proving-their-worth-and-overgiving-59617.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,27 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Chamber of Promises is a €47 multimedia Human Design Story Experience exploring worth, proving, commitment, burnout, relationship pressure, and the Heart/Ego Centre through Henrietta’s true-life inspired story. The product includes: 31-minute narrated audio story 39-page visual PDF companion 48-minute Heart Centre teaching video It is suited to audiences interested in Human Design, self-worth,…
+**Vendor's marketplace description:** <p><strong>The Chamber of Promises</strong> is a €47 multimedia Human Design Story Experience exploring worth, proving, commitment, burnout, relationship pressure, and the Heart/Ego Centre through Henrietta’s true-life inspired story.</p>
+<p>The product includes:</p>
+<ul>
+<li>31-minute narrated audio story</li>
+<li>39-page visual PDF companion</li>
+<li>48-minute Heart Centre teaching video</li>
+</ul>
+<p>It is suited to audiences interested in Human Design, self-worth, people-pleasing, burnout, somatic awareness, relationship conditioning, and personal development.</p>
+<p>Affiliates receive access to a dedicated Resource Centre containing approved social-media graphics, short and long promotional copy, product guidance, an audio preview and downloadable promotional video material.</p>
+<p>Promotional materials are developed around three core angles:</p>
+<ul>
+<li>Burnout</li>
+<li>Relationship pressure</li>
+<li>Somatic / Body Refusal</li>
+</ul>
+<p><strong>Affiliate commission: 50%</strong></p>
+<p>No prior knowledge of Human Design is required for the buyer.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.humandesignexperiences.com/the-chamber-of-promises?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59617/adminstore/
 - Sales page: https://www.humandesignexperiences.com/the-chamber-of-promises
 - Vendor affiliate support: https://www.humandesignexperiences.com/affiliate-resource-centre
 - Canonical redirect: https://www.digistore24.com/redir/735128/adminstore

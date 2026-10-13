@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Personal Development"]
 listed_since: "2026-07-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/663850?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57741/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/663850"
 language: "en"
 ---
 # Mind Reset
 
 > Product ID `57741` · Digistore24 productId `663850` · [HTML profile page](../../reviews/mind-reset-57741.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** In this e-book you will learn how to redefine your mind to eliminate self-limiting beliefs and gain greater clarity, focus, and begin to enjoy the rewards of this positive and confident mindset in your professional and personal life...
+**Vendor's marketplace description:** <p>In this e-book you will learn how to redefine your mind to eliminate self-limiting beliefs and gain greater clarity, focus, and begin to enjoy the rewards of this positive and confident mindset in your professional and personal life...</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/663850?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57741/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/663850
 - Canonical redirect: https://www.digistore24.com/redir/663850/adminstore
 

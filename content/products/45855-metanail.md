@@ -4,34 +4,34 @@ digistore24_product_id: 521030
 title: "METANAIL"
 vendor: "metanail"
 product_type: "Deliverable"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.54
+earnings_per_sale: 57.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2023-10-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://getmetanailcomplex.cc/v2-breakthrough/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45855/adminstore/"
 sales_page: "https://getmetanailcomplex.cc/v2-breakthrough/"
 language: "en"
 ---
 # METANAIL
 
 > Product ID `45855` · Digistore24 productId `521030` · [HTML profile page](../../reviews/metanail-45855.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.54 |
+| Earnings/sale* | $57.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | metanail |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Introducing METANAIL COMPLEX – The Fresh New Approach to Nail Wellness! A unique drops + supplement format designed to support healthy-looking nails and elevate your audience's daily nail-care routine.
+**Vendor's marketplace description:** <h3>Introducing METANAIL COMPLEX – The Fresh New Approach to Nail Wellness!</h3>
+<p>A unique drops + supplement format designed to support healthy-looking nails and elevate your audience's daily nail-care routine.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getmetanailcomplex.cc/v2-breakthrough/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45855/adminstore/
 - Sales page: https://getmetanailcomplex.cc/v2-breakthrough/
 - Vendor affiliate support: https://getmetanailcomplex.cc/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/521030/adminstore
@@ -95,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: metanail, listed since 2023-10-17
-- How much? — 88.5274 USD
+- How much? — 88.32990000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

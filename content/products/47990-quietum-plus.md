@@ -4,16 +4,16 @@ digistore24_product_id: 549735
 title: "Quietum Plus"
 vendor: "QuietumPlus"
 product_type: "Supplements - health"
-price: 268
+price: 267.4
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 118.69
+earnings_per_sale: 118.43
 cart_conversion_pct: 4
 cancel_rate_pct: 20.04
 categories: ["Food Supplements"]
 listed_since: "2024-04-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://quietumplus24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://quietumplus24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Quietum Plus
 
 > Product ID `47990` · Digistore24 productId `549735` · [HTML profile page](../../reviews/quietum-plus-47990.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $268.00 (Single payment) |
+| Price | $267.40 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $118.69 |
+| Earnings/sale* | $118.43 |
 | Cart conversion* | 4% |
 | Cancel rate* | 20.04% |
 | Vendor | QuietumPlus |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Tinnitus “Brain Wire Fix” Just Launched On DigiStore! EPC Is Already Up To $4! This Offer Could Mark Your Best Month Ever On Native/Email/Fb. Limited Slots Available. Contact Us To Get On Board!
+**Vendor's marketplace description:** <p>Tinnitus “Brain Wire Fix” Just Launched On DigiStore! EPC Is Already Up To $4! This Offer Could Mark Your Best Month Ever On Native/Email/Fb. Limited Slots Available. Contact Us To Get On Board!</p>
 
 ## 2. Links
 
@@ -96,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: QuietumPlus, listed since 2024-04-25
-- How much? — 268.002696 USD
+- How much? — 267.40479600000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

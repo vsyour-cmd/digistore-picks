@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Family & Children"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://8pw.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://8pw.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Pet Parenting Keepsake Book For Your New Puppy
 
 > Product ID `57658` · Digistore24 productId `713980` · [HTML profile page](../../reviews/pet-parenting-keepsake-book-for-your-new-puppy-57658.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Pet Parenting Keepsake Book For Your New Puppy
+**Vendor's marketplace description:** <p>Pet Parenting Keepsake Book For Your New Puppy</p>
 
 ## 2. Links
 

@@ -4,16 +4,16 @@ digistore24_product_id: 391226
 title: "Forager's Guide to Wild Foods – BRAND NEW!"
 vendor: "fguide"
 product_type: "Book (printed)"
-price: 48.68
+price: 48.57
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 25.3
+earnings_per_sale: 25.25
 cart_conversion_pct: 28
 cancel_rate_pct: 1.83
 categories: ["Survival"]
 listed_since: "2021-05-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://foragersguide.com/nws-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://foragersguide.com/nws-book/"
@@ -22,16 +22,16 @@ language: "en"
 # Forager's Guide to Wild Foods – BRAND NEW!
 
 > Product ID `41824` · Digistore24 productId `391226` · [HTML profile page](../../reviews/forager-s-guide-to-wild-foods-brand-new-41824.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $48.68 (Single payment) |
+| Price | $48.57 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $25.30 |
+| Earnings/sale* | $25.25 |
 | Cart conversion* | 28% |
 | Cancel rate* | 1.83% |
 | Vendor | fguide |
@@ -41,7 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** • Compliant! • 75% commission for initial product sales; 75% commission for digital upsells sales, and 40% commission for physical upsell sales • Performs well in most niches: health, survival, remedies, etc. • Put it to test! If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com. Promocode Link: https://ww…
+**Vendor's marketplace description:** <p>• Compliant! </p>
+<p>• 75% commission for initial product sales; 75% commission for digital upsells sales, and 40% commission for physical upsell sales</p>
+<p>• Performs well in most niches: health, survival, remedies, etc.</p>
+<p>• Put it to test!</p>
+<p>If you would like to promote this offer, you will need to be whitelisted. Please send an email with your affiliate ID at affiliates.gbs@gmail.com.</p>
+<p>Promocode Link: <a href="https://www.foragersguide.com/nws-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.foragersguide.com/nws-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY</a></p>
+<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
+<p>For support please visit our page <a href="https://foragersguide.com/affiliates/" target="_blank" rel="noreferrer noopener">https://foragersguide.com/affiliates/ </a>or email affiliates.gbs@gmail.com.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -86,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: fguide, listed since 2021-05-24
-- How much? — 48.678864 USD
+- How much? — 48.570264 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

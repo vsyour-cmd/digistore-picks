@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Fashion","Health & Fitness"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://vel.academy/course-square-d24?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56561/adminstore/"
 sales_page: "https://vel.academy/course-square-d24"
 language: "en"
 ---
 # Square Nail Shape Mastery
 
 > Product ID `56561` · Digistore24 productId `689581` · [HTML profile page](../../reviews/square-nail-shape-mastery-56561.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request.Earn 50% Commission Promoting 5-Star Nail Education Courses Let's grow together!
+**Vendor's marketplace description:** <p>Zero refunds in 2 months. <br />Fast support — promo materials delivered within 2 days of request.<br /><br />Earn 50% Commission Promoting 5-Star Nail Education Courses <br /><br />Let's grow together!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vel.academy/course-square-d24?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56561/adminstore/
 - Sales page: https://vel.academy/course-square-d24
 - Vendor affiliate support: https://vel.academy/affiliate-help
 - Canonical redirect: https://www.digistore24.com/redir/689581/adminstore

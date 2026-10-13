@@ -4,16 +4,16 @@ digistore24_product_id: 449013
 title: "301K Challenge"
 vendor: "igorkheifets"
 product_type: "Member area and video courses"
-price: 1057.11
+price: 1054.75
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 177.04
+earnings_per_sale: 176.65
 cart_conversion_pct: 2
 cancel_rate_pct: 16.72
 categories: ["Online Marketing"]
 listed_since: "2022-06-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://igor.watch/digi/301k/vsl.html?aff=adminstore#aff=adminstore"
 sales_page: "https://igor.watch/digi/301k/vsl.html"
@@ -22,16 +22,16 @@ language: "en"
 # 301K Challenge
 
 > Product ID `40492` · Digistore24 productId `449013` · [HTML profile page](../../reviews/301k-challenge-40492.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1057.11 (Single payment) |
+| Price | $1054.75 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $177.04 |
+| Earnings/sale* | $176.65 |
 | Cart conversion* | 2% |
 | Cancel rate* | 16.72% |
 | Vendor | igorkheifets |
@@ -41,13 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Paint-by-numbers follow-along quick-start training for beginners. Start here if you often find yourself thinking “there’s no way I can do this... this is too complicated!” whenever you’re going through courses. We’ve created this “do this, do that” 30-day challenge to kick-start your online business without forcing you to get a PhD in internet marketing or spending thousands of dollars on private …
+**Vendor's marketplace description:** <p>Paint-by-numbers follow-along quick-start training for beginners. Start here if you often find yourself thinking “there’s no way I can do this... this is too complicated!” whenever you’re going through courses. We’ve created this “do this, do that” 30-day challenge to kick-start your online business without forcing you to get a PhD in internet marketing or spending thousands of dollars on private mentoring programs. Just follow the system.</p>
 
 ## 2. Links
 
 - **Promo link (affiliate):** https://igor.watch/digi/301k/vsl.html?aff=adminstore#aff=adminstore
 - Sales page: https://igor.watch/digi/301k/vsl.html
-- Vendor affiliate support: https://intercom.help/igor-solo-ads-ltd/en/collections/2107661-list-building-lifestyle
+- Vendor affiliate support: https://listbuilding.com/knowledgebase/
 - Canonical redirect: https://www.digistore24.com/redir/449013/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: igorkheifets, listed since 2022-06-29
-- How much? — 1057.106804 USD
+- How much? — 1054.748454 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

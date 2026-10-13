@@ -4,34 +4,34 @@ digistore24_product_id: 549336
 title: "Prostastream"
 vendor: "ProstaStream"
 product_type: "Supplements - health"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 181.2
+earnings_per_sale: 180.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-04-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://prostastream24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47935/adminstore/"
 sales_page: "https://prostastream24.com/text.php"
 language: "en"
 ---
 # Prostastream
 
 > Product ID `47935` · Digistore24 productId `549336` · [HTML profile page](../../reviews/prostastream-47935.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $181.20 |
+| Earnings/sale* | $180.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ProstaStream |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Monster In The Prostate Niche Converts Like Crazy! Cart Value Of $700. Top Affs Are Doing 6fig/day. Works Like A Charm On Emailing, Native, FB, YT. Limited slots only. Apply today!
+**Vendor's marketplace description:** <p>Monster In The Prostate Niche Converts Like Crazy! Cart Value Of $700. Top Affs Are Doing 6fig/day. Works Like A Charm On Emailing, Native, FB, YT. Limited slots only. Apply today!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://prostastream24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47935/adminstore/
 - Sales page: https://prostastream24.com/text.php
 - Vendor affiliate support: http://prostastream24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/549336/adminstore
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ProstaStream, listed since 2024-04-23
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

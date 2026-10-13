@@ -4,34 +4,34 @@ digistore24_product_id: 586334
 title: "NiteHush Pro"
 vendor: "NiteHushPro"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.26
+earnings_per_sale: 50.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-12-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://nitehushpro24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50801/adminstore/"
 sales_page: "http://nitehushpro24.com/text.php"
 language: "en"
 ---
 # NiteHush Pro
 
 > Product ID `50801` · Digistore24 productId `586334` · [HTML profile page](../../reviews/nitehush-pro-50801.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.26 |
+| Earnings/sale* | $50.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NiteHushPro |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hit it Big In A Niche With HUGE Untapped Potential! This Original Anti-Sleep Apnea Formula Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 EPC.
+**Vendor's marketplace description:** <p>Hit it Big In A Niche With HUGE Untapped Potential! This Original Anti-Sleep Apnea Formula Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 EPC.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://nitehushpro24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50801/adminstore/
 - Sales page: http://nitehushpro24.com/text.php
 - Vendor affiliate support: https://nitehushpro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/586334/adminstore
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NiteHushPro, listed since 2024-12-17
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

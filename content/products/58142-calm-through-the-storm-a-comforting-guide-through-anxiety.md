@@ -4,16 +4,16 @@ digistore24_product_id: 718312
 title: "Calm Through the Storm – A Comforting Guide Through Anxiety"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.13
+earnings_per_sale: 15.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/718312?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718312"
@@ -22,16 +22,16 @@ language: "en"
 # Calm Through the Storm – A Comforting Guide Through Anxiety
 
 > Product ID `58142` · Digistore24 productId `718312` · [HTML profile page](../../reviews/calm-through-the-storm-a-comforting-guide-through-anxiety-58142.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.13 |
+| Earnings/sale* | $15.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A comforting, honest guide through anxiety and panic attacks – with real exercises for the moment things feel worst. Ideal for audiences in mental health, mindfulness, and self-help. Understandable, warm, no clinical jargon. 50% commission per sale.
+**Vendor's marketplace description:** <p>A comforting, honest guide through anxiety and panic attacks – with real exercises for the moment things feel worst. Ideal for audiences in mental health, mindfulness, and self-help.</p>
+<p> </p>
+<p>Understandable, warm, no clinical jargon. 50% commission per sale.</p>
 
 ## 2. Links
 
@@ -75,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.2562 USD
+- How much? — 30.188700000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

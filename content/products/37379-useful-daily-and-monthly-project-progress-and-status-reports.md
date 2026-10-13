@@ -4,34 +4,34 @@ digistore24_product_id: 401565
 title: "Useful Daily and Monthly Project Progress and Status Reports"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-08-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://worldofpm.com/recommended-project-reports/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37379/adminstore/"
 sales_page: "https://worldofpm.com/recommended-project-reports/"
 language: "en"
 ---
 # Useful Daily and Monthly Project Progress and Status Reports
 
 > Product ID `37379` · Digistore24 productId `401565` · [HTML profile page](../../reviews/useful-daily-and-monthly-project-progress-and-status-reports-37379.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Please check the sales page for more product information. Practical work aid for project teams for quick and easy creation of reports, with analysis function. As an affiliate, you earn 50% per sale. If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.
+**Vendor's marketplace description:** <p>Please check the sales page for more product information.</p>
+<ul>
+<li>Practical work aid for project teams for quick and easy creation of reports, with analysis function.</li>
+<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
+<li>If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.  </li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://worldofpm.com/recommended-project-reports/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37379/adminstore/
 - Sales page: https://worldofpm.com/recommended-project-reports/
 - Vendor affiliate support: https://worldofpm.com/become-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/401565/adminstore
@@ -93,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2021-08-09
-- How much? — 22.400793999999998 USD
+- How much? — 22.350819 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

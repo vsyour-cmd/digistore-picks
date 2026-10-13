@@ -4,16 +4,16 @@ digistore24_product_id: 586221
 title: "SeroBurn"
 vendor: "seroburn"
 product_type: "Supplements - for slimming"
-price: 164.73
+price: 164.36
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.07
+earnings_per_sale: 106.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-12-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://seroburn.com/d/?aff=adminstore#aff=adminstore"
 sales_page: "https://seroburn.com/d/"
@@ -22,16 +22,16 @@ language: "en"
 # SeroBurn
 
 > Product ID `50802` · Digistore24 productId `586221` · [HTML profile page](../../reviews/seroburn-50802.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $164.73 (Single payment) |
+| Price | $164.36 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.07 |
+| Earnings/sale* | $106.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seroburn |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 100% Science-Backed NATURAL Weight Loss Formula. DOMINATING Conversion Rates! HUGE EPCs Across All Lists. Engineered for MAX Cold Traffic Performance with BATTLE-TESTED Creatives Included!
+**Vendor's marketplace description:** <p><strong>100% Science-Backed NATURAL Weight Loss Formula</strong>. <br /><strong>DOMINATING</strong> Conversion Rates! <br /><strong>HUGE EPCs</strong> Across All Lists. <br />Engineered for <strong>MAX</strong> Cold Traffic Performance with <strong>BATTLE-TESTED</strong> Creatives Included!</p>
 
 ## 2. Links
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: seroburn, listed since 2024-12-16
-- How much? — 164.72820000000002 USD
+- How much? — 164.3607 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

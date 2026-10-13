@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://primemark-health.com/diabetes-free?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60159/adminstore/"
 sales_page: "https://primemark-health.com/diabetes-free"
 language: "en"
 ---
 # NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash
 
 > Product ID `60159` · Digistore24 productId `727541` · [HTML profile page](../../reviews/new-halki-diabetes-remedy-send-clicks-and-stockpile-cash-60159.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Easiest Commission you have ever made on Digistore24. Get in touch with Benson at medibenson@gmail.com for TopTier Commissions (90% Comms Available). Send Clicks and Smile Open to all Affiliates.This Diabetes Offer is taking Conversions by Storm New VSl - Converts at 75% Better.Just send Clicks and Watch Your Digistore24 Dashboard Lines Grow Bigger Than Ever.
+**Vendor's marketplace description:** <p>The <strong>Easiest Commission</strong> you have ever made on Digistore24. Get in touch with Benson at <a href="mailto:medibenson@gmail.com">medibenson@gmail.com</a> for TopTier Commissions (90% Comms Available). Send Clicks and Smile</p>
+<p>Open to all Affiliates.This Diabetes Offer is taking Conversions by Storm</p>
+<p>New VSl - <strong>Converts at 75%</strong> Better.Just send Clicks and Watch Your Digistore24 Dashboard Lines Grow Bigger Than Ever.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://primemark-health.com/diabetes-free?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60159/adminstore/
 - Sales page: https://primemark-health.com/diabetes-free
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/727541/adminstore

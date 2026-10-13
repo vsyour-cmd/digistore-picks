@@ -4,34 +4,34 @@ digistore24_product_id: 551005
 title: "Linux exam preparation for CompTIA Linux+ and LPIC-1"
 vendor: "bitsandbytes"
 product_type: "Member area and video courses"
-price: 98.88
+price: 98.66
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 39.56
+earnings_per_sale: 39.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2024-05-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/redir/551005/adminstore/"
+promo_link: "https://www.digistore24.com/redir/48319/adminstore/"
 sales_page: "https://bitsandbytes.academy/#/subject_details/linux/advanced"
 language: "en"
 ---
 # Linux exam preparation for CompTIA Linux+ and LPIC-1
 
 > Product ID `48319` · Digistore24 productId `551005` · [HTML profile page](../../reviews/linux-exam-preparation-for-comptia-linux-and-lpic-1-48319.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $98.88 (Single payment, Subscription) |
+| Price | $98.66 (Single payment, Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $39.56 |
+| Earnings/sale* | $39.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bitsandbytes |
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** If you want to prepare for Comptia Linux+ or LPIC-1, you are right here! We take care you get in touch with the required topics and provide you realistic training questions, similar to the real test but without time pressure.Get explanations and related links directly to further material in the internet to learn with context.Detailed statistics help you to focus on your knowledge gaps and achieve …
+**Vendor's marketplace description:** <p>If you want to prepare for Comptia Linux+ or LPIC-1, you are right here! We take care you get in touch with the required topics and provide you realistic training questions, similar to the real test but without time pressure.<br /><br />Get explanations and related links directly to further material in the internet to learn with context.<br /><br />Detailed statistics help you to focus on your knowledge gaps and achieve success in the shortest possible time.<br /><br /></p>
+<ul>
+<li>More than 1250 questions</li>
+<li>8 topics</li>
+<li>Strength analysis</li>
+<li>Smartphone compatible website</li>
+</ul>
+<p><br />Made by experienced Linux administrators knowing what is required and what you need to know for an exam and real life.<br /><br />Join now to achieve the best results in your Linux exam!<br /><br />(Page is provided in English)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/551005/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48319/adminstore/
 - Sales page: https://bitsandbytes.academy/#/subject_details/linux/advanced
 - Vendor affiliate support: https://bitsandbytes.academy/#/af_info
 - Canonical redirect: https://www.digistore24.com/redir/551005/adminstore
@@ -75,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: bitsandbytes, listed since 2024-05-04
-- How much? — 98.881744 USD
+- How much? — 98.66114400000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

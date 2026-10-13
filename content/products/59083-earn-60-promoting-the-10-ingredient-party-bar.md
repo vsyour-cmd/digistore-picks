@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://10ingredientpartybar.com/get-now/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59083/adminstore/"
 sales_page: "https://10ingredientpartybar.com/get-now/"
 language: "en"
 ---
 # Earn 60% Promoting the 10-Ingredient Party Bar
 
 > Product ID `59083` · Digistore24 productId `726602` · [HTML profile page](../../reviews/earn-60-promoting-the-10-ingredient-party-bar-59083.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,19 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The 10-Ingredient Party Bar is a beginner-friendly digital cocktail and home-entertaining system created for U.S. adults aged 21 and over. It teaches customers how to prepare 50 easy and impressive cocktails for 10 popular occasions using just 10 core ingredients—without mixology experience or a fully stocked home bar. AFFILIATE EARNING POTENTIAL: • 60% affiliate commission across the complete fun…
+**Vendor's marketplace description:** <p>The 10-Ingredient Party Bar is a beginner-friendly digital cocktail and home-entertaining system created for U.S. adults aged 21 and over. It teaches customers how to prepare 50 easy and impressive cocktails for 10 popular occasions using just 10 core ingredients—without mixology experience or a fully stocked home bar.</p>
+<p>AFFILIATE EARNING POTENTIAL:</p>
+<p>• 60% affiliate commission across the complete funnel<br />• Earn approximately $19.85 from the $37 core offer<br />• Earn up to approximately $39.68 when the customer purchases the complete funnel<br />• Complete funnel: $37 Party Bar + $9.97 Printable Cocktail Menus order bump + $27 Party Bites one-click upsell<br />• Actual commission amounts may vary due to applicable taxes, Digistore24 transaction fees, refunds, or chargebacks</p>
+<p>CUSTOMERS ALSO RECEIVE:</p>
+<p>• Mixy — Your AI Party Bartender<br />• 10 Mocktails for Every Occasion<br />• 5 Pitcher Recipes for House Parties<br />• Instant digital delivery<br />• 60-day money-back guarantee</p>
+<p>IDEAL TARGET AUDIENCE:</p>
+<p>• Adults aged 21+ who enjoy hosting friends and family<br />• Beginner home bartenders and cocktail enthusiasts<br />• People planning holiday parties, brunches, date nights, pool parties, girls’ nights, guys’ nights, and other gatherings<br />• Food, drink, lifestyle, home-entertaining, and party-planning audiences</p>
+<p>The central promise is simple and easy to advertise: 50 cocktails for 10 special occasions using only 10 core ingredients.</p>
+<p>Affiliates receive access to ready-to-use banners, email copy, social media captions, and advertising headlines. All promotions must clearly disclose the affiliate relationship and must never target anyone under the legal drinking age.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://10ingredientpartybar.com/get-now/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59083/adminstore/
 - Sales page: https://10ingredientpartybar.com/get-now/
 - Vendor affiliate support: https://10ingredientpartybar.com/become-an-affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726602/adminstore

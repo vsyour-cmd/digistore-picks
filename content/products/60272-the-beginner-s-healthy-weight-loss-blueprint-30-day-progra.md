@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742845?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742845"
@@ -22,7 +22,7 @@ language: "en"
 # The Beginner's Healthy Weight-Loss Blueprint - 30-Day Progra
 
 > Product ID `60272` · Digistore24 productId `742845` · [HTML profile page](../../reviews/the-beginner-s-healthy-weight-loss-blueprint-30-day-progra-60272.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A complete, beginner-friendly 30-day guide to sustainable weight loss, healthy eating, gentle movement, and habit building. Includes 34 detailed chapters, visual portion guides, workout plans, and 7 printable bonus planners & trackers! High-converting fitness/wellness niche with 50% affiliate commission.
+**Vendor's marketplace description:** <p><code>A complete, beginner-friendly 30-day guide to sustainable weight loss, healthy eating, gentle movement, and habit building. Includes 34 detailed chapters, visual portion guides, workout plans, and 7 printable bonus planners &amp; trackers! High-converting fitness/wellness niche with 50% affiliate commission.</code></p>
+<p> </p>
 
 ## 2. Links
 

@@ -4,16 +4,16 @@ digistore24_product_id: 443167
 title: "⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours"
 vendor: "clickdesigns"
 product_type: "Software"
-price: 75.08
+price: 74.91
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.54
+earnings_per_sale: 37.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-05-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://clickdesigns.com/dg/cd/?aff=adminstore#aff=adminstore"
 sales_page: "https://clickdesigns.com/dg/cd/"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours
 
 > Product ID `39236` · Digistore24 productId `443167` · [HTML profile page](../../reviews/clickdesigns-515-sale-50-coms-257-5-yours-39236.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $75.08 (Single payment) |
+| Price | $74.91 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.54 |
+| Earnings/sale* | $37.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | clickdesigns |
@@ -41,7 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ClickDesigns™ | The #1 Design Software Of All Time For EVERYONE. INCREDIBLE ConversionsLONG-TERM Evergreen OfferMASSIVE Payouts Already PAID OUT $350,000 This YEAR!! EMAIL TRAFFIC CONVERSIONSEPC $2-$3 | AOV $150 Perfect For Graphics, Social Media, Videos, eCom, MMO, Traffic, Digital Products, Software, SaaS & Offline Marketing Lists Get Paid 50% Commissions On $515 Per Sale. Your Take Home is >>> …
+**Vendor's marketplace description:** <p><span style="color:#ff0000;"><strong>ClickDesigns™ | The #1 Design Software Of All Time For EVERYONE.</strong></span></p>
+<p><span style="text-decoration:underline;"><strong>INCREDIBLE</strong></span> Conversions<br /><span style="text-decoration:underline;"><strong>LONG-TERM</strong></span> Evergreen Offer<br /><span style="text-decoration:underline;"><strong>MASSIVE</strong></span> Payouts </p>
+<h2><span style="background-color:#ff0000;color:#ffffff;"><strong>Already PAID OUT $350,000 This YEAR!</strong><strong>!</strong></span></h2>
+<h3><span style="text-decoration:underline;"><strong>EMAIL TRAFFIC CONVERSIONS<br /></strong></span><strong><span style="background-color:#ffff00;">EPC $2-$3 | </span><span style="background-color:#ffff00;">AOV $150</span> </strong></h3>
+<p><strong>Perfect For Graphics, Social Media, Videos, eCom, MMO, Traffic, Digital Products, Software, SaaS &amp; Offline Marketing Lists</strong></p>
+<h2><span style="background-color:#ffcc00;">Get Paid 50% Commissions On $515 Per Sale. Your Take Home is &gt;&gt;&gt; $257.50!!</span></h2>
+<p><span style="color:#ffffff;background-color:#ff0000;"><strong>Get FULL details here: <span style="color:#ffffff;"><a style="color:#ffffff;" title="Get Paid NOW!" href="https://www.clickdesigns.com/dg/invite" target="_blank" rel="noreferrer noopener">https://www.clickdesigns.com/dg/invite</a></span></strong></span></p>
+<p><a style="color:#ffffff;background-color:#ff0000;" href="https://launch.clickdesigns.com/promo-tools/" target="_blank" rel="noreferrer noopener"><strong>TONS of High-Converting Creatives HERE</strong></a></p>
+<p><span style="color:#ffffff;background-color:#ff0000;"><strong>Get Videos, Software Demo, Articles, Banners &amp; Much more... </strong></span></p>
 
 ## 2. Links
 
@@ -98,7 +106,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: clickdesigns, listed since 2022-05-17
-- How much? — 75.0802 USD
+- How much? — 74.9127 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

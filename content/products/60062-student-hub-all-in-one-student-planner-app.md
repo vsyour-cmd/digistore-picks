@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/student-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/student-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Student Hub: All-in-One Student Planner App
 
 > Product ID `60062` · Digistore24 productId `736480` · [HTML profile page](../../reviews/student-hub-all-in-one-student-planner-app-60062.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Keep classes, assignments, grades, exams, schedules, study plans, and resources organized in one place. BerryOS Student Hub helps students plan their work, track progress, prepare for exams, and manage daily school tasks. The digital hub includes study tools and printable student resources.
+**Vendor's marketplace description:** <p>Keep classes, assignments, grades, exams, schedules, study plans, and resources organized in one place. BerryOS Student Hub helps students plan their work, track progress, prepare for exams, and manage daily school tasks. The digital hub includes study tools and printable student resources.</p>
 
 ## 2. Links
 

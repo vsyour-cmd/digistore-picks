@@ -4,16 +4,16 @@ digistore24_product_id: 419540
 title: "Glucotrust: New Killer Blood Sugar Supplement"
 vendor: "edelixir"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 57.99
+earnings_per_sale: 57.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-12-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://getglucotrust.co/?aff=adminstore#aff=adminstore"
 sales_page: "https://getglucotrust.co/"
@@ -22,16 +22,16 @@ language: "en"
 # Glucotrust: New Killer Blood Sugar Supplement
 
 > Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](../../reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $57.99 |
+| Earnings/sale* | $57.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | edelixir |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Scoop Up An AOV Of $150 And A $5 EPC With This Blood Sugar Supplement That Affiliates Are Raving About! Hollywood Style VSL With A Powerful Weight Loss Angle. Works On All Types Of Health Traffic. This supplement supports healthy blood sugar levels and weight loss for men and women who have Type II diabetes, or want to manage their blood sugar to protect against this condition. It also contains in…
+**Vendor's marketplace description:** <p>Scoop Up An AOV Of $150 And A $5 EPC With This Blood Sugar Supplement That Affiliates Are Raving About! Hollywood Style VSL With A Powerful Weight Loss Angle. Works On All Types Of Health Traffic.</p>
+<p>This supplement supports healthy blood sugar levels and weight loss for men and women who have Type II diabetes, or want to manage their blood sugar to protect against this condition.</p>
+<p>It also contains ingredients that support weight loss, since excess weight is one of the primary causes of type 2 diabetes. And it has ingredients that help you to get deeper, more restful sleep, another important factor in losing weight and restoring health.</p>
+<p>This makes GlucoTrust a supplement with extremely broad appeal...</p>
+<p>And with its expertly-crafted sales funnel, featuring a "Hollywood style" Video Sales Letter and irresistible upsells, this is an offer that is converting like crazy for affiliates and paying out commissions of $150+ for every sale!</p>
+<p>With GlucoTrust, you get:</p>
+<p>- $3 - $5 + EPCs<br />- $158 + AOV<br />- 50% commissions. If you're able to send a high # of sales, we can see about bumping your commission even higher.</p>
 
 ## 2. Links
 
@@ -97,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: edelixir, listed since 2021-12-06
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

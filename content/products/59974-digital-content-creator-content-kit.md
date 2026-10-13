@@ -4,16 +4,16 @@ digistore24_product_id: 737973
 title: "Digital Content - Creator Content Kit"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 39.22
+price: 39.13
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 9.81
+affiliate_commission_pct: 30
+earnings_per_sale: 11.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/creator-content-kit/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/creator-content-kit/"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Content - Creator Content Kit
 
 > Product ID `59974` · Digistore24 productId `737973` · [HTML profile page](../../reviews/digital-content-creator-content-kit-59974.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $39.22 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $9.81 |
+| Price | $39.13 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $11.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ Total: 200+ Content Assets✅ All-in-One-Product – everything you need to create better Instagram content.Content:100x Instagram Hook Pack30x Reel Cover Pack15x Instagram Post Templates10x Carousel Templates15x Story Templates30x Caption Templates30x CTA Pack50x Content IdeasMini Brand KitCreator Quick Guide
+**Vendor's marketplace description:** <p>✅ Total: 200+ Content Assets<br />✅ All-in-One-Product – everything you need to create better Instagram content.<br /><br /><strong>Content:</strong><br />100x Instagram Hook Pack<br />30x Reel Cover Pack<br />15x Instagram Post Templates<br />10x Carousel Templates<br />15x Story Templates<br />30x Caption Templates<br />30x CTA Pack<br />50x Content Ideas<br />Mini Brand Kit<br />Creator Quick Guide</p>
 
 ## 2. Links
 
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-09-27
-- How much? — 39.221000000000004 USD
+- How much? — 39.133500000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

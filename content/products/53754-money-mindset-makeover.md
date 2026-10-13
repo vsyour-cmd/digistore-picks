@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Finances","Personal Development"]
 listed_since: "2025-09-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633272?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633272"
@@ -22,7 +22,7 @@ language: "en"
 # Money Mindset Makeover
 
 > Product ID `53754` · Digistore24 productId `633272` · [HTML profile page](../../reviews/money-mindset-makeover-53754.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate Commission: 65% Product : Ebook Price: $46.99 Target Countries: USA, UK, Canada, Australia, New Zealand
+**Vendor's marketplace description:** <h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Affiliate Commission:</span> 65%</strong></span></h3>
+<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Product :</span> Ebook </strong></span></h3>
+<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Price:</span> $46.99</strong></span></h3>
+<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Target Countries:</span> USA, UK, Canada, Australia, New Zealand</strong> </span></h3>
 
 ## 2. Links
 

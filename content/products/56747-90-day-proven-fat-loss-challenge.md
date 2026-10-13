@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56747/adminstore/"
 sales_page: "https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi"
 language: "en"
 ---
 # 90-Day Proven Fat Loss Challenge
 
 > Product ID `56747` · Digistore24 productId `696162` · [HTML profile page](../../reviews/90-day-proven-fat-loss-challenge-56747.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 90-Day Proven Fat Loss Challenge — ZTraining A structured fat loss programme used by 1,000+ clients across the UK, US and Middle East. Created by Francesco Zen 18 years of coaching and 400+ individual successful transformations. Priced at $97 with a 60-day money-back guarantee. Instant PDF delivery, no supplements required, no ongoing costs. The sales page is fully built and benefit-led with real …
+**Vendor's marketplace description:** <p><strong>90-Day Proven Fat Loss Challenge — ZTraining</strong></p>
+<p>A structured fat loss programme used by 1,000+ clients across the UK, US and Middle East. Created by Francesco Zen 18 years of coaching and 400+ individual successful transformations.</p>
+<p>Priced at $97 with a 60-day money-back guarantee. Instant PDF delivery, no supplements required, no ongoing costs.</p>
+<p>The sales page is fully built and benefit-led with real client testimonials from multiple countries. Converts well to health-conscious adults aged 25–50 who have tried other programmes without success.</p>
+<p><strong>Commission:</strong> 65%</p>
+<p><strong>Contact:</strong> <a>francesco@ztraining.co.uk</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56747/adminstore/
 - Sales page: https://www.ztraining.co.uk/90-day-proven-fat-loss-challenge-digi
 - Canonical redirect: https://www.digistore24.com/redir/696162/adminstore
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://thequietmoneymethode-wg6.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://thequietmoneymethode-wg6.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # The Quiet Money Methode
 
 > Product ID `58900` · Digistore24 productId `729520` · [HTML profile page](../../reviews/the-quiet-money-methode-58900.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 

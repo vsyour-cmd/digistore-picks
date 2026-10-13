@@ -4,34 +4,34 @@ digistore24_product_id: 726719
 title: "Ebook - The Rise of the Multipolar World - Volume V"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/726719?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58711/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726719"
 language: "en"
 ---
 # Ebook - The Rise of the Multipolar World - Volume V
 
 > Product ID `58711` · Digistore24 productId `726719` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-v-58711.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW MIDDLE POWERS GAIN INFLUENCE The Rise of the Multipolar World – Volume V examines how the Global South and emerging middle powers are gaining greater strategic influence as global power becomes more widely distributed. What sets this book apart is its focus on strategic choice. Brazil, Saudi Arabia, Türkiye, Indonesia, the UAE, and South Africa show how resources, geography, markets, capital, …
+**Vendor's marketplace description:** <p><strong>HOW MIDDLE POWERS GAIN INFLUENCE</strong></p>
+<p><em>The Rise of the Multipolar World – Volume V</em> examines how the Global South and emerging middle powers are gaining greater strategic influence as global power becomes more widely distributed.</p>
+<p>What sets this book apart is its focus on <strong>strategic choice</strong>. Brazil, Saudi Arabia, Türkiye, Indonesia, the UAE, and South Africa show how resources, geography, markets, capital, and diplomacy can create influence beyond traditional measures of national power.</p>
+<p>Readers discover why multipolarity creates new opportunities for multi-alignment, leverage, and strategic autonomy.</p>
+<p>For affiliates, this offers a distinctive product for audiences interested in the Global South, BRICS, emerging powers, and the changing world order.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726719?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58711/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726719
 - Canonical redirect: https://www.digistore24.com/redir/726719/adminstore
 
@@ -83,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

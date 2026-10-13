@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736588?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736588"
@@ -22,7 +22,7 @@ language: "en"
 # Online Business Complete Library – All 16 Matze Courses | 40% Commission
 
 > Product ID `59608` · Digistore24 productId `736588` · [HTML profile page](../../reviews/online-business-complete-library-all-16-matze-courses-40-commission-59608.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,19 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Stop guessing where to begin: all 16 Matze practical courses in one library. Recommend a complete English self-study bundle for learners exploring digital products, content, affiliate marketing and commerce. Your audience can choose one focus and plan its implementation with written lessons, workbooks and editable templates. Seven workshop courses: Canva, Etsy, Pinterest, social media, email, UGC …
+**Vendor's marketplace description:** <h2>Stop guessing where to begin: all 16 Matze practical courses in one library.</h2>
+<p>Recommend a complete English self-study bundle for learners exploring digital products, content, affiliate marketing and commerce. Your audience can choose one focus and plan its implementation with written lessons, workbooks and editable templates.</p>
+<ul>
+<li>Seven workshop courses: Canva, Etsy, Pinterest, social media, email, UGC and AI customer service, including seven resource packs.</li>
+<li>Seven further courses: faceless videos, Amazon KDP, affiliate websites, landing pages, Amazon Associates, TikTok Shop affiliate marketing and Amazon FBA.</li>
+<li>Affiliate Marketing for Beginners and the Digistore24 Practical Course.</li>
+<li>23 downloadable files. US$999 once; no subscription.</li>
+<li>40% affiliate commission under Digistore24 settlement terms.</li>
+</ul>
+<h3>Product-specific promotional resources</h3>
+<p>Use the full-scene Matze cover, English social posts, Pinterest copy, email draft and affiliate link generator on the linked support page.</p>
+<p>Written self-study materials without video lessons or coaching. External accounts, approvals and costs are not included. Earnings and sales are not guaranteed.</p>
+<p>Affiliate support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

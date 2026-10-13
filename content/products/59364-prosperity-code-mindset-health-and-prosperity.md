@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Health & Fitness","Personal Development"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://prosperousfromwithin.com/prosperity-code?aff=adminstore#aff=adminstore"
 sales_page: "https://prosperousfromwithin.com/prosperity-code"
@@ -22,7 +22,7 @@ language: "en"
 # Prosperity Code - Mindset, Health and Prosperity
 
 > Product ID `59364` · Digistore24 productId `727929` · [HTML profile page](../../reviews/prosperity-code-mindset-health-and-prosperity-59364.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Your Personal Prosperity Code is a 219-page digital ebook by Johnny Stegmeier created for audiences interested in personal development, mindset, health, prosperity, relationships, purpose, and personal freedom. The book gives readers practical reflection tools and structured frameworks for examining the beliefs, habits, information, associations, decisions, and daily actions shaping their results.…
+**Vendor's marketplace description:** <p><strong>Your Personal Prosperity Code</strong> is a 219-page digital ebook by Johnny Stegmeier created for audiences interested in personal development, mindset, health, prosperity, relationships, purpose, and personal freedom.</p>
+<p>The book gives readers practical reflection tools and structured frameworks for examining the beliefs, habits, information, associations, decisions, and daily actions shaping their results.</p>
+<p><strong>Why affiliates may want to promote it:</strong></p>
+<p>• $29.95 digital front-end product<br />• Optional $9.95 Prosperous From Within Action Workbook order bump<br />• Broad appeal across personal development, mindset, health/wellness, and prosperity audiences<br />• Professionally built sales page and Digistore24 checkout<br />• Dedicated Prosperous From Within Affiliate Center and Marketing Toolkit with approved promotional resources<br />• Immediate digital delivery through Digistore24<br />• 60-day refund policy</p>
+<p>Prosperous From Within is designed to give affiliates a clear, professional product they can introduce to audiences interested in practical personal growth and meaningful change from the inside out.</p>
 
 ## 2. Links
 

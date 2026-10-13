@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/735301?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60269/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/735301"
 language: "en"
 ---
 # PSAS – Physical Security Assessment Toolkit
 
 > Product ID `60269` · Digistore24 productId `735301` · [HTML profile page](../../reviews/psas-physical-security-assessment-toolkit-60269.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** PSAS Consultant Edition is a practical physical security assessment toolkit for independent security consultants and security professionals. It helps users assess sites, identify risks, prioritize improvements, and prepare professional reports using a structured workflow: PREPARE → INSPECT → ASSESS → PRIORITIZE → REPORT. The package includes:• Pre-Assessment & Client Intake Workbook• Physical Secu…
+**Vendor's marketplace description:** <p style="padding-left:40px;">PSAS Consultant Edition is a practical physical security assessment toolkit for independent security consultants and security professionals.</p>
+<p>It helps users assess sites, identify risks, prioritize improvements, and prepare professional reports using a structured workflow: PREPARE → INSPECT → ASSESS → PRIORITIZE → REPORT.</p>
+<p>The package includes:<br />• Pre-Assessment &amp; Client Intake Workbook<br />• Physical Security Field Inspection Workbook<br />• Security Risk Assessment Engine<br />• Security Improvement Roadmap<br />• Executive Security Assessment Report Template<br />• Management Briefing Deck<br />• Completed Case Study<br />• Consultant Field Pack<br />• Quick Start Guide &amp; Consultant Licence Terms</p>
+<p>Affiliate information:<br />• Price: USD 299<br />• Affiliate commission: 30%<br />• Digital download<br />• 60-day unconditional money-back guarantee for individual and business customers</p>
+<p>Ideal audiences include independent physical security consultants, security managers, and professionals who conduct site security assessments.</p>
+<p>For product information and affiliate enquiries, contact warzandigital@gmail.com.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/735301?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60269/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/735301
 - Canonical redirect: https://www.digistore24.com/redir/735301/adminstore
 

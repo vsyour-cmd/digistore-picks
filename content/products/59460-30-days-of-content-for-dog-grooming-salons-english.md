@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735502?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735502"
@@ -22,7 +22,7 @@ language: "en"
 # 30 Days of Content for Dog Grooming Salons (English)
 
 > Product ID `59460` · Digistore24 productId `735502` · [HTML profile page](../../reviews/30-days-of-content-for-dog-grooming-salons-english-59460.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 30 Days of Content for Dog Grooming Salons (English) For dog grooming salons planning their social content. English guide and workbook, twelve editable square PPTX layouts, twelve captions, six Reel outlines, six Story templates and a 30-day XLSX activity calendar. No photos, recorded videos, music licences or native Canva link. The calendar includes preparation, reply and review days. Written sel…
+**Vendor's marketplace description:** <p>30 Days of Content for Dog Grooming Salons (English)</p>
+<p>For dog grooming salons planning their social content.</p>
+<p>English guide and workbook, twelve editable square PPTX layouts, twelve captions, six Reel outlines, six Story templates and a 30-day XLSX activity calendar.</p>
+<p>No photos, recorded videos, music licences or native Canva link. The calendar includes preparation, reply and review days.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$29.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

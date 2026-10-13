@@ -4,16 +4,16 @@ digistore24_product_id: 610341
 title: "AI Profit Sniper"
 vendor: "aiprofitsniper"
 product_type: "Software"
-price: 62.45
+price: 62.31
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.2
+earnings_per_sale: 26.14
 cart_conversion_pct: 14
 cancel_rate_pct: 27.21
 categories: ["Online Marketing & E-Business","Social Media","Software"]
 listed_since: "2025-05-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://www.aiprofitsniper.com/dindex1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aiprofitsniper.com/dindex1.html"
@@ -22,16 +22,16 @@ language: "en"
 # AI Profit Sniper
 
 > Product ID `52428` · Digistore24 productId `610341` · [HTML profile page](../../reviews/ai-profit-sniper-52428.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $62.45 (Single payment) |
+| Price | $62.31 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.20 |
+| Earnings/sale* | $26.14 |
 | Cart conversion* | 14% |
 | Cancel rate* | 27.21% |
 | Vendor | aiprofitsniper |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Welcome Affiliates! A brand NEW Bizopp Offer is HERE Make Up To $483 Per Sale On This Hot New DIGISTORE24 Launch That Converts Like CRAZY!
+**Vendor's marketplace description:** <p>Welcome Affiliates!</p>
+<p>A brand NEW Bizopp Offer is HERE</p>
+<p>Make Up To $483 Per Sale On This Hot New DIGISTORE24 Launch That Converts Like CRAZY!</p>
 
 ## 2. Links
 
@@ -78,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: aiprofitsniper, listed since 2025-05-01
-- How much? — 62.451038 USD
+- How much? — 62.311713000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

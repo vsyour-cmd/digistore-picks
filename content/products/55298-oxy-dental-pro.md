@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://oxydental24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://oxydental24.com/text.php"
@@ -22,7 +22,7 @@ language: "en"
 # Oxy Dental Pro
 
 > Product ID `55298` · Digistore24 productId `663363` · [HTML profile page](../../reviews/oxy-dental-pro-55298.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Navy Diver–Inspired “Marine Tooth Repair” Formula Targets Teeth and Gums Problems at the Root. Huge Demand, Strong Story-Driven VSL. EPC Already Climbing (Up to $4+). Perfect for Native, FB & Email. Limited Affiliate Slots. Contact Us to Get In!
+**Vendor's marketplace description:** <p>Navy Diver–Inspired “Marine Tooth Repair” Formula Targets Teeth and Gums Problems at the Root. Huge Demand, Strong Story-Driven VSL. EPC Already Climbing (Up to $4+). Perfect for Native, FB &amp; Email. Limited Affiliate Slots. <br />Contact Us to Get In!</p>
 
 ## 2. Links
 

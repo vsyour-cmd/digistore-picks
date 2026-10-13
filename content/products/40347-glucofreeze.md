@@ -4,34 +4,34 @@ digistore24_product_id: 438000
 title: "Glucofreeze"
 vendor: "freedomhealthllc"
 product_type: "Supplements - health"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 197.67
+earnings_per_sale: 197.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-04-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://glucofreezecurrent.com/special-today-digi/index.html?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40347/adminstore/"
 sales_page: "http://glucofreezecurrent.com/special-today-digi/index.html"
 language: "en"
 ---
 # Glucofreeze
 
 > Product ID `40347` · Digistore24 productId `438000` · [HTML profile page](../../reviews/glucofreeze-40347.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $197.67 |
+| Earnings/sale* | $197.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freedomhealthllc |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A product made to help soothe diabetes issues.
+**Vendor's marketplace description:** <p>A product made to help soothe diabetes issues.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://glucofreezecurrent.com/special-today-digi/index.html?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40347/adminstore/
 - Sales page: http://glucofreezecurrent.com/special-today-digi/index.html
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/glucofreeze
 - Canonical redirect: https://www.digistore24.com/redir/438000/adminstore
@@ -84,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: freedomhealthllc, listed since 2022-04-07
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

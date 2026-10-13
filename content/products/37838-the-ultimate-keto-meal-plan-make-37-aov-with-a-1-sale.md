@@ -4,16 +4,16 @@ digistore24_product_id: 283755
 title: "⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale"
 vendor: "durchstartenonline"
 product_type: "Downloads"
-price: 441.14
+price: 440.15
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 121.92
+earnings_per_sale: 121.65
 cart_conversion_pct: 2
 cancel_rate_pct: 14.13
 categories: ["Health & Fitness"]
 listed_since: "2019-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control&aff=adminstore#aff=adminstore"
 sales_page: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale
 
 > Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](../../reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $441.14 (Single payment) |
+| Price | $440.15 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $121.92 |
+| Earnings/sale* | $121.65 |
 | Cart conversion* | 2% |
 | Cancel rate* | 14.13% |
 | Vendor | durchstartenonline |
@@ -41,7 +41,105 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Is The NEW #1 Conversion MONSTER On Digistore24. A KETOGENIC MEAL PLAN OFFER THAT'S PROVEN TO MAKE 8-FIGURES AND MORE We've reached #1 on the DS24 marketplace only 7 hours after our launch. Is this the STRONGEST offer ever? Copy our EXACT 1:1 Facebook Ad Strategy That Has Racked In Over $13,000,000... >> CLICK HERE FOR PROVEN AFFILIATE MATERIALS << Created And Improved By Industry Titans That…
+**Vendor's marketplace description:** <h1>This Is The NEW #1 Conversion <span style="text-decoration:underline;">MONSTER</span> On Digistore24.</h1>
+<p><strong><span style="background-color:#ffff00;">A KETOGENIC MEAL PLAN OFFER THAT'S PROVEN TO MAKE 8-FIGURES AND MORE</span></strong></p>
+<p>We've reached <strong><span style="background-color:#ffff00;">#1 on the DS24 marketplace</span></strong> only 7 hours after our launch. <strong>Is this the <span style="text-decoration:underline;">STRONGEST</span> offer ever?</strong></p>
+<p><strong>Copy our <span style="text-decoration:underline;">EXACT</span> 1:1 Facebook Ad Strategy That Has Racked In Over $13,000,000...</strong></p>
+<h2><span style="background-color:#ff0000;color:#ffffff;"><a style="background-color:#ff0000;color:#ffffff;" href="https://www.claudiacaldwell.com/affiliates-keto" target="_blank" rel="noreferrer noopener"><strong> &gt;&gt; CLICK HERE FOR PROVEN AFFILIATE MATERIALS &lt;&lt;</strong></a></span></h2>
+<div>
+<p>Created And Improved By Industry Titans That Have Spent Over 120 Million In Paid Traffic. </p>
+<h2>Here Are 6 Reasons Why You Should Promote This Offer...</h2>
+<div> </div>
+</div>
+<div>
+<div><span style="background-color:#ffff00;"><strong>1. CRAZIEST PAYOUTS IN THE INDUSTRY:</strong></span>
+<div> </div>
+</div>
+</div>
+<div>This may sound so good you want to pinch yourself, but it is indeed true. No other affiliate program can match the level of crazy payouts like this one! We’re talking about converting a $1 sale and racking in $37 AOV.<br />
+<div> </div>
+<div><strong>Yes- there are other offers that payout more than $45. But it takes much more persuasion, effort, and shady marketing tactics to make 1, 3, or 6 bottle supplement sales instead of a $1 sale for our meal plans.</strong><br /><br /></div>
+<div>Think about it: <strong>$1 sale = $37 AOV.</strong></div>
+<br />
+<div> </div>
+</div>
+<div>
+<div><span style="background-color:#ffff00;"><strong>2. SUPER COMPLIANT (STOP THE BAN HAMMER!)</strong></span>
+<div> </div>
+</div>
+</div>
+<div>
+<div>This is not your average affiliate offer. The difference between our offer and others is that, due to its unique design, this product can be promoted in an entirely white-hat way with almost no risk of getting banned on any of the most popular traffic sources, like Facebook, Google, YouTube, TikTok, etc.
+<div> </div>
+<div>No shady tactics, no crazy claims, no clickbait. Instead, you are even giving value to your customers by gifting them free keto recipes. <br /><br />It's the exact opposite to most affiliate offers: instead of commenting negative stuff, people will rave about your ads and tag their friends. Traffic networks will love your ads. (And the CTRs are also higher than with traditional shady, scammy presell pages and quiz landers).</div>
+<div> </div>
+<div><strong>Higher CTRs, happy customers, and networks will love you. </strong></div>
+<div> </div>
+<div>You will also have no problems with Facebooks "Customer Feedback Score" - this offer is completely digital. There is no shipping involved and that means you can opt-out from Facebooks Customer Feedback Score. </div>
+<div> </div>
+</div>
+</div>
+<div>
+<div><span style="background-color:#ffff00;"><strong>3. BUILD YOUR OWN ASSET:</strong></span>
+<div> </div>
+</div>
+</div>
+<div>
+<div>We know it can be tough sometimes as an affiliate. You feel like you are dependent on the vendor and working on their success, not yours. This finally comes to an end with our offer.
+<div> </div>
+<div> </div>
+<div>This offer will build <strong><u>YOU</u></strong> an extensive email list as you promote it. Because it only works in that way. If you promote this offer successfully, there is no option other than getting a big email list along the way. It’s proven to generate over 10,000 qualified email contacts per day. </div>
+<div> </div>
+<div>(Remember you are promoting free keto recipes... People opt-in like crazy. And you get to keep all leads.)</div>
+<div> </div>
+</div>
+</div>
+<div>
+<div><span style="background-color:#ffff00;"><strong>4. PROVEN TO CONVERT: </strong></span>
+<div> </div>
+</div>
+</div>
+<div>
+<div>Our offer was created and optimized by renowned 2CC, 2CCX, Clickbank Platinum, Club24 members - in cooperation with <strong>industry giants</strong> that spend up to 120 million dollars in paid traffic.
+<div><br />
+<div>It's the highest-grossing keto offer on Digistore and has been the number 1 offer on Digistore overall for a very long time period. Without a marketplace listing and without most people even knowing about it. (Ask the DS24 team to verify these claims!) Now, we are opening up our best-selling offer for the first time for affiliates.</div>
+<div> </div>
+</div>
+</div>
+</div>
+<div>
+<div><span style="background-color:#ffff00;"><strong>5. SCALE LIKE CRAZY:  </strong></span>
+<div> </div>
+</div>
+</div>
+<div>
+<div>Our offer works with customers worldwide, and this allows your business to reach the widest audience possible. We make sales in countries we didn't even know existed. 
+<div><br />
+<div>Due to the low price of only $1 and its purely digital components, it works with any English-speaking country worldwide. This creates room for massive scale.</div>
+</div>
+<div> </div>
+<div>You can literally scale this offer with <strong>completely broad, worldwide campaigns</strong> (this is what we do!)</div>
+<div> </div>
+</div>
+</div>
+<div>
+<div><span style="background-color:#ffff00;"><strong>6. NO MORE GUESSWORK. BE PROFITABLE FROM DAY 1  </strong></span>
+<div> </div>
+</div>
+</div>
+<div>
+<div>If we accept you as an affiliate we will give you everything. We strip bare, we drop the curtain. You get our best Facebook ads, Youtube Ads, Google Search Ads and Keywords, Google Display Ads and Placements, Lookalike Audiences and Hashed Customer Lists. 
+<div> </div>
+<div>We explain the exact targeting to you. You get our best email funnels. <strong>SIMPLY EVERYTHING.</strong> It's almost impossible NOT to make a sale with these proven materials.</div>
+<div> </div>
+<div>We also help you with pixel implementation and are always personally available for you and your questions. You get virtually free consulting from industry giants.</div>
+<div> </div>
+<div>We only earn money when YOU earn money. And we want you to make a LOT of money for a LONG time.</div>
+<div> </div>
+<h2><span style="background-color:#ff0000;color:#ffffff;"><a style="background-color:#ff0000;color:#ffffff;" href="https://www.claudiacaldwell.com/affiliates-keto" target="_blank" rel="noreferrer noopener"><strong>&gt;&gt; CLICK HERE FOR PROVEN AFFILIATE MATERIALS &lt;&lt; </strong></a></span></h2>
+</div>
+</div>
+<p> </p>
 
 ## 2. Links
 
@@ -81,7 +179,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: durchstartenonline, listed since 2019-08-22
-- How much? — 441.13539600000007 USD
+- How much? — 440.15124600000007 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

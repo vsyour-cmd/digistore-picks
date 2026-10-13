@@ -4,34 +4,34 @@ digistore24_product_id: 539181
 title: "DentiCore"
 vendor: "DentiCore"
 product_type: "Supplements - health"
-price: 184.7
+price: 184.29
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 123.38
+earnings_per_sale: 123.1
 cart_conversion_pct: 5
 cancel_rate_pct: 7.39
 categories: ["Food Supplements"]
 listed_since: "2024-02-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://denticore24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47137/adminstore/"
 sales_page: "https://denticore24.com/text.php"
 language: "en"
 ---
 # DentiCore
 
 > Product ID `47137` · Digistore24 productId `539181` · [HTML profile page](../../reviews/denticore-47137.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $184.70 (Single payment) |
+| Price | $184.29 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $123.38 |
+| Earnings/sale* | $123.10 |
 | Cart conversion* | 5% |
 | Cancel rate* | 7.39% |
 | Vendor | DentiCore |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DigiStore Welcomes Denticore, The First And Only Tooth And Gum Rebuilding Solution Inspired by The Navy Divers. Big Conversions On All Types Of Traffic In A Highly Competitive Niche. Top Affiliates Are Already Ripping The Benefits Reporting 6 Fig/day.
+**Vendor's marketplace description:** <p>DigiStore Welcomes Denticore, The First And Only Tooth And Gum Rebuilding Solution Inspired by The Navy Divers. Big Conversions On All Types Of Traffic In A Highly Competitive Niche. Top Affiliates Are Already Ripping The Benefits Reporting 6 Fig/day.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://denticore24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47137/adminstore/
 - Sales page: https://denticore24.com/text.php
 - Vendor affiliate support: http://denticore24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/539181/adminstore
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: DentiCore, listed since 2024-02-15
-- How much? — 184.697292 USD
+- How much? — 184.285242 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

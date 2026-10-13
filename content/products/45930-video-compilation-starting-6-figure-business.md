@@ -4,16 +4,16 @@ digistore24_product_id: 524547
 title: "Video - Compilation | Starting 6-Figure Business"
 vendor: "ykarabacak"
 product_type: "Downloads"
-price: 12.47
+price: 12.44
 currency: "USD"
 affiliate_commission_pct: 67
-earnings_per_sale: 8.36
+earnings_per_sale: 8.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-11-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/524547/?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/524547/"
@@ -22,16 +22,16 @@ language: "en"
 # Video - Compilation | Starting 6-Figure Business
 
 > Product ID `45930` · Digistore24 productId `524547` · [HTML profile page](../../reviews/video-compilation-starting-6-figure-business-45930.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.47 (Single payment) |
+| Price | $12.44 (Single payment) |
 | Affiliate commission | 67% |
-| Earnings/sale* | $8.36 |
+| Earnings/sale* | $8.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ykarabacak |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Bestseller with a powerful knowledge of world-class Coaches bundled in a industry proven Video-Course and E-Book: Driving Growth and Succes in the Digital Age (Complimentary EBook - 35 pages) Video-Training Starting 6-Figure Business(11 Videos - 45 min) Learn how to start a successful online business in just 30 days with our comprehensive training course. Our expertly crafted program covers everyt…
+**Vendor's marketplace description:** <p>Bestseller with a powerful knowledge of world-class Coaches bundled in a industry proven Video-Course and E-Book:<br /><br /></p>
+<ol>
+<li>Driving Growth and Succes in the Digital Age (Complimentary EBook - 35 pages)<br /><br /></li>
+<li>Video-Training Starting 6-Figure Business<br />(11 Videos - 45 min)</li>
+</ol>
+<p>Learn how to start a successful online business in just 30 days with our comprehensive training course. Our expertly crafted program covers everything you need to know to avoid common pitfalls and build a thriving online business. Don't waste time and money on trial and error. Follow our proven step-by-step approach to success.</p>
 
 ## 2. Links
 
@@ -87,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: ykarabacak, listed since 2023-11-09
-- How much? — 12.472278000000001 USD
+- How much? — 12.444453000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

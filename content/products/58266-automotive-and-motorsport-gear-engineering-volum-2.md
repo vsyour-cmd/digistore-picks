@@ -4,16 +4,16 @@ digistore24_product_id: 719382
 title: "Automotive and Motorsport Gear Engineering – Volumе 2"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 50.43
+price: 50.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.21
+earnings_per_sale: 25.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft"]
 listed_since: "2026-08-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/719382?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719382"
@@ -22,16 +22,16 @@ language: "en"
 # Automotive and Motorsport Gear Engineering – Volumе 2
 
 > Product ID `58266` · Digistore24 productId `719382` · [HTML profile page](../../reviews/automotive-and-motorsport-gear-engineering-volum-2-58266.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $50.43 (Single payment) |
+| Price | $50.31 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.21 |
+| Earnings/sale* | $25.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
@@ -41,7 +41,48 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Automotive Transmission Component Design – Volume 2 A specialized automotive engineering digital product focused on the components that turn transmission theory into a functioning gearbox. Volume 2: Automotive Transmission Component Design moves beyond gear fundamentals and focuses on the engineering and design of shafts, splines, bearings and transmission housings. It is particularly suited to af…
+**Vendor's marketplace description:** <p>Automotive Transmission Component Design – Volume 2</p>
+<p> </p>
+<p>A specialized automotive engineering digital product focused on the components that turn transmission theory into a functioning gearbox.</p>
+<p> </p>
+<p>Volume 2: Automotive Transmission Component Design moves beyond gear fundamentals and focuses on the engineering and design of shafts, splines, bearings and transmission housings.</p>
+<p> </p>
+<p>It is particularly suited to affiliates targeting automotive, engineering, motorsport, technical education and performance-car audiences.</p>
+<p> </p>
+<p>Key topics include:</p>
+<p> </p>
+<p>- Shaft and torsional-system design</p>
+<p>- Combined bending and torsional loads</p>
+<p>- Stress concentrations and critical sections</p>
+<p>- Splines and shaft-hub connections</p>
+<p>- Bearing selection and arrangements</p>
+<p>- Bearing-life calculations</p>
+<p>- Transmission housing design</p>
+<p>- Structural stiffness and alignment</p>
+<p>- Engineering formulas, reference information and worked examples</p>
+<p> </p>
+<p>Why promote this product?</p>
+<p> </p>
+<p>Volume 2 addresses a more advanced and highly focused part of automotive transmission engineering. It provides affiliates with a product that can be marketed to customers who want to go beyond basic gearbox knowledge and understand how actual transmission components are designed.</p>
+<p> </p>
+<p>Ideal audiences include:</p>
+<p> </p>
+<p>Mechanical engineering students • Automotive enthusiasts • Motorsport enthusiasts • Gearbox builders • Technicians • Race-car builders • Automotive engineers • CAD/design enthusiasts • Performance-car communities</p>
+<p> </p>
+<p>Strong promotional angles</p>
+<p> </p>
+<p>Affiliates can market Volume 2 around themes such as:</p>
+<p> </p>
+<p>- Learn how real gearbox components are engineered</p>
+<p>- Go beyond gear theory into practical transmission design</p>
+<p>- Understand shaft, spline and bearing calculations</p>
+<p>- Learn the engineering principles behind stronger transmissions</p>
+<p>- Technical knowledge for performance and motorsport applications</p>
+<p>- Continue the learning path established in Volume 1</p>
+<p> </p>
+<p>Volume 2 can also be cross-promoted with Volume 1, giving affiliates an opportunity to recommend both products to customers who want a broader understanding of automotive transmission engineering.</p>
+<p> </p>
+<p>Digital product – instant delivery – worldwide audience.</p>
 
 ## 2. Links
 
@@ -83,7 +124,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-10
-- How much? — 50.427 USD
+- How much? — 50.3145 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

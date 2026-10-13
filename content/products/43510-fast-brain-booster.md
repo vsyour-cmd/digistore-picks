@@ -4,16 +4,16 @@ digistore24_product_id: 493435
 title: "Fast Brain Booster"
 vendor: "pegrom"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 54.12
+earnings_per_sale: 54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-04-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://fastbrainbooster.com/index_24/?aff=adminstore#aff=adminstore"
 sales_page: "https://fastbrainbooster.com/index_24/"
@@ -22,16 +22,16 @@ language: "en"
 # Fast Brain Booster
 
 > Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](../../reviews/fast-brain-booster-43510.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $54.12 |
+| Earnings/sale* | $54.00 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pegrom |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ready To Promote? Lets Get Going! On our Affiliate support pageyou'll find everything you need to know about promoting our best-selling product.
+**Vendor's marketplace description:** <p>Ready To Promote? Lets Get Going!</p>
+<p>On our Affiliate support pageyou'll find everything you need to know about promoting our best-selling product.</p>
 
 ## 2. Links
 
@@ -83,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: pegrom, listed since 2023-04-10
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

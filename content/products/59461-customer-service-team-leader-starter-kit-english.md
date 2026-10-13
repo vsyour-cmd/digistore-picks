@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/product/735503?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59461/adminstore/"
 sales_page: "https://www.digistore24.com/product/735503"
 language: "en"
 ---
 # Customer Service Team Leader Starter Kit (English)
 
 > Product ID `59461` · Digistore24 productId `735503` · [HTML profile page](../../reviews/customer-service-team-leader-starter-kit-english-59461.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Customer Service Team Leader Starter Kit (English) For new customer-service team leaders structuring their first month. English guide and workbook, 30-day starter plan, one-to-one and coaching templates, quality-calibration guidance and an XLSX workbook for twelve weeks of team metrics and weighted case quality. Fictional examples are separate from team data. No industry targets, shift-planning sy…
+**Vendor's marketplace description:** <p>Customer Service Team Leader Starter Kit (English)</p>
+<p>For new customer-service team leaders structuring their first month.</p>
+<p>English guide and workbook, 30-day starter plan, one-to-one and coaching templates, quality-calibration guidance and an XLSX workbook for twelve weeks of team metrics and weighted case quality.</p>
+<p>Fictional examples are separate from team data. No industry targets, shift-planning system or employment-law advice.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$79.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/735503?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59461/adminstore/
 - Sales page: https://www.digistore24.com/product/735503
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735503/
 - Canonical redirect: https://www.digistore24.com/redir/735503/adminstore

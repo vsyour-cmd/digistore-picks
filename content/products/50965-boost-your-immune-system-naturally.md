@@ -4,34 +4,34 @@ digistore24_product_id: 589747
 title: "Boost Your Immune System Naturally"
 vendor: "emrkts"
 product_type: "E-books"
-price: 28.02
+price: 27.95
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 19.61
+earnings_per_sale: 19.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-01-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://prohealthly.com/immunity-booster/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50965/adminstore/"
 sales_page: "https://prohealthly.com/immunity-booster/"
 language: "en"
 ---
 # Boost Your Immune System Naturally
 
 > Product ID `50965` · Digistore24 productId `589747` · [HTML profile page](../../reviews/boost-your-immune-system-naturally-50965.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.02 (Single payment) |
+| Price | $27.95 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $19.61 |
+| Earnings/sale* | $19.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | emrkts |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Ideal for customers who are busy professionals, parents, and seniors. And you get 70% of every sale.
+**Vendor's marketplace description:** <p style="font-size:26px;"><strong>Ideal for customers who are busy professionals, parents, and seniors.</strong></p>
+<p> </p>
+<p style="font-size:26px;"><strong>And you get 70% of every sale.</strong></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://prohealthly.com/immunity-booster/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50965/adminstore/
 - Sales page: https://prohealthly.com/immunity-booster/
 - Vendor affiliate support: https://prohealthly.com/commonpage.html
 - Canonical redirect: https://www.digistore24.com/redir/589747/adminstore
@@ -91,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: emrkts, listed since 2025-01-10
-- How much? — 28.015 USD
+- How much? — 27.9525 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 379127
 title: "NEW: The Self-Sufficient Backyard"
 vendor: "sbackyard"
 product_type: "Book (printed)"
-price: 49.62
+price: 49.51
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.03
+earnings_per_sale: 25.97
 cart_conversion_pct: 9
 cancel_rate_pct: 1.28
 categories: ["Home & Garden"]
 listed_since: "2021-03-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://independentbackyard.com/my-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://independentbackyard.com/my-book/"
@@ -22,16 +22,16 @@ language: "en"
 # NEW: The Self-Sufficient Backyard
 
 > Product ID `40914` · Digistore24 productId `379127` · [HTML profile page](../../reviews/new-the-self-sufficient-backyard-40914.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $49.62 (Single payment) |
+| Price | $49.51 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.03 |
+| Earnings/sale* | $25.97 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.28% |
 | Vendor | sbackyard |
@@ -41,7 +41,36 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** High Payouts! From the creators of The Lost Ways and The Lost Book of Remedies! Converts well on interests like self-sufficiency, off grid, gardening, DIY, survival, and others. Send us an email for marketing materials, best banners, videos, etc. Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affil…
+**Vendor's marketplace description:** <p>High Payouts! From the creators of The Lost Ways and The Lost Book of Remedies! Converts well on interests like self-sufficiency, off grid, gardening, DIY, survival, and others. Send us an email for marketing materials, best banners, videos, etc.</p>
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<p>For more details, please visit our page <a href="https://independentbackyard.com/affiliates/">https://independentbackyard.com/affiliates/</a>  or email a<a>ffiliates.gbs@gmail.com .</a></p>
+<p>Promocode Link: <a href="https://www.independentbackyard.com/my-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY" target="_blank" rel="noreferrer noopener">https://www.independentbackyard.com/my-book/?aff=AFFILIATE&amp;cam=CAMPAIGNKEY</a></p>
 
 ## 2. Links
 
@@ -92,7 +121,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: sbackyard, listed since 2021-03-15
-- How much? — 49.620168 USD
+- How much? — 49.509468000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

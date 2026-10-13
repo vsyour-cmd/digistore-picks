@@ -43,8 +43,14 @@ if (cats) for (const c of cats.categories) {
   }
 }
 
+// 官方推广链接(2026-10-13 经 /v2/api/marketplace/promolink/{id} 全量获取,平台生成的权威链接)
+// 优先级最高:平台会随厂商改版自动维护 redir 链接,不会像 vendor 域名深链那样静默失效
+const officialLinks = read("promolinks-en.json") || {};
+
 function promoLink(p) {
-  // 1. 厂商官方通知的新链接(最高优先级)
+  // 0. 平台官方生成的推广链接(权威,自动跟随厂商变更)
+  if (officialLinks[String(p.id)]) return officialLinks[String(p.id)];
+  // 1. 厂商官方通知的新链接
   if (promoUpdates[String(p.productId)]) return promoUpdates[String(p.productId)].promo;
   if (promoUpdates[String(p.id)]) return promoUpdates[String(p.id)].promo;
   const s = p.salesPageUrl || "";

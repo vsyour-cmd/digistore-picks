@@ -4,34 +4,34 @@ digistore24_product_id: 446313
 title: "The Encyclopedia of Natural Remedies- Brand New "
 vendor: "dailyhealth"
 product_type: "E-books"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.88
+earnings_per_sale: 24.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-06-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://wsl.365dailyhealth.com/encyclopedia1?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40333/adminstore/"
 sales_page: "https://wsl.365dailyhealth.com/encyclopedia1"
 language: "en"
 ---
 # The Encyclopedia of Natural Remedies- Brand New 
 
 > Product ID `40333` · Digistore24 productId `446313` · [HTML profile page](../../reviews/the-encyclopedia-of-natural-remedies-brand-new-40333.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.88 |
+| Earnings/sale* | $24.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dailyhealth |
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Encyclopedia of Natural Remedies- Brand New • Compliant! • AOV: $173• 60% commissions across the funnels. Commision bump for super affiliates• 3-8% conversion rate on email lists Promolink: https://www.digistore24.com/redir/446313/AFFILIATE/CAMPAIGNKEY For product support please email: contact@365dailyhealth.com For affiliate support please email: affiliates@365dailyhealth.com
+**Vendor's marketplace description:** <p>The Encyclopedia of Natural Remedies- Brand New </p>
+<p> </p>
+<div>• Compliant!</div>
+<div>• AOV: $173<br />• 60% commissions across the funnels. Commision bump     for super affiliates<br />• 3-8% conversion rate on email lists</div>
+<p> </p>
+<div>Promolink: <a>https://www.digistore24.com/redir/446313/AFFILIATE/CAMPAIGNKEY</a></div>
+<div><br />For product support please email: <a>contact@365dailyhealth.com</a></div>
+<div>For affiliate support please email: <a>affiliates@365dailyhealth.com</a></div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wsl.365dailyhealth.com/encyclopedia1?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40333/adminstore/
 - Sales page: https://wsl.365dailyhealth.com/encyclopedia1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/the-encyclopedia-of-natural-remedies
 - Canonical redirect: https://www.digistore24.com/redir/446313/adminstore
@@ -67,7 +74,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: dailyhealth, listed since 2022-06-10
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

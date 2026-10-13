@@ -4,16 +4,16 @@ digistore24_product_id: 627161
 title: "Advanced Muscle Plus | Muscle + Strength Support for Adults"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 231.15
+price: 230.63
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 74.77
+earnings_per_sale: 74.6
 cart_conversion_pct: 8
 cancel_rate_pct: 10.06
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-07-31"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Advanced Muscle Plus | Muscle + Strength Support for Adults
 
 > Product ID `53340` · Digistore24 productId `627161` · [HTML profile page](../../reviews/advanced-muscle-plus-muscle-strength-support-for-adults-53340.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $231.15 (Single payment) |
+| Price | $230.63 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $74.77 |
+| Earnings/sale* | $74.60 |
 | Cart conversion* | 8% |
 | Cancel rate* | 10.06% |
 | Vendor | soundview |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote Advanced Muscle Plus, a muscle and strength support supplement for adults who want to stay active as they age. The offer appeals to audiences interested in healthy aging, fitness, strength, and recovery. Earn 60% commission on tracked sales, with weekly payments through Digistore24. Your affiliate resource page includes promotional links, email copy, and creative assets to help you get sta…
+**Vendor's marketplace description:** <p>Promote Advanced Muscle Plus, a muscle and strength support supplement for adults who want to stay active as they age. The offer appeals to audiences interested in healthy aging, fitness, strength, and recovery.</p>
+<p><br />Earn 60% commission on tracked sales, with weekly payments through Digistore24. Your affiliate resource page includes promotional links, email copy, and creative assets to help you get started.</p>
 
 ## 2. Links
 
@@ -88,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-07-31
-- How much? — 231.14616200000003 USD
+- How much? — 230.63048700000004 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

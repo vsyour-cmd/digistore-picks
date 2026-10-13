@@ -4,34 +4,34 @@ digistore24_product_id: 432604
 title: "101 Easy Scroll Saw Patterns"
 vendor: "rmyrchak"
 product_type: "Downloads"
-price: 112.05
+price: 111.8
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 56.03
+earnings_per_sale: 55.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2022-03-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.easyscrollsawpatterns.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39395/adminstore/"
 sales_page: "https://www.easyscrollsawpatterns.com"
 language: "en"
 ---
 # 101 Easy Scroll Saw Patterns
 
 > Product ID `39395` · Digistore24 productId `432604` · [HTML profile page](../../reviews/101-easy-scroll-saw-patterns-39395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $112.05 (Single payment) |
+| Price | $111.80 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $56.03 |
+| Earnings/sale* | $55.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rmyrchak |
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 101 Easy Scroll Saw Patterns is a great bundle of original, unique hand drawn scroll saw patterns for experienced woodworkers and people just starting out using a scroll saw. Create beautiful scroll saw art with these patterns that you can make for yourself, present as gifts for others, or make wooden scroll saw art from these patterns to sell at craft shows, in a gift shop, or sell online. Could …
+**Vendor's marketplace description:** <p>101 Easy Scroll Saw Patterns is a great bundle of original, unique hand drawn scroll saw patterns for experienced woodworkers and people just starting out using a scroll saw. Create beautiful scroll saw art with these patterns that you can make for yourself, present as gifts for others, or make wooden scroll saw art from these patterns to sell at craft shows, in a gift shop, or sell online.</p>
+<p>Could work well with woodworking blogs, art and crafts pages and blogs or woodworking tools review websites and blogs. </p>
+<p>Affiliates can use images that I created for ads at the following page:</p>
+<p><a href="http://www.easyscrollsawpatterns.com/for-affiliates">www.easyscrollsawpatterns.com/for-affiliates</a></p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.easyscrollsawpatterns.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39395/adminstore/
 - Sales page: https://www.easyscrollsawpatterns.com
 - Vendor affiliate support: http://www.easyscrollsawpatterns.com/for-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/432604/adminstore
@@ -79,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: rmyrchak, listed since 2022-03-04
-- How much? — 112.048794 USD
+- How much? — 111.79881900000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

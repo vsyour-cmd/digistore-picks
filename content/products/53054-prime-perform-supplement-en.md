@@ -4,16 +4,16 @@ digistore24_product_id: 619569
 title: "Prime Perform Supplement EN"
 vendor: "thankyouchoice"
 product_type: "Supplements - health"
-price: 203.55
+price: 203.09
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 110.93
+earnings_per_sale: 110.68
 cart_conversion_pct: 3
 cancel_rate_pct: 8.56
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-06-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://primeperformpro.com/welcome/?aff=adminstore#aff=adminstore"
 sales_page: "https://primeperformpro.com/welcome/"
@@ -22,16 +22,16 @@ language: "en"
 # Prime Perform Supplement EN
 
 > Product ID `53054` · Digistore24 productId `619569` · [HTML profile page](../../reviews/prime-perform-supplement-en-53054.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $203.55 (Single payment) |
+| Price | $203.09 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $110.93 |
+| Earnings/sale* | $110.68 |
 | Cart conversion* | 3% |
 | Cancel rate* | 8.56% |
 | Vendor | thankyouchoice |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** OFERTA DE ALTA CONVERSIÓN CON EXCELENTES COMISIONES 60% de comisión sobre la oferta principal 30% de comisión sobre el upsell y downsell Prime Perform es el suplemento definitivo para mejorar el rendimiento sexual masculino. Con su fórmula 100 % natural y potente, no solo estimula la libido, sino que también garantiza erecciones más firmes y duraderas, fortaleciendo la confianza y la satisfacción …
+**Vendor's marketplace description:** <div>
+<h2><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">OFERTA DE ALTA CONVERSIÓN CON EXCELENTES COMISIONES</span></span></h2>
+</div>
+<div>
+<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">60% de comisión sobre la oferta principal 30% de comisión sobre el upsell y downsell</span></span></p>
+<p><span style="vertical-align:inherit;"><span style="vertical-align:inherit;">Prime Perform es el suplemento definitivo para mejorar el rendimiento sexual masculino. Con su fórmula 100 % natural y potente, no solo estimula la libido, sino que también garantiza erecciones más firmes y duraderas, fortaleciendo la confianza y la satisfacción durante la intimidad.</span></span></p>
+</div>
 
 ## 2. Links
 
@@ -85,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: thankyouchoice, listed since 2025-06-19
-- How much? — 203.545784 USD
+- How much? — 203.09168400000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

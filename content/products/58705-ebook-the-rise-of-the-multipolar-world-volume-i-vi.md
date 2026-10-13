@@ -4,34 +4,34 @@ digistore24_product_id: 726712
 title: "Ebook - The Rise of the Multipolar World - Volume I-VI"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/726712?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58705/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726712"
 language: "en"
 ---
 # Ebook - The Rise of the Multipolar World - Volume I-VI
 
 > Product ID `58705` · Digistore24 productId `726712` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-i-vi-58705.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW IS THE WORLD REALLY MOVING FROM AMERICAN PRIMACY TO MULTIPOLAR POWER? The Rise of the Multipolar World is a comprehensive six-volume series tracing one of the defining geopolitical transformations of our time: the transition from the postwar American-led order toward a world shaped by multiple centers of power, strategic autonomy, and increasingly flexible alliances. The series follows this tr…
+**Vendor's marketplace description:** <p><strong>HOW IS THE WORLD REALLY MOVING FROM AMERICAN PRIMACY TO MULTIPOLAR POWER?</strong></p>
+<p><em>The Rise of the Multipolar World</em> is a comprehensive six-volume series tracing one of the defining geopolitical transformations of our time: the transition from the postwar American-led order toward a world shaped by multiple centers of power, strategic autonomy, and increasingly flexible alliances.</p>
+<p>The series follows this transformation step by step—from <strong>the American order and the rise of China to Russia’s return as a strategic power, the contrasting roles of India and Europe, the growing influence of the Global South and middle powers, and finally the emerging multipolar order itself</strong>.</p>
+<p><strong>Unlike many established works that examine individual great powers or proclaim the arrival of multipolarity, this series analyzes the transformation as one interconnected process.</strong> It asks not only which powers are rising or declining, but what actually makes a geopolitical pole, how strategic autonomy develops, and how middle powers increasingly exploit competition among larger actors.</p>
+<p>Its distinctive strength is the combination of <strong>great-power competition with the often-overlooked agency of middle powers and the Global South</strong>. Multi-alignment, hedging, resource power, diplomatic diversification, institutional competition, BRICS+, regional orders, and alternative coalitions are examined as components of a changing global system rather than as isolated developments.</p>
+<p>For affiliates, <em>The Rise of the Multipolar World</em> offers a clearly differentiated six-volume product for audiences interested in <strong>the United States, China, Russia, India, Europe, BRICS+, the Global South, middle powers, strategic autonomy, great-power competition, and the future world order</strong>—culminating in the fundamental question: <strong>Is the world already multipolar?</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726712?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58705/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726712
 - Canonical redirect: https://www.digistore24.com/redir/726712/adminstore
 
@@ -83,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

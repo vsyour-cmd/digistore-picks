@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness"]
 listed_since: "2020-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://supp-up.com/ds24-nutrition-at-home-field-guide?aff=adminstore#aff=adminstore"
+promo_link: "https://body-soul-center.com/produkt/geistfuehrer-und-geistige-welt/#aff=adminstore"
 sales_page: "https://supp-up.com/ds24-nutrition-at-home-field-guide"
 language: "en"
 ---
 # The SUPP UP. No Bull Nutrition At Home Field Guide
 
 > Product ID `33677` · Digistore24 productId `338618` · [HTML profile page](../../reviews/the-supp-up-no-bull-nutrition-at-home-field-guide-33677.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 100+ pages of no-fluff nutrition and dietary education. Field-tested protocols for home cooking, eating out, and on-the-go. No restrictive diets or elimination phases. Instant PDF download. Customers using since 2017, now availbale for affiliate distribution. Affiliate resources: https://supp-up.blog/affiliate-resources-ds24/
+**Vendor's marketplace description:** <div>100+ pages of no-fluff nutrition and dietary education. Field-tested protocols for home cooking, eating out, and on-the-go. No restrictive diets or elimination phases. Instant PDF download. Customers using since 2017, now availbale for affiliate distribution.</div>
+<div> </div>
+<div>Affiliate resources: https://supp-up.blog/affiliate-resources-ds24/</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://supp-up.com/ds24-nutrition-at-home-field-guide?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://body-soul-center.com/produkt/geistfuehrer-und-geistige-welt/#aff=adminstore
 - Sales page: https://supp-up.com/ds24-nutrition-at-home-field-guide
 - Vendor affiliate support: https://supp-up.blog/affiliate-resources-ds24/
 - Canonical redirect: https://www.digistore24.com/redir/338618/adminstore

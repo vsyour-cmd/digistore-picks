@@ -4,34 +4,34 @@ digistore24_product_id: 323364
 title: "E.D. Elixir: The Natural Erectile Dysfunction Fix"
 vendor: "edelixir"
 product_type: "Downloads"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.1
+earnings_per_sale: 31.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://ed-elixir.com/vsl/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/33241/adminstore/"
 sales_page: "https://ed-elixir.com/vsl/"
 language: "en"
 ---
 # E.D. Elixir: The Natural Erectile Dysfunction Fix
 
 > Product ID `33241` · Digistore24 productId `323364` · [HTML profile page](../../reviews/e-d-elixir-the-natural-erectile-dysfunction-fix-33241.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.10 |
+| Earnings/sale* | $31.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | edelixir |
@@ -41,11 +41,25 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Explosive New Men's Health Offer Is Making Our Affiliates Rich! This program teaches a proven formula for reversing erectile dysfunction and supercharging your stamina and vitality. Our customers are raving about the product, which is backed up by reviews, 7 figure sales and the lowest refund rate in the industry. The expertly written "cinema style" Video Sales Letter appeals to a wide audience. T…
+**Vendor's marketplace description:** <p>Explosive New Men's Health Offer Is Making Our Affiliates Rich!  </p>
+<p>This program teaches a proven formula for reversing erectile dysfunction and supercharging your stamina and vitality.</p>
+<p>Our customers are raving about the product, which is backed up by reviews, 7 figure sales and the lowest refund rate in the industry.</p>
+<ul>
+<li>
+<p>The expertly written "cinema style" Video Sales Letter appeals to a wide audience. This offer converts to men age 35+ and even to women (because E.D. harms their relationships and happiness, too.) </p>
+</li>
+<li>
+<p>You can expect EPC well above $1. The front end converts like crazy, and then this offer has a killer upsell flow which boosts your commissions.</p>
+</li>
+<li>
+<p>Our team is always rigorously testing and tweaking this offer with email and paid traffic, CONSTANTLY improving conversion rates. </p>
+</li>
+</ul>
+<p>We also offer some of the hottest email swipes in the industry, with emails you can send to any type of health/fitness/dating/relationships list. </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://ed-elixir.com/vsl/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/33241/adminstore/
 - Sales page: https://ed-elixir.com/vsl/
 - Vendor affiliate support: https://ed-elixir.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/323364/adminstore
@@ -91,7 +105,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: edelixir, listed since 2020-04-27
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

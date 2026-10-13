@@ -4,16 +4,16 @@ digistore24_product_id: 585313
 title: "Focus IQ"
 vendor: "AlSearsMD"
 product_type: "Supplements - health"
-price: 67.18
+price: 67.03
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 43.67
+earnings_per_sale: 43.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2024-12-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://partners.primalforce.net/sp/tesla-vsl-summit-3/?aff=adminstore#aff=adminstore"
 sales_page: "https://partners.primalforce.net/sp/tesla-vsl-summit-3/"
@@ -22,16 +22,16 @@ language: "en"
 # Focus IQ
 
 > Product ID `50962` · Digistore24 productId `585313` · [HTML profile page](../../reviews/focus-iq-50962.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $67.18 (Single payment) |
+| Price | $67.03 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $43.67 |
+| Earnings/sale* | $43.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlSearsMD |
@@ -41,7 +41,20 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliates get the benefit of an established (20+ years) brand, developed by world famous anti-aging pioneer Dr. Al Sears MD. We have industry leading LTVs, very low refund or chargeback rates and a dedicated customer support team. 65% Comission on the entire funnel. GUARANTEED: 65% on the full funnel
+**Vendor's marketplace description:** <p>Affiliates get the benefit of an established (20+ years) brand, developed by world famous anti-aging pioneer Dr. Al Sears MD. We have industry leading LTVs, very low refund or chargeback rates and a dedicated customer support team. 65% Comission on the entire funnel.</p>
+<p> </p>
+<div>
+<div>
+<div>
+<h3><span style="color:#99cc00;">GUARANTEED: 65% on the full funnel</span></h3>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div> </div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -78,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: AlSearsMD, listed since 2024-12-10
-- How much? — 67.17997000000001 USD
+- How much? — 67.030095 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

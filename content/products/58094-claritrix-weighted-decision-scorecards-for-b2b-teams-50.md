@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2026-08-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://claritrix.io/ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://claritrix.io/ds24"
@@ -22,7 +22,7 @@ language: "en"
 # Claritrix — Weighted Decision Scorecards for B2B Teams | 50%
 
 > Product ID `58094` · Digistore24 productId `717714` · [HTML profile page](../../reviews/claritrix-weighted-decision-scorecards-for-b2b-teams-50-58094.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Claritrix turns messy vendor, hiring, and business decisions into weighted scorecards that hold up under scrutiny. Built for consultants, procurement managers, HR teams, and finance professionals who need to justify decisions with numbers, not gut feel. One-time $39 with no recurring fees, and 18 built-in templates across the Business & Finance, HR & People, Vendor & Risk, and Custom categories. 1…
+**Vendor's marketplace description:** <p>Claritrix turns messy vendor, hiring, and business decisions into weighted scorecards that hold up under scrutiny. Built for consultants, procurement managers, HR teams, and finance professionals who need to justify decisions with numbers, not gut feel.</p>
+<p>One-time $39 with no recurring fees, and 18 built-in templates across the Business &amp; Finance, HR &amp; People, Vendor &amp; Risk, and Custom categories. 100% browser-based, no account, no cloud, no subscription. Exports branded PDF, Excel, and CSV.</p>
+<p>High-converting B2B niche, low refund risk (privacy-first positioning resonates strongly with this audience), and a straightforward one-time-purchase funnel with no complex upsell chain to explain.</p>
 
 ## 2. Links
 

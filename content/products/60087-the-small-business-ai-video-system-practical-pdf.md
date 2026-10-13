@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "http://www.floxflow.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60087/adminstore/"
 sales_page: "http://www.floxflow.com"
 language: "en"
 ---
 # The Small Business AI Video System | Practical PDF
 
 > Product ID `60087` · Digistore24 productId `736919` · [HTML profile page](../../reviews/the-small-business-ai-video-system-practical-pdf-60087.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Small Business AI Video System is a 71-page downloadable PDF guide for a one-time $79. It is a guide you read and use, not a video course or software subscription. 23 chapters on planning, creating, editing, repurposing and publishing AI marketing videos, plus a prompt library and adaptable templates.
+**Vendor's marketplace description:** <p>The Small Business AI Video System is a 71-page downloadable PDF guide for a one-time $79. It is a guide you read and use, not a video course or software subscription. 23 chapters on planning, creating, editing, repurposing and publishing AI marketing videos, plus a prompt library and adaptable templates.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.floxflow.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60087/adminstore/
 - Sales page: http://www.floxflow.com
 - Canonical redirect: https://www.digistore24.com/redir/736919/adminstore
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/720098?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/720098"
@@ -22,7 +22,7 @@ language: "en"
 # A Journey with the Living Letters – Illustrated Children’s e
 
 > Product ID `58932` · Digistore24 productId `720098` · [HTML profile page](../../reviews/a-journey-with-the-living-letters-illustrated-children-s-e-58932.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** An illustrated English-language children’s eBook that takes young readers on an imaginative journey with living letters, helping them discover letters, words, and reading through story and adventure. Affiliates earn 40% commission on confirmed sales. Promotional materials, book cover, and video are available.Official website: www.elbossilydigitalhome.com
+**Vendor's marketplace description:** <p>An illustrated English-language children’s eBook that takes young readers on an imaginative journey with living letters, helping them discover letters, words, and reading through story and adventure.</p>
+<p>Affiliates earn 40% commission on confirmed sales.</p>
+<p>Promotional materials, book cover, and video are available.<br />Official website: <a>www.elbossilydigitalhome.com</a></p>
 
 ## 2. Links
 

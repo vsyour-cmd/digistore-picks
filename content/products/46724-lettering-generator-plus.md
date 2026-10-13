@@ -12,8 +12,8 @@ cart_conversion_pct: 4
 cancel_rate_pct: 4.89
 categories: ["Hobby & Craft","Software"]
 listed_since: "2020-11-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://fontilo.com/en/plus?aff=adminstore#aff=adminstore"
 sales_page: "https://fontilo.com/en/plus"
@@ -22,7 +22,7 @@ language: "en"
 # Lettering Generator Plus
 
 > Product ID `46724` · Digistore24 productId `359713` · [HTML profile page](../../reviews/lettering-generator-plus-46724.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Special software (web app) for fonts and image editing with a subscription model. Imagine you can create any lettering you want to! Fantastic compositions, charming fonts and lovely decorations. The lettering generator plus helps you to realize exactly the ideas you have in mind. App:https://lettering.org/lettering-generator/ Salespage:https://fontilo.com/en/plus
+**Vendor's marketplace description:** <p><strong>Special software (web app) for fonts and image editing with a subscription model.</strong></p>
+<p>Imagine you can create any lettering you want to! Fantastic compositions, charming fonts and lovely decorations. The lettering generator plus helps you to realize exactly the ideas you have in mind.</p>
+<p>App:<br /><a href="https://lettering.org/lettering-generator/" target="_blank" rel="noreferrer noopener">https://lettering.org/lettering-generator/</a></p>
+<p>Salespage:<br /><a href="https://fontilo.com/en/plus" target="_blank" rel="noreferrer noopener">https://fontilo.com/en/plus</a></p>
 
 ## 2. Links
 

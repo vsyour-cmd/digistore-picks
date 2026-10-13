@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735500?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735500"
@@ -22,7 +22,7 @@ language: "en"
 # Canva Mini-Products Practical Course (English)
 
 > Product ID `59458` · Digistore24 productId `735500` · [HTML profile page](../../reviews/canva-mini-products-practical-course-english-59458.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Canva Mini-Products Practical Course (English) For creators designing a useful pdf product. English guide and workbook, twelve-page original sample manuscript, A4 layout instructions, page plan, rights/export register and product-description, FAQ and start-copy examples. No native Canva template link or finished planner. Original sample text and layout instructions may be adapted into your own fin…
+**Vendor's marketplace description:** <p>Canva Mini-Products Practical Course (English)</p>
+<p>For creators designing a useful pdf product.</p>
+<p>English guide and workbook, twelve-page original sample manuscript, A4 layout instructions, page plan, rights/export register and product-description, FAQ and start-copy examples.</p>
+<p>No native Canva template link or finished planner. Original sample text and layout instructions may be adapted into your own finished products under the included licence.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$99.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

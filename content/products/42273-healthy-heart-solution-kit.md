@@ -4,34 +4,34 @@ digistore24_product_id: 464233
 title: "Healthy Heart Solution Kit"
 vendor: "BartonPublishing"
 product_type: "E-books"
-price: 53.21
+price: 53.09
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 18.1
+earnings_per_sale: 18.06
 cart_conversion_pct: 18
 cancel_rate_pct: 13.58
 categories: ["Food Supplements"]
 listed_since: "2022-10-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42273/adminstore/"
 sales_page: "http://healthyheartsolution.com/ptn/digi/1"
 language: "en"
 ---
 # Healthy Heart Solution Kit
 
 > Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](../../reviews/healthy-heart-solution-kit-42273.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $53.21 (Single payment) |
+| Price | $53.09 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $18.10 |
+| Earnings/sale* | $18.06 |
 | Cart conversion* | 18% |
 | Cancel rate* | 13.58% |
 | Vendor | BartonPublishing |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Put Money In Your Pocket DAILY! You'll earn 75% commission on the entire funnel!This is a doctor created and recommended Heart Health Solution Kit that truly was created to help people more. The front end is a digital ebook with supplements being sold in the upell flow. Reach out to Tyler from Barton Publishing with any questions tyler@bartonpublishing.com
+**Vendor's marketplace description:** <p><strong>Put Money In Your Pocket DAILY!</strong></p>
+<p>You'll earn 75% commission on the entire funnel!This is a doctor created and recommended Heart Health Solution Kit that truly was created to help people more. The front end is a digital ebook with supplements being sold in the upell flow. Reach out to Tyler from Barton Publishing with any questions tyler@bartonpublishing.com</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42273/adminstore/
 - Sales page: http://healthyheartsolution.com/ptn/digi/1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/healthy-heart-solution-kit
 - Canonical redirect: https://www.digistore24.com/redir/464233/adminstore
@@ -83,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BartonPublishing, listed since 2022-10-11
-- How much? — 53.206088 USD
+- How much? — 53.087388000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57503/adminstore/"
 sales_page: "https://theboyfrombarrancas.com/digistore24"
 language: "en"
 ---
 # Louis: the boy from barrancas - All languages edition
 
 > Product ID `57503` · Digistore24 productId `702447` · [HTML profile page](../../reviews/louis-the-boy-from-barrancas-all-languages-edition-57503.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Louis: The Boy From Barrancas – All Languages Edition A cinematic and illustrated digital ebook inspired by true events. Included with your purchase: • Complete ebook story• 11 chapters• More than 70 pages• PDF and EPUB formats• English, Spanish, German and Portuguese versions• Instant digital download• 60-Day Money Back Guarantee Follow Louis, a boy born in poverty in Barrancas, Colombia, as he p…
+**Vendor's marketplace description:** <p>Louis: The Boy From Barrancas – All Languages Edition</p>
+<p>A cinematic and illustrated digital ebook inspired by true events.</p>
+<p>Included with your purchase:</p>
+<p>• Complete ebook story<br />• 11 chapters<br />• More than 70 pages<br />• PDF and EPUB formats<br />• English, Spanish, German and Portuguese versions<br />• Instant digital download<br />• 60-Day Money Back Guarantee</p>
+<p>Follow Louis, a boy born in poverty in Barrancas, Colombia, as he pursues his dream of becoming one of the world’s greatest soccer players.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57503/adminstore/
 - Sales page: https://theboyfrombarrancas.com/digistore24
 - Vendor affiliate support: https://barrancas-story-hub.lovable.app/
 - Canonical redirect: https://www.digistore24.com/redir/702447/adminstore

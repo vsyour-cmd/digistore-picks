@@ -4,34 +4,34 @@ digistore24_product_id: 631229
 title: "Transform Your Life: The Ultimate Self-Mastery System"
 vendor: "tom_cruise"
 product_type: "Downloads"
-price: 15
+price: 150
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 11.25
+earnings_per_sale: 112.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2025-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/sale-page?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/53789/adminstore/"
 sales_page: "https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/sale-page"
 language: "en"
 ---
 # Transform Your Life: The Ultimate Self-Mastery System
 
 > Product ID `53789` · Digistore24 productId `631229` · [HTML profile page](../../reviews/transform-your-life-the-ultimate-self-mastery-system-53789.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.00 (Single payment) |
+| Price | $150.00 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $11.25 |
+| Earnings/sale* | $112.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tom_cruise |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Why You Need This Bundle You've likely spent time and money on single books, courses, or apps that gave you a temporary boost but didn't lead to lasting change. The reason is simple: your life is not a series of isolated problems. This bundle is different. It’s a complete system designed to solve the problem of fragmented personal development. You need this bundle because it:
+**Vendor's marketplace description:** <h2>Why You Need This Bundle</h2>
+<p>You've likely spent time and money on single books, courses, or apps that gave you a temporary boost but didn't lead to lasting change. The reason is simple: your life is not a series of isolated problems. This bundle is different. It’s a complete system designed to solve the problem of fragmented personal development. You need this bundle because it:</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/sale-page?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/53789/adminstore/
 - Sales page: https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/sale-page
 - Vendor affiliate support: https://www.alm3rfa.xyz/nono_wisdom_project/30-self-mastery-bundle/affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/631229/adminstore
@@ -83,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: tom_cruise, listed since 2025-08-22
-- How much? — 15 USD
+- How much? — 150 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

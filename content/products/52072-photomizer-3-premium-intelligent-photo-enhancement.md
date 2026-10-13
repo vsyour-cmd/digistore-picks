@@ -4,16 +4,16 @@ digistore24_product_id: 518666
 title: "Photomizer 3 Premium – Intelligent Photo Enhancement"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 37.66
+price: 37.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.84
+earnings_per_sale: 18.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/518666?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518666"
@@ -22,16 +22,16 @@ language: "en"
 # Photomizer 3 Premium – Intelligent Photo Enhancement
 
 > Product ID `52072` · Digistore24 productId `518666` · [HTML profile page](../../reviews/photomizer-3-premium-intelligent-photo-enhancement-52072.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $37.66 (Single payment) |
+| Price | $37.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.84 |
+| Earnings/sale* | $18.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Photomizer 3 Premium – Intelligent Photo Enhancement Made Easy Better photos. Automatically. Photomizer 3 Premium enhances and restores your digital photos – fully automatically, right on your PC. Achieve more vibrant, balanced, and clear images in just a few clicks. With advanced object recognition, automatic color correction, tone value redistribution, white balance, hue control, saturation, con…
+**Vendor's marketplace description:** <p><strong>Photomizer 3 Premium – Intelligent Photo Enhancement Made Easy</strong></p>
+<p>Better photos. Automatically.</p>
+<p>Photomizer 3 Premium enhances and restores your digital photos – fully automatically, right on your PC. Achieve more vibrant, balanced, and clear images in just a few clicks.</p>
+<p>With advanced object recognition, automatic color correction, tone value redistribution, white balance, hue control, saturation, contrast optimization, and brightness adjustments – all handled seamlessly.</p>
+<p>Supports JPG, BMP, TIFF, and a wide range of RAW formats: raw, crw, orf, 3fr, nef, raf, mrw, nrw, dng, cr2, arw, x3f, rw2.</p>
+<p>Compatible with Windows 7, 8, 10 (32- and 64-bit), and Windows 11.</p>
 
 ## 2. Links
 
@@ -82,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-29
-- How much? — 37.663366 USD
+- How much? — 37.579341 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

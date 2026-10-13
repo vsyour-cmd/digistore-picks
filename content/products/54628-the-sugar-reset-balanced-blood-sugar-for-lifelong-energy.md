@@ -4,16 +4,16 @@ digistore24_product_id: 646770
 title: "The Sugar Reset: Balanced Blood Sugar for Lifelong Energy"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 33.62
+price: 33.54
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 26.89
+earnings_per_sale: 26.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Health & Fitness","Personal Development"]
 listed_since: "2025-11-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://sugarresetpage.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://sugarresetpage.netlify.app/"
@@ -22,16 +22,16 @@ language: "en"
 # The Sugar Reset: Balanced Blood Sugar for Lifelong Energy
 
 > Product ID `54628` · Digistore24 productId `646770` · [HTML profile page](../../reviews/the-sugar-reset-balanced-blood-sugar-for-lifelong-energy-54628.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $33.62 (Single payment) |
+| Price | $33.54 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $26.89 |
+| Earnings/sale* | $26.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Sugar Reset + Diabetes Health App Your complete guide to balanced blood sugar, lasting energy, and optimal health – no complicated diets. ✅ E-book + Android app included ✅ 7-day action plan ✅ 60-day money-back guarantee Perfect for anyone with energy issues, sugar cravings, or diabetes risk!
+**Vendor's marketplace description:** <p>The Sugar Reset + Diabetes Health App</p>
+<p>Your complete guide to balanced blood sugar, lasting energy, and optimal health – no complicated diets.</p>
+<p>✅ E-book + Android app included</p>
+<p>✅ 7-day action plan</p>
+<p>✅ 60-day money-back guarantee</p>
+<p>Perfect for anyone with energy issues, sugar cravings, or diabetes risk!</p>
 
 ## 2. Links
 
@@ -86,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-11-07
-- How much? — 33.618 USD
+- How much? — 33.543000000000006 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

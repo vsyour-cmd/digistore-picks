@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Hotels & Gastronomy"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60201/adminstore/"
 sales_page: "https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en"
 language: "en"
 ---
 # Air Fryer Made Easy | Practical air fryer recipes (English)
 
 > Product ID `60201` · Digistore24 productId `740280` · [HTML profile page](../../reviews/air-fryer-made-easy-practical-air-fryer-recipes-english-60201.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Air Fryer Made Easy — English edition. A PDF e-book with 100 practical air fryer recipes in six categories, plus five PDF bonuses. Audience: home cooks looking for more ideas for their air fryer. Digital product; no physical shipment. Offer: US$19.90, one-time payment. Standard affiliate commission: 40 %. Product 740280. Use the affiliate link for this edition to send buyers to the English sales p…
+**Vendor's marketplace description:** <p><strong>Air Fryer Made Easy — English edition.</strong> A PDF e-book with 100 practical air fryer recipes in six categories, plus five PDF bonuses.</p>
+<p><strong>Audience:</strong> home cooks looking for more ideas for their air fryer. Digital product; no physical shipment.</p>
+<p><strong>Offer:</strong> US$19.90, one-time payment. Standard affiliate commission: 40 %. Product 740280. Use the affiliate link for this edition to send buyers to the English sales page and checkout.</p>
+<p><strong>Promotion:</strong> describe the actual contents; avoid health or income promises and unauthorized discounts. Clearly disclose affiliate links as required for your channel.</p>
+<p><strong>Customer and affiliate support:</strong> <a href="mailto:ClickApps.ai@gmail.com">ClickApps.ai@gmail.com</a>. Contact us for help or promotional materials for this edition.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60201/adminstore/
 - Sales page: https://apps.agenciaunoclick.com/easy-fryer/landing-digistore24?lang=en
 - Vendor affiliate support: https://apps.agenciaunoclick.com/easy-fryer/afiliados-digistore24?lang=en
 - Canonical redirect: https://www.digistore24.com/redir/740280/adminstore

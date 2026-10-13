@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-03-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/ai-workout-generator-freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/ai-workout-generator-freebie"
@@ -22,7 +22,7 @@ language: "en"
 # AI Fitness System | 5-Product Funnel | 50% Commission
 
 > Product ID `56030` · Digistore24 productId `676273` · [HTML profile page](../../reviews/ai-fitness-system-5-product-funnel-50-commission-56030.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,97 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AI Fitness System – 5-Product AI Workout Planning Funnel | 50% Commission Promote the AI Fitness System and earn 50% commission across the full funnel. This 5-product offer line combines fitness, AI, and structured workout planning for buyers interested in home workouts, gym training, AI tools like ChatGPT, productivity, and self-improvement. The Funnel AI Workout Generator – $10 AI Workout Prompt…
+**Vendor's marketplace description:** <p><strong>AI Fitness System – 5-Product AI Workout Planning Funnel | 50% Commission</strong></p>
+<p>Promote the <strong>AI Fitness System</strong> and earn <strong>50% commission across the full funnel</strong>.</p>
+<p>This 5-product offer line combines <strong>fitness, AI, and structured workout planning</strong> for buyers interested in home workouts, gym training, AI tools like ChatGPT, productivity, and self-improvement.</p>
+<p> </p>
+<h2>The Funnel</h2>
+<ul>
+<li><strong>AI Workout Generator</strong> – $10</li>
+<li><strong>AI Workout Prompt Pack</strong> – $12</li>
+<li><strong>AI Fitness Planner System</strong> – $37</li>
+<li><strong>AI Fitness Planner Pro</strong> – $67</li>
+<li><strong>AI Training Support System</strong> – $197</li>
+</ul>
+<p> </p>
+<h2>Why Promote This Funnel</h2>
+<ul>
+<li>5 clearly positioned products</li>
+<li>50% commission across the full funnel</li>
+<li>Broad audience appeal</li>
+<li>Strong fit for AI, fitness, and self-improvement audiences</li>
+<li>60-day money-back guarantee</li>
+<li>Easy to promote through email, blogs, review pages, YouTube, and organic social</li>
+</ul>
+<p> </p>
+<h2>Product Positioning</h2>
+<p>This funnel is built around <strong>structured workout planning with AI</strong>.</p>
+<p>The offer line focuses on practical positioning such as:</p>
+<ul>
+<li>creating more structured workout plans</li>
+<li>using AI to support training organization</li>
+<li>planning home or gym workouts more clearly</li>
+<li>building a more organized fitness routine</li>
+</ul>
+<p> </p>
+<h2>Best Audience Fit</h2>
+<p>This funnel is a strong fit for audiences interested in:</p>
+<ul>
+<li>fitness and workout planning</li>
+<li>home workouts and gym training</li>
+<li>AI tools like ChatGPT</li>
+<li>productivity and self-improvement</li>
+<li>building more structure and consistency</li>
+</ul>
+<p> </p>
+<p>It is especially relevant for people who:</p>
+<ul>
+<li>want more structure in their workouts</li>
+<li>like using AI tools in everyday life</li>
+<li>train at home or in the gym</li>
+<li>are interested in muscle-building, fat-loss-oriented, or strength-focused planning</li>
+<li>want practical systems, prompts, and frameworks</li>
+</ul>
+<h2> </h2>
+<h2>Traffic Rules</h2>
+<p><strong>Allowed traffic sources:</strong></p>
+<ul>
+<li>Email marketing</li>
+<li>Blogs</li>
+<li>Review sites</li>
+<li>YouTube</li>
+<li>Organic social media</li>
+<li>Bonus pages</li>
+</ul>
+<p> </p>
+<p><strong>Restricted / prohibited:</strong></p>
+<ul>
+<li>No brand bidding</li>
+<li>No misleading claims</li>
+<li>No spam traffic</li>
+<li>No coupon/deal traffic without approval</li>
+<li>No paid ads using exaggerated fitness or outcome-based promises</li>
+</ul>
+<p><strong>Paid ads are allowed only with prior approval.</strong></p>
+<h2> </h2>
+<h2>Refund Policy</h2>
+<p>The product line includes a <strong>60-day money-back guarantee</strong>.</p>
+<h2> </h2>
+<h2>Affiliate Support</h2>
+<p>Affiliates get access to:</p>
+<ul>
+<li>product images</li>
+<li>approved promo angles</li>
+<li>swipe emails</li>
+<li>subject lines</li>
+<li>CTA ideas</li>
+<li>traffic rules</li>
+<li>funnel overview</li>
+</ul>
+<p> </p>
+<p><strong>Affiliate support page:</strong><br /><a href="https://heikoboos.com/ai-fitness-system-affiliate-support" target="_blank" rel="noreferrer noopener"><strong>AI Fitness System Affiliate Support</strong></a></p>
+<p> </p>
+<p><strong>Commission:</strong> 50% across the full funnel.</p>
 
 ## 2. Links
 

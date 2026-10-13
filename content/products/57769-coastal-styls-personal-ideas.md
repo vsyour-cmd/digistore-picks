@@ -4,34 +4,34 @@ digistore24_product_id: 714281
 title: "Coastal styls Personal ideas"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 18.83
+price: 18.78
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.41
+earnings_per_sale: 9.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/714281?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57769/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/714281"
 language: "en"
 ---
 # Coastal styls Personal ideas
 
 > Product ID `57769` · Digistore24 productId `714281` · [HTML profile page](../../reviews/coastal-styls-personal-ideas-57769.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $18.83 (Single payment) |
+| Price | $18.78 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.41 |
+| Earnings/sale* | $9.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The digital planning and inspiration guide for your personal coastal-style home Bring the feeling of the sea, the beach, and a fresh ocean breeze right into your home. With "Küstenstil – Persönliche Ideen" (Coastal Style – Personal Ideas), you get a digital home planner that helps you gather interior design ideas, plan your rooms, and create a harmonious home in a modern coastal style. Recommend a…
+**Vendor's marketplace description:** <h2><strong>The digital planning and inspiration guide for your personal coastal-style home</strong></h2>
+<p>Bring the feeling of the sea, the beach, and a fresh ocean breeze right into your home. With "Küstenstil – Persönliche Ideen" (Coastal Style – Personal Ideas), you get a digital home planner that helps you gather interior design ideas, plan your rooms, and create a harmonious home in a modern coastal style.</p>
+<p>Recommend a high-quality digital home and interior design product that is highly relevant to the popular home &amp; living target audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—ideal for Pinterest, blogs, social media, and email marketing.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/714281?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57769/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/714281
 - Canonical redirect: https://www.digistore24.com/redir/714281/adminstore
 
@@ -90,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: ramonakrenn923f, listed since 2026-07-27
-- How much? — 18.82608 USD
+- How much? — 18.784080000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

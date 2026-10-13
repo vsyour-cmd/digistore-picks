@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://77quickeasyketorecipes-2qt.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60193/adminstore/"
 sales_page: "https://77quickeasyketorecipes-2qt.plannerpack.co"
 language: "en"
 ---
 # 77 Quick Easy Keto Recipes
 
 > Product ID `60193` · Digistore24 productId `741979` · [HTML profile page](../../reviews/77-quick-easy-keto-recipes-60193.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://77quickeasyketorecipes-2qt.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60193/adminstore/
 - Sales page: https://77quickeasyketorecipes-2qt.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/741979/adminstore
 

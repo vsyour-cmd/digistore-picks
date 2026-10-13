@@ -4,34 +4,34 @@ digistore24_product_id: 542607
 title: "Easy DIY Power Plan"
 vendor: "EasyPowerPlan"
 product_type: "E-books"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 46.67
+earnings_per_sale: 46.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Survival"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://easydiypowerplan4all.com/index_dg24/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47395/adminstore/"
 sales_page: "https://easydiypowerplan4all.com/index_dg24/"
 language: "en"
 ---
 # Easy DIY Power Plan
 
 > Product ID `47395` · Digistore24 productId `542607` · [HTML profile page](../../reviews/easy-diy-power-plan-47395.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $54.91 (Single payment) |
+| Price | $54.79 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $46.67 |
+| Earnings/sale* | $46.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EasyPowerPlan |
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** High Converting Green Energy Product EPC $2.5! This Is The Winning Offer You Were Looking For With Huge EPC! It Works On Energy/solar, Home/garden/woodworking And Prepper/survival Lists As Well. Great Results On Native/Facebook Traffic! Contact Us For Paybump!
+**Vendor's marketplace description:** <p>High Converting Green Energy Product EPC $2.5!</p>
+<p>This Is The Winning Offer You Were Looking For With Huge EPC!</p>
+<p>It Works On Energy/solar, Home/garden/woodworking And Prepper/survival Lists As Well.</p>
+<p>Great Results On Native/Facebook Traffic!</p>
+<p>Contact Us For Paybump!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://easydiypowerplan4all.com/index_dg24/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47395/adminstore/
 - Sales page: https://easydiypowerplan4all.com/index_dg24/
 - Vendor affiliate support: https://easydiypowerplan4all.com/affiliate_dg24/
 - Canonical redirect: https://www.digistore24.com/redir/542607/adminstore
@@ -74,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: EasyPowerPlan, listed since 2024-03-07
-- How much? — 54.909400000000005 USD
+- How much? — 54.7869 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

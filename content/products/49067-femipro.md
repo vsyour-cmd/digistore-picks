@@ -4,34 +4,34 @@ digistore24_product_id: 567223
 title: "FemiPro"
 vendor: "FemiPro"
 product_type: "Supplements - health"
-price: 236.75
+price: 236.22
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 65.91
+earnings_per_sale: 65.77
 cart_conversion_pct: 1
 cancel_rate_pct: 13.24
 categories: ["Food Supplements"]
 listed_since: "2024-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://myfemipro24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/49067/adminstore/"
 sales_page: "http://myfemipro24.com/text.php"
 language: "en"
 ---
 # FemiPro
 
 > Product ID `49067` · Digistore24 productId `567223` · [HTML profile page](../../reviews/femipro-49067.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $236.75 (Single payment) |
+| Price | $236.22 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $65.91 |
+| Earnings/sale* | $65.77 |
 | Cart conversion* | 1% |
 | Cancel rate* | 13.24% |
 | Vendor | FemiPro |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Introducing FemiPro - The Female Bladder Rebalancing Protocol That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
+**Vendor's marketplace description:** <p>Introducing FemiPro - The Female Bladder Rebalancing Protocol That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://myfemipro24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/49067/adminstore/
 - Sales page: http://myfemipro24.com/text.php
 - Vendor affiliate support: https://femipro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/567223/adminstore
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: FemiPro, listed since 2024-08-27
-- How much? — 236.749162 USD
+- How much? — 236.22098700000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 348582
 title: "Steel Bite Pro"
 vendor: "steelbitepro"
 product_type: "Supplements - health"
-price: 198.35
+price: 197.9
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.93
+earnings_per_sale: 128.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-09-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/redir/348582/adminstore"
 sales_page: "https://steelbitepro24.com/video.php?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]&subid=[TRACKINGKEY]"
@@ -22,16 +22,16 @@ language: "en"
 # Steel Bite Pro
 
 > Product ID `34114` · Digistore24 productId `348582` · [HTML profile page](../../reviews/steel-bite-pro-34114.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $198.35 (Single payment) |
+| Price | $197.90 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.93 |
+| Earnings/sale* | $128.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | steelbitepro |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Holy Grail Of Fb Aff, Crazy Epc, Max Cart Value $881!! This Just Took The Markeplace By Storm, Aff Getting $5.37 Epc, Works On Any Traffic, Killer Copy Made By Gurus, Will Make You Rich Almost-guaranteed This Month. Let's Go!!
+**Vendor's marketplace description:** <p>The Holy Grail Of Fb Aff, Crazy Epc, Max Cart Value $881!! This Just Took The Markeplace By Storm, Aff Getting $5.37 Epc, Works On Any Traffic, Killer Copy Made By Gurus, Will Make You Rich Almost-guaranteed This Month. Let's Go!!</p>
 
 ## 2. Links
 
@@ -73,7 +73,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: steelbitepro, listed since 2020-09-18
-- How much? — 198.3462 USD
+- How much? — 197.90370000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

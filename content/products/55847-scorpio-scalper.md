@@ -4,34 +4,34 @@ digistore24_product_id: 670693
 title: "Scorpio Scalper"
 vendor: "altrasoftware"
 product_type: "Software"
-price: 110.64
+price: 110.39
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 58.98
+earnings_per_sale: 58.85
 cart_conversion_pct: 7
 cancel_rate_pct: 5.92
 categories: ["Business & Investment"]
 listed_since: "2026-02-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://scorpioscalper.site/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55847/adminstore/"
 sales_page: "https://scorpioscalper.site/"
 language: "en"
 ---
 # Scorpio Scalper
 
 > Product ID `55847` · Digistore24 productId `670693` · [HTML profile page](../../reviews/scorpio-scalper-55847.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $110.64 (Subscription) |
+| Price | $110.39 (Subscription) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $58.98 |
+| Earnings/sale* | $58.85 |
 | Cart conversion* | 7% |
 | Cancel rate* | 5.92% |
 | Vendor | altrasoftware |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Scorpio Scalper is a highly converting Forex product!
+**Vendor's marketplace description:** <p>Scorpio Scalper is a highly converting Forex product!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://scorpioscalper.site/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55847/adminstore/
 - Sales page: https://scorpioscalper.site/
 - Canonical redirect: https://www.digistore24.com/redir/670693/adminstore
 
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: altrasoftware, listed since 2026-02-22
-- How much? — 110.63683800000001 USD
+- How much? — 110.39001300000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

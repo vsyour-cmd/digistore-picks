@@ -4,34 +4,34 @@ digistore24_product_id: 365629
 title: "myKidPrenuers : The StartUp Generation"
 vendor: "workshaft"
 product_type: "E-books"
-price: 28.02
+price: 27.95
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.01
+earnings_per_sale: 13.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2021-01-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://51percent.wixsite.com/mykidpreneurs?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35283/adminstore/"
 sales_page: "https://51percent.wixsite.com/mykidpreneurs"
 language: "en"
 ---
 # myKidPrenuers : The StartUp Generation
 
 > Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](../../reviews/mykidprenuers-the-startup-generation-35283.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.02 (Single payment) |
+| Price | $27.95 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.01 |
+| Earnings/sale* | $13.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | workshaft |
@@ -41,11 +41,25 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Financial Literacy for Kids Toolkit is a comprehensive resource designed to empower young minds with essential money management skills. It includes: "MyKidpreneurs" eBook: An engaging and informative eBook tailored for children, teaching them the fundamentals of entrepreneurship, financial responsibility, and creative thinking. Bonus Teaching MP4: A multimedia resource offering dynamic visual …
+**Vendor's marketplace description:** <p>The Financial Literacy for Kids Toolkit is a comprehensive resource designed to empower young minds with essential money management skills. It includes:</p>
+<ol>
+<li>
+<p><strong>"MyKidpreneurs" eBook:</strong> An engaging and informative eBook tailored for children, teaching them the fundamentals of entrepreneurship, financial responsibility, and creative thinking.</p>
+</li>
+<li>
+<p><strong>Bonus Teaching MP4:</strong> A multimedia resource offering dynamic visual content to enhance the learning experience. These MP4 files supplement the eBook, providing interactive lessons and real-life examples to reinforce financial concepts.</p>
+</li>
+<li>
+<p><strong>Teaching Financial Literacy and Creativity Course:</strong> A structured course designed to educate both kids and educators. It covers a wide range of topics, including budgeting, saving, investing, and fostering creativity. This course equips children with practical skills while nurturing their creative thinking abilities.</p>
+</li>
+</ol>
+<p>Together, these components form a powerful toolkit that not only imparts financial knowledge but also encourages innovative thinking, setting a strong foundation for a financially literate and creative future generation.</p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://51percent.wixsite.com/mykidpreneurs?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35283/adminstore/
 - Sales page: https://51percent.wixsite.com/mykidpreneurs
 - Vendor affiliate support: https://schoolofemergingtrends.systeme.io/affiliates-mykidpreneurs
 - Canonical redirect: https://www.digistore24.com/redir/365629/adminstore
@@ -67,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: workshaft, listed since 2021-01-03
-- How much? — 28.015 USD
+- How much? — 27.9525 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

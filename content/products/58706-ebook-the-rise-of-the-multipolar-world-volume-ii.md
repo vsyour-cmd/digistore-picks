@@ -4,16 +4,16 @@ digistore24_product_id: 726715
 title: "Ebook - The Rise of the Multipolar World - Volume II"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 13.6
+price: 13.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.8
+earnings_per_sale: 6.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726715?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726715"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The Rise of the Multipolar World - Volume II
 
 > Product ID `58706` · Digistore24 productId `726715` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-ii-58706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.60 (Single payment) |
+| Price | $13.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.80 |
+| Earnings/sale* | $6.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW CHINA BECAME A SYSTEMIC CHALLENGER The Rise of the Multipolar World – Volume II examines how China transformed from an economically peripheral state into a manufacturing superpower, technological competitor, and major center of global power. What sets this book apart is its focus on power conversion. Rather than equating economic growth with geopolitical dominance, it shows how China combines …
+**Vendor's marketplace description:** <p><strong>HOW CHINA BECAME A SYSTEMIC CHALLENGER</strong></p>
+<p><em>The Rise of the Multipolar World – Volume II</em> examines how China transformed from an economically peripheral state into a manufacturing superpower, technological competitor, and major center of global power.</p>
+<p>What sets this book apart is its focus on <strong>power conversion</strong>. Rather than equating economic growth with geopolitical dominance, it shows how China combines industry, trade, technology, finance, state capacity, military modernization, and international influence—and where this architecture still faces limits.</p>
+<p>Readers gain a deeper understanding of why China represents a systemic challenge to American primacy without necessarily replacing the United States as the dominant global power.</p>
+<p>For affiliates, this creates a highly relevant product for audiences interested in China, US–China competition, geopolitics, global trade, technology, and the emerging multipolar world.</p>
 
 ## 2. Links
 
@@ -83,7 +87,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 13.604084 USD
+- How much? — 13.573734000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

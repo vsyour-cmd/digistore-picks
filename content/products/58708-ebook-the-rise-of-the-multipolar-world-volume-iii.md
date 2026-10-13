@@ -4,16 +4,16 @@ digistore24_product_id: 726717
 title: "Ebook - The Rise of the Multipolar World - Volume III"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726717?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726717"
@@ -22,16 +22,16 @@ language: "en"
 # Ebook - The Rise of the Multipolar World - Volume III
 
 > Product ID `58708` · Digistore24 productId `726717` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-iii-58708.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,7 +41,26 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Rise of the Multipolar World – Volume III examines how Russia remains a major geopolitical actor despite economic, demographic, and technological constraints. What sets this book apart is its focus on asymmetric power. It shows how nuclear deterrence, military capability, strategic resources, geography, state capacity, and international relationships can compensate for weaknesses in other area…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><em>The Rise of the Multipolar World – Volume III</em> examines how Russia remains a major geopolitical actor despite economic, demographic, and technological constraints.</p>
+<p>What sets this book apart is its focus on <strong>asymmetric power</strong>. It shows how nuclear deterrence, military capability, strategic resources, geography, state capacity, and international relationships can compensate for weaknesses in other areas.</p>
+<p>Readers gain a differentiated understanding of Russia’s strategic resilience, its relationships with China, India, and the Global South, and the limits of its strategic autonomy.</p>
+<p>For affiliates, this creates a distinctive product for audiences interested in Russia, geopolitics, military strategy, sanctions, great-power competition, and the emerging multipolar world.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -83,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

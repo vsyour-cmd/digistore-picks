@@ -4,34 +4,34 @@ digistore24_product_id: 736401
 title: "Create Faceless Videos for Beginners – Practical Course with Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.41
+earnings_per_sale: 35.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/736401?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59577/adminstore/"
 sales_page: "https://www.digistore24.com/product/736401"
 language: "en"
 ---
 # Create Faceless Videos for Beginners – Practical Course with Matze
 
 > Product ID `59577` · Digistore24 productId `736401` · [HTML profile page](../../reviews/create-faceless-videos-for-beginners-practical-course-with-matze-59577.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.41 |
+| Earnings/sale* | $35.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Create Faceless Videos for Beginners – Practical Course with Matze Plan, produce and review short videos without appearing on camera. This English self-paced course guides you from an initial idea to one publish-ready short video and a repeatable workflow. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through:1. One useful que…
+**Vendor's marketplace description:** <p>Create Faceless Videos for Beginners – Practical Course with Matze</p>
+<p>Plan, produce and review short videos without appearing on camera. This English self-paced course guides you from an initial idea to one publish-ready short video and a repeatable workflow. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
+<p>What you will work through:<br />1. One useful question<br />2. Storyboard the task<br />3. Check every asset<br />4. Edit for clarity<br />5. Caption, disclosure and destination<br />6. Review and improve</p>
+<p>Who is it for? Beginners who want to make useful short videos without appearing on camera.</p>
+<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
+<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
+<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/736401?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59577/adminstore/
 - Sales page: https://www.digistore24.com/product/736401
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736401/
 - Canonical redirect: https://www.digistore24.com/redir/736401/adminstore
@@ -84,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 88.5274 USD
+- How much? — 88.32990000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

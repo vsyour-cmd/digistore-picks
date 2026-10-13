@@ -4,34 +4,34 @@ digistore24_product_id: 609184
 title: "Tesla Grounding"
 vendor: "Tesla14"
 product_type: "Deliverable"
-price: 447.12
+price: 446.12
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 268.27
+earnings_per_sale: 267.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-04-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://teslacare.net/tesla-grounding-dg/?aff=adminstore#aff=adminstore"
+promo_link: "http://marketingbasics.at/index.php?page_id=784#aff=adminstore"
 sales_page: "https://teslacare.net/tesla-grounding-dg/"
 language: "en"
 ---
 # Tesla Grounding
 
 > Product ID `52373` · Digistore24 productId `609184` · [HTML profile page](../../reviews/tesla-grounding-52373.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $447.12 (Single payment) |
+| Price | $446.12 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $268.27 |
+| Earnings/sale* | $267.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tesla14 |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Get 60% CommissionThrough The ENTIRE FUNNEL! Reconnect with Earth’s healing energy through Tesla Grounding — a powerful tool designed to restore balance, gently relax, and recharge your body from the ground up.
+**Vendor's marketplace description:** <h2><span style="color:#99cc00;">Get <strong>60%</strong> Commission</span><br /><span style="color:#99cc00;">Through The ENTIRE FUNNEL!</span></h2>
+<p>Reconnect with Earth’s healing energy through Tesla Grounding — a powerful tool designed to restore balance, gently relax, and recharge your body from the ground up.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://teslacare.net/tesla-grounding-dg/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://marketingbasics.at/index.php?page_id=784#aff=adminstore
 - Sales page: https://teslacare.net/tesla-grounding-dg/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/tesla-grounding
 - Canonical redirect: https://www.digistore24.com/redir/609184/adminstore
@@ -67,7 +68,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Tesla14, listed since 2025-04-24
-- How much? — 447.11940000000004 USD
+- How much? — 446.12190000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

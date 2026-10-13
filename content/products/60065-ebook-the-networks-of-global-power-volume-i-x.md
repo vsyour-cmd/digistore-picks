@@ -4,34 +4,34 @@ digistore24_product_id: 739502
 title: "Ebook - The Networks of Global Power - Volume I-X"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/739502?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60065/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/739502"
 language: "en"
 ---
 # Ebook - The Networks of Global Power - Volume I-X
 
 > Product ID `60065` · Digistore24 productId `739502` · [HTML profile page](../../reviews/ebook-the-networks-of-global-power-volume-i-x-60065.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW DOES POWER REALLY WORK BEHIND THE VISIBLE INSTITUTIONS OF OUR WORLD? The Networks of Global Power is a comprehensive 10-volume series examining how wealth, ownership, institutional positions, personal relationships, networks, access, and strategic resources can be converted into real influence across modern societies. The series explores the major environments of networked power—from elite str…
+**Vendor's marketplace description:** <p><strong>HOW DOES POWER REALLY WORK BEHIND THE VISIBLE INSTITUTIONS OF OUR WORLD?</strong></p>
+<p><em>The Networks of Global Power</em> is a comprehensive 10-volume series examining how wealth, ownership, institutional positions, personal relationships, networks, access, and strategic resources can be converted into real influence across modern societies.</p>
+<p>The series explores the major environments of networked power—from <strong>elite structures, dynasties, billionaire networks, private capital, and technology elites to foundations, political networks, media empires, and the institutions connecting influential actors across domains</strong>.</p>
+<p><strong>Unlike many established works that identify powerful individuals, organizations, ownership structures, or elite connections, this series goes one decisive step further:</strong> it systematically examines whether these advantages actually become power. Its analytical framework distinguishes <strong>resources, position, access, capability, leverage, exercise, consequential effect, influence, and control</strong> rather than treating prominence or connectivity as proof of power.</p>
+<p>Across all ten volumes, readers discover not only <strong>where potential power is concentrated, but how power is converted, transmitted, constrained, resisted, or lost</strong>. Counterpower, institutional autonomy, competition, substitution, and failed power conversion are therefore as important as successful influence.</p>
+<p>For affiliates, <em>The Networks of Global Power</em> offers a distinctive, interconnected research series for audiences interested in <strong>elite networks, billionaires, private capital, Big Tech, philanthropy, political influence, lobbying, media power, institutions, and the hidden structures shaping global power</strong>.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/739502?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60065/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/739502
 - Canonical redirect: https://www.digistore24.com/redir/739502/adminstore
 
@@ -90,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-09-30
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

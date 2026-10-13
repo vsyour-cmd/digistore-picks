@@ -4,34 +4,34 @@ digistore24_product_id: 662877
 title: "Dubai Wealth Secret - Monster Offer From Top Platinum Vendor"
 vendor: "destinyaff"
 product_type: "Downloads"
-price: 48.71
+price: 48.6
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 42.08
+earnings_per_sale: 41.98
 cart_conversion_pct: 12
 cancel_rate_pct: 12.66
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-01-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.dubaiwealthsecret.com/ds-dws-vsl?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55295/adminstore/"
 sales_page: "https://www.dubaiwealthsecret.com/ds-dws-vsl"
 language: "en"
 ---
 # Dubai Wealth Secret - Monster Offer From Top Platinum Vendor
 
 > Product ID `55295` · Digistore24 productId `662877` · [HTML profile page](../../reviews/dubai-wealth-secret-monster-offer-from-top-platinum-vendor-55295.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $48.71 (Single payment) |
+| Price | $48.60 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $42.08 |
+| Earnings/sale* | $41.98 |
 | Cart conversion* | 12% |
 | Cancel rate* | 12.66% |
 | Vendor | destinyaff |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Forbidden Dubai angle. Killer VSL. This is blowing up faster than Dubai’s skyline. This offer is converting like a monster right now: Fat $2 EPC on average and $86 AOV. GET YOUR affiliate link here: https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24
+**Vendor's marketplace description:** <p>Forbidden Dubai angle. Killer VSL. This is blowing up faster than Dubai’s skyline. This offer is converting like a monster right now: <strong>Fat $2 EPC on average and $86 AOV.</strong> GET YOUR affiliate link here: <a href="https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24" target="_blank" rel="noreferrer noopener">https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.dubaiwealthsecret.com/ds-dws-vsl?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55295/adminstore/
 - Sales page: https://www.dubaiwealthsecret.com/ds-dws-vsl
 - Vendor affiliate support: https://www.goldenpublishinghq.com/gp-dws-affiliate-home-ds24
 - Canonical redirect: https://www.digistore24.com/redir/662877/adminstore
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: destinyaff, listed since 2026-01-20
-- How much? — 48.712482 USD
+- How much? — 48.603807 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

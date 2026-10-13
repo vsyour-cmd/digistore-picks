@@ -4,34 +4,34 @@ digistore24_product_id: 450647
 title: "The AZ Code"
 vendor: "azcode08"
 product_type: "E-books"
-price: 72.94
+price: 72.78
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 45.7
+earnings_per_sale: 45.6
 cart_conversion_pct: 9
 cancel_rate_pct: 38.92
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-07-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.theazcode.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40563/adminstore/"
 sales_page: "https://www.theazcode.com"
 language: "en"
 ---
 # The AZ Code
 
 > Product ID `40563` · Digistore24 productId `450647` · [HTML profile page](../../reviews/the-az-code-40563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.94 (Single payment) |
+| Price | $72.78 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $45.70 |
+| Earnings/sale* | $45.60 |
 | Cart conversion* | 9% |
 | Cancel rate* | 38.92% |
 | Vendor | azcode08 |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WELCOME AFFILIATES! Make Up To $199 Per Sale On This Hot New DIGISTORE24 Launch That's Set To Convert Like Crazy
+**Vendor's marketplace description:** <h1><span style="color:#008000;"><strong>WELCOME AFFILIATES!</strong></span><span style="color:#008000;"><br /></span></h1>
+<div>
+<h2>Make Up To <span style="color:#ff0000;">$199</span> Per Sale On This Hot New DIGISTORE24 Launch That's Set To Convert Like Crazy</h2>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.theazcode.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40563/adminstore/
 - Sales page: https://www.theazcode.com
 - Vendor affiliate support: https://www.theazcode.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/450647/adminstore
@@ -83,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: azcode08, listed since 2022-07-11
-- How much? — 72.93985400000001 USD
+- How much? — 72.77712900000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

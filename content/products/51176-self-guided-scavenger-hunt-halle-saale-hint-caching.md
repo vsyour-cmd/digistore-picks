@@ -4,16 +4,16 @@ digistore24_product_id: 586423
 title: "Self-guided scavenger hunt Halle/Saale | Hint-Caching"
 vendor: "hintcaching"
 product_type: "Member area and video courses"
-price: 54.91
+price: 54.79
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 10.98
+earnings_per_sale: 10.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Travel & Culture"]
 listed_since: "2024-12-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.hint-caching.com/scavenger-hunt-halle/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.hint-caching.com/scavenger-hunt-halle/"
@@ -22,16 +22,16 @@ language: "en"
 # Self-guided scavenger hunt Halle/Saale | Hint-Caching
 
 > Product ID `51176` · Digistore24 productId `586423` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-halle-saale-hint-caching-51176.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.91 (Single payment) |
+| Price | $54.79 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $10.98 |
+| Earnings/sale* | $10.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hintcaching |
@@ -41,7 +41,19 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Recommend our popular scavenger hunt in this city and of course in many other cities (see other offers from Hint-Caching on the marketplace). During a Hint-Caching scavenger hunt, the customer goes on an interactive adventure tour through the city with friends, family or colleagues! The smartphone becomes a city guide and the group playfully immerses itself in a part of the city's history. They ex…
+**Vendor's marketplace description:** <p><strong>Recommend our popular scavenger hunt in this city and of course in many other cities</strong> (see other offers from Hint-Caching on the marketplace).</p>
+<p>During a Hint-Caching scavenger hunt, the customer goes on an interactive adventure tour through the city with friends, family or colleagues! The smartphone becomes a city guide and the group playfully immerses itself in a part of the city's history. They explore the most beautiful and famous sights, where tricky, individual puzzles have to be solved. The experience lasts around 2-3 hours and can be started independently at any time without an appointment and can also be paused if desired. The game is web-based and does not require an app. All games can also be booked spontaneously and played immediately. Our scavenger hunts are also very popular for stag parties and team events as well as company outings and Christmas parties.</p>
+<p><strong>These are your advantages as an affiliate:</strong></p>
+<ol>
+<li><strong>Large and constantly growing offer:</strong> benefit from our diverse offer in many major cities in Germany and around the world! And we are constantly growing.</li>
+<li><strong>Huge target group:</strong> Our city rallies are perfect for anyone who enjoys exploring cities. Whether young or old, single or couple or family with children, in their free time or with colleagues, local or tourist. This increases the likelihood that your customers will also be a good fit for us.</li>
+<li><strong>Fair commission:</strong> We offer you 20 % on your brokered sales. This is the rate that is also common on large sales platforms for experiences and gifts.</li>
+<li><strong>Additional commission on the sale of the upsell:</strong> Automatically earn money when your customer buys our upsell. After every scavenger hunt sold, the customer is offered our Online Escape Room for playing at home at a special price. The upsell purchase rate is 8%.</li>
+<li><strong>Low cancellation rate:</strong> We have a low cancellation rate of just 1%. This is not due to dissatisfaction, but only to incorrect bookings by customers (wrong number, wrong city, etc.).</li>
+<li><strong>Individual advertising material:</strong> We have prepared images for you to download and suitable texts for emails and social media.</li>
+</ol>
+<p>Visit our <a href="https://www.hint-caching.com/affiliate-program/" target="_blank" rel="noreferrer noopener">affiliate program website</a> now to become an affiliate today, join us in bringing joy, fun and games into the world and earn money at the same time!</p>
+<p>Of course, our affiliate program is also available in German: <a href="https://hint-caching.de/affiliateprogramm/" target="_blank" rel="noreferrer noopener">Affiliate program website in German</a>.</p>
 
 ## 2. Links
 
@@ -88,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: hintcaching, listed since 2024-12-17
-- How much? — 54.909400000000005 USD
+- How much? — 54.7869 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

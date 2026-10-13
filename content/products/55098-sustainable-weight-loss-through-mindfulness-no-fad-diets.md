@@ -4,16 +4,16 @@ digistore24_product_id: 656043
 title: "Sustainable Weight Loss Through Mindfulness — No Fad Diets"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 15.68
+price: 15.64
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 10.97
+earnings_per_sale: 10.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
@@ -22,16 +22,16 @@ language: "en"
 # Sustainable Weight Loss Through Mindfulness — No Fad Diets
 
 > Product ID `55098` · Digistore24 productId `656043` · [HTML profile page](../../reviews/sustainable-weight-loss-through-mindfulness-no-fad-diets-55098.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.68 (Single payment) |
+| Price | $15.64 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $10.97 |
+| Earnings/sale* | $10.95 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheHealthyLivingHub |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A digital guide combining mindfulness and practical weight-loss strategies for long-term results. Appeals to adults tired of extreme diets and converts well with wellness, lifestyle, and email traffic. Commission: 75% | Automatic Approval
+**Vendor's marketplace description:** <p style="text-align:justify;">A digital guide combining mindfulness and practical weight-loss strategies for long-term results. Appeals to adults tired of extreme diets and converts well with wellness, lifestyle, and email traffic.</p>
+<p style="text-align:justify;"><br /><strong>Commission: 75% | Automatic Approval</strong></p>
 
 ## 2. Links
 
@@ -71,7 +72,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 15.677194 USD
+- How much? — 15.642219 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

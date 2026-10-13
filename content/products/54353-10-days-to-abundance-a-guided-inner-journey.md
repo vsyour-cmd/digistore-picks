@@ -4,34 +4,34 @@ digistore24_product_id: 640611
 title: "10 Days to Abundance — A Guided Inner Journey"
 vendor: "BlissPortal"
 product_type: "E-books"
-price: 36.98
+price: 36.9
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.49
+earnings_per_sale: 18.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54353/adminstore/"
 sales_page: "https://wellnessworld.ee/10daysabundance"
 language: "en"
 ---
 # 10 Days to Abundance — A Guided Inner Journey
 
 > Product ID `54353` · Digistore24 productId `640611` · [HTML profile page](../../reviews/10-days-to-abundance-a-guided-inner-journey-54353.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.98 (Single payment) |
+| Price | $36.90 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.49 |
+| Earnings/sale* | $18.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BlissPortal |
@@ -41,11 +41,24 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote easily - earn 50% commission per sale. 10 Days to Abundance — A Guided Inner JourneyA gentle 10-day self-guided experience to awaken inner peace, clarity and abundance. Your audience gets 10 guided daily reflections Journaling prompts to raise vibration Simple energy practices to release resistance and invite flow Perfect for mindfullness, journaling, spirituality & personal development au…
+**Vendor's marketplace description:** <p><strong>Promote easily -  earn 50% commission per sale.</strong></p>
+<p><strong>10 Days to Abundance — A Guided Inner Journey</strong><br />A gentle 10-day self-guided experience to awaken inner peace, clarity and abundance. </p>
+<p><strong>Your audience gets</strong></p>
+<ul>
+<li>10 guided daily reflections</li>
+<li>Journaling prompts to raise vibration</li>
+<li>Simple energy practices to release resistance and invite flow</li>
+</ul>
+<p><strong>Perfect for</strong> mindfullness, journaling, spirituality &amp; personal development audiences. </p>
+<p><strong>How to promote</strong></p>
+<p>1. Click <strong>"Promote now" </strong>on this offer.</p>
+<p>2. Copy your personal <strong>Promolink</strong> (example: <code>https://www.checkout-ds24.com/redir/640611/YOURID/CAMPAIGNKEY</code>).</p>
+<p>3. <strong>Share only your Promolink.</strong> You may add a short campaign key (e.g., <code>/IG</code>, <code>/email</code>) for your own tracking.<br />⚠️ <strong>Do not use the merchant’s domain URL</strong> (<code>wellnessworld.ee</code>). Only your Digistore24 <strong>Promolink</strong> ensures tracking and commission.</p>
+<p><strong>Price:</strong> €33 • <strong>Commission:</strong> 50% per sale<br /><strong>Delivery &amp; refunds:</strong> Instant digital access via Digistore24 after purchase. <strong>60-day money-back guarantee.</strong> Payouts handled by Digistore24.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54353/adminstore/
 - Sales page: https://wellnessworld.ee/10daysabundance
 - Canonical redirect: https://www.digistore24.com/redir/640611/adminstore
 
@@ -66,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BlissPortal, listed since 2025-10-10
-- How much? — 36.979800000000004 USD
+- How much? — 36.8973 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

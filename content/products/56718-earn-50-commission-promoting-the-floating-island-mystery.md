@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book3-the-floating-island-mystery&aff=adminstore#aff=adminstore"
 sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book3-the-floating-island-mystery"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 50% Commission Promoting The Floating Island Mystery
 
 > Product ID `56718` · Digistore24 productId `696029` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-floating-island-mystery-56718.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,39 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote Max & Mia: The Floating Island Mystery, a magical children's adventure where Max and Mia discover a hidden island in the sky and embark on a journey filled with mystery, friendship, and unforgettable discoveries. This engaging story combines imagination and meaningful life values, encouraging kindness, courage, and connection through an exciting reading experience. Affiliate Highlights: 50…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Promote <em><strong>Max &amp; Mia: </strong></em><strong><em>The Floating Island Mystery</em></strong>, a magical children's adventure where Max and Mia discover a hidden island in the sky and embark on a journey filled with mystery, friendship, and unforgettable discoveries.</p>
+<p>This engaging story combines imagination and meaningful life values, encouraging kindness, courage, and connection through an exciting reading experience.</p>
+<p><strong>Affiliate Highlights:</strong></p>
+<ul>
+<li><strong>50% commission on every sale</strong></li>
+<li>Magical adventure story for young readers</li>
+<li>Family-friendly content</li>
+<li>Instant digital download</li>
+<li>60-Day Money-Back Guarantee</li>
+<li>Appeals to parents seeking enjoyable screen-free experiences</li>
+</ul>
+<p>Help families create memorable story moments while earning generous commissions on every successful referral.</p>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 

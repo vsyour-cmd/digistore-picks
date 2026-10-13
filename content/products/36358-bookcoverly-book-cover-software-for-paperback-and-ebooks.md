@@ -4,16 +4,16 @@ digistore24_product_id: 383879
 title: "BookCoverly Book Cover Software for Paperback and Ebooks"
 vendor: "agelessmoxie"
 product_type: "Software"
-price: 108.7
+price: 108.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.35
+earnings_per_sale: 54.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2021-04-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/383879/adminstore"
 sales_page: "https://bookcoverly.com/bookcoverly-book-cover-software//?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,16 +22,16 @@ language: "en"
 # BookCoverly Book Cover Software for Paperback and Ebooks
 
 > Product ID `36358` · Digistore24 productId `383879` · [HTML profile page](../../reviews/bookcoverly-book-cover-software-for-paperback-and-ebooks-36358.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $108.70 (Single payment) |
+| Price | $108.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.35 |
+| Earnings/sale* | $54.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | agelessmoxie |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** BookCoverly is desktop software for self-publishers and graphic designers to easily create book covers for printed books, ebooks and audiobooks - Much easier and cheaper than Photoshop, BookCoverly is still the leading book cover software for printed (paperback & hardcover) books since 2007. Both Mac & Windows compatible. This license is for both Personal and Commercial use. Includes over 80 profe…
+**Vendor's marketplace description:** <p>BookCoverly is desktop software for self-publishers and graphic designers to easily create book covers for printed books, ebooks and audiobooks -</p>
+<p>Much easier and cheaper than Photoshop, BookCoverly is still the leading book cover software for printed (paperback &amp; hardcover) books since 2007.</p>
+<p>Both Mac &amp; Windows compatible.</p>
+<p>This license is for both Personal and Commercial use. Includes over 80 professionally designed book cover templates, ready to edit in just minutes. Graphic designers can start an instant business creating book covers for authors and publishers.</p>
+<p>Start promoting this offer today!</p>
+<p>AFFILIATE PAGE: <a href="https://bookcoverly.com/affiliate-page-digi24/" target="_blank" rel="noreferrer noopener">https://bookcoverly.com/affiliate-page-digi24/</a></p>
 
 ## 2. Links
 
@@ -84,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: agelessmoxie, listed since 2021-04-11
-- How much? — 108.6982 USD
+- How much? — 108.45570000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

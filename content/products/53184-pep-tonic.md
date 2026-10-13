@@ -4,16 +4,16 @@ digistore24_product_id: 623254
 title: "Pep Tonic"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 141.15
+price: 140.84
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 45.8
+earnings_per_sale: 45.7
 cart_conversion_pct: 7
 cancel_rate_pct: 7.31
 categories: ["Food & Drink","Health & Fitness","Food Supplements"]
 listed_since: "2025-07-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Pep Tonic
 
 > Product ID `53184` · Digistore24 productId `623254` · [HTML profile page](../../reviews/pep-tonic-53184.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $141.15 (Single payment) |
+| Price | $140.84 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $45.80 |
+| Earnings/sale* | $45.70 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.31% |
 | Vendor | soundview |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Earn 60% Commissions Promoting the Ultimate Energy-Boosting Superfood Drink! Boost energy, vitality, and wellness with Pep Tonic - the revolutionary superfood drink inspired by Nobel Prize-winning science! Packed with over 50 superfoods, antioxidants, and nutrients, it clears out aging cells, recharges energy, and supports whole-body health. With a 90-day money-back guarantee and high-converting o…
+**Vendor's marketplace description:** <p><strong>Earn 60% Commissions Promoting the Ultimate Energy-Boosting Superfood Drink!</strong></p>
+<p>Boost energy, vitality, and wellness with <strong>Pep Tonic</strong> - the revolutionary superfood drink inspired by Nobel Prize-winning science! Packed with over 50 superfoods, antioxidants, and nutrients, it clears out aging cells, recharges energy, and supports whole-body health. With a <strong><em>90-day money-back guarantee</em></strong> and high-converting offers, Pep Tonic is the perfect product to promote to your audience.</p>
+<p><strong>Join our affiliate program today and start earning 60% commissions</strong> while helping others feel their best!</p>
 
 ## 2. Links
 
@@ -97,7 +99,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-07-09
-- How much? — 141.150776 USD
+- How much? — 140.835876 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

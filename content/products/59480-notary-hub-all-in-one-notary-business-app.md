@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Services","Office Organization"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/notary-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/notary-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Notary Hub: All-in-One Notary Business App
 
 > Product ID `59480` · Digistore24 productId `733871` · [HTML profile page](../../reviews/notary-hub-all-in-one-notary-business-app-59480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Help notaries and loan signing agents manage appointments, clients, documents, payments, invoices, scanbacks, shipping, journals, and daily business tasks in one organized digital hub. The Notary Hub also includes Berry AI writing tools, state-based notary and loan-signing resources, business resources, appointment preparation tools, and 12 printable notary forms. Perfect for mobile notaries and s…
+**Vendor's marketplace description:** <p>Help notaries and loan signing agents manage appointments, clients, documents, payments, invoices, scanbacks, shipping, journals, and daily business tasks in one organized digital hub. The Notary Hub also includes Berry AI writing tools, state-based notary and loan-signing resources, business resources, appointment preparation tools, and 12 printable notary forms. Perfect for mobile notaries and signing agents who want to save time, stay organized, and manage their work with confidence.</p>
 
 ## 2. Links
 

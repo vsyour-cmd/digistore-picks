@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://methodams.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://gefunden-werden.contact/preise/#aff=adminstore"
 sales_page: "https://methodams.com/"
 language: "en"
 ---
 # AMS Method
 
 > Product ID `58899` · Digistore24 productId `726475` · [HTML profile page](../../reviews/ams-method-58899.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A practical course designed to help you shift your mindset.
+**Vendor's marketplace description:** <p>A practical course designed to help you shift your mindset.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://methodams.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://gefunden-werden.contact/preise/#aff=adminstore
 - Sales page: https://methodams.com/
 - Canonical redirect: https://www.digistore24.com/redir/726475/adminstore
 

@@ -4,34 +4,34 @@ digistore24_product_id: 386253
 title: "DIABETES SOLUTION KIT"
 vendor: "BartonPublishing"
 product_type: "E-books"
-price: 22.38
+price: 22.33
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 16.79
+earnings_per_sale: 16.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-04-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37303/adminstore/"
 sales_page: "https://fixbloodsugar.com/ptn/digi/1"
 language: "en"
 ---
 # DIABETES SOLUTION KIT
 
 > Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](../../reviews/diabetes-solution-kit-37303.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.38 (Single payment) |
+| Price | $22.33 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $16.79 |
+| Earnings/sale* | $16.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BartonPublishing |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Put Money In Your Pocket DAILY! This funnel has been extremely solid for quite a long time. Our team continues to work on this funnel daily to ensure that it is high converting. More than 333,000 amazed users have made The Diabetes Solution Kit (DiSK) our #1 best-selling product in the history of Barton Publishing.
+**Vendor's marketplace description:** <h4>Put Money In Your Pocket DAILY!</h4>
+<p>This funnel has been extremely solid for quite a long time.  Our team continues to work on this funnel daily to ensure that it is high converting.</p>
+<p>More than 333,000 amazed users have made The Diabetes Solution Kit (DiSK) our #1 best-selling product in the history of Barton Publishing.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37303/adminstore/
 - Sales page: https://fixbloodsugar.com/ptn/digi/1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/barton-publishing
 - Canonical redirect: https://www.digistore24.com/redir/386253/adminstore
@@ -81,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BartonPublishing, listed since 2021-04-22
-- How much? — 22.378382 USD
+- How much? — 22.328457 USD
 - Guarantee? — 90-day money back guarantee
 - Alternatives? — see the comparison table on the profile / alternatives page
 

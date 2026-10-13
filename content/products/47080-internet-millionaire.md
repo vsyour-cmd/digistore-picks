@@ -4,16 +4,16 @@ digistore24_product_id: 526858
 title: "Internet Millionaire"
 vendor: "internets"
 product_type: "Member area and video courses"
-price: 2241.16
+price: 2236.16
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1120.58
+earnings_per_sale: 1118.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Finances"]
 listed_since: "2023-11-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.internetmillionaire.com/training?aff=adminstore#aff=adminstore"
 sales_page: "https://www.internetmillionaire.com/training"
@@ -22,16 +22,16 @@ language: "en"
 # Internet Millionaire
 
 > Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2241.16 (Single payment, Installment) |
+| Price | $2236.16 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1120.58 |
+| Earnings/sale* | $1118.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | internets |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliates, Earn $1000 Commissions Per Sale! This is your early opportunity to promote Internet Millionaire before we do an official product launch soon. START PROMOTING TODAYProduct Price: $200050% commissionsYou make $1000 per sale!
+**Vendor's marketplace description:** <h2>Affiliates, Earn $1000 Commissions Per Sale!</h2>
+<p>This is your early opportunity to promote Internet Millionaire before we do an official product launch soon.</p>
+<p><span style="color:#99cc00;"><strong>START PROMOTING TODAY</strong><br /></span>Product Price: $2000<br />50% commissions<br />You make $1000 per sale!</p>
 
 ## 2. Links
 
@@ -116,7 +118,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: internets, listed since 2023-11-24
-- How much? — 2241.155176 USD
+- How much? — 2236.1552760000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

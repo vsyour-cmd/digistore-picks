@@ -4,34 +4,34 @@ digistore24_product_id: 203487
 title: "The Pure Art of Serrada Escrima SerCuerdas English"
 vendor: "Wu-TeAkademie"
 product_type: "Member area and video courses"
-price: 55.56
+price: 55.44
 currency: "USD"
 affiliate_commission_pct: 15
-earnings_per_sale: 8.34
+earnings_per_sale: 8.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/22975/adminstore/"
 sales_page: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/"
 language: "en"
 ---
 # The Pure Art of Serrada Escrima SerCuerdas English
 
 > Product ID `22975` · Digistore24 productId `203487` · [HTML profile page](../../reviews/the-pure-art-of-serrada-escrima-sercuerdas-english-22975.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.56 (Single payment) |
+| Price | $55.44 (Single payment) |
 | Affiliate commission | 15% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Wu-TeAkademie |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SerCuerdas The Pure Art of Serrada ng Escrima Vol. 1 -3 The Foundation Set 1-3 Vol. 1 Set1 Basic Weapons Training ca. 35 min. Runtime Master JC Cabiero shows, and demonstrates: Ser Cuerdas, The Rattan Parts, Twirling, C-Hand, Signals, Triangel Footwork Positioning 80/20, Salute,Basic Strikes 1-12, Cincotero Flow, DeCadena Flow, Basic Blocks 1-12 Set1 Vol. 2 The Foundation Set 2 Basic Weapons Train…
+**Vendor's marketplace description:** <p>SerCuerdas The Pure Art of Serrada ng Escrima Vol. 1 -3 The Foundation Set 1-3</p>
+<p>Vol. 1 Set1 Basic Weapons Training ca. 35 min. Runtime Master JC Cabiero shows, and demonstrates: Ser Cuerdas, The Rattan Parts, Twirling, C-Hand, Signals, Triangel Footwork Positioning 80/20, Salute,Basic Strikes 1-12, Cincotero Flow, DeCadena Flow, Basic Blocks 1-12 Set1</p>
+<p>Vol. 2 The Foundation Set 2 Basic Weapons Training ca. 35 min, Runtime Master JC Cabiero shows: Basic Strikes 1-12, Basic Blocks 1-12 Set 2 Lock and Block Sparring</p>
+<p>Vol. 3 The Foundation Set 3 Basic Weapons Training ca. 30 min. Runtime Master JC Cabiero shows: Basic Strikes 1-12, Basic Blocks 1-12 Set 3 Lock and Block Sparring Advanced Weapons Training Language Englisch</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/22975/adminstore/
 - Sales page: https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/
 - Canonical redirect: https://www.digistore24.com/redir/203487/adminstore
 
@@ -66,7 +69,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Wu-TeAkademie, listed since 2018-02-23
-- How much? — 55.559348 USD
+- How much? — 55.435398 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

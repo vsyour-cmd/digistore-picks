@@ -4,16 +4,16 @@ digistore24_product_id: 708884
 title: "The Viral Cat Creator Playbook"
 vendor: "monimarketstudio4664"
 product_type: "Downloads"
-price: 25.43
+price: 25.37
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.18
+earnings_per_sale: 10.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://catcreatorplaybook.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://catcreatorplaybook.netlify.app/"
@@ -22,16 +22,16 @@ language: "en"
 # The Viral Cat Creator Playbook
 
 > Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](../../reviews/the-viral-cat-creator-playbook-57458.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.43 (Single payment) |
+| Price | $25.37 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.18 |
+| Earnings/sale* | $10.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | monimarketstudio4664 |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This 32-page creator guide gives cat creators the exact system to grow on Instagram and TikTok in 2026. No generic tips. No fluff. Just the frameworks that actually work. Inside you get a complete 30-day done-for-you content calendar, 50 scroll-stopping hook templates sorted by goal, 4 high-converting script frameworks, a full brand deal pitch template with rate card guidance, 6 revenue streams be…
+**Vendor's marketplace description:** <p>This 32-page creator guide gives cat creators the exact system to grow on Instagram and TikTok in 2026. No generic tips. No fluff. Just the frameworks that actually work.</p>
+<p>Inside you get a complete 30-day done-for-you content calendar, 50 scroll-stopping hook templates sorted by goal, 4 high-converting script frameworks, a full brand deal pitch template with rate card guidance, 6 revenue streams beyond brand deals, an analytics guide with the 4 KPIs that actually predict growth, a mistakes section covering the 10 account killers, and a growth blueprint for months 2 to 6.</p>
+<p>Instant PDF download. Available in English (and German soon.</p>
 
 ## 2. Links
 
@@ -90,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: monimarketstudio4664, listed since 2026-07-08
-- How much? — 25.426414 USD
+- How much? — 25.369689000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/721060?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/721060"
@@ -22,7 +22,7 @@ language: "en"
 # Toby the Brave Little Lion – Story and Coloring Book Bundle
 
 > Product ID `58484` · Digistore24 productId `721060` · [HTML profile page](../../reviews/toby-the-brave-little-lion-story-and-coloring-book-bundle-58484.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Toby the Brave Little Lion – Story and Coloring Book Bundle Toby the Brave Little Lion – Story & Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9. The bundle includes a 43-page children's storybook and a 35-page coloring book, for a total of 78 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promot…
+**Vendor's marketplace description:** <p><strong>Toby the Brave Little Lion – Story and Coloring Book Bundle</strong></p>
+<p><strong>Toby the Brave Little Lion – Story &amp; Coloring Book Bundle is a family-friendly digital PDF product for children aged 5–9. The bundle includes a 43-page children's storybook and a 35-page coloring book, for a total of 78 pages of fun, creativity, and screen-free entertainment. Affiliates earn 60% commission on every successful sale. Promotional materials, including product images and video, are available on the Affiliate Support Page. Instant digital delivery – no physical product is shipped.</strong></p>
 
 ## 2. Links
 

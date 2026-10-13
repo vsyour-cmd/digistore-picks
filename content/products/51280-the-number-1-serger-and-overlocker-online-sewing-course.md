@@ -12,8 +12,8 @@ cart_conversion_pct: 45
 cancel_rate_pct: 3.3
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2024-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/"
@@ -22,7 +22,7 @@ language: "en"
 # The Number 1 Serger and Overlocker Online Sewing Course
 
 > Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](../../reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,31 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote our unique serger online sewing course “Love Your Serger.” In this course, participants learn with great joy how to sew with their serger sewing machine. The course is a fantastic, creative product with high conversion rates and almost no returns. The feedback from participants is extremely positive. Your Benefits: A high commission of 35% per course. The course is tested and optimized: we…
+**Vendor's marketplace description:** <p>Promote our unique serger online sewing course “Love Your Serger.” In this course, participants learn with great joy how to sew with their serger sewing machine. The course is a fantastic, creative product with high conversion rates and almost no returns. The feedback from participants is extremely positive.</p>
+<p> </p>
+<p><strong>Your Benefits:</strong></p>
+<ul>
+<li>A high commission of 35% per course.</li>
+<li>The course is tested and optimized: we have already sold 12,000 products (including English and German courses).</li>
+<li>High conversion rates in the highly optimized sales funnel.</li>
+<li>Very satisfied customers with almost no returns.</li>
+<li>Fast and personalized support from an affiliate manager.</li>
+<li>Our participants learn step-by-step with great enthusiasm using a unique learning concept.</li>
+<li>The course comprises nearly 5 hours of learning time with 41 wonderful videos.</li>
+</ul>
+<p>Sign up now as an affiliate and start building a passive income.</p>
+<p> </p>
+<p><strong>Important:</strong></p>
+<ul>
+<li>Please send us an email after signing up to request approval for your affiliate partnership at: <a>info@your-creatory.com</a>. We would love to work with you as an affiliate and select partners who are genuinely interested in promoting our product. That’s why we manually approve all affiliate applications.</li>
+<li>Make sure that advertisements do not suggest that you are Love your Serger yourself, but clearly indicate that you are recommending us as a partner.</li>
+<li>Make sure that you don't reuse our videos to make ai generated videos or any other videos. </li>
+<li>Google, Facebook and Instagram ads are not allowed for competition on keywords.</li>
+</ul>
+<p> </p>
+<p>We look forward to a successful collaboration with you.</p>
+<p>Warm regards,</p>
+<p>Nicole Langer</p>
 
 ## 2. Links
 

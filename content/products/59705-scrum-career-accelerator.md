@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Software"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.noa.rs.ba/scrum-career-accelerator?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59705/adminstore/"
 sales_page: "https://www.noa.rs.ba/scrum-career-accelerator"
 language: "en"
 ---
 # Scrum Career Accelerator
 
 > Product ID `59705` · Digistore24 productId `736035` · [HTML profile page](../../reviews/scrum-career-accelerator-59705.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,24 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Scrum Career Accelerator is a digital bundle of 27 self-paced video courses on Scrum, Agile, and career skills, delivered on Thinkific for a one-time price of $47! It includes 12 Scrum and Agile courses (among them a 29-hour Masterclass and a full PSM I exam walkthrough), 2 bonus Scrum courses, and 13 career, marketing, and consulting courses. The creator is Dejan Majkic, an IT leader with 20+ yea…
+**Vendor's marketplace description:** <ul>
+<li>Scrum Career Accelerator is a digital bundle of 27 self-paced video courses on Scrum, Agile, and career skills, delivered on Thinkific for a one-time price of $47!</li>
+</ul>
+<p>It includes 12 Scrum and Agile courses (among them a 29-hour Masterclass and a full PSM I exam walkthrough), 2 bonus Scrum courses, and 13 career, marketing, and consulting courses.</p>
+<p>The creator is Dejan Majkic, an IT leader with 20+ years of experience, 70+ Scrum certifications, and 140,000+ students.</p>
+<p><strong>Why promote it:</strong></p>
+<ul>
+<li><strong>50% commission</strong> on every sale.</li>
+<li><strong>Low-friction price.</strong> At $47 for 27 courses, it's an easy yes for a buyer.</li>
+<li><strong>Three audiences in one offer:</strong> career changers, professionals whose company adopted Agile, and working Scrum Masters and Product Owners. That fits career, IT, project management, and self-improvement audiences.</li>
+<li><strong>Proven demand.</strong> 14,000+ students in this bundle.</li>
+<li><strong>60-day refund</strong> lowers buyer hesitation.</li>
+<li><strong>A sales page built to comply.</strong> Claims are honest, and the offer is clearly described, so you aren't sending traffic to hype.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-accelerator?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59705/adminstore/
 - Sales page: https://www.noa.rs.ba/scrum-career-accelerator
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1516-promote-the-scrum-career-accelerator-and-earn-50-commission-on-each-sal
 - Canonical redirect: https://www.digistore24.com/redir/736035/adminstore

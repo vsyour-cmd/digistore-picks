@@ -4,16 +4,16 @@ digistore24_product_id: 433852
 title: "Easy 8 Scroll Saw Patterns"
 vendor: "rmyrchak"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2022-03-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns?aff=adminstore#aff=adminstore"
 sales_page: "https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns"
@@ -22,16 +22,16 @@ language: "en"
 # Easy 8 Scroll Saw Patterns
 
 > Product ID `39452` · Digistore24 productId `433852` · [HTML profile page](../../reviews/easy-8-scroll-saw-patterns-39452.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rmyrchak |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Easy 8 Hand Drawn Scroll Saw Patterns is a multi page digital download consisting of 8 PDF files in 2 zipped files. Make 8 beautiful scroll saw art pieces from these 8 Easy hand drawn scroll saw patterns. Make these for yourself, to present as gifts to others, or to sell wooden scroll saw art online, at a gift shop, or at art and craft shows. Contains, Wood Cat, Wood Squirrel, Wood Wolf, Wood Fox,…
+**Vendor's marketplace description:** <p>Easy 8 Hand Drawn Scroll Saw Patterns is a multi page digital download consisting of 8 PDF files in 2 zipped files.</p>
+<p>Make 8 beautiful scroll saw art pieces from these 8 Easy hand drawn scroll saw patterns. Make these for yourself, to present as gifts to others, or to sell wooden scroll saw art online, at a gift shop, or at art and craft shows.</p>
+<p>Contains, Wood Cat, Wood Squirrel, Wood Wolf, Wood Fox, Wood Ducks, Wood Rabbits, Wood Elephant, and Minimalist Wood Fox scroll saw patterns as PDF files. Scroll Saw patterns are meant to be printed on regular printer paper which means none of your scroll saw art pieces that you make from these patterns will exceed 8-1/2'' x 11''.</p>
+<p>Could work well in woodworking blogs, scrollsaw product reviews, art and craft websites etc.</p>
 
 ## 2. Links
 
@@ -74,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: rmyrchak, listed since 2022-03-12
-- How much? — 22.400793999999998 USD
+- How much? — 22.350819 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

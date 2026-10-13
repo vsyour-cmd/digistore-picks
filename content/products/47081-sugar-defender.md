@@ -4,34 +4,34 @@ digistore24_product_id: 536868
 title: "Sugar Defender"
 vendor: "I868696"
 product_type: "Supplements - health"
-price: 178.21
+price: 177.81
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.89
+earnings_per_sale: 107.65
 cart_conversion_pct: 4
 cancel_rate_pct: 11.15
 categories: ["Food Supplements"]
 listed_since: "2024-01-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47081/adminstore/"
 sales_page: "https://sugardefender24.com/d/order-now.php"
 language: "en"
 ---
 # Sugar Defender
 
 > Product ID `47081` · Digistore24 productId `536868` · [HTML profile page](../../reviews/sugar-defender-47081.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $178.21 (Single payment) |
+| Price | $177.81 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.89 |
+| Earnings/sale* | $107.65 |
 | Cart conversion* | 4% |
 | Cancel rate* | 11.15% |
 | Vendor | I868696 |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Calling All Affiliates! Maximize Your Earnings By Joining Our Ultimate Blood Sugar Offer With Our Proven Solution, YOU Will Dominate The Market And Boost Your Commissions How To Earn Up To $6 EPCs?! Apply Now And Get Your Link To Success!
+**Vendor's marketplace description:** <p><strong>Calling All Affiliates!</strong></p>
+<p>Maximize Your Earnings By Joining Our Ultimate Blood Sugar Offer</p>
+<p>With Our Proven Solution, YOU Will Dominate The Market And Boost Your Commissions</p>
+<p>How To Earn Up To $6 EPCs?! <br />Apply Now And Get Your Link To Success!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47081/adminstore/
 - Sales page: https://sugardefender24.com/d/order-now.php
 - Vendor affiliate support: https://sugardefender24.com/info/aff.html
 - Canonical redirect: https://www.digistore24.com/redir/536868/adminstore
@@ -93,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: I868696, listed since 2024-01-30
-- How much? — 178.20901800000001 USD
+- How much? — 177.81144300000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

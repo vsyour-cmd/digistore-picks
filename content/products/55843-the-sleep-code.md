@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.brainwavehaven.site/the-sleep-code?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55843/adminstore/"
 sales_page: "http://www.brainwavehaven.site/the-sleep-code"
 language: "en"
 ---
 # The Sleep Code
 
 > Product ID `55843` · Digistore24 productId `674358` · [HTML profile page](../../reviews/the-sleep-code-55843.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote The Sleep Code – tracks that help people fall asleep fast and wake up refreshed. Perfect for: sleep, insomnia, parenting, wellness, biohacking niches.
+**Vendor's marketplace description:** <p>Promote The Sleep Code – tracks that help people fall asleep fast and wake up refreshed.</p>
+<p><br /><br /></p>
+<p>Perfect for: sleep, insomnia, parenting, wellness, biohacking niches.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.brainwavehaven.site/the-sleep-code?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55843/adminstore/
 - Sales page: http://www.brainwavehaven.site/the-sleep-code
 - Vendor affiliate support: https://www.brainwavehaven.site/the-sleep-code-affiliate-resources
 - Canonical redirect: https://www.digistore24.com/redir/674358/adminstore

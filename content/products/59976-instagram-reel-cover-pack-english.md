@@ -4,16 +4,16 @@ digistore24_product_id: 737327
 title: "Instagram Reel Cover Pack (English)"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 16.81
+price: 16.77
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 4.2
+affiliate_commission_pct: 30
+earnings_per_sale: 5.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/instagram-reel-cover-starter-pack/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/instagram-reel-cover-starter-pack/"
@@ -22,16 +22,16 @@ language: "en"
 # Instagram Reel Cover Pack (English)
 
 > Product ID `59976` · Digistore24 productId `737327` · [HTML profile page](../../reviews/instagram-reel-cover-pack-english-59976.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.81 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $4.20 |
+| Price | $16.77 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $5.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ 30x Instagram Reel Covers Templates✅ 30x Headlines Templates✅ 20x Blanko Covers✅ Bonus: 5x Color Palettes & Fonts
+**Vendor's marketplace description:** <p>✅ 30x Instagram Reel Covers Templates<br />✅ 30x Headlines Templates<br />✅ 20x Blanko Covers<br />✅ Bonus: 5x Color Palettes &amp; Fonts</p>
 
 ## 2. Links
 
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-09-27
-- How much? — 16.809 USD
+- How much? — 16.771500000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

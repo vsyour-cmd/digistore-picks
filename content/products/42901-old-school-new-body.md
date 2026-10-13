@@ -4,34 +4,34 @@ digistore24_product_id: 460804
 title: "Old School New Body"
 vendor: "rowleyresults"
 product_type: "E-books"
-price: 22.41
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 20.17
+earnings_per_sale: 20.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2022-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://oldschoolnewbody.com/alt/index.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42901/adminstore/"
 sales_page: "https://oldschoolnewbody.com/alt/index.php"
 language: "en"
 ---
 # Old School New Body
 
 > Product ID `42901` · Digistore24 productId `460804` · [HTML profile page](../../reviews/old-school-new-body-42901.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.41 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $20.17 |
+| Earnings/sale* | $20.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rowleyresults |
@@ -41,11 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** OSNB is a body shaping system that helps people get back to their youth through fitness. We pay 90% through the funnel.
+**Vendor's marketplace description:** <div>
+<div>OSNB is a body shaping system that helps people get back to their youth through fitness.</div>
+<div><strong>We pay 90% through the funnel.</strong></div>
+</div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://oldschoolnewbody.com/alt/index.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42901/adminstore/
 - Sales page: https://oldschoolnewbody.com/alt/index.php
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/old-school-new-body
 - Canonical redirect: https://www.digistore24.com/redir/460804/adminstore
@@ -74,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: rowleyresults, listed since 2022-09-16
-- How much? — 22.412 USD
+- How much? — 22.362000000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

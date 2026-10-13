@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://noadditionalinformationprovided-i4y.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58669/adminstore/"
 sales_page: "https://noadditionalinformationprovided-i4y.plannerpack.co"
 language: "en"
 ---
 # No additional information provided.
 
 > Product ID `58669` · Digistore24 productId `726124` · [HTML profile page](../../reviews/no-additional-information-provided-58669.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://noadditionalinformationprovided-i4y.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58669/adminstore/
 - Sales page: https://noadditionalinformationprovided-i4y.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/726124/adminstore
 

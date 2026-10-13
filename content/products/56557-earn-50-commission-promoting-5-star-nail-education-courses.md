@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fashion","Health & Fitness","Home & Garden"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://vel.academy/course-bundle-d24?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56557/adminstore/"
 sales_page: "https://vel.academy/course-bundle-d24"
 language: "en"
 ---
 # Earn 50% Commission Promoting 5-Star Nail Education Courses
 
 > Product ID `56557` · Digistore24 productId `691507` · [HTML profile page](../../reviews/earn-50-commission-promoting-5-star-nail-education-courses-56557.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request. Let's grow together!
+**Vendor's marketplace description:** <p>Zero refunds in 2 months. Fast support — promo materials delivered within 2 days of request. <br /><br />Let's grow together!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://vel.academy/course-bundle-d24?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56557/adminstore/
 - Sales page: https://vel.academy/course-bundle-d24
 - Vendor affiliate support: https://vel.academy/affiliate-help
 - Canonical redirect: https://www.digistore24.com/redir/691507/adminstore

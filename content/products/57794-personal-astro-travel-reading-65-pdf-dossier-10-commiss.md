@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Travel & Culture"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://when-and-where.com?aff=adminstore#aff=adminstore"
 sales_page: "https://when-and-where.com"
@@ -22,7 +22,7 @@ language: "en"
 # Personal Astro Travel Reading — $65 PDF Dossier, 10% Commiss
 
 > Product ID `57794` · Digistore24 productId `708855` · [HTML profile page](../../reviews/personal-astro-travel-reading-65-pdf-dossier-10-commiss-57794.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** when & where is a personal astro travel reading delivered as a $65 PDF dossier: based on the customer's birth chart (astrocartography + transits), it shows exactly which regions suit them and the best time windows to travel in the next 12 months. Every reading is written personally by astrologer and author Sonia K. Woods — no auto-generated content. A strong fit for travel, slow-travel, and astrol…
+**Vendor's marketplace description:** <p>when &amp; where is a personal astro travel reading delivered as a $65 PDF dossier: based on the customer's birth chart (astrocartography + transits), it shows exactly which regions suit them and the best time windows to travel in the next 12 months.</p>
+<p>Every reading is written personally by astrologer and author Sonia K. Woods — no auto-generated content. A strong fit for travel, slow-travel, and astrology/spirituality audiences looking for a meaningful gift or trip-planning tool.</p>
+<p>Included: a travel profile, three chart-matched regions, personal travel windows, a clear when-&amp;-where recommendation, plus curated stay suggestions.</p>
+<p>As an affiliate, you earn 10% commission on every reading booked through your link. One-time digital product, personally delivered, low refund risk.</p>
 
 ## 2. Links
 

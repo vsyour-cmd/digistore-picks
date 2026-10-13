@@ -4,34 +4,34 @@ digistore24_product_id: 271198
 title: "Raspberry Pi for Beginners (Mac+PC)"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 28
+price: 27.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.01
+earnings_per_sale: 13.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2019-05-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://www.raspi-config.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/30133/adminstore/"
 sales_page: "http://www.raspi-config.com"
 language: "en"
 ---
 # Raspberry Pi for Beginners (Mac+PC)
 
 > Product ID `30133` · Digistore24 productId `271198` · [HTML profile page](../../reviews/raspberry-pi-for-beginners-mac-pc-30133.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $28.00 (Single payment) |
+| Price | $27.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.01 |
+| Earnings/sale* | $13.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FIMA2011 |
@@ -41,11 +41,22 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Your advantages as an Affiliate - Teaser video for high conversion rates- banner ads- Social Media Images Apply now for "Raspberry Pi for beginners" video course ... ... and get started right away! Go to Affiliate Support page (Click) target groups are: - Raspberry Pi Interested parties- Technology Blog Reader- hobbyists- Technology enthusiasts- Company and- computer schools In order to enable so …
+**Vendor's marketplace description:** <p><span style="background-color:#ffff99;">Your advantages as an Affiliate</span></p>
+<p>- Teaser video for high conversion rates<br />- banner ads<br />- Social Media Images</p>
+<p>Apply now for "Raspberry Pi for beginners" video course ...</p>
+<p>... and get started right away!</p>
+<p><span style="background-color:#ffff99;">Go to Affiliate Support page (<strong><a style="background-color:#ffff99;" href="https://www.raspi-config.com/affiliates/" target="_blank" rel="noreferrer noopener">Click</a></strong>)</span></p>
+<p>target groups are:</p>
+<p>- Raspberry Pi Interested parties<br />- Technology Blog Reader<br />- hobbyists<br />- Technology enthusiasts<br />- Company and<br />- computer schools</p>
+<p>In order to enable so many website operators and list owners to participate in the partner program, I offer a special service for target group-specific advertising.</p>
+<p>For these sales partners, I provide tailor-made advertising materials such as squeeze pages, industry-specific banners and newsletter texts upon prior request (mail to amim@freenet.de).</p>
+<p>Video course contents:</p>
+<p>25 lessons of compact Raspberry Pi know-how:</p>
+<p>+ What is a Raspberry PI?<br />+ What exciting projects are there already?<br />+ Which models are there and which is the right one for me?<br />+ Where can I buy a Raspberry + accessories?<br />+ Technical data and interfaces of the Raspberry PI 3B+<br />+ What can I do with a Raspberry after the first start?<br />+ Download the images from the Internet<br />+ Installation of the operating system on the microSD card (for PC)<br />+ Installation of the operating system on the microSD card (for Mac)<br />+ Installation of the operating system with NOOBS<br />+ Commissioning of the Raspberry with a monitor<br />+ Commissioning of the Raspberry without monitor (headless installation)<br />+ microSD Backup &amp; Image Recovery<br />+ microSD card with empty (Mac + PC)<br />+ Which projects are software-based possible?<br />+ Software project: PI-Hole network-wide advertising blocker<br />+ Software Project: Homebridge (Example: Lamp Control)<br />+ Software Project: Webmin for System Administration<br />+ Software project: Retropi (game console) + Kodi (media center)<br />+ What sensors can I connect to the Raspberry?<br />+ Hardware Project: Camera Module<br />+ Hardware Project: Soil Moisture Module<br />+ Hardware Project: Light Sensitivity Module<br />+ Hardware Project: Laser Beam Module<br />+ Introduction Programming with Scratch<br />+ Introduction Programming with Thonny (Python)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.raspi-config.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/30133/adminstore/
 - Sales page: http://www.raspi-config.com
 - Vendor affiliate support: https://www.raspi-config.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/271198/adminstore
@@ -86,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: FIMA2011, listed since 2019-05-10
-- How much? — 28.003794 USD
+- How much? — 27.941319 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

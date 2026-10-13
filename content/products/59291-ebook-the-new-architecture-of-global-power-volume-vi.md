@@ -4,34 +4,34 @@ digistore24_product_id: 726710
 title: "Ebook - The New Architecture of Global Power - Volume VI"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 6.8
+price: 6.79
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.41
+earnings_per_sale: 3.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/726710?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59291/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726710"
 language: "en"
 ---
 # Ebook - The New Architecture of Global Power - Volume VI
 
 > Product ID `59291` · Digistore24 productId `726710` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-vi-59291.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $6.80 (Single payment) |
+| Price | $6.79 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.41 |
+| Earnings/sale* | $3.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,39 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** WHO HAS THE POWER TO SHAPE THE SYSTEM ITSELF? The New Architecture of Global Power – Volume VI: The Architecture of Systemic Power examines how rules, standards, knowledge, regulation, intellectual property, corporations, and institutions shape the environment in which global power operates. What sets this book apart is its focus on systemic power—the difference between competing successfully with…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>WHO HAS THE POWER TO SHAPE THE SYSTEM ITSELF?</strong></p>
+<p><em>The New Architecture of Global Power – Volume VI: The Architecture of Systemic Power</em> examines how rules, standards, knowledge, regulation, intellectual property, corporations, and institutions shape the environment in which global power operates.</p>
+<p>What sets this book apart is its focus on <strong>systemic power</strong>—the difference between competing successfully within existing structures and having the ability to shape those structures themselves.</p>
+<p>Readers discover how seemingly invisible systems can create influence, dependencies, constraints, and strategic advantages.</p>
+<p>For affiliates, this offers a distinctive product for audiences interested in geopolitics, global institutions, regulation, technology, intellectual property, and the hidden architecture of global power.</p>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
+<div>
+<div> </div>
+</div>
+</div>
+<div>
+<div> </div>
+</div>
+</div>
+</div>
+</div>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726710?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59291/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726710
 - Canonical redirect: https://www.digistore24.com/redir/726710/adminstore
 
@@ -83,7 +111,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-09-16
-- How much? — 6.802042 USD
+- How much? — 6.786867000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

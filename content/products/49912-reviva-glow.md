@@ -4,16 +4,16 @@ digistore24_product_id: 573302
 title: "Reviva Glow"
 vendor: "RevivaGlow"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.26
+earnings_per_sale: 50.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-10-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://getrevivaglow24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://getrevivaglow24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Reviva Glow
 
 > Product ID `49912` · Digistore24 productId `573302` · [HTML profile page](../../reviews/reviva-glow-49912.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.26 |
+| Earnings/sale* | $50.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RevivaGlow |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hit it Big In The Skincare Niche! This Unique “Dermal Glow” Formula Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
+**Vendor's marketplace description:** <p>Hit it Big In The Skincare Niche! This Unique “Dermal Glow” Formula Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.</p>
 
 ## 2. Links
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: RevivaGlow, listed since 2024-10-02
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

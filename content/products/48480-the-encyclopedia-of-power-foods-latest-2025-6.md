@@ -4,16 +4,16 @@ digistore24_product_id: 557828
 title: "The Encyclopedia of Power Foods- Latest 2025/6!"
 vendor: "dailyhealth"
 product_type: "E-books"
-price: 45.09
+price: 44.99
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 28.05
+earnings_per_sale: 27.99
 cart_conversion_pct: 16
 cancel_rate_pct: 8.97
 categories: ["Health & Fitness"]
 listed_since: "2024-06-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=adminstore#aff=adminstore"
 sales_page: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177"
@@ -22,16 +22,16 @@ language: "en"
 # The Encyclopedia of Power Foods- Latest 2025/6!
 
 > Product ID `48480` · Digistore24 productId `557828` · [HTML profile page](../../reviews/the-encyclopedia-of-power-foods-latest-2025-6-48480.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $45.09 (Single payment) |
+| Price | $44.99 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $28.05 |
+| Earnings/sale* | $27.99 |
 | Cart conversion* | 16% |
 | Cancel rate* | 8.97% |
 | Vendor | dailyhealth |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Great Conversion! • Compliant!• AOV: $528-$1064• 70% commissions across the funnels. Commision bump for super affiliates• 3-9% conversion rate on email lists Promolink: https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=AFFILIATE For product support please email: mailto:contact@365dailyhealth.comFor affiliate support please email: mailto:affiliates@365dailyhealth.com
+**Vendor's marketplace description:** <p>Great Conversion!</p>
+<p>• Compliant!<br />• AOV: $528-$1064<br />• 70% commissions across the funnels. Commision bump for super affiliates<br />• 3-9% conversion rate on email lists</p>
+<p><br />Promolink: <a href="https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=AFFILIATE" target="_blank" rel="noreferrer noopener">https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=AFFILIATE</a></p>
+<p>For product support please email: mailto:contact@365dailyhealth.com<br />For affiliate support please email: mailto:affiliates@365dailyhealth.com</p>
 
 ## 2. Links
 
@@ -67,7 +70,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: dailyhealth, listed since 2024-06-20
-- How much? — 45.092944 USD
+- How much? — 44.992344 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

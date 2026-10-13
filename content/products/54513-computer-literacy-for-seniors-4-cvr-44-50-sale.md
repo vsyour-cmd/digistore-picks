@@ -4,34 +4,34 @@ digistore24_product_id: 642084
 title: "Computer Literacy for Seniors | 4% CVR | $44.50/Sale"
 vendor: "MasterYourMachineIn90Days"
 product_type: "Member area and video courses"
-price: 99.73
+price: 99.51
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 74.8
+earnings_per_sale: 74.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Personal Development"]
 listed_since: "2025-10-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://masteryourmachinein90days.com/offer/video-ds24?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54513/adminstore/"
 sales_page: "https://masteryourmachinein90days.com/offer/video-ds24"
 language: "en"
 ---
 # Computer Literacy for Seniors | 4% CVR | $44.50/Sale
 
 > Product ID `54513` · Digistore24 productId `642084` · [HTML profile page](../../reviews/computer-literacy-for-seniors-4-cvr-44-50-sale-54513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $99.73 (Single payment) |
+| Price | $99.51 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $74.80 |
+| Earnings/sale* | $74.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MasterYourMachineIn90Days |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Master Your Machine in 90 Days is a beginner-friendly computer literacy course designed specifically for adults 50+ who feel left behind by technology. This 90-day program teaches everyday computer skills through daily bite-sized lessons. No tech jargon, just practical guidance. With a 4% conversion rate and 50% commission ($44.50 per sale), you'll earn well while helping your audience gain confid…
+**Vendor's marketplace description:** <p>Master Your Machine in 90 Days is a beginner-friendly computer literacy course designed specifically for adults 50+ who feel left behind by technology. This 90-day program teaches everyday computer skills through daily bite-sized lessons. No tech jargon, just practical guidance. With a 4% conversion rate and 50% commission ($44.50 per sale), you'll earn well while helping your audience gain confidence with technology, connect with family online, and stay safe from scams. Our customers are motivated, engaged, and grateful for the transformation this course provides.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://masteryourmachinein90days.com/offer/video-ds24?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54513/adminstore/
 - Sales page: https://masteryourmachinein90days.com/offer/video-ds24
 - Vendor affiliate support: http://masteryourmachinein90days.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/642084/adminstore
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: MasterYourMachineIn90Days, listed since 2025-10-17
-- How much? — 99.7334 USD
+- How much? — 99.5109 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

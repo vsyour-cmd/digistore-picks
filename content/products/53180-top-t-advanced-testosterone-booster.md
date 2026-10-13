@@ -4,16 +4,16 @@ digistore24_product_id: 619373
 title: "Top T — Advanced Testosterone Booster"
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 294.11
+price: 293.46
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 176.47
+earnings_per_sale: 176.08
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-06-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/619373?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/619373"
@@ -22,16 +22,16 @@ language: "en"
 # Top T — Advanced Testosterone Booster
 
 > Product ID `53180` · Digistore24 productId `619373` · [HTML profile page](../../reviews/top-t-advanced-testosterone-booster-53180.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $294.11 (Single payment) |
+| Price | $293.46 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $176.47 |
+| Earnings/sale* | $176.08 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote Top T and earn 60% commission on the entire funnel. This high-converting testosterone optimizer is designed for men 30–55 who feel like they've lost their edge. With a powerful VSL, proven ingredients, and a desperate market hungry for natural T-boosters, Top T is delivering $50–$70 per sale with low refunds and strong rebills. Affiliates get full access to ad creatives, emails, angles, an…
+**Vendor's marketplace description:** <p>Promote Top T and earn 60% commission on the entire funnel. This high-converting testosterone optimizer is designed for men 30–55 who feel like they've lost their edge. With a powerful VSL, proven ingredients, and a desperate market hungry for natural T-boosters, Top T is delivering $50–$70 per sale with low refunds and strong rebills.</p>
+<p>Affiliates get full access to ad creatives, emails, angles, and funnels built for Meta, Google, native, and email. Great for supplement buyers, biohackers, ex-athletes, and performance-driven men. Easy plug-and-play promo.</p>
 
 ## 2. Links
 
@@ -78,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2025-06-18
-- How much? — 294.11267599999996 USD
+- How much? — 293.456526 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

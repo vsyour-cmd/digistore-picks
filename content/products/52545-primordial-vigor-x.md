@@ -4,34 +4,34 @@ digistore24_product_id: 605523
 title: "Primordial Vigor X"
 vendor: "KoalaAdvertising"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.26
+earnings_per_sale: 50.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-04-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://goprimordialvigorx.com/read?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52545/adminstore/"
 sales_page: "https://goprimordialvigorx.com/read"
 language: "en"
 ---
 # Primordial Vigor X
 
 > Product ID `52545` · Digistore24 productId `605523` · [HTML profile page](../../reviews/primordial-vigor-x-52545.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.26 |
+| Earnings/sale* | $50.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | KoalaAdvertising |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Primordial Vigor X is the strongest, most effective 100% natural male enhancing formula you've ever come across. Based on the most recent scientific studies, this new method will help you add inches to your penis size in just a few weeks, without the use of pumps, creams, or any other so-called solutions you've unsuccessfully used so far. Get Up To 85% Commission Per Sale!
+**Vendor's marketplace description:** <p><strong>Primordial Vigor X</strong> is the strongest, most effective 100% natural male enhancing formula you've ever come across. Based on the most recent scientific studies, this new method will help you add inches to your penis size in just a few weeks, without the use of pumps, creams, or any other so-called solutions you've unsuccessfully used so far. Get Up To<strong> </strong><strong>85% Commission</strong> Per Sale!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://goprimordialvigorx.com/read?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52545/adminstore/
 - Sales page: https://goprimordialvigorx.com/read
 - Vendor affiliate support: https://goprimordialvigorx.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/605523/adminstore
@@ -81,7 +81,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: KoalaAdvertising, listed since 2025-04-04
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 633492
 title: "Study in Music vs. Silence_What Works Best"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.16
+price: 20.11
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.13
+earnings_per_sale: 16.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children"]
 listed_since: "2025-09-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633492?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633492"
@@ -22,16 +22,16 @@ language: "en"
 # Study in Music vs. Silence_What Works Best
 
 > Product ID `53800` · Digistore24 productId `633492` · [HTML profile page](../../reviews/study-in-music-vs-silence-what-works-best-53800.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.16 (Single payment) |
+| Price | $20.11 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.13 |
+| Earnings/sale* | $16.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Affiliate Commission: 80% Product : Ebook Price: $17.99 Target Countries: USA, UK, Canada, Australia, New Zealand
+**Vendor's marketplace description:** <h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Affiliate Commission:</span> 80%</strong></span></h3>
+<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Product :</span> Ebook </strong></span></h3>
+<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Price:</span> $17.99</strong></span></h3>
+<h3><span style="color:#000000;"><strong><span style="color:#ff0000;">Target Countries:</span> USA, UK, Canada, Australia, New Zealand</strong> </span></h3>
 
 ## 2. Links
 
@@ -96,7 +99,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-03
-- How much? — 20.159594 USD
+- How much? — 20.114619 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,34 +4,34 @@ digistore24_product_id: 500416
 title: "Prostadine"
 vendor: "Prostadine"
 product_type: "Supplements - health"
-price: 202.65
+price: 202.2
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 138.27
+earnings_per_sale: 137.96
 cart_conversion_pct: 5
 cancel_rate_pct: 13.98
 categories: ["Food Supplements"]
 listed_since: "2023-05-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://myprostadine24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44131/adminstore/"
 sales_page: "https://myprostadine24.com/text.php"
 language: "en"
 ---
 # Prostadine
 
 > Product ID `44131` · Digistore24 productId `500416` · [HTML profile page](../../reviews/prostadine-44131.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $202.65 (Single payment) |
+| Price | $202.20 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $138.27 |
+| Earnings/sale* | $137.96 |
 | Cart conversion* | 5% |
 | Cancel rate* | 13.98% |
 | Vendor | Prostadine |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Brand-New Prostate Solution Already Going for #1 Hottest Offer - Amazing conversion on Native, Facebook, Email and YT - More than $3+ EPCs - Top VSL that targets a wide audience
+**Vendor's marketplace description:** <p><strong>Brand-New Prostate Solution Already Going for #1 Hottest Offer</strong></p>
+<p>- Amazing conversion on Native, Facebook, Email and YT</p>
+<p>- More than $3+ EPCs</p>
+<p>- Top VSL that targets a wide audience</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://myprostadine24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44131/adminstore/
 - Sales page: https://myprostadine24.com/text.php
 - Vendor affiliate support: https://myprostadine24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/500416/adminstore
@@ -98,7 +101,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Prostadine, listed since 2023-05-25
-- How much? — 202.649304 USD
+- How much? — 202.19720400000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

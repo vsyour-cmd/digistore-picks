@@ -4,16 +4,16 @@ digistore24_product_id: 610042
 title: "Three Keys to Internet Millions"
 vendor: "TrudeauConsulting"
 product_type: "Member area and video courses"
-price: 1117.24
+price: 1114.75
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 335.17
+earnings_per_sale: 334.42
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Online Marketing & E-Business"]
 listed_since: "2025-04-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.trudeautraining.com/threekeys2v3?new_run=true&aff=adminstore#aff=adminstore"
 sales_page: "https://www.trudeautraining.com/threekeys2v3?new_run=true"
@@ -22,16 +22,16 @@ language: "en"
 # Three Keys to Internet Millions
 
 > Product ID `52482` · Digistore24 productId `610042` · [HTML profile page](../../reviews/three-keys-to-internet-millions-52482.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1117.24 (Single payment) |
+| Price | $1114.75 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $335.17 |
+| Earnings/sale* | $334.42 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TrudeauConsulting |
@@ -41,7 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Kevin Trudeau has generated billions in worldwide sales with winning products that positively impact the whole person. $7.85 revenue per click ($32,910 generated from 4 email promotion sequence to 21,000 contacts) $997 Product Instant access video course $0 In Refunds $0 in Chargebacks 30% Gross Affiliate Commission Kevin Trudeau Brand Strength 60-Day Money Back Guarantee
+**Vendor's marketplace description:** <p>Kevin Trudeau has generated billions in worldwide sales with winning products that positively impact the whole person.</p>
+<ul>
+<li><strong>$7.85 revenue per click ($32,910 generated from 4 email promotion sequence to 21,000 contacts)</strong></li>
+<li><strong>$997 Product</strong></li>
+<li><strong>Instant access video course</strong></li>
+<li><strong>$0 In Refunds</strong></li>
+<li><strong>$0 in Chargebacks</strong></li>
+<li><strong>30% Gross Affiliate Commission</strong></li>
+<li><strong>Kevin Trudeau Brand Strength</strong></li>
+<li><strong>60-Day Money Back Guarantee</strong></li>
+</ul>
 
 ## 2. Links
 
@@ -97,7 +107,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: TrudeauConsulting, listed since 2025-04-29
-- How much? — 1117.2382 USD
+- How much? — 1114.7457000000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

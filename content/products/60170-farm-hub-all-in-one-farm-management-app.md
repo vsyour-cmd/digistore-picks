@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/farm-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/farm-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Farm Hub: All-in-One Farm Management App
 
 > Product ID `60170` · Digistore24 productId `741600` · [HTML profile page](../../reviews/farm-hub-all-in-one-farm-management-app-60170.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Keep livestock, barns and facilities, feed, pastures, equipment, farm finances, and daily chores organized in one place. Berry OS Farm Hub helps farmers plan their work, track farm progress, and manage daily farm tasks. The digital hub includes farm management tools and 12 farm printables.
+**Vendor's marketplace description:** <p>Keep livestock, barns and facilities, feed, pastures, equipment, farm finances, and daily chores organized in one place. Berry OS Farm Hub helps farmers plan their work, track farm progress, and manage daily farm tasks. The digital hub includes farm management tools and 12 farm printables.</p>
 
 ## 2. Links
 

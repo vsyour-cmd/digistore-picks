@@ -4,34 +4,34 @@ digistore24_product_id: 704976
 title: "Islam in ta Biblical Context – Abraham is the true key figur"
 vendor: "Andermatti-Invest"
 product_type: "E-books"
-price: 19.61
+price: 19.57
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.91
+earnings_per_sale: 4.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/704976?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57405/adminstore/"
 sales_page: "https://www.digistore24.com/product/704976"
 language: "en"
 ---
 # Islam in ta Biblical Context – Abraham is the true key figur
 
 > Product ID `57405` · Digistore24 productId `704976` · [HTML profile page](../../reviews/islam-in-ta-biblical-context-abraham-is-the-true-key-figur-57405.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.61 (Single payment) |
+| Price | $19.57 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.91 |
+| Earnings/sale* | $4.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Andermatti-Invest |
@@ -41,11 +41,29 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This study booklet presents a surprising yet textually well‑founded perspective: Not Muhammad, but Abraham/Ibrahim is the actual central and formative key figure of Islam. The brochure explains clearly and precisely: why Islam defines itself through Abraham, how Eid al‑Adha, “submission = Islam,” and the Hajj directly trace back to the biblical Abraham narrative, how the structural connection betw…
+**Vendor's marketplace description:** <p>This study booklet presents a surprising yet textually well‑founded perspective: <strong>Not Muhammad, but <span style="background-color:#ccffcc;">Abraham/<em>Ibrahim</em></span> is the actual <span style="background-color:#ffcc99;">central and formative key figure</span> of Islam.</strong></p>
+<p>The brochure explains clearly and precisely:</p>
+<ul>
+<li>why Islam defines itself through Abraham,</li>
+<li>how <em>Eid al‑Adha</em>, “submission = Islam,”</li>
+<li>and the <em>Hajj</em> directly trace back to the biblical Abraham narrative,</li>
+<li>how the structural connection between the <em>Qur’an</em> and the Bible works,</li>
+<li>why this insight fundamentally changes the overall picture of Islam,</li>
+<li>which spiritual line runs from Abraham into Islam  </li>
+</ul>
+<p>A key difference that many Western readers hardly know: Islam does <strong>not separate state and religion</strong>, understands the individual as part of the <em><strong>Ummah</strong> </em>(the body of alle believers together), and forms a comprehensive societal system that goes far beyond a purely private belief.</p>
+<p>This booklet is intended for <strong>all people</strong> who want to understand the <strong>central core of Islam</strong> – <strong>regardless of religion, origin, level of education, or social role</strong>; whether <em>Muslim</em> or non‑<em>Muslim</em>, Christian, Jew, or agnostic; academically trained or without formal degrees; politically active or everyday citizens; of any ethnic background and speaking any language. <strong> </strong></p>
+<p><strong>Ideal for:</strong></p>
+<ul style="list-style-type:circle;">
+<li>Christians who want to understand Islam from a biblical perspective,</li>
+<li>people who want to grasp Abraham’s role within Islam,</li>
+<li>Bible readers who wish to recognize the connection between <em>Qur’an</em> and</li>
+<li>Bible teachers, home groups, and study circles anyone looking for a compact, well‑founded, and readable booklet</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/704976?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57405/adminstore/
 - Sales page: https://www.digistore24.com/product/704976
 - Canonical redirect: https://www.digistore24.com/redir/704976/adminstore
 
@@ -75,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Andermatti-Invest, listed since 2026-07-05
-- How much? — 19.610500000000002 USD
+- How much? — 19.566750000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

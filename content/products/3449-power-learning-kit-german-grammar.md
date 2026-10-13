@@ -4,16 +4,16 @@ digistore24_product_id: 19083
 title: "POWER-Learning-Kit German Grammar"
 vendor: "easydaf"
 product_type: "E-books"
-price: 41.57
+price: 41.48
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 16.63
+earnings_per_sale: 16.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-01-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/"
@@ -22,16 +22,16 @@ language: "en"
 # POWER-Learning-Kit German Grammar
 
 > Product ID `3449` · Digistore24 productId `19083` · [HTML profile page](../../reviews/power-learning-kit-german-grammar-3449.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.57 (Single payment) |
+| Price | $41.48 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $16.63 |
+| Earnings/sale* | $16.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | easydaf |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Es handelt sich um die zweisprachige Version des "Super-Lernpakets" für Deutsch als Fremdsprache. In diesem eBook-Paket werden sehr effiziente Gedächtnistechniken zum einfacheren Lernen der deutschen Grammatik bereitgestellt.
+**Vendor's marketplace description:** <p>Es handelt sich um die zweisprachige Version des "Super-Lernpakets" für Deutsch als Fremdsprache.</p>
+<p>In diesem eBook-Paket werden sehr effiziente Gedächtnistechniken zum einfacheren Lernen der deutschen Grammatik bereitgestellt.</p>
 
 ## 2. Links
 
@@ -101,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: easydaf, listed since 2014-01-08
-- How much? — 41.57426 USD
+- How much? — 41.48151000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

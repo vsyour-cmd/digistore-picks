@@ -4,34 +4,34 @@ digistore24_product_id: 736409
 title: "Build a Landing Page for Beginners – Matze Course"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.41
+earnings_per_sale: 35.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Profession & Job","Online Marketing"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/736409?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59583/adminstore/"
 sales_page: "https://www.digistore24.com/product/736409"
 language: "en"
 ---
 # Build a Landing Page for Beginners – Matze Course
 
 > Product ID `59583` · Digistore24 productId `736409` · [HTML profile page](../../reviews/build-a-landing-page-for-beginners-matze-course-59583.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.41 |
+| Earnings/sale* | $35.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -41,11 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Build a Landing Page for Beginners – Matze Course Write a clear offer, test mobile layout and the action path. This English self-paced course guides you from an initial idea to page copy, a layout plan and a checked mobile and form path. Follow Matze through a continuing fictional example, then apply the exercises to your own project. What you will work through:1. Understand the visitor2. Make a v…
+**Vendor's marketplace description:** <p>Build a Landing Page for Beginners – Matze Course</p>
+<p>Write a clear offer, test mobile layout and the action path. This English self-paced course guides you from an initial idea to page copy, a layout plan and a checked mobile and form path. Follow Matze through a continuing fictional example, then apply the exercises to your own project.</p>
+<p>What you will work through:<br />1. Understand the visitor<br />2. Make a verifiable promise<br />3. Sequence and evidence<br />4. Copy and call to action<br />5. Test access and function<br />6. Review without false precision</p>
+<p>Who is it for? Beginners building a landing page for one specific offer and action.</p>
+<p>Included: PDF practical course, PDF workbook and four editable templates. Work at your own pace and check your decisions with the exercises.</p>
+<p>For affiliates: The course teaches specific steps. It does not guarantee sales, earnings or admission to third-party programmes. Use your own experience, disclose advertising and insert your personal Digistore24 promo link. One-time digital purchase; affiliate commission listed for this offer: 40%.</p>
+<p>Planning tools are optional. The course may contain a disclosed Metricool affiliate link.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/736409?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59583/adminstore/
 - Sales page: https://www.digistore24.com/product/736409
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736409/
 - Canonical redirect: https://www.digistore24.com/redir/736409/adminstore
@@ -84,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 88.5274 USD
+- How much? — 88.32990000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

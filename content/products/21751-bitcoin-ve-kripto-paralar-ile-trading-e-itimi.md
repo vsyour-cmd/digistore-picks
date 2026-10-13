@@ -4,34 +4,34 @@ digistore24_product_id: 176307
 title: "Bitcoin ve Kripto paraları ile trading eğitimi"
 vendor: "Positivemind"
 product_type: "Member area and video courses"
-price: 1115
+price: 1112.51
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 390.25
+earnings_per_sale: 389.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2017-11-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://milyoner.de/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/21751/adminstore/"
 sales_page: "https://milyoner.de/"
 language: "en"
 ---
 # Bitcoin ve Kripto paraları ile trading eğitimi
 
 > Product ID `21751` · Digistore24 productId `176307` · [HTML profile page](../../reviews/bitcoin-ve-kripto-paralar-ile-trading-e-itimi-21751.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1115.00 (Single payment, Installment) |
+| Price | $1112.51 (Single payment, Installment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $390.25 |
+| Earnings/sale* | $389.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Positivemind |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Satış başında 35% komisyon alıyorsun.
+**Vendor's marketplace description:** <p>Satış başında 35% komisyon alıyorsun.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://milyoner.de/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/21751/adminstore/
 - Sales page: https://milyoner.de/
 - Canonical redirect: https://www.digistore24.com/redir/176307/adminstore
 
@@ -90,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Positivemind, listed since 2017-11-02
-- How much? — 1114.997 USD
+- How much? — 1112.5095000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

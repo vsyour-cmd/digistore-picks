@@ -4,16 +4,16 @@ digistore24_product_id: 684563
 title: "Setting Boundaries with Family"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.88
+earnings_per_sale: 24.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children","Health & Fitness","Personal Development"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/684563?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684563"
@@ -22,16 +22,16 @@ language: "en"
 # Setting Boundaries with Family
 
 > Product ID `56262` · Digistore24 productId `684563` · [HTML profile page](../../reviews/setting-boundaries-with-family-56262.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.88 |
+| Earnings/sale* | $24.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
@@ -41,7 +41,21 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A practical digital guide for individuals who feel overwhelmed by family expectations while wanting to maintain connection. This product helps users: Understand emotional pressure within family dynamics Recognize where boundaries may be needed Approach boundaries in a calm and respectful way Suitable for audiences balancing care, responsibility, and personal space. Delivery includes: Full PDF guid…
+**Vendor's marketplace description:** <p>A practical digital guide for individuals who feel overwhelmed by family expectations while wanting to maintain connection.</p>
+<p>This product helps users:</p>
+<ul>
+<li>Understand emotional pressure within family dynamics</li>
+<li>Recognize where boundaries may be needed</li>
+<li>Approach boundaries in a calm and respectful way</li>
+</ul>
+<p>Suitable for audiences balancing care, responsibility, and personal space.</p>
+<p><strong>Delivery includes:</strong></p>
+<ul>
+<li>Full PDF guide</li>
+<li>Visual infographics (PNGs)</li>
+<li>Audio version for guided support</li>
+</ul>
+<p>Delivered as a downloadable digital product.</p>
 
 ## 2. Links
 
@@ -82,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

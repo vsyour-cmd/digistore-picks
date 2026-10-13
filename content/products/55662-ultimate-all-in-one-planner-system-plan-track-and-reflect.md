@@ -4,7 +4,7 @@ digistore24_product_id: 666132
 title: "Ultimate All-in-One Planner System – Plan, Track and Reflect"
 vendor: "MillionDollarBaby28"
 product_type: "Downloads"
-price: 13.45
+price: 13.42
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 4.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/666132?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666132"
@@ -22,14 +22,14 @@ language: "en"
 # Ultimate All-in-One Planner System – Plan, Track and Reflect
 
 > Product ID `55662` · Digistore24 productId `666132` · [HTML profile page](../../reviews/ultimate-all-in-one-planner-system-plan-track-and-reflect-55662.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $13.45 (Single payment) |
+| Price | $13.42 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $4.03 |
 | Cart conversion* | — |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote a complete digital planning solution! The Ultimate All-in-One Planner System includes a 90-Day Reflection Journal, Yearly Planner, Habit Tracker, and easy-to-follow instructions. Perfect for anyone looking to organize their year, practice daily reflection, and build positive habits. Simple to deliver digitally and valuable for anyone wanting a structured, mindful approach to productivity.
+**Vendor's marketplace description:** <p>Promote a complete digital planning solution! The Ultimate All-in-One Planner System includes a 90-Day Reflection Journal, Yearly Planner, Habit Tracker, and easy-to-follow instructions. Perfect for anyone looking to organize their year, practice daily reflection, and build positive habits. Simple to deliver digitally and valuable for anyone wanting a structured, mindful approach to productivity.</p>
 
 ## 2. Links
 
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: MillionDollarBaby28, listed since 2026-02-03
-- How much? — 13.4472 USD
+- How much? — 13.417200000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

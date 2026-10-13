@@ -4,34 +4,34 @@ digistore24_product_id: 541800
 title: "NanoDefense Pro"
 vendor: "NanoDefensePro"
 product_type: "Deliverable"
-price: 200.63
+price: 200.18
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 165.89
+earnings_per_sale: 165.52
 cart_conversion_pct: 6
 cancel_rate_pct: 7.36
 categories: ["Food Supplements"]
 listed_since: "2024-03-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://nanodefensepro24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47421/adminstore/"
 sales_page: "https://nanodefensepro24.com/text.php"
 language: "en"
 ---
 # NanoDefense Pro
 
 > Product ID `47421` · Digistore24 productId `541800` · [HTML profile page](../../reviews/nanodefense-pro-47421.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $200.63 (Single payment) |
+| Price | $200.18 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $165.89 |
+| Earnings/sale* | $165.52 |
 | Cart conversion* | 6% |
 | Cancel rate* | 7.36% |
 | Vendor | NanoDefensePro |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DigiStore Welcomes NanoDefense Pro, The Space Station Nail Fungus Fighting Breakthrough. Powerful Pitch, Multiple Intros Available, 100% Backed By Science. Top Affs Are Scoring Up To $7 EPC.
+**Vendor's marketplace description:** <p>DigiStore Welcomes NanoDefense Pro, The Space Station Nail Fungus Fighting Breakthrough. Powerful Pitch, Multiple Intros Available, 100% Backed By Science.</p>
+<p>Top Affs Are Scoring Up To $7 EPC.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://nanodefensepro24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47421/adminstore/
 - Sales page: https://nanodefensepro24.com/text.php
 - Vendor affiliate support: http://nanodefensepro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/541800/adminstore
@@ -92,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: NanoDefensePro, listed since 2024-03-04
-- How much? — 200.632224 USD
+- How much? — 200.184624 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

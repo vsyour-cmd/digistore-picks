@@ -4,16 +4,16 @@ digistore24_product_id: 292043
 title: "Keto Desserts - High Converting Keto Desserts Offer"
 vendor: "raposo1"
 product_type: "Book (printed)"
-price: 17.47
+price: 17.43
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 5.07
+earnings_per_sale: 5.05
 cart_conversion_pct: 4
 cancel_rate_pct: 1.76
 categories: ["Health & Fitness"]
 listed_since: "2019-10-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.ketoafter50desserts.com/digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.ketoafter50desserts.com/digi/"
@@ -22,16 +22,16 @@ language: "en"
 # Keto Desserts - High Converting Keto Desserts Offer
 
 > Product ID `31478` · Digistore24 productId `292043` · [HTML profile page](../../reviews/keto-desserts-high-converting-keto-desserts-offer-31478.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $17.47 (Single payment) |
+| Price | $17.43 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $5.07 |
+| Earnings/sale* | $5.05 |
 | Cart conversion* | 4% |
 | Cancel rate* | 1.76% |
 | Vendor | raposo1 |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** - INSANELY High AOV's - HIGH Converting Keto After 50 Desserts Offer - JAW DROPPING EPC's Simply put, Keto After 50 Desserts is the #1 choice for Desserts traffic or even health traffic.
+**Vendor's marketplace description:** <p>- INSANELY High AOV's</p>
+<p>- HIGH Converting Keto After 50 Desserts Offer</p>
+<p>- JAW DROPPING EPC's</p>
+<p> </p>
+<p>Simply put, Keto After 50 Desserts is the #1 choice for Desserts traffic or even health traffic.</p>
 
 ## 2. Links
 
@@ -86,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: raposo1, listed since 2019-10-24
-- How much? — 17.470154 USD
+- How much? — 17.431179 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

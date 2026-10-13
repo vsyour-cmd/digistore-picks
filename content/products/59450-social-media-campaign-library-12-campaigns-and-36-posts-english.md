@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Online Marketing"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735469?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735469"
@@ -22,7 +22,7 @@ language: "en"
 # Social Media Campaign Library - 12 Campaigns and 36 Posts (English)
 
 > Product ID `59450` · Digistore24 productId `735469` · [HTML profile page](../../reviews/social-media-campaign-library-12-campaigns-and-36-posts-english-59450.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Social Media Campaign Library - 12 Campaigns and 36 Posts (English) For solo businesses looking for adaptable campaign examples. 12 campaigns and 36 complete post drafts with hooks, media directions, captions, calls to action and checks; PDF, DOCX, Markdown and CSV. Fictional examples require adaptation. No finished images, videos or automatic posting. Written self-study download in English. No vi…
+**Vendor's marketplace description:** <p>Social Media Campaign Library - 12 Campaigns and 36 Posts (English)</p>
+<p>For solo businesses looking for adaptable campaign examples.</p>
+<p>12 campaigns and 36 complete post drafts with hooks, media directions, captions, calls to action and checks; PDF, DOCX, Markdown and CSV.</p>
+<p>Fictional examples require adaptation. No finished images, videos or automatic posting.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$19.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

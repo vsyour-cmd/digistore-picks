@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://berryoperatingsystems.my.canva.site/teacher-hub?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60063/adminstore/"
 sales_page: "https://berryoperatingsystems.my.canva.site/teacher-hub"
 language: "en"
 ---
 # Teacher Hub: All-in-One Teacher Planner App
 
 > Product ID `60063` · Digistore24 productId `736454` · [HTML profile page](../../reviews/teacher-hub-all-in-one-teacher-planner-app-60063.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Keep class schedules, lesson plans, assignments, student information, attendance, deadlines, and classroom resources organized in one place. BerryOS Teacher Hub helps teachers plan instruction, manage daily classroom work, and stay on top of their tasks. The digital hub includes teacher tools and printable resources.
+**Vendor's marketplace description:** <p>Keep class schedules, lesson plans, assignments, student information, attendance, deadlines, and classroom resources organized in one place. BerryOS Teacher Hub helps teachers plan instruction, manage daily classroom work, and stay on top of their tasks. The digital hub includes teacher tools and printable resources.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/teacher-hub?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60063/adminstore/
 - Sales page: https://berryoperatingsystems.my.canva.site/teacher-hub
 - Canonical redirect: https://www.digistore24.com/redir/736454/adminstore
 

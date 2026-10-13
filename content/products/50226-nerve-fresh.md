@@ -4,16 +4,16 @@ digistore24_product_id: 575363
 title: "Nerve Fresh"
 vendor: "premvitality"
 product_type: "Supplements - health"
-price: 181.48
+price: 181.08
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 110.08
+earnings_per_sale: 109.83
 cart_conversion_pct: 10
 cancel_rate_pct: 14.07
 categories: ["Food Supplements"]
 listed_since: "2024-10-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://secure.nervefresh.com/index-nf-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://secure.nervefresh.com/index-nf-ds"
@@ -22,16 +22,16 @@ language: "en"
 # Nerve Fresh
 
 > Product ID `50226` · Digistore24 productId `575363` · [HTML profile page](../../reviews/nerve-fresh-50226.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $181.48 (Single payment) |
+| Price | $181.08 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $110.08 |
+| Earnings/sale* | $109.83 |
 | Cart conversion* | 10% |
 | Cancel rate* | 14.07% |
 | Vendor | premvitality |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEW TOP CONVERTING DISCOMFORT RELIEF PRODUCT FOR 2024: Works on ALL types of health traffic. Unique formulation super low refund rate. 220 AOV-Top emailers in space mail regularly.
+**Vendor's marketplace description:** <p>NEW TOP CONVERTING DISCOMFORT RELIEF PRODUCT FOR 2024: Works on ALL types of health traffic. Unique formulation super low refund rate. 220 AOV-Top emailers in space mail regularly.</p>
 
 ## 2. Links
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: premvitality, listed since 2024-10-15
-- How much? — 181.48117 USD
+- How much? — 181.07629500000002 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

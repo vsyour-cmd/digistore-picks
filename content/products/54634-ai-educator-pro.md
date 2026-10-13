@@ -4,16 +4,16 @@ digistore24_product_id: 647496
 title: "AI Educator Pro"
 vendor: "TopCourseCreator"
 product_type: "Member area and video courses"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.13
+earnings_per_sale: 15.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-11-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/AI-educator-pro-DS?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/AI-educator-pro-DS"
@@ -22,16 +22,16 @@ language: "en"
 # AI Educator Pro
 
 > Product ID `54634` · Digistore24 productId `647496` · [HTML profile page](../../reviews/ai-educator-pro-54634.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.13 |
+| Earnings/sale* | $15.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TopCourseCreator |
@@ -41,7 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** AI Educator Pro teaches you the exact system for creating 10x more video content in 90% less time using AKOOL AI tools. Get practical video lectures covering Face Swap for viral content, AI Avatar for automated delivery, Video Translation for global expansion, and much more. Complete Package Includes: ✓ All 20 video lectures in 5 focused modules ✓ Up to $50 - $90 in credits to start immediately wi…
+**Vendor's marketplace description:** <p><strong>AI Educator Pro</strong> teaches you the exact system for creating 10x more video content in 90% less time using AKOOL AI tools.</p>
+<p>Get practical video lectures covering Face Swap for viral content, AI Avatar for automated delivery, Video Translation for global expansion, and much more.</p>
+<h2>Complete Package Includes:</h2>
+<p>✓ All 20 video lectures in 5 focused modules</p>
+<p>✓ Up to $50 - $90 in credits to start immediately with premium AKOOL tools (for 2 types of students)</p>
+<p>✓ 3 additional courses worth over $200</p>
+<p>✓ 12-week Scaling Sprint implementation roadmap</p>
+<p>✓ ROI calculation worksheets</p>
+<p>✓ Step-by-step action plans for each tool</p>
+<p>✓ Private community access for support</p>
 
 ## 2. Links
 
@@ -94,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: TopCourseCreator, listed since 2025-11-11
-- How much? — 30.2562 USD
+- How much? — 30.188700000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

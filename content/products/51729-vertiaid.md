@@ -4,34 +4,34 @@ digistore24_product_id: 601639
 title: "Vertiaid"
 vendor: "Vertiaid"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.26
+earnings_per_sale: 50.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-03-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://thevertiaid24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51729/adminstore/"
 sales_page: "http://thevertiaid24.com/text.php"
 language: "en"
 ---
 # Vertiaid
 
 > Product ID `51729` · Digistore24 productId `601639` · [HTML profile page](../../reviews/vertiaid-51729.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.26 |
+| Earnings/sale* | $50.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Vertiaid |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hit it Big In A Super Hot Niche! This Original Vertigo Formula Converts Massively On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 EPC.
+**Vendor's marketplace description:** <p>Hit it Big In A Super Hot Niche! This Original Vertigo Formula Converts Massively On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 EPC.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://thevertiaid24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51729/adminstore/
 - Sales page: http://thevertiaid24.com/text.php
 - Vendor affiliate support: https://vertiaid24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/601639/adminstore
@@ -89,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Vertiaid, listed since 2025-03-14
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

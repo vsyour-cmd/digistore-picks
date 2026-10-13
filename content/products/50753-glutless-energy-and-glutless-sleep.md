@@ -4,34 +4,34 @@ digistore24_product_id: 585011
 title: "GlutLess Energy And GlutLess Sleep"
 vendor: "FallonQ"
 product_type: "Supplements - health"
-price: 154.64
+price: 154.3
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 100.52
+earnings_per_sale: 100.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-12-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://tryglutless.com/home-dgs/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50753/adminstore/"
 sales_page: "https://tryglutless.com/home-dgs/"
 language: "en"
 ---
 # GlutLess Energy And GlutLess Sleep
 
 > Product ID `50753` · Digistore24 productId `585011` · [HTML profile page](../../reviews/glutless-energy-and-glutless-sleep-50753.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $154.64 (Single payment) |
+| Price | $154.30 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $100.52 |
+| Earnings/sale* | $100.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FallonQ |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Earn 65% commission with hyper-conversions and BIG EPCs! The first 24/7 appetite control and digestive support supplements: GlutLess Energy boosts daytime metabolism and curbs cravings, while GlutLess Sleep enhances overnight digestion. A game-changing combo for your audience!
+**Vendor's marketplace description:** <p>Earn <strong>65% commission</strong> with hyper-conversions and BIG EPCs!</p>
+<p>The first 24/7 appetite control and digestive support supplements: GlutLess Energy boosts daytime metabolism and curbs cravings, while GlutLess Sleep enhances overnight digestion.</p>
+<p><strong>A game-changing combo for your audience!</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://tryglutless.com/home-dgs/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50753/adminstore/
 - Sales page: https://tryglutless.com/home-dgs/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/glutless-energy-and-glutless-sleep
 - Canonical redirect: https://www.digistore24.com/redir/585011/adminstore
@@ -73,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: FallonQ, listed since 2024-12-09
-- How much? — 154.6428 USD
+- How much? — 154.29780000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

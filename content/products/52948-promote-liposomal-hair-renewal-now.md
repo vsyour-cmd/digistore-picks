@@ -4,16 +4,16 @@ digistore24_product_id: 611728
 title: "Promote Liposomal Hair Renewal Now!"
 vendor: "puralityhealth"
 product_type: "Supplements - health"
-price: 60.46
+price: 60.32
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 30.23
+earnings_per_sale: 30.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-05-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://renewyourhair.com/ds24c/?aff=adminstore#aff=adminstore"
 sales_page: "https://renewyourhair.com/ds24c/"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Liposomal Hair Renewal Now!
 
 > Product ID `52948` · Digistore24 productId `611728` · [HTML profile page](../../reviews/promote-liposomal-hair-renewal-now-52948.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $60.46 (Single payment) |
+| Price | $60.32 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $30.23 |
+| Earnings/sale* | $30.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | puralityhealth |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This new product is truly one-of-a-kind! Promote the #1 Hair Regrowth Offer – Clinically Proven & High-Converting! Purality Health Micelle Liposomal Hair RenewalEarn 50% through the entire funnel – upsells included! This new product is truly one-of-a-kind!We harnessed the Swiss ingredient AnaGain™ Nu [9 global patents and has won over 35 awards, including the Winner of the 2014 Beyond Beauty “Adva…
+**Vendor's marketplace description:** <div>
+<p><strong>This new product is truly one-of-a-kind!</strong></p>
+</div>
+<h2><strong>Promote the #1 Hair Regrowth Offer – Clinically Proven &amp; High-Converting! </strong></h2>
+<div>
+<p>Purality Health Micelle Liposomal Hair RenewalEarn 50% through the entire funnel – upsells included! This new product is truly one-of-a-kind!<br /><br />We harnessed the Swiss ingredient AnaGain™ Nu [9 global patents and has won over 35 awards, including the Winner of the 2014 Beyond Beauty “Advanced Ingredient Award”]<br /><br /><strong>This Secret Swiss Compound Can Unlock NEW Hair Growth, 78% increase in just 8 weeks!</strong><br /><br />This Swiss ingredient, using our Unique Liposomal Technology brings you one of the most delicious and PROVEN hair supplements on the MARKET!<br /><br />The world’s only AnaGain™ Nu supplement that comes in our PATENTED PUREDOSE® MICELLE LIPOSOMAL FORMULA.<br /><br /><strong>Affiliates are seeing conversion rates as high as 6.50%!</strong></p>
+</div>
 
 ## 2. Links
 
@@ -88,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: puralityhealth, listed since 2025-05-09
-- How much? — 60.45637000000001 USD
+- How much? — 60.321495000000006 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

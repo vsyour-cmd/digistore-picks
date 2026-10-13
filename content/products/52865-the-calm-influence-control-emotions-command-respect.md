@@ -4,34 +4,34 @@ digistore24_product_id: 615324
 title: "The Calm Influence – Control Emotions, Command Respect"
 vendor: "thecalminfluence"
 product_type: "E-books"
-price: 16.81
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 10.09
+earnings_per_sale: 10.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Personal Development"]
 listed_since: "2025-05-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/615324?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52865/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/615324"
 language: "en"
 ---
 # The Calm Influence – Control Emotions, Command Respect
 
 > Product ID `52865` · Digistore24 productId `615324` · [HTML profile page](../../reviews/the-calm-influence-control-emotions-command-respect-52865.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.81 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $10.09 |
+| Earnings/sale* | $10.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | thecalminfluence |
@@ -41,11 +41,43 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Calm Influence Playbook is a powerful digital guide designed for teens and young adults who want to: Stay calm, confident, and in control without changing who they are Manage emotional overwhelm with practical tools Respond (not react) in tough situations Strengthen relationships without raising their voice Lead with quiet strength at home, school, or anywhere Why affiliates love promoting thi…
+**Vendor's marketplace description:** <p><strong>The Calm Influence Playbook</strong> is a powerful digital guide designed for teens and young adults who want to:</p>
+<ul>
+<li>
+<p>Stay calm, confident, and in control without changing who they are</p>
+</li>
+<li>
+<p>Manage emotional overwhelm with practical tools</p>
+</li>
+<li>
+<p>Respond (not react) in tough situations</p>
+</li>
+<li>
+<p>Strengthen relationships without raising their voice</p>
+</li>
+<li>
+<p>Lead with quiet strength at home, school, or anywhere</p>
+</li>
+</ul>
+<p><strong>Why affiliates love promoting this product:</strong></p>
+<ul>
+<li>
+<p>Fresh, high-demand niche: emotional intelligence for youth</p>
+</li>
+<li>
+<p>Simple, clear product — no fluff, just actionable strategies</p>
+</li>
+<li>
+<p>60-day money-back guarantee increases conversion confidence</p>
+</li>
+<li>
+<p>Attractive commissions, no physical shipping, instant access</p>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/615324?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52865/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/615324
 - Canonical redirect: https://www.digistore24.com/redir/615324/adminstore
 
@@ -75,7 +107,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: thecalminfluence, listed since 2025-05-28
-- How much? — 16.809 USD
+- How much? — 16.771500000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -2,6 +2,17 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-13b",
+      "summary": "Marketplace data fully refreshed after re-login (snapshot 2026-10-13; the freeze since 10-10 is over). Every product's promo link is now the official platform-generated link fetched from the Digistore24 content-link API — replacing all derived vendor-domain deep links, which had been silently rotting whenever vendors changed their funnels (the exact failure mode behind 18 vendor notifications received this week). 18 notifications parsed and confirmed; 24 affected products were delisted and their pages pruned. Daily snapshots resumed for the price tracker.",
+      "changes": [
+        "data refresh: full EN (1255) + DE (4263) marketplace re-scrape after session re-login; freshness guard satisfied",
+        "promo links: 619 EN + 2,203 DE official platform links now live (products the platform issues links for); remaining offers keep the derived fallback",
+        "18 vendor promolink-change notifications parsed into promo-updates.json and confirmed read in the affiliate account",
+        "prune: 85 stale pages from delisted products removed",
+        "daily snapshots resumed (2026-10-13) — price-watch.html now diffs real day-over-day marketplace movement"
+      ]
+    },
+    {
       "date": "2026-10-13",
       "summary": "Content overhaul: every category now has a 50-question buyer FAQ hub (each answer computed from that category's own marketplace numbers), product pages gained a Reddit community section (~5 links: real subreddits plus live searches, curated buyer questions on featured offers) and a sponsored Amazon section (Associate tag adminstore05-20). New page: /amazon-picks.html with editor picks and category search shortcuts. Marketplace data remains frozen at the 2026-10-10 snapshot pending re-login; a freshness guard now fails the build loudly if the scrape output is older than 26h.",
       "changes": [

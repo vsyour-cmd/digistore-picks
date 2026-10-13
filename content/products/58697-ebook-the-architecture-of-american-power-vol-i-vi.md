@@ -4,34 +4,34 @@ digistore24_product_id: 726667
 title: "Ebook - The Architecture of American Power Vol I-VI"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Law & Justice","Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/726667?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58697/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726667"
 language: "en"
 ---
 # Ebook - The Architecture of American Power Vol I-VI
 
 > Product ID `58697` · Digistore24 productId `726667` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-i-vi-58697.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,48 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW DOES AMERICAN POWER ACTUALLY WORK? The Architecture of American Power is a comprehensive six-volume series examining the United States not simply as a superpower, but as an interconnected system of political, economic, military, technological, institutional, and global capabilities. The series follows a unique analytical progression: where American power originates, how it is exercised, the in…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>HOW DOES AMERICAN POWER ACTUALLY WORK?</strong></p>
+<p><em>The Architecture of American Power</em> is a comprehensive six-volume series examining the United States not simply as a superpower, but as an interconnected system of political, economic, military, technological, institutional, and global capabilities.</p>
+<p>The series follows a unique analytical progression: <strong>where American power originates, how it is exercised, the international order in which it operates, which strategic capabilities sustain it, how those capabilities combine into a global power architecture, and how that architecture is changing.</strong></p>
+<p><strong>Unlike many established works that focus on individual presidents, wars, institutions, or isolated instruments of US power, this series examines how the different components interact as one integrated system.</strong> It moves beyond simply cataloging American strengths to explain how capabilities are converted into strategic influence—and where dependencies, constraints, competitors, and structural change limit that power.</p>
+<p>Its distinctive strength is therefore the <strong>integration of multiple dimensions of power into a single analytical architecture</strong>. Readers can follow the complete chain from domestic political foundations and strategic instruments to global order, integrated capabilities, worldwide power projection, and the pressures reshaping the system itself.</p>
+<p>For affiliates, <em>The Architecture of American Power</em> offers a clearly differentiated six-volume product for audiences interested in <strong>the United States, geopolitics, military power, economic influence, technology, global institutions, strategic competition, American primacy, and the future of US power</strong>—built around one fundamental question: <strong>How does America transform its many sources of strength into global power, and how sustainable is that architecture in a changing world?</strong></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726667?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58697/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726667
 - Canonical redirect: https://www.digistore24.com/redir/726667/adminstore
 
@@ -90,7 +127,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

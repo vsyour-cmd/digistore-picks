@@ -4,34 +4,34 @@ digistore24_product_id: 598530
 title: "Heart Harmonics"
 vendor: "astral43"
 product_type: "Downloads"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 22.69
+earnings_per_sale: 22.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2025-02-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://astralhq.com/ds-heartharmonics/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51625/adminstore/"
 sales_page: "https://astralhq.com/ds-heartharmonics/"
 language: "en"
 ---
 # Heart Harmonics
 
 > Product ID `51625` · Digistore24 productId `598530` · [HTML profile page](../../reviews/heart-harmonics-51625.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $22.69 |
+| Earnings/sale* | $22.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | astral43 |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Heart Harmonics is a unique love manifestation offer, based on solfeggio frequencies and sound. Created by a proven vendor who has done over $2M in sales across their other offers. Send a test today!
+**Vendor's marketplace description:** <p>Heart Harmonics is a unique love manifestation offer, based on solfeggio frequencies and sound. Created by a proven vendor who has done over $2M in sales across their other offers. Send a test today!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://astralhq.com/ds-heartharmonics/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51625/adminstore/
 - Sales page: https://astralhq.com/ds-heartharmonics/
 - Vendor affiliate support: https://astralhq.com/ds-heartharmonics-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/598530/adminstore
@@ -86,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: astral43, listed since 2025-02-25
-- How much? — 30.2562 USD
+- How much? — 30.188700000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

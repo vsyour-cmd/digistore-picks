@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2023-06-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.thestockpilesavior.com/vsl/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thestockpilesavior.com/vsl/index.php"
@@ -22,7 +22,7 @@ language: "en"
 # Brand NEW Compliant Survival Offer
 
 > Product ID `44624` · Digistore24 productId `502394` · [HTML profile page](../../reviews/brand-new-compliant-survival-offer-44624.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Brand NEW Compliant Survival Offer from the creators of David's Shield. Insane conversion rates - works on ANY list! Put it to test and enjoy 75% commissions on both front-end and back end - bank up to $119.25.
+**Vendor's marketplace description:** <p><strong>Brand NEW Compliant Survival Offer</strong> from the creators of <strong>David's Shield</strong>.</p>
+<p><strong> Insane conversion rates - works on ANY list!</strong></p>
+<p>Put it to test and enjoy 75% commissions on both front-end and back end - bank up to $119.25.</p>
 
 ## 2. Links
 

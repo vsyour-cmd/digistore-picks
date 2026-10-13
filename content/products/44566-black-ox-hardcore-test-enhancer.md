@@ -4,16 +4,16 @@ digistore24_product_id: 502452
 title: "Black Ox - Hardcore Test Enhancer"
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 319.33
+price: 318.61
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 191.6
+earnings_per_sale: 191.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-06-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/502452?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/502452"
@@ -22,16 +22,16 @@ language: "en"
 # Black Ox - Hardcore Test Enhancer
 
 > Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](../../reviews/black-ox-hardcore-test-enhancer-44566.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $319.33 (Single payment) |
+| Price | $318.61 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $191.60 |
+| Earnings/sale* | $191.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Experience Black Ox, the tried-and-true testosterone booster designed to target the most effective natural pathways, improving a wide range of men's health aspects from libido and performance to muscle building and beyond. Hundreds, if not thousands, of today's top bodybuilders and industry elites rely on Black Ox as their primary testosterone-boosting supplement for peak vitality and strength.
+**Vendor's marketplace description:** <p>Experience Black Ox, the tried-and-true testosterone booster designed to target the most effective natural pathways, improving a wide range of men's health aspects from libido and performance to muscle building and beyond. <br /><br />Hundreds, if not thousands, of today's top bodybuilders and industry elites rely on Black Ox as their primary testosterone-boosting supplement for peak vitality and strength.</p>
 
 ## 2. Links
 
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2023-06-09
-- How much? — 319.326176 USD
+- How much? — 318.61377600000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

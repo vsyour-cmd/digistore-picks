@@ -4,16 +4,16 @@ digistore24_product_id: 551528
 title: "Home Workout Bible - Dominate Home Fitness - Huge $$$$$"
 vendor: "emrkts"
 product_type: "E-books"
-price: 19.05
+price: 19.01
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 13.34
+earnings_per_sale: 13.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-05-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://yourhomeworkout.com/bible/?aff=adminstore#aff=adminstore"
 sales_page: "https://yourhomeworkout.com/bible/"
@@ -22,16 +22,16 @@ language: "en"
 # Home Workout Bible - Dominate Home Fitness - Huge $$$$$
 
 > Product ID `48136` · Digistore24 productId `551528` · [HTML profile page](../../reviews/home-workout-bible-dominate-home-fitness-huge-48136.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.05 (Single payment) |
+| Price | $19.01 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $13.34 |
+| Earnings/sale* | $13.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | emrkts |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Customers love this Science-Based Approach For Home Workout. Get on board with this High converting fitness offer. Try it you won't regret it.
+**Vendor's marketplace description:** <p>Customers love this Science-Based Approach For Home Workout. Get on board with this High converting fitness offer.</p>
+<p> </p>
+<p>Try it you won't regret it.</p>
 
 ## 2. Links
 
@@ -87,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: emrkts, listed since 2024-05-08
-- How much? — 19.0502 USD
+- How much? — 19.0077 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

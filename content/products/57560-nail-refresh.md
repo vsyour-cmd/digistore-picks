@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://secure.nailrefresh.com/index-bp-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://secure.nailrefresh.com/index-bp-ds"
@@ -22,7 +22,7 @@ language: "en"
 # Nail Refresh
 
 > Product ID `57560` · Digistore24 productId `708127` · [HTML profile page](../../reviews/nail-refresh-57560.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,46 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Highest payouts in the industry Amazing affiliate support ​Tons of banners, email swipes, and other resources ​Low Refund Rate Mobile and Tablet Optimized Site Funnel customizations available Sales domestically and internationally ​Top Tier VSL Production
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<ul>
+<li>
+<p><strong>Highest payouts in the industry</strong></p>
+</li>
+<li>
+<p><strong>Amazing affiliate support</strong></p>
+</li>
+<li>
+<p><strong>​Tons of banners, email swipes, and other resources<br /></strong></p>
+</li>
+<li>
+<p><strong>​Low Refund Rate<br /></strong></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div>
+<div>
+<div>
+<ul>
+<li>
+<p><strong>Mobile and Tablet Optimized Site</strong></p>
+</li>
+<li>
+<p><strong>Funnel customizations available</strong></p>
+</li>
+<li>
+<p><strong>Sales domestically and internationally</strong></p>
+</li>
+<li>
+<p><strong>​Top Tier VSL Production</strong></p>
+</li>
+</ul>
+</div>
+</div>
+</div>
 
 ## 2. Links
 

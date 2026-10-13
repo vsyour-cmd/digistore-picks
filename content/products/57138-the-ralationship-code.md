@@ -4,16 +4,16 @@ digistore24_product_id: 698941
 title: "The Ralationship Code"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.13
+earnings_per_sale: 15.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.sexualitycode.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sexualitycode.com/"
@@ -22,16 +22,16 @@ language: "en"
 # The Ralationship Code
 
 > Product ID `57138` · Digistore24 productId `698941` · [HTML profile page](../../reviews/the-ralationship-code-57138.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.13 |
+| Earnings/sale* | $15.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Why do so many relationships fail despite love? ? “Relationship Code – The language behind real connection” helps you finally understand emotional patterns, fear of loss, communication and real closeness. ❤️ ? In this guide you will find out:✔ why relationships fail or grow✔ how emotional security is created✔ how to better understand conflicts✔ why self-esteem is so important✔ and how real connect…
+**Vendor's marketplace description:** <p>Why do so many relationships fail despite love? ?</p>
+<p>“Relationship Code – The language behind real connection” helps you finally understand emotional patterns, fear of loss, communication and real closeness. ❤️</p>
+<p>? In this guide you will find out:<br />✔ why relationships fail or grow<br />✔ how emotional security is created<br />✔ how to better understand conflicts<br />✔ why self-esteem is so important<br />✔ and how real connection is built</p>
+<p>For everyone who wants to love more consciously and truly understand relationships. ✨</p>
 
 ## 2. Links
 
@@ -91,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: medienversand2014, listed since 2026-06-26
-- How much? — 30.2562 USD
+- How much? — 30.188700000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

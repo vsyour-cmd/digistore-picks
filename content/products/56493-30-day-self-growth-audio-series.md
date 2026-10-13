@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Personal Development"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.alm3rfa.xyz/journal-voice/sale?aff=adminstore#aff=adminstore"
+promo_link: "http://ruediger-dahlke.net/webinare-2015-2#aff=adminstore"
 sales_page: "https://www.alm3rfa.xyz/journal-voice/sale"
 language: "en"
 ---
 # 30-Day Self‑Growth Audio Series
 
 > Product ID `56493` · Digistore24 productId `688501` · [HTML profile page](../../reviews/30-day-self-growth-audio-series-56493.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Short, high-impact audio lessons to build better habits, master your mindset, and grow every day — without fluff.
+**Vendor's marketplace description:** <p>Short, high-impact audio lessons to build better habits, master your mindset, and grow every day — without fluff.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.alm3rfa.xyz/journal-voice/sale?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** http://ruediger-dahlke.net/webinare-2015-2#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/journal-voice/sale
 - Canonical redirect: https://www.digistore24.com/redir/688501/adminstore
 

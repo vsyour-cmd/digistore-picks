@@ -4,16 +4,16 @@ digistore24_product_id: 438236
 title: "Secret Millionaire Bot"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 19.05
+price: 19.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.53
+earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-04-09"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://smbotz.com/digi?aff=adminstore#aff=adminstore"
 sales_page: "https://smbotz.com/digi"
@@ -22,16 +22,16 @@ language: "en"
 # Secret Millionaire Bot
 
 > Product ID `40006` · Digistore24 productId `438236` · [HTML profile page](../../reviews/secret-millionaire-bot-40006.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $19.05 (Single payment) |
+| Price | $19.01 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.53 |
+| Earnings/sale* | $9.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | impassive |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** #1 MAKE MONEY ONLINE OFFER! Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $500/Sale. Only $17 front end for massive commissions. Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche. Test 300-500 clicks and be surprised!
+**Vendor's marketplace description:** <h4><span style="background-color:#ffff00;"><strong>#1 MAKE MONEY ONLINE OFFER!</strong></span></h4>
+<p>Top Converting Offer that converts all types of traffic - Biz Opp, Personal Development, IM, MMO like nuts. Make Up To $500/Sale.</p>
+<p><span style="background-color:#ffff00;"><strong>Only $17 front end for massive commissions.</strong></span></p>
+<p>Offer created by a vendor with $15M of online sales selling digital info products in the MMO niche.</p>
+<p><span style="background-color:#ffff00;"><strong>Test 300-500 clicks and be surprised!</strong></span></p>
 
 ## 2. Links
 
@@ -68,7 +72,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2022-04-09
-- How much? — 19.0502 USD
+- How much? — 19.0077 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

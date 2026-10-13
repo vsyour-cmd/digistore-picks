@@ -4,34 +4,34 @@ digistore24_product_id: 726710
 title: "Ebook - The Architecture of American Power Vol VI"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 14.56
+price: 14.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 7.28
+earnings_per_sale: 7.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/726710?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58703/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/726710"
 language: "en"
 ---
 # Ebook - The Architecture of American Power Vol VI
 
 > Product ID `58703` · Digistore24 productId `726710` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-vi-58703.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.56 (Single payment) |
+| Price | $14.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $7.28 |
+| Earnings/sale* | $7.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -41,11 +41,31 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HOW WILL AMERICAN POWER EVOLVE IN A CHANGING WORLD? The Architecture of American Power – Volume VI moves beyond snapshots of current strength to examine power as a trajectory through time—shaped by accumulated advantages, vulnerabilities, adaptation, and structural change. What sets this book apart is that it does not predict one fixed future. Instead, it analyzes how technology, resources, infras…
+**Vendor's marketplace description:** <div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p><strong>HOW WILL AMERICAN POWER EVOLVE IN A CHANGING WORLD?</strong></p>
+<p><em>The Architecture of American Power – Volume VI</em> moves beyond snapshots of current strength to examine power as a <strong>trajectory through time</strong>—shaped by accumulated advantages, vulnerabilities, adaptation, and structural change.</p>
+<p>What sets this book apart is that it <strong>does not predict one fixed future</strong>. Instead, it analyzes how technology, resources, infrastructure, competition with China, multipolarity, strategic shocks, and different rates of adaptation can reshape American power.</p>
+<p>Readers gain a framework for understanding when established power can persist, adapt, erode, or fundamentally transform.</p>
+<p>For affiliates, this creates a distinctive product for audiences interested in geopolitics, U.S.–China competition, multipolarity, strategic forecasting, and the future global balance of power.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726710?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58703/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/726710
 - Canonical redirect: https://www.digistore24.com/redir/726710/adminstore
 
@@ -83,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 14.556594 USD
+- How much? — 14.524119 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

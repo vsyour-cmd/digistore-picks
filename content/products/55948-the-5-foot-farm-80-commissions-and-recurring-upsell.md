@@ -4,16 +4,16 @@ digistore24_product_id: 584032
 title: "The 5 Foot Farm: 80% Commissions and Recurring Upsell"
 vendor: "FiveFootFarm"
 product_type: "E-books"
-price: 57.85
+price: 57.72
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.47
+earnings_per_sale: 16.44
 cart_conversion_pct: 12
 cancel_rate_pct: 9.29
 categories: ["Survival"]
 listed_since: "2024-12-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://cf.5footfarm.com/vsl-v1-live-h3jk4-e4f19-fp-nv?aff=adminstore#aff=adminstore"
 sales_page: "https://cf.5footfarm.com/vsl-v1-live-h3jk4-e4f19-fp-nv"
@@ -22,16 +22,16 @@ language: "en"
 # The 5 Foot Farm: 80% Commissions and Recurring Upsell
 
 > Product ID `55948` · Digistore24 productId `584032` · [HTML profile page](../../reviews/the-5-foot-farm-80-commissions-and-recurring-upsell-55948.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $57.85 (Single payment) |
+| Price | $57.72 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.47 |
+| Earnings/sale* | $16.44 |
 | Cart conversion* | 12% |
 | Cancel rate* | 9.29% |
 | Vendor | FiveFootFarm |
@@ -41,7 +41,39 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 80% Commissions on all one-time transactions throughout entire funnel. And 40% lifetime recurring commissions for membership upsells! Go here to get your UNIQUE link (Recommended!) https://cf.5footfarm.com/affiliates Created by a 26-year $9figures online marketing legend. Target Audiences: ​-Survival ​-Preppers ​-Homesteading ​-Gardening ​-And even the broad general audience that's wants to save m…
+**Vendor's marketplace description:** <p>80% Commissions on all one-time transactions throughout entire funnel.</p>
+<p> </p>
+<p>And 40% lifetime recurring commissions for membership upsells!</p>
+<p> </p>
+<p>Go here to get your UNIQUE link (Recommended!)</p>
+<p> </p>
+<p><a href="https://cf.5footfarm.com/affiliates">https://cf.5footfarm.com/affiliates</a></p>
+<p> </p>
+<p>Created by a 26-year $9figures online marketing legend.</p>
+<p> </p>
+<p><strong>Target Audiences:</strong></p>
+<p>​-Survival</p>
+<p>​-Preppers</p>
+<p>​-Homesteading</p>
+<p>​-Gardening</p>
+<p>​-And even the broad general audience that's wants to save money on their grocery bills due to current food inflation.</p>
+<p> </p>
+<p>Hyper-conversions, BIG-TIME EPCs, evergreen product - this offer's broad audience is never saturated or fatigued!</p>
+<p> </p>
+<p>Tested on Meta, Instagram, Youtube, Google ads, NewsBreak, etc. with over $1mm adspend.</p>
+<p> </p>
+<p>Optimized to even convert between 4%-6% with broad audiences with no specific interests or lookalikes.</p>
+<p> </p>
+<p>Test your traffic &amp; watch the big EPC's roll in!</p>
+<p> </p>
+<p>Massive conversions on warm and cold email traffic.</p>
+<p> </p>
+<p>Vendor is also always interested in reciprocal joint ventures.</p>
+<p> </p>
+<p>Go here to get your UNIQUE link (Recommended!)</p>
+<p> </p>
+<p><a href="https://cf.5footfarm.com/affiliates">https://cf.5footfarm.com/affiliates</a></p>
+<p> </p>
 
 ## 2. Links
 
@@ -87,7 +119,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: FiveFootFarm, listed since 2024-12-03
-- How much? — 57.845372 USD
+- How much? — 57.716322000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 518192
 title: "Fast Lean Pro"
 vendor: "FastLeanPro"
 product_type: "Supplements - for slimming"
-price: 177.05
+price: 176.66
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 115.09
+earnings_per_sale: 114.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://fastleanpro24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://fastleanpro24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Fast Lean Pro
 
 > Product ID `45460` · Digistore24 productId `518192` · [HTML profile page](../../reviews/fast-lean-pro-45460.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $177.05 (Single payment) |
+| Price | $176.66 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $115.09 |
+| Earnings/sale* | $114.83 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FastLeanPro |
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fast Lean Pro: The Nobel "Fasting" FormulaThat Works Faster Than Keto VSL written by an A-list copywriter with hundreds of winners 4 intros to choose the right one for you Instant Commission Bump for volume and proven affs
+**Vendor's marketplace description:** <p><strong>Fast Lean Pro</strong>: The Nobel "Fasting" Formula<br />That Works Faster Than Keto</p>
+<ul>
+<li>VSL written by an A-list copywriter with hundreds of winners</li>
+<li>4 intros to choose the right one for you</li>
+<li>Instant Commission Bump for volume and proven affs</li>
+</ul>
 
 ## 2. Links
 
@@ -97,7 +102,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: FastLeanPro, listed since 2023-09-26
-- How much? — 177.0548 USD
+- How much? — 176.65980000000002 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

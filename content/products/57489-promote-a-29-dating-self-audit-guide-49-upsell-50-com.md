@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Personal Development"]
 listed_since: "2026-07-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://digitaldating.socialnestmarketing.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57489/adminstore/"
 sales_page: "https://digitaldating.socialnestmarketing.com"
 language: "en"
 ---
 # Promote a $29 dating self-audit guide + $49 upsell — 50% com
 
 > Product ID `57489` · Digistore24 productId `710265` · [HTML profile page](../../reviews/promote-a-29-dating-self-audit-guide-49-upsell-50-com-57489.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,20 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Digital Dating Profile Self-Audit Guide is a $29 psychology-backed PDF that helps singles fix their dating profile — photos, bio, prompts, and messaging — to attract better matches on Hinge, Bumble, and Tinder. It's a do-it-yourself guide (no service delivery, no support burden on you), backed by a 60-day money-back guarantee to keep refunds and disputes low. You earn 50% commission on the fro…
+**Vendor's marketplace description:** <p>The Digital Dating Profile Self-Audit Guide is a $29 psychology-backed PDF that helps singles fix their dating profile — photos, bio, prompts, and messaging — to attract better matches on Hinge, Bumble, and Tinder. It's a do-it-yourself guide (no service delivery, no support burden on you), backed by a 60-day money-back guarantee to keep refunds and disputes low.</p>
+<p>You earn <strong>50% commission on the front-end $29 guide AND the one-click $49 upsell</strong> (The Messaging Swipe File + Templates) — from the same link, automatically. That's up to ~$39 per buyer who takes both.</p>
+<p>Why it's easy to promote:</p>
+<ul>
+<li>Huge evergreen audience — anyone dating on the apps is a prospect.</li>
+<li>Clean, high-converting sales page with a built-in one-click upsell.</li>
+<li>A full affiliate resource center with <strong>40 ready-made ad graphics (every size), plug-and-play captions, email/DM swipes, and a link builder</strong> — grab it at digitaldating.socialnestmarketing.com/affiliate.</li>
+<li>Honest, refund-friendly positioning — no hype, no fake claims.</li>
+</ul>
+<p>Perfect for lists and audiences in dating, self-improvement, confidence, men's/women's lifestyle, and social-media coaching. Grab your link, drop it in your caption or bio, and start earning.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://digitaldating.socialnestmarketing.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57489/adminstore/
 - Sales page: https://digitaldating.socialnestmarketing.com
 - Vendor affiliate support: https://digitaldating.socialnestmarketing.com/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/710265/adminstore

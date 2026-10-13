@@ -4,34 +4,34 @@ digistore24_product_id: 614878
 title: "Oradentum"
 vendor: "oradentum"
 product_type: "Supplements - health"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.54
+earnings_per_sale: 57.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-05-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://getoradentum.cc/welcome/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52769/adminstore/"
 sales_page: "http://getoradentum.cc/welcome/"
 language: "en"
 ---
 # Oradentum
 
 > Product ID `52769` · Digistore24 productId `614878` · [HTML profile page](../../reviews/oradentum-52769.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.54 |
+| Earnings/sale* | $57.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | oradentum |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Introducing Oradentum - The ultimate 21-in-1 oral care solution, packed only with powerful, natural ingredients! This innovative formula is designed to offer superior dental rejuvenation and is sure to make everyone eager to try it!
+**Vendor's marketplace description:** <p>Introducing <strong>Oradentum </strong>- The ultimate 21-in-1 oral care solution, packed only with powerful, natural ingredients! This innovative formula is designed to offer superior dental rejuvenation and is sure to make everyone eager to try it!</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://getoradentum.cc/welcome/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52769/adminstore/
 - Sales page: http://getoradentum.cc/welcome/
 - Vendor affiliate support: https://getoradentum.cc/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/614878/adminstore
@@ -90,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: oradentum, listed since 2025-05-26
-- How much? — 88.5274 USD
+- How much? — 88.32990000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://diningwithjesus.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://diningwithjesus.my.canva.site/"
@@ -22,7 +22,7 @@ language: "en"
 # Promote "Dining With Jesus" | E-book | Easy Fun Sell!
 
 > Product ID `56648` · Digistore24 productId `689000` · [HTML profile page](../../reviews/promote-dining-with-jesus-e-book-easy-fun-sell-56648.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Dining With Jesus: Discover What the Bible Really Says About Food What if the Bible had more to say about your diet than you ever imagined?
+**Vendor's marketplace description:** <h2>Dining With Jesus: Discover What the Bible Really Says About Food</h2>
+<p>What if the Bible had more to say about your diet than you ever imagined?</p>
 
 ## 2. Links
 

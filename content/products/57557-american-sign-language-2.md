@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://americansignlanguage2-ev5.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57557/adminstore/"
 sales_page: "https://americansignlanguage2-ev5.plannerpack.co"
 language: "en"
 ---
 # American Sign Language 2
 
 > Product ID `57557` · Digistore24 productId `712357` · [HTML profile page](../../reviews/american-sign-language-2-57557.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://americansignlanguage2-ev5.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57557/adminstore/
 - Sales page: https://americansignlanguage2-ev5.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/712357/adminstore
 

@@ -4,34 +4,34 @@ digistore24_product_id: 547184
 title: "⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital"
 vendor: "hart89"
 product_type: "E-books"
-price: 11.21
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 9.53
+earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-04-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47757/adminstore/"
 sales_page: "https://www.free-ketorecipe.com/"
 language: "en"
 ---
 # ⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital
 
 > Product ID `47757` · Digistore24 productId `547184` · [HTML profile page](../../reviews/the-ultimate-keto-bundle-high-converting-offer-digital-47757.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.21 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $9.53 |
+| Earnings/sale* | $9.50 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hart89 |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ⭐⭐ The Hottest Keto Offer of The Year ⭐⭐ the ULTIMATE KETO BUNDLE. Tested on cold traffic... add this Brand New High Converting Keto Cookbook Offer to your promotions. Among the highest conversion rates. Several other cookbooks and nutritionals... email swipes ready for you. Digital copy, immediate download after purchase.
+**Vendor's marketplace description:** <h2>⭐⭐ <strong>The Hottest Keto</strong><strong> Offer of The Year</strong> ⭐⭐ </h2>
+<h2><em> the ULTIMATE KETO BUNDLE. </em></h2>
+<h3>Tested on cold traffic... add this Brand New High Converting  Keto Cookbook Offer to your promotions. Among the highest conversion rates. Several other cookbooks and nutritionals... email swipes ready for you.</h3>
+<h1><strong>Digital copy, immediate download after purchase.</strong></h1>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47757/adminstore/
 - Sales page: https://www.free-ketorecipe.com/
 - Canonical redirect: https://www.digistore24.com/redir/547184/adminstore
 
@@ -76,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: hart89, listed since 2024-04-08
-- How much? — 11.206 USD
+- How much? — 11.181000000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

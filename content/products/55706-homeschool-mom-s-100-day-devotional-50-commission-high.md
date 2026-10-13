@@ -4,16 +4,16 @@ digistore24_product_id: 669825
 title: "Homeschool Mom’s 100-Day Devotional - 50% Commission - High-"
 vendor: "BookCaperSelfPublishing"
 product_type: "E-books"
-price: 11.21
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.6
+earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Family & Children","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/669825?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/669825"
@@ -22,16 +22,16 @@ language: "en"
 # Homeschool Mom’s 100-Day Devotional - 50% Commission - High-
 
 > Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](../../reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.21 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.60 |
+| Earnings/sale* | $5.59 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BookCaperSelfPublishing |
@@ -41,7 +41,20 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Target a dedicated audience of homeschool educators with "Homeschool Mom’s Sacred Pause." This 100-day devotional is the perfect low-ticket offer ($10) for your Christian, parenting, or education-focused traffic. Why Promote This Book? 50% Commission: Earn a steady split on every sale. Niche Authority: Specifically designed for the unique stresses and joys of homeschooling. Easy Upsell: Perfect as…
+**Vendor's marketplace description:** <p>Target a dedicated audience of homeschool educators with "Homeschool Mom’s Sacred Pause." This 100-day devotional is the perfect low-ticket offer ($10) for your Christian, parenting, or education-focused traffic.</p>
+<p><strong>Why Promote This Book?</strong></p>
+<ul>
+<li>
+<p><strong>50% Commission:</strong> Earn a steady split on every sale.</p>
+</li>
+<li>
+<p><strong>Niche Authority:</strong> Specifically designed for the unique stresses and joys of homeschooling.</p>
+</li>
+<li>
+<p><strong>Easy Upsell:</strong> Perfect as a front-end offer for your email list or social media followers.</p>
+</li>
+</ul>
+<p>We welcome all affiliates in the family, education, and faith spaces!</p>
 
 ## 2. Links
 
@@ -75,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BookCaperSelfPublishing, listed since 2026-02-18
-- How much? — 11.206 USD
+- How much? — 11.181000000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

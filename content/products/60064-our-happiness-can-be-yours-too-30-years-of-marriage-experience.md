@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ourhappiness.4kidsmedia.store?aff=adminstore#aff=adminstore"
 sales_page: "https://ourhappiness.4kidsmedia.store"
@@ -22,7 +22,7 @@ language: "en"
 # Our Happiness Can Be Yours Too | 30 Years of Marriage Experience
 
 > Product ID `60064` · Digistore24 productId `732430` · [HTML profile page](../../reviews/our-happiness-can-be-yours-too-30-years-of-marriage-experience-60064.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Our Happiness Can Be Yours Too is an English digital marriage guide by Anna and Adam, drawing on 30 years of marriage. For audiences interested in long-term relationships, everyday communication and making more room for connection. The book is delivered as PDF and EPUB through Digistore24. Promote an honest, experience-led relationship guide without promises of guaranteed results. Please use your …
+**Vendor's marketplace description:** <p>Our Happiness Can Be Yours Too is an English digital marriage guide by Anna and Adam, drawing on 30 years of marriage.</p>
+<p>For audiences interested in long-term relationships, everyday communication and making more room for connection. The book is delivered as PDF and EPUB through Digistore24.</p>
+<p>Promote an honest, experience-led relationship guide without promises of guaranteed results. Please use your personal Digistore24 promotional link and clearly disclose your affiliate relationship. No misleading claims, spam or invented testimonials.</p>
+<p>Affiliate enquiries: kociko@gmx.at</p>
 
 ## 2. Links
 

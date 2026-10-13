@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://getquantumheart.com/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60241/adminstore/"
 sales_page: "https://getquantumheart.com/"
 language: "en"
 ---
 # Quantum Heart
 
 > Product ID `60241` · Digistore24 productId `740076` · [HTML profile page](../../reviews/quantum-heart-60241.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Quantum Heart is a physical, shippable aluminum pendant with three body-facing 650nm visible red-light LEDs and USB-C recharging. Customers can choose one pendant for $679 USD or the Couple Set of two for $1,149 USD. Affiliates receive 50% commission on eligible, properly attributed sales, subject to the applicable refund and chargeback rules. The customer offer includes a 60-day money-back guaran…
+**Vendor's marketplace description:** <p>Quantum Heart is a physical, shippable aluminum pendant with three body-facing 650nm visible red-light LEDs and USB-C recharging. Customers can choose one pendant for $679 USD or the Couple Set of two for $1,149 USD. Affiliates receive 50% commission on eligible, properly attributed sales, subject to the applicable refund and chargeback rules. The customer offer includes a 60-day money-back guarantee. Product images, an introductory email template, and promotion guidelines are available at https://getquantumheart.com/affiliates/digistore24</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getquantumheart.com/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60241/adminstore/
 - Sales page: https://getquantumheart.com/
 - Vendor affiliate support: https://getquantumheart.com/affiliates/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/740076/adminstore

@@ -4,7 +4,7 @@ digistore24_product_id: 688062
 title: "Test smilling headline"
 vendor: "team24-zahmad"
 product_type: "Deliverable"
-price: 5.6
+price: 5.59
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 0.56
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://www.checkout-ds24.com/product/688062?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56647/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/688062"
 language: "en"
 ---
 # Test smilling headline
 
 > Product ID `56647` · Digistore24 productId `688062` · [HTML profile page](../../reviews/test-smilling-headline-56647.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $5.60 (Single payment) |
+| Price | $5.59 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $0.56 |
 | Cart conversion* | — |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** test slimming
+**Vendor's marketplace description:** <p>test slimming</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/688062?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56647/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/688062
 - Canonical redirect: https://www.digistore24.com/redir/688062/adminstore
 
@@ -74,7 +74,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: team24-zahmad, listed since 2026-05-22
-- How much? — 5.603 USD
+- How much? — 5.5905000000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

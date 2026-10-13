@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57783/adminstore/"
 sales_page: "https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co"
 language: "en"
 ---
 # Affiliate marketing beginner guide $17
 
 > Product ID `57783` · Digistore24 productId `716359` · [HTML profile page](../../reviews/affiliate-marketing-beginner-guide-17-57783.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57783/adminstore/
 - Sales page: https://affiliatemarketingbeginnerguidedollar17-6py.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/716359/adminstore
 

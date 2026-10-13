@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://firststepsgentleguide-4md.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59723/adminstore/"
 sales_page: "https://firststepsgentleguide-4md.plannerpack.co"
 language: "en"
 ---
 # First Steps Gentle Guide
 
 > Product ID `59723` · Digistore24 productId `737441` · [HTML profile page](../../reviews/first-steps-gentle-guide-59723.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://firststepsgentleguide-4md.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59723/adminstore/
 - Sales page: https://firststepsgentleguide-4md.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/737441/adminstore
 

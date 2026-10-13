@@ -4,16 +4,16 @@ digistore24_product_id: 631625
 title: "David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales"
 vendor: "blackoutusa"
 product_type: "Book (printed)"
-price: 79.72
+price: 79.54
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 42.83
+earnings_per_sale: 42.73
 cart_conversion_pct: 20
 cancel_rate_pct: 9.89
 categories: ["Survival"]
 listed_since: "2025-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://thedavidsshield.com/d/daff/?aff=adminstore#aff=adminstore"
 sales_page: "https://thedavidsshield.com/d/daff/"
@@ -22,16 +22,16 @@ language: "en"
 # David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales
 
 > Product ID `54688` · Digistore24 productId `631625` · [HTML profile page](../../reviews/david-s-shield-new-high-conv-vsl-2x-cvr-5m-in-sales-54688.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $79.72 (Single payment) |
+| Price | $79.54 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $42.83 |
+| Earnings/sale* | $42.73 |
 | Cart conversion* | 20% |
 | Cancel rate* | 9.89% |
 | Vendor | blackoutusa |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** From a Top Vendor, now featuring a brand-new VSL with $5M+ in sales that DOUBLES conversions and dominates across Christian, prepper, and conservative audiences.Faith-driven EMP & collapse offer with massive emotional pull and real-world urgency — turning believers into buyers.10%+ email CVR ; $2–$4 EPCs ; Proven across cold, warm, and native ; Open to all traffic types (email, native, social, sea…
+**Vendor's marketplace description:** <p>From a Top Vendor, now featuring a brand-new VSL with  $5M+ in sales that DOUBLES conversions and dominates across Christian, prepper, and conservative audiences.Faith-driven EMP &amp; collapse offer with massive emotional pull and real-world urgency — turning believers into buyers.<br />10%+ email CVR ; $2–$4 EPCs ; Proven across cold, warm, and native ; Open to all traffic types (email, native, social, search, push, display)For whitelisting, swipe files, and creative assets:<br /><a href="https://thedavidsshield.com/d/daff/affiliates/" target="_blank" rel="noreferrer noopener">https://thedavidsshield.com/d/daff/affiliates/</a></p>
 
 ## 2. Links
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: blackoutusa, listed since 2025-09-19
-- How much? — 79.71948400000001 USD
+- How much? — 79.541634 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

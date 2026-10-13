@@ -4,7 +4,7 @@ digistore24_product_id: 658170
 title: "Mallorca Bucket List (English)"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 15.69
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.57
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Travel & Culture","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/658170?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55831/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/658170"
 language: "en"
 ---
 # Mallorca Bucket List (English)
 
 > Product ID `55831` · Digistore24 productId `658170` · [HTML profile page](../../reviews/mallorca-bucket-list-english-55831.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.69 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.57 |
 | Cart conversion* | — |
@@ -41,11 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Mallorca Bucket List (English) is a curated collection of the most beautiful places, attractions and unique highlights of the destination, designed to inspire travel ideas and make trip planning easier. Instead of spending hours researching the best places to visit, this bucket list provides a clear and compact overview of must-see highlights and special locations that make a trip memorable. A…
+**Vendor's marketplace description:** <p>The Mallorca Bucket List (English) is a curated collection of the most beautiful places, attractions and unique highlights of the destination, designed to inspire travel ideas and make trip planning easier. Instead of spending hours researching the best places to visit, this bucket list provides a clear and compact overview of must-see highlights and special locations that make a trip memorable. All locations are organized in an easy-to-use format so they can quickly be explored or integrated into an existing travel plan. The bucket list also includes a ready-to-use Google Maps map, allowing all locations to be easily found and navigated during the trip. This creates an inspiring overview of the most beautiful places at the destination that can be used both for planning and during the journey.</p>
+<p>• Collection of the most beautiful places and attractions at the destination</p>
+<p>• Combination of well-known highlights and special locations</p>
+<p>• Clear structure for quick inspiration</p>
+<p>• Perfect for travel planning or as an addition to existing itineraries</p>
+<p>• Directly accessible locations via an integrated Google Maps map</p>
+<p>• All places organized and easy to find</p>
+<p>Product format: Digital bucket list + Google Maps map (download)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/658170?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55831/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/658170
 - Canonical redirect: https://www.digistore24.com/redir/658170/adminstore
 
@@ -75,7 +82,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: sarahvisita, listed since 2025-12-30
-- How much? — 15.688400000000001 USD
+- How much? — 15.653400000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

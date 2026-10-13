@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "http://feelbetter-today.com/moray-power?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/moray-power"
@@ -22,7 +22,7 @@ language: "en"
 # Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC
 
 > Product ID `59956` · Digistore24 productId `738063` · [HTML profile page](../../reviews/moray-generator-new-2026-energy-product-2-epc-59956.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hot, high-converting new product! Moray Generator Is HERE. And It's a Commission Monster. Sky-high EPCs and crazy ROI across Facebook, YouTube, TikTok & Native. It Works On Energy/solar, Home/garden/woodworking. And Prepper/survival Lists As Well.
+**Vendor's marketplace description:** <p>Hot, high-converting new product! Moray Generator Is HERE. And It's a Commission Monster. Sky-high EPCs and crazy ROI across Facebook, YouTube, TikTok &amp; Native. It Works On Energy/solar, Home/garden/woodworking. And Prepper/survival Lists As Well.</p>
 
 ## 2. Links
 

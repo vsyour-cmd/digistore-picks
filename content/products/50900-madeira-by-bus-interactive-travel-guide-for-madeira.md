@@ -4,16 +4,16 @@ digistore24_product_id: 570969
 title: "MADEIRA BY BUS - Interactive Travel Guide For Madeira"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 21.22
+price: 21.18
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.83
+earnings_per_sale: 4.82
 cart_conversion_pct: 2
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2024-09-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.madeira-by-bus.com/read?aff=adminstore#aff=adminstore"
 sales_page: "https://www.madeira-by-bus.com/read"
@@ -22,16 +22,16 @@ language: "en"
 # MADEIRA BY BUS - Interactive Travel Guide For Madeira
 
 > Product ID `50900` · Digistore24 productId `570969` · [HTML profile page](../../reviews/madeira-by-bus-interactive-travel-guide-for-madeira-50900.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.22 (Single payment) |
+| Price | $21.18 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.83 |
+| Earnings/sale* | $4.82 |
 | Cart conversion* | 2% |
 | Cancel rate* | 0% |
 | Vendor | madeira-bus |
@@ -41,7 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Revolutionary Travel Guide: 'MADEIRA BY BUS' Simplifies and Promotes Sustainable Bus Travel on Madeira Madeira is renowned for its breathtaking landscapes, charming villages, and rich history. However, exploring the island without a rental car can be challenging, as understanding the public transportation system often proves difficult. Enter the new travel guide “Madeira by Bus”, offering an innov…
+**Vendor's marketplace description:** <p><strong>Revolutionary Travel Guide: 'MADEIRA BY BUS' Simplifies and Promotes Sustainable Bus Travel on Madeira</strong>   <br /><br />Madeira is renowned for its breathtaking landscapes, charming villages, and rich history. However, exploring the island without a rental car can be challenging, as understanding the public transportation system often proves difficult. Enter the new travel guide <em>“Madeira by Bus”</em>, offering an innovative solution for eco-conscious travelers looking to discover the island stress-free and at their own pace.  </p>
+<p><strong>A Unique Concept for Hassle-Free Travel</strong> <br /><strong>MADEIRA BY BUS</strong> is the first travel guide to combine Madeira’s top 24 destinations with detailed bus schedules. From historic towns like São Vicente and Santana to the famous lava pools in Porto Moniz, this guide shows travelers how to reach these dream locations using public transportation.  </p>
+<p><strong>Practical, Interactive, and Always Up-to-Date</strong> Featuring QR codes and interactive maps, <em>“Madeira by Bus”</em> provides direct access to real-time bus connections, event tips, and local highlights. Available both as a downloadable PDF and a printed book. Thanks to interactive features, the travel guide is always up to date and makes travel planning efficient and flexible.  </p>
+<p><strong>Sustainable and Authentic</strong> <br />Using public transportation is not only environmentally friendly but also a way to experience Madeira like a local. Travelers can immerse themselves in the island’s stunning scenery and cultural gems without worrying about parking hassles or complicated bus schedules.  </p>
+<p><strong>Perfect for Tourists and Locals Alike</strong> <br /><strong>MADEIRA BY BUS</strong> is designed for anyone seeking a stress-free and sustainable way to explore the island. Available in both German and English, the guide offers:</p>
+<ul>
+<li><strong>Comprehensive Bus Schedules</strong>: Departure and return times for every route.</li>
+<li><strong>Insider Tips for Activities</strong>: Suggestions for hikes, attractions, and local events.</li>
+<li><strong>Interactive QR Codes (book) or Hyperlinks (PDF)</strong>: Direct access to maps and the latest information. <strong> </strong></li>
+</ul>
+<p><strong>About the Author</strong> <br />Anita Fischer has lived on Madeira for over a decade and is dedicated to providing tourists with a sustainable and stress-free way to explore the island. Her travel guide <em>“Madeira by Bus”</em> is the result of years of research and personal experience.</p>
 
 ## 2. Links
 
@@ -86,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: madeira-bus, listed since 2024-09-18
-- How much? — 21.224164000000002 USD
+- How much? — 21.176814000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

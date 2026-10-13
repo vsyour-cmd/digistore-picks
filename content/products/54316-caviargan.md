@@ -4,16 +4,16 @@ digistore24_product_id: 636335
 title: "CaviArgan"
 vendor: "koshea76"
 product_type: "Deliverable"
-price: 109.21
+price: 108.97
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 83.97
+earnings_per_sale: 83.78
 cart_conversion_pct: 2
 cancel_rate_pct: 1.78
 categories: ["Skin Care"]
 listed_since: "2025-09-17"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://e-caviargan.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-caviargan.com/"
@@ -22,16 +22,16 @@ language: "en"
 # CaviArgan
 
 > Product ID `54316` · Digistore24 productId `636335` · [HTML profile page](../../reviews/caviargan-54316.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $109.21 (Single payment) |
+| Price | $108.97 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $83.97 |
+| Earnings/sale* | $83.78 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.78% |
 | Vendor | koshea76 |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** BOOSTS COLLAGEN PRODUCTION:Thanks to the synergy between MATRIXYLsynthe’6, Vitamin C, E, and Green tea, this firming face cream stimulates the skin's natural functions, leaving a tauter, youthful looking skin. TURN BACK THE CLOCK: With our deeply replenishing anti-aging moisturizer. Our exclusive formula with Hyaluronic Acid, MATRIXYL Synthe'6, Caviar, and Retinol restores density and elasticity, …
+**Vendor's marketplace description:** <p><strong>BOOSTS COLLAGEN PRODUCTION:</strong>Thanks to the synergy between MATRIXYLsynthe’6, Vitamin C, E, and Green tea, this firming face cream stimulates the skin's natural functions, leaving a tauter, youthful looking skin.</p>
+<p><strong>TURN BACK THE CLOCK:</strong> With our deeply replenishing anti-aging moisturizer. Our exclusive formula with Hyaluronic Acid, MATRIXYL Synthe'6, Caviar, and Retinol restores density and elasticity, visibly reducing the appearance of fine lines, deep wrinkles, and dullness.</p>
+<p><strong>You'll get 65% commission.</strong> VIP Concierge support. Access to tons of content and ugc. Low refunds and low chargebacks and commissions on any lifetime subscriptions captured.here are some benefits for your funnel and reach out to me @Kellyoshea1 for anything.<br /><br /><br /></p>
 
 ## 2. Links
 
@@ -81,7 +83,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: koshea76, listed since 2025-09-17
-- How much? — 109.21367599999999 USD
+- How much? — 108.970026 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

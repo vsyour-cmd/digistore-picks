@@ -12,17 +12,17 @@ cart_conversion_pct: 3
 cancel_rate_pct: 3.74
 categories: ["Survival"]
 listed_since: "2022-11-02"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.thedoctorssurvivalplan.com/vsl/index.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42151/adminstore/"
 sales_page: "https://www.thedoctorssurvivalplan.com/vsl/index.php"
 language: "en"
 ---
 # The Doctor's Book Of Survival Home Remedies
 
 > Product ID `42151` · Digistore24 productId `467670` · [HTML profile page](../../reviews/the-doctor-s-book-of-survival-home-remedies-42151.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** With a new funnel, VSL and eye-catching design, this book performs exceptionally well in the health, survival, and remedies niches.We're offering a 75% commission to affiliates who want to put it to the test,Give it a try today!
+**Vendor's marketplace description:** <p>With a new funnel, VSL and eye-catching design, this book performs exceptionally well in the health, survival, and remedies niches.<br />We're offering a 75% commission to affiliates who want to put it to the test,<br />Give it a try today!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.thedoctorssurvivalplan.com/vsl/index.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42151/adminstore/
 - Sales page: https://www.thedoctorssurvivalplan.com/vsl/index.php
 - Vendor affiliate support: https://www.thedoctorssurvivalplan.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/467670/adminstore

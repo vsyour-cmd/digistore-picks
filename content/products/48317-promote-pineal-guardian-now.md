@@ -4,16 +4,16 @@ digistore24_product_id: 603717
 title: "Promote Pineal Guardian Now!"
 vendor: "Nutraville"
 product_type: "Supplements - health"
-price: 242.27
+price: 241.73
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 225.69
+earnings_per_sale: 225.19
 cart_conversion_pct: 9
 cancel_rate_pct: 9.48
 categories: ["Food Supplements"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://pinealguardianvip.com/ds/indexts.php?aff=adminstore#aff=adminstore"
 sales_page: "https://pinealguardianvip.com/ds/indexts.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Pineal Guardian Now!
 
 > Product ID `48317` · Digistore24 productId `603717` · [HTML profile page](../../reviews/promote-pineal-guardian-now-48317.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $242.27 (Single payment) |
+| Price | $241.73 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $225.69 |
+| Earnings/sale* | $225.19 |
 | Cart conversion* | 9% |
 | Cancel rate* | 9.48% |
 | Vendor | Nutraville |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Brand New & Unique Premium Brain Health Supplement ! $2+ EPCs and up to 3% conversions from top affiliates! $300 AOV! Unique custom formulation creates REAL results with super LOW refunds! Convert your clicks to CASH now! Irresistible hook and story creates $$$!
+**Vendor's marketplace description:** <p><strong>Brand New &amp; Unique </strong><strong>Premium Brain Health Supplement</strong></p>
+<p><strong>! $2+ EPCs and up to 3% conversions from top affiliates! $300 AOV!</strong></p>
+<p>Unique custom formulation creates REAL results with super LOW refunds!</p>
+<p><strong>Convert your clicks to CASH now! Irresistible hook and story creates $$$!</strong></p>
 
 ## 2. Links
 
@@ -88,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2025-03-25
-- How much? — 242.27372 USD
+- How much? — 241.73322000000002 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

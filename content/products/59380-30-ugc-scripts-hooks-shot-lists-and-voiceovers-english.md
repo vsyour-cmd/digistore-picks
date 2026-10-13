@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735006?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735006"
@@ -22,7 +22,7 @@ language: "en"
 # 30 UGC Scripts – Hooks, Shot Lists and Voiceovers (English)
 
 > Product ID `59380` · Digistore24 productId `735006` · [HTML profile page](../../reviews/30-ugc-scripts-hooks-shot-lists-and-voiceovers-english-59380.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Have a product to film, but no clear idea for the video? This English-language script library gives you 30 concrete starting points for short product videos. Choose an item you own, adapt the script to its real features and film the sequence yourself. Each script includes a brief, three alternative hooks, six timed shots with matching voiceover, a claim check and separate advertising and portfolio…
+**Vendor's marketplace description:** <p>Have a product to film, but no clear idea for the video?</p>
+<p>This English-language script library gives you 30 concrete starting points for short product videos. Choose an item you own, adapt the script to its real features and film the sequence yourself.</p>
+<p>Each script includes a brief, three alternative hooks, six timed shots with matching voiceover, a claim check and separate advertising and portfolio endings. The sequences are planned for 30 seconds; rehearse and adjust the wording to your own delivery.</p>
+<p>## What's inside<br />- 33-page PDF with 30 worked scripts<br />- 90 alternative hooks: three per script<br />- 180 timed shot sections with matching voiceover<br />- 30 product-claim checks<br />- 30 advertising endings and 30 portfolio alternatives<br />- Editable Markdown text version<br />- Quick-start instructions</p>
+<p>## Ten niches<br />Kitchen, home, office, travel, hobbies, pet accessories, sports accessories, fashion, tech accessories and organization.</p>
+<p>Examples include a tea infuser demonstration, a packing-cube sequence, a phone-stand mechanism and a drawer-divider before-and-after scene.</p>
+<p>## Who it's for<br />Beginner UGC creators who want concrete ideas for self-initiated portfolio work and product demonstrations. You will adapt the material and create your own footage. The scripts can also help you develop a starting concept for a real brief, subject to the client's requirements and approval.</p>
+<p>## Before you buy<br />This is a written digital resource in English. It does not include video lessons, coaching, equipment, music licenses, client introductions or promises of paid work. The examples are fictional teaching scenarios, not real brand commissions or verified performance case studies.</p>
+<p>Use first-person statements only when they match your real experience. Check product claims, usage rights and advertising disclosures before publishing.</p>
+<p>Created by Einfach mit Matze. Matze is our fictional teaching character.</p>
+<p> </p>
+<p>Affiliate information: 50% commission. English-language digital download for UGC creators. Promote the included materials accurately; do not promise earnings or brand deals. Support: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 

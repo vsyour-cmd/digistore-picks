@@ -4,34 +4,34 @@ digistore24_product_id: 617915
 title: "75% Comm | The \"Anti-Pill\" Mental Health Funnel | Massive Co"
 vendor: "PlanetaVida"
 product_type: "Member area and video courses"
-price: 21.29
+price: 21.24
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 15.97
+earnings_per_sale: 15.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-06-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/52921/adminstore/"
 sales_page: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us"
 language: "en"
 ---
 # 75% Comm | The "Anti-Pill" Mental Health Funnel | Massive Co
 
 > Product ID `52921` · Digistore24 productId `617915` · [HTML profile page](../../reviews/75-comm-the-anti-pill-mental-health-funnel-massive-co-52921.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $21.29 (Single payment) |
+| Price | $21.24 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $15.97 |
+| Earnings/sale* | $15.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PlanetaVida |
@@ -41,11 +41,67 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** IMPORTANT: MANDATORY VETTING PROCESS REQUIRED FOR APPROVAL Planeta Vida operates a closed, strictly vetted affiliate infrastructure to protect the EPCs and domain authority of our active partners. Step 1: Click the "Request" button on this Digistore24 page. Step 2: Your application will remain in a "PENDING" status. To unlock 75% front-end commissions and activate your link, you MUST submit your t…
+**Vendor's marketplace description:** <p><strong><span style="color:#ff0000;">IMPORTANT: MANDATORY VETTING PROCESS REQUIRED FOR APPROVAL</span></strong></p>
+<p>Planeta Vida operates a closed, strictly vetted affiliate infrastructure to protect the EPCs and domain authority of our active partners.</p>
+<p><strong>Step 1</strong>: Click the "Request" button on this Digistore24 page.</p>
+<p><strong>Step 2</strong>: Your application will remain in a "PENDING" status. To unlock 75% front-end commissions and activate your link, you MUST submit your traffic strategy through our official portal for auditing:</p>
+<p><a href="https://www.pv-en.com/the-pillar-1-mental-health-affiliate-page" target="_blank" rel="noreferrer noopener">Pillar 1 - Mental Health Affiliate Support Page</a></p>
+<p>Failure to submit the infrastructure audit form via the link above will result in your Digistore24 request being permanently ignored.</p>
+<p><strong>STOP SELLING MEDITATION. START SELLING "BIOLOGICAL DECODING."</strong></p>
+<p>Welcome to the high-performance infrastructure for the Mental Health and Cognitive Optimization sector. While the broader market fatigues on low-retention apps and generic mindfulness advice, Planeta Vida converts cold traffic by solving the physiological root cause of anxiety and burnout: The Nervous System Survival Loop.</p>
+<p><strong>THE ECONOMICS (ENGINEERED FOR EXPERIENCED AFFILIATES):</strong></p>
+<ul>
+<li>
+<p>75% Front-End Commission: We allocate the lion's share of the $19 entry directly to you, creating a true Self-Liquidating Offer (SLO) to offset your Customer Acquisition Cost (CAC) instantly.</p>
+</li>
+<li>
+<p>Lifetime Hard-Coded Cookies: You acquire the customer once. Our automated backend systems nurture them into our high-ticket ecosystem. You earn 30% on every backend upgrade, up to $2,997, forever.</p>
+</li>
+<li>
+<p>High-Velocity Upsells: The funnel architecture includes a 50% commission Order Bump and a 30% commission continuity subscription immediately at checkout to maximize Day-1 Average Cart Value.</p>
+</li>
+</ul>
+<p><strong>THE INFRASTRUCTURE (MISSION CONTROL):</strong></p>
+<p>We do not just hand you a link; we supply our decentralized salesforce with a complete operational hub.</p>
+<ul>
+<li>
+<p>The Ad Vault: Access 60+ tested, compliance-friendly native-style creatives engineered for high CTR.</p>
+</li>
+<li>
+<p>Niche Battle Crates: Psychographically profiled copy angles tailored specifically for Anxiety, Insomnia, and Burnout segments.</p>
+</li>
+<li>
+<p>Cinematic VSLs: High-retention Video Sales Letters that interrupt scrolling patterns and hook viewers within the first 3 seconds.</p>
+</li>
+</ul>
+<p>TRAFFIC PARAMETERS:</p>
+<ul>
+<li>
+<p><strong>AUTHORIZED</strong>: Facebook/Meta, YouTube, TikTok, Email Lists, Content Marketing, Native Networks.</p>
+</li>
+<li>
+<p><strong>PROHIBITED</strong>: Brand Bidding (PPC on Planeta Vida keywords), Medical/Cure Claims, Spam or bot traffic.</p>
+</li>
+</ul>
+<p><strong><em>HOW TO INITIATE YOUR PARTNERSHIP</em></strong>:</p>
+<ol>
+<li>
+<p>Click the Request button on this page.</p>
+</li>
+<li>
+<p>Navigate directly to our partner hub: <a href="https://www.pv-en.com/the-5-pillar-affiliate-support-hub" target="_blank" rel="noreferrer noopener">Affiliate Support Hub</a></p>
+</li>
+<li>
+<p>Select your designated Pillar and target market.</p>
+</li>
+<li>
+<p>Submit your traffic strategy for our 48-hour compliance audit.</p>
+</li>
+</ol>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/52921/adminstore/
 - Sales page: https://www.pv-en.com/fr-offers-mental-health-digistore24-us
 - Vendor affiliate support: https://www.pv-en.com/the-pillar-1-mental-health-affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/617915/adminstore
@@ -81,7 +137,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: PlanetaVida, listed since 2025-06-11
-- How much? — 21.2914 USD
+- How much? — 21.243900000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

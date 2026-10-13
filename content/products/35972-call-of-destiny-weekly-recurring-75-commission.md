@@ -4,16 +4,16 @@ digistore24_product_id: 370248
 title: "Call of Destiny - Weekly Recurring 75% Commission"
 vendor: "serimon"
 product_type: "E-books"
-price: 7.84
+price: 7.83
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 5.88
+earnings_per_sale: 5.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "http://reading.callofdestiny.org?aff=adminstore#aff=adminstore"
 sales_page: "http://reading.callofdestiny.org"
@@ -22,16 +22,16 @@ language: "en"
 # Call of Destiny - Weekly Recurring 75% Commission
 
 > Product ID `35972` · Digistore24 productId `370248` · [HTML profile page](../../reviews/call-of-destiny-weekly-recurring-75-commission-35972.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $7.84 (Subscription) |
+| Price | $7.83 (Subscription) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $5.88 |
+| Earnings/sale* | $5.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | serimon |
@@ -41,7 +41,22 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Are you ready to make one sale and keep earning commissions every week for the next 2 months? Welcome to Call of Destiny, a weekly astrology subscription which pays affiliates like yourself 75% commissions on everything, including the recurring. Here are the highlights or our offer: 75% commission on everything AOV of $16 on a $7 front-end Average stick rate of subscriptions: 5 weeks 100% complian…
+**Vendor's marketplace description:** <p>Are you ready to make <strong>one sale</strong> and keep earning <strong>commissions every week for the next 2 months</strong>?</p>
+<p>Welcome to Call of Destiny, a <strong>weekly astrology subscription</strong> which pays affiliates like yourself 75% commissions on everything, including the recurring.</p>
+<p>Here are the <strong>highlights </strong>or our offer:</p>
+<ul>
+<li><strong>75% commission on everything</strong></li>
+<li>AOV of $16 on a $7 front-end</li>
+<li><strong>Average stick rate of subscriptions: 5 weeks</strong></li>
+<li>100% compliant with Facebook and all major traffic sources</li>
+<li><strong>Order-bumps, upsells and downsells fully optimized</strong></li>
+<li>Best-in-class customer service for low refund rate of only 6.9%</li>
+<li><strong>Tailored affiliate support via email</strong></li>
+<li>Wide range of affiliate promo tools</li>
+</ul>
+<p><strong><span style="color:#ff0000;">Get in touch and start earning today!</span></strong></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -75,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: serimon, listed since 2021-01-26
-- How much? — 7.844200000000001 USD
+- How much? — 7.826700000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

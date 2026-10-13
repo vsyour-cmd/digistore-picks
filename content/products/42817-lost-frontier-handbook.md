@@ -4,34 +4,34 @@ digistore24_product_id: 382793
 title: "Lost Frontier Handbook"
 vendor: "frontbook"
 product_type: "Book (printed)"
-price: 47.61
+price: 47.51
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 24.51
+earnings_per_sale: 24.45
 cart_conversion_pct: 3
 cancel_rate_pct: 1.5
 categories: ["Survival"]
 listed_since: "2021-04-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.lostfrontierhandbook.net/vsl/index_ds24.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/42817/adminstore/"
 sales_page: "https://www.lostfrontierhandbook.net/vsl/index_ds24.php"
 language: "en"
 ---
 # Lost Frontier Handbook
 
 > Product ID `42817` · Digistore24 productId `382793` · [HTML profile page](../../reviews/lost-frontier-handbook-42817.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $47.61 (Single payment) |
+| Price | $47.51 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $24.51 |
+| Earnings/sale* | $24.45 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.5% |
 | Vendor | frontbook |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEW! - The Lost Frontier Handbook Compliant! 75% initial commissions (for physical books sales). Performs well in most niches: health, survival, remedies, etc. SKY HIGH conversion rate on email lists. You need to test this!
+**Vendor's marketplace description:** <p><strong>NEW! - The Lost Frontier Handbook Compliant!</strong></p>
+<p><span style="color:#ff0000;">75%</span> initial commissions (for physical books sales).</p>
+<p>Performs well in most niches: health, survival, remedies, etc.</p>
+<p><strong><span style="color:#ff0000;"> SKY HIGH conversion rate on email lists. </span></strong></p>
+<p>You need to test this!</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lostfrontierhandbook.net/vsl/index_ds24.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/42817/adminstore/
 - Sales page: https://www.lostfrontierhandbook.net/vsl/index_ds24.php
 - Vendor affiliate support: https://www.lostfrontierhandbook.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/382793/adminstore
@@ -92,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: frontbook, listed since 2021-04-06
-- How much? — 47.614294 USD
+- How much? — 47.508069000000006 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 489398
 title: "Project Mobilization Plan Template"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2023-03-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/project-mobilization-plan-template/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/project-mobilization-plan-template/"
@@ -22,16 +22,16 @@ language: "en"
 # Project Mobilization Plan Template
 
 > Product ID `50254` · Digistore24 productId `489398` · [HTML profile page](../../reviews/project-mobilization-plan-template-50254.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The template helps with the creation of construction project mobilization plan and besides the plan also incl.udes a checklist. As an affiliate, you earn 50% per sale. If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.
+**Vendor's marketplace description:** <p>The template helps with the creation of construction project mobilization plan and besides the plan also incl.udes a checklist.</p>
+<ul>
+<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
+<li>If you register as an affiliate, please feel free to contact me and I will be happy to help you. Just use the contact form on my website.  </li>
+</ul>
 
 ## 2. Links
 
@@ -93,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2023-03-16
-- How much? — 22.400793999999998 USD
+- How much? — 22.350819 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

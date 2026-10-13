@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://einfachmitmatze.de/en/social-media-mega-bundle/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59615/adminstore/"
 sales_page: "https://einfachmitmatze.de/en/social-media-mega-bundle/"
 language: "en"
 ---
 # Social Media on Autopilot with Matze – 7 Courses + 90-Day Plan | 40%
 
 > Product ID `59615` · Digistore24 productId `736681` · [HTML profile page](../../reviews/social-media-on-autopilot-with-matze-7-courses-90-day-plan-40-59615.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,27 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Stop starting from scratch. Give your content project a clear plan. The Social Media Mega Bundle with Matze connects seven English practical courses with a 90-day action plan. For beginners and independent creators who want to plan content, develop an offer and explore suitable distribution channels. Social Media Content Workflow UGC Creator Practical Course Affiliate Marketing for Beginners TikTo…
+**Vendor's marketplace description:** <h2>Stop starting from scratch. Give your content project a clear plan.</h2>
+<p>The Social Media Mega Bundle with Matze connects seven English practical courses with a 90-day action plan. For beginners and independent creators who want to plan content, develop an offer and explore suitable distribution channels.</p>
+<ul>
+<li>Social Media Content Workflow</li>
+<li>UGC Creator Practical Course</li>
+<li>Affiliate Marketing for Beginners</li>
+<li>TikTok Shop Affiliate for Beginners</li>
+<li>Canva Mini-Products Practical Course</li>
+<li>Pinterest for Beginners</li>
+<li>Create Faceless Videos</li>
+</ul>
+<h3>Tools for putting the lessons into practice</h3>
+<p>A 90-day workbook with 13 weekly sections, editable local content calendar and three seven-day campaigns with draft copy and visual ideas.</p>
+<p><strong>US$599 one time. No subscription. 40% affiliate commission according to Digistore24 settlement.</strong> VAT included where applicable; US sales tax may be added at checkout. 60-day money-back guarantee.</p>
+<p>Product-specific Matze scene cover, social copy, email template and partner-link generator are available on the linked affiliate support page.</p>
+<p>Written self-study materials in eight ZIP downloads. No video lessons, live coaching or personal coaching sessions. No guarantee of income, sales or reach. External software, accounts, advertising and platform approvals are not included. The seven courses overlap with existing Matze bundles.</p>
+<p>Affiliate support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://einfachmitmatze.de/en/social-media-mega-bundle/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59615/adminstore/
 - Sales page: https://einfachmitmatze.de/en/social-media-mega-bundle/
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736681/
 - Canonical redirect: https://www.digistore24.com/redir/736681/adminstore

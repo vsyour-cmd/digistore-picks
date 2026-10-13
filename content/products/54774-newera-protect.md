@@ -4,16 +4,16 @@ digistore24_product_id: 644676
 title: "NewEra Protect"
 vendor: "NewEraDGS"
 product_type: "Supplements - health"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 77
-earnings_per_sale: 253.68
+earnings_per_sale: 253.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care","Food Supplements"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://neweraprotect.com/dgs?aff=adminstore#aff=adminstore"
 sales_page: "https://neweraprotect.com/dgs"
@@ -22,16 +22,16 @@ language: "en"
 # NewEra Protect
 
 > Product ID `54774` · Digistore24 productId `644676` · [HTML profile page](../../reviews/newera-protect-54774.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 77% |
-| Earnings/sale* | $253.68 |
+| Earnings/sale* | $253.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NewEraDGS |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Introducing NewEra Protect—the latest innovation from the team behind Pelvic Floor Strong—top women’s health offer for 4 consecutive years. With a proven track record of success, NewEra Protect is set to be the next BIG HIT, and you can be a part of this incredible opportunity! IMPORTANT: You must fill out the application in the Affiliate Support Page to be whitelisted at our max payout!!
+**Vendor's marketplace description:** <p>Introducing <strong>NewEra Protect</strong>—the latest innovation from the team behind Pelvic Floor Strong—top women’s health offer for 4 consecutive years.</p>
+<p>With a proven track record of success, <strong>NewEra Protect</strong> is set to be the next BIG HIT, and you can be a part of this incredible opportunity!</p>
+<p><strong>IMPORTANT: You must fill out the application in the Affiliate Support Page to be whitelisted at our max payout!!</strong></p>
 
 ## 2. Links
 
@@ -98,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NewEraDGS, listed since 2025-10-28
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

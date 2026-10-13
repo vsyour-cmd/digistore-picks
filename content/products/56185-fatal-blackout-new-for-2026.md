@@ -4,34 +4,34 @@ digistore24_product_id: 671979
 title: "Fatal Blackout – NEW for 2026!"
 vendor: "FatalBlackout"
 product_type: "Book (printed)"
-price: 75.08
+price: 74.91
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 52.56
+earnings_per_sale: 52.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://fatalblackout.net/tsl/lost-liberty/tsl1.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.werdemusiker.de/soli-und-profitechniken-mkt3/#aff=adminstore"
 sales_page: "https://fatalblackout.net/tsl/lost-liberty/tsl1.php"
 language: "en"
 ---
 # Fatal Blackout – NEW for 2026!
 
 > Product ID `56185` · Digistore24 productId `671979` · [HTML profile page](../../reviews/fatal-blackout-new-for-2026-56185.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $75.08 (Single payment) |
+| Price | $74.91 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $52.56 |
+| Earnings/sale* | $52.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FatalBlackout |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** From decorated Purple Heart veteran Teddy Daniels: High-converting survival offer exposing the HEMP threat + 365-day blackout prep. CRUSHING IT with conservative, prepper, survival, and patriot lists. 8-12% email CVR, $2-$5 EPCs on cold/warm traffic. Proven winner on FB, YouTube, and email. Multiple bonuses + irresistible guarantee = INSANE conversions. Open to ALL traffic. Contact for paybump opp…
+**Vendor's marketplace description:** <p>From decorated Purple Heart veteran Teddy Daniels: High-converting survival offer exposing the HEMP threat + 365-day blackout prep. CRUSHING IT with conservative, prepper, survival, and patriot lists. 8-12% email CVR, $2-$5 EPCs on cold/warm traffic. Proven winner on FB, YouTube, and email. Multiple bonuses + irresistible guarantee = INSANE conversions. Open to ALL traffic. Contact for paybump opportunities!<br /><br /><strong>Keywords:</strong><br /> EMP survival, blackout preparedness, HEMP attack, grid down, survival guide, prepper offer, emergency power, food storage, water filtration, home defense, conservative survival, patriot prep, military survival, Christian preppers, off-grid living, societal collapse, 365-day blackout, renewable energy survival, self-reliance, disaster readiness</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://fatalblackout.net/tsl/lost-liberty/tsl1.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.werdemusiker.de/soli-und-profitechniken-mkt3/#aff=adminstore
 - Sales page: https://fatalblackout.net/tsl/lost-liberty/tsl1.php
 - Vendor affiliate support: https://fatalblackout.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/671979/adminstore
@@ -95,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: FatalBlackout, listed since 2026-02-26
-- How much? — 75.0802 USD
+- How much? — 74.9127 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

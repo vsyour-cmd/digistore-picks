@@ -4,16 +4,16 @@ digistore24_product_id: 601972
 title: "21st Century Survival Kit - MAGA 1.0"
 vendor: "Survival777"
 product_type: "Member area and video courses"
-price: 1120.6
+price: 1118.1
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 448.24
+earnings_per_sale: 447.24
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development","Survival"]
 listed_since: "2025-03-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "http://survivalkit.maga123.com?aff=adminstore#aff=adminstore"
 sales_page: "http://survivalkit.maga123.com"
@@ -22,16 +22,16 @@ language: "en"
 # 21st Century Survival Kit - MAGA 1.0
 
 > Product ID `51780` · Digistore24 productId `601972` · [HTML profile page](../../reviews/21st-century-survival-kit-maga-1-0-51780.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1120.60 (Single payment, Installment) |
+| Price | $1118.10 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $448.24 |
+| Earnings/sale* | $447.24 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Survival777 |
@@ -41,7 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ***GO TO HTTPS://MARKET.MAGA123.COM TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE Affiliate Sales Page: CLICK HERE or go to https://Survival.MAGA123.com Affiliate Commissions: 40% on $797 = $320 Affiliate Referral Commissions: 10% on $797 = $80 for affiliates you bring in who bring in another affiliate who purchases the product. …
+**Vendor's marketplace description:** <p><strong>***GO TO <a href="https://MARKET.MAGA123.COM">HTTPS://MARKET.MAGA123.COM</a> TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE</strong></p>
+<p><strong>Affiliate Sales Page: </strong></p>
+<p><a href="https://survival.maga123.com" target="_blank" rel="noreferrer noopener">CLICK HERE</a> or go to <a href="https://Survival.MAGA123.com">https://Survival.MAGA123.com</a></p>
+<p><strong>Affiliate Commissions: </strong></p>
+<p>40% on $797 = $320</p>
+<p><strong>Affiliate Referral Commissions:</strong></p>
+<p>10% on $797 = $80 for affiliates you bring in who bring in another affiliate who purchases the product.</p>
+<p><strong>Affiliate Marketing Content:</strong></p>
+<p>38 marketing videos from the MAGA movie, which is the centerpiece of the 21st Century Survival Kit - MAGA 1.0 course.</p>
+<p>2 of the videos are movie trailers and 2 are overview videos.  The other 35 videos are curiosity-driven clips from the movie promoting the course. URLs and embed codes provided. </p>
+<p><strong>***GO TO <a>HTTPS://MARKET.MAGA123.COM</a> TO GET ALL OVERVIEW VIDEOS, MOVIE TRAILERS, VIDEO ADS, AND AUTO-RESPONSE EMAILS, INCLUDING EVERYTHING ON THIS PAGE</strong></p>
 
 ## 2. Links
 
@@ -90,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Survival777, listed since 2025-03-16
-- How much? — 1120.6000000000001 USD
+- How much? — 1118.1000000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

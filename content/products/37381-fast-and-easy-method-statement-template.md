@@ -4,34 +4,34 @@ digistore24_product_id: 385202
 title: "Fast and Easy Method Statement Template"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 16.8
+price: 16.76
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.4
+earnings_per_sale: 8.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-04-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/37381/adminstore/"
 sales_page: "https://worldofpm.com/buy-method-statement-template/"
 language: "en"
 ---
 # Fast and Easy Method Statement Template
 
 > Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](../../reviews/fast-and-easy-method-statement-template-37381.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.80 (Single payment) |
+| Price | $16.76 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.40 |
+| Earnings/sale* | $8.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Please check the sales page for more project information. As an affiliate, you earn 50% per sale. Best suited if you offer document templates, or if you run a project management blog, or website, or simply use the well-known social media platforms in the field of management or templates. If you register as an affiliate, please feel free to contact me and I will be happy to support you.
+**Vendor's marketplace description:** <p>Please check the sales page for more project information.</p>
+<ul>
+<li>As an affiliate, you earn <strong>50%</strong> per sale.</li>
+<li>Best suited if you offer document templates, or if you run a project management blog, or website, or simply use the well-known social media platforms in the field of management or templates.</li>
+<li>If you register as an affiliate, please feel free to contact me and I will be happy to support you.</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/37381/adminstore/
 - Sales page: https://worldofpm.com/buy-method-statement-template/
 - Vendor affiliate support: https://worldofpm.com/become-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/385202/adminstore
@@ -93,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2021-04-18
-- How much? — 16.797794 USD
+- How much? — 16.760319000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

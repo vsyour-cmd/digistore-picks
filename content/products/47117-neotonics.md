@@ -4,34 +4,34 @@ digistore24_product_id: 538086
 title: "Neotonics"
 vendor: "Neotonics"
 product_type: "Supplements - health"
-price: 205.46
+price: 205
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 115.47
+earnings_per_sale: 115.21
 cart_conversion_pct: 2
 cancel_rate_pct: 18.14
 categories: ["Food Supplements"]
 listed_since: "2024-02-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://neotonics24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/47117/adminstore/"
 sales_page: "https://neotonics24.com/text.php"
 language: "en"
 ---
 # Neotonics
 
 > Product ID `47117` · Digistore24 productId `538086` · [HTML profile page](../../reviews/neotonics-47117.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $205.46 (Single payment) |
+| Price | $205.00 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $115.47 |
+| Earnings/sale* | $115.21 |
 | Cart conversion* | 2% |
 | Cancel rate* | 18.14% |
 | Vendor | Neotonics |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** DigiStore Says Hello To These Revolutionary Skin-Gut Gummies That Target The Root Cause of Skin Aging. Skyrocketing Conversions On All Types Of Traffic. Top Affiliates Are Already Ripping The Benefits, Reporting Up To $7 EPC!
+**Vendor's marketplace description:** <p>DigiStore Says Hello To These Revolutionary Skin-Gut Gummies That Target The Root Cause of Skin Aging. Skyrocketing Conversions On All Types Of Traffic. Top Affiliates Are Already Ripping The Benefits, Reporting Up To $7 EPC!</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://neotonics24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/47117/adminstore/
 - Sales page: https://neotonics24.com/text.php
 - Vendor affiliate support: http://neotonics24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/538086/adminstore
@@ -98,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Neotonics, listed since 2024-02-08
-- How much? — 205.46201 USD
+- How much? — 205.003635 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

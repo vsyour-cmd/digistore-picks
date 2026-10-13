@@ -4,16 +4,16 @@ digistore24_product_id: 562760
 title: "Adobe Lightroom Presets | Boudoir Secrets Masterclass | EN"
 vendor: "BoudoirSecretsMasterclass"
 product_type: "Downloads"
-price: 83.93
+price: 83.75
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 20.99
+earnings_per_sale: 20.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film","Software"]
 listed_since: "2024-07-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/562760?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/562760"
@@ -22,16 +22,16 @@ language: "en"
 # Adobe Lightroom Presets | Boudoir Secrets Masterclass | EN
 
 > Product ID `51108` · Digistore24 productId `562760` · [HTML profile page](../../reviews/adobe-lightroom-presets-boudoir-secrets-masterclass-en-51108.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $83.93 (Single payment) |
+| Price | $83.75 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $20.99 |
+| Earnings/sale* | $20.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BoudoirSecretsMasterclass |
@@ -41,7 +41,20 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Adobe Lightroom | Boudoir Secrets Masterclass | Ultimate Pack | EN Elevate Your Photos with the Boudoir Secrets Masterclass | Ultimate Pack Lightroom Preset! Transform your photography with this expertly crafted preset pack designed for Adobe Lightroom. Enhance your images effortlessly with advanced AI-supported adjustments that refine every detail from start to finish. Perfect for both amateurs a…
+**Vendor's marketplace description:** <p><strong>Adobe Lightroom | Boudoir Secrets Masterclass | Ultimate Pack | EN</strong></p>
+<p> </p>
+<p><u>Elevate Your Photos with the Boudoir Secrets Masterclass | Ultimate Pack Lightroom Preset!</u></p>
+<p> </p>
+<p>Transform your photography with this expertly crafted preset pack designed for Adobe Lightroom. Enhance your images effortlessly with advanced AI-supported adjustments that refine every detail from start to finish. Perfect for both amateurs and professionals, this ultimate preset pack includes:</p>
+<p> </p>
+<ul>
+<li><strong>21 Diverse Presets:</strong> Choose from 16 scalable color and black &amp; white presets plus 5 specialized AI-enhanced portrait presets.</li>
+<li><strong>Comprehensive Adjustments:</strong> Customize your shots with essential edits including profiles, tone curves, sharpening, noise reduction, and lens corrections.</li>
+<li><strong>Specialized Portrait Enhancements:</strong> Perfect the details with dedicated presets for eyes, lips, skin, and teeth.</li>
+<li><strong>Creative Control:</strong> A single vignette preset allows for artistic framing and focus, enhancing the visual appeal and impact of your photos.</li>
+</ul>
+<p> </p>
+<p>Step up your photography game and produce images worthy of a high-gloss magazine. The Boudoir Secrets Masterclass | Ultimate Pack is your gateway to realizing the full potential of your creative vision.</p>
 
 ## 2. Links
 
@@ -82,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: BoudoirSecretsMasterclass, listed since 2024-07-25
-- How much? — 83.93294000000002 USD
+- How much? — 83.74569000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

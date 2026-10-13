@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Trading Products"]
 listed_since: "2026-09-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/"
@@ -22,7 +22,7 @@ language: "en"
 # Plan Your First 3-Day Challenge
 
 > Product ID `59132` · Digistore24 productId `731793` · [HTML profile page](../../reviews/plan-your-first-3-day-challenge-59132.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hi!!! Promote a practical $25 course that helps creators, coaches, consultants, and digital-product sellers launch their first 3-day live challenge without paid ads or a complicated funnel. The offer is easy to explain and backed by a real case study: 140 sign-ups, 40 buyers, and $6,300 in revenue from the creator’s first challenge. Affiliates get a low-friction product, a clear target audience, a…
+**Vendor's marketplace description:** <h1>Hi!!!</h1>
+<p>Promote a practical $25 course that helps creators, coaches, consultants, and digital-product sellers launch their first 3-day live challenge without paid ads or a complicated funnel.</p>
+<p>The offer is easy to explain and backed by a real case study: 140 sign-ups, 40 buyers, and $6,300 in revenue from the creator’s first challenge. Affiliates get a low-friction product, a clear target audience, a 60-day money-back guarantee, and proven promotional angles for email, YouTube, social media, blogs, and niche communities.</p>
+<p>Ideal for affiliates with an audience interested in online courses, coaching, entrepreneurship, personal branding, or digital products.</p>
+<p>Dejan</p>
 
 ## 2. Links
 

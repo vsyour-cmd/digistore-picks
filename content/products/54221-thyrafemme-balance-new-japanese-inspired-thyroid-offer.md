@@ -4,34 +4,34 @@ digistore24_product_id: 637145
 title: "Thyrafemme Balance - New Japanese-Inspired Thyroid Offer"
 vendor: "thyrafemme"
 product_type: "Supplements - health"
-price: 141.57
+price: 141.25
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.57
+earnings_per_sale: 128.28
 cart_conversion_pct: 3
 cancel_rate_pct: 11.79
 categories: ["Animals & Pets","Skin Care","Food Supplements"]
 listed_since: "2025-09-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://getthyrafemme.cc/dtc/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/54221/adminstore/"
 sales_page: "https://getthyrafemme.cc/dtc/"
 language: "en"
 ---
 # Thyrafemme Balance - New Japanese-Inspired Thyroid Offer
 
 > Product ID `54221` · Digistore24 productId `637145` · [HTML profile page](../../reviews/thyrafemme-balance-new-japanese-inspired-thyroid-offer-54221.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $141.57 (Single payment) |
+| Price | $141.25 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.57 |
+| Earnings/sale* | $128.28 |
 | Cart conversion* | 3% |
 | Cancel rate* | 11.79% |
 | Vendor | thyrafemme |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Target all the major pain points of millions of women - thyroid, fatigue, brain fog, skin & hair loss with this one-of-a-kind offer! Proven angles, multiple VSLs, insane EPCs. Apply now and lock in your slice of this evergreen market!
+**Vendor's marketplace description:** <p><em>Target all the major pain points of millions of women - thyroid, fatigue, brain fog, skin &amp; hair loss with this one-of-a-kind offer! Proven angles, multiple VSLs, insane EPCs. Apply now and lock in your slice of this evergreen market! </em></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getthyrafemme.cc/dtc/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/54221/adminstore/
 - Sales page: https://getthyrafemme.cc/dtc/
 - Vendor affiliate support: https://getthyrafemme.cc/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/637145/adminstore
@@ -85,7 +85,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: thyrafemme, listed since 2025-09-22
-- How much? — 141.56539800000002 USD
+- How much? — 141.249573 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

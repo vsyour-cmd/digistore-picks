@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Online Marketing","Marketing Services"]
 listed_since: "2025-11-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/650825?aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/redir/650825/adminstore/."
 sales_page: "https://www.checkout-ds24.com/product/650825"
 language: "en"
 ---
 # Sales Page Ready Just Fill In and Publish
 
 > Product ID `54892` · Digistore24 productId `650825` · [HTML profile page](../../reviews/sales-page-ready-just-fill-in-and-publish-54892.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Sales Page Generator – AI-Powered Landing Page Builder [Instant online access to the Sales Page Generat]
+**Vendor's marketplace description:** <p>Sales Page Generator – AI-Powered Landing Page Builder [Instant online access to the Sales Page Generat] </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/650825?aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/650825/adminstore/.
 - Sales page: https://www.checkout-ds24.com/product/650825
 - Vendor affiliate support: https://poetic-sfogliatella-c83535.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/650825/adminstore

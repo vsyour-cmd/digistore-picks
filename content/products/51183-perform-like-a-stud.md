@@ -4,34 +4,34 @@ digistore24_product_id: 590554
 title: "Perform like a STUD"
 vendor: "ClubhouseStud"
 product_type: "Supplements - health"
-price: 164.73
+price: 164.36
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 65.89
+earnings_per_sale: 65.74
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-01-15"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://studperformance.com/d/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/51183/adminstore/"
 sales_page: "https://studperformance.com/d/"
 language: "en"
 ---
 # Perform like a STUD
 
 > Product ID `51183` · Digistore24 productId `590554` · [HTML profile page](../../reviews/perform-like-a-stud-51183.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $164.73 (Single payment) |
+| Price | $164.36 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $65.89 |
+| Earnings/sale* | $65.74 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ClubhouseStud |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Monster Offer from award-winning adult film star & men’s performance expert Stirling Cooper, this science-backed supplement helps men last longer, go harder, and perform like a true STUD.
+**Vendor's marketplace description:** <p>Monster Offer from award-winning adult film star &amp; men’s performance expert Stirling Cooper, this science-backed supplement helps men last longer, go harder, and perform like a true STUD.</p>
+<p> </p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://studperformance.com/d/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/51183/adminstore/
 - Sales page: https://studperformance.com/d/
 - Vendor affiliate support: https://studperformance.com/d/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/590554/adminstore
@@ -95,7 +96,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ClubhouseStud, listed since 2025-01-15
-- How much? — 164.72820000000002 USD
+- How much? — 164.3607 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

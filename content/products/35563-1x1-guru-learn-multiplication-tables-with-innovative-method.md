@@ -4,34 +4,34 @@ digistore24_product_id: 364765
 title: "1x1 Guru: Learn multiplication tables with innovative method"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 335.06
+price: 334.31
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 167.53
+earnings_per_sale: 167.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
-promo_link: "https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/35563/adminstore/"
 sales_page: "https://www.1x1.guru/?lang=en"
 language: "en"
 ---
 # 1x1 Guru: Learn multiplication tables with innovative method
 
 > Product ID `35563` · Digistore24 productId `364765` · [HTML profile page](../../reviews/1x1-guru-learn-multiplication-tables-with-innovative-method-35563.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $335.06 (Subscription) |
+| Price | $334.31 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $167.53 |
+| Earnings/sale* | $167.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Learning multiplication tables with innovative learning technology. Through mental visualization, children can learn the multiplication tables autonomously, easily and with a lot of fun. It is a unique and innovative learning method that is a revolution for the tedious learning of multiplications. Mathematics and especially the 1x1 becomes a simple game, which gives the child great self-confidence…
+**Vendor's marketplace description:** <p>Learning multiplication tables with innovative learning technology. Through mental visualization, children can learn the multiplication tables autonomously, easily and with a lot of fun.</p>
+<p>It is a unique and innovative learning method that is a revolution for the tedious learning of multiplications. Mathematics and especially the 1x1 becomes a simple game, which gives the child great self-confidence.</p>
+<p>In addition, the child learns very quickly mental arithmetic.</p>
+<p>This course has dream conversion rates and sells very well to parents and teaching persons.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/35563/adminstore/
 - Sales page: https://www.1x1.guru/?lang=en
 - Canonical redirect: https://www.digistore24.com/redir/364765/adminstore
 
@@ -66,7 +69,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Insider-Media, listed since 2020-12-28
-- How much? — 335.05940000000004 USD
+- How much? — 334.31190000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Project Management"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57807/adminstore/"
 sales_page: "https://www.noa.rs.ba/scrum-career-compass/"
 language: "en"
 ---
 # Career Compass for Scrum
 
 > Product ID `57807` · Digistore24 productId `601268` · [HTML profile page](../../reviews/career-compass-for-scrum-57807.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,42 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote Scrum Career Compass — 50% Commission A $27 self-assessment and roadmap that helps aspiring Scrum Masters and Product Owners find out which role actually fits them, before they spend $1,000+ on the wrong certification. Created by Dejan Majkic (whatisscrum.org, 100k+ students). Why it's worth adding to your funnel: 50% commission on every sale $27 price point makes it an easy yes for your a…
+**Vendor's marketplace description:** <p><code></code></p>
+<p><code></code></p>
+<h3 style="margin:0 0 8px 0;font-size:18px;color:#0f172a;">Promote Scrum Career Compass — 50% Commission</h3>
+<p><code></code></p>
+<p style="margin:0 0 14px 0;font-size:14px;color:#475569;"><br />A $27 self-assessment and roadmap that helps aspiring Scrum Masters and Product Owners find out which role actually fits them, before they spend $1,000+ on the wrong certification. Created by Dejan Majkic (whatisscrum.org, 100k+ students).</p>
+<p><code></code></p>
+<p style="margin:0 0 6px 0;font-size:14px;color:#334155;font-weight:bold;"><br />Why it's worth adding to your funnel:</p>
+<p><code></code></p>
+<ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li><ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li>50% commission on every sale</li>
+</ul></li>
+</ul>
+<ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li><ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li>$27 price point makes it an easy yes for your audience</li>
+</ul></li>
+</ul>
+<ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li><ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li>No hype or fake urgency, a good fit for lists that value straight talk</li>
+</ul></li>
+</ul>
+<ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li><ul style="margin:0 0 14px 0;padding-left:18px;font-size:14px;color:#334155;">
+<li>Money-back guarantee keeps refund risk low</li>
+</ul></li>
+</ul>
+<p><code></code></p>
+<p style="margin:0;font-size:14px;color:#475569;">Great fit for audiences around career change, Agile/PM, or breaking into tech-adjacent roles.</p>
+<p><code></code></p>
+<p><code></code></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57807/adminstore/
 - Sales page: https://www.noa.rs.ba/scrum-career-compass/
 - Canonical redirect: https://www.digistore24.com/redir/601268/adminstore
 

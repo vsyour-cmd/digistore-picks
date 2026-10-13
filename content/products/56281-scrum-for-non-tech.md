@@ -4,34 +4,34 @@ digistore24_product_id: 684079
 title: "Scrum For Non-Tech"
 vendor: "TopCourseCreator"
 product_type: "Member area and video courses"
-price: 41.46
+price: 41.37
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.73
+earnings_per_sale: 20.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Services","Project Management"]
 listed_since: "2026-04-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.noa.rs.ba/scrum-for-non-tech/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56281/adminstore/"
 sales_page: "https://www.noa.rs.ba/scrum-for-non-tech/"
 language: "en"
 ---
 # Scrum For Non-Tech
 
 > Product ID `56281` · Digistore24 productId `684079` · [HTML profile page](../../reviews/scrum-for-non-tech-56281.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.46 (Single payment) |
+| Price | $41.37 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.73 |
+| Earnings/sale* | $20.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TopCourseCreator |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This is a simple, beginner-friendly course that explains Scrum in clear, everyday language for people without a technical background. It helps you understand what’s happening in meetings, what your role is, and how to confidently take part, without needing any coding knowledge. It’s also an easy product to promote because it solves a common problem: people feeling lost in Scrum environments. If yo…
+**Vendor's marketplace description:** <p>This is a simple, beginner-friendly course that explains Scrum in clear, everyday language for people without a technical background.</p>
+<p>It helps you understand what’s happening in meetings, what your role is, and how to confidently take part, without needing any coding knowledge.</p>
+<p>It’s also an easy product to promote because it solves a common problem: people feeling lost in Scrum environments. If your audience works in teams or projects, this is a practical, accessible solution they can quickly understand and use.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-for-non-tech/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56281/adminstore/
 - Sales page: https://www.noa.rs.ba/scrum-for-non-tech/
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1490-affiliate-playbook-for-scrum-for-non-tech
 - Canonical redirect: https://www.digistore24.com/redir/684079/adminstore
@@ -98,7 +100,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: TopCourseCreator, listed since 2026-04-12
-- How much? — 41.4622 USD
+- How much? — 41.3697 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

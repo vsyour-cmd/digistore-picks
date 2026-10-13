@@ -4,16 +4,16 @@ digistore24_product_id: 625540
 title: "Sound Better than Your American Friends"
 vendor: "tylerjsimmons"
 product_type: "Downloads"
-price: 268.94
+price: 268.34
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 107.58
+earnings_per_sale: 107.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Personal Development"]
 listed_since: "2025-07-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://tysimmons.teachable.com/p/ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://tysimmons.teachable.com/p/ds24"
@@ -22,16 +22,16 @@ language: "en"
 # Sound Better than Your American Friends
 
 > Product ID `53646` · Digistore24 productId `625540` · [HTML profile page](../../reviews/sound-better-than-your-american-friends-53646.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $268.94 (Single payment, Installment) |
+| Price | $268.34 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $107.58 |
+| Earnings/sale* | $107.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tylerjsimmons |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The American Accent Course helps English learners master pronunciation, rhythm, stress, intonation, and connected speech. Students gain clarity, fluency, and confidence to sound natural in conversations, at work, or in studies with a true American accent.
+**Vendor's marketplace description:** <p>The American Accent Course helps English learners master pronunciation, rhythm, stress, intonation, and connected speech. Students gain clarity, fluency, and confidence to sound natural in conversations, at work, or in studies with a true American accent.</p>
 
 ## 2. Links
 
@@ -78,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: tylerjsimmons, listed since 2025-07-23
-- How much? — 268.944 USD
+- How much? — 268.34400000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

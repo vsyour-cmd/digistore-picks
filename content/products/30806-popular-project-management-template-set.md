@@ -4,16 +4,16 @@ digistore24_product_id: 299617
 title: "Popular Project Management Template Set"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 89.64
+price: 89.44
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.82
+earnings_per_sale: 44.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2019-12-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/recommended-project-management-profi-templates/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/recommended-project-management-profi-templates/"
@@ -22,16 +22,16 @@ language: "en"
 # Popular Project Management Template Set
 
 > Product ID `30806` · Digistore24 productId `299617` · [HTML profile page](../../reviews/popular-project-management-template-set-30806.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $89.64 (Single payment) |
+| Price | $89.44 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.82 |
+| Earnings/sale* | $44.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A Project Management Template set for students and experienced project managers from a certified Project Management Professional (PMP)®. Very comprehensive, good conversions, and happy users.
+**Vendor's marketplace description:** <p>A Project Management Template set for students and experienced project managers from a certified Project Management Professional (PMP)<sup>®</sup>.</p>
+<p>Very comprehensive, good conversions, and happy users.</p>
 
 ## 2. Links
 
@@ -92,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2019-12-13
-- How much? — 89.636794 USD
+- How much? — 89.436819 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

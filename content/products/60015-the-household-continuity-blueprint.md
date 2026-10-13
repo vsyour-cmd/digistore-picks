@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://household-continuity-blueprint-k6l.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60015/adminstore/"
 sales_page: "https://household-continuity-blueprint-k6l.plannerpack.co"
 language: "en"
 ---
 # The Household Continuity Blueprint
 
 > Product ID `60015` · Digistore24 productId `732112` · [HTML profile page](../../reviews/the-household-continuity-blueprint-60015.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://household-continuity-blueprint-k6l.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60015/adminstore/
 - Sales page: https://household-continuity-blueprint-k6l.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/732112/adminstore
 

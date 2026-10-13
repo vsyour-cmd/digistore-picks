@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Health & Fitness"]
 listed_since: "2022-07-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/45697/adminstore/"
 sales_page: "https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php"
 language: "en"
 ---
 # NEW! 100 Easy Keto Carbs Hardcopy Cookbook (Free+Shipping)
 
 > Product ID `45697` · Digistore24 productId `449971` · [HTML profile page](../../reviews/new-100-easy-keto-carbs-hardcopy-cookbook-free-shipping-45697.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Add This Brand New High Converting Free+Shipping Keto Cookbook Offer To Your Promotions Now (you will be surprised!)This has been selling like hotcakes elsewhere and has just been released to the Digistore affiliate marketplace... yours for the taking! Among the highest conversion rates with optimized upsell funnel and AOV... email swipe copy available. We also have several other high-converting c…
+**Vendor's marketplace description:** <p><strong>Add This Brand New High Converting Free+Shipping Keto Cookbook Offer To Your Promotions Now (you will be surprised!)</strong><br /><br />This has been selling like hotcakes elsewhere and has just been released to the Digistore affiliate marketplace... yours for the taking! </p>
+<p>Among the highest conversion rates with optimized upsell funnel and AOV... email swipe copy available.</p>
+<p>We also have several other high-converting cookbooks and nutritionals ready for your promos! <img src="https://www.digistore24-app.com/pb/img/merchant_972899/image/product/JU81PBGC.jpg" alt="phd-keto-books-2.jpg" width="375" height="102" /> <img src="https://www.digistore24-app.com/pb/img/merchant_972899/image/product/M777TCTF.jpg" alt="phd-nutritionals-group-1740-2.jpg" width="375" height="70" /></p>
+<p>*NOTE: All affiliates must be approved prior to promoting. This keeps things safe for all of us! VISIT THE AFFILIATE RESOURCES LINK TO GET APPROVED: https://www.primehealthsource.com/affiliates-ds.php</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/45697/adminstore/
 - Sales page: https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php
 - Vendor affiliate support: https://www.primehealthsource.com/affiliates-ds.php
 - Canonical redirect: https://www.digistore24.com/redir/449971/adminstore

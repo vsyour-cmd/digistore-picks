@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.brainwavehaven.site/the-focus-code?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/55913/adminstore/"
 sales_page: "https://www.brainwavehaven.site/the-focus-code"
 language: "en"
 ---
 # The Focus Code
 
 > Product ID `55913` · Digistore24 productId `676250` · [HTML profile page](../../reviews/the-focus-code-55913.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Focus Code is a premium binaural beats audio system with 30 tracks designed to help writers, programmers, entrepreneurs, and students achieve deep focus and flow state on demand. Perfect for affiliates in: productivity, self-development, business, entrepreneurship, writing, programming, and online education niches.
+**Vendor's marketplace description:** <pre>The Focus Code is a premium binaural beats audio system with 30 tracks designed to help writers, programmers, entrepreneurs, and students achieve deep focus and flow state on demand.
+</pre>
+<pre>Perfect for affiliates in: productivity, self-development, business, entrepreneurship, writing, programming, and online education niches.</pre>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.brainwavehaven.site/the-focus-code?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/55913/adminstore/
 - Sales page: https://www.brainwavehaven.site/the-focus-code
 - Vendor affiliate support: https://www.brainwavehaven.site/the-focus-code-affiliate-resources
 - Canonical redirect: https://www.digistore24.com/redir/676250/adminstore

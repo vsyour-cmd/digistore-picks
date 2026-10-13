@@ -4,16 +4,16 @@ digistore24_product_id: 443012
 title: "Dominate the Diabetes Niche with Gluconite!"
 vendor: "mysteryoffers"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 78
-earnings_per_sale: 60.31
+earnings_per_sale: 60.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-05-16"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://gluconite.co/ds/welcome?aff=adminstore#aff=adminstore"
 sales_page: "https://gluconite.co/ds/welcome"
@@ -22,16 +22,16 @@ language: "en"
 # Dominate the Diabetes Niche with Gluconite!
 
 > Product ID `40833` · Digistore24 productId `443012` · [HTML profile page](../../reviews/dominate-the-diabetes-niche-with-gluconite-40833.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 78% |
-| Earnings/sale* | $60.31 |
+| Earnings/sale* | $60.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mysteryoffers |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Earn a massive 75% commission with the new blood sugar supplement that's taking the market by storm! Our high-converting VSL, powerful upsells and low refunds make this offer a clear winner! What are you waiting for? Apply now for a huge commission percentage and get the $$$ rolling in! • High conversions with diabetes and weight loss lists • $166 average order value • 2 - 4% conversion rate • $5 …
+**Vendor's marketplace description:** <p><strong>Earn a massive 75% commission</strong> with the new blood sugar supplement that's taking the market by storm!</p>
+<p>Our <strong>high-converting VSL, powerful upsells</strong> and <strong>low refunds</strong> make this offer a clear winner! What are you waiting for? <em><strong>Apply now for a huge commission percentage</strong> </em>and get the $$$ rolling in!</p>
+<p>• <strong>High conversions</strong> with diabetes and weight loss lists</p>
+<p>• <strong>$166</strong> average order value</p>
+<p>• <strong>2 - 4%</strong> conversion rate</p>
+<p>• <strong>$5 -$7</strong> EPC</p>
+<p> </p>
 
 ## 2. Links
 
@@ -89,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: mysteryoffers, listed since 2022-05-16
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

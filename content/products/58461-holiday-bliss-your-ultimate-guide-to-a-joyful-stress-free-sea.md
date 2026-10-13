@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://holidaybliss-6uo.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58461/adminstore/"
 sales_page: "https://holidaybliss-6uo.plannerpack.co"
 language: "en"
 ---
 # Holiday Bliss: Your Ultimate Guide to a Joyful, Stress-Free Sea
 
 > Product ID `58461` · Digistore24 productId `723869` · [HTML profile page](../../reviews/holiday-bliss-your-ultimate-guide-to-a-joyful-stress-free-sea-58461.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://holidaybliss-6uo.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58461/adminstore/
 - Sales page: https://holidaybliss-6uo.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/723869/adminstore
 

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735498?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735498"
@@ -22,7 +22,7 @@ language: "en"
 # Email Marketing Workflow (English)
 
 > Product ID `59456` · Digistore24 productId `735498` · [HTML profile page](../../reviews/email-marketing-workflow-english-59456.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Email Marketing Workflow (English) For small businesses planning a permission-based email sequence. English guide and workbook, five sample emails, editable worksheets, opt-in and confirmation copy, automation blueprint, event map, link register, send plan and twelve test cases. No live Brevo automation, real freebie or separate paid planner is supplied. Written self-study download in English. No …
+**Vendor's marketplace description:** <p>Email Marketing Workflow (English)</p>
+<p>For small businesses planning a permission-based email sequence.</p>
+<p>English guide and workbook, five sample emails, editable worksheets, opt-in and confirmation copy, automation blueprint, event map, link register, send plan and twelve test cases.</p>
+<p>No live Brevo automation, real freebie or separate paid planner is supplied.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$99.00 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

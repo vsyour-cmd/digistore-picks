@@ -4,34 +4,34 @@ digistore24_product_id: 533765
 title: "Kerassentials"
 vendor: "Kerassentials"
 product_type: "Deliverable"
-price: 236.72
+price: 236.19
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 132.26
+earnings_per_sale: 131.97
 cart_conversion_pct: 4
 cancel_rate_pct: 17.68
 categories: ["Food Supplements"]
 listed_since: "2024-01-11"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://mykerassentials24.com/text2.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46831/adminstore/"
 sales_page: "https://mykerassentials24.com/text2.php"
 language: "en"
 ---
 # Kerassentials
 
 > Product ID `46831` · Digistore24 productId `533765` · [HTML profile page](../../reviews/kerassentials-46831.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $236.72 (Single payment) |
+| Price | $236.19 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $132.26 |
+| Earnings/sale* | $131.97 |
 | Cart conversion* | 4% |
 | Cancel rate* | 17.68% |
 | Vendor | Kerassentials |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Finally On DigiStore! This Novel Fungus Destroying Formula Converts On All Types Of Traffic. Get Access To A Crazy Profitable Niche, With $624 Maximum Cart Value. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
+**Vendor's marketplace description:** <p>Finally On DigiStore! This Novel Fungus Destroying Formula Converts On All Types Of Traffic. Get Access To A Crazy Profitable Niche, With $624 Maximum Cart Value. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://mykerassentials24.com/text2.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46831/adminstore/
 - Sales page: https://mykerassentials24.com/text2.php
 - Vendor affiliate support: https://kerassentials24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/533765/adminstore
@@ -93,7 +93,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Kerassentials, listed since 2024-01-11
-- How much? — 236.71554400000002 USD
+- How much? — 236.18744400000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

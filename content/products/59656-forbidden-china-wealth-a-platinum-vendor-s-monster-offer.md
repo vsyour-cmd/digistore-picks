@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://theforbiddenchinawealth.com/vsl?aff=adminstore#aff=adminstore"
 sales_page: "https://theforbiddenchinawealth.com/vsl"
@@ -22,7 +22,7 @@ language: "en"
 # Forbidden China Wealth - A Platinum Vendor's Monster Offer
 
 > Product ID `59656` · Digistore24 productId `733740` · [HTML profile page](../../reviews/forbidden-china-wealth-a-platinum-vendor-s-monster-offer-59656.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** From the 7-figure team behind Dubai Wealth Secret comes the highly-anticipated follow-up: Forbidden China Wealth. $1.60+ EPC. $84 AOV. Killer VSL, fresh angle, high-converting upsells. Grab your affiliate link here: https://theforbiddenchinawealth.com/affiliates
+**Vendor's marketplace description:** <p>From the 7-figure team behind <em>Dubai Wealth Secret</em> comes the highly-anticipated follow-up: Forbidden China Wealth. <strong>$1.60+ EPC. $84 AOV.</strong> Killer VSL, fresh angle, high-converting upsells. Grab your affiliate link here: <a href="https://theforbiddenchinawealth.com/affiliates" target="_blank" rel="noreferrer noopener">https://theforbiddenchinawealth.com/affiliates</a></p>
 
 ## 2. Links
 

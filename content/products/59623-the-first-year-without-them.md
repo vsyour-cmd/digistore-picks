@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://thefirstyearwithoutthem-v6v.plannerpack.co?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59623/adminstore/"
 sales_page: "https://thefirstyearwithoutthem-v6v.plannerpack.co"
 language: "en"
 ---
 # The First Year Without Them
 
 > Product ID `59623` · Digistore24 productId `736745` · [HTML profile page](../../reviews/the-first-year-without-them-59623.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://thefirstyearwithoutthem-v6v.plannerpack.co?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59623/adminstore/
 - Sales page: https://thefirstyearwithoutthem-v6v.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/736745/adminstore
 

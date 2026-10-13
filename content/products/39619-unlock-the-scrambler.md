@@ -4,34 +4,34 @@ digistore24_product_id: 428168
 title: "Unlock the Scrambler"
 vendor: "bobbyrio"
 product_type: "Member area and video courses"
-price: 88.53
+price: 88.33
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 17.71
+earnings_per_sale: 17.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://socialmistakes.com/newtechnique?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/39619/adminstore/"
 sales_page: "https://socialmistakes.com/newtechnique"
 language: "en"
 ---
 # Unlock the Scrambler
 
 > Product ID `39619` · Digistore24 productId `428168` · [HTML profile page](../../reviews/unlock-the-scrambler-39619.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.53 (Single payment) |
+| Price | $88.33 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $17.71 |
+| Earnings/sale* | $17.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bobbyrio |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** You will get 20% on the front end offer and 50% on all upsells and rebills of a proven funnel that has been generating over 7-figures in sales on cold traffic over the past year. Important. NO "branded keywords" allowed. Any affiliates bidding on any terms in google or bing like "unlock the scrambler" "bobby rio" or variations of that, will be deactivated. The product targets the hot button niche …
+**Vendor's marketplace description:** <p><strong>You will get 20% on the front end offer and 50% on all upsells</strong> and rebills of a proven funnel that has been generating over 7-figures in sales on cold traffic over the past year.  </p>
+<p><strong><span style="color:#ff0000;">Important.</span> </strong>NO "branded keywords" allowed.  Any affiliates bidding on any terms in google or bing like "unlock the scrambler" "bobby rio" or variations of that, will be deactivated.</p>
+<p>The product targets the hot button niche of men looking to rekindle things with a woman who is slipping away, and the conversions are sky high across all traffic types.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://socialmistakes.com/newtechnique?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/39619/adminstore/
 - Sales page: https://socialmistakes.com/newtechnique
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/unlock-the-scrambler
 - Canonical redirect: https://www.digistore24.com/redir/428168/adminstore
@@ -78,7 +80,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: bobbyrio, listed since 2022-02-04
-- How much? — 88.5274 USD
+- How much? — 88.32990000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

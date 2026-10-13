@@ -4,16 +4,16 @@ digistore24_product_id: 580186
 title: "Clearing Academy"
 vendor: "Statbrook"
 product_type: "Member area and video courses"
-price: 52.51
+price: 52.39
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 28.46
+earnings_per_sale: 28.4
 cart_conversion_pct: 5
 cancel_rate_pct: 6.94
 categories: ["Personal Development"]
 listed_since: "2024-11-12"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
 promo_link: "https://www.clearingacademy.com/ds24-ritual?aff=adminstore#aff=adminstore"
 sales_page: "https://www.clearingacademy.com/ds24-ritual"
@@ -22,16 +22,16 @@ language: "en"
 # Clearing Academy
 
 > Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](../../reviews/clearing-academy-51902.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $52.51 (Single payment) |
+| Price | $52.39 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $28.46 |
+| Earnings/sale* | $28.40 |
 | Cart conversion* | 5% |
 | Cancel rate* | 6.94% |
 | Vendor | Statbrook |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Discover clearing techniques to remove negative blocks and elevate your spiritual power.Rewrite the mental patterns holding you back from achieving your dreams without even realizing it.Instantly dissolve limiting patterns, even if you've felt stuck for years.Easily banish unproductive beliefs and unlock the freedom of unlimited power.Effortlessly melt away stagnation, doubt, and self-criticism.Us…
+**Vendor's marketplace description:** <p>Discover clearing techniques to remove negative blocks and elevate your spiritual power.<br /><br />Rewrite the mental patterns holding you back from achieving your dreams without even realizing it.<br /><br />Instantly dissolve limiting patterns, even if you've felt stuck for years.<br /><br />Easily banish unproductive beliefs and unlock the freedom of unlimited power.<br /><br />Effortlessly melt away stagnation, doubt, and self-criticism.<br /><br />Use new affirmations to easily clear away unhelpful beliefs.</p>
 
 ## 2. Links
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Statbrook, listed since 2024-11-12
-- How much? — 52.511316 USD
+- How much? — 52.394166000000006 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

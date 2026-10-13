@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735481?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735481"
@@ -22,7 +22,7 @@ language: "en"
 # Digital Product Idea Library - 20 Printable Product Briefs (English)
 
 > Product ID `59452` · Digistore24 productId `735481` · [HTML profile page](../../reviews/digital-product-idea-library-20-printable-product-briefs-english-59452.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Digital Product Idea Library - 20 Printable Product Briefs (English) For creators planning a focused printable download. 20 product briefs with audiences, page plans, complete sample-page wording and small demand tests; PDF, editable DOCX and Markdown. Editorial concepts are not market-validated sellers. No finished Canva designs or template links. Written self-study download in English. No video …
+**Vendor's marketplace description:** <p>Digital Product Idea Library - 20 Printable Product Briefs (English)</p>
+<p>For creators planning a focused printable download.</p>
+<p>20 product briefs with audiences, page plans, complete sample-page wording and small demand tests; PDF, editable DOCX and Markdown.</p>
+<p>Editorial concepts are not market-validated sellers. No finished Canva designs or template links.</p>
+<p>Written self-study download in English. No video lessons, coaching or done-for-you service. Compatible software and any external subscriptions are separate. No guaranteed sales, reach, clients or income.</p>
+<p>US$9.99 one-time payment. 60-day money-back guarantee. 50% affiliate commission under the Digistore24 commission calculation.</p>
+<p>Affiliate resources include the English product cover, two social post drafts, an email draft and product facts. Use your generated affiliate link. Disclose advertising; do not invent testimonials or promise results.</p>
+<p>Support: info@einfachhaltbar.de</p>
 
 ## 2. Links
 

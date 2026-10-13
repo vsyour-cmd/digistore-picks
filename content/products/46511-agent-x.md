@@ -4,34 +4,34 @@ digistore24_product_id: 527515
 title: "Agent X"
 vendor: "remixable"
 product_type: "Software"
-price: 532.29
+price: 531.1
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 266.14
+earnings_per_sale: 265.55
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2023-11-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://getagentx.com/order?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/46511/adminstore/"
 sales_page: "https://getagentx.com/order"
 language: "en"
 ---
 # Agent X
 
 > Product ID `46511` · Digistore24 productId `527515` · [HTML profile page](../../reviews/agent-x-46511.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $532.28 (Single payment) |
+| Price | $531.10 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $266.14 |
+| Earnings/sale* | $265.55 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | remixable |
@@ -41,11 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The AI tech of 2024 is here! Presenting AGENT X, the world's first true autonomous AI agent, which automates basically everything we do as marketers.Now, I'm sure you've heard the hype about Chat-GPT and generative AI.. but THIS is a whole new level: an AI agent that simply does everything for you. You need to see this to believe it. Exclusive to Digistore24, for 2024! Grab your link and promote
+**Vendor's marketplace description:** <p><strong>The AI tech of 2024 is here! </strong><br /><br />Presenting <strong>AGENT X</strong>, the world's first true autonomous AI agent, which automates basically everything we do as marketers.Now, I'm sure you've heard the hype about Chat-GPT and generative AI.. but <strong>THIS is a whole new level</strong>: an AI agent that simply does everything for you. You need to see this to believe it. Exclusive to Digistore24, for 2024!</p>
+<p><strong>Grab your link and promote</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getagentx.com/order?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/46511/adminstore/
 - Sales page: https://getagentx.com/order
 - Vendor affiliate support: https://getagentx.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/527515/adminstore
@@ -91,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: remixable, listed since 2023-11-29
-- How much? — 532.285 USD
+- How much? — 531.0975000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

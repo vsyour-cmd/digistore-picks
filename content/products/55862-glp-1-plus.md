@@ -12,8 +12,8 @@ cart_conversion_pct: 10
 cancel_rate_pct: 32.32
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-08-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/GLP-1-Plus/The-Rest-Of-Us/HD.htm"
@@ -22,7 +22,7 @@ language: "en"
 # GLP-1 Plus
 
 > Product ID `55862` · Digistore24 productId `627405` · [HTML profile page](../../reviews/glp-1-plus-55862.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,15 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Looking for a GLP-1 themed weight management offer your audience can understand?GLP-1 Plus is built around a clear “GLP-1 for the rest of us” message for people interested in appetite support and metabolic wellness. The offer pairs that angle with a 90-day money-back guarantee.Here’s what’s in it for you: 60% commission on tracked sales 10% cart conversion rate currently shown in the Digistore24 m…
+**Vendor's marketplace description:** <div><strong>Looking for a GLP-1 themed weight management offer your audience can understand?</strong><br />GLP-1 Plus is built around a clear “GLP-1 for the rest of us” message for people interested in appetite support and metabolic wellness. The offer pairs that angle with a 90-day money-back guarantee.<br /><strong>Here’s what’s in it for you:</strong></div>
+<ul>
+<li><strong>60% commission</strong> on tracked sales</li>
+<li><strong>10% cart conversion rate</strong> currently shown in the Digistore24 marketplace</li>
+<li>Promotional links, email copy, and creative assets ready to use</li>
+<li>Weekly affiliate payments through Digistore24</li>
+<li>Dedicated affiliate support when you need it</li>
+</ul>
+<div>Explore the <a>GLP-1 Plus Affiliate Resource Center</a> to get your links and marketing materials.</div>
 
 ## 2. Links
 

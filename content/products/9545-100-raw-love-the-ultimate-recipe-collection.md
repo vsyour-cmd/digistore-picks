@@ -4,16 +4,16 @@ digistore24_product_id: 42173
 title: "100% RAW LOVE - the ultimate recipe collection"
 vendor: "Rohtopia"
 product_type: "Downloads"
-price: 22.38
+price: 22.33
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.19
+earnings_per_sale: 11.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2015-02-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/"
@@ -22,16 +22,16 @@ language: "en"
 # 100% RAW LOVE - the ultimate recipe collection
 
 > Product ID `9545` · Digistore24 productId `42173` · [HTML profile page](../../reviews/100-raw-love-the-ultimate-recipe-collection-9545.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.38 (Single payment) |
+| Price | $22.33 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rohtopia |
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** „the ultimate favorite recipe collection by raw foodies from all over the planet“ Have you ever wondered what the world’s leading raw foodies favorite recipes are? Wonder no longer – they are all in this book! 100% RAW LOVE contains exclusively tried, tested and served recipes – a satisfaction guarantee! You will also find a bit of information and contact details of each recipe creator on their re…
+**Vendor's marketplace description:** <p><em>&bdquo;the ultimate favorite recipe collection by&nbsp;raw foodies from all over the planet&ldquo;</em></p>
+<p>Have you ever wondered what the <strong>world&rsquo;s leading raw foodies</strong> favorite recipes are? Wonder no longer &ndash; they are all in this book!</p>
+<p>100% RAW LOVE contains exclusively tried, tested and served recipes &ndash; a satisfaction guarantee!</p>
+<p>You will also find a bit of information and contact details of each recipe creator on their recipe&rsquo;s page.</p>
+<p>&nbsp;</p>
+<p><strong>100 colour pages PDF format</strong> (DIGITAL &ndash; ideal for computers, laptops, tablets or to print out)</p>
+<h4>&nbsp;</h4>
+<p>&nbsp;</p>
 
 ## 2. Links
 
@@ -79,7 +86,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Rohtopia, listed since 2015-02-04
-- How much? — 22.378382 USD
+- How much? — 22.328457 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

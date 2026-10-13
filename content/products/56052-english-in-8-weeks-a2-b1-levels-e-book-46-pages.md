@@ -4,16 +4,16 @@ digistore24_product_id: 676043
 title: "English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages"
 vendor: "dewkrie"
 product_type: "E-books"
-price: 12.32
+price: 12.29
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 6.16
+earnings_per_sale: 6.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-03-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676043?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676043"
@@ -22,16 +22,16 @@ language: "en"
 # English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages
 
 > Product ID `56052` · Digistore24 productId `676043` · [HTML profile page](../../reviews/english-in-8-weeks-a2-b1-levels-e-book-46-pages-56052.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.32 (Single payment) |
+| Price | $12.29 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $6.16 |
+| Earnings/sale* | $6.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | dewkrie |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Build a strong B1 English level in just 8 weeks with this simple and practical digital workbook. Designed for A2–B1 learners, this self-study plan includes step-by-step daily lessons, vocabulary exercises, grammar refreshers, and a list of essential irregular verbs. Improve your speaking, understanding, and confidence in English with just 15–20 minutes a day — without stress or overwhelming theory…
+**Vendor's marketplace description:** <p>Build a strong B1 English level in just 8 weeks with this simple and <strong>practical digital workbook</strong>. Designed for A2–B1 learners, this self-study plan includes step-by-step daily lessons, vocabulary exercises, grammar refreshers, and a list of essential irregular verbs.</p>
+<p>Improve your speaking, understanding, and confidence in English with <em>just 15–20 minutes a day</em> — without stress or overwhelming theory.</p>
+<p>Perfect for anyone who wants to <em>refresh their English, expand vocabulary, and create a consistent learning habit.</em></p>
 
 ## 2. Links
 
@@ -76,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: dewkrie, listed since 2026-03-13
-- How much? — 12.315394000000001 USD
+- How much? — 12.287919 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

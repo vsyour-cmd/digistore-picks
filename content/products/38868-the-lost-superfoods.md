@@ -4,16 +4,16 @@ digistore24_product_id: 377301
 title: "The Lost SuperFoods"
 vendor: "lostrec"
 product_type: "Book (printed)"
-price: 54.38
+price: 54.26
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.15
+earnings_per_sale: 26.1
 cart_conversion_pct: 19
 cancel_rate_pct: 1.7
 categories: ["Survival"]
 listed_since: "2021-03-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://ultimatesurvivalfoods.com/book/?aff=adminstore#aff=adminstore"
 sales_page: "https://ultimatesurvivalfoods.com/book/"
@@ -22,16 +22,16 @@ language: "en"
 # The Lost SuperFoods
 
 > Product ID `38868` · Digistore24 productId `377301` · [HTML profile page](../../reviews/the-lost-superfoods-38868.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $54.38 (Single payment) |
+| Price | $54.26 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.15 |
+| Earnings/sale* | $26.10 |
 | Cart conversion* | 19% |
 | Cancel rate* | 1.7% |
 | Vendor | lostrec |
@@ -41,7 +41,37 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** NEW in 2022 for Affiliates! From the creators of The Lost Ways and The Lost Book of Remedies!This bestselling product, is now available (as of 2022) for you to promote it and make lots of sales fast. 90% commissions available on upsells. Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates fou…
+**Vendor's marketplace description:** <p>NEW in 2022 for Affiliates! From the creators of The Lost Ways and The Lost Book of Remedies!<br />This bestselling product, is now available (as of 2022) for you to promote it and make lots of sales fast. 90% commissions available on upsells.</p>
+
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<p>Our product is not available for Facebook, Instagram, and TikTok. Brand Bidding on Google AdWords is not allowed. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<p>For support please visit our page <a href="https://ultimatesurvivalfoods.com/affiliates/">https://ultimatesurvivalfoods.com/affiliates/</a>  or email affiliates.gbs@gmail.com .</p>
+<p>Promolink:https://www.digistore24.com/redir/377301/AFFILIATE/CAMPAIGNKEY</p>
+<p> http://www.thelostsurvivalfoods.com/affiliates</p>
 
 ## 2. Links
 
@@ -87,7 +117,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: lostrec, listed since 2021-03-04
-- How much? — 54.382718000000004 USD
+- How much? — 54.261393000000005 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

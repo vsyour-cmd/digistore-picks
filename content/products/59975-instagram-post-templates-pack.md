@@ -4,34 +4,34 @@ digistore24_product_id: 737230
 title: "Instagram Post Templates Pack"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 25.77
+price: 25.72
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 6.44
+affiliate_commission_pct: 30
+earnings_per_sale: 7.71
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://xaruta4.wordpress.com/instagram-template-pack/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59975/adminstore/"
 sales_page: "https://xaruta4.wordpress.com/instagram-template-pack/"
 language: "en"
 ---
 # Instagram Post Templates Pack
 
 > Product ID `59975` · Digistore24 productId `737230` · [HTML profile page](../../reviews/instagram-post-templates-pack-59975.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.77 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $6.44 |
+| Price | $25.72 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $7.71 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ✅ Comprehensive Mini-Content System ✅ Editable Canva Templates for Creators & Brands ✅ Create less. Post better. ✅ Bonus MaterialsContent:10x Reel Covers10x Instagram Posts10x Carousel10x Instagram Stories5x Promo / Announcement5x Quote / EngagementBonus (50x Hooks)
+**Vendor's marketplace description:** <p>✅ Comprehensive Mini-Content System <br />✅ Editable Canva Templates for Creators &amp; Brands <br />✅ Create less. Post better. <br />✅ Bonus Materials<br /><br /><strong>Content:</strong><br />10x Reel Covers<br />10x Instagram Posts<br />10x Carousel<br />10x Instagram Stories<br />5x Promo / Announcement<br />5x Quote / Engagement<br />Bonus (50x Hooks)</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/instagram-template-pack/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59975/adminstore/
 - Sales page: https://xaruta4.wordpress.com/instagram-template-pack/
 - Canonical redirect: https://www.digistore24.com/redir/737230/adminstore
 
@@ -75,7 +75,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-09-27
-- How much? — 25.7738 USD
+- How much? — 25.716300000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

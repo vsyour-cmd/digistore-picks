@@ -4,34 +4,34 @@ digistore24_product_id: 435925
 title: "⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡"
 vendor: "Ali16117"
 product_type: "Member area and video courses"
-price: 335.06
+price: 334.31
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 100.52
+earnings_per_sale: 100.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Trading Products"]
 listed_since: "2022-03-25"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://forexbee.co/supply-and-demand-indicator-digi/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40517/adminstore/"
 sales_page: "https://forexbee.co/supply-and-demand-indicator-digi/"
 language: "en"
 ---
 # ⚡Supply and Demand Indicator ⚡ Best Price Action Indicator ⚡
 
 > Product ID `40517` · Digistore24 productId `435925` · [HTML profile page](../../reviews/supply-and-demand-indicator-best-price-action-indicator-40517.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $335.06 (Subscription) |
+| Price | $334.31 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $100.52 |
+| Earnings/sale* | $100.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Ali16117 |
@@ -41,11 +41,21 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote the Best Price Action Based Products and get a 30% Recurring Commission on each sale. Give value to customers and you'll get the same in return This indicator plots the supply and demand zones on the price chart of financial assets. These zones help retail traders in trading. it plots four types of zones Rally base Rally Drop base Drop Drop base Rally Rally base Drop INCREDIBLE Conversions…
+**Vendor's marketplace description:** <p>Promote the Best Price Action Based Products and get a <strong><span style="color:#ff0000;">30% Recurring Commission</span></strong> on each sale.</p>
+<p><span style="color:#ff0000;"><strong>Give value to customers and you'll get the same in return</strong></span></p>
+<p><span style="color:#000000;">This indicator plots the supply and demand zones on the price chart of financial assets. These zones help retail traders in trading. </span></p>
+<p><span style="color:#000000;">it plots four types of zones</span></p>
+<ul>
+<li><span style="color:#000000;">Rally base Rally</span></li>
+<li><span style="color:#000000;">Drop base Drop</span></li>
+<li><span style="color:#000000;">Drop base Rally</span></li>
+<li><span style="color:#000000;">Rally base Drop</span></li>
+</ul>
+<p><span style="color:#000000;"><strong>INCREDIBLE</strong> Conversions<br /><strong>LONG-TERM</strong> Evergreen Offer<br /><strong>MASSIVE</strong> Payouts </span></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://forexbee.co/supply-and-demand-indicator-digi/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40517/adminstore/
 - Sales page: https://forexbee.co/supply-and-demand-indicator-digi/
 - Vendor affiliate support: https://forexbee.co/forex-affiliate-programs/
 - Canonical redirect: https://www.digistore24.com/redir/435925/adminstore
@@ -93,7 +103,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Ali16117, listed since 2022-03-25
-- How much? — 335.05940000000004 USD
+- How much? — 334.31190000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

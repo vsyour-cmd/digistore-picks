@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.tonytextures.com/architecture-people-cutout-silhouettes/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tonytextures.com/architecture-people-cutout-silhouettes/"
@@ -22,7 +22,7 @@ language: "en"
 # Architecture VIZ Graphics – Abstract People Collection PNG
 
 > Product ID `59176` · Digistore24 productId `593563` · [HTML profile page](../../reviews/architecture-viz-graphics-abstract-people-collection-png-59176.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,29 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Architecture VIZ Graphics: Cutout People – Abstract People Collection Professional graphic collections for architectural visualizations by Tonytextures — designed for architects, landscape designers and ArchVIZ studios. Abstract cutout people silhouettes for architectural illustrations — stylized figures ideal for concept renderings and design presentations. Find all information and free sample do…
+**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics: Cutout People – Abstract People Collection</strong></p>
+<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
+<p>Abstract cutout people silhouettes for architectural illustrations — stylized figures ideal for concept renderings and design presentations.</p>
+<p>Find all information and free sample downloads on the product page: <br /><a href="https://www.tonytextures.com/architecture-people-cutout-silhouettes/">https://www.tonytextures.com/architecture-people-cutout-silhouettes/</a></p>
+<p><strong>What your audience gets:</strong></p>
+<ul>
+<li>Abstract people cutouts in perspective view</li>
+<li>Motion blur and black silhouette styles included</li>
+<li>Ideal for concept renderings, master plans and design presentations</li>
+<li>PNG with transparent background</li>
+<li>Instant digital download</li>
+<li>60-day money-back guarantee + free sample download available<br /><br /></li>
+</ul>
+<p><strong>Why it converts:</strong></p>
+<ul>
+<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
+<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
+<li>Free sample download reduces purchase hesitation</li>
+<li>Specialized niche for transport architects and urban designers</li>
+</ul>
+<p><strong>Upsell opportunity - the MEGA Bundle:</strong></p>
+<p>This collection is part of <a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">Tonytexture's MEGA Bundle</a> which includes all 26 ArchVIZ collection with a 50% discount!<br /><br /></p>
+<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
 
 ## 2. Links
 

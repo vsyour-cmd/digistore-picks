@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59169/adminstore/"
 sales_page: "https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/"
 language: "en"
 ---
 # Architecture VIZ Graphics – Cutout People General, 480 PNGs
 
 > Product ID `59169` · Digistore24 productId `725184` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-people-general-480-pngs-59169.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,37 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Architecture VIZ Graphics: Cutout People - General Professional graphic collections for architectural visualizations by Tonytextures — designed for architects, landscape designers and ArchVIZ studios. 480 AI-generated cutout people in PNG format for general architectural entourage — public spaces, everyday life, mixed-use projects. Find all information and free sample downloads on the product page…
+**Vendor's marketplace description:** <p><strong>Architecture VIZ Graphics: Cutout People - General</strong></p>
+<p>Professional graphic collections for architectural visualizations by Tonytextures — designed <strong>for architects</strong>, landscape designers and ArchVIZ studios.</p>
+<p>480 AI-generated cutout people in PNG format for general architectural entourage — public spaces, everyday life, mixed-use projects.</p>
+<p>Find all information and free sample downloads on the product page: <br /><a href="https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/">https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/</a><br /><br /></p>
+<p><strong>What your audience gets:</strong></p>
+<ul>
+<li>480 photorealistic PNG cutout people with transparent background</li>
+<li>Various poses, ages and styles — suitable for any project type</li>
+<li>No personality rights concerns — fully AI-generated</li>
+<li>Avg. resolution: H 1,900 x W 1,100 px</li>
+<li>Instant digital download</li>
+<li>60-day money-back guarantee + free sample download available<br /><br /></li>
+</ul>
+<p><strong>Why it converts:</strong></p>
+<ul>
+<li>Clear niche: architects, landscape designers, ArchVIZ studios</li>
+<li>Established brand: Tonytextures.com – 10+ years serving architects</li>
+<li>Free sample download reduces purchase hesitation</li>
+<li>Versatile general collection — fits virtually any architectural project</li>
+</ul>
+<p> </p>
+<p><strong>Upsell Opportunity! Also available as bundle:</strong></p>
+<ul>
+<li><a href="https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/#specialdeal" target="_blank" rel="noreferrer noopener">Cutout People Bundle</a> </li>
+<li><a href="https://www.tonytextures.com/overview-graphic-collections-for-architectural-visualization/" target="_blank" rel="noreferrer noopener">MEGA Bundle</a><br /><br /></li>
+</ul>
+<p>Overview of all Tonytextures products for architectural visualization: <a href="https://www.tonytextures.com/shop/">https://www.tonytextures.com/shop/</a></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59169/adminstore/
 - Sales page: https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/725184/adminstore

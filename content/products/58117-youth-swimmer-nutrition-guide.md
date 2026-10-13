@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://brilliant-platypus-7e2007.netlify.app/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58117/adminstore/"
 sales_page: "https://brilliant-platypus-7e2007.netlify.app/"
 language: "en"
 ---
 # Youth Swimmer Nutrition Guide
 
 > Product ID `58117` · Digistore24 productId `715772` · [HTML profile page](../../reviews/youth-swimmer-nutrition-guide-58117.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,24 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Nutrition for Young Swimmers" is a 28-page PDF ebook that gives young competitive swimmers (ages 8–18), their parents, and their coaches a clear, science-based framework for fueling training, protecting long-term health, and performing at their best. Written by a pharmacist and nutritionist, it translates sports-nutrition research into simple daily habits that fit real training schedules — no fads…
+**Vendor's marketplace description:** <p>Nutrition for Young Swimmers" is a 28-page PDF ebook that gives young competitive swimmers (ages 8–18), their parents, and their coaches a clear, science-based framework for fueling training, protecting long-term health, and performing at their best. Written by a pharmacist and nutritionist, it translates sports-nutrition research into simple daily habits that fit real training schedules — no fads, no guesswork. Delivered as an instant digital download (PDF format) after purchase.</p>
+<p>Key benefit topics covered in the book:</p>
+<p>•Why young swimmers have higher fueling needs than other kids their age.</p>
+<p>•Daily energy and carbohydrate requirements based on training intensity.</p>
+<p>•How to build balanced meals using a simple 5-component method.</p>
+<p>•Pre-training, intra-training, and post-training fueling strategies.</p>
+<p>•The "3 Rs" of recovery: Refuel, Repair, Rehydrate.</p>
+<p>•Nutrition for double training days and back-to-back sessions.</p>
+<p>•Race-day and competition-day eating strategies.</p>
+<p>•How to carb-load properly before big meets (with a food cheat sheet).</p>
+<p>•A full example day of eating, meal-by-meal.</p>
+<p>•Understanding underfueling and RED-S (Relative Energy Deficiency in Sport).</p>
+<p>•Warning signs of not eating enough, and how to fix it.</p>
+<p>•Practical tips for parents to support healthy eating habits.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://brilliant-platypus-7e2007.netlify.app/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58117/adminstore/
 - Sales page: https://brilliant-platypus-7e2007.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/715772/adminstore
 

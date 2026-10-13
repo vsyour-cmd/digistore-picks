@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software","Marketing Services"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://dealbotai.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://dealbotai.com/ds/"
@@ -22,7 +22,7 @@ language: "en"
 # DealBot AI: answers every message and books the appointment
 
 > Product ID `58842` · Digistore24 productId `724771` · [HTML profile page](../../reviews/dealbot-ai-answers-every-message-and-books-the-appointment-58842.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** An AI assistant that answers every customer message on WhatsApp, Instagram, Messenger, Telegram, email, SMS and the website chat widget, books appointments into the calendar, and follows up with people who go quiet. Who it sells to: salons, clinics, trades, gyms, agencies, any local service business that loses enquiries out of hours. The offer: $99 paid once. No subscription and nothing renews. Se…
+**Vendor's marketplace description:** <p><strong>An AI assistant that answers every customer message on WhatsApp, Instagram, Messenger, Telegram, email, SMS and the website chat widget, books appointments into the calendar, and follows up with people who go quiet.</strong></p>
+<p><strong>Who it sells to:</strong> salons, clinics, trades, gyms, agencies, any local service business that loses enquiries out of hours.</p>
+<p><strong>The offer:</strong> $99 paid once. No subscription and nothing renews. Setup is self-serve and takes about fifteen minutes. 60-day money-back guarantee.</p>
+<p><strong>For affiliates:</strong> 40% commission. English sales page at dealbotai.com/ds. One-off product, so the commission is paid on the spot rather than over a rebill.</p>
 
 ## 2. Links
 

@@ -4,34 +4,34 @@ digistore24_product_id: 583090
 title: "Vertigenics"
 vendor: "Vertigenics"
 product_type: "Supplements - health"
-price: 176.19
+price: 175.8
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.66
+earnings_per_sale: 107.42
 cart_conversion_pct: 10
 cancel_rate_pct: 13.58
 categories: ["Food Supplements"]
 listed_since: "2024-11-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://getmyvertigenics24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/50717/adminstore/"
 sales_page: "https://getmyvertigenics24.com/text.php"
 language: "en"
 ---
 # Vertigenics
 
 > Product ID `50717` · Digistore24 productId `583090` · [HTML profile page](../../reviews/vertigenics-50717.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $176.19 (Single payment) |
+| Price | $175.80 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.66 |
+| Earnings/sale* | $107.42 |
 | Cart conversion* | 10% |
 | Cancel rate* | 13.58% |
 | Vendor | Vertigenics |
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Fresh On DigiStore! The Vertigo Formula That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Bringing Dizzying Profits On Native And Fb with 6 Fig/day.
+**Vendor's marketplace description:** <p>Fresh On DigiStore! The Vertigo Formula That Converts Big On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Bringing Dizzying Profits On Native And Fb with 6 Fig/day.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://getmyvertigenics24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/50717/adminstore/
 - Sales page: https://getmyvertigenics24.com/text.php
 - Vendor affiliate support: https://vertigenics24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/583090/adminstore
@@ -88,7 +88,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Vertigenics, listed since 2024-11-27
-- How much? — 176.191938 USD
+- How much? — 175.798863 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

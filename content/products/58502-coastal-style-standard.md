@@ -4,16 +4,16 @@ digistore24_product_id: 714275
 title: "Coastal Style - Standard"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 22.4
+price: 22.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.21
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Home & Garden"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/714275?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/714275"
@@ -22,16 +22,16 @@ language: "en"
 # Coastal Style - Standard
 
 > Product ID `58502` · Digistore24 productId `714275` · [HTML profile page](../../reviews/coastal-style-standard-58502.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.40 (Single payment) |
+| Price | $22.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.21 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A digital source of inspiration for a bright home featuring maritime charm and a relaxed holiday atmosphere. Bring the feeling of sunshine, the beach, and the sound of the sea into your home. "Coastal Style – A Sea Breeze in the Living Room" is a digital inspiration guide that shows you how to combine the airy ease of seaside living with timeless décor and modern design. Recommend a high-quality d…
+**Vendor's marketplace description:** <h2>A digital source of inspiration for a bright home featuring maritime charm and a relaxed holiday atmosphere.</h2>
+<p>Bring the feeling of sunshine, the beach, and the sound of the sea into your home. "Coastal Style – A Sea Breeze in the Living Room" is a digital inspiration guide that shows you how to combine the airy ease of seaside living with timeless décor and modern design.</p>
+<p>Recommend a high-quality digital home and interior design product that strongly appeals to the popular home &amp; living audience. Inspiring room ideas, stylish mood boards, and practical guides ensure high customer satisfaction—making it ideal for Pinterest, blogs, social media, and email marketing.</p>
 
 ## 2. Links
 
@@ -90,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: ramonakrenn923f, listed since 2026-08-21
-- How much? — 22.400793999999998 USD
+- How much? — 22.350819 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

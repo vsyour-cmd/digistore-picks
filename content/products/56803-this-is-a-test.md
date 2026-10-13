@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "thin"
-promo_link: "http://www.talkwithgaby.com?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56803/adminstore/"
 sales_page: "http://www.talkwithgaby.com"
 language: "en"
 ---
 # this is a test
 
 > Product ID `56803` · Digistore24 productId `698248` · [HTML profile page](../../reviews/this-is-a-test-56803.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **thin**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This is a test product
+**Vendor's marketplace description:** <p>This is a test product</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.talkwithgaby.com?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56803/adminstore/
 - Sales page: http://www.talkwithgaby.com
 - Canonical redirect: https://www.digistore24.com/redir/698248/adminstore
 

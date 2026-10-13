@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Software"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://hunterdiskcleaner.com/pro.html?aff=adminstore#aff=adminstore"
 sales_page: "https://hunterdiskcleaner.com/pro.html"
@@ -22,7 +22,7 @@ language: "en"
 # Hunter Disk Cleaner Pro License Key
 
 > Product ID `58926` · Digistore24 productId `726349` · [HTML profile page](../../reviews/hunter-disk-cleaner-pro-license-key-58926.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,12 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hunter Disk Cleaner is a modern, blazing-fast, and lightweight disk cleanup utility for Windows. Safely hunt down and remove hidden junk files to free up your computer storage instantly, eliminating digital waste. Unlike traditional opaque cleaners, Hunter features a unified transparency interface that shows you exactly what is being analyzed and gives you full control over your data, ensuring you…
+**Vendor's marketplace description:** <p>Hunter Disk Cleaner is a modern, blazing-fast, and lightweight disk cleanup utility for Windows. Safely hunt down and remove hidden junk files to free up your computer storage instantly, eliminating digital waste.</p>
+<p>Unlike traditional opaque cleaners, Hunter features a unified transparency interface that shows you exactly what is being analyzed and gives you full control over your data, ensuring you know exactly how much space you can clean without any hidden surprises.</p>
+<p>✨ Features</p>
+<p>⚡ High-Speed Scanning: Multi-threaded engine optimized to scan critical Windows junk zones in seconds.</p>
+<p>And more...</p>
+<p> </p>
 
 ## 2. Links
 

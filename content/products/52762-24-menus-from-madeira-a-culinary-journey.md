@@ -4,16 +4,16 @@ digistore24_product_id: 616627
 title: "24 Menus from Madeira - A Culinary Journey"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 22.19
+price: 22.14
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.55
+earnings_per_sale: 5.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink","Travel & Culture"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.madeira.cc/cookbook?aff=adminstore#aff=adminstore"
 sales_page: "https://www.madeira.cc/cookbook"
@@ -22,16 +22,16 @@ language: "en"
 # 24 Menus from Madeira - A Culinary Journey
 
 > Product ID `52762` · Digistore24 productId `616627` · [HTML profile page](../../reviews/24-menus-from-madeira-a-culinary-journey-52762.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.19 (Single payment) |
+| Price | $22.14 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.55 |
+| Earnings/sale* | $5.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | madeira-bus |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** “24 Menus from Madeira” – a beautiful cookbook for food lovers, travelers & fans of the island! Target audience: Madeira lovers, Portugal travelers, foodies, expats, cookbook collectors Product: 263 pages | 72 authentic recipes | 24 villages with stories & local menus Format: Instant PDF download Languages: Available in English and German Earn 25% commission per sale! Perfect for blogs, newsletter…
+**Vendor's marketplace description:** <p><strong>“24 Menus from Madeira” – a beautiful cookbook for food lovers, travelers &amp; fans of the island!</strong> <br /><br /><strong>Target audience:</strong> <br />Madeira lovers, Portugal travelers, foodies, expats, cookbook collectors <br /><br /><strong>Product:</strong> <br />263 pages | 72 authentic recipes | 24 villages with stories &amp; local menus <br /><br /><strong>Format:</strong> <br />Instant PDF download</p>
+<p><strong>Languages:</strong> <br />Available in English and German <br /><br /><strong>Earn 25% commission per sale!</strong> <br /><br />Perfect for blogs, newsletters, Pinterest, Facebook, Instagram &amp; travel or food channels.</p>
+<p>✅ Professionally designed landing page <br />✅ Emotional storytelling + clear buyer benefits <br />✅ A great fit for culinary, travel &amp; expat audiences</p>
+<p><strong>Affiliate-friendly &amp; easy to promote – even for beginners!</strong></p>
+<p>Sign up &amp; start earning today: [Insert your affiliate link here]</p>
 
 ## 2. Links
 
@@ -80,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: madeira-bus, listed since 2025-06-04
-- How much? — 22.18788 USD
+- How much? — 22.13838 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

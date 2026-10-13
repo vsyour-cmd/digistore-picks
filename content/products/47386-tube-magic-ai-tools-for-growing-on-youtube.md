@@ -4,16 +4,16 @@ digistore24_product_id: 540531
 title: "Tube Magic - AI Tools For Growing on YouTube"
 vendor: "tubemagic"
 product_type: "Software"
-price: 1028.14
+price: 1025.85
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 253.94
+earnings_per_sale: 253.37
 cart_conversion_pct: 1
 cancel_rate_pct: 8.94
 categories: ["Computer & Internet","Social Media","Software"]
 listed_since: "2024-02-23"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://tubemagic.com/ds?aff=adminstore#aff=adminstore"
 sales_page: "https://tubemagic.com/ds"
@@ -22,16 +22,16 @@ language: "en"
 # Tube Magic - AI Tools For Growing on YouTube
 
 > Product ID `47386` · Digistore24 productId `540531` · [HTML profile page](../../reviews/tube-magic-ai-tools-for-growing-on-youtube-47386.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1028.14 (Subscription) |
+| Price | $1025.85 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $253.94 |
+| Earnings/sale* | $253.37 |
 | Cart conversion* | 1% |
 | Cancel rate* | 8.94% |
 | Vendor | tubemagic |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 50% Commission on a $47/month software Commisions are monthly recurring for life! The BEST AI YouTube software to grow a channel Used by top YouTubers, Feel GOOD About Promoting
+**Vendor's marketplace description:** <p>50% Commission on a $47/month software</p>
+<p>Commisions are monthly recurring for life!</p>
+<p>The BEST AI YouTube software to grow a channel</p>
+<p>Used by top YouTubers, Feel GOOD About Promoting</p>
 
 ## 2. Links
 
@@ -95,7 +98,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: tubemagic, listed since 2024-02-23
-- How much? — 1028.139294 USD
+- How much? — 1025.845569 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 

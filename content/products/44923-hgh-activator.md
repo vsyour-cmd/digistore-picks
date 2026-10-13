@@ -4,34 +4,34 @@ digistore24_product_id: 508979
 title: "HGH Activator"
 vendor: "NaturecastProducts"
 product_type: "Supplements - health"
-price: 171.43
+price: 171.05
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.49
+earnings_per_sale: 36.41
 cart_conversion_pct: 6
 cancel_rate_pct: 4.79
 categories: ["Food Supplements"]
 listed_since: "2023-07-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://naturecastproducts.com/humangrowthhormoneactivator-ds/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/44923/adminstore/"
 sales_page: "https://naturecastproducts.com/humangrowthhormoneactivator-ds/"
 language: "en"
 ---
 # HGH Activator
 
 > Product ID `44923` · Digistore24 productId `508979` · [HTML profile page](../../reviews/hgh-activator-44923.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $171.43 (Single payment) |
+| Price | $171.05 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.49 |
+| Earnings/sale* | $36.41 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.79% |
 | Vendor | NaturecastProducts |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** HGH Activator is a highly successful natural health offer with over $5 million dollars in sales. It has extremely low refunds at under 3% and under 1% in chargebacks. Many affiliates see CPC earnings over $2 CPC. The product comes with a guarantee of 180 days and a customer support staff to answer and consumer questions that can be reached by phone or email.
+**Vendor's marketplace description:** <p><strong>HGH Activator is a highly successful natural health offer with over $5 million dollars in sales.</strong></p>
+<p>It has extremely low refunds at under 3% and under 1% in chargebacks.</p>
+<p><span style="text-decoration:underline;color:#ff0000;">Many affiliates see CPC earnings over $2 CPC.</span></p>
+<p>The product comes with a guarantee of 180 days and a customer support staff to answer and consumer questions that can be reached by phone or email.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://naturecastproducts.com/humangrowthhormoneactivator-ds/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/44923/adminstore/
 - Sales page: https://naturecastproducts.com/humangrowthhormoneactivator-ds/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/hgh-activator
 - Canonical redirect: https://www.digistore24.com/redir/508979/adminstore
@@ -101,7 +104,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NaturecastProducts, listed since 2023-07-26
-- How much? — 171.429388 USD
+- How much? — 171.046938 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

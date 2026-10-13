@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fashion","Marketing Services"]
 listed_since: "2026-08-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/719298?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719298"
@@ -22,7 +22,7 @@ language: "en"
 # Testing Only
 
 > Product ID `58172` · Digistore24 productId `719298` · [HTML profile page](../../reviews/testing-only-58172.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Testing Only
+**Vendor's marketplace description:** <p>Testing Only</p>
 
 ## 2. Links
 

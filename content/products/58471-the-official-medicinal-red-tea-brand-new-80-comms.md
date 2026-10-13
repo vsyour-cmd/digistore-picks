@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://puredaily-health.com/medicinal-tea?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58471/adminstore/"
 sales_page: "http://puredaily-health.com/medicinal-tea"
 language: "en"
 ---
 # ⚡️The Official Medicinal Red Tea™ – BRAND NEW! ⚡️ 80% Comms
 
 > Product ID `58471` · Digistore24 productId `722880` · [HTML profile page](../../reviews/the-official-medicinal-red-tea-brand-new-80-comms-58471.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,32 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Is The NEW #1 Conversion MONSTER On Digistore24. The Official 14-Day Red Tea Detox™ Weight Loss Offer — Now Available on Digistore24 We know what you want: offers that actually convert on cold traffic, compliance that doesn't get your ad accounts banned, and a backend funnel that squeezes every possible dollar out of a lead. Our previous offers crushed the market, but our newest release is co…
+**Vendor's marketplace description:** <h1 style="text-align:center;"><span style="color:#ffffff;background-color:#ff0000;">This Is The NEW #1 Conversion MONSTER On Digistore24.</span></h1>
+<h2><strong>The Official 14-Day Red Tea Detox™ Weight Loss Offer — Now Available on Digistore24</strong></h2>
+<p>We know what you want: offers that actually convert on cold traffic, compliance that doesn't get your ad accounts banned, and a backend funnel that squeezes every possible dollar out of a lead.</p>
+<p>Our previous offers crushed the market, but our newest release is completely rewriting the rules. Top-tier affiliates are already migrating their traffic to this brand-new health offer because the math is undeniable.</p>
+<p><strong>Note: 90% Commissions available to affiliates with atleast 10 sales </strong></p>
+<p><strong>The Hook?</strong> A wildly converting front-end at just <strong>$37</strong>. <strong>The Magic?</strong> A battle-tested, hyper-optimized 3-step upsell sequence that pushes your Average Order Value (AOV) to a staggering <strong>$200+</strong>. You bring the clicks; we multiply the cash.</p>
+<p><strong>Why affiliates promote this offer:</strong></p>
+<ul>
+<li>$100 Bonus to New Affiliates</li>
+<li>Monthly Contest &amp; Giveaways</li>
+<li>Compliant!</li>
+<li>80% commissions for initial product sales; 75% commission for physical upsell sales, and 90% for digital upsells sales</li>
+<li>Simple 14-day weight loss angle</li>
+<li>Highly visual tea-based concept</li>
+<li>Broad appeal in the health and weight loss market</li>
+<li>Performs well in most niches: health, survival, remedies, etc.</li>
+<li>Thousands of customer success stories</li>
+<li>Works well with social media-style traffic</li>
+<li>Digital product with instant access</li>
+</ul>
+<p><strong>Best traffic sources:</strong> Facebook, Instagram, TikTok, native, email, SEO, content, and health/wellness audiences.</p>
+<p><strong><span style="color:#ffffff;background-color:#ff0000;">Note:</span> If you are a Media Buyer and you can bring in Volume  reach out to Medi Benson Our Affiliate Support Manager at <span style="text-decoration:underline;color:#0000ff;">medibenson@gmail.com</span> for further instructions and help in regards to promotion</strong></p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://puredaily-health.com/medicinal-tea?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58471/adminstore/
 - Sales page: http://puredaily-health.com/medicinal-tea
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/722880/adminstore

@@ -4,34 +4,34 @@ digistore24_product_id: 743400
 title: "Brand Professional Service"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 514.36
+price: 513.21
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 128.59
+affiliate_commission_pct: 30
+earnings_per_sale: 153.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60405/adminstore/"
 sales_page: "https://xaruta4.wordpress.com/brand-pro/"
 language: "en"
 ---
 # Brand Professional Service
 
 > Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](../../reviews/brand-professional-service-60405.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $514.36 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $128.59 |
+| Price | $513.21 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $153.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Format: Service ✅ Logo Concept✅ Brand Colors✅ Typography✅ Instagram Style✅ 10 Social Media Templates✅ 5 Reels Covers✅ Mini Brand Guide AND ✅ Your complete Instagram brand system➡️ Visual identity. ➡️ Content system. ➡️ Brand voice. ➡️ AI image style. ➡️ Content ideas.✅ 20 Instagram Templates✅ Content Guidelines AI Image Style✅ Brand Voice ✅ 30 Content Ideas
+**Vendor's marketplace description:** <p><strong>Format</strong>: Service</p>
+<p>✅ Logo Concept<br />✅ Brand Colors<br />✅ Typography<br />✅ Instagram Style<br />✅ 10 Social Media Templates<br />✅ 5 Reels Covers<br />✅ Mini Brand Guide</p>
+<p><strong>AND</strong></p>
+<p>✅ Your complete Instagram brand system<br />➡️ Visual identity. <br />➡️ Content system. <br />➡️ Brand voice. <br />➡️ AI image style. <br />➡️ Content ideas.<br />✅ 20 Instagram Templates<br />✅ Content Guidelines AI Image Style<br />✅ Brand Voice <br />✅ 30 Content Ideas</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60405/adminstore/
 - Sales page: https://xaruta4.wordpress.com/brand-pro/
 - Canonical redirect: https://www.digistore24.com/redir/743400/adminstore
 
@@ -76,7 +79,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-10-08
-- How much? — 514.3554 USD
+- How much? — 513.2079 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

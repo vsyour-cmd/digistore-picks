@@ -4,16 +4,16 @@ digistore24_product_id: 548672
 title: "PotentStream"
 vendor: "PotentStream"
 product_type: "Supplements - health"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 181.2
+earnings_per_sale: 180.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-04-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://potentstream24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://potentstream24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # PotentStream
 
 > Product ID `47858` · Digistore24 productId `548672` · [HTML profile page](../../reviews/potentstream-47858.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $181.20 |
+| Earnings/sale* | $180.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PotentStream |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** An Exclusive Astronauts’ “Pee In 0 Gravity” Prostate Protocol That Converts On All Types Of Traffic. Top Affiliates Are Reporting Up To $7 Epc. Already Scaling On Native And Fb with 6 Fig/day.
+**Vendor's marketplace description:** <p>An Exclusive Astronauts’ “Pee In 0 Gravity” Prostate Protocol That Converts On All Types Of Traffic.</p>
+<p>Top Affiliates Are Reporting Up To $7 Epc.</p>
+<p>Already Scaling On Native And Fb with 6 Fig/day.</p>
 
 ## 2. Links
 
@@ -92,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: PotentStream, listed since 2024-04-18
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

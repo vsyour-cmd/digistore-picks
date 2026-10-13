@@ -4,16 +4,16 @@ digistore24_product_id: 571423
 title: "Promote HydroLean XT Gold Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 258.63
+price: 258.06
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 83.5
+earnings_per_sale: 83.31
 cart_conversion_pct: 9
 cancel_rate_pct: 5.56
 categories: ["Food Supplements"]
 listed_since: "2024-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://hydroleanxt.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://hydroleanxt.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote HydroLean XT Gold Now!
 
 > Product ID `50190` · Digistore24 productId `571423` · [HTML profile page](../../reviews/promote-hydrolean-xt-gold-now-50190.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $258.63 (Single payment) |
+| Price | $258.06 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $83.50 |
+| Earnings/sale* | $83.31 |
 | Cart conversion* | 9% |
 | Cancel rate* | 5.56% |
 | Vendor | zenmavibe |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Brand New & Unique Premium Effervescent Supplement!$2+ EPCs and up to 3% conversions from top affiliates! $300 AOV! Unique custom formulation creates REAL results with super LOW refunds! Convert your clicks to CASH now! Irresistible hook and story creates $$$!
+**Vendor's marketplace description:** <p><strong>Brand New &amp; Unique </strong><strong>Premium </strong><strong>Effervescent Supplemen</strong><strong>t</strong><strong>!<br /><br />$2+ EPCs and up to 3% conversions from top affiliates! $300 AOV!</strong></p>
+<p>Unique custom formulation creates REAL results with super LOW refunds!</p>
+<p><strong>Convert your clicks to CASH now! Irresistible hook and story creates $$$!</strong></p>
 
 ## 2. Links
 
@@ -89,7 +91,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2024-09-19
-- How much? — 258.63448 USD
+- How much? — 258.05748000000006 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

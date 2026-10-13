@@ -4,34 +4,34 @@ digistore24_product_id: 454003
 title: "iGenics - Hot New Offer in the Vision Niche!(Text and Video)"
 vendor: "igenics"
 product_type: "Supplements - health"
-price: 173
+price: 172.61
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 116.24
+earnings_per_sale: 115.98
 cart_conversion_pct: 10
 cancel_rate_pct: 9.37
 categories: ["Food Supplements"]
 listed_since: "2022-08-03"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://clearvisionbreakthrough.com/tsl.php?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41215/adminstore/"
 sales_page: "https://clearvisionbreakthrough.com/tsl.php"
 language: "en"
 ---
 # iGenics - Hot New Offer in the Vision Niche!(Text and Video)
 
 > Product ID `41215` · Digistore24 productId `454003` · [HTML profile page](../../reviews/igenics-hot-new-offer-in-the-vision-niche-text-and-video-41215.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $173.00 (Single payment) |
+| Price | $172.61 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $116.24 |
+| Earnings/sale* | $115.98 |
 | Cart conversion* | 10% |
 | Cancel rate* | 9.37% |
 | Vendor | igenics |
@@ -41,11 +41,23 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** iGenics is a premium eye support supplement based on the AREDS 2 formula. Offer is Battle Tested. Swipes that Convert. 1.5 - 3% Conversion Rate and $200+ AOV with suppliment buyers and 55+ demographic. Great commisions (65% / 60%). Can be bumped for high traffic drivers. Low refund rate & chargebacks. Get the email swipes HERE. Affiliate Page: https://clearvisionbreakthrough.com/aff/ Affiliate Sup…
+**Vendor's marketplace description:** <p><span style="font-size:14px;"><strong>iGenics is a premium eye support supplement based on the AREDS 2 formula.</strong></span></p>
+<ul style="list-style-type:disc;">
+<li>Offer is Battle Tested.</li>
+<li>Swipes that Convert.</li>
+<li>1.5 - 3% Conversion Rate and $200+ AOV with suppliment buyers and 55+ demographic.</li>
+<li>Great commisions (65% / 60%). Can be bumped for high traffic drivers.</li>
+<li>Low refund rate &amp; chargebacks.</li>
+</ul>
+<p>Get the email swipes <span style="color:#0000ff;"><a style="color:#0000ff;" href="https://drive.google.com/drive/folders/10Rwr-yqzKgcgdSuB1ZyPHQgAfi2Ok8KS?usp=sharing" target="_blank" rel="noreferrer noopener"><strong>HERE</strong></a></span>.</p>
+<p>Affiliate Page: <a href="https://clearvisionbreakthrough.com/aff/" target="_blank" rel="noreferrer noopener">https://clearvisionbreakthrough.com/aff/</a></p>
+<p>Affiliate Support: <a href="mailto:christi@sciencegenics.com">christi@sciencegenics.com</a></p>
+<p> </p>
+<div> </div>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://clearvisionbreakthrough.com/tsl.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41215/adminstore/
 - Sales page: https://clearvisionbreakthrough.com/tsl.php
 - Vendor affiliate support: https://clearvisionbreakthrough.com/aff/
 - Canonical redirect: https://www.digistore24.com/redir/454003/adminstore
@@ -95,7 +107,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: igenics, listed since 2022-08-03
-- How much? — 172.998228 USD
+- How much? — 172.612278 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,34 +4,34 @@ digistore24_product_id: 466836
 title: "Lanta Flat Belly Shake"
 vendor: "mysteryoffers"
 product_type: "Supplements - health"
-price: 198.35
+price: 197.9
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 138.84
+earnings_per_sale: 138.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-10-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://theflatbellyshake.com/discovery/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/41905/adminstore/"
 sales_page: "https://theflatbellyshake.com/discovery/"
 language: "en"
 ---
 # Lanta Flat Belly Shake
 
 > Product ID `41905` · Digistore24 productId `466836` · [HTML profile page](../../reviews/lanta-flat-belly-shake-41905.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $198.35 (Single payment) |
+| Price | $197.90 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $138.84 |
+| Earnings/sale* | $138.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mysteryoffers |
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Lanta Flat Belly Shake is a proven weight loss winner. Created by an experienced team of direct response number 1 offer creators, affiliates are enjoying some incredibly generous commissions and high EPCs of $5-7 from multiple traffic sources including Facebook, email, native and display. Incredibly high commissions Low refunds An amazing, responsive team
+**Vendor's marketplace description:** <p>Lanta Flat Belly Shake is a proven weight loss winner. Created by an experienced team of direct response number 1 offer creators, affiliates are enjoying some incredibly generous commissions and high EPCs of $5-7 from multiple traffic sources including Facebook, email, native and display.</p>
+<ul>
+<li><em><strong>Incredibly high commissions</strong></em></li>
+<li><em><strong>Low refunds</strong></em></li>
+<li><em><strong>An amazing, responsive team</strong></em></li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://theflatbellyshake.com/discovery/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/41905/adminstore/
 - Sales page: https://theflatbellyshake.com/discovery/
 - Vendor affiliate support: https://theflatbellyshake.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/466836/adminstore
@@ -101,7 +106,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: mysteryoffers, listed since 2022-10-27
-- How much? — 198.3462 USD
+- How much? — 197.90370000000001 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 

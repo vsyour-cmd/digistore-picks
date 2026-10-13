@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "http://lightstepspro24.com/text.php?aff=adminstore#aff=adminstore"
+promo_link: "https://body-soul-center.com/produkt/schamanische-heilmethoden/#aff=adminstore"
 sales_page: "http://lightstepspro24.com/text.php"
 language: "en"
 ---
 # LightSteps Pro
 
 > Product ID `54787` · Digistore24 productId `651394` · [HTML profile page](../../reviews/lightsteps-pro-54787.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** This Unique “7-Second Drainage Reset” Deflates Swollen Legs Naturally. Doctor-backed, wildly engaging & optimized for scale. Multiple intros available. Top affiliates are hitting up to $6 EPC.
+**Vendor's marketplace description:** <p>This Unique “7-Second Drainage Reset” Deflates Swollen Legs Naturally. Doctor-backed, wildly engaging &amp; optimized for scale. Multiple intros available. Top affiliates are hitting up to $6 EPC.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://lightstepspro24.com/text.php?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://body-soul-center.com/produkt/schamanische-heilmethoden/#aff=adminstore
 - Sales page: http://lightstepspro24.com/text.php
 - Vendor affiliate support: https://lightstepspro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/651394/adminstore

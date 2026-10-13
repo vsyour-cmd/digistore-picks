@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Fun & Games","Hobby & Craft"]
 listed_since: "2026-07-18"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Games and Puzzles for Creatives - Activity eBook
 
 > Product ID `57588` · Digistore24 productId `712937` · [HTML profile page](../../reviews/games-and-puzzles-for-creatives-activity-ebook-57588.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,19 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A fun way to use down time, take a break from creating, challenge your mind, and relax. PDF file download Bright and colorful Mixed craft themes Great gift for crafty friends Mixed puzzle activity e-book Includes puzzle solution pages 50+ easy to medium mixed puzzles 100 total pages (inclusive of cover, solutions, etc.)
+**Vendor's marketplace description:** <p>A fun way to use down time, take a break from creating, challenge your mind, and relax.</p>
+<p> </p>
+<ul>
+<li>PDF file download</li>
+<li>Bright and colorful</li>
+<li>Mixed craft themes</li>
+<li>Great gift for crafty friends</li>
+<li>Mixed puzzle activity e-book</li>
+<li>Includes puzzle solution pages</li>
+<li>50+ easy to medium mixed puzzles</li>
+<li>100 total pages (inclusive of cover, solutions, etc.)</li>
+</ul>
+<p> </p>
 
 ## 2. Links
 

@@ -4,16 +4,16 @@ digistore24_product_id: 443554
 title: "AffiliateOne"
 vendor: "breakoutindustries"
 product_type: "Member area and video courses"
-price: 18.97
+price: 18.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.49
+earnings_per_sale: 9.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-05-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "none"
 promo_link: "https://affiliate-one.com/digi-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliate-one.com/digi-fe"
@@ -22,16 +22,16 @@ language: "en"
 # AffiliateOne
 
 > Product ID `40126` · Digistore24 productId `443554` · [HTML profile page](../../reviews/affiliateone-40126.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.97 (Single payment) |
+| Price | $18.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.49 |
+| Earnings/sale* | $9.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | breakoutindustries |
@@ -41,7 +41,18 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Top Converting Product. Top Biz Op, Personal Developement, IM, MMO... Make up to $300+ sale. Backed by real results, real testimonies, and has generated over $1.1 million in sales in 2021. https://affiliate-one.com/digi-jv-page 50% commissions funnel wide!!! Over 50% conversions on full funnel. Over 3000+ customers proven.
+**Vendor's marketplace description:** <p>Top Converting Product. </p>
+<p>Top Biz Op, Personal Developement, IM, MMO... Make up to $300+ sale. </p>
+<p>Backed by real results, real testimonies, and has generated over $1.1 million in sales in 2021. </p>
+<p><a href="https://affiliate-one.com/digi-jv-page" target="_blank" rel="noreferrer noopener">https://affiliate-one.com/digi-jv-page</a></p>
+<p>50% commissions funnel wide!!!</p>
+<p>Over 50% conversions on full funnel. </p>
+<p>Over 3000+ customers proven. </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -67,7 +78,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: breakoutindustries, listed since 2022-05-20
-- How much? — 18.971758 USD
+- How much? — 18.929433 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

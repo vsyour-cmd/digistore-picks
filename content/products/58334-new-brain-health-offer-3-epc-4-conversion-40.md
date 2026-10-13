@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-08-13"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://cognifortplus.com/ds/indexts.php?aff=adminstore#aff=adminstore"
 sales_page: "https://cognifortplus.com/ds/indexts.php"
@@ -22,7 +22,7 @@ language: "en"
 # NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+
 
 > Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](../../reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Get in early on CogniFort+, a fresh brain health offer built to scale in the massive 50+ market.Early internal testing is already producing ~$3 EPCs with ~4% conversion, powered by our fresh “Brain Lag” angle around memory, focus and mental sharpness.The opportunity: a huge evergreen audience, a relatable hook with plenty of creative angles, and a direct-response funnel we’re actively split-testin…
+**Vendor's marketplace description:** <p><strong>Get in early on CogniFort+, a fresh brain health offer built to scale in the massive 50+ market.</strong><br /><br />Early internal testing is already producing ~$3 EPCs with ~4% conversion, powered by our fresh “Brain Lag” angle around memory, focus and mental sharpness.<br /><br />The opportunity: a huge evergreen audience, a relatable hook with plenty of creative angles, and a direct-response funnel we’re actively split-testing and optimizing to push EPC higher.<br /><br />Built for affiliates:<br />• Fresh angle with room to scale<br />• Strong early EPC &amp; conversion<br />• Email swipes and creatives ready to deploy<br />• Ongoing funnel, pricing and creative testing<br />• Hands-on affiliate support<br />• Get in early before the angle gets crowded<br /><br />Have 50+ health, brain, memory or supplement traffic? Put CogniFort+ to the test. We’re looking for partners who want to scale with us.</p>
 
 ## 2. Links
 

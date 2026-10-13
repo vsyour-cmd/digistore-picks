@@ -4,34 +4,34 @@ digistore24_product_id: 678080
 title: "Community to Cash - Build a scalable online business"
 vendor: "tinztwins"
 product_type: "E-books"
-price: 22.3
+price: 22.25
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.15
+earnings_per_sale: 11.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-03-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://shop.towardsfinance.com/l/community-to-cash/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/56003/adminstore/"
 sales_page: "https://shop.towardsfinance.com/l/community-to-cash/"
 language: "en"
 ---
 # Community to Cash - Build a scalable online business
 
 > Product ID `56003` · Digistore24 productId `678080` · [HTML profile page](../../reviews/community-to-cash-build-a-scalable-online-business-56003.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.30 (Single payment) |
+| Price | $22.25 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.15 |
+| Earnings/sale* | $11.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tinztwins |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Promote our e-book "Community to Cash" and earn a 50% commission! In 21 chapters, we explain how to build a scalable online business using Pinterest, newsletter automation, AI, and memberships. Many people don’t fail because of a lack of effort, but because they lack structure. This book offers online entrepreneurs proven, practical strategies to achieve lasting success.
+**Vendor's marketplace description:** <h1><span style="color:#ff0000;">Promote our e-book "Community to Cash" and earn a 50% commission!</span></h1>
+<p>In 21 chapters, we explain how to build a scalable online business using Pinterest, newsletter automation, AI, and memberships.</p>
+<p>Many people don’t fail because of a lack of effort, but because they lack structure. This book offers online entrepreneurs proven, practical strategies to achieve lasting success.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://shop.towardsfinance.com/l/community-to-cash/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/56003/adminstore/
 - Sales page: https://shop.towardsfinance.com/l/community-to-cash/
 - Vendor affiliate support: https://towardsfinance.com/affiliate-partner-program/
 - Canonical redirect: https://www.digistore24.com/redir/678080/adminstore
@@ -88,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: tinztwins, listed since 2026-03-21
-- How much? — 22.29994 USD
+- How much? — 22.25019 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

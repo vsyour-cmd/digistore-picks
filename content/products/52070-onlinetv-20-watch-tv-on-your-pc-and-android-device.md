@@ -4,16 +4,16 @@ digistore24_product_id: 600405
 title: "OnlineTV 20 – Watch TV on Your PC and Android Device"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.24
+price: 28.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.12
+earnings_per_sale: 14.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Photography & Film","Software"]
 listed_since: "2025-03-07"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/600405?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/600405"
@@ -22,16 +22,16 @@ language: "en"
 # OnlineTV 20 – Watch TV on Your PC and Android Device
 
 > Product ID `52070` · Digistore24 productId `600405` · [HTML profile page](../../reviews/onlinetv-20-watch-tv-on-your-pc-and-android-device-52070.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.24 (Single payment) |
+| Price | $28.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.12 |
+| Earnings/sale* | $14.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
@@ -41,7 +41,10 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** OnlineTV 20 – The Original Since 2002 OnlineTV gives you access to a wide range of TV and radio stations, plus live streams from around the globe. Enjoy music videos, webcams, and a variety of online media – all in one place. Available for Windows 7, 8, 8.1, 10, and 11, plus a companion app for Android. The software is ready for download immediately after purchase. Your license key will be deliver…
+**Vendor's marketplace description:** <p><strong>OnlineTV 20 – The Original Since 2002</strong></p>
+<p>OnlineTV gives you access to a wide range of TV and radio stations, plus live streams from around the globe. Enjoy music videos, webcams, and a variety of online media – all in one place.</p>
+<p>Available for Windows 7, 8, 8.1, 10, and 11, plus a companion app for Android.</p>
+<p>The software is ready for download immediately after purchase. Your license key will be delivered by email.</p>
 
 ## 2. Links
 
@@ -81,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2025-03-07
-- How much? — 28.23912 USD
+- How much? — 28.17612 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

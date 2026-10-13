@@ -4,16 +4,16 @@ digistore24_product_id: 638043
 title: "Clear Flux Blood Support Supplement"
 vendor: "SuperBoostNutra"
 product_type: "Supplements - health"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.66
+earnings_per_sale: 38.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-09-26"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://shop.boostedflow.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.boostedflow.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Clear Flux Blood Support Supplement
 
 > Product ID `54396` · Digistore24 productId `638043` · [HTML profile page](../../reviews/clear-flux-blood-support-supplement-54396.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.66 |
+| Earnings/sale* | $38.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SuperBoostNutra |
@@ -41,7 +41,22 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A powerful, natural supplement designed to support healthy blood sugar, blood pressure, and cholesterol levels. Backed by real results, many of our customers have made the switch from traditional pharmaceuticals — choosing to stay with Clear Flux long-term because they feel the difference. We tested Clear Flux against the competitors and we converted better EVERY time. Earn a 50% revenue share thr…
+**Vendor's marketplace description:** <p>A powerful, natural supplement designed to support healthy blood sugar, blood pressure, and cholesterol levels.</p>
+<p>Backed by real results, many of our customers have made the switch from traditional pharmaceuticals — choosing to stay with Clear Flux long-term because they feel the difference.</p>
+<p> </p>
+<p>We tested Clear Flux against the competitors and we converted better EVERY time.</p>
+<p> </p>
+<p>Earn a 50% revenue share through the entire funnel!</p>
+<p> </p>
+<p>-USA &amp; Canada geo traffic is accepted.</p>
+<p> </p>
+<p>-Email, Native, Google, Meta, Social traffic welcome</p>
+<p> </p>
+<p>-No SMS traffic</p>
+<p> </p>
+<p>-Branded &amp; Non-branded keyword search is fine</p>
+<p> </p>
+<p>We're looking for a handful of strong affiliates to work with and will make our offer exclusive to the top couple affiliates who show they can scale the hardest. This is your chance to lock in a sweet deal and block out the competition.</p>
 
 ## 2. Links
 
@@ -82,7 +97,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: SuperBoostNutra, listed since 2025-09-26
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

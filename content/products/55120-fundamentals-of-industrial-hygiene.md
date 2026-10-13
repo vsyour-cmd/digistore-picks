@@ -4,16 +4,16 @@ digistore24_product_id: 654493
 title: "Fundamentals of industrial hygiene"
 vendor: "WirtschaftspraxisJuergens"
 product_type: "Member area and video courses"
-price: 99.73
+price: 99.51
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.87
+earnings_per_sale: 49.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch?aff=adminstore#aff=adminstore"
 sales_page: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch"
@@ -22,16 +22,16 @@ language: "en"
 # Fundamentals of industrial hygiene
 
 > Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](../../reviews/fundamentals-of-industrial-hygiene-55120.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $99.73 (Single payment) |
+| Price | $99.51 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.87 |
+| Earnings/sale* | $49.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | WirtschaftspraxisJuergens |
@@ -41,7 +41,7 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Hygiene is a key factor for safety and health in everyday working life. In this course, you will gain practical basic knowledge about infection control, cleaning and disinfection measures, and the legal framework. You will learn how pathogens are transmitted, which hygiene plans are used in companies, and how you can contribute to prevention with simple measures.The course serves to impart knowled…
+**Vendor's marketplace description:** <p>Hygiene is a key factor for safety and health in everyday working life. In this course, you will gain practical basic knowledge about infection control, cleaning and disinfection measures, and the legal framework. You will learn how pathogens are transmitted, which hygiene plans are used in companies, and how you can contribute to prevention with simple measures.<br />The course serves to impart knowledge and raise awareness. It does not replace professional training or qualifications!</p>
 
 ## 2. Links
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: WirtschaftspraxisJuergens, listed since 2025-12-10
-- How much? — 99.7334 USD
+- How much? — 99.5109 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

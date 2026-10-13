@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Software","Online Marketing"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://salesforgepro.netlify.app/#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58513/adminstore/"
 sales_page: "https://salesforgepro.netlify.app/"
 language: "en"
 ---
 # SalesForge Pro – High-Converting Landing Page Build
 
 > Product ID `58513` · Digistore24 productId `723073` · [HTML profile page](../../reviews/salesforge-pro-high-converting-landing-page-build-58513.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** SalesForge Pro – High-Converting Landing Page Builder
+**Vendor's marketplace description:** <p> SalesForge Pro – High-Converting Landing Page Builder</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://salesforgepro.netlify.app/#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58513/adminstore/
 - Sales page: https://salesforgepro.netlify.app/
 - Vendor affiliate support: https://salesforgepro-affiliates.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/723073/adminstore

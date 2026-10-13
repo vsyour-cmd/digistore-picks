@@ -4,34 +4,34 @@ digistore24_product_id: 352181
 title: "eBook - Epoxy Resin for Arts and Crafts"
 vendor: "acrylgiessen"
 product_type: "E-books"
-price: 16.75
+price: 16.72
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.35
+earnings_per_sale: 3.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-10-14"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/40643/adminstore/"
 sales_page: "https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/"
 language: "en"
 ---
 # eBook - Epoxy Resin for Arts and Crafts
 
 > Product ID `40643` · Digistore24 productId `352181` · [HTML profile page](../../reviews/ebook-epoxy-resin-for-arts-and-crafts-40643.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.75 (Single payment) |
+| Price | $16.72 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.35 |
+| Earnings/sale* | $3.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | acrylgiessen |
@@ -41,11 +41,17 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Your Go-To Guide for start working with Epoxy Resin. Learn creating fascinating Resin Arts and Crafts within minutes. All the tips and tricks that nobody tells you when you start. Including several detailed tutorials for your first projects. 160 Pages 7 In-depth tutorials Including all basic information to start
+**Vendor's marketplace description:** <p>Your Go-To Guide for start working with Epoxy Resin. Learn creating fascinating Resin Arts and Crafts within minutes. All the tips and tricks that nobody tells you when you start. Including several detailed tutorials for your first projects.</p>
+<p> </p>
+<ul>
+<li>160 Pages</li>
+<li>7 In-depth tutorials</li>
+<li>Including all basic information to start</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/40643/adminstore/
 - Sales page: https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/
 - Canonical redirect: https://www.digistore24.com/redir/352181/adminstore
 
@@ -84,7 +90,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: acrylgiessen, listed since 2020-10-14
-- How much? — 16.75297 USD
+- How much? — 16.715595 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

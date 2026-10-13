@@ -4,34 +4,34 @@ digistore24_product_id: 544733
 title: "Keskara"
 vendor: "biofraga"
 product_type: "Supplements - health"
-price: 329.46
+price: 328.72
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 214.15
+earnings_per_sale: 213.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-03-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://keskara.online/dtc/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/48893/adminstore/"
 sales_page: "https://keskara.online/dtc/"
 language: "en"
 ---
 # Keskara
 
 > Product ID `48893` · Digistore24 productId `544733` · [HTML profile page](../../reviews/keskara-48893.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $329.46 (Single payment) |
+| Price | $328.72 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $214.15 |
+| Earnings/sale* | $213.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | biofraga |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** MASTER THE INTERNATIONAL MEN'S MARKET AND BOOST YOUR PROFITS BY UP TO 5X. KESKARA WILL MAKE YOUR PORTFOLIO GROW STRONGER. You can earn up to $160.00 per sale.
+**Vendor's marketplace description:** <h1>MASTER THE INTERNATIONAL MEN'S <strong>MARKET AND BOOST YOUR PROFITS BY UP TO 5X.</strong></h1>
+<h2>KESKARA WILL MAKE YOUR PORTFOLIO GROW STRONGER.</h2>
+<h3>You can earn up to <strong>$160.00 per sale.</strong></h3>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://keskara.online/dtc/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/48893/adminstore/
 - Sales page: https://keskara.online/dtc/
 - Vendor affiliate support: https://keskara.online/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/544733/adminstore
@@ -87,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: biofraga, listed since 2024-03-21
-- How much? — 329.45640000000003 USD
+- How much? — 328.7214 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

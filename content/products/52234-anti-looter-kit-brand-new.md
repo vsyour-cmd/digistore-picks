@@ -4,16 +4,16 @@ digistore24_product_id: 592999
 title: "Anti-Looter Kit - BRAND NEW!"
 vendor: "antilooterkit"
 product_type: "Deliverable"
-price: 192.78
+price: 192.35
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 50.77
+earnings_per_sale: 50.66
 cart_conversion_pct: 18
 cancel_rate_pct: 3.55
 categories: ["Survival"]
 listed_since: "2025-01-29"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.antilooter-kit.com/main?aff=adminstore#aff=adminstore"
 sales_page: "https://www.antilooter-kit.com/main"
@@ -22,16 +22,16 @@ language: "en"
 # Anti-Looter Kit - BRAND NEW!
 
 > Product ID `52234` · Digistore24 productId `592999` · [HTML profile page](../../reviews/anti-looter-kit-brand-new-52234.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $192.78 (Single payment) |
+| Price | $192.35 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $50.77 |
+| Earnings/sale* | $50.66 |
 | Cart conversion* | 18% |
 | Cancel rate* | 3.55% |
 | Vendor | antilooterkit |
@@ -41,7 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** • Compliant! • 33% commissions for initial product sales; 90% for digital upsells sales • Performs well in niches like survival, home defense, emergency preparedness, etc. • Put it to test! Promolink: https://www.theantilooterkit.com/main/#aff=AFFILIATE&cam=CAMPAIGNKEY Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce …
+**Vendor's marketplace description:** <p>• Compliant! </p>
+<p>• 33% commissions for initial product sales; 90% for digital upsells sales</p>
+<p>• Performs well in niches like survival, home defense, emergency preparedness, etc.</p>
+<p>• Put it to test!</p>
+<p>Promolink: https://www.theantilooterkit.com/main/#aff=AFFILIATE&amp;cam=CAMPAIGNKEY</p>
+<p>Our product is not available for Facebook, YT, Instagram, Tik Tok, Pinterest or Bing/Google paid advertising. We strictly enforce our rules and affiliates found breaking those rules are subject to an immediate and permanent ban. </p>
+<p>For support please visit our page <a href="https://www.theantilooterkit.com/dgs-affiliates/">https://www.theantilooterkit.com/dgs-affiliates/</a> or email <span style="text-decoration:underline;">affiliates.gbs@gmail.com</span>.</p>
 
 ## 2. Links
 
@@ -83,7 +89,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: antilooterkit, listed since 2025-01-29
-- How much? — 192.77681800000002 USD
+- How much? — 192.346743 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

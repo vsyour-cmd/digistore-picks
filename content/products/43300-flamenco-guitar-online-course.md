@@ -4,16 +4,16 @@ digistore24_product_id: 470989
 title: "Flamenco Guitar Online Course"
 vendor: "Guitarschool24"
 product_type: "Member area and video courses"
-price: 77.32
+price: 77.15
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.2
+earnings_per_sale: 23.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2022-11-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://www.guitarschool24.com/flamenco-guitar-method?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool24.com/flamenco-guitar-method"
@@ -22,16 +22,16 @@ language: "en"
 # Flamenco Guitar Online Course
 
 > Product ID `43300` · Digistore24 productId `470989` · [HTML profile page](../../reviews/flamenco-guitar-online-course-43300.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.32 (Single payment) |
+| Price | $77.15 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.20 |
+| Earnings/sale* | $23.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Guitarschool24 |
@@ -41,7 +41,58 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Why should you promote this online course!? -Professional Sales Site! -We run Remarketing Ads! -Other Courses for sale you also get provision! -Copy everything form my website www.guitarschool24.com when promoting contents NEW 9:16 compaible videos!!! Type: Flamenco Online Course (Book PDF. + Videos) Level: Beginner to Advanced Compatible with: Smartphone, Tablet, PC, Mac Format: Full HD .mp4 Memb…
+**Vendor's marketplace description:** <div>
+<h1><strong>Why should you promote this online course!? </strong></h1>
+<p>-Professional Sales Site!</p>
+<p>-We run Remarketing Ads!</p>
+<p>-Other Courses for sale you also get provision!</p>
+<p>-Copy everything form my website <a>www.guitarschool24.com</a> when promoting</p>
+</div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<h2>contents</h2>
+<p><strong>NEW 9:16 compaible videos!!!</strong></p>
+</div>
+</div>
+<div>
+<div>
+<ul>
+<li>Type: Flamenco Online Course (Book PDF. + Videos)</li>
+<li>Level: Beginner to Advanced</li>
+<li>Compatible with: Smartphone, Tablet, PC, Mac</li>
+<li>Format: Full HD .mp4</li>
+<li>Member area available immediately</li>
+<li>One-off payment – no monthly costs!</li>
+<li>60-day money-back guarantee</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div>
+<div>
+<h1>Flamenco Guitar Method</h1>
+</div>
+</div>
+<div>
+<div>
+<h3>Learn to play Flamenco Guitar online with the most detailed tutorials and methods for adults. Finally find the great feeling of making music on your own!</h3>
+</div>
+</div>
+</div>
+</div>
+</div>
 
 ## 2. Links
 
@@ -93,7 +144,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2022-11-21
-- How much? — 77.3214 USD
+- How much? — 77.14890000000001 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 

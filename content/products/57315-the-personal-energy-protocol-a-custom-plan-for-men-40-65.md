@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://alpha40fit.com/energy-protocol/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/57315/adminstore/"
 sales_page: "https://alpha40fit.com/energy-protocol/"
 language: "en"
 ---
 # The Personal Energy Protocol — A Custom Plan for Men 40–65
 
 > Product ID `57315` · Digistore24 productId `705028` · [HTML profile page](../../reviews/the-personal-energy-protocol-a-custom-plan-for-men-40-65-57315.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,30 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A personalized energy-recovery system for men 40–65 — built by a registered nutritionist and BJJ black belt. Not another generic PDF. What the buyer gets A custom 4-week protocol built around their specific energy drain — afternoon crash, unrefreshing sleep, lost training stamina, or brain fog The food, sleep, supplement and movement levers, ranked for them A statin-aware supplement section (adjus…
+**Vendor's marketplace description:** <p>A personalized energy-recovery system for men 40–65 — built by a registered nutritionist and BJJ black belt. Not another generic PDF.</p>
+<p><strong>What the buyer gets</strong></p>
+<ul>
+<li>A custom 4-week protocol built around their specific energy drain — afternoon crash, unrefreshing sleep, lost training stamina, or brain fog</li>
+<li>The food, sleep, supplement and movement levers, ranked for them</li>
+<li>A statin-aware supplement section (adjusts if they're on a cholesterol med)</li>
+<li>Every claim cited to a real study — no hype, no cure claims</li>
+</ul>
+<p><strong>Why it converts</strong></p>
+<ul>
+<li>The 8-question builder makes it feel "made for me" — beats static ebooks</li>
+<li>Real nutritionist authority + an honest, cited brand = trust in a YMYL niche</li>
+<li>$27 impulse price, instant delivery, 60-day guarantee → low refunds</li>
+</ul>
+<p><strong>The deal</strong></p>
+<ul>
+<li>Price $27 · Commission 50% (~$13.50/sale) · 60-day money-back · Instant digital delivery</li>
+</ul>
+<p><strong>Best traffic:</strong> lists in men's health, fatigue/energy, testosterone, sleep, biohacking, and over-40 fitness.</p>
+<p><strong>How to promote:</strong> send traffic to the sales page with your ?aff=YOURID link.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://alpha40fit.com/energy-protocol/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/57315/adminstore/
 - Sales page: https://alpha40fit.com/energy-protocol/
 - Canonical redirect: https://www.digistore24.com/redir/705028/adminstore
 

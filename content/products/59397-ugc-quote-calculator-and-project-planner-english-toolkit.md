@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/product/735091?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/59397/adminstore/"
 sales_page: "https://www.digistore24.com/product/735091"
 language: "en"
 ---
 # UGC Quote Calculator and Project Planner – English Toolkit
 
 > Product ID `59397` · Digistore24 productId `735091` · [HTML profile page](../../reviews/ugc-quote-calculator-and-project-planner-english-toolkit-59397.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,20 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** UGC Quote Calculator and Project Planner An English download toolkit for UGC creators who want to estimate project costs, define deliverables and keep client projects organised. XLSX quote calculator with editable hourly rate, task hours, direct costs and buffer. Project tracker for 20 jobs and three worked practice examples. Six-page PDF workbook plus editable DOCX: scope brief, quote message, ch…
+**Vendor's marketplace description:** <h2>UGC Quote Calculator and Project Planner</h2>
+<p>An English download toolkit for UGC creators who want to estimate project costs, define deliverables and keep client projects organised.</p>
+<ul>
+<li>XLSX quote calculator with editable hourly rate, task hours, direct costs and buffer.</li>
+<li>Project tracker for 20 jobs and three worked practice examples.</li>
+<li>Six-page PDF workbook plus editable DOCX: scope brief, quote message, change-request message and delivery checklist.</li>
+<li>START-HERE guide. One-time price: USD 29. No subscription.</li>
+</ul>
+<p>50% affiliate commission under the Digistore24 calculation rules. Suitable for creator education, freelance resources and UGC workflow audiences. English-language files; Excel-compatible spreadsheet software required.</p>
+<p>No bookings, earnings or market-rate guarantees. This is an estimation and organisation toolkit, not legal, tax or licensing advice. 60-day money-back guarantee through Digistore24. Support: info@einfachhaltbar.de.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/product/735091?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/59397/adminstore/
 - Sales page: https://www.digistore24.com/product/735091
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735091/
 - Canonical redirect: https://www.digistore24.com/redir/735091/adminstore

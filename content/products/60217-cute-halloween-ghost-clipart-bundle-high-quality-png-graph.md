@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/product/740429?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/60217/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/740429"
 language: "en"
 ---
 # Cute Halloween Ghost Clipart Bundle - High Quality PNG Graph
 
 > Product ID `60217` · Digistore24 productId `740429` · [HTML profile page](../../reviews/cute-halloween-ghost-clipart-bundle-high-quality-png-graph-60217.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -41,11 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** A premium bundle of high-resolution, cute Halloween ghost PNG clipart assets with transparent backgrounds. Perfect for crafters, digital planners, print-on-demand, and seasonal Halloween projects. Excellent conversion rate for creative and seasonal niches!
+**Vendor's marketplace description:** <p> <code>A premium bundle of high-resolution, cute Halloween ghost PNG clipart assets with transparent backgrounds. Perfect for crafters, digital planners, print-on-demand, and seasonal Halloween projects. Excellent conversion rate for creative and seasonal niches!</code></p>
+<ul>
+<li>
+<p> </p>
+</li>
+</ul>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/740429?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/60217/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/740429
 - Canonical redirect: https://www.digistore24.com/redir/740429/adminstore
 

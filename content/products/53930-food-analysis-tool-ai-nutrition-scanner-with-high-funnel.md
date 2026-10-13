@@ -4,16 +4,16 @@ digistore24_product_id: 632164
 title: "Food Analysis Tool – AI Nutrition Scanner with High Funnel"
 vendor: "goldinline"
 product_type: "Software"
-price: 97.49
+price: 97.27
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.75
+earnings_per_sale: 48.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Software"]
 listed_since: "2025-08-27"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://foodanalysistool.com/pitch?network=digistore24&aff=adminstore#aff=adminstore"
 sales_page: "https://foodanalysistool.com/pitch?network=digistore24"
@@ -22,16 +22,16 @@ language: "en"
 # Food Analysis Tool – AI Nutrition Scanner with High Funnel
 
 > Product ID `53930` · Digistore24 productId `632164` · [HTML profile page](../../reviews/food-analysis-tool-ai-nutrition-scanner-with-high-funnel-53930.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $97.49 (Subscription) |
+| Price | $97.27 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.75 |
+| Earnings/sale* | $48.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | goldinline |
@@ -41,7 +41,11 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** 50% Commission on a $27/month or $97/year software Commissions are monthly & yearly recurring for life! The BEST AI Food Analysis Tool to scan meals & reveal hidden calories, macros, and ingredients. Evergreen niche: weight loss, fitness, nutrition. Affiliates get banners, swipes, and proven funnels.Feel GREAT About Promoting!
+**Vendor's marketplace description:** <p><strong>50% Commission on a $27/month or $97/year software</strong></p>
+<p><strong>Commissions are monthly &amp; yearly recurring for life!</strong></p>
+<p>The BEST AI Food Analysis Tool to scan meals &amp; reveal hidden calories, macros, and ingredients.</p>
+<p>Evergreen niche: weight loss, fitness, nutrition.</p>
+<p>Affiliates get banners, swipes, and proven funnels.<br /><strong>Feel GREAT About Promoting!</strong></p>
 
 ## 2. Links
 
@@ -88,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: goldinline, listed since 2025-08-27
-- How much? — 97.4922 USD
+- How much? — 97.27470000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

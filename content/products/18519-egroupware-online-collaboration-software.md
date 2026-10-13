@@ -4,34 +4,34 @@ digistore24_product_id: 58103
 title: "EGroupware - Online Collaboration Software"
 vendor: "egroupware"
 product_type: "Downloads"
-price: 279.03
+price: 278.41
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.81
+earnings_per_sale: 55.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2015-09-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.egroupware.org/en/pricing/?aff=adminstore#aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/18519/adminstore/"
 sales_page: "https://www.egroupware.org/en/pricing/"
 language: "en"
 ---
 # EGroupware - Online Collaboration Software
 
 > Product ID `18519` · Digistore24 productId `58103` · [HTML profile page](../../reviews/egroupware-online-collaboration-software-18519.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $279.03 (Subscription) |
+| Price | $278.41 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.81 |
+| Earnings/sale* | $55.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | egroupware |
@@ -41,11 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Integrative, flexible and safe: Online Collaboration Software made in Germany Group calendars, address books, tasks and projects, tracking system, file management, e-mail client: EGroupware is an open-source enterprise software for business use. The software supports integrated project teams across and within organisation boundaries. Windows, Linux or Mac – EGroupware runs browser-based and thereb…
+**Vendor's marketplace description:** <h4>Integrative, flexible and safe: Online Collaboration Software made in Germany</h4>
+<p>Group calendars, address books, tasks and projects, tracking system, file management, e-mail client: EGroupware is an open-source enterprise software for business use. The software supports integrated project teams across and within organisation boundaries.</p>
+<p>Windows, Linux or Mac – EGroupware runs browser-based and thereby independent from the installed running system. The mobile version enables online access to all data on the go – without any need of synchronisation.</p>
+<p>Interlinking any data across applications and setting up business processes through configurable custom fields are making EGroupware desirable for companies, who require the highest flexibility from a collaborative software solution.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.egroupware.org/en/pricing/?aff=adminstore#aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/18519/adminstore/
 - Sales page: https://www.egroupware.org/en/pricing/
 - Vendor affiliate support: https://www.egroupware.org/en/become-reseller
 - Canonical redirect: https://www.digistore24.com/redir/58103/adminstore
@@ -89,7 +92,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: egroupware, listed since 2015-09-04
-- How much? — 279.0294 USD
+- How much? — 278.4069 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 

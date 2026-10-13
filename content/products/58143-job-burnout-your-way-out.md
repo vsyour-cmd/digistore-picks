@@ -4,34 +4,34 @@ digistore24_product_id: 718157
 title: "Job Burnout – Your Way Out"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.26
+price: 30.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.13
+earnings_per_sale: 15.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
-promo_link: "https://www.checkout-ds24.com/product/718157?aff=adminstore"
+promo_link: "https://www.digistore24.com/redir/58143/adminstore/"
 sales_page: "https://www.checkout-ds24.com/product/718157"
 language: "en"
 ---
 # Job Burnout – Your Way Out
 
 > Product ID `58143` · Digistore24 productId `718157` · [HTML profile page](../../reviews/job-burnout-your-way-out-58143.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.26 (Single payment) |
+| Price | $30.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.13 |
+| Earnings/sale* | $15.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -41,11 +41,13 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** An honest, practical guide against job burnout – with real exercises and concrete steps back to strength and energy. Ideal for audiences in mental health, self-care, and work-life balance. Warmly written, no sugarcoating, with clear guidance toward professional support when needed. 50% commission per sale.
+**Vendor's marketplace description:** <p>An honest, practical guide against job burnout – with real exercises and concrete steps back to strength and energy. Ideal for audiences in mental health, self-care, and work-life balance.</p>
+<p> </p>
+<p>Warmly written, no sugarcoating, with clear guidance toward professional support when needed. 50% commission per sale.</p>
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/product/718157?aff=adminstore
+- **Promo link (affiliate):** https://www.digistore24.com/redir/58143/adminstore/
 - Sales page: https://www.checkout-ds24.com/product/718157
 - Canonical redirect: https://www.digistore24.com/redir/718157/adminstore
 
@@ -75,7 +77,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.2562 USD
+- How much? — 30.188700000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

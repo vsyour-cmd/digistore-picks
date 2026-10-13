@@ -4,16 +4,16 @@ digistore24_product_id: 569717
 title: "FullyVital Hair Serum"
 vendor: "fullyvital25"
 product_type: "Deliverable"
-price: 174.81
+price: 174.42
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 104.89
+earnings_per_sale: 104.65
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-10"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://gro.fullyvital.com/aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://gro.fullyvital.com/aff/"
@@ -22,16 +22,16 @@ language: "en"
 # FullyVital Hair Serum
 
 > Product ID `46842` · Digistore24 productId `569717` · [HTML profile page](../../reviews/fullyvital-hair-serum-46842.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $174.81 (Single payment) |
+| Price | $174.42 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $104.89 |
+| Earnings/sale* | $104.65 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fullyvital25 |
@@ -41,7 +41,14 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** We're offering 60% of our front end sales, and a further 15% throughout the remainder of the funnel. TOP CUSTOMER SUPPORT LOW REFUNDS AND LOW CHARGEBACKS GENEROUS COMMISSIONS EXTREMELY BROAD APPEAL The hair loss market for women is huge – and it's getting bigger. According to the latest research, 50% of women over 50 experience significant hair loss. And our serum contains rosemary, which is extre…
+**Vendor's marketplace description:** <p><strong>We're offering 60% of our front end sales, and a further 15% throughout the remainder of the funnel.</strong></p>
+<p><strong>TOP CUSTOMER SUPPORT</strong></p>
+<p><strong>LOW REFUNDS AND LOW CHARGEBACKS</strong></p>
+<p><strong>GENEROUS COMMISSIONS</strong></p>
+<p><strong>EXTREMELY BROAD APPEAL</strong> The hair loss market for women is huge – and it's getting bigger. According to the latest research, 50% of women over 50 experience significant hair loss. And our serum contains rosemary, which is extremely popular as a remedy for hair loss.</p>
+<p><strong>PROVEN SALES PAGE</strong> This sales page is a solid performer on straight cold paid prospects from Meta. For this reason, we expect the affiliate channel to do absolutely great.</p>
+<p><strong>NO GOOGLE BRAND ADS:</strong></p>
+<p>We do not currently allow Google PPC ads to the offer.</p>
 
 ## 2. Links
 
@@ -88,7 +95,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: fullyvital25, listed since 2024-09-10
-- How much? — 174.8136 USD
+- How much? — 174.42360000000002 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 

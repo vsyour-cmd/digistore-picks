@@ -4,16 +4,16 @@ digistore24_product_id: 530683
 title: "Empowered Parenting: Boosting School Engagement"
 vendor: "togetr4success"
 product_type: "Member area and video courses"
-price: 364.2
+price: 363.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 182.1
+earnings_per_sale: 181.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Personal Development"]
 listed_since: "2023-12-20"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://togetr4success.thinkific.com/bundles/togetr4success?aff=adminstore#aff=adminstore"
 sales_page: "https://togetr4success.thinkific.com/bundles/togetr4success"
@@ -22,16 +22,16 @@ language: "en"
 # Empowered Parenting: Boosting School Engagement
 
 > Product ID `46812` · Digistore24 productId `530683` · [HTML profile page](../../reviews/empowered-parenting-boosting-school-engagement-46812.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $364.19 (Single payment) |
+| Price | $363.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $182.10 |
+| Earnings/sale* | $181.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | togetr4success |
@@ -41,7 +41,16 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Are you looking to assist parents to become proactive and involved in their child's educational journey? Do you want to strengthen your connection with their school, teachers, and peers? We understand that being an engaged parent can lead to better academic outcomes, enhanced social development, and increased overall success for your child. That's why we've developed this comprehensive course tail…
+**Vendor's marketplace description:** <p>Are you looking to assist parents to become proactive and involved in their child's educational journey? Do you want to strengthen your connection with their school, teachers, and peers? We understand that being an engaged parent can lead to better academic outcomes, enhanced social development, and increased overall success for your child. That's why we've developed this comprehensive course tailored just for you!</p>
+<p><strong><em>What Will You Learn? </em></strong></p>
+<p>Our "Empowered Parenting" course is designed to equip you with practical strategies, effective techniques, and valuable insights to increase parent involvement in your school experience.</p>
+<p><strong><em>Why Choose "Boosting School Engagement"? </em></strong></p>
+<p>Expert-Led Content: Our course is written and produced by Eric Robinson, the author of “The missing Link” The definitive guide on how to increase parent involvement in your school. Eric is a former school social worker and college professor, and an experienced professional who understand the dynamics of parent-school relationships. You will gain access to actionable tips, and interactive exercises to help you apply your learning effectively. Convenient Online Format: Enjoy the flexibility of learning at your own pace, anywhere and anytime, through our user-friendly online platform.</p>
+<p><strong><em>Take the First Step! </em></strong></p>
+<p>Don't miss this incredible opportunity and positively impact student's educational journey. Enroll in "Empowered Parenting: Boosting School Engagement" today and unlock the keys to successful parent-school collaboration! Visit our registration: <a href="https://togetr4success.thinkific.com/bundles/togetr4success">https://togetr4success.thinkific.com/bundles/togetr4success </a></p>
+<p><a href="https://togetr4success.thinkific.com/courses/10-week-challenge-workshop-course">https://togetr4success.thinkific.com/courses/10-week-challenge-workshop-course</a></p>
+<p> </p>
+<p> </p>
 
 ## 2. Links
 
@@ -92,7 +101,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: togetr4success, listed since 2023-12-20
-- How much? — 364.195 USD
+- How much? — 363.38250000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

@@ -4,16 +4,16 @@ digistore24_product_id: 741537
 title: "Digital Content Engine System (DCES)™ – Standard"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 32.5
+price: 32.42
 currency: "USD"
-affiliate_commission_pct: 25
-earnings_per_sale: 8.12
+affiliate_commission_pct: 30
+earnings_per_sale: 9.73
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/digital-content-engine-system-dces-standard/"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Content Engine System (DCES)™ – Standard
 
 > Product ID `60166` · Digistore24 productId `741537` · [HTML profile page](../../reviews/digital-content-engine-system-dces-standard-60166.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **medium**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $32.50 (Single payment) |
-| Affiliate commission | 25% |
-| Earnings/sale* | $8.12 |
+| Price | $32.42 (Single payment) |
+| Affiliate commission | 30% |
+| Earnings/sale* | $9.73 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
@@ -41,7 +41,8 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** ⚙️ DCES™- Standard is a prompt generator featuring a hook database, topic logic, filtered dropdown menus, and a status overview. It saves time immediately: simply select theme & hook, copy the generated prompt, paste it into ChatGPT or Claude, and generate a ready-made carousel content. Features:✅ 40 predefined themes (fitness, business, health, …)✅ 5 hooks for each theme (200 hooks in total)✅ 5 c…
+**Vendor's marketplace description:** <p>⚙️ <strong>DCES™- Standard</strong> is a prompt generator featuring a hook database, topic logic, filtered dropdown menus, and a status overview. It saves time immediately: simply select theme &amp; hook, copy the generated prompt, paste it into ChatGPT or Claude, and generate a ready-made carousel content.</p>
+<p><strong>Features:</strong><br />✅ 40 predefined themes (fitness, business, health, …)<br />✅ 5 hooks for each theme (200 hooks in total)<br />✅ 5 content packages for each theme (200 content packages in total)<br />✅ delivered as a complete package in English and German</p>
 
 ## 2. Links
 
@@ -75,7 +76,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-10-04
-- How much? — 32.4974 USD
+- How much? — 32.4249 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 

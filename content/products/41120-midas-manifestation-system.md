@@ -4,16 +4,16 @@ digistore24_product_id: 439776
 title: "Midas Manifestation System"
 vendor: "midasman88"
 product_type: "Member area and video courses"
-price: 164.76
+price: 164.39
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 111.34
+earnings_per_sale: 111.09
 cart_conversion_pct: 3
 cancel_rate_pct: 9.26
 categories: ["Personal Development"]
 listed_since: "2022-04-21"
-marketplace_data_date: "2026-10-10"
-research_date: "2026-10-11"
+marketplace_data_date: "2026-10-13"
+research_date: "2026-10-13"
 research_quality: "rich"
 promo_link: "https://midasmanifestation.com/presentation2/?aff=adminstore#aff=adminstore"
 sales_page: "https://midasmanifestation.com/presentation2/"
@@ -22,16 +22,16 @@ language: "en"
 # Midas Manifestation System
 
 > Product ID `41120` · Digistore24 productId `439776` · [HTML profile page](../../reviews/midas-manifestation-system-41120.html)
-> Marketplace data: 2026-10-10 · Sales-page research: 2026-10-11 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.76 (Single payment) |
+| Price | $164.39 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $111.34 |
+| Earnings/sale* | $111.09 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.26% |
 | Vendor | midasman88 |
@@ -41,7 +41,9 @@ language: "en"
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The 8-figure blockbuster is now on digistore24! 1-Click recurring billing upsells, $2+ EPCs, fully optimized downsell and upsells funnels, this offer has made millions for affiliates, and has recently been updated and revamped for even more amazing conversion! Written by a copywriter who has created many 7 figure offers, this offer is expertly crafted and practically guaranteed to make you insane …
+**Vendor's marketplace description:** <p>The 8-figure blockbuster is now on digistore24! 1-Click recurring billing upsells, $2+ EPCs, fully optimized downsell and upsells funnels, this offer has made millions for affiliates, and has recently been updated and revamped for even more amazing conversion!</p>
+<p>Written by a copywriter who has created many 7 figure offers, this offer is expertly crafted and practically guaranteed to make you insane amounts of money.</p>
+<p>This offer is geared toward people who are interested in manifestation, and also creating wealth and abundance. Does well with any kind of biz opp or spirituality traffic. Feel free to contact us at affiliates@midasmanifestation.com for with questions.</p>
 
 ## 2. Links
 
@@ -82,7 +84,7 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: midasman88, listed since 2022-04-21
-- How much? — 164.761818 USD
+- How much? — 164.39424300000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
