@@ -505,51 +505,51 @@
 
 ## Categories (45)
 
-- Animals & Pets (20 products) | https://vsyour-cmd.github.io/digistore-picks/category/digital-products-animals-pets.html
-- Betting Systems (6 products) | https://vsyour-cmd.github.io/digistore-picks/category/betting-systems.html
-- Business & Investment (161 products) | https://vsyour-cmd.github.io/digistore-picks/category/business-investment.html
-- Computer & Internet (70 products) | https://vsyour-cmd.github.io/digistore-picks/category/computer-internet.html
-- Dancing & Music (6 products) | https://vsyour-cmd.github.io/digistore-picks/category/dancing-music.html
-- Dating, Relationships & Romance (52 products) | https://vsyour-cmd.github.io/digistore-picks/category/dating-relationships-romance.html
-- Education (244 products) | https://vsyour-cmd.github.io/digistore-picks/category/education.html
-- Email Marketing (24 products) | https://vsyour-cmd.github.io/digistore-picks/category/email-marketing.html
-- Family & Children (120 products) | https://vsyour-cmd.github.io/digistore-picks/category/family-children.html
-- Fashion (9 products) | https://vsyour-cmd.github.io/digistore-picks/category/digital-products-fashion.html
-- Food & Drink (54 products) | https://vsyour-cmd.github.io/digistore-picks/category/food-drink.html
-- Fun & Games (16 products) | https://vsyour-cmd.github.io/digistore-picks/category/fun-games.html
-- Green Products & Environmental Protection (18 products) | https://vsyour-cmd.github.io/digistore-picks/category/green-products-environmental-protection.html
-- Health & Fitness (216 products) | https://vsyour-cmd.github.io/digistore-picks/category/health-fitness.html
-- Hobby & Craft (51 products) | https://vsyour-cmd.github.io/digistore-picks/category/hobby-craft.html
-- Home & Garden (30 products) | https://vsyour-cmd.github.io/digistore-picks/category/home-garden.html
-- Hotels & Gastronomy (2 products) | https://vsyour-cmd.github.io/digistore-picks/category/hotels-gastronomy.html
-- Languages (30 products) | https://vsyour-cmd.github.io/digistore-picks/category/languages.html
-- Law & Justice (4 products) | https://vsyour-cmd.github.io/digistore-picks/category/law-justice.html
-- Online Marketing & E-Business (211 products) | https://vsyour-cmd.github.io/digistore-picks/category/online-marketing-e-business.html
-- Personal Development (248 products) | https://vsyour-cmd.github.io/digistore-picks/category/digital-products-personal-development.html
-- Photography & Film (34 products) | https://vsyour-cmd.github.io/digistore-picks/category/photography-film.html
-- Politics & Economy (22 products) | https://vsyour-cmd.github.io/digistore-picks/category/politics-economy.html
-- Profession & Job (73 products) | https://vsyour-cmd.github.io/digistore-picks/category/profession-job.html
-- Services (18 products) | https://vsyour-cmd.github.io/digistore-picks/category/services.html
-- Social Media (86 products) | https://vsyour-cmd.github.io/digistore-picks/category/social-media.html
-- Software (84 products) | https://vsyour-cmd.github.io/digistore-picks/category/software.html
-- Spiri­tua­lity & Esotericism (82 products) | https://vsyour-cmd.github.io/digistore-picks/category/spiri-tua-lity-esotericism.html
-- Sport (9 products) | https://vsyour-cmd.github.io/digistore-picks/category/sport.html
-- Survival (39 products) | https://vsyour-cmd.github.io/digistore-picks/category/survival.html
+- Health & Fitness (222 products) | https://vsyour-cmd.github.io/digistore-picks/category/health-fitness.html
+- Personal Development (41 products) | https://vsyour-cmd.github.io/digistore-picks/category/events-seminars-personal-development.html
+- Personal Development (256 products) | https://vsyour-cmd.github.io/digistore-picks/category/digital-products-personal-development.html
 - Trading Products (9 products) | https://vsyour-cmd.github.io/digistore-picks/category/trading-products.html
+- Business & Investment (164 products) | https://vsyour-cmd.github.io/digistore-picks/category/business-investment.html
+- Software (85 products) | https://vsyour-cmd.github.io/digistore-picks/category/software.html
+- Dating, Relationships & Romance (50 products) | https://vsyour-cmd.github.io/digistore-picks/category/dating-relationships-romance.html
+- Spiri­tua­lity & Esotericism (83 products) | https://vsyour-cmd.github.io/digistore-picks/category/spiri-tua-lity-esotericism.html
+- Family & Children (120 products) | https://vsyour-cmd.github.io/digistore-picks/category/family-children.html
+- Animals & Pets (19 products) | https://vsyour-cmd.github.io/digistore-picks/category/digital-products-animals-pets.html
+- Law & Justice (4 products) | https://vsyour-cmd.github.io/digistore-picks/category/law-justice.html
+- Dancing & Music (6 products) | https://vsyour-cmd.github.io/digistore-picks/category/dancing-music.html
+- Betting Systems (6 products) | https://vsyour-cmd.github.io/digistore-picks/category/betting-systems.html
+- Computer & Internet (71 products) | https://vsyour-cmd.github.io/digistore-picks/category/computer-internet.html
+- Online Marketing & E-Business (211 products) | https://vsyour-cmd.github.io/digistore-picks/category/online-marketing-e-business.html
+- Home & Garden (35 products) | https://vsyour-cmd.github.io/digistore-picks/category/home-garden.html
 - Travel & Culture (18 products) | https://vsyour-cmd.github.io/digistore-picks/category/travel-culture.html
-- Animals & Pets (2 products) | https://vsyour-cmd.github.io/digistore-picks/category/events-seminars-animals-pets.html
-- Finances (12 products) | https://vsyour-cmd.github.io/digistore-picks/category/finances.html
-- Leadership & Management (20 products) | https://vsyour-cmd.github.io/digistore-picks/category/leadership-management.html
+- Profession & Job (74 products) | https://vsyour-cmd.github.io/digistore-picks/category/profession-job.html
+- Education (246 products) | https://vsyour-cmd.github.io/digistore-picks/category/education.html
+- Green Products & Environmental Protection (17 products) | https://vsyour-cmd.github.io/digistore-picks/category/green-products-environmental-protection.html
+- Languages (31 products) | https://vsyour-cmd.github.io/digistore-picks/category/languages.html
+- Politics & Economy (22 products) | https://vsyour-cmd.github.io/digistore-picks/category/politics-economy.html
+- Sport (8 products) | https://vsyour-cmd.github.io/digistore-picks/category/sport.html
+- Services (18 products) | https://vsyour-cmd.github.io/digistore-picks/category/services.html
+- Social Media (81 products) | https://vsyour-cmd.github.io/digistore-picks/category/social-media.html
+- Hobby & Craft (54 products) | https://vsyour-cmd.github.io/digistore-picks/category/hobby-craft.html
+- Email Marketing (24 products) | https://vsyour-cmd.github.io/digistore-picks/category/email-marketing.html
+- Hotels & Gastronomy (2 products) | https://vsyour-cmd.github.io/digistore-picks/category/hotels-gastronomy.html
+- Marketing Services (31 products) | https://vsyour-cmd.github.io/digistore-picks/category/marketing-services.html
+- Food & Drink (54 products) | https://vsyour-cmd.github.io/digistore-picks/category/food-drink.html
+- Leadership & Management (21 products) | https://vsyour-cmd.github.io/digistore-picks/category/leadership-management.html
+- Online Marketing (23 products) | https://vsyour-cmd.github.io/digistore-picks/category/online-marketing.html
 - Office Organization (6 products) | https://vsyour-cmd.github.io/digistore-picks/category/office-organization.html
-- Online Marketing (24 products) | https://vsyour-cmd.github.io/digistore-picks/category/online-marketing.html
-- Personal Development (43 products) | https://vsyour-cmd.github.io/digistore-picks/category/events-seminars-personal-development.html
-- Project Management (7 products) | https://vsyour-cmd.github.io/digistore-picks/category/project-management.html
 - Real Estate (4 products) | https://vsyour-cmd.github.io/digistore-picks/category/real-estate.html
-- Sales Training (9 products) | https://vsyour-cmd.github.io/digistore-picks/category/sales-training.html
+- Finances (12 products) | https://vsyour-cmd.github.io/digistore-picks/category/finances.html
+- Project Management (7 products) | https://vsyour-cmd.github.io/digistore-picks/category/project-management.html
+- Sales Training (7 products) | https://vsyour-cmd.github.io/digistore-picks/category/sales-training.html
+- Photography & Film (34 products) | https://vsyour-cmd.github.io/digistore-picks/category/photography-film.html
+- Animals & Pets (2 products) | https://vsyour-cmd.github.io/digistore-picks/category/events-seminars-animals-pets.html
 - Fashion (1 products) | https://vsyour-cmd.github.io/digistore-picks/category/services-fashion.html
-- Marketing Services (32 products) | https://vsyour-cmd.github.io/digistore-picks/category/marketing-services.html
-- Skin Care (8 products) | https://vsyour-cmd.github.io/digistore-picks/category/skin-care.html
-- Food Supplements (148 products) | https://vsyour-cmd.github.io/digistore-picks/category/food-supplements.html
+- Fun & Games (16 products) | https://vsyour-cmd.github.io/digistore-picks/category/fun-games.html
+- Fashion (9 products) | https://vsyour-cmd.github.io/digistore-picks/category/digital-products-fashion.html
+- Skin Care (9 products) | https://vsyour-cmd.github.io/digistore-picks/category/skin-care.html
+- Food Supplements (151 products) | https://vsyour-cmd.github.io/digistore-picks/category/food-supplements.html
+- Survival (40 products) | https://vsyour-cmd.github.io/digistore-picks/category/survival.html
 
 ## Top vendors (100, by listing count)
 

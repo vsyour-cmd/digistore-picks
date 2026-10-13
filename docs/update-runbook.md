@@ -63,7 +63,7 @@ node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂�
 数据文件结构(dataset.json):`{affiliateId:'adminstore', scrapedAt, researchedAt, total, withResearch, categories:[{catId,section,label,count}], products:[{id,productId,label,type,price,currency,commission,conversionRate,cancelRate,earningsPerSale,earningsPerClick,vendorName,description,imageUrl,salesPageUrl,promoLink,affiliateSupportPageUrl,autoAccept,billingTypes,createdAt,categories,categoryIds,research?}]}`
 
 已知数据边界(2026-10-13 探明,勿重复踩坑):
-- **分类映射**(`categories-*.json`,10-09 生成)本就只覆盖 ~90% 产品(当天 126 个未映射),未映射产品进 Uncategorized 页,属既有特征。`/v2/api/marketplace/results` 的 category/categoryId/sectionId 等参数全部无效(返回未过滤 1255),SPA 详情端点是 `/v2/api/marketplace/results/{id}`(无分类字段、type 更细但不足以推断)。刷新映射需在市场 UI 逐分类浏览另抓——尚无 API 路径。
+- **分类映射**(2026-10-13 起可全量刷新):过滤参数是 `marketplaceCategoryId[]=〈catId〉`(数组编码,单值会 500;参数名藏在 SPA bundle 的 R.Category 枚举里)。流程:results 响应的 sectionList(4 分区×46 类,含精确 count)→ 逐类翻页收集 ids → 写 categories-*.json。剩余 ~100(EN)/~17(DE) 个未映射产品是平台本身未归类,count 全一致证实。分类页码变化后跑 prune-stale 清幽灵页。
 - **厂商描述是 HTML 片段**,build-dataset 的 `htmlToText()` 已转纯文本;fetch-research 会拒绝 Cloudflare 验证页;QA 门禁含转义HTML泄漏=0。
 - **产品 slug 随厂商改名而变**,旧 URL 404 属正常,靠 sitemap 重收录。
 
