@@ -62,7 +62,12 @@ node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂�
 
 数据文件结构(dataset.json):`{affiliateId:'adminstore', scrapedAt, researchedAt, total, withResearch, categories:[{catId,section,label,count}], products:[{id,productId,label,type,price,currency,commission,conversionRate,cancelRate,earningsPerSale,earningsPerClick,vendorName,description,imageUrl,salesPageUrl,promoLink,affiliateSupportPageUrl,autoAccept,billingTypes,createdAt,categories,categoryIds,research?}]}`
 
-推广链接规律(三档):
+已知数据边界(2026-10-13 探明,勿重复踩坑):
+- **分类映射**(`categories-*.json`,10-09 生成)本就只覆盖 ~90% 产品(当天 126 个未映射),未映射产品进 Uncategorized 页,属既有特征。`/v2/api/marketplace/results` 的 category/categoryId/sectionId 等参数全部无效(返回未过滤 1255),SPA 详情端点是 `/v2/api/marketplace/results/{id}`(无分类字段、type 更细但不足以推断)。刷新映射需在市场 UI 逐分类浏览另抓——尚无 API 路径。
+- **厂商描述是 HTML 片段**,build-dataset 的 `htmlToText()` 已转纯文本;fetch-research 会拒绝 Cloudflare 验证页;QA 门禁含转义HTML泄漏=0。
+- **产品 slug 随厂商改名而变**,旧 URL 404 属正常,靠 sitemap 重收录。
+
+推广链接规律(三档;2026-10-13 起官方链接文件 `data/promolinks-*.json` 优先级最高,经 `/v2/api/marketplace/promolink/{id}` 获取,厂商改版自动跟随):
 1. **Digistore24 自家域名**(digistore24.com/product、checkout-ds24.com/product):`销售页 + ('?'或'&') + 'aff=adminstore'`(查询参数,官方追踪格式,如 `?voucher=X&aff=adminstore`)
 2. **vendor 域名**:`销售页 + ('?'或'&') + 'aff=adminstore' + '#aff=adminstore'`(查询+锚点双保险:DS24 嵌入 JS 读锚点,funnel 工具读查询参数)
 3. **坏URL**(含 `#`、`[占位符]`、无销售页):规范重定向 `https://www.digistore24.com/redir/{productId}/adminstore`
