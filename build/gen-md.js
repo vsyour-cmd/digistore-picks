@@ -159,4 +159,10 @@ for (const p of DATA.products) {
   lines.push("");
   fs.writeFileSync(path.join(OUT, file), lines.join("\n"));
 }
-console.log(`wrote ${DATA.products.length} MD files → content/products/`);
+// 孤儿清理:已下架产品的 MD 档案会被 audit-full 记为死链(58481 等),生成物只保留在售产品
+const liveFiles = new Set(DATA.products.map((p) => `${p.id}-${slug(p.label)}.md`));
+let prunedMd = 0;
+for (const f of fs.readdirSync(OUT)) {
+  if (f.endsWith(".md") && !liveFiles.has(f)) { fs.unlinkSync(path.join(OUT, f)); prunedMd++; }
+}
+console.log(`wrote ${DATA.products.length} MD files → content/products/` + (prunedMd ? `, pruned ${prunedMd} orphaned` : ""));

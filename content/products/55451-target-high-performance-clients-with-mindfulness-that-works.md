@@ -53,7 +53,6 @@ language: "en"
 ## 3. Sales-page research (vendor claims, not verified by us)
 
 - **Page title:** Mindset Transformation
-- **Meta description:** <!-- Begin of Digistore24 Trusted Badge Code --> <script type="text/javascript" src="https://www.digistore24.com/trusted-badge/43825/PPsUMpdwAVQbhNQ/salespage">
 - **Page word count:** 2
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.

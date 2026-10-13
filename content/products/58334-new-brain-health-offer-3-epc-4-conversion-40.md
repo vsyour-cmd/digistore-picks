@@ -14,7 +14,7 @@ categories: ["Food Supplements"]
 listed_since: "2026-08-13"
 marketplace_data_date: "2026-10-13"
 research_date: "2026-10-13"
-research_quality: "rich"
+research_quality: "none"
 promo_link: "https://cognifortplus.com/ds/indexts.php?aff=adminstore#aff=adminstore"
 sales_page: "https://cognifortplus.com/ds/indexts.php"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+
 
 > Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](../../reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,29 +52,7 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-- **Page title:** Cognifort+
-- **Meta description:** Cognifort+
-- **Headline (H1):**
-  > CogniFort+™
-- **Section headlines (H2):**
-  - And It's Backed By Breakthrough New Research From Johns Hopkins, Harvard, and Stanford To Boot.
-  - I’ll Show YOU How To Do It At Home, Right Now.
-  - You're The Type of Person Others Have Counted On Your Whole Life.
-  - It's NOT Dementia. It’s NOT Even A Required Part of Aging.
-  - An Extra Split Second Between Hearing It... Thinking it... And Speaking It.
-  - That Same Lag Affects Your Hearing.
-  - Fortifying The Pathways Behind Memory, Hearing, and Much More.
-  - And Powerful Insiders Are Doing Everything To Keep This New Information Hidden.
-  - And Whatever I’ve Achieved… I Owe To Her.
-  - Lost. In A Panic. Made A Desperate U-turn On The Highway.
-- **Price mentions on page:** $97.00, $6,000, $72,000, $32,000, $5,300, $7,600, $91,000, $1,000,000, $14,000., $100, $97, $29
-- **Guarantee mention:** "180" (verify on the official page before relying on it)
-- **CTA button texts:** "add to cart", "YES, Send Me My Free Cognitive Reset Soundscape"
-- **Opening copy (first paragraphs):**
-  > And in just a moment, you’re going to meet everyday women and men who were struggling with memory slips, brain fog… and in some cases, failing fast.
-  > A 9-second “forbidden fat ritual”… inspired by remote Himalayan villages where memory loss is almost unheard of.
-  > Turns out… your memory cells didn’t disappear. They're just starving. And this is exactly what feeds them.
-- **Page word count:** 7725
+> Sales page not yet researched. This section will be filled by the next research run.
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -99,7 +77,7 @@ language: "en"
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2026-08-13
 - How much? — 117 USD
-- Guarantee? — 180
+- Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
