@@ -404,12 +404,69 @@ ${pool.map(row).join("\n")}
   console.log("daily article (EN):", f);
 }
 
+
+// ---------- 本周市场变动文(数据来自 history 快照 vs 当前 dataset,随每日重建刷新) ----------
+function thisWeekDigest() {
+  const histDir = "G:/Digistore24/data/history";
+  const snaps = fs.existsSync(histDir) ? fs.readdirSync(histDir).filter((f) => f.endsWith("-en.json")).map((f) => f.slice(0, 10)).sort() : [];
+  if (snaps.length < 2) { console.log("this-week: not enough snapshots, skipped"); return; }
+  const oldest = JSON.parse(fs.readFileSync(path.join(histDir, snaps[0] + "-en.json"), "utf8"));
+  const oldMap = new Map((oldest.products || []).map((p) => [String(p.id), p]));
+  const news = products.filter((p) => !oldMap.has(String(p.id)));
+  const gone = [...oldMap.values()].filter((o) => !products.find((x) => String(x.id) === String(o.id)));
+  const raises = [], drops = [];
+  for (const p of products) {
+    const o = oldMap.get(String(p.id));
+    if (!o || !o.price || !p.price) continue;
+    const pc = ((p.price - o.price) / o.price) * 100;
+    if (p.price - o.price >= 0.5 && pc >= 1) raises.push({ p, o, pc });
+    if (o.price - p.price >= 0.5 && pc <= -1) drops.push({ p, o, pc });
+  }
+  news.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
+  raises.sort((a, b) => b.pc - a.pc); drops.sort((a, b) => a.pc - b.pc);
+  const withConv = news.filter((p) => p.conversionRate != null).length;
+  const reachable = news.filter((p) => !(p.research && p.research.error)).length;
+  const prices = news.map((p) => p.price).filter((v) => v != null).sort((a, b) => a - b);
+  const med = prices.length ? prices[Math.floor(prices.length / 2)] : null;
+  const types = Object.entries(news.reduce((m, p) => { const t = p.type || "Other"; m[t] = (m[t] || 0) + 1; return m; }, {})).sort((a, b) => b[1] - a[1]);
+  const f = "marketplace-churn-one-week.html";
+  const nrow = (p) => `<tr><td><a href="../reviews/${p.slug}.html">${esc(p.label)}</a></td><td>${esc(p.type)}</td><td>${money(p.price, p.currency)}</td><td>${money(p.earningsPerSale, p.currency)}</td><td>${p.conversionRate != null ? pct(p.conversionRate) : '<span class="sub">not published</span>'}</td></tr>`;
+  const body = `
+<h1>${news.length} new offers appeared this week — and ${gone.length} disappeared</h1>
+<p class="sub">Marketplace churn, one week at a time · Snapshot ${snaps[0]} vs ${UPDATED} · Every figure is official Digistore24 marketplace data</p>
+<div class="tldr"><b>At a glance:</b> <ul>
+<li><b>${news.length} new listings</b> entered the English marketplace this week; <b>${gone.length}</b> left. Median entry price: <b>${med != null ? money(med, "USD") : "—"}</b>.</li>
+<li>Only <b>${withConv} of ${news.length}</b> new listings publish a cart-conversion figure. Launch-stage offers keep you blind — that is normal, and it is a reason for patience.</li>
+<li>${raises.length} price raise${raises.length === 1 ? "" : "s"}, ${drops.length} cut${drops.length === 1 ? "" : "s"} among continuing offers — vendor repricing in action.</li>
+</ul></div>
+<h2>The new arrivals</h2>
+<p>New listings skew toward ${types.slice(0, 3).map(([t, n]) => `${esc(t)} (${n})`).join(", ")}. All ${reachable} of ${news.length} sales pages were reachable at research time — that will not stay true forever, which is exactly why the churn table below matters.</p>
+<table class="specs">
+<tr><th>Product</th><th>Type</th><th>Price</th><th>Earn./sale</th><th>Cart conv.*</th></tr>
+${news.slice(0, 15).map(nrow).join("\n")}
+</table>
+${news.length > 15 ? `<p class="sub">…and ${news.length - 15} more — see <a href="../monthly-new.html">the monthly new-arrivals page</a>.</p>` : ""}
+<p class="sub">* Conversion is vendor-reported across the vendor's own traffic and often missing on fresh listings. Absence is not an indictment — it is a reason to check back after the offer has real traffic history.</p>
+<h2>Price moves among existing offers</h2>
+${raises.length ? `<p><b>Raised:</b> ${raises.map(({ p, pc }) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a> +${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
+${drops.length ? `<p><b>Lowered:</b> ${drops.map(({ p, pc }) => `<a href="../reviews/${p.slug}.html">${esc(p.label)}</a> ${Math.round(pc)}%`).join(" · ")}.</p>` : ""}
+<p>${raises.length + drops.length === 0 ? "No vendor moved a list price by ≥1% this week." : "Double- and triple-digit price changes are almost always re-launches or funnel restructurings rather than quiet increments — read them as 'this offer changed strategy', and re-check the sales page before acting on anything you noted earlier."}</p>
+<h2>The exits</h2>
+<p>${gone.length} listing${gone.length === 1 ? "" : "s"} left the marketplace record this week — ${esc(gone.slice(0, 3).map((g) => g.label).join(", "))}${gone.length > 3 ? " and others" : ""}. Their profiles come down via our staleness policy. If you bookmarked one, the vendor may have moved it rather than killed it — check the vendor's own site.</p>
+<h2>Why we publish churn at all</h2>
+<p>A directory that only shows what exists today hides the single most informative signal: how fast this market turns over. New listings have no track record (their stats are missing for a reason); disappeared listings had buyers yesterday. If you use this site to pick offers, the churn rate is your prior for how much verification any single listing deserves — and our <a href="price-watch.html">price tracker</a> keeps the full movement history.</p>
+<p class="sub">Method: <a href="digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. Evidence &amp; verification conditions: computed mechanically between full-dataset snapshots (${snaps[0]} → ${UPDATED}) from the official Digistore24 marketplace API; no manual curation.</p>`;
+  fs.writeFileSync(path.join(ROOT, "blog", f), layout({ title: `New & gone: one week of Digistore24 marketplace churn`, desc: `${news.length} new Digistore24 offers and ${gone.length} departures this week — launch stats, price moves and what marketplace churn means for buyers. Snapshot ${UPDATED}.`, body, rel: "..", file: f }));
+  console.log("this-week digest (EN):", f, `(${news.length} new / ${gone.length} gone / ${raises.length} raises / ${drops.length} cuts)`);
+}
+
 // ---------- blog index ----------
 function blogIndex() {
   const files = [
     ["top-20-highest-earning-digistore24-products.html", "The 20 highest-earning Digistore24 products (by the numbers)", `All ${DATA.total} English offers ranked by official earnings-per-sale. Auto-refreshed.`],
     ["digistore24-numbers-checklist.html", "Before you buy (or promote): a 6-point numbers check", "The method behind every profile on this site — usable on any offer you're evaluating."],
     ["highest-converting-digistore24-offers.html", "The highest-converting Digistore24 offers (and the catch)", "Top cart-conversion offers with cancel rates alongside — vendor-reported data."],
+    ["marketplace-churn-one-week.html", "New & gone: this week's marketplace churn", "Offers that appeared and disappeared this week, with launch data — computed from daily snapshots."],
   ];
   const majors = DATA.categories.filter((c) => c.count >= 5).sort((a, b) => b.count - a.count).map((c) => c.label);
   for (const label of majors) {
@@ -445,6 +502,7 @@ top20();
 categoryGuides();
 headToHead();
 dailyArticle();
+thisWeekDigest();
 checklist();
 blogIndex();
 console.log("blog built: " + fs.readdirSync(path.join(ROOT, "blog")).length + " pages");
