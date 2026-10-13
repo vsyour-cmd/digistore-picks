@@ -133,3 +133,20 @@ for (const f of htmls) {
 }
 
 console.log('patched files:', touched);
+
+// ---- 7. Digistore24 domain policy (CUSDM1): product links must use
+// checkout-ds24.com; www.digistore24.com/product/* shows an error page to
+// real users (verified in a real browser 2026-10-13).
+{
+  const files = walk('.').filter((f) => f.endsWith('.html'));
+  let n = 0;
+  for (const f of files) {
+    const before = fs.readFileSync(f, 'utf8');
+    const after = before
+      .split('https://www.digistore24.com/product/')
+      .join('https://www.checkout-ds24.com/product/')
+      .replace(/>digistore24\.com\/product\//g, '>checkout-ds24.com/product/');
+    if (after !== before) { fs.writeFileSync(f, after, 'utf8'); n++; }
+  }
+  console.log('domain swap: ' + n + ' files');
+}

@@ -51,6 +51,7 @@ node build/build-site.js            # 全产品 HTML 档案页 + 分类页 + 首
 node build/build-blog.js            # 数据驱动博客(Article JSON-LD + Key takeaways)
 node build/build-extras.js          # sitemap.xml / robots.txt / llms.txt / feed.xml(必须在最后)
 node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂商的幽灵页(先 --dry 预览;blog/根目录手写文件不受影响)
+node tools/linkcheck.mjs            # 链接门禁(2026-10-13 起):TOTAL broken internal refs 必须为 0,非 0 = 生成器回归,先修再发。--external 可导出全站外链清单
 # build-site.js 一并产出(2026-10 起的完整页面清单):
 #   alternatives/(对比页)+ best-of/(聚合页)+ 404.html + 分类分页
 #   reviews/{slug}/guide.html      深度顾问页×10(收益Top10,1500+词,产品页有入口)
@@ -68,7 +69,7 @@ node build/prune-stale.js           # 清理下架产品/缩编分页/掉榜厂�
 - **产品 slug 随厂商改名而变**,旧 URL 404 属正常,靠 sitemap 重收录。
 
 推广链接规律(三档;⚠️ 2026-10-13 教训:`/v2/api/marketplace/promolink/{id}` 端点按传入 id 原样回显 redir/{id},而 redir 体系只认 productId——用市场 id 调用会生成指向错误产品的链接(已在全量部署后发现并回退)。厂商自定义 promo 链接只能来自通知或人工。):
-1. **Digistore24 自家域名**(digistore24.com/product、checkout-ds24.com/product):`销售页 + ('?'或'&') + 'aff=adminstore'`(查询参数,官方追踪格式,如 `?voucher=X&aff=adminstore`)
+1. **Digistore24 自家域名**(⚠️ 2026-10-13 起产品页链接只认 checkout-ds24.com:www.digistore24.com/product/* 会对真实用户报 "Incorrect domain in the link (CUSDM1)" 错误页,curl 状态码分辨不出,必须浏览器验证。CTA/公开页链接一律用 checkout-ds24.com/product/{id}[/]):`销售页 + ('?'或'&') + 'aff=adminstore'`(查询参数,官方追踪格式,如 `?voucher=X&aff=adminstore`)
 2. **vendor 域名**:`销售页 + ('?'或'&') + 'aff=adminstore' + '#aff=adminstore'`(查询+锚点双保险:DS24 嵌入 JS 读锚点,funnel 工具读查询参数)
 3. **坏URL**(含 `#`、`[占位符]`、无销售页):规范重定向 `https://www.digistore24.com/redir/{productId}/adminstore`
 

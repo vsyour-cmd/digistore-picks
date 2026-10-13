@@ -957,7 +957,7 @@ function sourcesBlock(p) {
   return `<h2>Sources &amp; further information</h2>
 <ul style="line-height:1.9">
 <li><b>Official sales page</b> (current price, guarantee, bonuses): <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">${esc((p.salesPageUrl || "").replace(/^https?:\/\//, "").slice(0, 60))}</a> (affiliate link)</li>
-<li><b>Public Digistore24 product page:</b> <a href="https://www.digistore24.com/product/${p.productId}" rel="nofollow noopener" target="_blank">digistore24.com/product/${p.productId}</a></li>
+<li><b>Public Digistore24 product page:</b> <a href="https://www.checkout-ds24.com/product/${p.productId}/" rel="nofollow noopener" target="_blank">checkout-ds24.com/product/${p.productId}</a></li>
 <li><b>Full research file (Markdown, versioned):</b> <a href="https://github.com/vsyour-cmd/digistore-picks/blob/main/content/products/${p.id}-${slug(p.label)}.md" rel="noopener">content/products/${p.id}-${slug(p.label)}.md</a></li>
 ${p.affiliateSupportPageUrl ? `<li><b>Vendor's affiliate support page:</b> <a href="${esc(p.affiliateSupportPageUrl)}" rel="nofollow noopener" target="_blank">${esc(p.affiliateSupportPageUrl.replace(/^https?:\/\//, "").slice(0, 60))}</a></li>` : ""}
 <li><b>Marketplace category:</b> ${(p.categories || [])[0] ? `<a href="../category/${(DATA.categories.find((c) => c.label === p.categories[0]) || {}).file || ""}.html">${esc(p.categories[0])}</a>` : "Uncategorized"}</li>
