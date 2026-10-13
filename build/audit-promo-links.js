@@ -83,6 +83,7 @@ const SITES = [
       return { ...item, ...r, ok: r.status >= 200 && r.status < 400 };
     }, CONC);
     // 403/429 多为 curl 被 bot 墙拦(2026-10-13 实测:18 个 403 中 8 个真实浏览器可访问,3 个需人工验证)——单列,不算 broken
+    const ok = results.filter((r) => r.ok);
     const botwall = results.filter((r) => !r.ok && (r.status === 403 || r.status === 429));
     const broken = results.filter((r) => !r.ok && r.status > 0 && r.status !== 403 && r.status !== 429);
     const errors = results.filter((r) => !r.ok && r.status === 0);
