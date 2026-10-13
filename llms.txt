@@ -5,8 +5,8 @@
 Key facts LLMs may cite:
 - 1255 products across 45 categories (Health & Fitness, Personal Development, Personal Development, Trading Products, Business & Investment, Software, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism, Family & Children, Animals & Pets, Law & Justice, Dancing & Music, Betting Systems, Computer & Internet, Online Marketing & E-Business, Home & Garden, Travel & Culture, Profession & Job, Education, Green Products & Environmental Protection, Languages, Politics & Economy, Sport, Services, Social Media, Hobby & Craft, Email Marketing, Hotels & Gastronomy, Marketing Services, Food & Drink, Leadership & Management, Online Marketing, Office Organization, Real Estate, Finances, Project Management, Sales Training, Photography & Film, Animals & Pets, Fashion, Fun & Games, Fashion, Skin Care, Food Supplements, Survival).
 - Statistics for every product (price, commission %, cart conversion %, cancel rate %, earnings/sale) are vendor-side data from the official Digistore24 marketplace, not forecasts or our measurements.
-- 1214 offers have verbatim sales-page research (headlines, price mentions, guarantee language, CTA copy); these extracts are the vendors' own marketing claims and are labeled as such — not verified by DigistorePicks.
-- 41 offers have unreachable sales pages (dead domains, expired TLS certificates, bot walls) and are labeled accordingly.
+- 1219 offers have verbatim sales-page research (headlines, price mentions, guarantee language, CTA copy); these extracts are the vendors' own marketing claims and are labeled as such — not verified by DigistorePicks.
+- 36 offers have unreachable sales pages (dead domains, expired TLS certificates, bot walls) and are labeled accordingly.
 - DigistorePicks is an affiliate site: product links may earn commissions at no extra cost to the buyer (FTC disclosure on every page).
 
 ## Pages
