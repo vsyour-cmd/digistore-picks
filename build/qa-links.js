@@ -32,6 +32,7 @@ function qaSite(root, label, dirs) {
   const titleLong = [];
   const structural = [];
   const leaks = [];
+  const escLeak = [];
   let cjkChecked = 0;
   for (const file of files) {
     if (file === "404.html" || /^google[0-9a-f]+.html$/.test(file) || /^[0-9a-f]{32}.txt$/.test(file)) continue; // 豁免:404/验证文件
@@ -45,6 +46,10 @@ function qaSite(root, label, dirs) {
     const raw = (html.match(/<title>([\s\S]*?)<\/title>/) || [])[1] || "";
     const t = raw.replace(/&amp;/g, "&").replace(/&quot;/g, '"').replace(/&#0?39;|&apos;/g, "'").replace(/&lt;/g, "<").replace(/&gt;/g, ">").replace(/&nbsp;/g, " ").replace(/&[a-z]+;/g, "x");
     if (t.length > 70) titleLong.push(`${file}: ${t.length}ch — ${t.slice(0, 50)}`);
+    // 转义 HTML 泄漏门禁:正文出现 &lt;h2&gt; 等转义标签 = 源数据带 HTML 被整页 esc()(厂商描述曾因此原样可见)
+    if (/&lt;\/?(?:h[1-6]|p|div|span|br|table|tr|td|ul|ol|li|strong|em|b|i|a|img|section|article|script|style)\b[^&]{0,80}&gt;/i.test(html)) {
+      escLeak.push(file);
+    }
     // 结构体检:描述/canonical/H1/alt/JSON-LD
     const hasDesc = /<meta name="description" content="[^"]{10,}/.test(html);
     const hasCanon = /rel="canonical"/.test(html);
@@ -74,14 +79,15 @@ function qaSite(root, label, dirs) {
       dead.push(`${file} → ${l}`);
     }
   }
-  return { files: files.length, cjk, dead, leaks, titleLong, structural };
+  return { files: files.length, cjk, dead, leaks, titleLong, structural, escLeak };
 }
 
 function report(r, label) {
-  console.log(`${label}: ${r.files} pages | CJK泄漏页面: ${r.cjk.length} | 死链: ${r.dead.length} | 模板泄漏: ${r.leaks.length} | 标题>70: ${r.titleLong.length}`);
+  console.log(`${label}: ${r.files} pages | CJK泄漏页面: ${r.cjk.length} | 死链: ${r.dead.length} | 模板泄漏: ${r.leaks.length} | 转义HTML泄漏: ${r.escLeak.length} | 标题>70: ${r.titleLong.length}`);
   r.cjk.slice(0, 3).forEach((x) => console.log(`  ${label} CJK`, x));
   r.dead.slice(0, 5).forEach((x) => console.log(`  ${label} DEAD`, x));
   r.leaks.slice(0, 3).forEach((x) => console.log(`  ${label} LEAK`, x));
+  r.escLeak.slice(0, 5).forEach((x) => console.log(`  ${label} ESC-LEAK`, x));
   r.titleLong.slice(0, 3).forEach((x) => console.log(`  ${label} TITLE>70`, x));
   r.structural.slice(0, 5).forEach((x) => console.log(`  ${label} STRUCT`, x));
 }

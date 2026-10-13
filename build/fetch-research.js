@@ -53,6 +53,7 @@ const decode = (s) => s
   .replace(/&quot;|&#0?34;|&#x2[22];/gi, '"').replace(/&#0?39;|&apos;|&#x2[27];/gi, "'")
   .replace(/&nbsp;/g, " ").replace(/&#8217;|&rsquo;/g, "'").replace(/&#821[01];|&ndash;|&mdash;/g, "-")
   .replace(/&#822[01];|&ldquo;|&rdquo;/g, '"').replace(/&#\d+;/g, "")
+  .replace(/<[^>]+>/g, " ")
   .replace(/\s+/g, " ").trim();
 
 function extract(html) {
@@ -155,6 +156,10 @@ async function fetchOne(p) {
     if (!/html/i.test(ct)) return { error: `non-html: ${ct.slice(0, 40)}`, quality: "thin" };
     const html = await res.text();
     if (html.length < 400) return { error: "empty page", quality: "thin" };
+    // 人机验证页(Cloudflare 等):不是真实销售页,标记 error 防止验证页文案/HTML 片段混入研究数据
+    if (/challenge-error-text|just a moment|attention required|cf-browser-verification|验证您不是自动程序/i.test(html)) {
+      return { error: "bot wall (challenge page)", quality: "thin" };
+    }
     return { finalUrl: res.url, ...extract(html) };
   } catch (e) {
     return { error: String(e.name === "AbortError" ? "timeout" : e.message).slice(0, 80) };
