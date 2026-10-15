@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job","Services","Office Organization"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59459/adminstore/"
+promo_link: "https://www.digistore24.com/product/735501?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735501"
 language: "en"
 ---
 # Complaint Handling for Small Online Shops (English)
 
 > Product ID `59459` · Digistore24 productId `735501` · [HTML profile page](../../reviews/complaint-handling-for-small-online-shops-english-59459.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59459/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735501?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735501
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735501/
 - Canonical redirect: https://www.digistore24.com/redir/735501/adminstore
@@ -90,7 +90,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Complaint Handling for Small Online Shops (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735501/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Complaint%20Handling%20for%20Small%20Online%20Shops%20(English)
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://oraclefx.org/courses/candlesticks-anatomy-and-patterns/?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/courses/candlesticks-anatomy-and-patterns/"
@@ -22,7 +22,7 @@ language: "en"
 # Mastery Course - The Candlestick Patterns and Price Action
 
 > Product ID `56620` · Digistore24 productId `693496` · [HTML profile page](../../reviews/mastery-course-the-candlestick-patterns-and-price-action-56620.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | oraclefx |
 | Listed since | 2026-05-20 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -106,7 +106,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mastery Course - The Candlestick Patterns and Price Action alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693496
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693496/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Mastery%20Course%20-%20The%20Candlestick%20Patterns%20and%20Price%20Action
 
 ## 4. Editorial notes

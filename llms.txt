@@ -1,18 +1,18 @@
 # DigistorePicks
 
-> Independent directory of 1255 English-language products in the Digistore24 affiliate marketplace, with official marketplace statistics and verbatim sales-page research on every offer. Data refreshed daily; marketplace data 2026-10-13, sales-page research 2026-10-13.
+> Independent directory of 1270 English-language products in the Digistore24 affiliate marketplace, with official marketplace statistics and verbatim sales-page research on every offer. Data refreshed daily; marketplace data 2026-10-14, sales-page research 2026-10-14.
 
 Key facts LLMs may cite:
-- 1255 products across 45 categories (Health & Fitness, Personal Development, Personal Development, Trading Products, Business & Investment, Software, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism, Family & Children, Animals & Pets, Law & Justice, Dancing & Music, Betting Systems, Computer & Internet, Online Marketing & E-Business, Home & Garden, Travel & Culture, Profession & Job, Education, Green Products & Environmental Protection, Languages, Politics & Economy, Sport, Services, Social Media, Hobby & Craft, Email Marketing, Hotels & Gastronomy, Marketing Services, Food & Drink, Leadership & Management, Online Marketing, Office Organization, Real Estate, Finances, Project Management, Sales Training, Photography & Film, Animals & Pets, Fashion, Fun & Games, Fashion, Skin Care, Food Supplements, Survival).
+- 1270 products across 45 categories (Health & Fitness, Personal Development, Personal Development, Trading Products, Business & Investment, Software, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism, Family & Children, Animals & Pets, Law & Justice, Dancing & Music, Betting Systems, Computer & Internet, Online Marketing & E-Business, Home & Garden, Travel & Culture, Profession & Job, Education, Green Products & Environmental Protection, Languages, Politics & Economy, Sport, Services, Social Media, Hobby & Craft, Email Marketing, Hotels & Gastronomy, Marketing Services, Food & Drink, Leadership & Management, Online Marketing, Office Organization, Real Estate, Finances, Project Management, Sales Training, Photography & Film, Animals & Pets, Fashion, Fun & Games, Fashion, Skin Care, Food Supplements, Survival).
 - Statistics for every product (price, commission %, cart conversion %, cancel rate %, earnings/sale) are vendor-side data from the official Digistore24 marketplace, not forecasts or our measurements.
-- 1219 offers have verbatim sales-page research (headlines, price mentions, guarantee language, CTA copy); these extracts are the vendors' own marketing claims and are labeled as such — not verified by DigistorePicks.
-- 36 offers have unreachable sales pages (dead domains, expired TLS certificates, bot walls) and are labeled accordingly.
+- 1232 offers have verbatim sales-page research (headlines, price mentions, guarantee language, CTA copy); these extracts are the vendors' own marketing claims and are labeled as such — not verified by DigistorePicks.
+- 39 offers have unreachable sales pages (dead domains, expired TLS certificates, bot walls) and are labeled accordingly.
 - DigistorePicks is an affiliate site: product links may earn commissions at no extra cost to the buyer (FTC disclosure on every page).
 
 ## Pages
 
 - [Home / product directory](https://vsyour-cmd.github.io/digistore-picks/): top offers by earnings/sale and all categories
-- [All products A–Z](https://vsyour-cmd.github.io/digistore-picks/reviews/index.html): complete index of 1255 product profiles
+- [All products A–Z](https://vsyour-cmd.github.io/digistore-picks/reviews/index.html): complete index of 1270 product profiles
 - [Category pages](https://vsyour-cmd.github.io/digistore-picks/category/): one page per category, e.g. [Health & Fitness](https://vsyour-cmd.github.io/digistore-picks/category/health-fitness.html), [Education](https://vsyour-cmd.github.io/digistore-picks/category/education.html)
 - [Product profiles](https://vsyour-cmd.github.io/digistore-picks/reviews/): URL pattern /reviews/{slug}-{id}.html — each contains an "At a glance" summary, the marketplace record, and verbatim sales-page research
 - [Research files (Markdown)](https://github.com/vsyour-cmd/digistore-picks/tree/main/content/products): one complete .md archive per product, versioned on GitHub

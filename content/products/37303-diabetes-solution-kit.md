@@ -4,34 +4,34 @@ digistore24_product_id: 386253
 title: "DIABETES SOLUTION KIT"
 vendor: "BartonPublishing"
 product_type: "E-books"
-price: 22.33
+price: 22.34
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 16.75
+earnings_per_sale: 16.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-04-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/37303/adminstore/"
+promo_link: "https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore"
 sales_page: "https://fixbloodsugar.com/ptn/digi/1"
 language: "en"
 ---
 # DIABETES SOLUTION KIT
 
 > Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](../../reviews/diabetes-solution-kit-37303.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.33 (Single payment) |
+| Price | $22.34 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $16.75 |
+| Earnings/sale* | $16.76 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BartonPublishing |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37303/adminstore/
+- **Promo link (affiliate):** https://fixbloodsugar.com/ptn/digi/1?aff=adminstore#aff=adminstore
 - Sales page: https://fixbloodsugar.com/ptn/digi/1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/barton-publishing
 - Canonical redirect: https://www.digistore24.com/redir/386253/adminstore
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BartonPublishing, listed since 2021-04-22
-- How much? — 22.328457 USD
+- How much? — 22.342436 USD
 - Guarantee? — 90-day money back guarantee
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DIABETES SOLUTION KIT alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/386253
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/386253/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=DIABETES%20SOLUTION%20KIT
 
 ## 4. Editorial notes

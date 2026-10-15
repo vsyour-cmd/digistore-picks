@@ -4,16 +4,16 @@ digistore24_product_id: 538903
 title: "Silence Tinnitus and Hearing Issues with Zeneara!"
 vendor: "Nutraville"
 product_type: "Supplements - health"
-price: 196.46
+price: 196.58
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 66.92
+earnings_per_sale: 66.96
 cart_conversion_pct: 9
 cancel_rate_pct: 13.71
 categories: ["Food Supplements"]
 listed_since: "2024-02-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://zeneara.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://zeneara.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Silence Tinnitus and Hearing Issues with Zeneara!
 
 > Product ID `47134` · Digistore24 productId `538903` · [HTML profile page](../../reviews/silence-tinnitus-and-hearing-issues-with-zeneara-47134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $196.46 (Single payment) |
+| Price | $196.58 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $66.92 |
+| Earnings/sale* | $66.96 |
 | Cart conversion* | 9% |
 | Cancel rate* | 13.71% |
 | Vendor | Nutraville |
@@ -102,14 +102,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2024-02-13
-- How much? — 196.46135100000004 USD
+- How much? — 196.584348 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silence Tinnitus and Hearing Issues with Zeneara! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/538903
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/538903/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Silence%20Tinnitus%20and%20Hearing%20Issues%20with%20Zeneara!
 
 ## 4. Editorial notes

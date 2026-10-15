@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/56803/adminstore/"
+promo_link: "http://www.talkwithgaby.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.talkwithgaby.com"
 language: "en"
 ---
 # this is a test
 
 > Product ID `56803` · Digistore24 productId `698248` · [HTML profile page](../../reviews/this-is-a-test-56803.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56803/adminstore/
+- **Promo link (affiliate):** http://www.talkwithgaby.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.talkwithgaby.com
 - Canonical redirect: https://www.digistore24.com/redir/698248/adminstore
 
@@ -75,7 +75,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: this is a test alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/698248
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698248/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=this%20is%20a%20test
 
 ## 4. Editorial notes

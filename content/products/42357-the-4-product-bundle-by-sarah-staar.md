@@ -12,17 +12,17 @@ cart_conversion_pct: 11
 cancel_rate_pct: 25.15
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/42357/adminstore/"
+promo_link: "https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/?aff=adminstore#aff=adminstore"
 sales_page: "https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/"
 language: "en"
 ---
 # The 4 Product Bundle By Sarah Staar
 
 > Product ID `42357` · Digistore24 productId `462082` · [HTML profile page](../../reviews/the-4-product-bundle-by-sarah-staar-42357.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42357/adminstore/
+- **Promo link (affiliate):** https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/?aff=adminstore#aff=adminstore
 - Sales page: https://starbusinessschool.com/4-product-bundle-3-day-offer-digi-24/
 - Vendor affiliate support: https://starbusinessschool.com/4-product-bundle-digi-24-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/462082/adminstore
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: sarahstaar, listed since 2022-09-26
-- How much? — 4.136970000000001 USD
+- How much? — 4.13956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 4 Product Bundle By Sarah Staar alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/462082
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/462082/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%204%20Product%20Bundle%20By%20Sarah%20Staar
 
 ## 4. Editorial notes

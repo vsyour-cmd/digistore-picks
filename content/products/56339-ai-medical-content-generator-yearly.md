@@ -4,34 +4,34 @@ digistore24_product_id: 677266
 title: "AI Medical Content Generator – Yearly"
 vendor: "mohdnamatef97"
 product_type: "Software"
-price: 557.93
+price: 558.28
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 223.17
+earnings_per_sale: 223.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-03-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56339/adminstore/"
+promo_link: "https://ai-medical-content.net/en/subscriptions/annual-pro-2500?aff=adminstore#aff=adminstore"
 sales_page: "https://ai-medical-content.net/en/subscriptions/annual-pro-2500"
 language: "en"
 ---
 # AI Medical Content Generator – Yearly
 
 > Product ID `56339` · Digistore24 productId `677266` · [HTML profile page](../../reviews/ai-medical-content-generator-yearly-56339.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $557.93 (Subscription) |
+| Price | $558.28 (Subscription) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $223.17 |
+| Earnings/sale* | $223.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mohdnamatef97 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56339/adminstore/
+- **Promo link (affiliate):** https://ai-medical-content.net/en/subscriptions/annual-pro-2500?aff=adminstore#aff=adminstore
 - Sales page: https://ai-medical-content.net/en/subscriptions/annual-pro-2500
 - Canonical redirect: https://www.digistore24.com/redir/677266/adminstore
 
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: mohdnamatef97, listed since 2026-03-18
-- How much? — 557.9319 USD
+- How much? — 558.2812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Medical Content Generator – Yearly alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/677266
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/677266/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Medical%20Content%20Generator%20%E2%80%93%20Yearly
 
 ## 4. Editorial notes

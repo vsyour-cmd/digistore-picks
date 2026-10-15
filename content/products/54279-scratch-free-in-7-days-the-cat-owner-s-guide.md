@@ -4,34 +4,34 @@ digistore24_product_id: 639524
 title: "Scratch-Free in 7 Days: The Cat Owner's Guide"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 135.29
+price: 135.37
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 101.47
+earnings_per_sale: 101.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54279/adminstore/"
+promo_link: "http://www.betterdailyguide.site/ds24/scratch-free-in-7-days?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/scratch-free-in-7-days"
 language: "en"
 ---
 # Scratch-Free in 7 Days: The Cat Owner's Guide
 
 > Product ID `54279` · Digistore24 productId `639524` · [HTML profile page](../../reviews/scratch-free-in-7-days-the-cat-owner-s-guide-54279.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $135.29 (Single payment) |
+| Price | $135.37 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $101.47 |
+| Earnings/sale* | $101.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54279/adminstore/
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/scratch-free-in-7-days?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/scratch-free-in-7-days
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/scratch-free-in-7-days-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639524/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
-- How much? — 135.29010000000002 USD
+- How much? — 135.3748 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Scratch-Free in 7 Days: The Cat Owner's Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639524
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639524/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Scratch-Free%20in%207%20Days%3A%20The%20Cat%20Owner's%20Guide
 
 ## 4. Editorial notes

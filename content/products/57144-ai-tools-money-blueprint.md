@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.megapassive.online/ai-tools-money-blueprint?aff=adminstore#aff=adminstore"
 sales_page: "https://www.megapassive.online/ai-tools-money-blueprint"
@@ -22,7 +22,7 @@ language: "en"
 # AI Tools Money Blueprint
 
 > Product ID `57144` · Digistore24 productId `706208` · [HTML profile page](../../reviews/ai-tools-money-blueprint-57144.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Tools Money Blueprint alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/706208
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706208/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Tools%20Money%20Blueprint
 
 ## 4. Editorial notes

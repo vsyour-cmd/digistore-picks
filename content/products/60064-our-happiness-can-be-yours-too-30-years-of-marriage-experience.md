@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ourhappiness.4kidsmedia.store?aff=adminstore#aff=adminstore"
 sales_page: "https://ourhappiness.4kidsmedia.store"
@@ -22,7 +22,7 @@ language: "en"
 # Our Happiness Can Be Yours Too | 30 Years of Marriage Experience
 
 > Product ID `60064` · Digistore24 productId `732430` · [HTML profile page](../../reviews/our-happiness-can-be-yours-too-30-years-of-marriage-experience-60064.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | kociko2ce0 |
 | Listed since | 2026-09-30 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -111,7 +111,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Our Happiness Can Be Yours Too | 30 Years of Marriage Experience alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/732430
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732430/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Our%20Happiness%20Can%20Be%20Yours%20Too%20%7C%2030%20Years%20of%20Marriage%20Experience
 
 ## 4. Editorial notes

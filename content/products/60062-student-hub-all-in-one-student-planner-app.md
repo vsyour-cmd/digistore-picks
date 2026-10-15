@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://berryoperatingsystems.my.canva.site/student-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/student-hub"
@@ -22,7 +22,7 @@ language: "en"
 # Student Hub: All-in-One Student Planner App
 
 > Product ID `60062` · Digistore24 productId `736480` · [HTML profile page](../../reviews/student-hub-all-in-one-student-planner-app-60062.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,7 +74,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Student Hub: All-in-One Student Planner App alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736480
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736480/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Student%20Hub%3A%20All-in-One%20Student%20Planner%20App
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 635388
 title: "The Digital Hustler"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.09
+earnings_per_sale: 16.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-09-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/635388?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/635388"
@@ -22,22 +22,22 @@ language: "en"
 # The Digital Hustler
 
 > Product ID `53958` · Digistore24 productId `635388` · [HTML profile page](../../reviews/the-digital-hustler-53958.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.09 |
+| Earnings/sale* | $16.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
 | Listed since | 2025-09-12 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Business & Investment, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-12
-- How much? — 20.114619 USD
+- How much? — 20.127212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Digital Hustler alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/635388
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635388/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Digital%20Hustler
 
 ## 4. Editorial notes

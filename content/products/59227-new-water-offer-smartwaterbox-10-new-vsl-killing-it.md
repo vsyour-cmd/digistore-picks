@@ -10,19 +10,19 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Survival"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59227/adminstore/"
+promo_link: "https://feelbetter-today.com/free-water?aff=adminstore#aff=adminstore"
 sales_page: "https://feelbetter-today.com/free-water"
 language: "en"
 ---
 # New Water Offer: SmartWaterBox - 10%+ New VSL Killing It!!
 
 > Product ID `59227` · Digistore24 productId `723787` · [HTML profile page](../../reviews/new-water-offer-smartwaterbox-10-new-vsl-killing-it-59227.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | energy4oren |
 | Listed since | 2026-09-14 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Survival |
+| Categories | Home & Garden, Green Products & Environmental Protection, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59227/adminstore/
+- **Promo link (affiliate):** https://feelbetter-today.com/free-water?aff=adminstore#aff=adminstore
 - Sales page: https://feelbetter-today.com/free-water
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5844463/en
 - Canonical redirect: https://www.digistore24.com/redir/723787/adminstore
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: New Water Offer: SmartWaterBox - 10%+ New VSL Killing It!! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/723787
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723787/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=New%20Water%20Offer%3A%20SmartWaterBox%20-%2010%25%2B%20New%20VSL%20Killing%20It!!
 
 ## 4. Editorial notes

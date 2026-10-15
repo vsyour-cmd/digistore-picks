@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Finances","Personal Development"]
+categories: ["Personal Development","Education","Finances"]
 listed_since: "2026-06-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/57157/adminstore/"
+promo_link: "https://my-website-1febf5.webnode.page/?aff=adminstore#aff=adminstore"
 sales_page: "https://my-website-1febf5.webnode.page/"
 language: "en"
 ---
 # Financial Freedom for Beginners - High Converting E-book
 
 > Product ID `57157` · Digistore24 productId `666642` · [HTML profile page](../../reviews/financial-freedom-for-beginners-high-converting-e-book-57157.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | cutee86 |
 | Listed since | 2026-06-28 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Finances, Personal Development |
+| Categories | Personal Development, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57157/adminstore/
+- **Promo link (affiliate):** https://my-website-1febf5.webnode.page/?aff=adminstore#aff=adminstore
 - Sales page: https://my-website-1febf5.webnode.page/
 - Vendor affiliate support: https://my-website-1febf5.webnode.page/affiliate-materials/
 - Canonical redirect: https://www.digistore24.com/redir/666642/adminstore
@@ -74,7 +74,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Financial Freedom for Beginners - High Converting E-book alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/666642
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666642/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Financial%20Freedom%20for%20Beginners%20-%20High%20Converting%20E-book
 
 ## 4. Editorial notes

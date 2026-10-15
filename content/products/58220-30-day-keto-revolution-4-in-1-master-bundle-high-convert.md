@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 18.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-08-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.khumeeaffilo.com/p/the-ultimate-30-day-keto-revolution.html"
@@ -22,7 +22,7 @@ language: "en"
 # 30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert
 
 > Product ID `58220` · Digistore24 productId `693684` · [HTML profile page](../../reviews/30-day-keto-revolution-4-in-1-master-bundle-high-convert-58220.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Khumee |
 | Listed since | 2026-08-08 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,7 +87,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693684
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693684/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=30-Day%20Keto%20Revolution%20(4-in-1%20Master%20Bundle)%20%7C%20High%20Convert
 
 ## 4. Editorial notes

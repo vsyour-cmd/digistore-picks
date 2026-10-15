@@ -4,16 +4,16 @@ digistore24_product_id: 720515
 title: "Junk To Fresh: Swap It!"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 28.96
+price: 28.98
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.48
+earnings_per_sale: 14.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Food & Drink"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/720515?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/720515"
@@ -22,22 +22,22 @@ language: "en"
 # Junk To Fresh: Swap It!
 
 > Product ID `58310` · Digistore24 productId `720515` · [HTML profile page](../../reviews/junk-to-fresh-swap-it-58310.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $28.96 (Single payment) |
+| Price | $28.98 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.48 |
+| Earnings/sale* | $14.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-12
-- How much? — 28.95879 USD
+- How much? — 28.97692 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Junk To Fresh: Swap It! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/720515
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720515/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Junk%20To%20Fresh%3A%20Swap%20It!
 
 ## 4. Editorial notes

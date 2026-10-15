@@ -4,34 +4,34 @@ digistore24_product_id: 547184
 title: "⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital"
 vendor: "hart89"
 product_type: "E-books"
-price: 11.18
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/47757/adminstore/"
+promo_link: "https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.free-ketorecipe.com/"
 language: "en"
 ---
 # ⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital
 
 > Product ID `47757` · Digistore24 productId `547184` · [HTML profile page](../../reviews/the-ultimate-keto-bundle-high-converting-offer-digital-47757.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.18 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | hart89 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47757/adminstore/
+- **Promo link (affiliate):** https://www.free-ketorecipe.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.free-ketorecipe.com/
 - Canonical redirect: https://www.digistore24.com/redir/547184/adminstore
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: hart89, listed since 2024-04-08
-- How much? — 11.181000000000001 USD
+- How much? — 11.188 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡ The Ultimate Keto Bundle ⚡ High Converting Offer | Digital alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/547184
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/547184/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%20The%20Ultimate%20Keto%20Bundle%20%E2%9A%A1%20High%20Converting%20Offer%20%7C%20Digital
 
 ## 4. Editorial notes

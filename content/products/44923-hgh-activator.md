@@ -4,34 +4,34 @@ digistore24_product_id: 508979
 title: "HGH Activator"
 vendor: "NaturecastProducts"
 product_type: "Supplements - health"
-price: 171.05
+price: 171.15
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 36.41
+earnings_per_sale: 36.43
 cart_conversion_pct: 6
 cancel_rate_pct: 4.79
 categories: ["Food Supplements"]
 listed_since: "2023-07-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44923/adminstore/"
+promo_link: "https://naturecastproducts.com/humangrowthhormoneactivator-ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturecastproducts.com/humangrowthhormoneactivator-ds/"
 language: "en"
 ---
 # HGH Activator
 
 > Product ID `44923` · Digistore24 productId `508979` · [HTML profile page](../../reviews/hgh-activator-44923.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $171.05 (Single payment) |
+| Price | $171.15 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $36.41 |
+| Earnings/sale* | $36.43 |
 | Cart conversion* | 6% |
 | Cancel rate* | 4.79% |
 | Vendor | NaturecastProducts |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44923/adminstore/
+- **Promo link (affiliate):** https://naturecastproducts.com/humangrowthhormoneactivator-ds/?aff=adminstore#aff=adminstore
 - Sales page: https://naturecastproducts.com/humangrowthhormoneactivator-ds/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/hgh-activator
 - Canonical redirect: https://www.digistore24.com/redir/508979/adminstore
@@ -101,14 +101,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NaturecastProducts, listed since 2023-07-26
-- How much? — 171.046938 USD
+- How much? — 171.154024 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: HGH Activator alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/508979
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/508979/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=HGH%20Activator
 
 ## 4. Editorial notes

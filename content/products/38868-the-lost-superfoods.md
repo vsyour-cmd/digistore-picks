@@ -4,16 +4,16 @@ digistore24_product_id: 377301
 title: "The Lost SuperFoods"
 vendor: "lostrec"
 product_type: "Book (printed)"
-price: 54.26
+price: 54.3
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.1
+earnings_per_sale: 26.11
 cart_conversion_pct: 19
 cancel_rate_pct: 1.7
 categories: ["Survival"]
 listed_since: "2021-03-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ultimatesurvivalfoods.com/book/?aff=adminstore#aff=adminstore"
 sales_page: "https://ultimatesurvivalfoods.com/book/"
@@ -22,16 +22,16 @@ language: "en"
 # The Lost SuperFoods
 
 > Product ID `38868` · Digistore24 productId `377301` · [HTML profile page](../../reviews/the-lost-superfoods-38868.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $54.26 (Single payment) |
+| Price | $54.30 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.10 |
+| Earnings/sale* | $26.11 |
 | Cart conversion* | 19% |
 | Cancel rate* | 1.7% |
 | Vendor | lostrec |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: lostrec, listed since 2021-03-04
-- How much? — 54.261393000000005 USD
+- How much? — 54.295364 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Lost SuperFoods alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/377301
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/377301/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Lost%20SuperFoods
 
 ## 4. Editorial notes

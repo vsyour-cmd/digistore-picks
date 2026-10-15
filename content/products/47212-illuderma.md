@@ -4,16 +4,16 @@ digistore24_product_id: 538129
 title: "Illuderma"
 vendor: "Illuderma"
 product_type: "Deliverable"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 180.8
+earnings_per_sale: 180.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://illuderma24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://illuderma24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Illuderma
 
 > Product ID `47212` · Digistore24 productId `538129` · [HTML profile page](../../reviews/illuderma-47212.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $180.80 |
+| Earnings/sale* | $180.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Illuderma |
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Illuderma, listed since 2024-02-08
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Illuderma alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/538129
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/538129/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Illuderma
 
 ## 4. Editorial notes

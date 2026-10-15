@@ -4,16 +4,16 @@ digistore24_product_id: 510033
 title: "From Zero To Off-Grid Hero"
 vendor: "IndependentHomestead"
 product_type: "Webinar"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Home & Garden","Real Estate"]
+categories: ["Home & Garden","Education","Real Estate"]
 listed_since: "2023-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf?aff=adminstore#aff=adminstore"
 sales_page: "https://www.livingtheoffgriddream.com/farming-landing-pageqe08a0uf"
@@ -22,22 +22,22 @@ language: "en"
 # From Zero To Off-Grid Hero
 
 > Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Webinar |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IndependentHomestead |
 | Listed since | 2023-08-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Home & Garden, Real Estate |
+| Categories | Home & Garden, Education, Real Estate |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Webinar, vendor: IndependentHomestead, listed since 2023-08-03
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — refund within 60 day
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: From Zero To Off-Grid Hero alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/510033
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/510033/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=From%20Zero%20To%20Off-Grid%20Hero
 
 ## 4. Editorial notes

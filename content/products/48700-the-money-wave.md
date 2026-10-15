@@ -4,16 +4,16 @@ digistore24_product_id: 560807
 title: "The Money Wave"
 vendor: "Themoneywave"
 product_type: "Downloads"
-price: 40.29
+price: 40.31
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 24.25
+earnings_per_sale: 24.27
 cart_conversion_pct: 17
 cancel_rate_pct: 12.69
 categories: ["Personal Development","Spiri­tua­lity & Esotericism","Finances"]
 listed_since: "2024-07-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://getmoneywave.com/DS/vsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://getmoneywave.com/DS/vsl/"
@@ -22,16 +22,16 @@ language: "en"
 # The Money Wave
 
 > Product ID `48700` · Digistore24 productId `560807` · [HTML profile page](../../reviews/the-money-wave-48700.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $40.29 (Single payment) |
+| Price | $40.31 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $24.25 |
+| Earnings/sale* | $24.27 |
 | Cart conversion* | 17% |
 | Cancel rate* | 12.69% |
 | Vendor | Themoneywave |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Themoneywave, listed since 2024-07-11
-- How much? — 40.285143000000005 USD
+- How much? — 40.310364 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Money Wave alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/560807
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/560807/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Money%20Wave
 
 ## 4. Editorial notes

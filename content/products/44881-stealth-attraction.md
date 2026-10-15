@@ -4,34 +4,34 @@ digistore24_product_id: 496234
 title: "Stealth Attraction"
 vendor: "seductiongurus"
 product_type: "Member area and video courses"
-price: 78.21
+price: 78.26
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 39.11
+earnings_per_sale: 39.14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2023-04-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/44881/adminstore/"
+promo_link: "https://getherwetwithwords.com/videobc2/video-bc2/v02.php?aff=adminstore#aff=adminstore"
 sales_page: "https://getherwetwithwords.com/videobc2/video-bc2/v02.php"
 language: "en"
 ---
 # Stealth Attraction
 
 > Product ID `44881` · Digistore24 productId `496234` · [HTML profile page](../../reviews/stealth-attraction-44881.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $78.21 (Subscription) |
+| Price | $78.26 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $39.11 |
+| Earnings/sale* | $39.14 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seductiongurus |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/44881/adminstore/
+- **Promo link (affiliate):** https://getherwetwithwords.com/videobc2/video-bc2/v02.php?aff=adminstore#aff=adminstore
 - Sales page: https://getherwetwithwords.com/videobc2/video-bc2/v02.php
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/stealth-attraction
 - Canonical redirect: https://www.digistore24.com/redir/496234/adminstore
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: seductiongurus, listed since 2023-04-26
-- How much? — 78.21109500000001 USD
+- How much? — 78.26006000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stealth Attraction alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/496234
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/496234/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Stealth%20Attraction
 
 ## 4. Editorial notes

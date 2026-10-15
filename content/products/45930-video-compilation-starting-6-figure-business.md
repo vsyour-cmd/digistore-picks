@@ -4,16 +4,16 @@ digistore24_product_id: 524547
 title: "Video - Compilation | Starting 6-Figure Business"
 vendor: "ykarabacak"
 product_type: "Downloads"
-price: 12.44
+price: 12.45
 currency: "USD"
 affiliate_commission_pct: 67
-earnings_per_sale: 8.34
+earnings_per_sale: 8.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2023-11-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/524547/?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/524547/"
@@ -22,16 +22,16 @@ language: "en"
 # Video - Compilation | Starting 6-Figure Business
 
 > Product ID `45930` · Digistore24 productId `524547` · [HTML profile page](../../reviews/video-compilation-starting-6-figure-business-45930.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.44 (Single payment) |
+| Price | $12.45 (Single payment) |
 | Affiliate commission | 67% |
-| Earnings/sale* | $8.34 |
+| Earnings/sale* | $8.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ykarabacak |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: ykarabacak, listed since 2023-11-09
-- How much? — 12.444453000000001 USD
+- How much? — 12.452244 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Video - Compilation | Starting 6-Figure Business alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/524547
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/524547/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Video%20-%20Compilation%20%7C%20Starting%206-Figure%20Business
 
 ## 4. Editorial notes

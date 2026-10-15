@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57721/adminstore/"
+promo_link: "https://gardeningkitformedicinalplants-5zp.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://gardeningkitformedicinalplants-5zp.plannerpack.co"
 language: "en"
 ---
 # Gardening kit for medicinal plants
 
 > Product ID `57721` · Digistore24 productId `714974` · [HTML profile page](../../reviews/gardening-kit-for-medicinal-plants-57721.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57721/adminstore/
+- **Promo link (affiliate):** https://gardeningkitformedicinalplants-5zp.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://gardeningkitformedicinalplants-5zp.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/714974/adminstore
 
@@ -77,7 +77,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gardening kit for medicinal plants alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/714974
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714974/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Gardening%20kit%20for%20medicinal%20plants
 
 ## 4. Editorial notes

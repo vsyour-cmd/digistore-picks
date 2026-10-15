@@ -4,16 +4,16 @@ digistore24_product_id: 475168
 title: "Norwegian course for beginners based on a story (Nils)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 178.29
+price: 178.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 72.68
+earnings_per_sale: 72.72
 cart_conversion_pct: 5
 cancel_rate_pct: 3.74
 categories: ["Languages"]
 listed_since: "2022-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norwegian-course-beginners-nils-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/norwegian-course-beginners-nils-ds"
@@ -22,16 +22,16 @@ language: "en"
 # Norwegian course for beginners based on a story (Nils)
 
 > Product ID `42182` · Digistore24 productId `475168` · [HTML profile page](../../reviews/norwegian-course-for-beginners-based-on-a-story-nils-42182.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $178.29 (Subscription) |
+| Price | $178.40 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $72.68 |
+| Earnings/sale* | $72.72 |
 | Cart conversion* | 5% |
 | Cancel rate* | 3.74% |
 | Vendor | Skapago |
@@ -77,14 +77,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2022-12-15
-- How much? — 178.29222600000003 USD
+- How much? — 178.403848 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Norwegian course for beginners based on a story (Nils) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/475168
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/475168/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Norwegian%20course%20for%20beginners%20based%20on%20a%20story%20(Nils)
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 562310
 title: "Moringa Magic"
 vendor: "offersconnect"
 product_type: "Supplements - health"
-price: 221.23
+price: 221.37
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 85.88
+earnings_per_sale: 85.94
 cart_conversion_pct: 2
 cancel_rate_pct: 4.57
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48731/adminstore/"
+promo_link: "https://www.magicofmoringa.co/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.magicofmoringa.co/"
 language: "en"
 ---
 # Moringa Magic
 
 > Product ID `48731` · Digistore24 productId `562310` · [HTML profile page](../../reviews/moringa-magic-48731.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $221.23 (Single payment) |
+| Price | $221.37 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $85.88 |
+| Earnings/sale* | $85.94 |
 | Cart conversion* | 2% |
 | Cancel rate* | 4.57% |
 | Vendor | offersconnect |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48731/adminstore/
+- **Promo link (affiliate):** https://www.magicofmoringa.co/?aff=adminstore#aff=adminstore
 - Sales page: https://www.magicofmoringa.co/
 - Vendor affiliate support: http://www.magicofmoringa.co/affiliates-hub/
 - Canonical redirect: https://www.digistore24.com/redir/562310/adminstore
@@ -102,14 +102,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: offersconnect, listed since 2024-07-22
-- How much? — 221.22726600000004 USD
+- How much? — 221.36576800000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Moringa Magic alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/562310
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/562310/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Moringa%20Magic
 
 ## 4. Editorial notes

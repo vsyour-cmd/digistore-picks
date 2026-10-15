@@ -4,16 +4,16 @@ digistore24_product_id: 540531
 title: "Tube Magic - AI Tools For Growing on YouTube"
 vendor: "tubemagic"
 product_type: "Software"
-price: 1025.85
+price: 1026.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 253.37
+earnings_per_sale: 253.53
 cart_conversion_pct: 1
 cancel_rate_pct: 8.94
-categories: ["Computer & Internet","Social Media","Software"]
+categories: ["Software","Computer & Internet","Social Media"]
 listed_since: "2024-02-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://tubemagic.com/ds?aff=adminstore#aff=adminstore"
 sales_page: "https://tubemagic.com/ds"
@@ -22,22 +22,22 @@ language: "en"
 # Tube Magic - AI Tools For Growing on YouTube
 
 > Product ID `47386` · Digistore24 productId `540531` · [HTML profile page](../../reviews/tube-magic-ai-tools-for-growing-on-youtube-47386.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $1025.85 (Subscription) |
+| Price | $1026.49 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $253.37 |
+| Earnings/sale* | $253.53 |
 | Cart conversion* | 1% |
 | Cancel rate* | 8.94% |
 | Vendor | tubemagic |
 | Listed since | 2024-02-23 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Social Media, Software |
+| Categories | Software, Computer & Internet, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: tubemagic, listed since 2024-02-23
-- How much? — 1025.845569 USD
+- How much? — 1026.487812 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tube Magic - AI Tools For Growing on YouTube alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/540531
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/540531/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Tube%20Magic%20-%20AI%20Tools%20For%20Growing%20on%20YouTube
 
 ## 4. Editorial notes

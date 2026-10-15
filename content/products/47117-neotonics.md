@@ -4,34 +4,34 @@ digistore24_product_id: 538086
 title: "Neotonics"
 vendor: "Neotonics"
 product_type: "Supplements - health"
-price: 205
+price: 205.13
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 115.21
+earnings_per_sale: 115.28
 cart_conversion_pct: 2
 cancel_rate_pct: 18.14
 categories: ["Food Supplements"]
 listed_since: "2024-02-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47117/adminstore/"
+promo_link: "https://neotonics24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://neotonics24.com/text.php"
 language: "en"
 ---
 # Neotonics
 
 > Product ID `47117` · Digistore24 productId `538086` · [HTML profile page](../../reviews/neotonics-47117.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $205.00 (Single payment) |
+| Price | $205.13 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $115.21 |
+| Earnings/sale* | $115.28 |
 | Cart conversion* | 2% |
 | Cancel rate* | 18.14% |
 | Vendor | Neotonics |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47117/adminstore/
+- **Promo link (affiliate):** https://neotonics24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: https://neotonics24.com/text.php
 - Vendor affiliate support: http://neotonics24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/538086/adminstore
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Neotonics, listed since 2024-02-08
-- How much? — 205.003635 USD
+- How much? — 205.13198 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neotonics alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/538086
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/538086/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Neotonics
 
 ## 4. Editorial notes

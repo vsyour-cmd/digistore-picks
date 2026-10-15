@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 8.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2025-05-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.checkout-ds24.com/product/611284?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/611284"
@@ -22,7 +22,7 @@ language: "en"
 # The Complete Food Clarity System
 
 > Product ID `52362` · Digistore24 productId `611284` · [HTML profile page](../../reviews/the-complete-food-clarity-system-52362.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Digitaliest |
 | Listed since | 2025-05-07 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,7 +81,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Complete Food Clarity System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/611284
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/611284/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Complete%20Food%20Clarity%20System
 
 ## 4. Editorial notes

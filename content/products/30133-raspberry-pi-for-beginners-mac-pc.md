@@ -4,32 +4,32 @@ digistore24_product_id: 271198
 title: "Raspberry Pi for Beginners (Mac+PC)"
 vendor: "FIMA2011"
 product_type: "Downloads"
-price: 27.94
+price: 27.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.98
+earnings_per_sale: 13.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2019-05-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/30133/adminstore/"
+promo_link: "http://www.raspi-config.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.raspi-config.com"
 language: "en"
 ---
 # Raspberry Pi for Beginners (Mac+PC)
 
 > Product ID `30133` · Digistore24 productId `271198` · [HTML profile page](../../reviews/raspberry-pi-for-beginners-mac-pc-30133.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.94 (Single payment) |
+| Price | $27.96 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $13.98 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/30133/adminstore/
+- **Promo link (affiliate):** http://www.raspi-config.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.raspi-config.com
 - Vendor affiliate support: https://www.raspi-config.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/271198/adminstore
@@ -86,14 +86,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: FIMA2011, listed since 2019-05-10
-- How much? — 27.941319 USD
+- How much? — 27.958811999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Raspberry Pi for Beginners (Mac+PC) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/271198
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/271198/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Raspberry%20Pi%20for%20Beginners%20(Mac%2BPC)
 
 ## 4. Editorial notes

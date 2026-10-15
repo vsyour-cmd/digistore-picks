@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://journeymanlineman-ov6.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://journeymanlineman-ov6.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Journeyman lineman
 
 > Product ID `58222` · Digistore24 productId `719949` · [HTML profile page](../../reviews/journeyman-lineman-58222.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,7 +77,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Journeyman lineman alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/719949
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719949/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Journeyman%20lineman
 
 ## 4. Editorial notes

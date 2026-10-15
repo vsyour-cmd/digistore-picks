@@ -10,19 +10,19 @@ affiliate_commission_pct: 85
 earnings_per_sale: 22.95
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58481/adminstore/"
+promo_link: "https://puredaily-health.com/free-smoothies?aff=adminstore#aff=adminstore"
 sales_page: "https://puredaily-health.com/free-smoothies"
 language: "en"
 ---
 # ⚡️NEW: 2 Week Smoothie Diet⚡️ –Top Affs Making $40K+ Monthly
 
 > Product ID `58481` · Digistore24 productId `724261` · [HTML profile page](../../reviews/new-2-week-smoothie-diet-top-affs-making-40k-monthly-58481.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | green4home |
 | Listed since | 2026-08-20 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58481/adminstore/
+- **Promo link (affiliate):** https://puredaily-health.com/free-smoothies?aff=adminstore#aff=adminstore
 - Sales page: https://puredaily-health.com/free-smoothies
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/724261/adminstore
@@ -87,7 +87,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡️NEW: 2 Week Smoothie Diet⚡️ –Top Affs Making $40K+ Monthly alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/724261
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724261/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%EF%B8%8FNEW%3A%202%20Week%20Smoothie%20Diet%E2%9A%A1%EF%B8%8F%20%E2%80%93Top%20Affs%20Making%20%2440K%2B%20Monthly
 
 ## 4. Editorial notes

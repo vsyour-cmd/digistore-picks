@@ -4,34 +4,34 @@ digistore24_product_id: 558692
 title: "Ebook sets of seo and social media marketing"
 vendor: "aaravom"
 product_type: "E-books"
-price: 44.72
+price: 44.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 22.36
+earnings_per_sale: 22.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48513/adminstore/"
+promo_link: "https://41ebookset3.neoseotools.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://41ebookset3.neoseotools.com/"
 language: "en"
 ---
 # Ebook sets of seo and social media marketing
 
 > Product ID `48513` · Digistore24 productId `558692` · [HTML profile page](../../reviews/ebook-sets-of-seo-and-social-media-marketing-48513.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $44.72 (Single payment) |
+| Price | $44.75 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $22.36 |
+| Earnings/sale* | $22.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | aaravom |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48513/adminstore/
+- **Promo link (affiliate):** https://41ebookset3.neoseotools.com/?aff=adminstore#aff=adminstore
 - Sales page: https://41ebookset3.neoseotools.com/
 - Canonical redirect: https://www.digistore24.com/redir/558692/adminstore
 
@@ -79,14 +79,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: aaravom, listed since 2024-06-27
-- How much? — 44.724000000000004 USD
+- How much? — 44.752 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook sets of seo and social media marketing alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/558692
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558692/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20sets%20of%20seo%20and%20social%20media%20marketing
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 4.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2025-08-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://lighthearted-blancmange-a74dd8.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://lighthearted-blancmange-a74dd8.netlify.app/"
@@ -22,7 +22,7 @@ language: "en"
 # High-Demand AI Product for Affiliates – 40% Commission + Ful
 
 > Product ID `55154` · Digistore24 productId `627444` · [HTML profile page](../../reviews/high-demand-ai-product-for-affiliates-40-commission-ful-55154.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | El_patronship |
 | Listed since | 2025-08-02 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-08-02
-- How much? — 11.125095 USD
+- How much? — 11.13206 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High-Demand AI Product for Affiliates – 40% Commission + Ful alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/627444
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627444/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=High-Demand%20AI%20Product%20for%20Affiliates%20%E2%80%93%2040%25%20Commission%20%2B%20Ful
 
 ## 4. Editorial notes

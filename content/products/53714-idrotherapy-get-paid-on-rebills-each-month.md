@@ -4,16 +4,16 @@ digistore24_product_id: 629810
 title: "Idrotherapy *GET PAID ON REBILLS EACH MONTH*"
 vendor: "koshea76"
 product_type: "Deliverable"
-price: 114.67
+price: 114.74
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 92.89
+earnings_per_sale: 92.95
 cart_conversion_pct: 2
 cancel_rate_pct: 1.97
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2025-08-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://e-idrotherapylove.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-idrotherapylove.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Idrotherapy *GET PAID ON REBILLS EACH MONTH*
 
 > Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](../../reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $114.67 (Single payment) |
+| Price | $114.74 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $92.89 |
+| Earnings/sale* | $92.95 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.97% |
 | Vendor | koshea76 |
@@ -80,14 +80,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: koshea76, listed since 2025-08-15
-- How much? — 114.67233600000002 USD
+- How much? — 114.744128 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Idrotherapy *GET PAID ON REBILLS EACH MONTH* alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/629810
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/629810/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Idrotherapy%20*GET%20PAID%20ON%20REBILLS%20EACH%20MONTH*
 
 ## 4. Editorial notes

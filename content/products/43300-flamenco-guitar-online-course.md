@@ -4,16 +4,16 @@ digistore24_product_id: 470989
 title: "Flamenco Guitar Online Course"
 vendor: "Guitarschool24"
 product_type: "Member area and video courses"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 23.14
+earnings_per_sale: 23.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2022-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.guitarschool24.com/flamenco-guitar-method?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool24.com/flamenco-guitar-method"
@@ -22,16 +22,16 @@ language: "en"
 # Flamenco Guitar Online Course
 
 > Product ID `43300` · Digistore24 productId `470989` · [HTML profile page](../../reviews/flamenco-guitar-online-course-43300.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $23.14 |
+| Earnings/sale* | $23.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Guitarschool24 |
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2022-11-21
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Flamenco Guitar Online Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/470989
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/470989/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Flamenco%20Guitar%20Online%20Course
 
 ## 4. Editorial notes

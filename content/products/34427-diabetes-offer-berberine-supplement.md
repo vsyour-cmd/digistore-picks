@@ -4,34 +4,34 @@ digistore24_product_id: 352613
 title: "Diabetes Offer: Berberine Supplement"
 vendor: "simpleketo"
 product_type: "Supplements - health"
-price: 80.65
+price: 80.7
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 41.43
+earnings_per_sale: 41.45
 cart_conversion_pct: 6
 cancel_rate_pct: 11.68
 categories: ["Food Supplements"]
 listed_since: "2020-10-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34427/adminstore/"
+promo_link: "https://discover.insulinherb.com/berberine-v2/?aff=adminstore#aff=adminstore"
 sales_page: "https://discover.insulinherb.com/berberine-v2/"
 language: "en"
 ---
 # Diabetes Offer: Berberine Supplement
 
 > Product ID `34427` · Digistore24 productId `352613` · [HTML profile page](../../reviews/diabetes-offer-berberine-supplement-34427.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $80.65 (Single payment) |
+| Price | $80.70 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $41.43 |
+| Earnings/sale* | $41.45 |
 | Cart conversion* | 6% |
 | Cancel rate* | 11.68% |
 | Vendor | simpleketo |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34427/adminstore/
+- **Promo link (affiliate):** https://discover.insulinherb.com/berberine-v2/?aff=adminstore#aff=adminstore
 - Sales page: https://discover.insulinherb.com/berberine-v2/
 - Vendor affiliate support: https://discover.insulinherb.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/352613/adminstore
@@ -99,14 +99,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: simpleketo, listed since 2020-10-16
-- How much? — 80.648553 USD
+- How much? — 80.699044 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Diabetes Offer: Berberine Supplement alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/352613
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/352613/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Diabetes%20Offer%3A%20Berberine%20Supplement
 
 ## 4. Editorial notes

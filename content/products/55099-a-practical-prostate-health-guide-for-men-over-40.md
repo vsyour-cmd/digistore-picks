@@ -4,34 +4,34 @@ digistore24_product_id: 656037
 title: "A Practical Prostate Health Guide for Men Over 40"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 23.48
+price: 23.49
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 16.44
+earnings_per_sale: 16.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55099/adminstore/"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
 language: "en"
 ---
 # A Practical Prostate Health Guide for Men Over 40
 
 > Product ID `55099` · Digistore24 productId `656037` · [HTML profile page](../../reviews/a-practical-prostate-health-guide-for-men-over-40-55099.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.48 (Single payment) |
+| Price | $23.49 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $16.44 |
+| Earnings/sale* | $16.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheHealthyLivingHub |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55099/adminstore/
+- **Promo link (affiliate):** https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore
 - Sales page: https://thehealthyliving.lovable.app
 - Vendor affiliate support: https://sites.google.com/view/healthy-living-hub-affiliate/home
 - Canonical redirect: https://www.digistore24.com/redir/656037/adminstore
@@ -71,14 +71,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 23.4801 USD
+- How much? — 23.4948 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: A Practical Prostate Health Guide for Men Over 40 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/656037
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656037/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=A%20Practical%20Prostate%20Health%20Guide%20for%20Men%20Over%2040
 
 ## 4. Editorial notes

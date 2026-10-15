@@ -10,10 +10,10 @@ affiliate_commission_pct: 80
 earnings_per_sale: 3.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Education"]
 listed_since: "2025-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/635891?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/635891"
@@ -22,7 +22,7 @@ language: "en"
 # Feng Shui for Modern Living – Harmony, Health, Wealth
 
 > Product ID `54058` · Digistore24 productId `635891` · [HTML profile page](../../reviews/feng-shui-for-modern-living-harmony-health-wealth-54058.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | secondwavetech |
 | Listed since | 2025-09-16 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: secondwavetech, listed since 2025-09-16
-- How much? — 4.36059 USD
+- How much? — 4.36332 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Feng Shui for Modern Living – Harmony, Health, Wealth alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/635891
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635891/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Feng%20Shui%20for%20Modern%20Living%20%E2%80%93%20Harmony%2C%20Health%2C%20Wealth
 
 ## 4. Editorial notes

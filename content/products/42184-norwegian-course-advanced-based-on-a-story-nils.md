@@ -4,16 +4,16 @@ digistore24_product_id: 475159
 title: "Norwegian course (advanced) based on a story (Nils)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.52
+earnings_per_sale: 83.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2022-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/norskkurs-mysteriet-om-nils-ds"
@@ -22,16 +22,16 @@ language: "en"
 # Norwegian course (advanced) based on a story (Nils)
 
 > Product ID `42184` · Digistore24 productId `475159` · [HTML profile page](../../reviews/norwegian-course-advanced-based-on-a-story-nils-42184.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $278.41 (Subscription) |
+| Price | $278.58 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.52 |
+| Earnings/sale* | $83.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2022-12-15
-- How much? — 278.4069 USD
+- How much? — 278.5812 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Norwegian course (advanced) based on a story (Nils) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/475159
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/475159/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Norwegian%20course%20(advanced)%20based%20on%20a%20story%20(Nils)
 
 ## 4. Editorial notes

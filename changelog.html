@@ -4,12 +4,12 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>What&#39;s new — DigistorePicks</title>
-<meta name="description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1255 Digistore24 products tracked.">
+<meta name="description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1270 Digistore24 products tracked.">
 <link rel="canonical" href="https://vsyour-cmd.github.io/digistore-picks/changelog.html">
 <meta property="og:site_name" content="DigistorePicks">
 <meta property="og:type" content="website">
 <meta property="og:title" content="What&#39;s new — DigistorePicks">
-<meta property="og:description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1255 Digistore24 products tracked.">
+<meta property="og:description" content="Daily changelog of DigistorePicks: data refreshes, new reviews and improvements — 1270 Digistore24 products tracked.">
 <meta property="og:url" content="https://vsyour-cmd.github.io/digistore-picks/changelog.html">
 <meta property="og:image" content="https://vsyour-cmd.github.io/digistore-picks/assets/og-default.png">
 <meta name="twitter:card" content="summary_large_image">
@@ -34,6 +34,9 @@
 <main id="main" class="wrap">
 <h1>What's new on DigistorePicks</h1>
 <p class="sub">Every improvement, logged daily. Marketplace data refreshes automatically each morning; the numbers across the site update with it.</p>
+<h2>2026-10-15</h2>
+<p>Sitemap integrity hardening: FAQ hub pages are now discovered by directory scan instead of the per-category list — the uncategorized-group FAQ page was missing from the sitemap, and 3 stale offer pages (2 delisted offers, 1 retitled listing) were pruned. Daily articles and all tables refreshed from the 2026-10-14 snapshot; the marketplace scrape itself runs in the companion tooling session.</p>
+<ul><li>build-extras: faq/ directory scan replaces per-category sitemap entries (both sites)</li><li>prune-stale: faq/ dir added to the sweep; 3 stale review pages removed</li><li>full QA re-verified: all gates green, sitemap coverage 0 missing (EN 1805 / DE 4917 URLs)</li></ul>
 <h2>2026-10-13</h2>
 <p>Correction: an earlier &quot;official promo link&quot; rollout was reverted. The marketplace promolink API echoes back whatever identifier is passed, but the redir system only accepts vendor product-IDs — links generated from marketplace IDs pointed at the wrong products. All CTAs are back on the correct three-tier links (vendor sales page + affiliate parameter, or the canonical redir/product-ID fallback). Full button-by-button consistency check: 5,518/5,518 product pages match the dataset.</p>
 <ul><li>reverted mis-keyed promolink files (would have sent buyers to unrelated products)</li><li>CTA↔dataset consistency verified across all 1,255 EN + 4,263 DE product pages</li><li>promo-link audit tool now separates bot-wall 403/429 responses from genuinely broken links (8 of 18 prior 403s proved live in a real browser)</li></ul>
@@ -92,7 +95,7 @@
 <footer class="site"><div class="wrap">
   <div class="disclosure"><b>Affiliate disclosure:</b> DigistorePicks contains affiliate links. If you buy through them we may earn a commission from the vendor at no extra cost to you. Marketplace statistics shown on this site (price, commission, conversion, earnings) are provided by the official Digistore24 marketplace and are not a forecast of your results.</div>
   <div class="buyerlinks"><b>Buyer help:</b> <a href="./digistore24-refunds.html">How Digistore24 refunds work</a> · <a href="./is-digistore24-safe.html">Is Digistore24 safe?</a> · <a href="./buy-with-confidence.html">Before you buy: checklist</a></div>
-  <div>© 2026 DigistorePicks · Product data: Digistore24 marketplace (updated 2026-10-13) · <a href="./about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="./changelog.html">What's new</a> · <a href="./price-watch.html">Price tracker</a> · <a href="./amazon-picks.html">Amazon picks</a></div>
+  <div>© 2026 DigistorePicks · Product data: Digistore24 marketplace (updated 2026-10-14) · <a href="./about.html">About, disclosure &amp; contact</a> · <a href="https://vsyour-cmd.github.io/digistore-picks-de/" hreflang="de">Deutsche Website</a> · <a href="./changelog.html">What's new</a> · <a href="./price-watch.html">Price tracker</a> · <a href="./amazon-picks.html">Amazon picks</a></div>
 </div></footer>
 <script data-goatcounter="https://vsyour.goatcounter.com/count" async src="https://gc.zgo.at/count.js"></script>
 </body>

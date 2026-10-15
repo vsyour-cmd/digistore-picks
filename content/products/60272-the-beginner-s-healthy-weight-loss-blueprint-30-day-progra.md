@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 13.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/742845?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/742845"
@@ -22,7 +22,7 @@ language: "en"
 # The Beginner's Healthy Weight-Loss Blueprint - 30-Day Progra
 
 > Product ID `60272` · Digistore24 productId `742845` · [HTML profile page](../../reviews/the-beginner-s-healthy-weight-loss-blueprint-30-day-progra-60272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | craftydigitalstudio |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Beginner's Healthy Weight-Loss Blueprint - 30-Day Progra alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/742845
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742845/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Beginner's%20Healthy%20Weight-Loss%20Blueprint%20-%2030-Day%20Progra
 
 ## 4. Editorial notes

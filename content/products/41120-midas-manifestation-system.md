@@ -4,16 +4,16 @@ digistore24_product_id: 439776
 title: "Midas Manifestation System"
 vendor: "midasman88"
 product_type: "Member area and video courses"
-price: 164.39
+price: 164.5
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 111.09
+earnings_per_sale: 111.16
 cart_conversion_pct: 3
 cancel_rate_pct: 9.26
 categories: ["Personal Development"]
 listed_since: "2022-04-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://midasmanifestation.com/presentation2/?aff=adminstore#aff=adminstore"
 sales_page: "https://midasmanifestation.com/presentation2/"
@@ -22,16 +22,16 @@ language: "en"
 # Midas Manifestation System
 
 > Product ID `41120` · Digistore24 productId `439776` · [HTML profile page](../../reviews/midas-manifestation-system-41120.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.39 (Single payment) |
+| Price | $164.50 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $111.09 |
+| Earnings/sale* | $111.16 |
 | Cart conversion* | 3% |
 | Cancel rate* | 9.26% |
 | Vendor | midasman88 |
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: midasman88, listed since 2022-04-21
-- How much? — 164.39424300000002 USD
+- How much? — 164.497164 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Midas Manifestation System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/439776
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/439776/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Midas%20Manifestation%20System
 
 ## 4. Editorial notes

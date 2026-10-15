@@ -10,19 +10,19 @@ affiliate_commission_pct: 55
 earnings_per_sale: 43.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Photography & Film"]
 listed_since: "2026-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/60087/adminstore/"
+promo_link: "http://www.floxflow.com?aff=adminstore#aff=adminstore"
 sales_page: "http://www.floxflow.com"
 language: "en"
 ---
 # The Small Business AI Video System | Practical PDF
 
 > Product ID `60087` · Digistore24 productId `736919` · [HTML profile page](../../reviews/the-small-business-ai-video-system-practical-pdf-60087.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | floxflow |
 | Listed since | 2026-10-01 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Online Marketing & E-Business, Photography & Film, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60087/adminstore/
+- **Promo link (affiliate):** http://www.floxflow.com?aff=adminstore#aff=adminstore
 - Sales page: http://www.floxflow.com
 - Canonical redirect: https://www.digistore24.com/redir/736919/adminstore
 
@@ -73,7 +73,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Small Business AI Video System | Practical PDF alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736919
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736919/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Small%20Business%20AI%20Video%20System%20%7C%20Practical%20PDF
 
 ## 4. Editorial notes

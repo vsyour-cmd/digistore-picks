@@ -4,32 +4,32 @@ digistore24_product_id: 670467
 title: "The 48-Hour Declutter: Transform Your Home into a Sanctuary"
 vendor: "MichaMH"
 product_type: "E-books"
-price: 15.65
+price: 15.66
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Home & Garden","Hobby & Craft"]
 listed_since: "2026-02-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55681/adminstore/"
+promo_link: "https://www.affyro.com/The48-Hour.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.affyro.com/The48-Hour.html"
 language: "en"
 ---
 # The 48-Hour Declutter: Transform Your Home into a Sanctuary
 
 > Product ID `55681` · Digistore24 productId `670467` · [HTML profile page](../../reviews/the-48-hour-declutter-transform-your-home-into-a-sanctuary-55681.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.66 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | MichaMH |
 | Listed since | 2026-02-20 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Personal Development, Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55681/adminstore/
+- **Promo link (affiliate):** https://www.affyro.com/The48-Hour.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.affyro.com/The48-Hour.html
 - Vendor affiliate support: https://www.affyro.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/670467/adminstore
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: MichaMH, listed since 2026-02-20
-- How much? — 15.653400000000001 USD
+- How much? — 15.6632 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 48-Hour Declutter: Transform Your Home into a Sanctuary alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/670467
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/670467/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%2048-Hour%20Declutter%3A%20Transform%20Your%20Home%20into%20a%20Sanctuary
 
 ## 4. Editorial notes

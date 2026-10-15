@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Profession & Job"]
 listed_since: "2020-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34351/adminstore/"
+promo_link: "https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852?aff=adminstore#aff=adminstore"
 sales_page: "https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852"
 language: "en"
 ---
 # LinkedIN Success
 
 > Product ID `34351` · Digistore24 productId `349591` · [HTML profile page](../../reviews/linkedin-success-34351.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34351/adminstore/
+- **Promo link (affiliate):** https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852?aff=adminstore#aff=adminstore
 - Sales page: https://aw170914.aweb.page/p/acf01d89-70fb-4420-9d6c-48234bfc1852
 - Canonical redirect: https://www.digistore24.com/redir/349591/adminstore
 
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: familiensparplan, listed since 2020-09-25
-- How much? — 1.1181 USD
+- How much? — 1.1188 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LinkedIN Success alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/349591
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/349591/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=LinkedIN%20Success
 
 ## 4. Editorial notes

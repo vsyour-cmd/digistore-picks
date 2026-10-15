@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 0
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2022-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45697/adminstore/"
+promo_link: "https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php"
 language: "en"
 ---
 # NEW! 100 Easy Keto Carbs Hardcopy Cookbook (Free+Shipping)
 
 > Product ID `45697` · Digistore24 productId `449971` · [HTML profile page](../../reviews/new-100-easy-keto-carbs-hardcopy-cookbook-free-shipping-45697.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | phdaily |
 | Listed since | 2022-07-05 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45697/adminstore/
+- **Promo link (affiliate):** https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.primehealthsource.com/100ekcrbsrcp-sl-fps-fb-lp-ds-449971.php
 - Vendor affiliate support: https://www.primehealthsource.com/affiliates-ds.php
 - Canonical redirect: https://www.digistore24.com/redir/449971/adminstore
@@ -98,7 +98,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW! 100 Easy Keto Carbs Hardcopy Cookbook (Free+Shipping) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/449971
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/449971/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW!%20100%20Easy%20Keto%20Carbs%20Hardcopy%20Cookbook%20(Free%2BShipping)
 
 ## 4. Editorial notes

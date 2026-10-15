@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60177/adminstore/"
+promo_link: "https://thenarsasistvstheempath-n9v.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://thenarsasistvstheempath-n9v.plannerpack.co"
 language: "en"
 ---
 # The narsasist vs the empath
 
 > Product ID `60177` · Digistore24 productId `741666` · [HTML profile page](../../reviews/the-narsasist-vs-the-empath-60177.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60177/adminstore/
+- **Promo link (affiliate):** https://thenarsasistvstheempath-n9v.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thenarsasistvstheempath-n9v.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/741666/adminstore
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The narsasist vs the empath alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/741666
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741666/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20narsasist%20vs%20the%20empath
 
 ## 4. Editorial notes

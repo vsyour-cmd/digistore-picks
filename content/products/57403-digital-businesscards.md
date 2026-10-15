@@ -4,34 +4,34 @@ digistore24_product_id: 708499
 title: "Digital Businesscards"
 vendor: "digital-railways"
 product_type: "Software"
-price: 46.98
+price: 47.01
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 23.49
+earnings_per_sale: 23.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Profession & Job"]
 listed_since: "2026-07-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57403/adminstore/"
+promo_link: "http://cards.digital-railways.com?aff=adminstore#aff=adminstore"
 sales_page: "http://cards.digital-railways.com"
 language: "en"
 ---
 # Digital Businesscards
 
 > Product ID `57403` · Digistore24 productId `708499` · [HTML profile page](../../reviews/digital-businesscards-57403.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $46.98 (Subscription) |
+| Price | $47.01 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $23.49 |
+| Earnings/sale* | $23.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digital-railways |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57403/adminstore/
+- **Promo link (affiliate):** http://cards.digital-railways.com?aff=adminstore#aff=adminstore
 - Sales page: http://cards.digital-railways.com
 - Canonical redirect: https://www.digistore24.com/redir/708499/adminstore
 
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: digital-railways, listed since 2026-07-05
-- How much? — 46.98256200000001 USD
+- How much? — 47.011976000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Businesscards alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/708499
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708499/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Businesscards
 
 ## 4. Editorial notes

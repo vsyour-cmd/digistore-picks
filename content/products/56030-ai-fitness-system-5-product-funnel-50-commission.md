@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2026-03-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/ai-workout-generator-freebie?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/ai-workout-generator-freebie"
@@ -22,7 +22,7 @@ language: "en"
 # AI Fitness System | 5-Product Funnel | 50% Commission
 
 > Product ID `56030` · Digistore24 productId `676273` · [HTML profile page](../../reviews/ai-fitness-system-5-product-funnel-50-commission-56030.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -98,7 +98,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Fitness System | 5-Product Funnel | 50% Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/676273
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676273/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Fitness%20System%20%7C%205-Product%20Funnel%20%7C%2050%25%20Commission
 
 ## 4. Editorial notes

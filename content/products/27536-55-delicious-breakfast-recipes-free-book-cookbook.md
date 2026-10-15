@@ -12,8 +12,8 @@ cart_conversion_pct: 8
 cancel_rate_pct: 20.22
 categories: ["Food & Drink"]
 listed_since: "2022-02-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://makeyouslim.info/55-delicious-breakfast-recipes/?aff=adminstore#aff=adminstore"
 sales_page: "https://makeyouslim.info/55-delicious-breakfast-recipes/"
@@ -22,7 +22,7 @@ language: "en"
 # 55 Delicious Breakfast Recipes Free Book Cookbook
 
 > Product ID `27536` · Digistore24 productId `428276` · [HTML profile page](../../reviews/55-delicious-breakfast-recipes-free-book-cookbook-27536.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: produktmanagerin, listed since 2022-02-06
-- How much? — 1.3976250000000001 USD
+- How much? — 1.3985 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 55 Delicious Breakfast Recipes Free Book Cookbook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/428276
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/428276/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=55%20Delicious%20Breakfast%20Recipes%20Free%20Book%20Cookbook
 
 ## 4. Editorial notes

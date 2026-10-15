@@ -4,40 +4,40 @@ digistore24_product_id: 663737
 title: "Target High-Performance Clients with Mindfulness that Works"
 vendor: "NikaBluemont"
 product_type: "E-books"
-price: 35.78
+price: 35.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.31
+earnings_per_sale: 14.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-01-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55451/adminstore/"
+promo_link: "https://allnikabloom.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://allnikabloom.com/"
 language: "en"
 ---
 # Target High-Performance Clients with Mindfulness that Works
 
 > Product ID `55451` · Digistore24 productId `663737` · [HTML profile page](../../reviews/target-high-performance-clients-with-mindfulness-that-works-55451.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $35.78 (Single payment) |
+| Price | $35.80 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.31 |
+| Earnings/sale* | $14.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NikaBluemont |
 | Listed since | 2026-01-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55451/adminstore/
+- **Promo link (affiliate):** https://allnikabloom.com/?aff=adminstore#aff=adminstore
 - Sales page: https://allnikabloom.com/
 - Vendor affiliate support: https://allnikabloom.my.canva.site/affiliate-support
 - Canonical redirect: https://www.digistore24.com/redir/663737/adminstore
@@ -68,14 +68,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: NikaBluemont, listed since 2026-01-23
-- How much? — 35.7792 USD
+- How much? — 35.8016 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Target High-Performance Clients with Mindfulness that Works alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/663737
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663737/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Target%20High-Performance%20Clients%20with%20Mindfulness%20that%20Works
 
 ## 4. Editorial notes

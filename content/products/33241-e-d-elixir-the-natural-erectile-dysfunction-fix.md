@@ -4,34 +4,34 @@ digistore24_product_id: 323364
 title: "E.D. Elixir: The Natural Erectile Dysfunction Fix"
 vendor: "edelixir"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.03
+earnings_per_sale: 31.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2020-04-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/33241/adminstore/"
+promo_link: "https://ed-elixir.com/vsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://ed-elixir.com/vsl/"
 language: "en"
 ---
 # E.D. Elixir: The Natural Erectile Dysfunction Fix
 
 > Product ID `33241` · Digistore24 productId `323364` · [HTML profile page](../../reviews/e-d-elixir-the-natural-erectile-dysfunction-fix-33241.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.03 |
+| Earnings/sale* | $31.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | edelixir |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/33241/adminstore/
+- **Promo link (affiliate):** https://ed-elixir.com/vsl/?aff=adminstore#aff=adminstore
 - Sales page: https://ed-elixir.com/vsl/
 - Vendor affiliate support: https://ed-elixir.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/323364/adminstore
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: edelixir, listed since 2020-04-27
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: E.D. Elixir: The Natural Erectile Dysfunction Fix alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/323364
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/323364/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=E.D.%20Elixir%3A%20The%20Natural%20Erectile%20Dysfunction%20Fix
 
 ## 4. Editorial notes

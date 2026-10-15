@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57797/adminstore/"
+promo_link: "https://womenshealth-272.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://womenshealth-272.plannerpack.co"
 language: "en"
 ---
 # womens health
 
 > Product ID `57797` · Digistore24 productId `716720` · [HTML profile page](../../reviews/womens-health-57797.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57797/adminstore/
+- **Promo link (affiliate):** https://womenshealth-272.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://womenshealth-272.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/716720/adminstore
 
@@ -77,7 +77,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: womens health alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/716720
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716720/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=womens%20health
 
 ## 4. Editorial notes

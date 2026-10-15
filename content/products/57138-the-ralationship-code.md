@@ -4,16 +4,16 @@ digistore24_product_id: 698941
 title: "The Ralationship Code"
 vendor: "medienversand2014"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-06-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.sexualitycode.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.sexualitycode.com/"
@@ -22,16 +22,16 @@ language: "en"
 # The Ralationship Code
 
 > Product ID `57138` · Digistore24 productId `698941` · [HTML profile page](../../reviews/the-ralationship-code-57138.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | medienversand2014 |
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: medienversand2014, listed since 2026-06-26
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Ralationship Code alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/698941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698941/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Ralationship%20Code
 
 ## 4. Editorial notes

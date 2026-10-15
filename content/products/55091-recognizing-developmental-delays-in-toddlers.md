@@ -4,34 +4,34 @@ digistore24_product_id: 656071
 title: "Recognizing developmental delays in toddlers"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 23.48
+price: 23.49
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 16.44
+earnings_per_sale: 16.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55091/adminstore/"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
 language: "en"
 ---
 # Recognizing developmental delays in toddlers
 
 > Product ID `55091` · Digistore24 productId `656071` · [HTML profile page](../../reviews/recognizing-developmental-delays-in-toddlers-55091.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $23.48 (Single payment) |
+| Price | $23.49 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $16.44 |
+| Earnings/sale* | $16.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheHealthyLivingHub |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55091/adminstore/
+- **Promo link (affiliate):** https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore
 - Sales page: https://thehealthyliving.lovable.app
 - Vendor affiliate support: https://sites.google.com/view/healthy-living-hub-affiliate/home
 - Canonical redirect: https://www.digistore24.com/redir/656071/adminstore
@@ -71,14 +71,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 23.4801 USD
+- How much? — 23.4948 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Recognizing developmental delays in toddlers alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/656071
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656071/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Recognizing%20developmental%20delays%20in%20toddlers
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 544733
 title: "Keskara"
 vendor: "biofraga"
 product_type: "Supplements - health"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 213.67
+earnings_per_sale: 213.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-03-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48893/adminstore/"
+promo_link: "https://keskara.online/dtc/?aff=adminstore#aff=adminstore"
 sales_page: "https://keskara.online/dtc/"
 language: "en"
 ---
 # Keskara
 
 > Product ID `48893` · Digistore24 productId `544733` · [HTML profile page](../../reviews/keskara-48893.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $213.67 |
+| Earnings/sale* | $213.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | biofraga |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48893/adminstore/
+- **Promo link (affiliate):** https://keskara.online/dtc/?aff=adminstore#aff=adminstore
 - Sales page: https://keskara.online/dtc/
 - Vendor affiliate support: https://keskara.online/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/544733/adminstore
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: biofraga, listed since 2024-03-21
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Keskara alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/544733
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/544733/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Keskara
 
 ## 4. Editorial notes

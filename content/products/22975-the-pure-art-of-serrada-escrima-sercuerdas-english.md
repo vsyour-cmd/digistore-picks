@@ -4,7 +4,7 @@ digistore24_product_id: 203487
 title: "The Pure Art of Serrada Escrima SerCuerdas English"
 vendor: "Wu-TeAkademie"
 product_type: "Member area and video courses"
-price: 55.44
+price: 55.47
 currency: "USD"
 affiliate_commission_pct: 15
 earnings_per_sale: 8.32
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Sport"]
 listed_since: "2018-02-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/22975/adminstore/"
+promo_link: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/?aff=adminstore#aff=adminstore"
 sales_page: "https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/"
 language: "en"
 ---
 # The Pure Art of Serrada Escrima SerCuerdas English
 
 > Product ID `22975` · Digistore24 productId `203487` · [HTML profile page](../../reviews/the-pure-art-of-serrada-escrima-sercuerdas-english-22975.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $55.44 (Single payment) |
+| Price | $55.47 (Single payment) |
 | Affiliate commission | 15% |
 | Earnings/sale* | $8.32 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/22975/adminstore/
+- **Promo link (affiliate):** https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/?aff=adminstore#aff=adminstore
 - Sales page: https://wute-mitgliedschaften.funnelcockpit.com/sercuerdas-english/
 - Canonical redirect: https://www.digistore24.com/redir/203487/adminstore
 
@@ -66,14 +66,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Wu-TeAkademie, listed since 2018-02-23
-- How much? — 55.435398 USD
+- How much? — 55.470104 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Pure Art of Serrada Escrima SerCuerdas English alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/203487
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/203487/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Pure%20Art%20of%20Serrada%20Escrima%20SerCuerdas%20English
 
 ## 4. Editorial notes

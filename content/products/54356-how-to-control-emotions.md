@@ -7,13 +7,13 @@ product_type: "Downloads"
 price: 14.54
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 5.81
+earnings_per_sale: 5.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Services","Social Media"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/639910?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/639910"
@@ -22,7 +22,7 @@ language: "en"
 # How to Control Emotions
 
 > Product ID `54356` · Digistore24 productId `639910` · [HTML profile page](../../reviews/how-to-control-emotions-54356.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,7 +31,7 @@ language: "en"
 | Product type | Downloads |
 | Price | $14.54 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $5.81 |
+| Earnings/sale* | $5.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jabbusiness |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-10-06
-- How much? — 14.535300000000001 USD
+- How much? — 14.5444 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: How to Control Emotions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639910
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639910/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=How%20to%20Control%20Emotions
 
 ## 4. Editorial notes

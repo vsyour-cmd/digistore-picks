@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 8.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-09-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.babies-and-sign-language.com/baby-sign-language-basics-poster-chart-aff27-digi.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.babies-and-sign-language.com/baby-sign-language-basics-poster-chart-aff27-digi.html"
@@ -22,7 +22,7 @@ language: "en"
 # Baby Signing Poster With 3 Bonuses
 
 > Product ID `59410` · Digistore24 productId `718345` · [HTML profile page](../../reviews/baby-signing-poster-with-3-bonuses-59410.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | babysigning |
 | Listed since | 2026-09-20 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,7 +90,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Baby Signing Poster With 3 Bonuses alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/718345
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718345/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Baby%20Signing%20Poster%20With%203%20Bonuses
 
 ## 4. Editorial notes

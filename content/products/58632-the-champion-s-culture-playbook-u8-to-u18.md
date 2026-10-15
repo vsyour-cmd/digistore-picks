@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://thechampionscultureplaybook-7e1.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://thechampionscultureplaybook-7e1.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # The Champion's Culture Playbook: U8 to U18
 
 > Product ID `58632` · Digistore24 productId `725533` · [HTML profile page](../../reviews/the-champion-s-culture-playbook-u8-to-u18-58632.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Champion's Culture Playbook: U8 to U18 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/725533
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725533/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Champion's%20Culture%20Playbook%3A%20U8%20to%20U18
 
 ## 4. Editorial notes

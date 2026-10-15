@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58667/adminstore/"
+promo_link: "https://feelbetter-today.com/sweets/?aff=adminstore#aff=adminstore"
 sales_page: "https://feelbetter-today.com/sweets/"
 language: "en"
 ---
 # NEW: Smoothie Sweets - Conversion Monster! $20K Contest!
 
 > Product ID `58667` · Digistore24 productId `723590` · [HTML profile page](../../reviews/new-smoothie-sweets-conversion-monster-20k-contest-58667.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58667/adminstore/
+- **Promo link (affiliate):** https://feelbetter-today.com/sweets/?aff=adminstore#aff=adminstore
 - Sales page: https://feelbetter-today.com/sweets/
 - Vendor affiliate support: https://feelbetter-today.com/smoothie-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/723590/adminstore
@@ -89,7 +89,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Smoothie Sweets - Conversion Monster! $20K Contest! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/723590
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723590/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Smoothie%20Sweets%20-%20Conversion%20Monster!%20%2420K%20Contest!
 
 ## 4. Editorial notes

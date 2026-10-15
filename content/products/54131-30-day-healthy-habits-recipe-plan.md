@@ -10,19 +10,19 @@ affiliate_commission_pct: 80
 earnings_per_sale: 29.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Education","Food & Drink"]
 listed_since: "2025-09-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54131/adminstore/"
+promo_link: "https://healthy-habits-30-day.netlify.app?aff=adminstore#aff=adminstore"
 sales_page: "https://healthy-habits-30-day.netlify.app"
 language: "en"
 ---
 # 30 Day Healthy Habits Recipe Plan.
 
 > Product ID `54131` · Digistore24 productId `635874` · [HTML profile page](../../reviews/30-day-healthy-habits-recipe-plan-54131.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | manuelcosta |
 | Listed since | 2025-09-15 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Education, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54131/adminstore/
+- **Promo link (affiliate):** https://healthy-habits-30-day.netlify.app?aff=adminstore#aff=adminstore
 - Sales page: https://healthy-habits-30-day.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/635874/adminstore
 
@@ -104,7 +104,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 Day Healthy Habits Recipe Plan. alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/635874
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635874/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=30%20Day%20Healthy%20Habits%20Recipe%20Plan.
 
 ## 4. Editorial notes

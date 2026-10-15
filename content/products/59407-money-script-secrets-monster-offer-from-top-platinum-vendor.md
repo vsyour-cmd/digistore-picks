@@ -10,19 +10,19 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Business & Investment","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59407/adminstore/"
+promo_link: "http://feelbetter-today.com/abundance?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/abundance"
 language: "en"
 ---
 # Money Script Secrets -Monster Offer From Top Platinum Vendor
 
 > Product ID `59407` · Digistore24 productId `735102` · [HTML profile page](../../reviews/money-script-secrets-monster-offer-from-top-platinum-vendor-59407.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | energyofren |
 | Listed since | 2026-09-19 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Business & Investment, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59407/adminstore/
+- **Promo link (affiliate):** http://feelbetter-today.com/abundance?aff=adminstore#aff=adminstore
 - Sales page: http://feelbetter-today.com/abundance
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/735102/adminstore
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Money Script Secrets -Monster Offer From Top Platinum Vendor alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735102
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735102/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Money%20Script%20Secrets%20-Monster%20Offer%20From%20Top%20Platinum%20Vendor
 
 ## 4. Editorial notes

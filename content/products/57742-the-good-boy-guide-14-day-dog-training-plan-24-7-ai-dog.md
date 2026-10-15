@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Education","Animals & Pets"]
 listed_since: "2026-07-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://thegoodboyguide.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://thegoodboyguide.com/"
@@ -22,7 +22,7 @@ language: "en"
 # The Good Boy Guide — 14-Day Dog Training Plan + 24/7 AI Dog
 
 > Product ID `57742` · Digistore24 productId `714780` · [HTML profile page](../../reviews/the-good-boy-guide-14-day-dog-training-plan-24-7-ai-dog-57742.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -103,7 +103,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Good Boy Guide — 14-Day Dog Training Plan + 24/7 AI Dog alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/714780
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714780/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Good%20Boy%20Guide%20%E2%80%94%2014-Day%20Dog%20Training%20Plan%20%2B%2024%2F7%20AI%20Dog
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 508127
 title: "Top converting offer: Bulletproof Profits"
 vendor: "bp2000metric"
 product_type: "Member area and video courses"
-price: 40.83
+price: 40.86
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 22.63
+earnings_per_sale: 22.64
 cart_conversion_pct: 7
 cancel_rate_pct: 20.03
 categories: ["Online Marketing & E-Business"]
 listed_since: "2023-07-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45505/adminstore/"
+promo_link: "https://launch.yourbulletproofprofits.com/dg-vip/?aff=adminstore#aff=adminstore"
 sales_page: "https://launch.yourbulletproofprofits.com/dg-vip/"
 language: "en"
 ---
 # Top converting offer: Bulletproof Profits
 
 > Product ID `45505` · Digistore24 productId `508127` · [HTML profile page](../../reviews/top-converting-offer-bulletproof-profits-45505.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $40.83 (Single payment) |
+| Price | $40.86 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $22.63 |
+| Earnings/sale* | $22.64 |
 | Cart conversion* | 7% |
 | Cancel rate* | 20.03% |
 | Vendor | bp2000metric |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45505/adminstore/
+- **Promo link (affiliate):** https://launch.yourbulletproofprofits.com/dg-vip/?aff=adminstore#aff=adminstore
 - Sales page: https://launch.yourbulletproofprofits.com/dg-vip/
 - Canonical redirect: https://www.digistore24.com/redir/508127/adminstore
 
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: bp2000metric, listed since 2023-07-19
-- How much? — 40.833012000000004 USD
+- How much? — 40.858576000000006 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Top converting offer: Bulletproof Profits alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/508127
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/508127/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Top%20converting%20offer%3A%20Bulletproof%20Profits
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 671979
 title: "Fatal Blackout – NEW for 2026!"
 vendor: "FatalBlackout"
 product_type: "Book (printed)"
-price: 74.91
+price: 74.96
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 52.44
+earnings_per_sale: 52.47
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.werdemusiker.de/soli-und-profitechniken-mkt3/#aff=adminstore"
+promo_link: "https://fatalblackout.net/tsl/lost-liberty/tsl1.php?aff=adminstore#aff=adminstore"
 sales_page: "https://fatalblackout.net/tsl/lost-liberty/tsl1.php"
 language: "en"
 ---
 # Fatal Blackout – NEW for 2026!
 
 > Product ID `56185` · Digistore24 productId `671979` · [HTML profile page](../../reviews/fatal-blackout-new-for-2026-56185.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $74.91 (Single payment) |
+| Price | $74.96 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $52.44 |
+| Earnings/sale* | $52.47 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | FatalBlackout |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.werdemusiker.de/soli-und-profitechniken-mkt3/#aff=adminstore
+- **Promo link (affiliate):** https://fatalblackout.net/tsl/lost-liberty/tsl1.php?aff=adminstore#aff=adminstore
 - Sales page: https://fatalblackout.net/tsl/lost-liberty/tsl1.php
 - Vendor affiliate support: https://fatalblackout.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/671979/adminstore
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: FatalBlackout, listed since 2026-02-26
-- How much? — 74.9127 USD
+- How much? — 74.9596 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fatal Blackout – NEW for 2026! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/671979
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671979/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fatal%20Blackout%20%E2%80%93%20NEW%20for%202026!
 
 ## 4. Editorial notes

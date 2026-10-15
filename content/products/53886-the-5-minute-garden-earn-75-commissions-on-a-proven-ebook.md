@@ -4,16 +4,16 @@ digistore24_product_id: 634598
 title: "The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook."
 vendor: "darrelltee"
 product_type: "E-books"
-price: 27.9
+price: 27.91
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 65.64
+earnings_per_sale: 65.68
 cart_conversion_pct: 6
 cancel_rate_pct: 0
 categories: ["Home & Garden"]
 listed_since: "2025-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/5-minute-garden?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/5-minute-garden"
@@ -22,16 +22,16 @@ language: "en"
 # The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook.
 
 > Product ID `53886` · Digistore24 productId `634598` · [HTML profile page](../../reviews/the-5-minute-garden-earn-75-commissions-on-a-proven-ebook-53886.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.90 (Single payment) |
+| Price | $27.91 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $65.64 |
+| Earnings/sale* | $65.68 |
 | Cart conversion* | 6% |
 | Cancel rate* | 0% |
 | Vendor | darrelltee |
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-09-09
-- How much? — 27.896595 USD
+- How much? — 27.91406 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 5-Minute Garden: Earn 75% Commissions on a Proven Ebook. alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/634598
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634598/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%205-Minute%20Garden%3A%20Earn%2075%25%20Commissions%20on%20a%20Proven%20Ebook.
 
 ## 4. Editorial notes

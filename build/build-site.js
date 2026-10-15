@@ -58,7 +58,7 @@ const productDetails = (id) => DETAILS[id] || null;
 // 跨语言关联:德语站数据集(同厂商产品互相引流)
 const DE_DATASET_FILE = "G:/Digistore24/site-de/data/dataset.json";
 
-$1(DE_DATASET_FILE) ? JSON.parse(fs.readFileSync(DE_DATASET_FILE, "utf8")) : null;
+const DE_DATA = fs.existsSync(DE_DATASET_FILE) ? JSON.parse(fs.readFileSync(DE_DATASET_FILE, "utf8")) : null;
 const deVendorMap = (() => {
   if (!DE_DATA) return new Map();
   const m = new Map();
@@ -217,13 +217,15 @@ const products = DATA.products
   .sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0));
 const byId = new Map(products.map((p) => [String(p.id), p]));
 
-// 厂商 Hub 仅覆盖 ≥2 产品的 Top100 厂商(与 vendorHubs() 同一筛选);模板引用前先判定,防止掉榜厂商产生死链
-const HUB_SLUGS = (() => {
+// 厂商 Hub 单一数据源:Top100 厂商(≥2 产品)在此选定一次,HUB_SLUGS 与 vendorHubs() 共用,
+// 防止两处独立计算因 products 顺序被中间函数改变而在并列边界选出不同厂商(曾产生死链)
+const TOP_VENDORS = (() => {
   const m = new Map();
   for (const p of products) m.set(p.vendorName, (m.get(p.vendorName) || 0) + 1);
-  return new Set([...m.entries()].filter(([, n]) => n >= 2)
-    .sort((a, b) => b[1] - a[1]).slice(0, 100).map(([k]) => slug(k)));
+  return new Map([...m.entries()].filter(([, n]) => n >= 2)
+    .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 100));
 })();
+const HUB_SLUGS = new Set([...TOP_VENDORS.keys()].map((k) => slug(k)));
 
 // 改进项 deepdive-pilot-en:收益 Top10 产品的深度顾问页(reviews/{slug}/guide.html)
 const GUIDE_POOL = [...products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10);
@@ -233,10 +235,12 @@ const GUIDE_IDS = new Set(GUIDE_POOL.map((p) => String(p.id)));
   const cnt = {};
   for (const c of DATA.categories) { const b = slug(c.label); cnt[b] = (cnt[b] || 0) + 1; }
   for (const c of DATA.categories) { const b = slug(c.label); c.file = cnt[b] > 1 ? slug(c.section) + "-" + b : b; }
-// categories that actually get a faq page (>=3 products) — guards faq links site-wide
-const FAQ_ELIGIBLE = new Set(DATA.categories.filter((c) => (DATA.products || []).filter((p) => (p.categoryIds || []).includes(String(c.catId))).length >= 3).map((c) => c.file));
-
 }
+
+// categories that actually get a faq page (>=3 products) — guards faq links site-wide
+// (含合成的 uncategorized:见 faqHubPages 的 uncat 条目)
+const FAQ_ELIGIBLE = new Set(DATA.categories.filter((c) => (DATA.products || []).filter((p) => (p.categoryIds || []).includes(String(c.catId))).length >= 3).map((c) => c.file));
+FAQ_ELIGIBLE.add("uncategorized");
 
 // ---------- TL;DR 摘要(GEO 可引用) ----------
 function tldr(p) {
@@ -1295,9 +1299,12 @@ function faqHubPages() {
   fs.mkdirSync(dir, { recursive: true });
   let built = 0;
   const eligible = DATA.categories.filter((c) => products.filter((p) => (p.categoryIds || []).includes(String(c.catId))).length >= 3);
+  // 未归类产品(平台未给分类)也生成专属 FAQ 枢纽——分类页 tldr 会链接它
+  { const un = products.filter((p) => !(p.categoryIds || []).length).length;
+    if (un >= 3) eligible.push({ catId: "uncat", label: "Uncategorized", section: "Digistore24", file: "uncategorized", count: un }); }
   for (let ci = 0; ci < eligible.length; ci++) {
     const c = eligible[ci];
-    const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)));
+    const items = products.filter((p) => (p.categoryIds || []).includes(String(c.catId)) || (c.catId === "uncat" && !(p.categoryIds || []).length));
     const qas = faqBank(c, items);
     const groups = [...new Set(qas.map((x) => x.g))];
     const best = [...items].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0))[0];
@@ -1413,11 +1420,9 @@ function vendorHubs() {
     if (!vmap.has(k)) vmap.set(k, []);
     vmap.get(k).push(p);
   }
-  const vendors = [...vmap.entries()]
-    .filter(([, arr]) => arr.length >= 2)
-    .map(([k, arr]) => ({ name: k, items: arr.sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }))
-    .sort((a, b) => b.items.length - a.items.length)
-    .slice(0, 100);
+  // Top100 厂商与 HUB_SLUGS 同源(TOP_VENDORS,模块级选定)——并列边界取舍永久一致
+  const vendors = [...TOP_VENDORS.entries()]
+    .map(([k]) => ({ name: k, items: (vmap.get(k) || []).sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)) }));
   const dir = outPath("vendors");
   fs.mkdirSync(dir, { recursive: true });
   for (const v of vendors) {

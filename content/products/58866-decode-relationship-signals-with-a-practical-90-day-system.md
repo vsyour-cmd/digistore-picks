@@ -10,10 +10,10 @@ affiliate_commission_pct: 75
 earnings_per_sale: 50.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://signal.esr.mobi/?aff=adminstore#aff=adminstore"
 sales_page: "https://signal.esr.mobi/"
@@ -22,7 +22,7 @@ language: "en"
 # Decode Relationship Signals With a Practical 90-Day System
 
 > Product ID `58866` · Digistore24 productId `728308` · [HTML profile page](../../reviews/decode-relationship-signals-with-a-practical-90-day-system-58866.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | ramib6566a327 |
 | Listed since | 2026-09-02 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -101,7 +101,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Decode Relationship Signals With a Practical 90-Day System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/728308
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728308/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Decode%20Relationship%20Signals%20With%20a%20Practical%2090-Day%20System
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.survivalmd.net/vsl/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.survivalmd.net/vsl/index.php"
@@ -22,7 +22,7 @@ language: "en"
 # SURVIVALMD - UPDATED OFFER + NEW FUNNEL|OPEN FOR AFFILIATES
 
 > Product ID `59282` · Digistore24 productId `492636` · [HTML profile page](../../reviews/survivalmd-updated-offer-new-funnel-open-for-affiliates-59282.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -106,7 +106,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SURVIVALMD - UPDATED OFFER + NEW FUNNEL|OPEN FOR AFFILIATES alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/492636
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/492636/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SURVIVALMD%20-%20UPDATED%20OFFER%20%2B%20NEW%20FUNNEL%7COPEN%20FOR%20AFFILIATES
 
 ## 4. Editorial notes

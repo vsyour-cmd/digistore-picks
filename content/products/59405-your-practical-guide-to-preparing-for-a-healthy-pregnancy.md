@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59405/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726543?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726543"
 language: "en"
 ---
 # Your Practical Guide to Preparing for a Healthy Pregnancy
 
 > Product ID `59405` · Digistore24 productId `726543` · [HTML profile page](../../reviews/your-practical-guide-to-preparing-for-a-healthy-pregnancy-59405.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59405/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726543?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726543
 - Canonical redirect: https://www.digistore24.com/redir/726543/adminstore
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Your Practical Guide to Preparing for a Healthy Pregnancy alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726543
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726543/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Your%20Practical%20Guide%20to%20Preparing%20for%20a%20Healthy%20Pregnancy
 
 ## 4. Editorial notes

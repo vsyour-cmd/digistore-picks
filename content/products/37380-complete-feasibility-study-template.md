@@ -4,7 +4,7 @@ digistore24_product_id: 348804
 title: "Complete Feasibility Study Template"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 16.76
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.39
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2020-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/buy-feasibility-study-template/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/buy-feasibility-study-template/"
@@ -22,14 +22,14 @@ language: "en"
 # Complete Feasibility Study Template
 
 > Product ID `37380` · Digistore24 productId `348804` · [HTML profile page](../../reviews/complete-feasibility-study-template-37380.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.76 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.39 |
 | Cart conversion* | — |
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2020-09-21
-- How much? — 16.760319000000003 USD
+- How much? — 16.770812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Complete Feasibility Study Template alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/348804
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/348804/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Complete%20Feasibility%20Study%20Template
 
 ## 4. Editorial notes

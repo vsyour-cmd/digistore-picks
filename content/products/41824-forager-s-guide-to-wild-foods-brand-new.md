@@ -4,16 +4,16 @@ digistore24_product_id: 391226
 title: "Forager's Guide to Wild Foods – BRAND NEW!"
 vendor: "fguide"
 product_type: "Book (printed)"
-price: 48.57
+price: 48.6
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 25.25
+earnings_per_sale: 25.26
 cart_conversion_pct: 28
 cancel_rate_pct: 1.83
 categories: ["Survival"]
 listed_since: "2021-05-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://foragersguide.com/nws-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://foragersguide.com/nws-book/"
@@ -22,16 +22,16 @@ language: "en"
 # Forager's Guide to Wild Foods – BRAND NEW!
 
 > Product ID `41824` · Digistore24 productId `391226` · [HTML profile page](../../reviews/forager-s-guide-to-wild-foods-brand-new-41824.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $48.57 (Single payment) |
+| Price | $48.60 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $25.25 |
+| Earnings/sale* | $25.26 |
 | Cart conversion* | 28% |
 | Cancel rate* | 1.83% |
 | Vendor | fguide |
@@ -86,14 +86,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: fguide, listed since 2021-05-24
-- How much? — 48.570264 USD
+- How much? — 48.600671999999996 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forager's Guide to Wild Foods – BRAND NEW! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/391226
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/391226/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Forager's%20Guide%20to%20Wild%20Foods%20%E2%80%93%20BRAND%20NEW!
 
 ## 4. Editorial notes

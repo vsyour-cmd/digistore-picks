@@ -4,40 +4,40 @@ digistore24_product_id: 521030
 title: "METANAIL"
 vendor: "metanail"
 product_type: "Deliverable"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.41
+earnings_per_sale: 57.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2023-10-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/45855/adminstore/"
+promo_link: "https://getmetanailcomplex.cc/v2-breakthrough/?aff=adminstore#aff=adminstore"
 sales_page: "https://getmetanailcomplex.cc/v2-breakthrough/"
 language: "en"
 ---
 # METANAIL
 
 > Product ID `45855` · Digistore24 productId `521030` · [HTML profile page](../../reviews/metanail-45855.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.41 |
+| Earnings/sale* | $57.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | metanail |
 | Listed since | 2023-10-17 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45855/adminstore/
+- **Promo link (affiliate):** https://getmetanailcomplex.cc/v2-breakthrough/?aff=adminstore#aff=adminstore
 - Sales page: https://getmetanailcomplex.cc/v2-breakthrough/
 - Vendor affiliate support: https://getmetanailcomplex.cc/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/521030/adminstore
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: metanail, listed since 2023-10-17
-- How much? — 88.32990000000001 USD
+- How much? — 88.3852 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: METANAIL alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/521030
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/521030/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=METANAIL
 
 ## 4. Editorial notes

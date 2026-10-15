@@ -4,16 +4,16 @@ digistore24_product_id: 737327
 title: "Instagram Reel Cover Pack (English)"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 16.77
+price: 16.78
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/instagram-reel-cover-starter-pack/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/instagram-reel-cover-starter-pack/"
@@ -22,14 +22,14 @@ language: "en"
 # Instagram Reel Cover Pack (English)
 
 > Product ID `59976` · Digistore24 productId `737327` · [HTML profile page](../../reviews/instagram-reel-cover-pack-english-59976.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.77 (Single payment) |
+| Price | $16.78 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | xarutacom |
 | Listed since | 2026-09-27 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-09-27
-- How much? — 16.771500000000003 USD
+- How much? — 16.782 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Instagram Reel Cover Pack (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/737327
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737327/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Instagram%20Reel%20Cover%20Pack%20(English)
 
 ## 4. Editorial notes

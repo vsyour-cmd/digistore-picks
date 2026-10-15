@@ -4,40 +4,40 @@ digistore24_product_id: 720581
 title: "Protein Made Simple"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 27.84
+price: 27.86
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 13.92
+earnings_per_sale: 13.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Food & Drink"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58311/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/720581?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/720581"
 language: "en"
 ---
 # Protein Made Simple
 
 > Product ID `58311` · Digistore24 productId `720581` · [HTML profile page](../../reviews/protein-made-simple-58311.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.84 (Single payment) |
+| Price | $27.86 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $13.92 |
+| Earnings/sale* | $13.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58311/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/720581?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/720581
 - Canonical redirect: https://www.digistore24.com/redir/720581/adminstore
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-12
-- How much? — 27.840690000000002 USD
+- How much? — 27.85812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Protein Made Simple alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/720581
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720581/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Protein%20Made%20Simple
 
 ## 4. Editorial notes

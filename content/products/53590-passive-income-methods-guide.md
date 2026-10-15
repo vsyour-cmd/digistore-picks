@@ -10,10 +10,10 @@ affiliate_commission_pct: 20
 earnings_per_sale: 2.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630856?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/630856"
@@ -22,7 +22,7 @@ language: "en"
 # Passive Income Methods - Guide
 
 > Product ID `53590` · Digistore24 productId `630856` · [HTML profile page](../../reviews/passive-income-methods-guide-53590.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | assetslibrary |
 | Listed since | 2025-08-20 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Business & Investment, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Passive Income Methods - Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/630856
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630856/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Passive%20Income%20Methods%20-%20Guide
 
 ## 4. Editorial notes

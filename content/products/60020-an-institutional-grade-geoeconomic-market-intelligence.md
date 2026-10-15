@@ -10,10 +10,10 @@ affiliate_commission_pct: 75
 earnings_per_sale: 50.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Politics & Economy","Trading Products"]
+categories: ["Trading Products","Business & Investment","Politics & Economy"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://mayanomics.org/telos-intelligence-briefing/digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://mayanomics.org/telos-intelligence-briefing/digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # An Institutional-grade geoeconomic Market intelligence
 
 > Product ID `60020` · Digistore24 productId `738502` · [HTML profile page](../../reviews/an-institutional-grade-geoeconomic-market-intelligence-60020.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | mayakannan |
 | Listed since | 2026-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Politics & Economy, Trading Products |
+| Categories | Trading Products, Business & Investment, Politics & Economy |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,7 +90,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: An Institutional-grade geoeconomic Market intelligence alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738502
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738502/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=An%20Institutional-grade%20geoeconomic%20Market%20intelligence
 
 ## 4. Editorial notes

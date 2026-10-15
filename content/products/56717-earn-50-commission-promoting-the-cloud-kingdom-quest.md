@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-05-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/56717/adminstore/"
+promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest&aff=adminstore#aff=adminstore"
 sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest"
 language: "en"
 ---
 # Earn 50% Commission Promoting The Cloud Kingdom Quest
 
 > Product ID `56717` · Digistore24 productId `696023` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-cloud-kingdom-quest-56717.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56717/adminstore/
+- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest&aff=adminstore#aff=adminstore
 - Sales page: https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=sky-legends-book2-the-cloud-kingdom-quest
 - Vendor affiliate support: https://maxmiaparentingsystem.blogspot.com/p/affiliate-center-max-mia-parent-success.html
 - Canonical redirect: https://www.digistore24.com/redir/696023/adminstore
@@ -74,7 +74,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 50% Commission Promoting The Cloud Kingdom Quest alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/696023
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696023/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2050%25%20Commission%20Promoting%20The%20Cloud%20Kingdom%20Quest
 
 ## 4. Editorial notes

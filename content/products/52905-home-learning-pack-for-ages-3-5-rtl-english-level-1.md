@@ -10,19 +10,19 @@ affiliate_commission_pct: 75
 earnings_per_sale: 18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Languages"]
+categories: ["Family & Children","Education","Languages"]
 listed_since: "2025-05-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52905/adminstore/"
+promo_link: "https://www.checkout-ds24.com/redir/615878/adminstore/."
 sales_page: "https://rtlenglish.org/lp/level-1?affp=d24&aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
 language: "en"
 ---
 # Home Learning Pack for ages 3-5 | RTL English Level 1
 
 > Product ID `52905` · Digistore24 productId `615878` · [HTML profile page](../../reviews/home-learning-pack-for-ages-3-5-rtl-english-level-1-52905.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | rtlenglish |
 | Listed since | 2025-05-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Languages |
+| Categories | Family & Children, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52905/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/615878/adminstore/.
 - Sales page: https://rtlenglish.org/lp/level-1?affp=d24&aff=[AFFILIATE]&cam=[CAMPAIGNKEY]
 - Vendor affiliate support: https://rtlenglish.org/affiliates/d24
 - Canonical redirect: https://www.digistore24.com/redir/615878/adminstore
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Learning Pack for ages 3-5 | RTL English Level 1 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/615878
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/615878/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Learning%20Pack%20for%20ages%203-5%20%7C%20RTL%20English%20Level%201
 
 ## 4. Editorial notes

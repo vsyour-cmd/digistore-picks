@@ -4,34 +4,34 @@ digistore24_product_id: 553703
 title: "SonoVive"
 vendor: "SonoVive"
 product_type: "Supplements - health"
-price: 193.06
+price: 193.18
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 71.68
+earnings_per_sale: 71.73
 cart_conversion_pct: 10
 cancel_rate_pct: 10.7
 categories: ["Food Supplements"]
 listed_since: "2024-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48283/adminstore/"
+promo_link: "https://sonovive24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://sonovive24.com/text.php"
 language: "en"
 ---
 # SonoVive
 
 > Product ID `48283` · Digistore24 productId `553703` · [HTML profile page](../../reviews/sonovive-48283.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $193.06 (Single payment) |
+| Price | $193.18 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $71.68 |
+| Earnings/sale* | $71.73 |
 | Cart conversion* | 10% |
 | Cancel rate* | 10.7% |
 | Vendor | SonoVive |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48283/adminstore/
+- **Promo link (affiliate):** https://sonovive24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: https://sonovive24.com/text.php
 - Vendor affiliate support: https://sonovive24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/553703/adminstore
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: SonoVive, listed since 2024-05-23
-- How much? — 193.062327 USD
+- How much? — 193.18319599999998 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SonoVive alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/553703
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553703/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SonoVive
 
 ## 4. Editorial notes

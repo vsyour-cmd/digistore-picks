@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56337/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/684403?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684403"
 language: "en"
 ---
 # 50% for Selling Health and Safety Dashboard (EN-AR)
 
 > Product ID `56337` · Digistore24 productId `684403` · [HTML profile page](../../reviews/50-for-selling-health-and-safety-dashboard-en-ar-56337.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56337/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/684403?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/684403
 - Canonical redirect: https://www.digistore24.com/redir/684403/adminstore
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% for Selling Health and Safety Dashboard (EN-AR) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/684403
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684403/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=50%25%20for%20Selling%20Health%20and%20Safety%20Dashboard%20(EN-AR)
 
 ## 4. Editorial notes

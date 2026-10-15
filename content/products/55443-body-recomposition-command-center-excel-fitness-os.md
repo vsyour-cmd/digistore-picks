@@ -10,19 +10,19 @@ affiliate_commission_pct: 45
 earnings_per_sale: 6.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Education","Food & Drink"]
 listed_since: "2026-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55443/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/665651?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/665651"
 language: "en"
 ---
 # Body_Recomposition_Command_Center_Excel_Fitness_OS
 
 > Product ID `55443` · Digistore24 productId `665651` · [HTML profile page](../../reviews/body-recomposition-command-center-excel-fitness-os-55443.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | MohammedAsif_k |
 | Listed since | 2026-02-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Education, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55443/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/665651?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/665651
 - Canonical redirect: https://www.digistore24.com/redir/665651/adminstore
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Body_Recomposition_Command_Center_Excel_Fitness_OS alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/665651
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665651/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Body_Recomposition_Command_Center_Excel_Fitness_OS
 
 ## 4. Editorial notes

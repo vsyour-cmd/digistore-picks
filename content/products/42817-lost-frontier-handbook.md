@@ -4,34 +4,34 @@ digistore24_product_id: 382793
 title: "Lost Frontier Handbook"
 vendor: "frontbook"
 product_type: "Book (printed)"
-price: 47.51
+price: 47.54
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 24.45
+earnings_per_sale: 24.47
 cart_conversion_pct: 3
 cancel_rate_pct: 1.5
 categories: ["Survival"]
 listed_since: "2021-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42817/adminstore/"
+promo_link: "https://www.lostfrontierhandbook.net/vsl/index_ds24.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.lostfrontierhandbook.net/vsl/index_ds24.php"
 language: "en"
 ---
 # Lost Frontier Handbook
 
 > Product ID `42817` · Digistore24 productId `382793` · [HTML profile page](../../reviews/lost-frontier-handbook-42817.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $47.51 (Single payment) |
+| Price | $47.54 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $24.45 |
+| Earnings/sale* | $24.47 |
 | Cart conversion* | 3% |
 | Cancel rate* | 1.5% |
 | Vendor | frontbook |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42817/adminstore/
+- **Promo link (affiliate):** https://www.lostfrontierhandbook.net/vsl/index_ds24.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.lostfrontierhandbook.net/vsl/index_ds24.php
 - Vendor affiliate support: https://www.lostfrontierhandbook.net/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/382793/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: frontbook, listed since 2021-04-06
-- How much? — 47.508069000000006 USD
+- How much? — 47.537812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lost Frontier Handbook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/382793
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/382793/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lost%20Frontier%20Handbook
 
 ## 4. Editorial notes

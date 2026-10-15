@@ -4,16 +4,16 @@ digistore24_product_id: 456090
 title: "ExpertSlides - The secret weapon for your presentations!"
 vendor: "expertslides"
 product_type: "Software"
-price: 254.93
+price: 255.09
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 127.46
+earnings_per_sale: 127.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-08-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://expertslides.com/expertslides-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://expertslides.com/expertslides-digistore24/"
@@ -22,16 +22,16 @@ language: "en"
 # ExpertSlides - The secret weapon for your presentations!
 
 > Product ID `40892` · Digistore24 productId `456090` · [HTML profile page](../../reviews/expertslides-the-secret-weapon-for-your-presentations-40892.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $254.93 (Subscription) |
+| Price | $255.09 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $127.46 |
+| Earnings/sale* | $127.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | expertslides |
@@ -100,14 +100,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: expertslides, listed since 2022-08-17
-- How much? — 254.92680000000001 USD
+- How much? — 255.0864 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ExpertSlides - The secret weapon for your presentations! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/456090
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/456090/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=ExpertSlides%20-%20The%20secret%20weapon%20for%20your%20presentations!
 
 ## 4. Editorial notes

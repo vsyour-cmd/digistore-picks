@@ -4,16 +4,16 @@ digistore24_product_id: 619373
 title: "Top T — Advanced Testosterone Booster"
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 293.46
+price: 293.64
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 176.08
+earnings_per_sale: 176.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/619373?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/619373"
@@ -22,16 +22,16 @@ language: "en"
 # Top T — Advanced Testosterone Booster
 
 > Product ID `53180` · Digistore24 productId `619373` · [HTML profile page](../../reviews/top-t-advanced-testosterone-booster-53180.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $293.46 (Single payment) |
+| Price | $293.64 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $176.08 |
+| Earnings/sale* | $176.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2025-06-18
-- How much? — 293.456526 USD
+- How much? — 293.640248 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Top T — Advanced Testosterone Booster alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/619373
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/619373/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Top%20T%20%E2%80%94%20Advanced%20Testosterone%20Booster
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 42173
 title: "100% RAW LOVE - the ultimate recipe collection"
 vendor: "Rohtopia"
 product_type: "Downloads"
-price: 22.33
+price: 22.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.17
+earnings_per_sale: 11.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2015-02-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rohtopia.com/100-raw-love-the-ultimate-raw-foodie-recipe-collection/"
@@ -22,16 +22,16 @@ language: "en"
 # 100% RAW LOVE - the ultimate recipe collection
 
 > Product ID `9545` · Digistore24 productId `42173` · [HTML profile page](../../reviews/100-raw-love-the-ultimate-recipe-collection-9545.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.33 (Single payment) |
+| Price | $22.34 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.17 |
+| Earnings/sale* | $11.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rohtopia |
@@ -79,14 +79,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Rohtopia, listed since 2015-02-04
-- How much? — 22.328457 USD
+- How much? — 22.342436 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 100% RAW LOVE - the ultimate recipe collection alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/42173
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/42173/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=100%25%20RAW%20LOVE%20-%20the%20ultimate%20recipe%20collection
 
 ## 4. Editorial notes

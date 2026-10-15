@@ -10,10 +10,10 @@ affiliate_commission_pct: 35
 earnings_per_sale: 2.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Education"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658074?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658074"
@@ -22,7 +22,7 @@ language: "en"
 # The AI Business E-book
 
 > Product ID `55060` · Digistore24 productId `658074` · [HTML profile page](../../reviews/the-ai-business-e-book-55060.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | MohammedAsif_k |
 | Listed since | 2025-12-30 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The AI Business E-book alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/658074
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658074/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20AI%20Business%20E-book
 
 ## 4. Editorial notes

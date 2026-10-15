@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60401/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/743382?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/743382"
 language: "en"
 ---
 # The AI Side Hustle Starter Blueprint (50% Commission)
 
 > Product ID `60401` · Digistore24 productId `743382` · [HTML profile page](../../reviews/the-ai-side-hustle-starter-blueprint-50-commission-60401.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | craftydigitalstudio |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Business & Investment, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60401/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/743382?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/743382
 - Canonical redirect: https://www.digistore24.com/redir/743382/adminstore
 
@@ -87,7 +87,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The AI Side Hustle Starter Blueprint (50% Commission) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/743382
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743382/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20AI%20Side%20Hustle%20Starter%20Blueprint%20(50%25%20Commission)
 
 ## 4. Editorial notes

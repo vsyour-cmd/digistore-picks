@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59147/adminstore/"
+promo_link: "https://grabandgocontinuitypack-0zx.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://grabandgocontinuitypack-0zx.plannerpack.co"
 language: "en"
 ---
 # Grab-and-Go Continuity Pack
 
 > Product ID `59147` · Digistore24 productId `732720` · [HTML profile page](../../reviews/grab-and-go-continuity-pack-59147.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59147/adminstore/
+- **Promo link (affiliate):** https://grabandgocontinuitypack-0zx.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://grabandgocontinuitypack-0zx.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/732720/adminstore
 
@@ -103,7 +103,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grab-and-Go Continuity Pack alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/732720
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732720/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Grab-and-Go%20Continuity%20Pack
 
 ## 4. Editorial notes

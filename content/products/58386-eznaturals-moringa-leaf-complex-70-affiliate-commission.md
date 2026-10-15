@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 174.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+categories: ["Health & Fitness","Food & Drink","Food Supplements"]
 listed_since: "2026-08-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://eznaturals.co/moringa-digistore24/?aff=adminstore#aff=adminstore"
 sales_page: "https://eznaturals.co/moringa-digistore24/"
@@ -22,7 +22,7 @@ language: "en"
 # EZNaturals Moringa Leaf Complex | 70% Affiliate Commission
 
 > Product ID `58386` · Digistore24 productId `692713` · [HTML profile page](../../reviews/eznaturals-moringa-leaf-complex-70-affiliate-commission-58386.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | eznaturals |
 | Listed since | 2026-08-15 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Food Supplements |
+| Categories | Health & Fitness, Food & Drink, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -107,7 +107,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EZNaturals Moringa Leaf Complex | 70% Affiliate Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/692713
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692713/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=EZNaturals%20Moringa%20Leaf%20Complex%20%7C%2070%25%20Affiliate%20Commission
 
 ## 4. Editorial notes

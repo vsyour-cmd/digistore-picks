@@ -4,16 +4,16 @@ digistore24_product_id: 623072
 title: "Pinterest Strategy for Entrepreneurs - Brand new"
 vendor: "Soph07"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-07-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://hope-271.systeme.io/4f8ed6e2?aff=adminstore#aff=adminstore"
 sales_page: "https://hope-271.systeme.io/4f8ed6e2"
@@ -22,16 +22,16 @@ language: "en"
 # Pinterest Strategy for Entrepreneurs - Brand new
 
 > Product ID `53280` · Digistore24 productId `623072` · [HTML profile page](../../reviews/pinterest-strategy-for-entrepreneurs-brand-new-53280.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Soph07 |
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Soph07, listed since 2025-07-09
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pinterest Strategy for Entrepreneurs - Brand new alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/623072
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/623072/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Pinterest%20Strategy%20for%20Entrepreneurs%20-%20Brand%20new
 
 ## 4. Editorial notes

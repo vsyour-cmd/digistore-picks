@@ -4,32 +4,32 @@ digistore24_product_id: 678080
 title: "Community to Cash - Build a scalable online business"
 vendor: "tinztwins"
 product_type: "E-books"
-price: 22.25
+price: 22.26
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 11.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2026-03-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56003/adminstore/"
+promo_link: "https://shop.towardsfinance.com/l/community-to-cash/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.towardsfinance.com/l/community-to-cash/"
 language: "en"
 ---
 # Community to Cash - Build a scalable online business
 
 > Product ID `56003` · Digistore24 productId `678080` · [HTML profile page](../../reviews/community-to-cash-build-a-scalable-online-business-56003.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.25 (Single payment) |
+| Price | $22.26 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $11.13 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | tinztwins |
 | Listed since | 2026-03-21 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56003/adminstore/
+- **Promo link (affiliate):** https://shop.towardsfinance.com/l/community-to-cash/?aff=adminstore#aff=adminstore
 - Sales page: https://shop.towardsfinance.com/l/community-to-cash/
 - Vendor affiliate support: https://towardsfinance.com/affiliate-partner-program/
 - Canonical redirect: https://www.digistore24.com/redir/678080/adminstore
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: tinztwins, listed since 2026-03-21
-- How much? — 22.25019 USD
+- How much? — 22.26412 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Community to Cash - Build a scalable online business alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/678080
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/678080/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Community%20to%20Cash%20-%20Build%20a%20scalable%20online%20business
 
 ## 4. Editorial notes

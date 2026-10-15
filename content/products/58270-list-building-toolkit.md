@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.growthclubforcoachesandconsultants.com/buildyourlist-687?aff=adminstore#aff=adminstore"
 sales_page: "https://www.growthclubforcoachesandconsultants.com/buildyourlist-687"
@@ -22,7 +22,7 @@ language: "en"
 # List Building Toolkit
 
 > Product ID `58270` · Digistore24 productId `720621` · [HTML profile page](../../reviews/list-building-toolkit-58270.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -99,7 +99,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: List Building Toolkit alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/720621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720621/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=List%20Building%20Toolkit
 
 ## 4. Editorial notes

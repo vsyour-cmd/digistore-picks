@@ -10,10 +10,10 @@ affiliate_commission_pct: 10
 earnings_per_sale: 3.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fashion","Marketing Services"]
+categories: ["Marketing Services","Fashion"]
 listed_since: "2026-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/719298?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719298"
@@ -22,7 +22,7 @@ language: "en"
 # Testing Only
 
 > Product ID `58172` · Digistore24 productId `719298` · [HTML profile page](../../reviews/testing-only-58172.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | team24-tho |
 | Listed since | 2026-08-06 |
 | Auto-accept affiliates | yes |
-| Categories | Fashion, Marketing Services |
+| Categories | Marketing Services, Fashion |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Testing Only alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/719298
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719298/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Testing%20Only
 
 ## 4. Editorial notes

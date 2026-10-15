@@ -4,34 +4,34 @@ digistore24_product_id: 446475
 title: "The Ultimate Energizer - Insane EPCs and Conversions !"
 vendor: "tuenergizer"
 product_type: "E-books"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 49.31
+earnings_per_sale: 49.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2022-06-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/40271/adminstore/"
+promo_link: "https://www.greenenergyfreedom.net/index_tue.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.greenenergyfreedom.net/index_tue.html"
 language: "en"
 ---
 # The Ultimate Energizer - Insane EPCs and Conversions !
 
 > Product ID `40271` · Digistore24 productId `446475` · [HTML profile page](../../reviews/the-ultimate-energizer-insane-epcs-and-conversions-40271.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $54.79 (Single payment) |
+| Price | $54.82 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $49.31 |
+| Earnings/sale* | $49.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tuenergizer |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40271/adminstore/
+- **Promo link (affiliate):** https://www.greenenergyfreedom.net/index_tue.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.greenenergyfreedom.net/index_tue.html
 - Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/446475/adminstore
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: tuenergizer, listed since 2022-06-11
-- How much? — 54.7869 USD
+- How much? — 54.8212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Ultimate Energizer - Insane EPCs and Conversions ! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/446475
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/446475/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Ultimate%20Energizer%20-%20Insane%20EPCs%20and%20Conversions%20!
 
 ## 4. Editorial notes

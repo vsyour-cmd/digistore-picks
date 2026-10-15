@@ -4,34 +4,34 @@ digistore24_product_id: 536868
 title: "Sugar Defender"
 vendor: "I868696"
 product_type: "Supplements - health"
-price: 177.81
+price: 177.92
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.65
+earnings_per_sale: 107.72
 cart_conversion_pct: 4
 cancel_rate_pct: 11.15
 categories: ["Food Supplements"]
 listed_since: "2024-01-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47081/adminstore/"
+promo_link: "https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore"
 sales_page: "https://sugardefender24.com/d/order-now.php"
 language: "en"
 ---
 # Sugar Defender
 
 > Product ID `47081` · Digistore24 productId `536868` · [HTML profile page](../../reviews/sugar-defender-47081.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $177.81 (Single payment) |
+| Price | $177.92 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.65 |
+| Earnings/sale* | $107.72 |
 | Cart conversion* | 4% |
 | Cancel rate* | 11.15% |
 | Vendor | I868696 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47081/adminstore/
+- **Promo link (affiliate):** https://sugardefender24.com/d/order-now.php?aff=adminstore#aff=adminstore
 - Sales page: https://sugardefender24.com/d/order-now.php
 - Vendor affiliate support: https://sugardefender24.com/info/aff.html
 - Canonical redirect: https://www.digistore24.com/redir/536868/adminstore
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: I868696, listed since 2024-01-30
-- How much? — 177.81144300000003 USD
+- How much? — 177.922764 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sugar Defender alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/536868
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/536868/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sugar%20Defender
 
 ## 4. Editorial notes

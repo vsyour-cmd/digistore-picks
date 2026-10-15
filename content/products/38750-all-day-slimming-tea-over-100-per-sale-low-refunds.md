@@ -4,16 +4,16 @@ digistore24_product_id: 420539
 title: "⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds"
 vendor: "alldayslimtea"
 product_type: "Supplements - for slimming"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 197.23
+earnings_per_sale: 197.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-12-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://alldayslimmingtea.com/costa-rican-tradition/?aff=adminstore#aff=adminstore"
 sales_page: "https://alldayslimmingtea.com/costa-rican-tradition/"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds
 
 > Product ID `38750` · Digistore24 productId `420539` · [HTML profile page](../../reviews/all-day-slimming-tea-over-100-per-sale-low-refunds-38750.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $197.23 |
+| Earnings/sale* | $197.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | alldayslimtea |
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: alldayslimtea, listed since 2021-12-13
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/420539
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/420539/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%E2%9A%A1%20All%20Day%20Slimming%20Tea%20-%20Over%20%24100%20Per%20Sale%20%2B%20Low%20Refunds
 
 ## 4. Editorial notes

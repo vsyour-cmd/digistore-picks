@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58965/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/719791?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719791"
 language: "en"
 ---
 # Island of Morality – Thought-Provoking eBook | 40% Affiliate
 
 > Product ID `58965` · Digistore24 productId `719791` · [HTML profile page](../../reviews/island-of-morality-thought-provoking-ebook-40-affiliate-58965.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58965/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/719791?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/719791
 - Canonical redirect: https://www.digistore24.com/redir/719791/adminstore
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Island of Morality – Thought-Provoking eBook | 40% Affiliate alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/719791
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719791/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Island%20of%20Morality%20%E2%80%93%20Thought-Provoking%20eBook%20%7C%2040%25%20Affiliate
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 363385
 title: "Intelligent Cryptocurrency VIP"
 vendor: "IC2020"
 product_type: "Member area and video courses"
-price: 2232.85
+price: 2234.24
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1116.42
+earnings_per_sale: 1117.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2020-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://intelligentcryptocurrency.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://intelligentcryptocurrency.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Intelligent Cryptocurrency VIP
 
 > Product ID `33696` · Digistore24 productId `363385` · [HTML profile page](../../reviews/intelligent-cryptocurrency-vip-33696.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2232.85 (Single payment) |
+| Price | $2234.24 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1116.42 |
+| Earnings/sale* | $1117.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | IC2020 |
@@ -107,14 +107,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: IC2020, listed since 2020-12-17
-- How much? — 2232.8457000000003 USD
+- How much? — 2234.2436000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Intelligent Cryptocurrency VIP alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/363385
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/363385/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Intelligent%20Cryptocurrency%20VIP
 
 ## 4. Editorial notes

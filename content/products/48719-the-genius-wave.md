@@ -4,34 +4,34 @@ digistore24_product_id: 547017
 title: "The Genius Wave"
 vendor: "thegeniuswave"
 product_type: "Downloads"
-price: 48.41
+price: 48.44
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 41.91
+earnings_per_sale: 41.93
 cart_conversion_pct: 15
 cancel_rate_pct: 7.79
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48719/adminstore/"
+promo_link: "https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://ingeniuswave.com/DSvsl/"
 language: "en"
 ---
 # The Genius Wave
 
 > Product ID `48719` · Digistore24 productId `547017` · [HTML profile page](../../reviews/the-genius-wave-48719.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $48.41 (Single payment) |
+| Price | $48.44 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $41.91 |
+| Earnings/sale* | $41.93 |
 | Cart conversion* | 15% |
 | Cancel rate* | 7.79% |
 | Vendor | thegeniuswave |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48719/adminstore/
+- **Promo link (affiliate):** https://ingeniuswave.com/DSvsl/?aff=adminstore#aff=adminstore
 - Sales page: https://ingeniuswave.com/DSvsl/
 - Vendor affiliate support: https://realgeniuswave.com/DSAffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/547017/adminstore
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: thegeniuswave, listed since 2024-04-06
-- How much? — 48.41373 USD
+- How much? — 48.444039999999994 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Genius Wave alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/547017
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/547017/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Genius%20Wave
 
 ## 4. Editorial notes

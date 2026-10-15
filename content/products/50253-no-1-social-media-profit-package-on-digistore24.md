@@ -4,34 +4,34 @@ digistore24_product_id: 577507
 title: "No. 1 Social Media Profit Package on Digistore24"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 10.06
+earnings_per_sale: 10.07
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-10-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50253/adminstore/"
+promo_link: "https://heikoboos.com/social-marketing-school?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/social-marketing-school"
 language: "en"
 ---
 # No. 1 Social Media Profit Package on Digistore24
 
 > Product ID `50253` · Digistore24 productId `577507` · [HTML profile page](../../reviews/no-1-social-media-profit-package-on-digistore24-50253.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $20.11 (Single payment, Installment) |
+| Price | $20.13 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $10.06 |
+| Earnings/sale* | $10.07 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50253/adminstore/
+- **Promo link (affiliate):** https://heikoboos.com/social-marketing-school?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/social-marketing-school
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/577507/adminstore
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-27
-- How much? — 20.114619 USD
+- How much? — 20.127212 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: No. 1 Social Media Profit Package on Digistore24 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/577507
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577507/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=No.%201%20Social%20Media%20Profit%20Package%20on%20Digistore24
 
 ## 4. Editorial notes

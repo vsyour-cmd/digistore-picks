@@ -10,10 +10,10 @@ affiliate_commission_pct: 17
 earnings_per_sale: 10.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Online Marketing","Personal Development"]
+categories: ["Personal Development","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2024-11-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/580395?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/580395"
@@ -22,7 +22,7 @@ language: "en"
 # Mastering SEO
 
 > Product ID `50401` · Digistore24 productId `580395` · [HTML profile page](../../reviews/mastering-seo-50401.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | ManikandanP |
 | Listed since | 2024-11-13 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Online Marketing, Personal Development |
+| Categories | Personal Development, Online Marketing & E-Business, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,7 +86,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mastering SEO alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/580395
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/580395/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Mastering%20SEO
 
 ## 4. Editorial notes

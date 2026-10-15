@@ -4,40 +4,40 @@ digistore24_product_id: 743400
 title: "Brand Professional Service"
 vendor: "xarutacom"
 product_type: "Downloads"
-price: 513.21
+price: 513.53
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 153.96
+earnings_per_sale: 154.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+categories: ["Online Marketing & E-Business","Email Marketing","Marketing Services"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60405/adminstore/"
+promo_link: "https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/brand-pro/"
 language: "en"
 ---
 # Brand Professional Service
 
 > Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](../../reviews/brand-professional-service-60405.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $513.21 (Single payment) |
+| Price | $513.53 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $153.96 |
+| Earnings/sale* | $154.06 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+| Categories | Online Marketing & E-Business, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60405/adminstore/
+- **Promo link (affiliate):** https://xaruta4.wordpress.com/brand-pro/?aff=adminstore#aff=adminstore
 - Sales page: https://xaruta4.wordpress.com/brand-pro/
 - Canonical redirect: https://www.digistore24.com/redir/743400/adminstore
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: xarutacom, listed since 2026-10-08
-- How much? — 513.2079 USD
+- How much? — 513.5292000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Brand Professional Service alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/743400
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743400/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Brand%20Professional%20Service
 
 ## 4. Editorial notes

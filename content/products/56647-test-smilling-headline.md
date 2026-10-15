@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/56647/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/688062?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/688062"
 language: "en"
 ---
 # Test smilling headline
 
 > Product ID `56647` · Digistore24 productId `688062` · [HTML profile page](../../reviews/test-smilling-headline-56647.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56647/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/688062?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/688062
 - Canonical redirect: https://www.digistore24.com/redir/688062/adminstore
 
@@ -74,14 +74,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: team24-zahmad, listed since 2026-05-22
-- How much? — 5.5905000000000005 USD
+- How much? — 5.594 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Test smilling headline alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/688062
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688062/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Test%20smilling%20headline
 
 ## 4. Editorial notes

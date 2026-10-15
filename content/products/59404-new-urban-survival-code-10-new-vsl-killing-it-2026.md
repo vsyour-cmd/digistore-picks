@@ -10,10 +10,10 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Survival"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://puredaily-health.com/urban-survival-code?aff=adminstore#aff=adminstore"
 sales_page: "http://puredaily-health.com/urban-survival-code"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: Urban Survival Code  - 10%+ New VSL Killing It!! 2026
 
 > Product ID `59404` · Digistore24 productId `735109` · [HTML profile page](../../reviews/new-urban-survival-code-10-new-vsl-killing-it-2026-59404.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | energy4oren |
 | Listed since | 2026-09-19 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Survival |
+| Categories | Home & Garden, Green Products & Environmental Protection, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Urban Survival Code  - 10%+ New VSL Killing It!! 2026 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735109
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735109/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Urban%20Survival%20Code%20%20-%2010%25%2B%20New%20VSL%20Killing%20It!!%202026
 
 ## 4. Editorial notes

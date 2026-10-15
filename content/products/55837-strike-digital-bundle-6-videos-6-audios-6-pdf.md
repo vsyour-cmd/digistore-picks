@@ -4,34 +4,34 @@ digistore24_product_id: 671787
 title: "Strike: Digital Bundle (6 Videos + 6 Audios + 6 PDF)"
 vendor: "portalblu888b89f"
 product_type: "Downloads"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55837/adminstore/"
+promo_link: "https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/?aff=adminstore#aff=adminstore"
 sales_page: "https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/"
 language: "en"
 ---
 # Strike: Digital Bundle (6 Videos + 6 Audios + 6 PDF)
 
 > Product ID `55837` · Digistore24 productId `671787` · [HTML profile page](../../reviews/strike-digital-bundle-6-videos-6-audios-6-pdf-55837.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | portalblu888b89f |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55837/adminstore/
+- **Promo link (affiliate):** https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/?aff=adminstore#aff=adminstore
 - Sales page: https://esotericdance369.wordpress.com/mirror-technique-for-reality-shifting-and-manifestation/
 - Vendor affiliate support: https://esotericdance369.wordpress.com/affiliate-support/
 - Canonical redirect: https://www.digistore24.com/redir/671787/adminstore
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: portalblu888b89f, listed since 2026-02-26
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Strike: Digital Bundle (6 Videos + 6 Audios + 6 PDF) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/671787
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671787/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Strike%3A%20Digital%20Bundle%20(6%20Videos%20%2B%206%20Audios%20%2B%206%20PDF)
 
 ## 4. Editorial notes

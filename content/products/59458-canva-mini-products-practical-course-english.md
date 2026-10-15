@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735500?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735500"
@@ -22,7 +22,7 @@ language: "en"
 # Canva Mini-Products Practical Course (English)
 
 > Product ID `59458` · Digistore24 productId `735500` · [HTML profile page](../../reviews/canva-mini-products-practical-course-english-59458.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Canva Mini-Products Practical Course (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735500
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735500/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Canva%20Mini-Products%20Practical%20Course%20(English)
 
 ## 4. Editorial notes

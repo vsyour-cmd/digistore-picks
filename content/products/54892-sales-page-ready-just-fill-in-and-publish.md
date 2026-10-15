@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 312.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Software","Online Marketing","Marketing Services"]
+categories: ["Software","Marketing Services","Online Marketing"]
 listed_since: "2025-11-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/redir/650825/adminstore/."
 sales_page: "https://www.checkout-ds24.com/product/650825"
@@ -22,7 +22,7 @@ language: "en"
 # Sales Page Ready Just Fill In and Publish
 
 > Product ID `54892` · Digistore24 productId `650825` · [HTML profile page](../../reviews/sales-page-ready-just-fill-in-and-publish-54892.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | manuelcosta |
 | Listed since | 2025-11-25 |
 | Auto-accept affiliates | yes |
-| Categories | Software, Online Marketing, Marketing Services |
+| Categories | Software, Marketing Services, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,7 +86,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sales Page Ready Just Fill In and Publish alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/650825
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650825/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sales%20Page%20Ready%20Just%20Fill%20In%20and%20Publish
 
 ## 4. Editorial notes

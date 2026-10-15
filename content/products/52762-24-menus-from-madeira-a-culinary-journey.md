@@ -4,16 +4,16 @@ digistore24_product_id: 616627
 title: "24 Menus from Madeira - A Culinary Journey"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 22.14
+price: 22.15
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 5.53
+earnings_per_sale: 5.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Travel & Culture"]
+categories: ["Travel & Culture","Food & Drink"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.madeira.cc/cookbook?aff=adminstore#aff=adminstore"
 sales_page: "https://www.madeira.cc/cookbook"
@@ -22,22 +22,22 @@ language: "en"
 # 24 Menus from Madeira - A Culinary Journey
 
 > Product ID `52762` · Digistore24 productId `616627` · [HTML profile page](../../reviews/24-menus-from-madeira-a-culinary-journey-52762.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.14 (Single payment) |
+| Price | $22.15 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $5.53 |
+| Earnings/sale* | $5.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | madeira-bus |
 | Listed since | 2025-06-04 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Travel & Culture |
+| Categories | Travel & Culture, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: madeira-bus, listed since 2025-06-04
-- How much? — 22.13838 USD
+- How much? — 22.152240000000003 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 24 Menus from Madeira - A Culinary Journey alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/616627
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616627/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=24%20Menus%20from%20Madeira%20-%20A%20Culinary%20Journey
 
 ## 4. Editorial notes

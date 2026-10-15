@@ -4,16 +4,16 @@ digistore24_product_id: 625540
 title: "Sound Better than Your American Friends"
 vendor: "tylerjsimmons"
 product_type: "Downloads"
-price: 268.34
+price: 268.51
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 107.34
+earnings_per_sale: 107.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Languages","Personal Development"]
+categories: ["Personal Development","Education","Languages"]
 listed_since: "2025-07-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://tysimmons.teachable.com/p/ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://tysimmons.teachable.com/p/ds24"
@@ -22,22 +22,22 @@ language: "en"
 # Sound Better than Your American Friends
 
 > Product ID `53646` · Digistore24 productId `625540` · [HTML profile page](../../reviews/sound-better-than-your-american-friends-53646.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $268.34 (Single payment, Installment) |
+| Price | $268.51 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $107.34 |
+| Earnings/sale* | $107.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tylerjsimmons |
 | Listed since | 2025-07-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Languages, Personal Development |
+| Categories | Personal Development, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: tylerjsimmons, listed since 2025-07-23
-- How much? — 268.34400000000005 USD
+- How much? — 268.512 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sound Better than Your American Friends alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/625540
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625540/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sound%20Better%20than%20Your%20American%20Friends
 
 ## 4. Editorial notes

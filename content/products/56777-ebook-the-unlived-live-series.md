@@ -4,32 +4,32 @@ digistore24_product_id: 697389
 title: "Ebook - The Unlived Live Series"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 11.17
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-06-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56777/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/697389?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/697389"
 language: "en"
 ---
 # Ebook - The Unlived Live Series
 
 > Product ID `56777` · Digistore24 productId `697389` · [HTML profile page](../../reviews/ebook-the-unlived-live-series-56777.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.17 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-06-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56777/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/697389?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/697389
 - Canonical redirect: https://www.digistore24.com/redir/697389/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-06-01
-- How much? — 11.169819 USD
+- How much? — 11.176812 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - The Unlived Live Series alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/697389
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697389/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20The%20Unlived%20Live%20Series
 
 ## 4. Editorial notes

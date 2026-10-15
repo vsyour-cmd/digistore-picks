@@ -4,40 +4,40 @@ digistore24_product_id: 540121
 title: "The Healed Soul \"MANIFEST YOUR DESTINY\" - BRAND NEW"
 vendor: "TheHealedSoul"
 product_type: "E-books"
-price: 37.27
+price: 37.29
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 26.09
+earnings_per_sale: 26.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Dating, Relationships & Romance","Spiri­tua­lity & Esotericism"]
 listed_since: "2024-02-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47187/adminstore/"
+promo_link: "https://bottomlinemanifesting.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://bottomlinemanifesting.com/"
 language: "en"
 ---
 # The Healed Soul "MANIFEST YOUR DESTINY" - BRAND NEW
 
 > Product ID `47187` · Digistore24 productId `540121` · [HTML profile page](../../reviews/the-healed-soul-manifest-your-destiny-brand-new-47187.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $37.27 (Single payment) |
+| Price | $37.29 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $26.09 |
+| Earnings/sale* | $26.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TheHealedSoul |
 | Listed since | 2024-02-21 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Dating, Relationships & Romance, Spiri­tua­lity & Esotericism |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47187/adminstore/
+- **Promo link (affiliate):** https://bottomlinemanifesting.com/?aff=adminstore#aff=adminstore
 - Sales page: https://bottomlinemanifesting.com/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/the-healed-soul
 - Canonical redirect: https://www.digistore24.com/redir/540121/adminstore
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealedSoul, listed since 2024-02-21
-- How much? — 37.266273 USD
+- How much? — 37.289604 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Healed Soul "MANIFEST YOUR DESTINY" - BRAND NEW alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/540121
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/540121/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Healed%20Soul%20%22MANIFEST%20YOUR%20DESTINY%22%20-%20BRAND%20NEW
 
 ## 4. Editorial notes

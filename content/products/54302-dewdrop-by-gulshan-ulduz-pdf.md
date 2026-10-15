@@ -4,16 +4,16 @@ digistore24_product_id: 638688
 title: "DEWDROP by Gulshan Ulduz PDF"
 vendor: "DECLARATIONPLUS"
 product_type: "E-books"
-price: 13.42
+price: 13.43
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 2.68
+earnings_per_sale: 2.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2025-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/638688?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638688"
@@ -22,22 +22,22 @@ language: "en"
 # DEWDROP by Gulshan Ulduz PDF
 
 > Product ID `54302` · Digistore24 productId `638688` · [HTML profile page](../../reviews/dewdrop-by-gulshan-ulduz-pdf-54302.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.42 (Single payment) |
+| Price | $13.43 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $2.68 |
+| Earnings/sale* | $2.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DECLARATIONPLUS |
 | Listed since | 2025-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DECLARATIONPLUS, listed since 2025-09-29
-- How much? — 13.417200000000001 USD
+- How much? — 13.4256 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DEWDROP by Gulshan Ulduz PDF alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/638688
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/638688/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=DEWDROP%20by%20Gulshan%20Ulduz%20PDF
 
 ## 4. Editorial notes

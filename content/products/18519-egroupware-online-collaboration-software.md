@@ -4,34 +4,34 @@ digistore24_product_id: 58103
 title: "EGroupware - Online Collaboration Software"
 vendor: "egroupware"
 product_type: "Downloads"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 55.68
+earnings_per_sale: 55.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet"]
 listed_since: "2015-09-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/18519/adminstore/"
+promo_link: "https://www.egroupware.org/en/pricing/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.egroupware.org/en/pricing/"
 language: "en"
 ---
 # EGroupware - Online Collaboration Software
 
 > Product ID `18519` · Digistore24 productId `58103` · [HTML profile page](../../reviews/egroupware-online-collaboration-software-18519.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $278.41 (Subscription) |
+| Price | $278.58 (Subscription) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $55.68 |
+| Earnings/sale* | $55.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | egroupware |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/18519/adminstore/
+- **Promo link (affiliate):** https://www.egroupware.org/en/pricing/?aff=adminstore#aff=adminstore
 - Sales page: https://www.egroupware.org/en/pricing/
 - Vendor affiliate support: https://www.egroupware.org/en/become-reseller
 - Canonical redirect: https://www.digistore24.com/redir/58103/adminstore
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: egroupware, listed since 2015-09-04
-- How much? — 278.4069 USD
+- How much? — 278.5812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EGroupware - Online Collaboration Software alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/58103
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/58103/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=EGroupware%20-%20Online%20Collaboration%20Software
 
 ## 4. Editorial notes

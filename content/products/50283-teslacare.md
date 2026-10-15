@@ -4,40 +4,40 @@ digistore24_product_id: 577873
 title: "TeslaCare"
 vendor: "Tesla14"
 product_type: "Deliverable"
-price: 557.93
+price: 558.28
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 334.76
+earnings_per_sale: 334.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+categories: ["Health & Fitness","Food & Drink","Food Supplements"]
 listed_since: "2024-10-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.flowlife.de#aff=adminstore"
+promo_link: "https://teslacare.net/home-page-digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://teslacare.net/home-page-digi/"
 language: "en"
 ---
 # TeslaCare
 
 > Product ID `50283` · Digistore24 productId `577873` · [HTML profile page](../../reviews/teslacare-50283.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $557.93 (Single payment) |
+| Price | $558.28 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $334.76 |
+| Earnings/sale* | $334.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Tesla14 |
 | Listed since | 2024-10-30 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Food Supplements |
+| Categories | Health & Fitness, Food & Drink, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.flowlife.de#aff=adminstore
+- **Promo link (affiliate):** https://teslacare.net/home-page-digi/?aff=adminstore#aff=adminstore
 - Sales page: https://teslacare.net/home-page-digi/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/teslacare
 - Canonical redirect: https://www.digistore24.com/redir/577873/adminstore
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Tesla14, listed since 2024-10-30
-- How much? — 557.9319 USD
+- How much? — 558.2812 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TeslaCare alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/577873
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577873/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=TeslaCare
 
 ## 4. Editorial notes

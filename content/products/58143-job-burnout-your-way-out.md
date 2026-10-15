@@ -4,34 +4,34 @@ digistore24_product_id: 718157
 title: "Job Burnout – Your Way Out"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/58143/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/718157?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718157"
 language: "en"
 ---
 # Job Burnout – Your Way Out
 
 > Product ID `58143` · Digistore24 productId `718157` · [HTML profile page](../../reviews/job-burnout-your-way-out-58143.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58143/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/718157?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/718157
 - Canonical redirect: https://www.digistore24.com/redir/718157/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Job Burnout – Your Way Out alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/718157
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718157/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Job%20Burnout%20%E2%80%93%20Your%20Way%20Out
 
 ## 4. Editorial notes

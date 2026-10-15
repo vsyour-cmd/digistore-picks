@@ -4,16 +4,16 @@ digistore24_product_id: 639607
 title: "Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 117.4
+price: 117.47
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 88.05
+earnings_per_sale: 88.11
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/sleep-hacking?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/sleep-hacking"
@@ -22,16 +22,16 @@ language: "en"
 # Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions
 
 > Product ID `54280` · Digistore24 productId `639607` · [HTML profile page](../../reviews/sleep-hacking-fall-asleep-in-10-minutes-75-commissions-54280.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $117.40 (Single payment) |
+| Price | $117.47 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $88.05 |
+| Earnings/sale* | $88.11 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
-- How much? — 117.40050000000001 USD
+- How much? — 117.474 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639607
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639607/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sleep%20Hacking%3A%20Fall%20Asleep%20in%2010%20Minutes%20%7C%2075%25%20Commissions
 
 ## 4. Editorial notes

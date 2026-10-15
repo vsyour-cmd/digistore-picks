@@ -4,7 +4,7 @@ digistore24_product_id: 600748
 title: "Stop Procrastinating Now – 100 Powerful Tips"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 10.06
+price: 10.07
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.03
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/51683/adminstore/"
+promo_link: "https://heikoboos.com/stop-procrastinating-now?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/stop-procrastinating-now"
 language: "en"
 ---
 # Stop Procrastinating Now – 100 Powerful Tips
 
 > Product ID `51683` · Digistore24 productId `600748` · [HTML profile page](../../reviews/stop-procrastinating-now-100-powerful-tips-51683.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.06 (Single payment) |
+| Price | $10.07 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51683/adminstore/
+- **Promo link (affiliate):** https://heikoboos.com/stop-procrastinating-now?aff=adminstore#aff=adminstore
 - Sales page: https://heikoboos.com/stop-procrastinating-now
 - Canonical redirect: https://www.digistore24.com/redir/600748/adminstore
 
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-03-09
-- How much? — 10.0629 USD
+- How much? — 10.0692 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stop Procrastinating Now – 100 Powerful Tips alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/600748
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/600748/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Stop%20Procrastinating%20Now%20%E2%80%93%20100%20Powerful%20Tips
 
 ## 4. Editorial notes

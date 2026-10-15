@@ -4,7 +4,7 @@ digistore24_product_id: 595434
 title: "5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 9.4
+price: 9.41
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.71
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-02-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/595434?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/595434"
@@ -22,14 +22,14 @@ language: "en"
 # 5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS
 
 > Product ID `51330` · Digistore24 productId `595434` · [HTML profile page](../../reviews/5-in-1-mega-plr-bestseller-the-social-media-bundle-bonus-51330.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $9.40 (Single payment) |
+| Price | $9.41 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.71 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-02-10
-- How much? — 9.403221 USD
+- How much? — 9.409108 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/595434
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/595434/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=5-in-%201%20MEGA%20PLR%20BESTSELLER%3A%20the%20Social%20Media%20Bundle%2B%20BONUS
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://marketplace.iotsystemsgrowth.com/small-business-customer-growth-toolkit-digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://marketplace.iotsystemsgrowth.com/small-business-customer-growth-toolkit-digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # Small Business Customer Growth Toolkit for Local Businesses
 
 > Product ID `58694` · Digistore24 productId `724574` · [HTML profile page](../../reviews/small-business-customer-growth-toolkit-for-local-businesses-58694.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Small Business Customer Growth Toolkit for Local Businesses alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/724574
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724574/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Small%20Business%20Customer%20Growth%20Toolkit%20for%20Local%20Businesses
 
 ## 4. Editorial notes

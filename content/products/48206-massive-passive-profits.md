@@ -4,16 +4,16 @@ digistore24_product_id: 553248
 title: "Massive Passive Profits"
 vendor: "massiveai"
 product_type: "Software"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.03
+earnings_per_sale: 31.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2024-05-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.massivepassiveai.com/index1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.massivepassiveai.com/index1.html"
@@ -22,16 +22,16 @@ language: "en"
 # Massive Passive Profits
 
 > Product ID `48206` · Digistore24 productId `553248` · [HTML profile page](../../reviews/massive-passive-profits-48206.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.03 |
+| Earnings/sale* | $31.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | massiveai |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: massiveai, listed since 2024-05-21
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Massive Passive Profits alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/553248
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553248/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Massive%20Passive%20Profits
 
 ## 4. Editorial notes

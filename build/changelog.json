@@ -2,6 +2,15 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-15",
+      "summary": "Sitemap integrity hardening: FAQ hub pages are now discovered by directory scan instead of the per-category list — the uncategorized-group FAQ page was missing from the sitemap, and 3 stale offer pages (2 delisted offers, 1 retitled listing) were pruned. Daily articles and all tables refreshed from the 2026-10-14 snapshot; the marketplace scrape itself runs in the companion tooling session.",
+      "changes": [
+        "build-extras: faq/ directory scan replaces per-category sitemap entries (both sites)",
+        "prune-stale: faq/ dir added to the sweep; 3 stale review pages removed",
+        "full QA re-verified: all gates green, sitemap coverage 0 missing (EN 1805 / DE 4917 URLs)"
+      ]
+    },
+    {
       "date": "2026-10-13c",
       "summary": "Correction: an earlier \"official promo link\" rollout was reverted. The marketplace promolink API echoes back whatever identifier is passed, but the redir system only accepts vendor product-IDs — links generated from marketplace IDs pointed at the wrong products. All CTAs are back on the correct three-tier links (vendor sales page + affiliate parameter, or the canonical redir/product-ID fallback). Full button-by-button consistency check: 5,518/5,518 product pages match the dataset.",
       "changes": [

@@ -4,16 +4,16 @@ digistore24_product_id: 443554
 title: "AffiliateOne"
 vendor: "breakoutindustries"
 product_type: "Member area and video courses"
-price: 18.93
+price: 18.94
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.47
+earnings_per_sale: 9.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://affiliate-one.com/digi-fe?aff=adminstore#aff=adminstore"
 sales_page: "https://affiliate-one.com/digi-fe"
@@ -22,16 +22,16 @@ language: "en"
 # AffiliateOne
 
 > Product ID `40126` · Digistore24 productId `443554` · [HTML profile page](../../reviews/affiliateone-40126.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $18.93 (Single payment) |
+| Price | $18.94 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.47 |
+| Earnings/sale* | $9.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | breakoutindustries |
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: breakoutindustries, listed since 2022-05-20
-- How much? — 18.929433 USD
+- How much? — 18.941284 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AffiliateOne alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/443554
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/443554/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AffiliateOne
 
 ## 4. Editorial notes

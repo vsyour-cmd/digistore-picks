@@ -4,16 +4,16 @@ digistore24_product_id: 706747
 title: "Ebook - My Human Quest"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 82.12
+price: 82.18
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 41.07
+earnings_per_sale: 41.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/706747?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/706747"
@@ -22,22 +22,22 @@ language: "en"
 # Ebook - My Human Quest
 
 > Product ID `57168` · Digistore24 productId `706747` · [HTML profile page](../../reviews/ebook-my-human-quest-57168.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $82.12 (Single payment) |
+| Price | $82.18 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $41.07 |
+| Earnings/sale* | $41.09 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-06-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-06-29
-- How much? — 82.12444500000001 USD
+- How much? — 82.17586 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - My Human Quest alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/706747
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706747/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20My%20Human%20Quest
 
 ## 4. Editorial notes

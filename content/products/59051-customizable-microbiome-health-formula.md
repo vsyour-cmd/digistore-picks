@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/59051/adminstore/"
+promo_link: "https://microbiomehealthformula-3jp.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://microbiomehealthformula-3jp.plannerpack.co"
 language: "en"
 ---
 # Customizable microbiome health formula
 
 > Product ID `59051` · Digistore24 productId `731580` · [HTML profile page](../../reviews/customizable-microbiome-health-formula-59051.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59051/adminstore/
+- **Promo link (affiliate):** https://microbiomehealthformula-3jp.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://microbiomehealthformula-3jp.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/731580/adminstore
 
@@ -79,7 +79,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Customizable microbiome health formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/731580
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731580/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Customizable%20microbiome%20health%20formula
 
 ## 4. Editorial notes

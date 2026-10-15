@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2023-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.thestockpilesavior.com/vsl/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thestockpilesavior.com/vsl/index.php"
@@ -22,7 +22,7 @@ language: "en"
 # Brand NEW Compliant Survival Offer
 
 > Product ID `44624` · Digistore24 productId `502394` · [HTML profile page](../../reviews/brand-new-compliant-survival-offer-44624.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Brand NEW Compliant Survival Offer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/502394
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/502394/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Brand%20NEW%20Compliant%20Survival%20Offer
 
 ## 4. Editorial notes

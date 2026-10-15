@@ -4,16 +4,16 @@ digistore24_product_id: 667670
 title: "Unlock Healthcare Automation with n8n"
 vendor: "MohammedAsif_k"
 product_type: "E-books"
-price: 8.94
+price: 8.95
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 3.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Software"]
+categories: ["Health & Fitness","Software","Education"]
 listed_since: "2026-02-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/667670?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/667670"
@@ -22,14 +22,14 @@ language: "en"
 # Unlock Healthcare Automation with n8n
 
 > Product ID `55508` · Digistore24 productId `667670` · [HTML profile page](../../reviews/unlock-healthcare-automation-with-n8n-55508.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $8.94 (Single payment) |
+| Price | $8.95 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $3.13 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | MohammedAsif_k |
 | Listed since | 2026-02-09 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Software |
+| Categories | Health & Fitness, Software, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: MohammedAsif_k, listed since 2026-02-09
-- How much? — 8.9448 USD
+- How much? — 8.9504 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Healthcare Automation with n8n alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/667670
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/667670/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unlock%20Healthcare%20Automation%20with%20n8n
 
 ## 4. Editorial notes

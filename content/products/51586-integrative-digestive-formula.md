@@ -4,16 +4,16 @@ digistore24_product_id: 599474
 title: "Integrative Digestive Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 44.67
+price: 44.7
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 26.8
+earnings_per_sale: 26.82
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-03-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Integrative-Digestive-Formula/Surprising-Digestion-Secret.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Integrative Digestive Formula
 
 > Product ID `51586` · Digistore24 productId `599474` · [HTML profile page](../../reviews/integrative-digestive-formula-51586.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $44.67 (Single payment) |
+| Price | $44.70 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $26.80 |
+| Earnings/sale* | $26.82 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -103,14 +103,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-03-03
-- How much? — 44.66809500000001 USD
+- How much? — 44.69606 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Integrative Digestive Formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/599474
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/599474/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Integrative%20Digestive%20Formula
 
 ## 4. Editorial notes

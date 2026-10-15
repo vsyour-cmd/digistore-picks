@@ -4,16 +4,16 @@ digistore24_product_id: 571905
 title: "Cat Body Language"
 vendor: "MyoWinKyaw"
 product_type: "E-books"
-price: 22.36
+price: 22.38
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2024-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/571905?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/571905"
@@ -22,16 +22,16 @@ language: "en"
 # Cat Body Language
 
 > Product ID `50128` · Digistore24 productId `571905` · [HTML profile page](../../reviews/cat-body-language-50128.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.36 (Single payment) |
+| Price | $22.38 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MyoWinKyaw |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: MyoWinKyaw, listed since 2024-09-24
-- How much? — 22.362000000000002 USD
+- How much? — 22.376 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Cat Body Language alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/571905
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/571905/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Cat%20Body%20Language
 
 ## 4. Editorial notes

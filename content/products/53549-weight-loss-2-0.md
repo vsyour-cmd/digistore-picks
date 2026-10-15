@@ -4,34 +4,34 @@ digistore24_product_id: 629054
 title: "Weight Loss 2.0"
 vendor: "DS123456789"
 product_type: "Member area and video courses"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 41.09
+earnings_per_sale: 41.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53549/adminstore/"
+promo_link: "https://weightlosssoft.com/ds.html?aff=adminstore#aff=adminstore"
 sales_page: "https://weightlosssoft.com/ds.html"
 language: "en"
 ---
 # Weight Loss 2.0
 
 > Product ID `53549` · Digistore24 productId `629054` · [HTML profile page](../../reviews/weight-loss-2-0-53549.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $54.79 (Single payment) |
+| Price | $54.82 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $41.09 |
+| Earnings/sale* | $41.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DS123456789 |
@@ -46,7 +46,7 @@ GREAT PRODUCT: We have one of the lowest refund rates around. Start promoting to
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53549/adminstore/
+- **Promo link (affiliate):** https://weightlosssoft.com/ds.html?aff=adminstore#aff=adminstore
 - Sales page: https://weightlosssoft.com/ds.html
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/weight-loss-20
 - Canonical redirect: https://www.digistore24.com/redir/629054/adminstore
@@ -91,14 +91,14 @@ GREAT PRODUCT: We have one of the lowest refund rates around. Start promoting to
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: DS123456789, listed since 2025-08-11
-- How much? — 54.7869 USD
+- How much? — 54.8212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Weight Loss 2.0 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/629054
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/629054/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Weight%20Loss%202.0
 
 ## 4. Editorial notes

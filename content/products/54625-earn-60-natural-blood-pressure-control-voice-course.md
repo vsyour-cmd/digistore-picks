@@ -4,40 +4,40 @@ digistore24_product_id: 646350
 title: "Earn 60% - Natural Blood Pressure Control(Voice Course)"
 vendor: "secondwavetech"
 product_type: "Member area and video courses"
-price: 111.8
+price: 111.87
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 67.07
+earnings_per_sale: 67.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Education"]
 listed_since: "2025-11-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/54625/adminstore/"
+promo_link: "https://www.healthvoice.life/sale.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.healthvoice.life/sale.html"
 language: "en"
 ---
 # Earn 60% - Natural Blood Pressure Control(Voice Course)
 
 > Product ID `54625` · Digistore24 productId `646350` · [HTML profile page](../../reviews/earn-60-natural-blood-pressure-control-voice-course-54625.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $111.80 (Single payment, Subscription) |
+| Price | $111.87 (Single payment, Subscription) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $67.07 |
+| Earnings/sale* | $67.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | secondwavetech |
 | Listed since | 2025-11-05 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54625/adminstore/
+- **Promo link (affiliate):** https://www.healthvoice.life/sale.html?aff=adminstore#aff=adminstore
 - Sales page: https://www.healthvoice.life/sale.html
 - Canonical redirect: https://www.digistore24.com/redir/646350/adminstore
 
@@ -70,14 +70,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: secondwavetech, listed since 2025-11-05
-- How much? — 111.79881900000001 USD
+- How much? — 111.86881199999999 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% - Natural Blood Pressure Control(Voice Course) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/646350
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646350/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2060%25%20-%20Natural%20Blood%20Pressure%20Control(Voice%20Course)
 
 ## 4. Editorial notes

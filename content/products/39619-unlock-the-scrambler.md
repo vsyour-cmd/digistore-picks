@@ -4,34 +4,34 @@ digistore24_product_id: 428168
 title: "Unlock the Scrambler"
 vendor: "bobbyrio"
 product_type: "Member area and video courses"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 17.67
+earnings_per_sale: 17.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2022-02-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/39619/adminstore/"
+promo_link: "https://socialmistakes.com/newtechnique?aff=adminstore#aff=adminstore"
 sales_page: "https://socialmistakes.com/newtechnique"
 language: "en"
 ---
 # Unlock the Scrambler
 
 > Product ID `39619` · Digistore24 productId `428168` · [HTML profile page](../../reviews/unlock-the-scrambler-39619.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $17.67 |
+| Earnings/sale* | $17.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | bobbyrio |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39619/adminstore/
+- **Promo link (affiliate):** https://socialmistakes.com/newtechnique?aff=adminstore#aff=adminstore
 - Sales page: https://socialmistakes.com/newtechnique
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/unlock-the-scrambler
 - Canonical redirect: https://www.digistore24.com/redir/428168/adminstore
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: bobbyrio, listed since 2022-02-04
-- How much? — 88.32990000000001 USD
+- How much? — 88.3852 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock the Scrambler alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/428168
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/428168/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unlock%20the%20Scrambler
 
 ## 4. Editorial notes

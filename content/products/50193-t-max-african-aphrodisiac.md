@@ -4,34 +4,34 @@ digistore24_product_id: 577057
 title: "T-Max - African Aphrodisiac"
 vendor: "AlSearsMD"
 product_type: "Supplements - health"
-price: 55.85
+price: 55.88
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 36.3
+earnings_per_sale: 36.33
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50193/adminstore/"
+promo_link: "https://partners.primalforce.net/sp/sex-root-video-digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://partners.primalforce.net/sp/sex-root-video-digi/"
 language: "en"
 ---
 # T-Max - African Aphrodisiac
 
 > Product ID `50193` · Digistore24 productId `577057` · [HTML profile page](../../reviews/t-max-african-aphrodisiac-50193.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $55.85 (Single payment) |
+| Price | $55.88 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $36.30 |
+| Earnings/sale* | $36.33 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlSearsMD |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50193/adminstore/
+- **Promo link (affiliate):** https://partners.primalforce.net/sp/sex-root-video-digi/?aff=adminstore#aff=adminstore
 - Sales page: https://partners.primalforce.net/sp/sex-root-video-digi/
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/TMax-African-Aphrodisiac
 - Canonical redirect: https://www.digistore24.com/redir/577057/adminstore
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: AlSearsMD, listed since 2024-10-24
-- How much? — 55.849095000000005 USD
+- How much? — 55.884060000000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: T-Max - African Aphrodisiac alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/577057
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577057/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=T-Max%20-%20African%20Aphrodisiac
 
 ## 4. Editorial notes

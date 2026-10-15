@@ -10,10 +10,10 @@ affiliate_commission_pct: 0
 earnings_per_sale: 30
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Software","Trading Products","Finances"]
+categories: ["Trading Products","Software","Finances"]
 listed_since: "2026-07-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://btcbeep.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://btcbeep.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Earn $30 Per Sale Promoting a Bitcoin / Ethereum AI Signals
 
 > Product ID `57456` · Digistore24 productId `709524` · [HTML profile page](../../reviews/earn-30-per-sale-promoting-a-bitcoin-ethereum-ai-signals-57456.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | btcbeep |
 | Listed since | 2026-07-08 |
 | Auto-accept affiliates | yes |
-| Categories | Software, Trading Products, Finances |
+| Categories | Trading Products, Software, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -103,7 +103,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn $30 Per Sale Promoting a Bitcoin / Ethereum AI Signals alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/709524
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709524/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%20%2430%20Per%20Sale%20Promoting%20a%20Bitcoin%20%2F%20Ethereum%20AI%20Signals
 
 ## 4. Editorial notes

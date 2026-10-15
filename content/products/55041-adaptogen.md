@@ -4,34 +4,34 @@ digistore24_product_id: 646969
 title: "AdaptoGen"
 vendor: "SvetDimitrov"
 product_type: "Supplements - for slimming"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 43.83
+earnings_per_sale: 43.86
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55041/adminstore/"
+promo_link: "https://suppting.com/adaptogen-4-0-2025/?aff=adminstore#aff=adminstore"
 sales_page: "https://suppting.com/adaptogen-4-0-2025/"
 language: "en"
 ---
 # AdaptoGen
 
 > Product ID `55041` · Digistore24 productId `646969` · [HTML profile page](../../reviews/adaptogen-55041.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $54.79 (Single payment) |
+| Price | $54.82 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $43.83 |
+| Earnings/sale* | $43.86 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SvetDimitrov |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55041/adminstore/
+- **Promo link (affiliate):** https://suppting.com/adaptogen-4-0-2025/?aff=adminstore#aff=adminstore
 - Sales page: https://suppting.com/adaptogen-4-0-2025/
 - Vendor affiliate support: https://suppting.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646969/adminstore
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: SvetDimitrov, listed since 2025-11-07
-- How much? — 54.7869 USD
+- How much? — 54.8212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AdaptoGen alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/646969
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646969/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AdaptoGen
 
 ## 4. Editorial notes

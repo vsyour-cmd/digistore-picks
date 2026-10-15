@@ -4,16 +4,16 @@ digistore24_product_id: 513927
 title: "Herbal Remedies for Everyday Ailments"
 vendor: "Monis007"
 product_type: "E-books"
-price: 13.42
+price: 13.43
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 9.39
+earnings_per_sale: 9.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Survival"]
 listed_since: "2023-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://socialartiste7.systeme.io/herbalremedy?aff=adminstore#aff=adminstore"
 sales_page: "https://socialartiste7.systeme.io/herbalremedy"
@@ -22,16 +22,16 @@ language: "en"
 # Herbal Remedies for Everyday Ailments
 
 > Product ID `45146` · Digistore24 productId `513927` · [HTML profile page](../../reviews/herbal-remedies-for-everyday-ailments-45146.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.42 (Single payment) |
+| Price | $13.43 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $9.39 |
+| Earnings/sale* | $9.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Monis007 |
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Monis007, listed since 2023-08-27
-- How much? — 13.417200000000001 USD
+- How much? — 13.4256 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Herbal Remedies for Everyday Ailments alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/513927
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/513927/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Herbal%20Remedies%20for%20Everyday%20Ailments
 
 ## 4. Editorial notes

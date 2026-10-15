@@ -4,16 +4,16 @@ digistore24_product_id: 575363
 title: "Nerve Fresh"
 vendor: "premvitality"
 product_type: "Supplements - health"
-price: 181.08
+price: 181.19
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 109.83
+earnings_per_sale: 109.9
 cart_conversion_pct: 10
 cancel_rate_pct: 14.07
 categories: ["Food Supplements"]
 listed_since: "2024-10-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://secure.nervefresh.com/index-nf-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://secure.nervefresh.com/index-nf-ds"
@@ -22,16 +22,16 @@ language: "en"
 # Nerve Fresh
 
 > Product ID `50226` · Digistore24 productId `575363` · [HTML profile page](../../reviews/nerve-fresh-50226.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $181.08 (Single payment) |
+| Price | $181.19 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $109.83 |
+| Earnings/sale* | $109.90 |
 | Cart conversion* | 10% |
 | Cancel rate* | 14.07% |
 | Vendor | premvitality |
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: premvitality, listed since 2024-10-15
-- How much? — 181.07629500000002 USD
+- How much? — 181.18966 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nerve Fresh alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/575363
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/575363/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Nerve%20Fresh
 
 ## 4. Editorial notes

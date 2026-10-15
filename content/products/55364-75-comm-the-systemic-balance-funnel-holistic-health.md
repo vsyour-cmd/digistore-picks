@@ -4,16 +4,16 @@ digistore24_product_id: 661305
 title: "75% Comm | The \"Systemic Balance\" Funnel | Holistic Health |"
 vendor: "PlanetaVida"
 product_type: "Member area and video courses"
-price: 21.24
+price: 21.26
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 15.93
+earnings_per_sale: 15.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children"]
 listed_since: "2026-01-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.pv-en.com/front-end-offers-getting-back-on-track-d24-usa?aff=adminstore#aff=adminstore"
 sales_page: "https://www.pv-en.com/front-end-offers-getting-back-on-track-d24-usa"
@@ -22,22 +22,22 @@ language: "en"
 # 75% Comm | The "Systemic Balance" Funnel | Holistic Health |
 
 > Product ID `55364` · Digistore24 productId `661305` · [HTML profile page](../../reviews/75-comm-the-systemic-balance-funnel-holistic-health-55364.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $21.24 (Single payment) |
+| Price | $21.26 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $15.93 |
+| Earnings/sale* | $15.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PlanetaVida |
 | Listed since | 2026-01-14 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Family & Children, Health & Fitness |
+| Categories | Health & Fitness, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: PlanetaVida, listed since 2026-01-14
-- How much? — 21.243900000000004 USD
+- How much? — 21.2572 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 75% Comm | The "Systemic Balance" Funnel | Holistic Health | alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/661305
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/661305/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=75%25%20Comm%20%7C%20The%20%22Systemic%20Balance%22%20Funnel%20%7C%20Holistic%20Health%20%7C
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 25
 earnings_per_sale: 39.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+categories: ["Profession & Job","Hobby & Craft","Photography & Film"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/#special-deal&aff=adminstore."
 sales_page: "https://www.tonytextures.com/ai-generated-cutout-people-architectural-entourage-how-to/#special-deal"
@@ -22,7 +22,7 @@ language: "en"
 # Architecture VIZ Graphics – Cutout People Bundle for $159
 
 > Product ID `59160` · Digistore24 productId `727770` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-people-bundle-for-159-59160.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Tonytextures |
 | Listed since | 2026-09-13 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Hobby & Craft, Photography & Film, Profession & Job |
+| Categories | Profession & Job, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Architecture VIZ Graphics – Cutout People Bundle for $159 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727770
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727770/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Architecture%20VIZ%20Graphics%20%E2%80%93%20Cutout%20People%20Bundle%20for%20%24159
 
 ## 4. Editorial notes

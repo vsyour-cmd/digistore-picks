@@ -4,16 +4,16 @@ digistore24_product_id: 685232
 title: "Promote Manjuba Caps Now!"
 vendor: "healthcode"
 product_type: "Supplements - health"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 180.8
+earnings_per_sale: 180.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.manjubadrops.com/edcaps-dtc?aff=adminstore#aff=adminstore"
 sales_page: "https://www.manjubadrops.com/edcaps-dtc"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Manjuba Caps Now!
 
 > Product ID `56354` · Digistore24 productId `685232` · [HTML profile page](../../reviews/promote-manjuba-caps-now-56354.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $180.80 |
+| Earnings/sale* | $180.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | healthcode |
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: healthcode, listed since 2026-04-16
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote Manjuba Caps Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/685232
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/685232/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20Manjuba%20Caps%20Now!
 
 ## 4. Editorial notes

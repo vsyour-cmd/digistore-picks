@@ -4,16 +4,16 @@ digistore24_product_id: 658176
 title: "Media Kit Template - Create Your Business Card!"
 vendor: "sarahvisita"
 product_type: "Downloads"
-price: 21.24
+price: 21.26
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 2.12
+earnings_per_sale: 2.13
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Marketing Services"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/658176?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/658176"
@@ -22,16 +22,16 @@ language: "en"
 # Media Kit Template - Create Your Business Card!
 
 > Product ID `55896` · Digistore24 productId `658176` · [HTML profile page](../../reviews/media-kit-template-create-your-business-card-55896.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $21.24 (Single payment) |
+| Price | $21.26 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $2.12 |
+| Earnings/sale* | $2.13 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | sarahvisita |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: sarahvisita, listed since 2025-12-30
-- How much? — 21.243900000000004 USD
+- How much? — 21.2572 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Media Kit Template - Create Your Business Card! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/658176
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658176/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Media%20Kit%20Template%20-%20Create%20Your%20Business%20Card!
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 552603
 title: "https://dentitox24.com/help/affiliates.php"
 vendor: "Dentitox"
 product_type: "Supplements - health"
-price: 179.47
+price: 179.58
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 117.07
+earnings_per_sale: 117.14
 cart_conversion_pct: 6
 cancel_rate_pct: 2.83
 categories: ["Food Supplements"]
 listed_since: "2024-05-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48165/adminstore/"
+promo_link: "https://dentitox24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://dentitox24.com/text.php"
 language: "en"
 ---
 # https://dentitox24.com/help/affiliates.php
 
 > Product ID `48165` · Digistore24 productId `552603` · [HTML profile page](../../reviews/https-dentitox24-com-help-affiliates-php-48165.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $179.47 (Single payment) |
+| Price | $179.58 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $117.07 |
+| Earnings/sale* | $117.14 |
 | Cart conversion* | 6% |
 | Cancel rate* | 2.83% |
 | Vendor | Dentitox |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48165/adminstore/
+- **Promo link (affiliate):** https://dentitox24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: https://dentitox24.com/text.php
 - Vendor affiliate support: https://dentitox24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/552603/adminstore
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Dentitox, listed since 2024-05-16
-- How much? — 179.466231 USD
+- How much? — 179.578588 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: https://dentitox24.com/help/affiliates.php alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/552603
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/552603/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=https%3A%2F%2Fdentitox24.com%2Fhelp%2Faffiliates.php
 
 ## 4. Editorial notes

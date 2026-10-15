@@ -4,16 +4,16 @@ digistore24_product_id: 577442
 title: "No. 1 Email Marketing Profit Package on Digistore24"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.39
+earnings_per_sale: 27.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-10-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-email-marketing-fundamentals?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/the-email-marketing-fundamentals"
@@ -22,22 +22,22 @@ language: "en"
 # No. 1 Email Marketing Profit Package on Digistore24
 
 > Product ID `50252` · Digistore24 productId `577442` · [HTML profile page](../../reviews/no-1-email-marketing-profit-package-on-digistore24-50252.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $54.79 (Single payment, Installment) |
+| Price | $54.82 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.39 |
+| Earnings/sale* | $27.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
 | Listed since | 2024-10-27 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-27
-- How much? — 54.7869 USD
+- How much? — 54.8212 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: No. 1 Email Marketing Profit Package on Digistore24 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/577442
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577442/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=No.%201%20Email%20Marketing%20Profit%20Package%20on%20Digistore24
 
 ## 4. Editorial notes

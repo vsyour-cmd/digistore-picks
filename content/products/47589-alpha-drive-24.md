@@ -4,34 +4,34 @@ digistore24_product_id: 544750
 title: "Alpha Drive 24"
 vendor: "alphadrive24"
 product_type: "Supplements - health"
-price: 137.82
+price: 137.9
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 127.88
+earnings_per_sale: 127.96
 cart_conversion_pct: 6
 cancel_rate_pct: 15.45
 categories: ["Food Supplements"]
 listed_since: "2024-03-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47589/adminstore/"
+promo_link: "https://alphadrive24.com/landing-page--v2?aff=adminstore#aff=adminstore"
 sales_page: "https://alphadrive24.com/landing-page--v2"
 language: "en"
 ---
 # Alpha Drive 24
 
 > Product ID `47589` · Digistore24 productId `544750` · [HTML profile page](../../reviews/alpha-drive-24-47589.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $137.82 (Single payment) |
+| Price | $137.90 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $127.88 |
+| Earnings/sale* | $127.96 |
 | Cart conversion* | 6% |
 | Cancel rate* | 15.45% |
 | Vendor | alphadrive24 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47589/adminstore/
+- **Promo link (affiliate):** https://alphadrive24.com/landing-page--v2?aff=adminstore#aff=adminstore
 - Sales page: https://alphadrive24.com/landing-page--v2
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/alpha-drive-24
 - Canonical redirect: https://www.digistore24.com/redir/544750/adminstore
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: alphadrive24, listed since 2024-03-21
-- How much? — 137.81700600000002 USD
+- How much? — 137.903288 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Alpha Drive 24 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/544750
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/544750/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Alpha%20Drive%2024
 
 ## 4. Editorial notes

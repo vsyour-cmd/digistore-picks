@@ -4,16 +4,16 @@ digistore24_product_id: 361682
 title: "Passive Income System 2.0"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 944.47
+price: 945.06
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 365.21
+earnings_per_sale: 365.43
 cart_conversion_pct: 2
 cancel_rate_pct: 19.2
 categories: ["Online Marketing & E-Business"]
 listed_since: "2020-12-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vipliveclass.com/aff?aff=adminstore#aff=adminstore"
 sales_page: "https://vipliveclass.com/aff"
@@ -22,16 +22,16 @@ language: "en"
 # Passive Income System 2.0
 
 > Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](../../reviews/passive-income-system-2-0-44042.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $944.47 (Single payment) |
+| Price | $945.06 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $365.21 |
+| Earnings/sale* | $365.43 |
 | Cart conversion* | 2% |
 | Cancel rate* | 19.2% |
 | Vendor | impassive |
@@ -68,14 +68,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2020-12-07
-- How much? — 944.4702510000001 USD
+- How much? — 945.061548 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Passive Income System 2.0 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/361682
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/361682/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Passive%20Income%20System%202.0
 
 ## 4. Editorial notes

@@ -1,7 +1,7 @@
 ---
 product_id: "60423"
 digistore24_product_id: 725222
-title: "Fat Decimator Is A Conversion Monster -October Contest Live!"
+title: "Fat Decimator Is A Conversion Monster -Top Aff Contest Live!"
 vendor: "green4home"
 product_type: "Downloads"
 price: 37
@@ -10,19 +10,19 @@ affiliate_commission_pct: 85
 earnings_per_sale: 31.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60423/adminstore/"
+promo_link: "https://primemark-health.com/fat-decimator?aff=adminstore#aff=adminstore"
 sales_page: "https://primemark-health.com/fat-decimator"
 language: "en"
 ---
-# Fat Decimator Is A Conversion Monster -October Contest Live!
+# Fat Decimator Is A Conversion Monster -Top Aff Contest Live!
 
-> Product ID `60423` · Digistore24 productId `725222` · [HTML profile page](../../reviews/fat-decimator-is-a-conversion-monster-october-contest-live-60423.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Product ID `60423` · Digistore24 productId `725222` · [HTML profile page](../../reviews/fat-decimator-is-a-conversion-monster-top-aff-contest-live-60423.html)
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,15 +37,15 @@ language: "en"
 | Vendor | green4home |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** Top Digistore24 Affiliates Are All Promoting This Health Offer & Conversions Are Over 8% & $3-4 Epc from Cold And Warm Traffic signup at our form. Note: The Contest Entry & 90% Commission Tier is only available for Digistore24 Affiliates with 10 sales in Commissions Signup now on the form on our Affiliate page and start stockpiling cash now
+**Vendor's marketplace description:** From One of the Best Selling Digistore24 Vendors comes this Media Monster Top Digistore24 Affiliates Are All Promoting This Health Offer & Conversions Are Over 8% & $3-4 Epc from Cold And Warm Traffic signup at our form. Note: The Contest Entry & 90% Commission Tier is only available for Digistore24 Affiliates with 10 sales in Commissions Signup now on the form on our Affiliate page and start stockpiling cash now
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60423/adminstore/
+- **Promo link (affiliate):** https://primemark-health.com/fat-decimator?aff=adminstore#aff=adminstore
 - Sales page: https://primemark-health.com/fat-decimator
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/725222/adminstore
@@ -82,9 +82,9 @@ language: "en"
 
 ### 3e. Related links & interaction
 
-- Related searches on the profile page: Fat Decimator Is A Conversion Monster -October Contest Live! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/725222
-- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fat%20Decimator%20Is%20A%20Conversion%20Monster%20-October%20Contest%20Live!
+- Related searches on the profile page: Fat Decimator Is A Conversion Monster -Top Aff Contest Live! alternatives · price & data · review & research
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725222/
+- Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fat%20Decimator%20Is%20A%20Conversion%20Monster%20-Top%20Aff%20Contest%20Live!
 
 ## 4. Editorial notes
 

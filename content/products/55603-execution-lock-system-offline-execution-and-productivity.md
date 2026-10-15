@@ -4,32 +4,32 @@ digistore24_product_id: 663908
 title: "Execution Lock System – Offline Execution and Productivity"
 vendor: "El_patronship"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Services","Software"]
+categories: ["Personal Development","Software","Services"]
 listed_since: "2026-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55603/adminstore/"
+promo_link: "https://nexora-boost.xyz/execution%20lock%20system/?aff=adminstore#aff=adminstore"
 sales_page: "https://nexora-boost.xyz/execution%20lock%20system/"
 language: "en"
 ---
 # Execution Lock System – Offline Execution and Productivity
 
 > Product ID `55603` · Digistore24 productId `663908` · [HTML profile page](../../reviews/execution-lock-system-offline-execution-and-productivity-55603.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | El_patronship |
 | Listed since | 2026-01-24 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Services, Software |
+| Categories | Personal Development, Software, Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55603/adminstore/
+- **Promo link (affiliate):** https://nexora-boost.xyz/execution%20lock%20system/?aff=adminstore#aff=adminstore
 - Sales page: https://nexora-boost.xyz/execution%20lock%20system/
 - Vendor affiliate support: https://nexora-boost.xyz/execution%20lock%20system/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/663908/adminstore
@@ -77,14 +77,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2026-01-24
-- How much? — 22.350819 USD
+- How much? — 22.364811999999997 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Execution Lock System – Offline Execution and Productivity alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/663908
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/663908/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Execution%20Lock%20System%20%E2%80%93%20Offline%20Execution%20and%20Productivity
 
 ## 4. Editorial notes

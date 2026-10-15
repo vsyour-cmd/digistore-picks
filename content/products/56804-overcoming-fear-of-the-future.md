@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/697560?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/697560"
@@ -22,7 +22,7 @@ language: "en"
 # Overcoming Fear of the Future
 
 > Product ID `56804` · Digistore24 productId `697560` · [HTML profile page](../../reviews/overcoming-fear-of-the-future-56804.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Overcoming Fear of the Future alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/697560
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697560/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Overcoming%20Fear%20of%20the%20Future
 
 ## 4. Editorial notes

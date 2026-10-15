@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 8.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Trading Products"]
+categories: ["Trading Products","Online Marketing & E-Business"]
 listed_since: "2024-11-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-cryptocurrency-secrets?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/the-cryptocurrency-secrets"
@@ -22,7 +22,7 @@ language: "en"
 # Your Gateway to the Crypto World – Cryptocurrency Secrets!
 
 > Product ID `50316` · Digistore24 productId `578528` · [HTML profile page](../../reviews/your-gateway-to-the-crypto-world-cryptocurrency-secrets-50316.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | HeikoBoos |
 | Listed since | 2024-11-03 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Trading Products |
+| Categories | Trading Products, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Your Gateway to the Crypto World – Cryptocurrency Secrets! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/578528
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/578528/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Your%20Gateway%20to%20the%20Crypto%20World%20%E2%80%93%20Cryptocurrency%20Secrets!
 
 ## 4. Editorial notes

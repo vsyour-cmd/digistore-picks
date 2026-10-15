@@ -4,16 +4,16 @@ digistore24_product_id: 638412
 title: "The Freedom Code"
 vendor: "AspireVerse"
 product_type: "E-books"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 12.29
+earnings_per_sale: 12.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Personal Development"]
+categories: ["Personal Development","Business & Investment","Education"]
 listed_since: "2025-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://freedomcode.aspireonecs.com?aff=adminstore#aff=adminstore"
 sales_page: "https://freedomcode.aspireonecs.com"
@@ -22,22 +22,22 @@ language: "en"
 # The Freedom Code
 
 > Product ID `54212` · Digistore24 productId `638412` · [HTML profile page](../../reviews/the-freedom-code-54212.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $12.29 |
+| Earnings/sale* | $12.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AspireVerse |
 | Listed since | 2025-09-28 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Personal Development |
+| Categories | Personal Development, Business & Investment, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: AspireVerse, listed since 2025-09-28
-- How much? — 22.350819 USD
+- How much? — 22.364811999999997 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Freedom Code alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/638412
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/638412/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Freedom%20Code
 
 ## 4. Editorial notes

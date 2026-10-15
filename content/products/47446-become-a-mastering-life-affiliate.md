@@ -4,16 +4,16 @@ digistore24_product_id: 542547
 title: "Become a \"Mastering Life\" Affiliate!"
 vendor: "Khonzani"
 product_type: "E-books"
-price: 21.24
+price: 21.26
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 8.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Personal Development"]
+categories: ["Personal Development","Business & Investment","Education"]
 listed_since: "2024-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/542547?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/542547"
@@ -22,14 +22,14 @@ language: "en"
 # Become a "Mastering Life" Affiliate!
 
 > Product ID `47446` · Digistore24 productId `542547` · [HTML profile page](../../reviews/become-a-mastering-life-affiliate-47446.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.24 (Single payment) |
+| Price | $21.26 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $8.50 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Khonzani |
 | Listed since | 2024-03-07 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Personal Development |
+| Categories | Personal Development, Business & Investment, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Khonzani, listed since 2024-03-07
-- How much? — 21.243900000000004 USD
+- How much? — 21.2572 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Become a "Mastering Life" Affiliate! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/542547
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/542547/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Become%20a%20%22Mastering%20Life%22%20Affiliate!
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 13.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Software"]
+categories: ["Software","Computer & Internet"]
 listed_since: "2026-06-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/701082?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/701082"
@@ -22,7 +22,7 @@ language: "en"
 # EBOOK Prompt Engineering for the AI Era + Toolkit
 
 > Product ID `57050` · Digistore24 productId `701082` · [HTML profile page](../../reviews/ebook-prompt-engineering-for-the-ai-era-toolkit-57050.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | inpherotecheee1 |
 | Listed since | 2026-06-18 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Software |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EBOOK Prompt Engineering for the AI Era + Toolkit alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/701082
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/701082/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=EBOOK%20Prompt%20Engineering%20for%20the%20AI%20Era%20%2B%20Toolkit
 
 ## 4. Editorial notes

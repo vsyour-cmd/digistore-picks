@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56795/adminstore/"
+promo_link: "https://www.offerlaunchpad.site/cpa-marketing-mastery?aff=adminstore#aff=adminstore"
 sales_page: "https://www.offerlaunchpad.site/cpa-marketing-mastery"
 language: "en"
 ---
 # Beginner-Friendly CPA Marketing Guide
 
 > Product ID `56795` · Digistore24 productId `697434` · [HTML profile page](../../reviews/beginner-friendly-cpa-marketing-guide-56795.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56795/adminstore/
+- **Promo link (affiliate):** https://www.offerlaunchpad.site/cpa-marketing-mastery?aff=adminstore#aff=adminstore
 - Sales page: https://www.offerlaunchpad.site/cpa-marketing-mastery
 - Vendor affiliate support: https://www.offerlaunchpad.site/cpa-marketing-mastery-affiliate-center
 - Canonical redirect: https://www.digistore24.com/redir/697434/adminstore
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beginner-Friendly CPA Marketing Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/697434
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/697434/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Beginner-Friendly%20CPA%20Marketing%20Guide
 
 ## 4. Editorial notes

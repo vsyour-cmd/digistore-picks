@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/57307/adminstore/"
+promo_link: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack&aff=adminstore#aff=adminstore"
 sales_page: "https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack"
 language: "en"
 ---
 # Earn Commission Promoting Dinosaur Rift Activity Pack
 
 > Product ID `57307` · Digistore24 productId `706782` · [HTML profile page](../../reviews/earn-commission-promoting-dinosaur-rift-activity-pack-57307.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57307/adminstore/
+- **Promo link (affiliate):** https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack&aff=adminstore#aff=adminstore
 - Sales page: https://maxmiaparentingsystem.blogspot.com/p/the-max-mia-parent-success-system.html?book=dinosaur-rift-activity-pack
 - Vendor affiliate support: https://maxmiaparentingsystem.blogspot.com/p/affiliate-center-max-mia-parent-success.html
 - Canonical redirect: https://www.digistore24.com/redir/706782/adminstore
@@ -74,7 +74,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn Commission Promoting Dinosaur Rift Activity Pack alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/706782
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/706782/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%20Commission%20Promoting%20Dinosaur%20Rift%20Activity%20Pack
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://manzbeltd.com?aff=adminstore#aff=adminstore"
 sales_page: "https://manzbeltd.com"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 55% Recurring Sales Commission. ($730+)
 
 > Product ID `59218` · Digistore24 productId `564751` · [HTML profile page](../../reviews/earn-55-recurring-sales-commission-730-59218.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -104,7 +104,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 55% Recurring Sales Commission. ($730+) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/564751
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564751/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2055%25%20Recurring%20Sales%20Commission.%20(%24730%2B)
 
 ## 4. Editorial notes

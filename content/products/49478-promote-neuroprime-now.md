@@ -4,16 +4,16 @@ digistore24_product_id: 570703
 title: "Promote NeuroPrime Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 274.5
+price: 274.68
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 75.96
+earnings_per_sale: 76.01
 cart_conversion_pct: 8
 cancel_rate_pct: 5.55
 categories: ["Food Supplements"]
 listed_since: "2024-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://theneuroprime.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://theneuroprime.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote NeuroPrime Now!
 
 > Product ID `49478` · Digistore24 productId `570703` · [HTML profile page](../../reviews/promote-neuroprime-now-49478.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $274.50 (Single payment) |
+| Price | $274.68 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $75.96 |
+| Earnings/sale* | $76.01 |
 | Cart conversion* | 8% |
 | Cancel rate* | 5.55% |
 | Vendor | zenmavibe |
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2024-09-16
-- How much? — 274.504731 USD
+- How much? — 274.676588 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote NeuroPrime Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/570703
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/570703/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20NeuroPrime%20Now!
 
 ## 4. Editorial notes

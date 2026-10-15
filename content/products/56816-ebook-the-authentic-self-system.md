@@ -4,16 +4,16 @@ digistore24_product_id: 698862
 title: "Ebook - The Authentic Self System"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 25.71
+price: 25.72
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.86
+earnings_per_sale: 12.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2026-06-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/698862?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/698862"
@@ -22,22 +22,22 @@ language: "en"
 # Ebook - The Authentic Self System
 
 > Product ID `56816` · Digistore24 productId `698862` · [HTML profile page](../../reviews/ebook-the-authentic-self-system-56816.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.71 (Single payment) |
+| Price | $25.72 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.86 |
+| Earnings/sale* | $12.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
 | Listed since | 2026-06-05 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-06-05
-- How much? — 25.705119 USD
+- How much? — 25.721211999999998 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - The Authentic Self System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/698862
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/698862/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20The%20Authentic%20Self%20System
 
 ## 4. Editorial notes

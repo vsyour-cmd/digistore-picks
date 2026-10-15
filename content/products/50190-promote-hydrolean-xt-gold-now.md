@@ -4,16 +4,16 @@ digistore24_product_id: 571423
 title: "Promote HydroLean XT Gold Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 258.06
+price: 258.22
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 83.31
+earnings_per_sale: 83.36
 cart_conversion_pct: 9
 cancel_rate_pct: 5.56
 categories: ["Food Supplements"]
 listed_since: "2024-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://hydroleanxt.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://hydroleanxt.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote HydroLean XT Gold Now!
 
 > Product ID `50190` · Digistore24 productId `571423` · [HTML profile page](../../reviews/promote-hydrolean-xt-gold-now-50190.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $258.06 (Single payment) |
+| Price | $258.22 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $83.31 |
+| Earnings/sale* | $83.36 |
 | Cart conversion* | 9% |
 | Cancel rate* | 5.56% |
 | Vendor | zenmavibe |
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2024-09-19
-- How much? — 258.05748000000006 USD
+- How much? — 258.21904 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote HydroLean XT Gold Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/571423
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/571423/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20HydroLean%20XT%20Gold%20Now!
 
 ## 4. Editorial notes

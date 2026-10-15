@@ -10,10 +10,10 @@ affiliate_commission_pct: 55
 earnings_per_sale: 7.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fun & Games","Hobby & Craft"]
+categories: ["Hobby & Craft","Fun & Games"]
 listed_since: "2026-07-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://craftypuzzlesandgamesebook-ao2.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Games and Puzzles for Creatives - Activity eBook
 
 > Product ID `57588` · Digistore24 productId `712937` · [HTML profile page](../../reviews/games-and-puzzles-for-creatives-activity-ebook-57588.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | KeepCreatingFun |
 | Listed since | 2026-07-18 |
 | Auto-accept affiliates | yes |
-| Categories | Fun & Games, Hobby & Craft |
+| Categories | Hobby & Craft, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Games and Puzzles for Creatives - Activity eBook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/712937
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712937/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Games%20and%20Puzzles%20for%20Creatives%20-%20Activity%20eBook
 
 ## 4. Editorial notes

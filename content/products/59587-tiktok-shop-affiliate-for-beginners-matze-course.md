@@ -4,34 +4,34 @@ digistore24_product_id: 736414
 title: "TikTok Shop Affiliate for Beginners – Matze Course"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.33
+earnings_per_sale: 35.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59587/adminstore/"
+promo_link: "https://www.digistore24.com/product/736414?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736414"
 language: "en"
 ---
 # TikTok Shop Affiliate for Beginners – Matze Course
 
 > Product ID `59587` · Digistore24 productId `736414` · [HTML profile page](../../reviews/tiktok-shop-affiliate-for-beginners-matze-course-59587.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.33 |
+| Earnings/sale* | $35.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59587/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/736414?aff=adminstore
 - Sales page: https://www.digistore24.com/product/736414
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736414/
 - Canonical redirect: https://www.digistore24.com/redir/736414/adminstore
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 88.32990000000001 USD
+- How much? — 88.3852 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TikTok Shop Affiliate for Beginners – Matze Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736414
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736414/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=TikTok%20Shop%20Affiliate%20for%20Beginners%20%E2%80%93%20Matze%20Course
 
 ## 4. Editorial notes

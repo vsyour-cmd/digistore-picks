@@ -4,16 +4,16 @@ digistore24_product_id: 646198
 title: "EMPIRE MINDS"
 vendor: "t_okelly"
 product_type: "E-books"
-price: 24.99
+price: 11.11
 currency: "USD"
 affiliate_commission_pct: 40.74
-earnings_per_sale: 10.18
+earnings_per_sale: 4.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Leadership & Management","Personal Development"]
+categories: ["Personal Development","Leadership & Management"]
 listed_since: "2025-11-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://empireminds.systeme.io/?aff=adminstore#aff=adminstore"
 sales_page: "https://empireminds.systeme.io/"
@@ -22,22 +22,22 @@ language: "en"
 # EMPIRE MINDS
 
 > Product ID `54782` · Digistore24 productId `646198` · [HTML profile page](../../reviews/empire-minds-54782.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.99 (Single payment) |
+| Price | $11.11 (Single payment) |
 | Affiliate commission | 40.74% |
-| Earnings/sale* | $10.18 |
+| Earnings/sale* | $4.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | t_okelly |
 | Listed since | 2025-11-04 |
 | Auto-accept affiliates | yes |
-| Categories | Leadership & Management, Personal Development |
+| Categories | Personal Development, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -79,14 +79,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: t_okelly, listed since 2025-11-04
-- How much? — 24.99 USD
+- How much? — 11.11 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: EMPIRE MINDS alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/646198
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646198/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=EMPIRE%20MINDS
 
 ## 4. Editorial notes

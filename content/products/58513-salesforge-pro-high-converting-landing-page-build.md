@@ -10,19 +10,19 @@ affiliate_commission_pct: 70
 earnings_per_sale: 312.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Software","Online Marketing"]
+categories: ["Software","Online Marketing & E-Business","Online Marketing"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58513/adminstore/"
+promo_link: "https://salesforgepro.netlify.app/#aff=adminstore."
 sales_page: "https://salesforgepro.netlify.app/"
 language: "en"
 ---
 # SalesForge Pro – High-Converting Landing Page Build
 
 > Product ID `58513` · Digistore24 productId `723073` · [HTML profile page](../../reviews/salesforge-pro-high-converting-landing-page-build-58513.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | manuelcosta |
 | Listed since | 2026-08-22 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software, Online Marketing |
+| Categories | Software, Online Marketing & E-Business, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58513/adminstore/
+- **Promo link (affiliate):** https://salesforgepro.netlify.app/#aff=adminstore.
 - Sales page: https://salesforgepro.netlify.app/
 - Vendor affiliate support: https://salesforgepro-affiliates.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/723073/adminstore
@@ -98,7 +98,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SalesForge Pro – High-Converting Landing Page Build alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/723073
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723073/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SalesForge%20Pro%20%E2%80%93%20High-Converting%20Landing%20Page%20Build
 
 ## 4. Editorial notes

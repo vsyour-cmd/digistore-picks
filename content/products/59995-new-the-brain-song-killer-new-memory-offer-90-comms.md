@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59995/adminstore/"
+promo_link: "http://puredaily-health.com/stronger-memory?aff=adminstore#aff=adminstore"
 sales_page: "http://puredaily-health.com/stronger-memory"
 language: "en"
 ---
 # NEW: The Brain Song - Killer NEW Memory Offer - 90% Comms
 
 > Product ID `59995` · Digistore24 productId `738155` · [HTML profile page](../../reviews/new-the-brain-song-killer-new-memory-offer-90-comms-59995.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59995/adminstore/
+- **Promo link (affiliate):** http://puredaily-health.com/stronger-memory?aff=adminstore#aff=adminstore
 - Sales page: http://puredaily-health.com/stronger-memory
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/738155/adminstore
@@ -84,7 +84,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Brain Song - Killer NEW Memory Offer - 90% Comms alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738155
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738155/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%20Brain%20Song%20-%20Killer%20NEW%20Memory%20Offer%20-%2090%25%20Comms
 
 ## 4. Editorial notes

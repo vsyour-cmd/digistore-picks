@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58761/adminstore/"
+promo_link: "https://5yrtimecapsulefaithfam13-eq5.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://5yrtimecapsulefaithfam13-eq5.plannerpack.co"
 language: "en"
 ---
 # 5 Year Time Capsule Experience for Families with Children 13+
 
 > Product ID `58761` · Digistore24 productId `727355` · [HTML profile page](../../reviews/5-year-time-capsule-experience-for-families-with-children-13-58761.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58761/adminstore/
+- **Promo link (affiliate):** https://5yrtimecapsulefaithfam13-eq5.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://5yrtimecapsulefaithfam13-eq5.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/727355/adminstore
 
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 5 Year Time Capsule Experience for Families with Children 13+ alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727355
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727355/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=5%20Year%20Time%20Capsule%20Experience%20for%20Families%20with%20Children%2013%2B
 
 ## 4. Editorial notes

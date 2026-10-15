@@ -4,16 +4,16 @@ digistore24_product_id: 565535
 title: "AlphaXtra Boost"
 vendor: "AlphaXtraBoost"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.15
+earnings_per_sale: 50.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-08-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://alphaxtraboost24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://alphaxtraboost24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # AlphaXtra Boost
 
 > Product ID `49050` · Digistore24 productId `565535` · [HTML profile page](../../reviews/alphaxtra-boost-49050.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.15 |
+| Earnings/sale* | $50.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlphaXtraBoost |
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: AlphaXtraBoost, listed since 2024-08-16
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AlphaXtra Boost alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/565535
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/565535/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AlphaXtra%20Boost
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 35
 earnings_per_sale: 19.28
 cart_conversion_pct: 45
 cancel_rate_pct: 3.3
-categories: ["Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Hobby & Craft"]
 listed_since: "2024-07-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.your-creatory.com/serger-overlocker-course-and-sewing-lessons/"
@@ -22,7 +22,7 @@ language: "en"
 # The Number 1 Serger and Overlocker Online Sewing Course
 
 > Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](../../reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | creatory |
 | Listed since | 2024-07-16 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -99,7 +99,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Number 1 Serger and Overlocker Online Sewing Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/561361
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/561361/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Number%201%20Serger%20and%20Overlocker%20Online%20Sewing%20Course
 
 ## 4. Editorial notes

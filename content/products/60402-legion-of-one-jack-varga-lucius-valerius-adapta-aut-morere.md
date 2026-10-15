@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://temporalschismlegionofone-5mp.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://temporalschismlegionofone-5mp.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Legion Of One: Jack Varga Lucius Valerius Adapta Aut Morere
 
 > Product ID `60402` · Digistore24 productId `743394` · [HTML profile page](../../reviews/legion-of-one-jack-varga-lucius-valerius-adapta-aut-morere-60402.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -105,7 +105,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Legion Of One: Jack Varga Lucius Valerius Adapta Aut Morere alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/743394
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743394/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Legion%20Of%20One%3A%20Jack%20Varga%20Lucius%20Valerius%20Adapta%20Aut%20Morere
 
 ## 4. Editorial notes

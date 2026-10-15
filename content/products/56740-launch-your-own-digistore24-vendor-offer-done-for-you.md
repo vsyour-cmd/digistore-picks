@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 1127
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development"]
+categories: ["Personal Development","Business & Investment"]
 listed_since: "2026-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.fromzerotocommission.site/dfy-vendor?aff=adminstore#aff=adminstore"
 sales_page: "https://www.fromzerotocommission.site/dfy-vendor"
@@ -22,7 +22,7 @@ language: "en"
 # Launch Your Own Digistore24 Vendor Offer — Done For You.
 
 > Product ID `56740` · Digistore24 productId `696321` · [HTML profile page](../../reviews/launch-your-own-digistore24-vendor-offer-done-for-you-56740.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | ZeroToCommission |
 | Listed since | 2026-05-28 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Business & Investment, Personal Development |
+| Categories | Personal Development, Business & Investment |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -128,7 +128,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Launch Your Own Digistore24 Vendor Offer — Done For You. alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/696321
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696321/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Launch%20Your%20Own%20Digistore24%20Vendor%20Offer%20%E2%80%94%20Done%20For%20You.
 
 ## 4. Editorial notes

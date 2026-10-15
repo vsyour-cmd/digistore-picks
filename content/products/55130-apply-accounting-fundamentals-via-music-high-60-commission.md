@@ -4,16 +4,16 @@ digistore24_product_id: 657454
 title: "Apply Accounting Fundamentals via Music, High 60% Commission"
 vendor: "patricia_sekael"
 product_type: "Downloads"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 18.11
+earnings_per_sale: 18.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2025-12-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sekael.com/sing-and-solve-accounting-apply-the-accounting-fundamentals/?aff=adminstore#aff=adminstore"
 sales_page: "https://sekael.com/sing-and-solve-accounting-apply-the-accounting-fundamentals/"
@@ -22,16 +22,16 @@ language: "en"
 # Apply Accounting Fundamentals via Music, High 60% Commission
 
 > Product ID `55130` · Digistore24 productId `657454` · [HTML profile page](../../reviews/apply-accounting-fundamentals-via-music-high-60-commission-55130.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $18.11 |
+| Earnings/sale* | $18.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | patricia_sekael |
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: patricia_sekael, listed since 2025-12-26
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Apply Accounting Fundamentals via Music, High 60% Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/657454
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/657454/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Apply%20Accounting%20Fundamentals%20via%20Music%2C%20High%2060%25%20Commission
 
 ## 4. Editorial notes

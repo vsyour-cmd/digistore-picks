@@ -4,16 +4,16 @@ digistore24_product_id: 684544
 title: "The Career Clarity Guide"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Profession & Job"]
+categories: ["Personal Development","Business & Investment","Profession & Job"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/684544?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684544"
@@ -22,22 +22,22 @@ language: "en"
 # The Career Clarity Guide
 
 > Product ID `56260` · Digistore24 productId `684544` · [HTML profile page](../../reviews/the-career-clarity-guide-56260.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
 | Listed since | 2026-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Profession & Job |
+| Categories | Personal Development, Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Career Clarity Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/684544
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684544/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Career%20Clarity%20Guide
 
 ## 4. Editorial notes

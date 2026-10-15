@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60241/adminstore/"
+promo_link: "https://getquantumheart.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://getquantumheart.com/"
 language: "en"
 ---
 # Quantum Heart
 
 > Product ID `60241` · Digistore24 productId `740076` · [HTML profile page](../../reviews/quantum-heart-60241.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60241/adminstore/
+- **Promo link (affiliate):** https://getquantumheart.com/?aff=adminstore#aff=adminstore
 - Sales page: https://getquantumheart.com/
 - Vendor affiliate support: https://getquantumheart.com/affiliates/digistore24
 - Canonical redirect: https://www.digistore24.com/redir/740076/adminstore
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quantum Heart alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/740076
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740076/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Quantum%20Heart
 
 ## 4. Editorial notes

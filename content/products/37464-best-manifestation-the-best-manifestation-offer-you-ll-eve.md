@@ -4,16 +4,16 @@ digistore24_product_id: 399213
 title: "Best Manifestation – The Best Manifestation Offer You’ll Eve"
 vendor: "Winarrow"
 product_type: "Audio book (download)"
-price: 42.49
+price: 42.51
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 27.62
+earnings_per_sale: 27.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2021-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.bestmanifestation.com/best-manifestation-ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.bestmanifestation.com/best-manifestation-ds/"
@@ -22,16 +22,16 @@ language: "en"
 # Best Manifestation – The Best Manifestation Offer You’ll Eve
 
 > Product ID `37464` · Digistore24 productId `399213` · [HTML profile page](../../reviews/best-manifestation-the-best-manifestation-offer-you-ll-eve-37464.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Audio book (download) |
-| Price | $42.49 (Single payment) |
+| Price | $42.51 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $27.62 |
+| Earnings/sale* | $27.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Winarrow |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Audio book (download), vendor: Winarrow, listed since 2021-07-22
-- How much? — 42.48780000000001 USD
+- How much? — 42.5144 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Best Manifestation – The Best Manifestation Offer You’ll Eve alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/399213
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/399213/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Best%20Manifestation%20%E2%80%93%20The%20Best%20Manifestation%20Offer%20You%E2%80%99ll%20Eve
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 624660
 title: "Earn Big Promoting the Notion Pro AI System – Resell Rights"
 vendor: "El_patronship"
 product_type: "Downloads"
-price: 19.57
+price: 19.58
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Software"]
+categories: ["Business & Investment","Software","Education"]
 listed_since: "2025-07-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://cute-fairy-779047.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://cute-fairy-779047.netlify.app/"
@@ -22,14 +22,14 @@ language: "en"
 # Earn Big Promoting the Notion Pro AI System – Resell Rights
 
 > Product ID `53234` · Digistore24 productId `624660` · [HTML profile page](../../reviews/earn-big-promoting-the-notion-pro-ai-system-resell-rights-53234.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $19.57 (Single payment) |
+| Price | $19.58 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | El_patronship |
 | Listed since | 2025-07-17 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Software |
+| Categories | Business & Investment, Software, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: El_patronship, listed since 2025-07-17
-- How much? — 19.566750000000003 USD
+- How much? — 19.579 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn Big Promoting the Notion Pro AI System – Resell Rights alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/624660
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/624660/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%20Big%20Promoting%20the%20Notion%20Pro%20AI%20System%20%E2%80%93%20Resell%20Rights
 
 ## 4. Editorial notes

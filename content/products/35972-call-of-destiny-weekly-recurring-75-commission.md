@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "http://reading.callofdestiny.org?aff=adminstore#aff=adminstore"
 sales_page: "http://reading.callofdestiny.org"
@@ -22,7 +22,7 @@ language: "en"
 # Call of Destiny - Weekly Recurring 75% Commission
 
 > Product ID `35972` · Digistore24 productId `370248` · [HTML profile page](../../reviews/call-of-destiny-weekly-recurring-75-commission-35972.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: serimon, listed since 2021-01-26
-- How much? — 7.826700000000001 USD
+- How much? — 7.8316 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Call of Destiny - Weekly Recurring 75% Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/370248
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/370248/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Call%20of%20Destiny%20-%20Weekly%20Recurring%2075%25%20Commission
 
 ## 4. Editorial notes

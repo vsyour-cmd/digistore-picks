@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://americansignlanguage4-da9.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://americansignlanguage4-da9.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # American Sign Language 4
 
 > Product ID `57558` · Digistore24 productId `712360` · [HTML profile page](../../reviews/american-sign-language-4-57558.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: American Sign Language 4 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/712360
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/712360/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=American%20Sign%20Language%204
 
 ## 4. Editorial notes

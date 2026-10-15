@@ -4,34 +4,34 @@ digistore24_product_id: 606698
 title: "Advanced Prostate Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 55.85
+price: 55.88
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 33.51
+earnings_per_sale: 33.53
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-04-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52093/adminstore/"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm"
 language: "en"
 ---
 # Advanced Prostate Formula
 
 > Product ID `52093` · Digistore24 productId `606698` · [HTML profile page](../../reviews/advanced-prostate-formula-52093.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $55.85 (Single payment) |
+| Price | $55.88 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $33.51 |
+| Earnings/sale* | $33.53 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52093/adminstore/
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Advanced-Prostate-Formula/Prostate-Enemy.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/advanced-prostate-formula-21
 - Canonical redirect: https://www.digistore24.com/redir/606698/adminstore
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-04-10
-- How much? — 55.849095000000005 USD
+- How much? — 55.884060000000005 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Prostate Formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/606698
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/606698/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Prostate%20Formula
 
 ## 4. Editorial notes

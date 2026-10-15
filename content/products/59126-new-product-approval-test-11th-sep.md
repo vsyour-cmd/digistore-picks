@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://productapprovaltest-7iu.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://productapprovaltest-7iu.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # New Product Approval Test 11th Sep
 
 > Product ID `59126` · Digistore24 productId `732346` · [HTML profile page](../../reviews/new-product-approval-test-11th-sep-59126.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: New Product Approval Test 11th Sep alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/732346
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732346/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=New%20Product%20Approval%20Test%2011th%20Sep
 
 ## 4. Editorial notes

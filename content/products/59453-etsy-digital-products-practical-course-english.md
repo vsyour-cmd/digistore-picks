@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59453/adminstore/"
+promo_link: "https://www.digistore24.com/product/735495?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735495"
 language: "en"
 ---
 # Etsy Digital Products Practical Course (English)
 
 > Product ID `59453` · Digistore24 productId `735495` · [HTML profile page](../../reviews/etsy-digital-products-practical-course-english-59453.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59453/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735495?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735495
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735495/
 - Canonical redirect: https://www.digistore24.com/redir/735495/adminstore
@@ -92,7 +92,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Etsy Digital Products Practical Course (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735495
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735495/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Etsy%20Digital%20Products%20Practical%20Course%20(English)
 
 ## 4. Editorial notes

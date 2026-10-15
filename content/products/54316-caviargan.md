@@ -4,16 +4,16 @@ digistore24_product_id: 636335
 title: "CaviArgan"
 vendor: "koshea76"
 product_type: "Deliverable"
-price: 108.97
+price: 109.04
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 83.78
+earnings_per_sale: 83.83
 cart_conversion_pct: 2
 cancel_rate_pct: 1.78
 categories: ["Skin Care"]
 listed_since: "2025-09-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://e-caviargan.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://e-caviargan.com/"
@@ -22,16 +22,16 @@ language: "en"
 # CaviArgan
 
 > Product ID `54316` · Digistore24 productId `636335` · [HTML profile page](../../reviews/caviargan-54316.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $108.97 (Single payment) |
+| Price | $109.04 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $83.78 |
+| Earnings/sale* | $83.83 |
 | Cart conversion* | 2% |
 | Cancel rate* | 1.78% |
 | Vendor | koshea76 |
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: koshea76, listed since 2025-09-17
-- How much? — 108.970026 USD
+- How much? — 109.038248 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: CaviArgan alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/636335
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/636335/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=CaviArgan
 
 ## 4. Editorial notes

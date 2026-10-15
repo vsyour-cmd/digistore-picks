@@ -4,16 +4,16 @@ digistore24_product_id: 557828
 title: "The Encyclopedia of Power Foods- Latest 2025/6!"
 vendor: "dailyhealth"
 product_type: "E-books"
-price: 44.99
+price: 45.02
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 27.99
+earnings_per_sale: 28
 cart_conversion_pct: 16
 cancel_rate_pct: 8.97
 categories: ["Health & Fitness"]
 listed_since: "2024-06-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177?aff=adminstore#aff=adminstore"
 sales_page: "https://wsl.365dailyhealth.com/landing-sale-page1713272576177"
@@ -22,16 +22,16 @@ language: "en"
 # The Encyclopedia of Power Foods- Latest 2025/6!
 
 > Product ID `48480` · Digistore24 productId `557828` · [HTML profile page](../../reviews/the-encyclopedia-of-power-foods-latest-2025-6-48480.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $44.99 (Single payment) |
+| Price | $45.02 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $27.99 |
+| Earnings/sale* | $28.00 |
 | Cart conversion* | 16% |
 | Cancel rate* | 8.97% |
 | Vendor | dailyhealth |
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: dailyhealth, listed since 2024-06-20
-- How much? — 44.992344 USD
+- How much? — 45.020512000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Encyclopedia of Power Foods- Latest 2025/6! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/557828
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/557828/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Encyclopedia%20of%20Power%20Foods-%20Latest%202025%2F6!
 
 ## 4. Editorial notes

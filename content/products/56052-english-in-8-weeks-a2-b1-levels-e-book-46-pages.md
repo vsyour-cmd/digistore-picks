@@ -4,7 +4,7 @@ digistore24_product_id: 676043
 title: "English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages"
 vendor: "dewkrie"
 product_type: "E-books"
-price: 12.29
+price: 12.3
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 6.15
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-03-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/676043?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/676043"
@@ -22,14 +22,14 @@ language: "en"
 # English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages
 
 > Product ID `56052` · Digistore24 productId `676043` · [HTML profile page](../../reviews/english-in-8-weeks-a2-b1-levels-e-book-46-pages-56052.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.29 (Single payment) |
+| Price | $12.30 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $6.15 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: dewkrie, listed since 2026-03-13
-- How much? — 12.287919 USD
+- How much? — 12.295612 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/676043
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676043/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=English%20In%208%20Weeks%20(A2-B1%20Levels)%20%7C%20e-Book%2046%20pages
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 432238
 title: "VisiSoothe-60% commission on the entire funnel or a $90 CPA"
 vendor: "freedomhealthllc"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.29
+earnings_per_sale: 46.32
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Food Supplements"]
 listed_since: "2022-03-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://visisoothe.com/rem-announcement/index.html?aff=adminstore#aff=adminstore"
 sales_page: "https://visisoothe.com/rem-announcement/index.html"
@@ -22,22 +22,22 @@ language: "en"
 # VisiSoothe-60% commission on the entire funnel or a $90 CPA
 
 > Product ID `39354` · Digistore24 productId `432238` · [HTML profile page](../../reviews/visisoothe-60-commission-on-the-entire-funnel-or-a-90-cpa-39354.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.29 |
+| Earnings/sale* | $46.32 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freedomhealthllc |
 | Listed since | 2022-03-01 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: freedomhealthllc, listed since 2022-03-01
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VisiSoothe-60% commission on the entire funnel or a $90 CPA alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/432238
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/432238/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=VisiSoothe-60%25%20commission%20on%20the%20entire%20funnel%20or%20a%20%2490%20CPA
 
 ## 4. Editorial notes

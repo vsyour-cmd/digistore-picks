@@ -4,16 +4,16 @@ digistore24_product_id: 693519
 title: "80% Commission · 60-Day Done-For-You Carnivore Plan"
 vendor: "goldinline"
 product_type: "E-books"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 33.1
+earnings_per_sale: 33.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Survival"]
+categories: ["Health & Fitness","Food & Drink","Survival"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://healthhealing.net/carnivore-diet/aff?aff=adminstore#aff=adminstore"
 sales_page: "https://healthhealing.net/carnivore-diet/aff"
@@ -22,22 +22,22 @@ language: "en"
 # 80% Commission · 60-Day Done-For-You Carnivore Plan
 
 > Product ID `56546` · Digistore24 productId `693519` · [HTML profile page](../../reviews/80-commission-60-day-done-for-you-carnivore-plan-56546.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $33.10 |
+| Earnings/sale* | $33.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | goldinline |
 | Listed since | 2026-05-18 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Survival |
+| Categories | Health & Fitness, Food & Drink, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: goldinline, listed since 2026-05-18
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 80% Commission · 60-Day Done-For-You Carnivore Plan alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693519
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693519/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=80%25%20Commission%20%C2%B7%2060-Day%20Done-For-You%20Carnivore%20Plan
 
 ## 4. Editorial notes

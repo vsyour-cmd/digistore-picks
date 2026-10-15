@@ -4,16 +4,16 @@ digistore24_product_id: 644547
 title: "Quantum Wealth Frequencies"
 vendor: "darrelltee"
 product_type: "Downloads"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 22.64
+earnings_per_sale: 22.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/quantum-wealth-frequencies"
@@ -22,16 +22,16 @@ language: "en"
 # Quantum Wealth Frequencies
 
 > Product ID `54512` · Digistore24 productId `644547` · [HTML profile page](../../reviews/quantum-wealth-frequencies-54512.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $22.64 |
+| Earnings/sale* | $22.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: darrelltee, listed since 2025-10-28
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quantum Wealth Frequencies alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/644547
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644547/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Quantum%20Wealth%20Frequencies
 
 ## 4. Editorial notes

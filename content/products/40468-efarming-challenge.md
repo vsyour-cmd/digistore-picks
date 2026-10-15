@@ -4,16 +4,16 @@ digistore24_product_id: 593116
 title: "eFarming Challenge"
 vendor: "igorkheifets"
 product_type: "Member area and video courses"
-price: 1146.77
+price: 1147.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 326.6
+earnings_per_sale: 326.8
 cart_conversion_pct: 2
 cancel_rate_pct: 16.72
-categories: []
+categories: ["Online Marketing"]
 listed_since: "2022-06-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://institute.listbuildinglifestyle.com/product/1-click-list-machine-vsl-digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://institute.listbuildinglifestyle.com/product/1-click-list-machine-vsl-digi/"
@@ -22,22 +22,22 @@ language: "en"
 # eFarming Challenge
 
 > Product ID `40468` · Digistore24 productId `593116` · [HTML profile page](../../reviews/efarming-challenge-40468.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1146.77 (Single payment) |
+| Price | $1147.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $326.60 |
+| Earnings/sale* | $326.80 |
 | Cart conversion* | 2% |
 | Cancel rate* | 16.72% |
 | Vendor | igorkheifets |
 | Listed since | 2022-06-29 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Uncategorized |
+| Categories | Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: igorkheifets, listed since 2022-06-29
-- How much? — 1146.7680840000003 USD
+- How much? — 1147.486032 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eFarming Challenge alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/593116
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/593116/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=eFarming%20Challenge
 
 ## 4. Editorial notes

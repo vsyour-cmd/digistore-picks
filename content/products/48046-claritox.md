@@ -4,16 +4,16 @@ digistore24_product_id: 550416
 title: "Claritox"
 vendor: "ClaritoxPro"
 product_type: "Supplements - health"
-price: 174.12
+price: 174.23
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 122.97
+earnings_per_sale: 123.05
 cart_conversion_pct: 5
 cancel_rate_pct: 11.7
 categories: ["Food Supplements"]
 listed_since: "2024-04-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://claritox24.com/text2.php?aff=adminstore#aff=adminstore"
 sales_page: "https://claritox24.com/text2.php"
@@ -22,16 +22,16 @@ language: "en"
 # Claritox
 
 > Product ID `48046` · Digistore24 productId `550416` · [HTML profile page](../../reviews/claritox-48046.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $174.12 (Single payment) |
+| Price | $174.23 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $122.97 |
+| Earnings/sale* | $123.05 |
 | Cart conversion* | 5% |
 | Cancel rate* | 11.7% |
 | Vendor | ClaritoxPro |
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ClaritoxPro, listed since 2024-04-30
-- How much? — 174.121713 USD
+- How much? — 174.23072399999998 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Claritox alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/550416
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/550416/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Claritox
 
 ## 4. Editorial notes

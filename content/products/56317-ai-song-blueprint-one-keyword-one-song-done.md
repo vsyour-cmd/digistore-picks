@@ -4,34 +4,34 @@ digistore24_product_id: 683970
 title: "AI Song Blueprint – One Keyword. One Song. Done."
 vendor: "DomkeMedia"
 product_type: "E-books"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 45
-earnings_per_sale: 14.59
+earnings_per_sale: 14.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-04-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/56317/adminstore/"
+promo_link: "https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore"
 sales_page: "https://domke24.com/ai-song-blueprint/"
 language: "en"
 ---
 # AI Song Blueprint – One Keyword. One Song. Done.
 
 > Product ID `56317` · Digistore24 productId `683970` · [HTML profile page](../../reviews/ai-song-blueprint-one-keyword-one-song-done-56317.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 45% |
-| Earnings/sale* | $14.59 |
+| Earnings/sale* | $14.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DomkeMedia |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56317/adminstore/
+- **Promo link (affiliate):** https://domke24.com/ai-song-blueprint/?aff=adminstore#aff=adminstore
 - Sales page: https://domke24.com/ai-song-blueprint/
 - Vendor affiliate support: https://domke24.com/affiliates-ai-song-blueprint.html
 - Canonical redirect: https://www.digistore24.com/redir/683970/adminstore
@@ -69,14 +69,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DomkeMedia, listed since 2026-04-11
-- How much? — 32.4249 USD
+- How much? — 32.4452 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Song Blueprint – One Keyword. One Song. Done. alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/683970
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/683970/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Song%20Blueprint%20%E2%80%93%20One%20Keyword.%20One%20Song.%20Done.
 
 ## 4. Editorial notes

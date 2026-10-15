@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-09-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/720098?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/720098"
@@ -22,7 +22,7 @@ language: "en"
 # A Journey with the Living Letters – Illustrated Children’s e
 
 > Product ID `58932` · Digistore24 productId `720098` · [HTML profile page](../../reviews/a-journey-with-the-living-letters-illustrated-children-s-e-58932.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | elbossilybooks |
 | Listed since | 2026-09-05 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,7 +86,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: A Journey with the Living Letters – Illustrated Children’s e alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/720098
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720098/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=A%20Journey%20with%20the%20Living%20Letters%20%E2%80%93%20Illustrated%20Children%E2%80%99s%20e
 
 ## 4. Editorial notes

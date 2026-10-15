@@ -4,16 +4,16 @@ digistore24_product_id: 719382
 title: "Automotive and Motorsport Gear Engineering – Volumе 2"
 vendor: "krisig02156e2b"
 product_type: "E-books"
-price: 50.31
+price: 50.35
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 25.16
+earnings_per_sale: 25.17
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Hobby & Craft"]
 listed_since: "2026-08-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/719382?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/719382"
@@ -22,16 +22,16 @@ language: "en"
 # Automotive and Motorsport Gear Engineering – Volumе 2
 
 > Product ID `58266` · Digistore24 productId `719382` · [HTML profile page](../../reviews/automotive-and-motorsport-gear-engineering-volum-2-58266.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $50.31 (Single payment) |
+| Price | $50.35 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $25.16 |
+| Earnings/sale* | $25.17 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | krisig02156e2b |
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: krisig02156e2b, listed since 2026-08-10
-- How much? — 50.3145 USD
+- How much? — 50.346000000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Automotive and Motorsport Gear Engineering – Volumе 2 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/719382
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719382/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Automotive%20and%20Motorsport%20Gear%20Engineering%20%E2%80%93%20Volum%D0%B5%202
 
 ## 4. Editorial notes

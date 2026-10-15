@@ -4,16 +4,16 @@ digistore24_product_id: 718028
 title: "Understanding Artificial Intelligence A Clear Introduction f"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/718028?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718028"
@@ -22,16 +22,16 @@ language: "en"
 # Understanding Artificial Intelligence A Clear Introduction f
 
 > Product ID `58132` · Digistore24 productId `718028` · [HTML profile page](../../reviews/understanding-artificial-intelligence-a-clear-introduction-f-58132.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Understanding Artificial Intelligence A Clear Introduction f alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/718028
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718028/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Understanding%20Artificial%20Intelligence%20A%20Clear%20Introduction%20f
 
 ## 4. Editorial notes

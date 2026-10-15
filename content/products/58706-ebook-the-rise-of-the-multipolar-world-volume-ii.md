@@ -4,7 +4,7 @@ digistore24_product_id: 726715
 title: "Ebook - The Rise of the Multipolar World - Volume II"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 13.57
+price: 13.58
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 6.79
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Politics & Economy"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/726715?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726715"
@@ -22,14 +22,14 @@ language: "en"
 # Ebook - The Rise of the Multipolar World - Volume II
 
 > Product ID `58706` · Digistore24 productId `726715` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-ii-58706.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.57 (Single payment) |
+| Price | $13.58 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $6.79 |
 | Cart conversion* | — |
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-08-27
-- How much? — 13.573734000000002 USD
+- How much? — 13.582232000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - The Rise of the Multipolar World - Volume II alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726715
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726715/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20The%20Rise%20of%20the%20Multipolar%20World%20-%20Volume%20II
 
 ## 4. Editorial notes

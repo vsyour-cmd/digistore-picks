@@ -4,34 +4,34 @@ digistore24_product_id: 624648
 title: "Digital Gold Kit Plr"
 vendor: "daianeandrew"
 product_type: "E-books"
-price: 55.91
+price: 55.94
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 33.54
+earnings_per_sale: 33.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Online Marketing"]
 listed_since: "2025-07-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53227/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/624648?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/624648"
 language: "en"
 ---
 # Digital Gold Kit Plr
 
 > Product ID `53227` · Digistore24 productId `624648` · [HTML profile page](../../reviews/digital-gold-kit-plr-53227.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $55.91 (Single payment) |
+| Price | $55.94 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $33.54 |
+| Earnings/sale* | $33.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | daianeandrew |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53227/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/624648?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/624648
 - Canonical redirect: https://www.digistore24.com/redir/624648/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: daianeandrew, listed since 2025-07-17
-- How much? — 55.905 USD
+- How much? — 55.94 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Gold Kit Plr alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/624648
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/624648/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Gold%20Kit%20Plr
 
 ## 4. Editorial notes

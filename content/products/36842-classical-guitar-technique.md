@@ -4,7 +4,7 @@ digistore24_product_id: 383385
 title: "Classical Guitar Technique"
 vendor: "Guitarschool24"
 product_type: "Member area and video courses"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 9.73
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dancing & Music"]
 listed_since: "2021-04-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.guitarschool24.com/classical-guitar-basic-techniques/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool24.com/classical-guitar-basic-techniques/"
@@ -22,14 +22,14 @@ language: "en"
 # Classical Guitar Technique
 
 > Product ID `36842` · Digistore24 productId `383385` · [HTML profile page](../../reviews/classical-guitar-technique-36842.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $9.73 |
 | Cart conversion* | — |
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2021-04-08
-- How much? — 32.4249 USD
+- How much? — 32.4452 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Classical Guitar Technique alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/383385
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/383385/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Classical%20Guitar%20Technique
 
 ## 4. Editorial notes

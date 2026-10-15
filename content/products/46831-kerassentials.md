@@ -4,34 +4,34 @@ digistore24_product_id: 533765
 title: "Kerassentials"
 vendor: "Kerassentials"
 product_type: "Deliverable"
-price: 236.19
+price: 236.34
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 131.97
+earnings_per_sale: 132.05
 cart_conversion_pct: 4
 cancel_rate_pct: 17.68
 categories: ["Food Supplements"]
 listed_since: "2024-01-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46831/adminstore/"
+promo_link: "https://mykerassentials24.com/text2.php?aff=adminstore#aff=adminstore"
 sales_page: "https://mykerassentials24.com/text2.php"
 language: "en"
 ---
 # Kerassentials
 
 > Product ID `46831` · Digistore24 productId `533765` · [HTML profile page](../../reviews/kerassentials-46831.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $236.19 (Single payment) |
+| Price | $236.34 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $131.97 |
+| Earnings/sale* | $132.05 |
 | Cart conversion* | 4% |
 | Cancel rate* | 17.68% |
 | Vendor | Kerassentials |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46831/adminstore/
+- **Promo link (affiliate):** https://mykerassentials24.com/text2.php?aff=adminstore#aff=adminstore
 - Sales page: https://mykerassentials24.com/text2.php
 - Vendor affiliate support: https://kerassentials24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/533765/adminstore
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Kerassentials, listed since 2024-01-11
-- How much? — 236.18744400000003 USD
+- How much? — 236.33531200000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Kerassentials alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/533765
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/533765/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Kerassentials
 
 ## 4. Editorial notes

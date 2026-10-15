@@ -4,16 +4,16 @@ digistore24_product_id: 443012
 title: "Dominate the Diabetes Niche with Gluconite!"
 vendor: "mysteryoffers"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 78
-earnings_per_sale: 60.18
+earnings_per_sale: 60.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-05-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gluconite.co/ds/welcome?aff=adminstore#aff=adminstore"
 sales_page: "https://gluconite.co/ds/welcome"
@@ -22,16 +22,16 @@ language: "en"
 # Dominate the Diabetes Niche with Gluconite!
 
 > Product ID `40833` · Digistore24 productId `443012` · [HTML profile page](../../reviews/dominate-the-diabetes-niche-with-gluconite-40833.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 78% |
-| Earnings/sale* | $60.18 |
+| Earnings/sale* | $60.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mysteryoffers |
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: mysteryoffers, listed since 2022-05-16
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Dominate the Diabetes Niche with Gluconite! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/443012
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/443012/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Dominate%20the%20Diabetes%20Niche%20with%20Gluconite!
 
 ## 4. Editorial notes

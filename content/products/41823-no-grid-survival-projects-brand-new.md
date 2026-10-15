@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2022-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/41823/adminstore/"
+promo_link: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://offgridsurvivalprojects.com/book-ngp-dgs-aff/"
 language: "en"
 ---
 # No Grid Survival Projects – BRAND NEW!
 
 > Product ID `41823` · Digistore24 productId `471054` · [HTML profile page](../../reviews/no-grid-survival-projects-brand-new-41823.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41823/adminstore/
+- **Promo link (affiliate):** https://offgridsurvivalprojects.com/book-ngp-dgs-aff/?aff=adminstore#aff=adminstore
 - Sales page: https://offgridsurvivalprojects.com/book-ngp-dgs-aff/
 - Vendor affiliate support: https://offgridsurvivalprojects.com/dgaffiliates/
 - Canonical redirect: https://www.digistore24.com/redir/471054/adminstore
@@ -89,7 +89,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: No Grid Survival Projects – BRAND NEW! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/471054
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/471054/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=No%20Grid%20Survival%20Projects%20%E2%80%93%20BRAND%20NEW!
 
 ## 4. Editorial notes

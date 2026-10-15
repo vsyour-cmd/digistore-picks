@@ -10,10 +10,10 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Survival"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://feelbetter-today.com/moray-power?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/moray-power"
@@ -22,7 +22,7 @@ language: "en"
 # Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC
 
 > Product ID `59956` · Digistore24 productId `738063` · [HTML profile page](../../reviews/moray-generator-new-2026-energy-product-2-epc-59956.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | energy4oren |
 | Listed since | 2026-09-27 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Survival |
+| Categories | Home & Garden, Green Products & Environmental Protection, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,7 +81,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738063
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738063/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Moray%20Generator%20-%20NEW%202026%20ENERGY%20PRODUCT%20%242%2B%20EPC
 
 ## 4. Editorial notes

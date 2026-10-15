@@ -4,7 +4,7 @@ digistore24_product_id: 651678
 title: "Heart Journey | Guided Meditation and Perception Excercise"
 vendor: "Matrixreport"
 product_type: "Downloads"
-price: 11.07
+price: 11.08
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.77
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54829/adminstore/"
+promo_link: "https://kevinmanke.com/the-heart-journey/?aff=adminstore#aff=adminstore"
 sales_page: "https://kevinmanke.com/the-heart-journey/"
 language: "en"
 ---
 # Heart Journey | Guided Meditation and Perception Excercise
 
 > Product ID `54829` · Digistore24 productId `651678` · [HTML profile page](../../reviews/heart-journey-guided-meditation-and-perception-excercise-54829.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.07 (Single payment) |
+| Price | $11.08 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.77 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54829/adminstore/
+- **Promo link (affiliate):** https://kevinmanke.com/the-heart-journey/?aff=adminstore#aff=adminstore
 - Sales page: https://kevinmanke.com/the-heart-journey/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/651678/adminstore
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Matrixreport, listed since 2025-11-28
-- How much? — 11.06919 USD
+- How much? — 11.076120000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heart Journey | Guided Meditation and Perception Excercise alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/651678
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651678/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Heart%20Journey%20%7C%20Guided%20Meditation%20and%20Perception%20Excercise
 
 ## 4. Editorial notes

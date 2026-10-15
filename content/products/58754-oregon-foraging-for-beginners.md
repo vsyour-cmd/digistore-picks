@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft","Survival"]
 listed_since: "2026-08-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/727184?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727184"
@@ -22,7 +22,7 @@ language: "en"
 # Oregon Foraging For Beginners
 
 > Product ID `58754` · Digistore24 productId `727184` · [HTML profile page](../../reviews/oregon-foraging-for-beginners-58754.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Oregon Foraging For Beginners alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727184
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727184/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Oregon%20Foraging%20For%20Beginners
 
 ## 4. Editorial notes

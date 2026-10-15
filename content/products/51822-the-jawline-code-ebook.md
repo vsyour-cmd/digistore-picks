@@ -4,16 +4,16 @@ digistore24_product_id: 603194
 title: "The Jawline Code - ebook"
 vendor: "AAnchorBiz"
 product_type: "E-books"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.23
+earnings_per_sale: 54.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2025-03-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://aanchorbiz.com/the-jawline-code-frontend/?aff=adminstore#aff=adminstore"
 sales_page: "https://aanchorbiz.com/the-jawline-code-frontend/"
@@ -22,22 +22,22 @@ language: "en"
 # The Jawline Code - ebook
 
 > Product ID `51822` · Digistore24 productId `603194` · [HTML profile page](../../reviews/the-jawline-code-ebook-51822.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $108.46 (Single payment) |
+| Price | $108.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.23 |
+| Earnings/sale* | $54.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AAnchorBiz |
 | Listed since | 2025-03-22 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: AAnchorBiz, listed since 2025-03-22
-- How much? — 108.45570000000001 USD
+- How much? — 108.5236 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Jawline Code - ebook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/603194
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/603194/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Jawline%20Code%20-%20ebook
 
 ## 4. Editorial notes

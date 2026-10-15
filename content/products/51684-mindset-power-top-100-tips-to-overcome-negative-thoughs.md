@@ -4,16 +4,16 @@ digistore24_product_id: 600672
 title: "Mindset Power - Top 100 Tips to Overcome Negative Thoughs"
 vendor: "HeikoBoos"
 product_type: "E-books"
-price: 11.07
+price: 11.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.53
+earnings_per_sale: 5.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2025-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://heikoboos.com/mindset-power-2?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/mindset-power-2"
@@ -22,16 +22,16 @@ language: "en"
 # Mindset Power - Top 100 Tips to Overcome Negative Thoughs
 
 > Product ID `51684` · Digistore24 productId `600672` · [HTML profile page](../../reviews/mindset-power-top-100-tips-to-overcome-negative-thoughs-51684.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.07 (Single payment) |
+| Price | $11.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.53 |
+| Earnings/sale* | $5.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-03-09
-- How much? — 11.06919 USD
+- How much? — 11.076120000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mindset Power - Top 100 Tips to Overcome Negative Thoughs alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/600672
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/600672/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Mindset%20Power%20-%20Top%20100%20Tips%20to%20Overcome%20Negative%20Thoughs
 
 ## 4. Editorial notes

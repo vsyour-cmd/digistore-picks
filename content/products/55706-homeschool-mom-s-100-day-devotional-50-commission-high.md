@@ -4,16 +4,16 @@ digistore24_product_id: 669825
 title: "Homeschool Mom’s 100-Day Devotional - 50% Commission - High-"
 vendor: "BookCaperSelfPublishing"
 product_type: "E-books"
-price: 11.18
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Family & Children","Education"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/669825?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/669825"
@@ -22,14 +22,14 @@ language: "en"
 # Homeschool Mom’s 100-Day Devotional - 50% Commission - High-
 
 > Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](../../reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.18 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | BookCaperSelfPublishing |
 | Listed since | 2026-02-18 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BookCaperSelfPublishing, listed since 2026-02-18
-- How much? — 11.181000000000001 USD
+- How much? — 11.188 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Homeschool Mom’s 100-Day Devotional - 50% Commission - High- alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/669825
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669825/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Homeschool%20Mom%E2%80%99s%20100-Day%20Devotional%20-%2050%25%20Commission%20-%20High-
 
 ## 4. Editorial notes

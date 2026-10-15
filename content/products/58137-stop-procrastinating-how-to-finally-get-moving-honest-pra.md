@@ -4,40 +4,40 @@ digistore24_product_id: 718317
 title: "Stop Procrastinating How to Finally Get Moving – Honest, Pra"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Leadership & Management"]
+categories: ["Personal Development","Education","Leadership & Management"]
 listed_since: "2026-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "http://www.i-talk24.com/#aff=adminstore"
+promo_link: "https://www.checkout-ds24.com/product/718317?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/718317"
 language: "en"
 ---
 # Stop Procrastinating How to Finally Get Moving – Honest, Pra
 
 > Product ID `58137` · Digistore24 productId `718317` · [HTML profile page](../../reviews/stop-procrastinating-how-to-finally-get-moving-honest-pra-58137.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
 | Listed since | 2026-08-04 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Leadership & Management |
+| Categories | Personal Development, Education, Leadership & Management |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://www.i-talk24.com/#aff=adminstore
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/718317?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/718317
 - Canonical redirect: https://www.digistore24.com/redir/718317/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-04
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Stop Procrastinating How to Finally Get Moving – Honest, Pra alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/718317
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718317/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Stop%20Procrastinating%20How%20to%20Finally%20Get%20Moving%20%E2%80%93%20Honest%2C%20Pra
 
 ## 4. Editorial notes

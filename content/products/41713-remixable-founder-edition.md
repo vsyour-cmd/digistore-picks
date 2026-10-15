@@ -4,34 +4,34 @@ digistore24_product_id: 467549
 title: "Remixable - Founder Edition"
 vendor: "remixable"
 product_type: "Software"
-price: 489.34
+price: 489.64
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 169.68
+earnings_per_sale: 169.79
 cart_conversion_pct: 10
 cancel_rate_pct: 22.85
 categories: ["Software"]
 listed_since: "2022-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/41713/adminstore/"
+promo_link: "https://remixable.net/join/?aff=adminstore#aff=adminstore"
 sales_page: "https://remixable.net/join/"
 language: "en"
 ---
 # Remixable - Founder Edition
 
 > Product ID `41713` · Digistore24 productId `467549` · [HTML profile page](../../reviews/remixable-founder-edition-41713.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $489.34 (Single payment, Installment) |
+| Price | $489.64 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $169.68 |
+| Earnings/sale* | $169.79 |
 | Cart conversion* | 10% |
 | Cancel rate* | 22.85% |
 | Vendor | remixable |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41713/adminstore/
+- **Promo link (affiliate):** https://remixable.net/join/?aff=adminstore#aff=adminstore
 - Sales page: https://remixable.net/join/
 - Vendor affiliate support: https://remixable.net/digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/467549/adminstore
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: remixable, listed since 2022-11-01
-- How much? — 489.33646500000003 USD
+- How much? — 489.64282 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Remixable - Founder Edition alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/467549
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/467549/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Remixable%20-%20Founder%20Edition
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 644621
 title: "Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA"
 vendor: "aiseli"
 product_type: "E-books"
-price: 16.77
+price: 16.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.39
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54585/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/644621?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/644621"
 language: "en"
 ---
 # Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA
 
 > Product ID `54585` · Digistore24 productId `644621` · [HTML profile page](../../reviews/smoothie-mastery-101-recipes-to-energize-your-life-digita-54585.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.77 (Single payment) |
+| Price | $16.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.39 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54585/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/644621?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/644621
 - Canonical redirect: https://www.digistore24.com/redir/644621/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: aiseli, listed since 2025-10-28
-- How much? — 16.771500000000003 USD
+- How much? — 16.782 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/644621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644621/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Smoothie%20Mastery%3A%20101%20Recipes%20to%20Energize%20Your%20Life%20-%20DIGITA
 
 ## 4. Editorial notes

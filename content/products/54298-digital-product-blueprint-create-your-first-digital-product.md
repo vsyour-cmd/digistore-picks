@@ -4,16 +4,16 @@ digistore24_product_id: 639860
 title: "Digital Product Blueprint: Create Your First Digital Product"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 149.83
+price: 149.92
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 112.37
+earnings_per_sale: 112.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/digital-products-academy?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/digital-products-academy"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Product Blueprint: Create Your First Digital Product
 
 > Product ID `54298` · Digistore24 productId `639860` · [HTML profile page](../../reviews/digital-product-blueprint-create-your-first-digital-product-54298.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $149.83 (Single payment) |
+| Price | $149.92 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $112.37 |
+| Earnings/sale* | $112.44 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-06
-- How much? — 149.8254 USD
+- How much? — 149.9192 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Product Blueprint: Create Your First Digital Product alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639860
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639860/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Product%20Blueprint%3A%20Create%20Your%20First%20Digital%20Product
 
 ## 4. Editorial notes

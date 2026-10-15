@@ -4,16 +4,16 @@ digistore24_product_id: 508710
 title: "TerraCalm"
 vendor: "TerraCalm"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.15
+earnings_per_sale: 50.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-07-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://terracalm24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://terracalm24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # TerraCalm
 
 > Product ID `44848` · Digistore24 productId `508710` · [HTML profile page](../../reviews/terracalm-44848.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.15 |
+| Earnings/sale* | $50.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TerraCalm |
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: TerraCalm, listed since 2023-07-24
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TerraCalm alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/508710
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/508710/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=TerraCalm
 
 ## 4. Editorial notes

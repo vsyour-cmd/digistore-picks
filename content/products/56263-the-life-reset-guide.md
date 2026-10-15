@@ -4,34 +4,34 @@ digistore24_product_id: 684564
 title: "The Life Reset Guide"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Travel & Culture"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56263/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/684564?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684564"
 language: "en"
 ---
 # The Life Reset Guide
 
 > Product ID `56263` · Digistore24 productId `684564` · [HTML profile page](../../reviews/the-life-reset-guide-56263.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56263/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/684564?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/684564
 - Canonical redirect: https://www.digistore24.com/redir/684564/adminstore
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Life Reset Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/684564
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684564/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Life%20Reset%20Guide
 
 ## 4. Editorial notes

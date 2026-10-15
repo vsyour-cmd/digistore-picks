@@ -10,19 +10,19 @@ affiliate_commission_pct: 70
 earnings_per_sale: 14
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Personal Development"]
+categories: ["Personal Development","Personal Development","Education"]
 listed_since: "2025-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53791/adminstore/"
+promo_link: "https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page?aff=adminstore#aff=adminstore"
 sales_page: "https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page"
 language: "en"
 ---
 # Unlock Your Potential with The Ultimate Life Transformation
 
 > Product ID `53791` · Digistore24 productId `631236` · [HTML profile page](../../reviews/unlock-your-potential-with-the-ultimate-life-transformation-53791.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | tom_cruise |
 | Listed since | 2025-08-22 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Personal Development |
+| Categories | Personal Development, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53791/adminstore/
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/nono_wisdom_project/life-transformation-bundle/sale-page
 - Canonical redirect: https://www.digistore24.com/redir/631236/adminstore
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Your Potential with The Ultimate Life Transformation alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/631236
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/631236/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unlock%20Your%20Potential%20with%20The%20Ultimate%20Life%20Transformation
 
 ## 4. Editorial notes

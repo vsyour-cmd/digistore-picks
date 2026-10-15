@@ -10,10 +10,10 @@ affiliate_commission_pct: 75
 earnings_per_sale: 27.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Personal Development"]
+categories: ["Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://love.esr.mobi/digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://love.esr.mobi/digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # Help Singles Build Healthier Relationships in Just 30 Days
 
 > Product ID `58862` · Digistore24 productId `728264` · [HTML profile page](../../reviews/help-singles-build-healthier-relationships-in-just-30-days-58862.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | ramib6566a327 |
 | Listed since | 2026-09-02 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Personal Development |
+| Categories | Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -100,7 +100,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Help Singles Build Healthier Relationships in Just 30 Days alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/728264
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728264/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Help%20Singles%20Build%20Healthier%20Relationships%20in%20Just%2030%20Days
 
 ## 4. Editorial notes

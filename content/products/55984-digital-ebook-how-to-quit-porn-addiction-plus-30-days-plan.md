@@ -4,16 +4,16 @@ digistore24_product_id: 675871
 title: "Digital Ebook how to quit porn addiction plus 30 days plan"
 vendor: "filipm3642c0e"
 product_type: "E-books"
-price: 24.6
+price: 24.61
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.3
+earnings_per_sale: 12.31
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/675871?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/675871"
@@ -22,16 +22,16 @@ language: "en"
 # Digital Ebook how to quit porn addiction plus 30 days plan
 
 > Product ID `55984` · Digistore24 productId `675871` · [HTML profile page](../../reviews/digital-ebook-how-to-quit-porn-addiction-plus-30-days-plan-55984.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.60 (Single payment) |
+| Price | $24.61 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.30 |
+| Earnings/sale* | $12.31 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | filipm3642c0e |
@@ -80,14 +80,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: filipm3642c0e, listed since 2026-03-12
-- How much? — 24.598200000000002 USD
+- How much? — 24.6136 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Ebook how to quit porn addiction plus 30 days plan alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/675871
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/675871/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Ebook%20how%20to%20quit%20porn%20addiction%20plus%2030%20days%20plan
 
 ## 4. Editorial notes

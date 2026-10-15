@@ -4,34 +4,34 @@ digistore24_product_id: 474924
 title: "German course for beginners based on a story: Jens and Jakob"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 278.41
+price: 278.58
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 83.52
+earnings_per_sale: 83.57
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2022-12-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42181/adminstore/"
+promo_link: "https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds"
 language: "en"
 ---
 # German course for beginners based on a story: Jens and Jakob
 
 > Product ID `42181` · Digistore24 productId `474924` · [HTML profile page](../../reviews/german-course-for-beginners-based-on-a-story-jens-and-jakob-42181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $278.41 (Subscription) |
+| Price | $278.58 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $83.52 |
+| Earnings/sale* | $83.57 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42181/adminstore/
+- **Promo link (affiliate):** https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds?aff=adminstore#aff=adminstore
 - Sales page: https://courses.skapago.eu/lp/german-course-beginners-jens-jakob-ds
 - Canonical redirect: https://www.digistore24.com/redir/474924/adminstore
 
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2022-12-14
-- How much? — 278.4069 USD
+- How much? — 278.5812 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: German course for beginners based on a story: Jens and Jakob alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/474924
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/474924/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=German%20course%20for%20beginners%20based%20on%20a%20story%3A%20Jens%20and%20Jakob
 
 ## 4. Editorial notes

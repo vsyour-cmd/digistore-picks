@@ -4,16 +4,16 @@ digistore24_product_id: 472943
 title: "Earn 60% Commission Promoting Advanced Amino Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 119.01
+price: 119.09
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 67.14
+earnings_per_sale: 67.18
 cart_conversion_pct: 7
 cancel_rate_pct: 6.66
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2022-12-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Amino/Muscle-Mass-Loss/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 60% Commission Promoting Advanced Amino Formula
 
 > Product ID `47082` · Digistore24 productId `472943` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-amino-formula-47082.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $119.01 (Single payment) |
+| Price | $119.09 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $67.14 |
+| Earnings/sale* | $67.18 |
 | Cart conversion* | 7% |
 | Cancel rate* | 6.66% |
 | Vendor | soundview |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2022-12-01
-- How much? — 119.010564 USD
+- How much? — 119.085072 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Commission Promoting Advanced Amino Formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/472943
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/472943/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2060%25%20Commission%20Promoting%20Advanced%20Amino%20Formula
 
 ## 4. Editorial notes

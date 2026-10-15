@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ultimatecreatorstoolkit-xd9.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://ultimatecreatorstoolkit-xd9.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # The ultimate creators toolkit: 30 days edition
 
 > Product ID `59604` · Digistore24 productId `736594` · [HTML profile page](../../reviews/the-ultimate-creators-toolkit-30-days-edition-59604.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -104,7 +104,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The ultimate creators toolkit: 30 days edition alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736594
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736594/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20ultimate%20creators%20toolkit%3A%2030%20days%20edition
 
 ## 4. Editorial notes

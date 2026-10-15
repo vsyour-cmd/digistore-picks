@@ -4,34 +4,34 @@ digistore24_product_id: 736401
 title: "Create Faceless Videos for Beginners – Practical Course with Matze"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 35.33
+earnings_per_sale: 35.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59577/adminstore/"
+promo_link: "https://www.digistore24.com/product/736401?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736401"
 language: "en"
 ---
 # Create Faceless Videos for Beginners – Practical Course with Matze
 
 > Product ID `59577` · Digistore24 productId `736401` · [HTML profile page](../../reviews/create-faceless-videos-for-beginners-practical-course-with-matze-59577.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $35.33 |
+| Earnings/sale* | $35.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59577/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/736401?aff=adminstore
 - Sales page: https://www.digistore24.com/product/736401
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736401/
 - Canonical redirect: https://www.digistore24.com/redir/736401/adminstore
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 88.32990000000001 USD
+- How much? — 88.3852 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Create Faceless Videos for Beginners – Practical Course with Matze alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736401
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736401/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Create%20Faceless%20Videos%20for%20Beginners%20%E2%80%93%20Practical%20Course%20with%20Matze
 
 ## 4. Editorial notes

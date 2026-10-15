@@ -10,19 +10,19 @@ affiliate_commission_pct: 75
 earnings_per_sale: 50.25
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Home & Garden","Hobby & Craft","Survival"]
 listed_since: "2026-10-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60245/adminstore/"
+promo_link: "https://feelbetter-today.com/teds-diy-plan/?aff=adminstore#aff=adminstore"
 sales_page: "https://feelbetter-today.com/teds-diy-plan/"
 language: "en"
 ---
 # TedsWoodworking - Highest Converting Woodworking Offer 2026
 
 > Product ID `60245` · Digistore24 productId `742711` · [HTML profile page](../../reviews/tedswoodworking-highest-converting-woodworking-offer-2026-60245.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | power5oz |
 | Listed since | 2026-10-06 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Home & Garden, Hobby & Craft, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60245/adminstore/
+- **Promo link (affiliate):** https://feelbetter-today.com/teds-diy-plan/?aff=adminstore#aff=adminstore
 - Sales page: https://feelbetter-today.com/teds-diy-plan/
 - Canonical redirect: https://www.digistore24.com/redir/742711/adminstore
 
@@ -113,7 +113,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: TedsWoodworking - Highest Converting Woodworking Offer 2026 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/742711
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/742711/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=TedsWoodworking%20-%20Highest%20Converting%20Woodworking%20Offer%202026
 
 ## 4. Editorial notes

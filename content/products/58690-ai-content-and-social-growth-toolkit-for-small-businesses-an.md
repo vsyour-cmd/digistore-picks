@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 49.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Social Media","Software"]
+categories: ["Software","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://marketplace.iotsystemsgrowth.com/ai-content-social-growth-toolkit-digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://marketplace.iotsystemsgrowth.com/ai-content-social-growth-toolkit-digistore/"
@@ -22,7 +22,7 @@ language: "en"
 # AI Content and Social Growth Toolkit for Small Businesses an
 
 > Product ID `58690` · Digistore24 productId `724941` · [HTML profile page](../../reviews/ai-content-and-social-growth-toolkit-for-small-businesses-an-58690.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | IoTSystemsGrowthSolutions |
 | Listed since | 2026-08-26 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Software |
+| Categories | Software, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Content and Social Growth Toolkit for Small Businesses an alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/724941
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724941/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Content%20and%20Social%20Growth%20Toolkit%20for%20Small%20Businesses%20an
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 583090
 title: "Vertigenics"
 vendor: "Vertigenics"
 product_type: "Supplements - health"
-price: 175.8
+price: 175.91
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 107.42
+earnings_per_sale: 107.48
 cart_conversion_pct: 10
 cancel_rate_pct: 13.58
 categories: ["Food Supplements"]
 listed_since: "2024-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50717/adminstore/"
+promo_link: "https://getmyvertigenics24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://getmyvertigenics24.com/text.php"
 language: "en"
 ---
 # Vertigenics
 
 > Product ID `50717` · Digistore24 productId `583090` · [HTML profile page](../../reviews/vertigenics-50717.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $175.80 (Single payment) |
+| Price | $175.91 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $107.42 |
+| Earnings/sale* | $107.48 |
 | Cart conversion* | 10% |
 | Cancel rate* | 13.58% |
 | Vendor | Vertigenics |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50717/adminstore/
+- **Promo link (affiliate):** https://getmyvertigenics24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: https://getmyvertigenics24.com/text.php
 - Vendor affiliate support: https://vertigenics24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/583090/adminstore
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Vertigenics, listed since 2024-11-27
-- How much? — 175.798863 USD
+- How much? — 175.90892399999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Vertigenics alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/583090
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/583090/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Vertigenics
 
 ## 4. Editorial notes

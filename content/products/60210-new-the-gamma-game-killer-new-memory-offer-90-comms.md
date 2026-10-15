@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://feelbetter-today.com/gamma-memory?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/gamma-memory"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: The Gamma Game - Killer NEW Memory Offer - 90% Comms
 
 > Product ID `60210` · Digistore24 productId `738151` · [HTML profile page](../../reviews/new-the-gamma-game-killer-new-memory-offer-90-comms-60210.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Gamma Game - Killer NEW Memory Offer - 90% Comms alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738151/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%20Gamma%20Game%20-%20Killer%20NEW%20Memory%20Offer%20-%2090%25%20Comms
 
 ## 4. Editorial notes

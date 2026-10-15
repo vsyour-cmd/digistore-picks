@@ -4,7 +4,7 @@ digistore24_product_id: 643699
 title: "Affirmation | Guided Meditation and Mindset Upgrade"
 vendor: "Matrixreport"
 product_type: "Downloads"
-price: 11.07
+price: 11.08
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 2.77
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.lerntipp.com/alphawellen#aff=adminstore"
+promo_link: "https://kevinmanke.com/affirmation-english/?aff=adminstore#aff=adminstore"
 sales_page: "https://kevinmanke.com/affirmation-english/"
 language: "en"
 ---
 # Affirmation | Guided Meditation and Mindset Upgrade
 
 > Product ID `54831` · Digistore24 productId `643699` · [HTML profile page](../../reviews/affirmation-guided-meditation-and-mindset-upgrade-54831.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $11.07 (Single payment) |
+| Price | $11.08 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $2.77 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.lerntipp.com/alphawellen#aff=adminstore
+- **Promo link (affiliate):** https://kevinmanke.com/affirmation-english/?aff=adminstore#aff=adminstore
 - Sales page: https://kevinmanke.com/affirmation-english/
 - Vendor affiliate support: https://kevinmanke.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/643699/adminstore
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Matrixreport, listed since 2025-10-24
-- How much? — 11.06919 USD
+- How much? — 11.076120000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affirmation | Guided Meditation and Mindset Upgrade alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/643699
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643699/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Affirmation%20%7C%20Guided%20Meditation%20and%20Mindset%20Upgrade
 
 ## 4. Editorial notes

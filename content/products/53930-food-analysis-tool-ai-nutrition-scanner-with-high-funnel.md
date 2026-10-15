@@ -4,16 +4,16 @@ digistore24_product_id: 632164
 title: "Food Analysis Tool – AI Nutrition Scanner with High Funnel"
 vendor: "goldinline"
 product_type: "Software"
-price: 97.27
+price: 97.34
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 48.64
+earnings_per_sale: 48.67
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Software"]
 listed_since: "2025-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://foodanalysistool.com/pitch?network=digistore24&aff=adminstore#aff=adminstore"
 sales_page: "https://foodanalysistool.com/pitch?network=digistore24"
@@ -22,16 +22,16 @@ language: "en"
 # Food Analysis Tool – AI Nutrition Scanner with High Funnel
 
 > Product ID `53930` · Digistore24 productId `632164` · [HTML profile page](../../reviews/food-analysis-tool-ai-nutrition-scanner-with-high-funnel-53930.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $97.27 (Subscription) |
+| Price | $97.34 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $48.64 |
+| Earnings/sale* | $48.67 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | goldinline |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: goldinline, listed since 2025-08-27
-- How much? — 97.27470000000001 USD
+- How much? — 97.3356 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Food Analysis Tool – AI Nutrition Scanner with High Funnel alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/632164
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/632164/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Food%20Analysis%20Tool%20%E2%80%93%20AI%20Nutrition%20Scanner%20with%20High%20Funnel
 
 ## 4. Editorial notes

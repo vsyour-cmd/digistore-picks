@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60431/adminstore/"
+promo_link: "https://springfloralsplanner-0yr.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://springfloralsplanner-0yr.plannerpack.co"
 language: "en"
 ---
 # Spring Florals Digital Planner (8.5 X 11 In) (1)
 
 > Product ID `60431` · Digistore24 productId `743937` · [HTML profile page](../../reviews/spring-florals-digital-planner-8-5-x-11-in-1-60431.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60431/adminstore/
+- **Promo link (affiliate):** https://springfloralsplanner-0yr.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://springfloralsplanner-0yr.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/743937/adminstore
 
@@ -92,7 +92,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spring Florals Digital Planner (8.5 X 11 In) (1) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/743937
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/743937/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Spring%20Florals%20Digital%20Planner%20(8.5%20X%2011%20In)%20(1)
 
 ## 4. Editorial notes

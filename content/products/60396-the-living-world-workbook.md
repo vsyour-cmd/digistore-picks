@@ -10,10 +10,10 @@ affiliate_commission_pct: 80
 earnings_per_sale: 29.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Profession & Job","Education","Hobby & Craft"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://thelivingworldmethod.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://thelivingworldmethod.site/"
@@ -22,7 +22,7 @@ language: "en"
 # The Living World Workbook
 
 > Product ID `60396` · Digistore24 productId `714096` · [HTML profile page](../../reviews/the-living-world-workbook-60396.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,11 +37,11 @@ language: "en"
 | Vendor | detroit200 |
 | Listed since | 2026-10-07 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Profession & Job, Education, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
-**Vendor's marketplace description:** The Living World Workbook 1) Access to creatives and ad copy 2) 24-hour contact with the producer 3) 80% commission A premium guided worldbuilding system for fantasy writers and creators. Turn disconnected ideas into a coherent living world where every important element creates consequences, pressure, conflict, and story possibilities. Digital PDF product.
+**Vendor's marketplace description:** AFFILIATE BENEFITS ✓ Earn 80% commission not only on the front-end, but across the entire funnel, including the Order Bump, Upsell and Downsell. ✓ $37 front-end ✓ Higher AOV potential ✓ Ready-to-use creatives and ad copy ✓ Evergreen fantasy/writing audience ✓ Fast affiliate support ✓ Instant digital fulfillment
 
 ## 2. Links
 
@@ -105,7 +105,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Living World Workbook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/714096
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714096/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Living%20World%20Workbook
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58897/adminstore/"
+promo_link: "https://microbiomesupplement-pe1.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://microbiomesupplement-pe1.plannerpack.co"
 language: "en"
 ---
 # Custom microbiome-based supplement formula
 
 > Product ID `58897` · Digistore24 productId `729479` · [HTML profile page](../../reviews/custom-microbiome-based-supplement-formula-58897.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58897/adminstore/
+- **Promo link (affiliate):** https://microbiomesupplement-pe1.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://microbiomesupplement-pe1.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/729479/adminstore
 
@@ -93,7 +93,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Custom microbiome-based supplement formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/729479
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/729479/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Custom%20microbiome-based%20supplement%20formula
 
 ## 4. Editorial notes

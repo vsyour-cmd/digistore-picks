@@ -10,19 +10,19 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Survival"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59277/adminstore/"
+promo_link: "https://feelbetter-today.com/clean-water?aff=adminstore#aff=adminstore"
 sales_page: "https://feelbetter-today.com/clean-water"
 language: "en"
 ---
 # NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors
 
 > Product ID `59277` · Digistore24 productId `732876` · [HTML profile page](../../reviews/new-aqua-tower-blockbuster-offer-from-top-diamond-vendors-59277.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | energyofren |
 | Listed since | 2026-09-16 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Survival |
+| Categories | Home & Garden, Green Products & Environmental Protection, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59277/adminstore/
+- **Promo link (affiliate):** https://feelbetter-today.com/clean-water?aff=adminstore#aff=adminstore
 - Sales page: https://feelbetter-today.com/clean-water
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5823371/en
 - Canonical redirect: https://www.digistore24.com/redir/732876/adminstore
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/732876
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732876/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Aqua%20Tower%20-%20Blockbuster%20Offer%20From%20Top%20Diamond%20Vendors
 
 ## 4. Editorial notes

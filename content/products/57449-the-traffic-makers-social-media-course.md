@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57449/adminstore/"
+promo_link: "https://thetrafficmakerssocialmediacourse-nm1.plannerpack.fun?aff=adminstore#aff=adminstore"
 sales_page: "https://thetrafficmakerssocialmediacourse-nm1.plannerpack.fun"
 language: "en"
 ---
 # The Traffic Makers Social Media Course
 
 > Product ID `57449` · Digistore24 productId `709501` · [HTML profile page](../../reviews/the-traffic-makers-social-media-course-57449.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57449/adminstore/
+- **Promo link (affiliate):** https://thetrafficmakerssocialmediacourse-nm1.plannerpack.fun?aff=adminstore#aff=adminstore
 - Sales page: https://thetrafficmakerssocialmediacourse-nm1.plannerpack.fun
 - Canonical redirect: https://www.digistore24.com/redir/709501/adminstore
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Traffic Makers Social Media Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/709501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/709501/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Traffic%20Makers%20Social%20Media%20Course
 
 ## 4. Editorial notes

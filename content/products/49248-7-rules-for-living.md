@@ -7,13 +7,13 @@ product_type: "E-books"
 price: 7.83
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 3.91
+earnings_per_sale: 3.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2024-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/554931?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/554931"
@@ -22,7 +22,7 @@ language: "en"
 # 7 Rules for Living
 
 > Product ID `49248` · Digistore24 productId `554931` · [HTML profile page](../../reviews/7-rules-for-living-49248.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -31,13 +31,13 @@ language: "en"
 | Product type | E-books |
 | Price | $7.83 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $3.91 |
+| Earnings/sale* | $3.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Santttos |
 | Listed since | 2024-05-31 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Santttos, listed since 2024-05-31
-- How much? — 7.826700000000001 USD
+- How much? — 7.8316 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7 Rules for Living alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/554931
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/554931/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=7%20Rules%20for%20Living
 
 ## 4. Editorial notes

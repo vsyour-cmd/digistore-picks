@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 17.99
 cart_conversion_pct: 4
 cancel_rate_pct: 4.89
-categories: ["Hobby & Craft","Software"]
+categories: ["Software","Hobby & Craft"]
 listed_since: "2020-11-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://fontilo.com/en/plus?aff=adminstore#aff=adminstore"
 sales_page: "https://fontilo.com/en/plus"
@@ -22,7 +22,7 @@ language: "en"
 # Lettering Generator Plus
 
 > Product ID `46724` · Digistore24 productId `359713` · [HTML profile page](../../reviews/lettering-generator-plus-46724.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Timothy90 |
 | Listed since | 2020-11-26 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Software |
+| Categories | Software, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lettering Generator Plus alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/359713
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/359713/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lettering%20Generator%20Plus
 
 ## 4. Editorial notes

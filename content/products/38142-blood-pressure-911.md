@@ -4,16 +4,16 @@ digistore24_product_id: 365097
 title: "Blood Pressure 911"
 vendor: "Phytage"
 product_type: "Supplements - health"
-price: 78.21
+price: 78.26
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.84
+earnings_per_sale: 50.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2020-12-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://ds.bloodpressure911.com/bp911slowv2/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://ds.bloodpressure911.com/bp911slowv2/index.php"
@@ -22,16 +22,16 @@ language: "en"
 # Blood Pressure 911
 
 > Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](../../reviews/blood-pressure-911-38142.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $78.21 (Single payment) |
+| Price | $78.26 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.84 |
+| Earnings/sale* | $50.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Phytage |
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Phytage, listed since 2020-12-29
-- How much? — 78.21109500000001 USD
+- How much? — 78.26006000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Blood Pressure 911 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/365097
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/365097/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Blood%20Pressure%20911
 
 ## 4. Editorial notes

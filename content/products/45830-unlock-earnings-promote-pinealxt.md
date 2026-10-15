@@ -4,16 +4,16 @@ digistore24_product_id: 520212
 title: "Unlock Earnings! Promote PinealXT!"
 vendor: "Nutraville"
 product_type: "Supplements - health"
-price: 201.75
+price: 201.88
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 151.83
+earnings_per_sale: 151.92
 cart_conversion_pct: 13
 cancel_rate_pct: 9.97
 categories: ["Food Supplements"]
 listed_since: "2023-10-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://pxt.pinealxt.com/ds/presentation/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://pxt.pinealxt.com/ds/presentation/index.php"
@@ -22,16 +22,16 @@ language: "en"
 # Unlock Earnings! Promote PinealXT!
 
 > Product ID `45830` · Digistore24 productId `520212` · [HTML profile page](../../reviews/unlock-earnings-promote-pinealxt-45830.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $201.75 (Single payment) |
+| Price | $201.88 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $151.83 |
+| Earnings/sale* | $151.92 |
 | Cart conversion* | 13% |
 | Cancel rate* | 9.97% |
 | Vendor | Nutraville |
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Nutraville, listed since 2023-10-10
-- How much? — 201.749964 USD
+- How much? — 201.876272 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Earnings! Promote PinealXT! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/520212
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/520212/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unlock%20Earnings!%20Promote%20PinealXT!
 
 ## 4. Editorial notes

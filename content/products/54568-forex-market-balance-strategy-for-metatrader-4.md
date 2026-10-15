@@ -4,16 +4,16 @@ digistore24_product_id: 646135
 title: "Forex Market Balance Strategy For MetaTrader 4"
 vendor: "forexobroker"
 product_type: "Software"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://forexprofitkeeper.com/forex-market-balance-strategy-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-market-balance-strategy-dg/"
@@ -22,16 +22,16 @@ language: "en"
 # Forex Market Balance Strategy For MetaTrader 4
 
 > Product ID `54568` · Digistore24 productId `646135` · [HTML profile page](../../reviews/forex-market-balance-strategy-for-metatrader-4-54568.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | forexobroker |
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: forexobroker, listed since 2025-11-04
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forex Market Balance Strategy For MetaTrader 4 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/646135
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646135/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Forex%20Market%20Balance%20Strategy%20For%20MetaTrader%204
 
 ## 4. Editorial notes

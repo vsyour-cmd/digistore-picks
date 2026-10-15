@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Survival"]
 listed_since: "2026-08-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://buylessmakemore.com/GFG_sales-page.html?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]#aff=adminstore."
 sales_page: "https://buylessmakemore.com/GFG_sales-page.html?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,7 +22,7 @@ language: "en"
 # The Grocery Freedom Garden: Grow Food That Saves Money
 
 > Product ID `58634` · Digistore24 productId `722515` · [HTML profile page](../../reviews/the-grocery-freedom-garden-grow-food-that-saves-money-58634.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Grocery Freedom Garden: Grow Food That Saves Money alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/722515
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/722515/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Grocery%20Freedom%20Garden%3A%20Grow%20Food%20That%20Saves%20Money
 
 ## 4. Editorial notes

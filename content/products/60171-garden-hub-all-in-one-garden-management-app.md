@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 5.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Home & Garden"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/60171/adminstore/"
+promo_link: "https://berryoperatingsystems.my.canva.site/garden-hub?aff=adminstore#aff=adminstore"
 sales_page: "https://berryoperatingsystems.my.canva.site/garden-hub"
 language: "en"
 ---
 # Garden Hub: All-in-One Garden Management App
 
 > Product ID `60171` · Digistore24 productId `741614` · [HTML profile page](../../reviews/garden-hub-all-in-one-garden-management-app-60171.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | BerryOS |
 | Listed since | 2026-10-04 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60171/adminstore/
+- **Promo link (affiliate):** https://berryoperatingsystems.my.canva.site/garden-hub?aff=adminstore#aff=adminstore
 - Sales page: https://berryoperatingsystems.my.canva.site/garden-hub
 - Canonical redirect: https://www.digistore24.com/redir/741614/adminstore
 
@@ -66,7 +66,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Garden Hub: All-in-One Garden Management App alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/741614
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/741614/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Garden%20Hub%3A%20All-in-One%20Garden%20Management%20App
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 540224
 title: "Lottery Whiz /US /English"
 vendor: "lottowhiz"
 product_type: "Member area and video courses"
-price: 423.76
+price: 424.03
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 275.44
+earnings_per_sale: 275.62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Betting Systems","Business & Investment","Fun & Games"]
+categories: ["Business & Investment","Betting Systems","Fun & Games"]
 listed_since: "2024-02-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47273/adminstore/"
+promo_link: "https://lotterywhiz.com?aff=adminstore#aff=adminstore"
 sales_page: "https://lotterywhiz.com"
 language: "en"
 ---
 # Lottery Whiz /US /English
 
 > Product ID `47273` · Digistore24 productId `540224` · [HTML profile page](../../reviews/lottery-whiz-us-english-47273.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $423.76 (Single payment) |
+| Price | $424.03 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $275.44 |
+| Earnings/sale* | $275.62 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lottowhiz |
 | Listed since | 2024-02-22 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Betting Systems, Business & Investment, Fun & Games |
+| Categories | Business & Investment, Betting Systems, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47273/adminstore/
+- **Promo link (affiliate):** https://lotterywhiz.com?aff=adminstore#aff=adminstore
 - Sales page: https://lotterywhiz.com
 - Vendor affiliate support: https://lotterywhiz.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/540224/adminstore
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: lottowhiz, listed since 2024-02-22
-- How much? — 423.7599 USD
+- How much? — 424.0252 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lottery Whiz /US /English alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/540224
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/540224/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lottery%20Whiz%20%2FUS%20%2FEnglish
 
 ## 4. Editorial notes

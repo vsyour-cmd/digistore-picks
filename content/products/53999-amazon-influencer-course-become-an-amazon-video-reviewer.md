@@ -4,34 +4,34 @@ digistore24_product_id: 634897
 title: "Amazon Influencer Course – Become an Amazon Video Reviewer"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53999/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/634897?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/634897"
 language: "en"
 ---
 # Amazon Influencer Course – Become an Amazon Video Reviewer
 
 > Product ID `53999` · Digistore24 productId `634897` · [HTML profile page](../../reviews/amazon-influencer-course-become-an-amazon-video-reviewer-53999.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53999/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/634897?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/634897
 - Canonical redirect: https://www.digistore24.com/redir/634897/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-09-10
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazon Influencer Course – Become an Amazon Video Reviewer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/634897
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634897/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Amazon%20Influencer%20Course%20%E2%80%93%20Become%20an%20Amazon%20Video%20Reviewer
 
 ## 4. Editorial notes

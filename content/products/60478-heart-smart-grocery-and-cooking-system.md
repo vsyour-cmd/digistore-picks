@@ -10,10 +10,10 @@ affiliate_commission_pct: 60
 earnings_per_sale: 22.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness"]
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://healthsecrets.com/products/heart-smart-grocery-and-cooking-system?aff=adminstore#aff=adminstore"
 sales_page: "https://healthsecrets.com/products/heart-smart-grocery-and-cooking-system"
@@ -22,7 +22,7 @@ language: "en"
 # Heart-Smart Grocery and Cooking System
 
 > Product ID `60478` · Digistore24 productId `733175` · [HTML profile page](../../reviews/heart-smart-grocery-and-cooking-system-60478.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | healthsecretscom |
 | Listed since | 2026-10-09 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -111,7 +111,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heart-Smart Grocery and Cooking System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/733175
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733175/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Heart-Smart%20Grocery%20and%20Cooking%20System
 
 ## 4. Editorial notes

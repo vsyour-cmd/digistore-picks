@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57009/adminstore/"
+promo_link: "http://www.offerlaunchpad.site/canva-cash-machine?aff=adminstore#aff=adminstore"
 sales_page: "http://www.offerlaunchpad.site/canva-cash-machine"
 language: "en"
 ---
 # Canva Cash Machine
 
 > Product ID `57009` · Digistore24 productId `702453` · [HTML profile page](../../reviews/canva-cash-machine-57009.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57009/adminstore/
+- **Promo link (affiliate):** http://www.offerlaunchpad.site/canva-cash-machine?aff=adminstore#aff=adminstore
 - Sales page: http://www.offerlaunchpad.site/canva-cash-machine
 - Vendor affiliate support: https://www.offerlaunchpad.site/canva-cash-machine-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/702453/adminstore
@@ -101,7 +101,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Canva Cash Machine alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/702453
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/702453/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Canva%20Cash%20Machine
 
 ## 4. Editorial notes

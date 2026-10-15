@@ -4,40 +4,40 @@ digistore24_product_id: 644279
 title: "“Enjoy 60% launch commissions through January 2026! All plan"
 vendor: "earnwithease"
 product_type: "Software"
-price: 78.16
+price: 78.2
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.89
+earnings_per_sale: 46.92
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Fun & Games"]
+categories: ["Family & Children","Education","Fun & Games"]
 listed_since: "2025-10-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/54525/adminstore/"
+promo_link: "https://soultribe.digital/sales?aff=adminstore#aff=adminstore"
 sales_page: "https://soultribe.digital/sales"
 language: "en"
 ---
 # “Enjoy 60% launch commissions through January 2026! All plan
 
 > Product ID `54525` · Digistore24 productId `644279` · [HTML profile page](../../reviews/enjoy-60-launch-commissions-through-january-2026-all-plan-54525.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $78.16 (Single payment, Subscription) |
+| Price | $78.20 (Single payment, Subscription) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.89 |
+| Earnings/sale* | $46.92 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | earnwithease |
 | Listed since | 2025-10-27 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Fun & Games |
+| Categories | Family & Children, Education, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54525/adminstore/
+- **Promo link (affiliate):** https://soultribe.digital/sales?aff=adminstore#aff=adminstore
 - Sales page: https://soultribe.digital/sales
 - Vendor affiliate support: https://soultribeapp.shop/affiliate
 - Canonical redirect: https://www.digistore24.com/redir/644279/adminstore
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: earnwithease, listed since 2025-10-27
-- How much? — 78.15519000000002 USD
+- How much? — 78.20412 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: “Enjoy 60% launch commissions through January 2026! All plan alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/644279
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644279/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%80%9CEnjoy%2060%25%20launch%20commissions%20through%20January%202026!%20All%20plan
 
 ## 4. Editorial notes

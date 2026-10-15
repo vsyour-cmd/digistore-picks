@@ -4,7 +4,7 @@ digistore24_product_id: 570969
 title: "MADEIRA BY BUS - Interactive Travel Guide For Madeira"
 vendor: "madeira-bus"
 product_type: "E-books"
-price: 21.18
+price: 21.19
 currency: "USD"
 affiliate_commission_pct: 25
 earnings_per_sale: 4.82
@@ -12,8 +12,8 @@ cart_conversion_pct: 2
 cancel_rate_pct: 0
 categories: ["Travel & Culture"]
 listed_since: "2024-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.madeira-by-bus.com/read?aff=adminstore#aff=adminstore"
 sales_page: "https://www.madeira-by-bus.com/read"
@@ -22,14 +22,14 @@ language: "en"
 # MADEIRA BY BUS - Interactive Travel Guide For Madeira
 
 > Product ID `50900` · Digistore24 productId `570969` · [HTML profile page](../../reviews/madeira-by-bus-interactive-travel-guide-for-madeira-50900.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.18 (Single payment) |
+| Price | $21.19 (Single payment) |
 | Affiliate commission | 25% |
 | Earnings/sale* | $4.82 |
 | Cart conversion* | 2% |
@@ -86,14 +86,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: madeira-bus, listed since 2024-09-18
-- How much? — 21.176814000000004 USD
+- How much? — 21.190072 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MADEIRA BY BUS - Interactive Travel Guide For Madeira alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/570969
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/570969/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=MADEIRA%20BY%20BUS%20-%20Interactive%20Travel%20Guide%20For%20Madeira
 
 ## 4. Editorial notes

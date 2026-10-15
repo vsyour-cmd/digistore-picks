@@ -58,8 +58,9 @@ for (const p of DATA.products) {
   const img = localImg(p.id);
   add(`reviews/${slug(p.label)}-${p.id}.html`, DATA_DATE, img);
 }
-// 分类 FAQ 枢纽页(50 问/分类)
-for (const c of DATA.categories) add(`faq/${c.file}.html`, TODAY);
+// 分类 FAQ 枢纽页(50 问/分类):按目录扫描,避免为不存在的文件生成 URL
+const faqDir = path.join(ROOT, "faq");
+if (fs.existsSync(faqDir)) for (const f of fs.readdirSync(faqDir)) if (f.endsWith(".html")) add(`faq/${f}`, TODAY);
 // deep-dive 顾问页(收益 Top10,与 build-site.js 的 GUIDE_POOL 同一筛选)
 for (const p of [...DATA.products].sort((a, b) => (b.earningsPerSale || 0) - (a.earningsPerSale || 0)).slice(0, 10)) {
   add(`reviews/${slug(p.label || "Digistore24 product " + p.id)}-${p.id}/guide.html`, TODAY);
@@ -188,6 +189,7 @@ console.log(`extras: sitemap.xml (${urls.length} URLs), robots.txt, llms.txt, fe
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>All alternatives &amp; comparisons — ${SITE_NAME}</title>
 <meta name="description" content="Every alternatives &amp; comparison page on ${SITE_NAME}: head-to-head options for the top Digistore24 marketplace products.">
+<link rel="canonical" href="${SITE_URL}/alternatives/index.html">
 <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>

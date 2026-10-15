@@ -4,16 +4,16 @@ digistore24_product_id: 412895
 title: "Find Weird \"Goldmine\" Domains In Seconds"
 vendor: "jamielewis"
 product_type: "Member area and video courses"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.23
+earnings_per_sale: 54.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-10-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://goldmineseeker.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://goldmineseeker.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Find Weird "Goldmine" Domains In Seconds
 
 > Product ID `39260` · Digistore24 productId `412895` · [HTML profile page](../../reviews/find-weird-goldmine-domains-in-seconds-39260.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.46 (Single payment) |
+| Price | $108.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.23 |
+| Earnings/sale* | $54.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | jamielewis |
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: jamielewis, listed since 2021-10-21
-- How much? — 108.45570000000001 USD
+- How much? — 108.5236 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Find Weird "Goldmine" Domains In Seconds alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/412895
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/412895/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Find%20Weird%20%22Goldmine%22%20Domains%20In%20Seconds
 
 ## 4. Editorial notes

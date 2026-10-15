@@ -4,16 +4,16 @@ digistore24_product_id: 651003
 title: " 100 Million+ PLR Products Mega Bundle- Make it Yours Now!"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-11-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/651003?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/651003"
@@ -22,16 +22,16 @@ language: "en"
 #  100 Million+ PLR Products Mega Bundle- Make it Yours Now!
 
 > Product ID `54764` · Digistore24 productId `651003` · [HTML profile page](../../reviews/100-million-plr-products-mega-bundle-make-it-yours-now-54764.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2025-11-25
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page:  100 Million+ PLR Products Mega Bundle- Make it Yours Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/651003
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651003/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%C2%A0100%20Million%2B%20PLR%20Products%20Mega%20Bundle-%20Make%20it%20Yours%20Now!
 
 ## 4. Editorial notes

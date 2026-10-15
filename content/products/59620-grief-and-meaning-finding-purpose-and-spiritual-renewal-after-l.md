@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://griefmeaningpurpose-r3k.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://griefmeaningpurpose-r3k.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Grief And Meaning Finding Purpose And Spiritual Renewal After L
 
 > Product ID `59620` · Digistore24 productId `736738` · [HTML profile page](../../reviews/grief-and-meaning-finding-purpose-and-spiritual-renewal-after-l-59620.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Grief And Meaning Finding Purpose And Spiritual Renewal After L alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736738
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736738/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Grief%20And%20Meaning%20Finding%20Purpose%20And%20Spiritual%20Renewal%20After%20L
 
 ## 4. Editorial notes

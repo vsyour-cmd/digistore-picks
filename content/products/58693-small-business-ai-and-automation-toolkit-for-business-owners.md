@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 49.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Online Marketing & E-Business","Software"]
+categories: ["Business & Investment","Software","Online Marketing & E-Business"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58693/adminstore/"
+promo_link: "https://marketplace.iotsystemsgrowth.com/small-business-ai-automation-toolkit-digistore/?aff=adminstore#aff=adminstore"
 sales_page: "https://marketplace.iotsystemsgrowth.com/small-business-ai-automation-toolkit-digistore/"
 language: "en"
 ---
 # Small Business AI and Automation Toolkit for Business Owners
 
 > Product ID `58693` · Digistore24 productId `724554` · [HTML profile page](../../reviews/small-business-ai-and-automation-toolkit-for-business-owners-58693.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | IoTSystemsGrowthSolutions |
 | Listed since | 2026-08-26 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Online Marketing & E-Business, Software |
+| Categories | Business & Investment, Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58693/adminstore/
+- **Promo link (affiliate):** https://marketplace.iotsystemsgrowth.com/small-business-ai-automation-toolkit-digistore/?aff=adminstore#aff=adminstore
 - Sales page: https://marketplace.iotsystemsgrowth.com/small-business-ai-automation-toolkit-digistore/
 - Canonical redirect: https://www.digistore24.com/redir/724554/adminstore
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Small Business AI and Automation Toolkit for Business Owners alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/724554
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724554/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Small%20Business%20AI%20and%20Automation%20Toolkit%20for%20Business%20Owners
 
 ## 4. Editorial notes

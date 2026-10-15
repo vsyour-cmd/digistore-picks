@@ -10,19 +10,19 @@ affiliate_commission_pct: 75
 earnings_per_sale: 12.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2024-05-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48043/adminstore/"
+promo_link: "https://www.plantbasedcookbook.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.plantbasedcookbook.com/ds/"
 language: "en"
 ---
 # The Complete Plant Based Recipe Cookbook - 200+ Vegan Recipe
 
 > Product ID `48043` · Digistore24 productId `550988` · [HTML profile page](../../reviews/the-complete-plant-based-recipe-cookbook-200-vegan-recipe-48043.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | plantbasedresource |
 | Listed since | 2024-05-04 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48043/adminstore/
+- **Promo link (affiliate):** https://www.plantbasedcookbook.com/ds/?aff=adminstore#aff=adminstore
 - Sales page: https://www.plantbasedcookbook.com/ds/
 - Vendor affiliate support: https://www.plantbasedcookbook.com/become-an-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/550988/adminstore
@@ -108,7 +108,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Complete Plant Based Recipe Cookbook - 200+ Vegan Recipe alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/550988
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/550988/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Complete%20Plant%20Based%20Recipe%20Cookbook%20-%20200%2B%20Vegan%20Recipe
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 569717
 title: "FullyVital Hair Serum"
 vendor: "fullyvital25"
 product_type: "Deliverable"
-price: 174.42
+price: 174.53
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 104.65
+earnings_per_sale: 104.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://gro.fullyvital.com/aff/?aff=adminstore#aff=adminstore"
 sales_page: "https://gro.fullyvital.com/aff/"
@@ -22,16 +22,16 @@ language: "en"
 # FullyVital Hair Serum
 
 > Product ID `46842` · Digistore24 productId `569717` · [HTML profile page](../../reviews/fullyvital-hair-serum-46842.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $174.42 (Single payment) |
+| Price | $174.53 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $104.65 |
+| Earnings/sale* | $104.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fullyvital25 |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: fullyvital25, listed since 2024-09-10
-- How much? — 174.42360000000002 USD
+- How much? — 174.5328 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: FullyVital Hair Serum alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/569717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/569717/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=FullyVital%20Hair%20Serum
 
 ## 4. Editorial notes

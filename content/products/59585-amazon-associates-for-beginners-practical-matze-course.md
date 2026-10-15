@@ -4,34 +4,34 @@ digistore24_product_id: 736412
 title: "Amazon Associates for Beginners – Practical Matze Course"
 vendor: "einfachmitmatze"
 product_type: "Downloads"
-price: 65.97
+price: 66.01
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 26.39
+earnings_per_sale: 26.4
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59585/adminstore/"
+promo_link: "https://www.digistore24.com/product/736412?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736412"
 language: "en"
 ---
 # Amazon Associates for Beginners – Practical Matze Course
 
 > Product ID `59585` · Digistore24 productId `736412` · [HTML profile page](../../reviews/amazon-associates-for-beginners-practical-matze-course-59585.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $65.97 (Single payment) |
+| Price | $66.01 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $26.39 |
+| Earnings/sale* | $26.40 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | einfachmitmatze |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59585/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/736412?aff=adminstore
 - Sales page: https://www.digistore24.com/product/736412
 - Vendor affiliate support: https://einfachmitmatze.de/partner-736412/
 - Canonical redirect: https://www.digistore24.com/redir/736412/adminstore
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: einfachmitmatze, listed since 2026-09-23
-- How much? — 65.9679 USD
+- How much? — 66.0092 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazon Associates for Beginners – Practical Matze Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736412
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736412/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Amazon%20Associates%20for%20Beginners%20%E2%80%93%20Practical%20Matze%20Course
 
 ## 4. Editorial notes

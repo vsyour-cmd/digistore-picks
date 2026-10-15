@@ -4,16 +4,16 @@ digistore24_product_id: 646770
 title: "The Sugar Reset: Balanced Blood Sugar for Lifelong Energy"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 33.54
+price: 33.56
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 26.83
+earnings_per_sale: 26.85
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2025-11-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://sugarresetpage.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://sugarresetpage.netlify.app/"
@@ -22,22 +22,22 @@ language: "en"
 # The Sugar Reset: Balanced Blood Sugar for Lifelong Energy
 
 > Product ID `54628` · Digistore24 productId `646770` · [HTML profile page](../../reviews/the-sugar-reset-balanced-blood-sugar-for-lifelong-energy-54628.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $33.54 (Single payment) |
+| Price | $33.56 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $26.83 |
+| Earnings/sale* | $26.85 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2025-11-07 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,14 +86,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-11-07
-- How much? — 33.543000000000006 USD
+- How much? — 33.564 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Sugar Reset: Balanced Blood Sugar for Lifelong Energy alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/646770
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646770/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Sugar%20Reset%3A%20Balanced%20Blood%20Sugar%20for%20Lifelong%20Energy
 
 ## 4. Editorial notes

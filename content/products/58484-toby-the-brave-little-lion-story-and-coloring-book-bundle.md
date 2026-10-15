@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Family & Children"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/721060?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/721060"
@@ -22,7 +22,7 @@ language: "en"
 # Toby the Brave Little Lion – Story and Coloring Book Bundle
 
 > Product ID `58484` · Digistore24 productId `721060` · [HTML profile page](../../reviews/toby-the-brave-little-lion-story-and-coloring-book-bundle-58484.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Toby the Brave Little Lion – Story and Coloring Book Bundle alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/721060
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/721060/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Toby%20the%20Brave%20Little%20Lion%20%E2%80%93%20Story%20and%20Coloring%20Book%20Bundle
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 589747
 title: "Boost Your Immune System Naturally"
 vendor: "emrkts"
 product_type: "E-books"
-price: 27.95
+price: 27.97
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 19.57
+earnings_per_sale: 19.58
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-01-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50965/adminstore/"
+promo_link: "https://prohealthly.com/immunity-booster/?aff=adminstore#aff=adminstore"
 sales_page: "https://prohealthly.com/immunity-booster/"
 language: "en"
 ---
 # Boost Your Immune System Naturally
 
 > Product ID `50965` · Digistore24 productId `589747` · [HTML profile page](../../reviews/boost-your-immune-system-naturally-50965.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.95 (Single payment) |
+| Price | $27.97 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $19.57 |
+| Earnings/sale* | $19.58 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | emrkts |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50965/adminstore/
+- **Promo link (affiliate):** https://prohealthly.com/immunity-booster/?aff=adminstore#aff=adminstore
 - Sales page: https://prohealthly.com/immunity-booster/
 - Vendor affiliate support: https://prohealthly.com/commonpage.html
 - Canonical redirect: https://www.digistore24.com/redir/589747/adminstore
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: emrkts, listed since 2025-01-10
-- How much? — 27.9525 USD
+- How much? — 27.97 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Boost Your Immune System Naturally alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/589747
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/589747/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Boost%20Your%20Immune%20System%20Naturally
 
 ## 4. Editorial notes

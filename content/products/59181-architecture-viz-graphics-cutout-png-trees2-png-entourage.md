@@ -10,19 +10,19 @@ affiliate_commission_pct: 25
 earnings_per_sale: 39.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+categories: ["Profession & Job","Hobby & Craft","Photography & Film"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59181/adminstore/"
+promo_link: "https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/"
 language: "en"
 ---
 # Architecture VIZ Graphics – Cutout PNG Trees2 PNG Entourage
 
 > Product ID `59181` · Digistore24 productId `593561` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-png-trees2-png-entourage-59181.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Tonytextures |
 | Listed since | 2026-09-13 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Hobby & Craft, Photography & Film, Profession & Job |
+| Categories | Profession & Job, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59181/adminstore/
+- **Promo link (affiliate):** https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/cutout-trees-v02-architecture-visualization/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/593561/adminstore
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Architecture VIZ Graphics – Cutout PNG Trees2 PNG Entourage alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/593561
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/593561/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Architecture%20VIZ%20Graphics%20%E2%80%93%20Cutout%20PNG%20Trees2%20PNG%20Entourage
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 450647
 title: "The AZ Code"
 vendor: "azcode08"
 product_type: "E-books"
-price: 72.78
+price: 72.82
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 45.6
+earnings_per_sale: 45.62
 cart_conversion_pct: 9
 cancel_rate_pct: 38.92
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-07-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/40563/adminstore/"
+promo_link: "https://www.theazcode.com?aff=adminstore#aff=adminstore"
 sales_page: "https://www.theazcode.com"
 language: "en"
 ---
 # The AZ Code
 
 > Product ID `40563` · Digistore24 productId `450647` · [HTML profile page](../../reviews/the-az-code-40563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $72.78 (Single payment) |
+| Price | $72.82 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $45.60 |
+| Earnings/sale* | $45.62 |
 | Cart conversion* | 9% |
 | Cancel rate* | 38.92% |
 | Vendor | azcode08 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40563/adminstore/
+- **Promo link (affiliate):** https://www.theazcode.com?aff=adminstore#aff=adminstore
 - Sales page: https://www.theazcode.com
 - Vendor affiliate support: https://www.theazcode.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/450647/adminstore
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: azcode08, listed since 2022-07-11
-- How much? — 72.77712900000002 USD
+- How much? — 72.822692 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The AZ Code alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/450647
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/450647/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20AZ%20Code
 
 ## 4. Editorial notes

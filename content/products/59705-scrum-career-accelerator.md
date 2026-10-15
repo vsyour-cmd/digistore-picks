@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 23.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Personal Development","Profession & Job","Software"]
+categories: ["Personal Development","Software","Profession & Job"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59705/adminstore/"
+promo_link: "https://www.noa.rs.ba/scrum-career-accelerator?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/scrum-career-accelerator"
 language: "en"
 ---
 # Scrum Career Accelerator
 
 > Product ID `59705` · Digistore24 productId `736035` · [HTML profile page](../../reviews/scrum-career-accelerator-59705.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | TopCourseCreator |
 | Listed since | 2026-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Personal Development, Profession & Job, Software |
+| Categories | Personal Development, Software, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59705/adminstore/
+- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-accelerator?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/scrum-career-accelerator
 - Vendor affiliate support: https://www.majkic.net/novosti/nauka-i-tehnologija/1516-promote-the-scrum-career-accelerator-and-earn-50-commission-on-each-sal
 - Canonical redirect: https://www.digistore24.com/redir/736035/adminstore
@@ -106,7 +106,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Scrum Career Accelerator alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736035
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736035/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Scrum%20Career%20Accelerator
 
 ## 4. Editorial notes

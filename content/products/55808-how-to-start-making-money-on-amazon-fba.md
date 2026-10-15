@@ -4,16 +4,16 @@ digistore24_product_id: 673151
 title: "How to start making money on Amazon FBA"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-03-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/673151?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/673151"
@@ -22,16 +22,16 @@ language: "en"
 # How to start making money on Amazon FBA
 
 > Product ID `55808` · Digistore24 productId `673151` · [HTML profile page](../../reviews/how-to-start-making-money-on-amazon-fba-55808.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2026-03-03
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: How to start making money on Amazon FBA alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/673151
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/673151/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=How%20to%20start%20making%20money%20on%20Amazon%20FBA
 
 ## 4. Editorial notes

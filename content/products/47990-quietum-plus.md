@@ -4,16 +4,16 @@ digistore24_product_id: 549735
 title: "Quietum Plus"
 vendor: "QuietumPlus"
 product_type: "Supplements - health"
-price: 267.4
+price: 267.57
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 118.43
+earnings_per_sale: 118.5
 cart_conversion_pct: 4
 cancel_rate_pct: 20.04
 categories: ["Food Supplements"]
 listed_since: "2024-04-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://quietumplus24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://quietumplus24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Quietum Plus
 
 > Product ID `47990` · Digistore24 productId `549735` · [HTML profile page](../../reviews/quietum-plus-47990.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $267.40 (Single payment) |
+| Price | $267.57 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $118.43 |
+| Earnings/sale* | $118.50 |
 | Cart conversion* | 4% |
 | Cancel rate* | 20.04% |
 | Vendor | QuietumPlus |
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: QuietumPlus, listed since 2024-04-25
-- How much? — 267.40479600000003 USD
+- How much? — 267.572208 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quietum Plus alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/549735
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/549735/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Quietum%20Plus
 
 ## 4. Editorial notes

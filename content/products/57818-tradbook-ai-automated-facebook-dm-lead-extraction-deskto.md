@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 124.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Services","Social Media","Software"]
+categories: ["Software","Services","Social Media"]
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://tradbook.in/Digistore-plan?aff=adminstore#aff=adminstore"
 sales_page: "https://tradbook.in/Digistore-plan"
@@ -22,7 +22,7 @@ language: "en"
 # Tradbook AI Automated Facebook DM, Lead Extraction Deskto
 
 > Product ID `57818` · Digistore24 productId `716468` · [HTML profile page](../../reviews/tradbook-ai-automated-facebook-dm-lead-extraction-deskto-57818.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | lala78690008a4 |
 | Listed since | 2026-07-31 |
 | Auto-accept affiliates | yes |
-| Categories | Services, Social Media, Software |
+| Categories | Software, Services, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Tradbook AI Automated Facebook DM, Lead Extraction Deskto alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/716468
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716468/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Tradbook%20AI%20Automated%20Facebook%20DM%2C%20Lead%20Extraction%20Deskto
 
 ## 4. Editorial notes

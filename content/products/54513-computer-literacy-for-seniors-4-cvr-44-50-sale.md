@@ -4,40 +4,40 @@ digistore24_product_id: 642084
 title: "Computer Literacy for Seniors | 4% CVR | $44.50/Sale"
 vendor: "MasterYourMachineIn90Days"
 product_type: "Member area and video courses"
-price: 99.51
+price: 99.57
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 74.63
+earnings_per_sale: 74.68
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Personal Development"]
+categories: ["Personal Development","Computer & Internet","Education"]
 listed_since: "2025-10-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/54513/adminstore/"
+promo_link: "https://masteryourmachinein90days.com/offer/video-ds24?aff=adminstore#aff=adminstore"
 sales_page: "https://masteryourmachinein90days.com/offer/video-ds24"
 language: "en"
 ---
 # Computer Literacy for Seniors | 4% CVR | $44.50/Sale
 
 > Product ID `54513` · Digistore24 productId `642084` · [HTML profile page](../../reviews/computer-literacy-for-seniors-4-cvr-44-50-sale-54513.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $99.51 (Single payment) |
+| Price | $99.57 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $74.63 |
+| Earnings/sale* | $74.68 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MasterYourMachineIn90Days |
 | Listed since | 2025-10-17 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Personal Development |
+| Categories | Personal Development, Computer & Internet, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54513/adminstore/
+- **Promo link (affiliate):** https://masteryourmachinein90days.com/offer/video-ds24?aff=adminstore#aff=adminstore
 - Sales page: https://masteryourmachinein90days.com/offer/video-ds24
 - Vendor affiliate support: http://masteryourmachinein90days.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/642084/adminstore
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: MasterYourMachineIn90Days, listed since 2025-10-17
-- How much? — 99.5109 USD
+- How much? — 99.5732 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Computer Literacy for Seniors | 4% CVR | $44.50/Sale alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/642084
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642084/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Computer%20Literacy%20for%20Seniors%20%7C%204%25%20CVR%20%7C%20%2444.50%2FSale
 
 ## 4. Editorial notes

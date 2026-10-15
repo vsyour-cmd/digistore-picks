@@ -4,40 +4,40 @@ digistore24_product_id: 518675
 title: "SecuPerts Rescue Stick – Your Digital Emergency Assistant"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Hobby & Craft","Software"]
+categories: ["Software","Computer & Internet","Hobby & Craft"]
 listed_since: "2023-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52073/adminstore/"
+promo_link: "https://www.digistore24.com/product/518675?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/518675"
 language: "en"
 ---
 # SecuPerts Rescue Stick – Your Digital Emergency Assistant
 
 > Product ID `52073` · Digistore24 productId `518675` · [HTML profile page](../../reviews/secuperts-rescue-stick-your-digital-emergency-assistant-52073.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
 | Listed since | 2023-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Hobby & Craft, Software |
+| Categories | Software, Computer & Internet, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52073/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/518675?aff=adminstore
 - Sales page: https://www.digistore24.com/product/518675
 - Canonical redirect: https://www.digistore24.com/redir/518675/adminstore
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2023-09-29
-- How much? — 28.17612 USD
+- How much? — 28.19376 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SecuPerts Rescue Stick – Your Digital Emergency Assistant alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/518675
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/518675/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SecuPerts%20Rescue%20Stick%20%E2%80%93%20Your%20Digital%20Emergency%20Assistant
 
 ## 4. Editorial notes

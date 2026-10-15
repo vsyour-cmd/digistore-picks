@@ -4,16 +4,16 @@ digistore24_product_id: 645625
 title: "The Subconscious Millionaire System"
 vendor: "darrelltee"
 product_type: "Downloads"
-price: 220.27
+price: 220.4
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 165.2
+earnings_per_sale: 165.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2025-11-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/the-subconscious-millionaire-system"
@@ -22,16 +22,16 @@ language: "en"
 # The Subconscious Millionaire System
 
 > Product ID `54540` · Digistore24 productId `645625` · [HTML profile page](../../reviews/the-subconscious-millionaire-system-54540.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $220.27 (Single payment) |
+| Price | $220.40 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $165.20 |
+| Earnings/sale* | $165.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -79,14 +79,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: darrelltee, listed since 2025-11-01
-- How much? — 220.2657 USD
+- How much? — 220.4036 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Subconscious Millionaire System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/645625
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/645625/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Subconscious%20Millionaire%20System
 
 ## 4. Editorial notes

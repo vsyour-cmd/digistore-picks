@@ -4,16 +4,16 @@ digistore24_product_id: 491495
 title: "7-Figure ELITE Partnership"
 vendor: "Perpincome"
 product_type: "Member area and video courses"
-price: 1029.98
+price: 1030.63
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 419.67
+earnings_per_sale: 419.93
 cart_conversion_pct: 5
 cancel_rate_pct: 12.05
 categories: ["Email Marketing"]
 listed_since: "2023-03-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration?aff=adminstore#aff=adminstore"
 sales_page: "https://perpetualincome365.convertri.com/7figure-everwebinar-registration"
@@ -22,16 +22,16 @@ language: "en"
 # 7-Figure ELITE Partnership
 
 > Product ID `50878` · Digistore24 productId `491495` · [HTML profile page](../../reviews/7-figure-elite-partnership-50878.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1029.98 (Single payment) |
+| Price | $1030.63 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $419.67 |
+| Earnings/sale* | $419.93 |
 | Cart conversion* | 5% |
 | Cancel rate* | 12.05% |
 | Vendor | Perpincome |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Perpincome, listed since 2023-03-29
-- How much? — 1029.982539 USD
+- How much? — 1030.6273720000002 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7-Figure ELITE Partnership alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/491495
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/491495/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=7-Figure%20ELITE%20Partnership
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 502452
 title: "Black Ox - Hardcore Test Enhancer"
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 318.61
+price: 318.81
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 191.17
+earnings_per_sale: 191.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-06-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digistore24.com/product/502452?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/502452"
@@ -22,16 +22,16 @@ language: "en"
 # Black Ox - Hardcore Test Enhancer
 
 > Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](../../reviews/black-ox-hardcore-test-enhancer-44566.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $318.61 (Single payment) |
+| Price | $318.81 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $191.17 |
+| Earnings/sale* | $191.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2023-06-09
-- How much? — 318.61377600000003 USD
+- How much? — 318.813248 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Black Ox - Hardcore Test Enhancer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/502452
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/502452/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Black%20Ox%20-%20Hardcore%20Test%20Enhancer
 
 ## 4. Editorial notes

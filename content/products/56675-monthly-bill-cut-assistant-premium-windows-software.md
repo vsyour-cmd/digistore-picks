@@ -4,34 +4,34 @@ digistore24_product_id: 690415
 title: "Monthly Bill Cut Assistant Premium – Windows Software"
 vendor: "EnricoLanciani"
 product_type: "Software"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 12.97
+earnings_per_sale: 12.98
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2026-05-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56675/adminstore/"
+promo_link: "https://nexilolab.com/usa/?aff=adminstore#aff=adminstore"
 sales_page: "https://nexilolab.com/usa/"
 language: "en"
 ---
 # Monthly Bill Cut Assistant Premium – Windows Software
 
 > Product ID `56675` · Digistore24 productId `690415` · [HTML profile page](../../reviews/monthly-bill-cut-assistant-premium-windows-software-56675.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $12.97 |
+| Earnings/sale* | $12.98 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | EnricoLanciani |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56675/adminstore/
+- **Promo link (affiliate):** https://nexilolab.com/usa/?aff=adminstore#aff=adminstore
 - Sales page: https://nexilolab.com/usa/
 - Canonical redirect: https://www.digistore24.com/redir/690415/adminstore
 
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: EnricoLanciani, listed since 2026-05-25
-- How much? — 32.4249 USD
+- How much? — 32.4452 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Monthly Bill Cut Assistant Premium – Windows Software alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/690415
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/690415/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Monthly%20Bill%20Cut%20Assistant%20Premium%20%E2%80%93%20Windows%20Software
 
 ## 4. Editorial notes

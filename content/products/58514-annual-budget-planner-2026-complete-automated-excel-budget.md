@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 23.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Software"]
+categories: ["Personal Development","Business & Investment","Software"]
 listed_since: "2026-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://go.annualbudgetplanner.shop/digistore24?aff=adminstore#aff=adminstore"
 sales_page: "https://go.annualbudgetplanner.shop/digistore24"
@@ -22,7 +22,7 @@ language: "en"
 # Annual Budget Planner 2026 – Complete Automated Excel Budget
 
 > Product ID `58514` · Digistore24 productId `720119` · [HTML profile page](../../reviews/annual-budget-planner-2026-complete-automated-excel-budget-58514.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | GreatDigital |
 | Listed since | 2026-08-22 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Software |
+| Categories | Personal Development, Business & Investment, Software |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Annual Budget Planner 2026 – Complete Automated Excel Budget alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/720119
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/720119/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Annual%20Budget%20Planner%202026%20%E2%80%93%20Complete%20Automated%20Excel%20Budget
 
 ## 4. Editorial notes

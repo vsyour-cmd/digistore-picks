@@ -4,40 +4,40 @@ digistore24_product_id: 684535
 title: "The Body Image Reset Guide"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fashion","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Fashion"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/56259/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/684535?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684535"
 language: "en"
 ---
 # The Body Image Reset Guide
 
 > Product ID `56259` · Digistore24 productId `684535` · [HTML profile page](../../reviews/the-body-image-reset-guide-56259.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
 | Listed since | 2026-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Fashion, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Fashion |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56259/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/684535?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/684535
 - Canonical redirect: https://www.digistore24.com/redir/684535/adminstore
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Body Image Reset Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/684535
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684535/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Body%20Image%20Reset%20Guide
 
 ## 4. Editorial notes

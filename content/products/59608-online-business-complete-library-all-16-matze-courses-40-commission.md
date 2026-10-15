@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/736588?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/736588"
@@ -22,7 +22,7 @@ language: "en"
 # Online Business Complete Library – All 16 Matze Courses | 40% Commission
 
 > Product ID `59608` · Digistore24 productId `736588` · [HTML profile page](../../reviews/online-business-complete-library-all-16-matze-courses-40-commission-59608.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Business Complete Library – All 16 Matze Courses | 40% Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736588
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736588/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Online%20Business%20Complete%20Library%20%E2%80%93%20All%2016%20Matze%20Courses%20%7C%2040%25%20Commission
 
 ## 4. Editorial notes

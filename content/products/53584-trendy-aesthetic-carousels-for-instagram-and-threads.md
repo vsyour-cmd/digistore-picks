@@ -4,7 +4,7 @@ digistore24_product_id: 630734
 title: "Trendy Aesthetic Carousels for Instagram and Threads"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 9.39
+price: 9.4
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 4.7
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630734?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/630734"
@@ -22,14 +22,14 @@ language: "en"
 # Trendy Aesthetic Carousels for Instagram and Threads
 
 > Product ID `53584` · Digistore24 productId `630734` · [HTML profile page](../../reviews/trendy-aesthetic-carousels-for-instagram-and-threads-53584.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $9.39 (Single payment) |
+| Price | $9.40 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $4.70 |
 | Cart conversion* | — |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2025-08-20
-- How much? — 9.392040000000001 USD
+- How much? — 9.397920000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Trendy Aesthetic Carousels for Instagram and Threads alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/630734
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630734/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Trendy%20Aesthetic%20Carousels%20for%20Instagram%20and%20Threads
 
 ## 4. Editorial notes

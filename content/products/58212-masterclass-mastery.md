@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-08-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/masterclass-mastery/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/masterclass-mastery/"
@@ -22,7 +22,7 @@ language: "en"
 # MASTERCLASS MASTERY
 
 > Product ID `58212` · Digistore24 productId `497855` · [HTML profile page](../../reviews/masterclass-mastery-58212.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -107,7 +107,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MASTERCLASS MASTERY alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/497855
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/497855/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=MASTERCLASS%20MASTERY
 
 ## 4. Editorial notes

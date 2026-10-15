@@ -4,34 +4,34 @@ digistore24_product_id: 576637
 title: "Earn 60% Commission Promoting Advanced Mitochondrial Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 181.68
+price: 181.79
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 111.05
+earnings_per_sale: 111.12
 cart_conversion_pct: 8
 cancel_rate_pct: 8.09
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-10-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50163/adminstore/"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm"
 language: "en"
 ---
 # Earn 60% Commission Promoting Advanced Mitochondrial Formula
 
 > Product ID `50163` · Digistore24 productId `576637` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-mitochondrial-formula-50163.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $181.68 (Single payment) |
+| Price | $181.79 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $111.05 |
+| Earnings/sale* | $111.12 |
 | Cart conversion* | 8% |
 | Cancel rate* | 8.09% |
 | Vendor | soundview |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50163/adminstore/
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Advanced-Mitochondrial/Too-Tired-To-Enjoy-It/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/advanced-mitochondrial-formula-7
 - Canonical redirect: https://www.digistore24.com/redir/576637/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2024-10-22
-- How much? — 181.68006900000003 USD
+- How much? — 181.793812 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Commission Promoting Advanced Mitochondrial Formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/576637
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576637/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2060%25%20Commission%20Promoting%20Advanced%20Mitochondrial%20Formula
 
 ## 4. Editorial notes

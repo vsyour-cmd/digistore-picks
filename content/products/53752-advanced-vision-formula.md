@@ -4,16 +4,16 @@ digistore24_product_id: 630841
 title: "Advanced Vision Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 78.21
+price: 78.26
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.93
+earnings_per_sale: 46.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Vision/Tired-Eyes-And-Fatigue/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Advanced Vision Formula
 
 > Product ID `53752` · Digistore24 productId `630841` · [HTML profile page](../../reviews/advanced-vision-formula-53752.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $78.21 (Single payment) |
+| Price | $78.26 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.93 |
+| Earnings/sale* | $46.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-08-20
-- How much? — 78.21109500000001 USD
+- How much? — 78.26006000000001 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Vision Formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/630841
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630841/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Vision%20Formula
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/59069/adminstore/"
+promo_link: "https://spirituallifting-vo8.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://spirituallifting-vo8.plannerpack.co"
 language: "en"
 ---
 # Spiritual lifting
 
 > Product ID `59069` · Digistore24 productId `731621` · [HTML profile page](../../reviews/spiritual-lifting-59069.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59069/adminstore/
+- **Promo link (affiliate):** https://spirituallifting-vo8.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://spirituallifting-vo8.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/731621/adminstore
 
@@ -79,7 +79,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spiritual lifting alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/731621
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731621/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Spiritual%20lifting
 
 ## 4. Editorial notes

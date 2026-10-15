@@ -4,16 +4,16 @@ digistore24_product_id: 538695
 title: "Earn 60% Commission Promoting CircO2 Nitric Oxide Booster"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 131.26
+price: 131.35
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 83.03
+earnings_per_sale: 83.08
 cart_conversion_pct: 8
 cancel_rate_pct: 6.72
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-02-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Nitric-Oxide-Supplements/Superhuman-At-70/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 60% Commission Promoting CircO2 Nitric Oxide Booster
 
 > Product ID `47238` · Digistore24 productId `538695` · [HTML profile page](../../reviews/earn-60-commission-promoting-circo2-nitric-oxide-booster-47238.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $131.26 (Single payment) |
+| Price | $131.35 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $83.03 |
+| Earnings/sale* | $83.08 |
 | Cart conversion* | 8% |
 | Cancel rate* | 6.72% |
 | Vendor | soundview |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2024-02-12
-- How much? — 131.26494000000002 USD
+- How much? — 131.34712000000002 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Commission Promoting CircO2 Nitric Oxide Booster alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/538695
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/538695/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2060%25%20Commission%20Promoting%20CircO2%20Nitric%20Oxide%20Booster
 
 ## 4. Editorial notes

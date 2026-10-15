@@ -4,34 +4,34 @@ digistore24_product_id: 617915
 title: "75% Comm | The \"Anti-Pill\" Mental Health Funnel | Massive Co"
 vendor: "PlanetaVida"
 product_type: "Member area and video courses"
-price: 21.24
+price: 21.26
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 15.93
+earnings_per_sale: 15.94
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-06-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52921/adminstore/"
+promo_link: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore"
 sales_page: "https://www.pv-en.com/fr-offers-mental-health-digistore24-us"
 language: "en"
 ---
 # 75% Comm | The "Anti-Pill" Mental Health Funnel | Massive Co
 
 > Product ID `52921` · Digistore24 productId `617915` · [HTML profile page](../../reviews/75-comm-the-anti-pill-mental-health-funnel-massive-co-52921.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $21.24 (Single payment) |
+| Price | $21.26 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $15.93 |
+| Earnings/sale* | $15.94 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | PlanetaVida |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52921/adminstore/
+- **Promo link (affiliate):** https://www.pv-en.com/fr-offers-mental-health-digistore24-us?aff=adminstore#aff=adminstore
 - Sales page: https://www.pv-en.com/fr-offers-mental-health-digistore24-us
 - Vendor affiliate support: https://www.pv-en.com/the-pillar-1-mental-health-affiliate-page
 - Canonical redirect: https://www.digistore24.com/redir/617915/adminstore
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: PlanetaVida, listed since 2025-06-11
-- How much? — 21.243900000000004 USD
+- How much? — 21.2572 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 75% Comm | The "Anti-Pill" Mental Health Funnel | Massive Co alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/617915
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/617915/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=75%25%20Comm%20%7C%20The%20%22Anti-Pill%22%20Mental%20Health%20Funnel%20%7C%20Massive%20Co
 
 ## 4. Editorial notes

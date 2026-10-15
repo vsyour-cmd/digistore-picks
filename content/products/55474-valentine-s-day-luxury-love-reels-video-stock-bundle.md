@@ -4,7 +4,7 @@ digistore24_product_id: 666947
 title: "Valentine's Day Luxury Love Reels Video Stock Bundle"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 10.05
+price: 10.06
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-02-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666947?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666947"
@@ -22,14 +22,14 @@ language: "en"
 # Valentine's Day Luxury Love Reels Video Stock Bundle
 
 > Product ID `55474` · Digistore24 productId `666947` · [HTML profile page](../../reviews/valentine-s-day-luxury-love-reels-video-stock-bundle-55474.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $10.05 (Single payment) |
+| Price | $10.06 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2026-02-06
-- How much? — 10.051719 USD
+- How much? — 10.058012 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Valentine's Day Luxury Love Reels Video Stock Bundle alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/666947
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666947/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Valentine's%20Day%20Luxury%20Love%20Reels%20Video%20Stock%20Bundle
 
 ## 4. Editorial notes

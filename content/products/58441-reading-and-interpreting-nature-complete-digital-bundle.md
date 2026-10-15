@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58441/adminstore/"
+promo_link: "http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/?aff=adminstore#aff=adminstore"
 sales_page: "http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/"
 language: "en"
 ---
 # Reading and Interpreting Nature Complete Digital Bundle
 
 > Product ID `58441` · Digistore24 productId `711572` · [HTML profile page](../../reviews/reading-and-interpreting-nature-complete-digital-bundle-58441.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58441/adminstore/
+- **Promo link (affiliate):** http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/?aff=adminstore#aff=adminstore
 - Sales page: http://richgreenworks.com/reading-interprerting-nature-complete-bundle-dg24/
 - Vendor affiliate support: https://richgreenworks.com/affiliate-tools/
 - Canonical redirect: https://www.digistore24.com/redir/711572/adminstore
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reading and Interpreting Nature Complete Digital Bundle alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/711572
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/711572/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Reading%20and%20Interpreting%20Nature%20Complete%20Digital%20Bundle
 
 ## 4. Editorial notes

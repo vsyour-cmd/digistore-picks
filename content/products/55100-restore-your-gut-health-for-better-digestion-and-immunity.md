@@ -4,7 +4,7 @@ digistore24_product_id: 656114
 title: "Restore Your Gut Health for better Digestion and Immunity"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 15.64
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 10.95
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
@@ -22,14 +22,14 @@ language: "en"
 # Restore Your Gut Health for better Digestion and Immunity
 
 > Product ID `55100` · Digistore24 productId `656114` · [HTML profile page](../../reviews/restore-your-gut-health-for-better-digestion-and-immunity-55100.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.64 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $10.95 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 15.642219 USD
+- How much? — 15.652012000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Restore Your Gut Health for better Digestion and Immunity alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/656114
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656114/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Restore%20Your%20Gut%20Health%20for%20better%20Digestion%20and%20Immunity
 
 ## 4. Editorial notes

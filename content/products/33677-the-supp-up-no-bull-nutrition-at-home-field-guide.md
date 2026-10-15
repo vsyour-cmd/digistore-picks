@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 37.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness"]
+categories: ["Health & Fitness","Education"]
 listed_since: "2020-07-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://body-soul-center.com/produkt/geistfuehrer-und-geistige-welt/#aff=adminstore"
+promo_link: "https://supp-up.com/ds24-nutrition-at-home-field-guide?aff=adminstore#aff=adminstore"
 sales_page: "https://supp-up.com/ds24-nutrition-at-home-field-guide"
 language: "en"
 ---
 # The SUPP UP. No Bull Nutrition At Home Field Guide
 
 > Product ID `33677` · Digistore24 productId `338618` · [HTML profile page](../../reviews/the-supp-up-no-bull-nutrition-at-home-field-guide-33677.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | MBM007 |
 | Listed since | 2020-07-28 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness |
+| Categories | Health & Fitness, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://body-soul-center.com/produkt/geistfuehrer-und-geistige-welt/#aff=adminstore
+- **Promo link (affiliate):** https://supp-up.com/ds24-nutrition-at-home-field-guide?aff=adminstore#aff=adminstore
 - Sales page: https://supp-up.com/ds24-nutrition-at-home-field-guide
 - Vendor affiliate support: https://supp-up.blog/affiliate-resources-ds24/
 - Canonical redirect: https://www.digistore24.com/redir/338618/adminstore
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The SUPP UP. No Bull Nutrition At Home Field Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/338618
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/338618/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20SUPP%20UP.%20No%20Bull%20Nutrition%20At%20Home%20Field%20Guide
 
 ## 4. Editorial notes

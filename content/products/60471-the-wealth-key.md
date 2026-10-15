@@ -4,34 +4,34 @@ digistore24_product_id: 744293
 title: "The Wealth Key"
 vendor: "anncik805e372"
 product_type: "Member area and video courses"
-price: 65.97
+price: 66.01
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 23.09
+earnings_per_sale: 23.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60471/adminstore/"
+promo_link: "https://thewealthkey-l5j.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://thewealthkey-l5j.plannerpack.co"
 language: "en"
 ---
 # The Wealth Key
 
 > Product ID `60471` · Digistore24 productId `744293` · [HTML profile page](../../reviews/the-wealth-key-60471.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $65.97 (Single payment) |
+| Price | $66.01 (Single payment) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $23.09 |
+| Earnings/sale* | $23.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | anncik805e372 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60471/adminstore/
+- **Promo link (affiliate):** https://thewealthkey-l5j.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thewealthkey-l5j.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/744293/adminstore
 
@@ -101,14 +101,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: anncik805e372, listed since 2026-10-09
-- How much? — 65.9679 USD
+- How much? — 66.0092 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Wealth Key alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/744293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/744293/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Wealth%20Key
 
 ## 4. Editorial notes

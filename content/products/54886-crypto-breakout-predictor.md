@@ -4,7 +4,7 @@ digistore24_product_id: 654316
 title: "Crypto Breakout Predictor"
 vendor: "DaveCrypto"
 product_type: "Software"
-price: 16.77
+price: 16.78
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 5.03
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2025-12-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/654316?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/654316"
@@ -22,14 +22,14 @@ language: "en"
 # Crypto Breakout Predictor
 
 > Product ID `54886` · Digistore24 productId `654316` · [HTML profile page](../../reviews/crypto-breakout-predictor-54886.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $16.77 (Single payment) |
+| Price | $16.78 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $5.03 |
 | Cart conversion* | — |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: DaveCrypto, listed since 2025-12-09
-- How much? — 16.771500000000003 USD
+- How much? — 16.782 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Crypto Breakout Predictor alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/654316
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654316/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Crypto%20Breakout%20Predictor
 
 ## 4. Editorial notes

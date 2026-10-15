@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 5.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Dating, Relationships & Romance"]
+categories: ["Dating, Relationships & Romance","Animals & Pets"]
 listed_since: "2026-09-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/716124?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/716124"
@@ -22,7 +22,7 @@ language: "en"
 # Unchosen Encounter – English eBook | 40% Affiliate Commissio
 
 > Product ID `58966` · Digistore24 productId `716124` · [HTML profile page](../../reviews/unchosen-encounter-english-ebook-40-affiliate-commissio-58966.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | elbossilybooks |
 | Listed since | 2026-09-06 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Dating, Relationships & Romance |
+| Categories | Dating, Relationships & Romance, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unchosen Encounter – English eBook | 40% Affiliate Commissio alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/716124
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/716124/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unchosen%20Encounter%20%E2%80%93%20English%20eBook%20%7C%2040%25%20Affiliate%20Commissio
 
 ## 4. Editorial notes

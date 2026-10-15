@@ -4,16 +4,16 @@ digistore24_product_id: 647496
 title: "AI Educator Pro"
 vendor: "TopCourseCreator"
 product_type: "Member area and video courses"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Education","Social Media"]
 listed_since: "2025-11-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/AI-educator-pro-DS?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/AI-educator-pro-DS"
@@ -22,22 +22,22 @@ language: "en"
 # AI Educator Pro
 
 > Product ID `54634` · Digistore24 productId `647496` · [HTML profile page](../../reviews/ai-educator-pro-54634.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | TopCourseCreator |
 | Listed since | 2025-11-11 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Education, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: TopCourseCreator, listed since 2025-11-11
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Educator Pro alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/647496
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647496/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Educator%20Pro
 
 ## 4. Editorial notes

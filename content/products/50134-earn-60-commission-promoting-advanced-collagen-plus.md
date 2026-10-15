@@ -4,16 +4,16 @@ digistore24_product_id: 576442
 title: "Earn 60% Commission Promoting Advanced Collagen Plus!"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 138.83
+price: 138.92
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 111.79
+earnings_per_sale: 111.86
 cart_conversion_pct: 3
 cancel_rate_pct: 5.5
 categories: ["Health & Fitness","Skin Care","Food Supplements"]
 listed_since: "2024-10-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Collagen/This-Simple-10-Second-Kitchen-Test/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # Earn 60% Commission Promoting Advanced Collagen Plus!
 
 > Product ID `50134` · Digistore24 productId `576442` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-collagen-plus-50134.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $138.83 (Single payment) |
+| Price | $138.92 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $111.79 |
+| Earnings/sale* | $111.86 |
 | Cart conversion* | 3% |
 | Cancel rate* | 5.5% |
 | Vendor | soundview |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2024-10-21
-- How much? — 138.83447700000002 USD
+- How much? — 138.92139600000002 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Commission Promoting Advanced Collagen Plus! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/576442
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576442/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2060%25%20Commission%20Promoting%20Advanced%20Collagen%20Plus!
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 443167
 title: "⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours"
 vendor: "clickdesigns"
 product_type: "Software"
-price: 74.91
+price: 74.96
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 37.46
+earnings_per_sale: 37.48
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2022-05-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://clickdesigns.com/dg/cd/?aff=adminstore#aff=adminstore"
 sales_page: "https://clickdesigns.com/dg/cd/"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours
 
 > Product ID `39236` · Digistore24 productId `443167` · [HTML profile page](../../reviews/clickdesigns-515-sale-50-coms-257-5-yours-39236.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $74.91 (Single payment) |
+| Price | $74.96 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $37.46 |
+| Earnings/sale* | $37.48 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | clickdesigns |
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: clickdesigns, listed since 2022-05-17
-- How much? — 74.9127 USD
+- How much? — 74.9596 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡ ClickDesigns™ ⚡ $515/Sale ⚡ 50% Coms ⚡ $257.5/Yours alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/443167
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/443167/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%20ClickDesigns%E2%84%A2%20%E2%9A%A1%20%24515%2FSale%20%E2%9A%A1%2050%25%20Coms%20%E2%9A%A1%20%24257.5%2FYours
 
 ## 4. Editorial notes

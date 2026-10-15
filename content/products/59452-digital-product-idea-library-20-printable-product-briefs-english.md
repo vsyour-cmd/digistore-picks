@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735481?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735481"
@@ -22,7 +22,7 @@ language: "en"
 # Digital Product Idea Library - 20 Printable Product Briefs (English)
 
 > Product ID `59452` · Digistore24 productId `735481` · [HTML profile page](../../reviews/digital-product-idea-library-20-printable-product-briefs-english-59452.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -84,7 +84,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Product Idea Library - 20 Printable Product Briefs (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735481
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735481/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Product%20Idea%20Library%20-%2020%20Printable%20Product%20Briefs%20(English)
 
 ## 4. Editorial notes

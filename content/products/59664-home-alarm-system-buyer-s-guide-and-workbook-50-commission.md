@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 10
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Home & Garden"]
 listed_since: "2026-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/736187?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/736187"
@@ -22,7 +22,7 @@ language: "en"
 # Home Alarm System Buyer’s Guide and Workbook, 50% Commission
 
 > Product ID `59664` · Digistore24 productId `736187` · [HTML profile page](../../reviews/home-alarm-system-buyer-s-guide-and-workbook-50-commission-59664.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | SmartHomeSystemsAdvisor |
 | Listed since | 2026-09-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Home & Garden |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Alarm System Buyer’s Guide and Workbook, 50% Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/736187
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/736187/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Alarm%20System%20Buyer%E2%80%99s%20Guide%20and%20Workbook%2C%2050%25%20Commission
 
 ## 4. Editorial notes

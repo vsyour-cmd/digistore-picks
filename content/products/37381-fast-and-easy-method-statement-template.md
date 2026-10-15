@@ -4,7 +4,7 @@ digistore24_product_id: 385202
 title: "Fast and Easy Method Statement Template"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 16.76
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.39
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-04-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37381/adminstore/"
+promo_link: "https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/buy-method-statement-template/"
 language: "en"
 ---
 # Fast and Easy Method Statement Template
 
 > Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](../../reviews/fast-and-easy-method-statement-template-37381.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.76 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.39 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37381/adminstore/
+- **Promo link (affiliate):** https://worldofpm.com/buy-method-statement-template/?aff=adminstore#aff=adminstore
 - Sales page: https://worldofpm.com/buy-method-statement-template/
 - Vendor affiliate support: https://worldofpm.com/become-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/385202/adminstore
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2021-04-18
-- How much? — 16.760319000000003 USD
+- How much? — 16.770812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fast and Easy Method Statement Template alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/385202
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/385202/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fast%20and%20Easy%20Method%20Statement%20Template
 
 ## 4. Editorial notes

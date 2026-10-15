@@ -4,7 +4,7 @@ digistore24_product_id: 656043
 title: "Sustainable Weight Loss Through Mindfulness — No Fad Diets"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 15.64
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 10.95
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
@@ -22,14 +22,14 @@ language: "en"
 # Sustainable Weight Loss Through Mindfulness — No Fad Diets
 
 > Product ID `55098` · Digistore24 productId `656043` · [HTML profile page](../../reviews/sustainable-weight-loss-through-mindfulness-no-fad-diets-55098.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.64 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $10.95 |
 | Cart conversion* | — |
@@ -71,14 +71,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 15.642219 USD
+- How much? — 15.652012000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Sustainable Weight Loss Through Mindfulness — No Fad Diets alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/656043
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656043/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Sustainable%20Weight%20Loss%20Through%20Mindfulness%20%E2%80%94%20No%20Fad%20Diets
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 633490
 title: "Speak Like a Native"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.09
+earnings_per_sale: 16.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Languages","Personal Development"]
+categories: ["Personal Development","Education","Languages"]
 listed_since: "2025-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633490?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633490"
@@ -22,22 +22,22 @@ language: "en"
 # Speak Like a Native
 
 > Product ID `53802` · Digistore24 productId `633490` · [HTML profile page](../../reviews/speak-like-a-native-53802.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.09 |
+| Earnings/sale* | $16.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
 | Listed since | 2025-09-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Languages, Personal Development |
+| Categories | Personal Development, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-03
-- How much? — 20.114619 USD
+- How much? — 20.127212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Speak Like a Native alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/633490
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633490/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Speak%20Like%20a%20Native
 
 ## 4. Editorial notes

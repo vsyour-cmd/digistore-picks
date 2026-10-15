@@ -4,16 +4,16 @@ digistore24_product_id: 714275
 title: "Coastal Style - Standard"
 vendor: "ramonakrenn923f"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Home & Garden"]
+categories: ["Home & Garden","Hobby & Craft"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/714275?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/714275"
@@ -22,22 +22,22 @@ language: "en"
 # Coastal Style - Standard
 
 > Product ID `58502` · Digistore24 productId `714275` · [HTML profile page](../../reviews/coastal-style-standard-58502.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ramonakrenn923f |
 | Listed since | 2026-08-21 |
 | Auto-accept affiliates | yes |
-| Categories | Hobby & Craft, Home & Garden |
+| Categories | Home & Garden, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: ramonakrenn923f, listed since 2026-08-21
-- How much? — 22.350819 USD
+- How much? — 22.364811999999997 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Coastal Style - Standard alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/714275
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714275/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Coastal%20Style%20-%20Standard
 
 ## 4. Editorial notes

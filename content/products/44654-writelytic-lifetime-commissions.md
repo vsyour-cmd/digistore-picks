@@ -4,16 +4,16 @@ digistore24_product_id: 497626
 title: "Writelytic - Lifetime Commissions"
 vendor: "chiefim"
 product_type: "Member area and video courses"
-price: 322.01
+price: 322.21
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 96.6
+earnings_per_sale: 96.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Online Marketing & E-Business","Software"]
+categories: ["Software","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2023-05-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://writelytic.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://writelytic.com/"
@@ -22,22 +22,22 @@ language: "en"
 # Writelytic - Lifetime Commissions
 
 > Product ID `44654` · Digistore24 productId `497626` · [HTML profile page](../../reviews/writelytic-lifetime-commissions-44654.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $322.01 (Subscription) |
+| Price | $322.21 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $96.60 |
+| Earnings/sale* | $96.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | chiefim |
 | Listed since | 2023-05-05 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Online Marketing & E-Business, Software |
+| Categories | Software, Computer & Internet, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: chiefim, listed since 2023-05-05
-- How much? — 322.0128 USD
+- How much? — 322.2144 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Writelytic - Lifetime Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/497626
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/497626/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Writelytic%20-%20Lifetime%20Commissions
 
 ## 4. Editorial notes

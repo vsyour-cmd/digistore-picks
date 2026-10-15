@@ -4,16 +4,16 @@ digistore24_product_id: 644122
 title: "Electrical Instrumentation Technician Field Guides Bundle."
 vendor: "MSingh0076"
 product_type: "Downloads"
-price: 55.89
+price: 55.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 27.95
+earnings_per_sale: 27.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2025-10-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://virtualproducts.shop/field-kit-sale?aff=adminstore#aff=adminstore"
 sales_page: "https://virtualproducts.shop/field-kit-sale"
@@ -22,22 +22,22 @@ language: "en"
 # Electrical Instrumentation Technician Field Guides Bundle.
 
 > Product ID `54675` · Digistore24 productId `644122` · [HTML profile page](../../reviews/electrical-instrumentation-technician-field-guides-bundle-54675.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $55.89 (Single payment) |
+| Price | $55.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $27.95 |
+| Earnings/sale* | $27.97 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | MSingh0076 |
 | Listed since | 2025-10-26 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -77,14 +77,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: MSingh0076, listed since 2025-10-26
-- How much? — 55.89381900000001 USD
+- How much? — 55.928812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Electrical Instrumentation Technician Field Guides Bundle. alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/644122
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644122/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Electrical%20Instrumentation%20Technician%20Field%20Guides%20Bundle.
 
 ## 4. Editorial notes

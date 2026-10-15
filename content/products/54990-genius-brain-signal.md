@@ -4,16 +4,16 @@ digistore24_product_id: 653447
 title: "Genius Brain Signal"
 vendor: "astral43"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 33.1
+earnings_per_sale: 33.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2025-12-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://astralhq.com/ds-genius-brain-signal/?aff=adminstore#aff=adminstore"
 sales_page: "https://astralhq.com/ds-genius-brain-signal/"
@@ -22,16 +22,16 @@ language: "en"
 # Genius Brain Signal
 
 > Product ID `54990` · Digistore24 productId `653447` · [HTML profile page](../../reviews/genius-brain-signal-54990.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $33.10 |
+| Earnings/sale* | $33.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | astral43 |
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: astral43, listed since 2025-12-05
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Genius Brain Signal alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/653447
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/653447/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Genius%20Brain%20Signal
 
 ## 4. Editorial notes

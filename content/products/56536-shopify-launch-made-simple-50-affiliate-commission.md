@@ -4,16 +4,16 @@ digistore24_product_id: 691719
 title: "Shopify Launch Made Simple-50% Affiliate Commission"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-05-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/691719?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/691719"
@@ -22,16 +22,16 @@ language: "en"
 # Shopify Launch Made Simple-50% Affiliate Commission
 
 > Product ID `56536` · Digistore24 productId `691719` · [HTML profile page](../../reviews/shopify-launch-made-simple-50-affiliate-commission-56536.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2026-05-14
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Shopify Launch Made Simple-50% Affiliate Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/691719
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691719/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Shopify%20Launch%20Made%20Simple-50%25%20Affiliate%20Commission
 
 ## 4. Editorial notes

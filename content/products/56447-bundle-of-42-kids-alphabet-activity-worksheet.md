@@ -10,19 +10,19 @@ affiliate_commission_pct: 70
 earnings_per_sale: 10.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Fun & Games"]
+categories: ["Family & Children","Education","Fun & Games"]
 listed_since: "2024-06-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56447/adminstore/"
+promo_link: "https://www.alm3rfa.xyz/project/kids_alphapet?aff=adminstore#aff=adminstore"
 sales_page: "https://www.alm3rfa.xyz/project/kids_alphapet"
 language: "en"
 ---
 # Bundle of 42 Kids Alphabet Activity Worksheet .
 
 > Product ID `56447` · Digistore24 productId `558164` · [HTML profile page](../../reviews/bundle-of-42-kids-alphabet-activity-worksheet-56447.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | tom_cruise |
 | Listed since | 2024-06-23 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Fun & Games |
+| Categories | Family & Children, Education, Fun & Games |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56447/adminstore/
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/project/kids_alphapet?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/project/kids_alphapet
 - Canonical redirect: https://www.digistore24.com/redir/558164/adminstore
 
@@ -86,7 +86,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Bundle of 42 Kids Alphabet Activity Worksheet . alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/558164
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/558164/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Bundle%20of%2042%20Kids%20Alphabet%20Activity%20Worksheet%20.
 
 ## 4. Editorial notes

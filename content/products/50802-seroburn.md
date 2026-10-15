@@ -4,16 +4,16 @@ digistore24_product_id: 586221
 title: "SeroBurn"
 vendor: "seroburn"
 product_type: "Supplements - for slimming"
-price: 164.36
+price: 164.46
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 106.83
+earnings_per_sale: 106.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-12-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://seroburn.com/d/?aff=adminstore#aff=adminstore"
 sales_page: "https://seroburn.com/d/"
@@ -22,16 +22,16 @@ language: "en"
 # SeroBurn
 
 > Product ID `50802` · Digistore24 productId `586221` · [HTML profile page](../../reviews/seroburn-50802.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - for slimming |
-| Price | $164.36 (Single payment) |
+| Price | $164.46 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $106.83 |
+| Earnings/sale* | $106.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | seroburn |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - for slimming, vendor: seroburn, listed since 2024-12-16
-- How much? — 164.3607 USD
+- How much? — 164.4636 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SeroBurn alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/586221
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586221/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SeroBurn
 
 ## 4. Editorial notes

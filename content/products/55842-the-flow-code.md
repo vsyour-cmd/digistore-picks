@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-03-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "http://www.brainwavehaven.site/the-flow-code?aff=adminstore#aff=adminstore"
 sales_page: "http://www.brainwavehaven.site/the-flow-code"
@@ -22,7 +22,7 @@ language: "en"
 # The Flow Code
 
 > Product ID `55842` · Digistore24 productId `674182` · [HTML profile page](../../reviews/the-flow-code-55842.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Flow Code alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/674182
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/674182/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Flow%20Code
 
 ## 4. Editorial notes

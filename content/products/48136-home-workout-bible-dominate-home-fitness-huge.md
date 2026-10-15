@@ -4,7 +4,7 @@ digistore24_product_id: 551528
 title: "Home Workout Bible - Dominate Home Fitness - Huge $$$$$"
 vendor: "emrkts"
 product_type: "E-books"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 13.31
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2024-05-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://yourhomeworkout.com/bible/?aff=adminstore#aff=adminstore"
 sales_page: "https://yourhomeworkout.com/bible/"
@@ -22,14 +22,14 @@ language: "en"
 # Home Workout Bible - Dominate Home Fitness - Huge $$$$$
 
 > Product ID `48136` · Digistore24 productId `551528` · [HTML profile page](../../reviews/home-workout-bible-dominate-home-fitness-huge-48136.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $13.31 |
 | Cart conversion* | — |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: emrkts, listed since 2024-05-08
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Workout Bible - Dominate Home Fitness - Huge $$$$$ alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/551528
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/551528/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Workout%20Bible%20-%20Dominate%20Home%20Fitness%20-%20Huge%20%24%24%24%24%24
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 42495
 title: "Smooth & Juicy - recipes to look great and feel amazing"
 vendor: "Rohtopia"
 product_type: "Downloads"
-price: 16.66
+price: 16.67
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 8.33
+earnings_per_sale: 8.34
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2015-02-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.rohtopia.com/smoothie-book?aff=adminstore#aff=adminstore"
 sales_page: "https://www.rohtopia.com/smoothie-book"
@@ -22,16 +22,16 @@ language: "en"
 # Smooth & Juicy - recipes to look great and feel amazing
 
 > Product ID `9547` · Digistore24 productId `42495` · [HTML profile page](../../reviews/smooth-juicy-recipes-to-look-great-and-feel-amazing-9547.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $16.66 (Single payment) |
+| Price | $16.67 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $8.33 |
+| Earnings/sale* | $8.34 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rohtopia |
@@ -79,14 +79,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: Rohtopia, listed since 2015-02-10
-- How much? — 16.65969 USD
+- How much? — 16.67012 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smooth & Juicy - recipes to look great and feel amazing alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/42495
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/42495/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Smooth%20%26%20Juicy%20-%20recipes%20to%20look%20great%20and%20feel%20amazing
 
 ## 4. Editorial notes

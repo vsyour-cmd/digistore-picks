@@ -4,16 +4,16 @@ digistore24_product_id: 693097
 title: "Lets-Dance - Partner Programm Schools"
 vendor: "Laphosio"
 product_type: "Member area and video courses"
-price: 794.97
+price: 795.47
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 238.49
+earnings_per_sale: 238.64
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
+categories: ["Dating, Relationships & Romance","Dancing & Music","Sport"]
 listed_since: "2026-05-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/redir/693097/adminstore"
 sales_page: "https://lets-dance.net/en-US/premium-sales-schools?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
@@ -22,22 +22,22 @@ language: "en"
 # Lets-Dance - Partner Programm Schools
 
 > Product ID `56766` · Digistore24 productId `693097` · [HTML profile page](../../reviews/lets-dance-partner-programm-schools-56766.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $794.97 (Subscription) |
+| Price | $795.47 (Subscription) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $238.49 |
+| Earnings/sale* | $238.64 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Laphosio |
 | Listed since | 2026-05-31 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dancing & Music, Dating, Relationships & Romance, Sport |
+| Categories | Dating, Relationships & Romance, Dancing & Music, Sport |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Laphosio, listed since 2026-05-31
-- How much? — 794.9691 USD
+- How much? — 795.4668 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lets-Dance - Partner Programm Schools alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693097
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693097/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lets-Dance%20-%20Partner%20Programm%20Schools
 
 ## 4. Editorial notes

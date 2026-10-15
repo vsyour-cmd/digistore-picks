@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 9.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Animals & Pets","Family & Children"]
+categories: ["Family & Children","Animals & Pets"]
 listed_since: "2026-07-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://8pw.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://8pw.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Pet Parenting Keepsake Book For Your New Puppy
 
 > Product ID `57658` · Digistore24 productId `713980` · [HTML profile page](../../reviews/pet-parenting-keepsake-book-for-your-new-puppy-57658.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | decodivagmm4506 |
 | Listed since | 2026-07-21 |
 | Auto-accept affiliates | yes |
-| Categories | Animals & Pets, Family & Children |
+| Categories | Family & Children, Animals & Pets |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pet Parenting Keepsake Book For Your New Puppy alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/713980
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713980/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Pet%20Parenting%20Keepsake%20Book%20For%20Your%20New%20Puppy
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness"]
 listed_since: "2026-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://primemark-health.com/thyroid-fix?aff=adminstore#aff=adminstore"
 sales_page: "https://primemark-health.com/thyroid-fix"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: The 4 Day Thyroid Diet - Conversion Sales Machine 2026!
 
 > Product ID `60422` · Digistore24 productId `723499` · [HTML profile page](../../reviews/new-the-4-day-thyroid-diet-conversion-sales-machine-2026-60422.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | green4home |
 | Listed since | 2026-10-08 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The 4 Day Thyroid Diet - Conversion Sales Machine 2026! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/723499
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723499/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%204%20Day%20Thyroid%20Diet%20-%20Conversion%20Sales%20Machine%202026!
 
 ## 4. Editorial notes

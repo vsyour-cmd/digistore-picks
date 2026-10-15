@@ -10,19 +10,19 @@ affiliate_commission_pct: 25
 earnings_per_sale: 39.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Hobby & Craft","Photography & Film","Profession & Job"]
+categories: ["Profession & Job","Hobby & Craft","Photography & Film"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59169/adminstore/"
+promo_link: "https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/"
 language: "en"
 ---
 # Architecture VIZ Graphics – Cutout People General, 480 PNGs
 
 > Product ID `59169` · Digistore24 productId `725184` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-people-general-480-pngs-59169.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Tonytextures |
 | Listed since | 2026-09-13 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Hobby & Craft, Photography & Film, Profession & Job |
+| Categories | Profession & Job, Hobby & Craft, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59169/adminstore/
+- **Promo link (affiliate):** https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/?aff=adminstore#aff=adminstore
 - Sales page: https://www.tonytextures.com/archviz-entourage-architecture-scale-figures-ai-people-png/
 - Vendor affiliate support: https://www.tonytextures.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/725184/adminstore
@@ -87,7 +87,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Architecture VIZ Graphics – Cutout People General, 480 PNGs alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/725184
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725184/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Architecture%20VIZ%20Graphics%20%E2%80%93%20Cutout%20People%20General%2C%20480%20PNGs
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 627161
 title: "Advanced Muscle Plus | Muscle + Strength Support for Adults"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 230.63
+price: 230.77
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 74.6
+earnings_per_sale: 74.65
 cart_conversion_pct: 8
 cancel_rate_pct: 10.06
-categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+categories: ["Health & Fitness","Food & Drink","Food Supplements"]
 listed_since: "2025-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Muscle-Plus/Strange-Muscle-Building-Secret/HD.htm"
@@ -22,22 +22,22 @@ language: "en"
 # Advanced Muscle Plus | Muscle + Strength Support for Adults
 
 > Product ID `53340` · Digistore24 productId `627161` · [HTML profile page](../../reviews/advanced-muscle-plus-muscle-strength-support-for-adults-53340.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $230.63 (Single payment) |
+| Price | $230.77 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $74.60 |
+| Earnings/sale* | $74.65 |
 | Cart conversion* | 8% |
 | Cancel rate* | 10.06% |
 | Vendor | soundview |
 | Listed since | 2025-07-31 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Food Supplements |
+| Categories | Health & Fitness, Food & Drink, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-07-31
-- How much? — 230.63048700000004 USD
+- How much? — 230.774876 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Muscle Plus | Muscle + Strength Support for Adults alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/627161
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/627161/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Muscle%20Plus%20%7C%20Muscle%20%2B%20Strength%20Support%20for%20Adults
 
 ## 4. Editorial notes

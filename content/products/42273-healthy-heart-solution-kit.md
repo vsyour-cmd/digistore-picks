@@ -4,34 +4,34 @@ digistore24_product_id: 464233
 title: "Healthy Heart Solution Kit"
 vendor: "BartonPublishing"
 product_type: "E-books"
-price: 53.09
+price: 53.12
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 18.06
+earnings_per_sale: 18.07
 cart_conversion_pct: 18
 cancel_rate_pct: 13.58
 categories: ["Food Supplements"]
 listed_since: "2022-10-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/42273/adminstore/"
+promo_link: "http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore"
 sales_page: "http://healthyheartsolution.com/ptn/digi/1"
 language: "en"
 ---
 # Healthy Heart Solution Kit
 
 > Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](../../reviews/healthy-heart-solution-kit-42273.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $53.09 (Single payment) |
+| Price | $53.12 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $18.06 |
+| Earnings/sale* | $18.07 |
 | Cart conversion* | 18% |
 | Cancel rate* | 13.58% |
 | Vendor | BartonPublishing |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/42273/adminstore/
+- **Promo link (affiliate):** http://healthyheartsolution.com/ptn/digi/1?aff=adminstore#aff=adminstore
 - Sales page: http://healthyheartsolution.com/ptn/digi/1
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/healthy-heart-solution-kit
 - Canonical redirect: https://www.digistore24.com/redir/464233/adminstore
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BartonPublishing, listed since 2022-10-11
-- How much? — 53.087388000000004 USD
+- How much? — 53.120624 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Healthy Heart Solution Kit alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/464233
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/464233/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Healthy%20Heart%20Solution%20Kit
 
 ## 4. Editorial notes

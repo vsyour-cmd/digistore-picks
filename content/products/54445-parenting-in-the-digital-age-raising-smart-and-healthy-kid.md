@@ -4,40 +4,40 @@ digistore24_product_id: 642406
 title: "Parenting in the Digital Age - Raising Smart and Healthy Kid"
 vendor: "AspireVerse"
 product_type: "Member area and video courses"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children","Education"]
 listed_since: "2025-10-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54445/adminstore/"
+promo_link: "https://parenting.aspireonecs.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://parenting.aspireonecs.com/"
 language: "en"
 ---
 # Parenting in the Digital Age - Raising Smart and Healthy Kid
 
 > Product ID `54445` · Digistore24 productId `642406` · [HTML profile page](../../reviews/parenting-in-the-digital-age-raising-smart-and-healthy-kid-54445.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AspireVerse |
 | Listed since | 2025-10-20 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54445/adminstore/
+- **Promo link (affiliate):** https://parenting.aspireonecs.com/?aff=adminstore#aff=adminstore
 - Sales page: https://parenting.aspireonecs.com/
 - Vendor affiliate support: https://parenting.aspireonecs.com/affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/642406/adminstore
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: AspireVerse, listed since 2025-10-20
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Parenting in the Digital Age - Raising Smart and Healthy Kid alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/642406
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642406/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Parenting%20in%20the%20Digital%20Age%20-%20Raising%20Smart%20and%20Healthy%20Kid
 
 ## 4. Editorial notes

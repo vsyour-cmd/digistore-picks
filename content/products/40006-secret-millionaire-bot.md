@@ -4,16 +4,16 @@ digistore24_product_id: 438236
 title: "Secret Millionaire Bot"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2022-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://smbotz.com/digi?aff=adminstore#aff=adminstore"
 sales_page: "https://smbotz.com/digi"
@@ -22,16 +22,16 @@ language: "en"
 # Secret Millionaire Bot
 
 > Product ID `40006` · Digistore24 productId `438236` · [HTML profile page](../../reviews/secret-millionaire-bot-40006.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | impassive |
@@ -68,14 +68,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2022-04-09
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Secret Millionaire Bot alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/438236
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/438236/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Secret%20Millionaire%20Bot
 
 ## 4. Editorial notes

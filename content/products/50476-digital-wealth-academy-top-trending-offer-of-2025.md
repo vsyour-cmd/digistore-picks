@@ -4,16 +4,16 @@ digistore24_product_id: 581314
 title: "Digital Wealth Academy: Top Trending Offer of 2025!"
 vendor: "Qadeerbiz"
 product_type: "Member area and video courses"
-price: 555.7
+price: 556.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 277.85
+earnings_per_sale: 278.02
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Email Marketing"]
 listed_since: "2024-11-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://digital-success.pages.dev/?aff=adminstore#aff=adminstore"
 sales_page: "https://digital-success.pages.dev/"
@@ -22,22 +22,22 @@ language: "en"
 # Digital Wealth Academy: Top Trending Offer of 2025!
 
 > Product ID `50476` · Digistore24 productId `581314` · [HTML profile page](../../reviews/digital-wealth-academy-top-trending-offer-of-2025-50476.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $555.70 (Single payment) |
+| Price | $556.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $277.85 |
+| Earnings/sale* | $278.02 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Qadeerbiz |
 | Listed since | 2024-11-18 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Qadeerbiz, listed since 2024-11-18
-- How much? — 555.6957000000001 USD
+- How much? — 556.0436 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Wealth Academy: Top Trending Offer of 2025! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/581314
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/581314/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Wealth%20Academy%3A%20Top%20Trending%20Offer%20of%202025!
 
 ## 4. Editorial notes

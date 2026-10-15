@@ -4,16 +4,16 @@ digistore24_product_id: 708884
 title: "The Viral Cat Creator Playbook"
 vendor: "monimarketstudio4664"
 product_type: "Downloads"
-price: 25.37
+price: 25.39
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 10.15
+earnings_per_sale: 10.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-07-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://catcreatorplaybook.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://catcreatorplaybook.netlify.app/"
@@ -22,16 +22,16 @@ language: "en"
 # The Viral Cat Creator Playbook
 
 > Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](../../reviews/the-viral-cat-creator-playbook-57458.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.37 (Single payment) |
+| Price | $25.39 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $10.15 |
+| Earnings/sale* | $10.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | monimarketstudio4664 |
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: monimarketstudio4664, listed since 2026-07-08
-- How much? — 25.369689000000005 USD
+- How much? — 25.385572000000003 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Viral Cat Creator Playbook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/708884
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708884/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Viral%20Cat%20Creator%20Playbook
 
 ## 4. Editorial notes

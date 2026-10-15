@@ -4,16 +4,16 @@ digistore24_product_id: 633510
 title: "Promote Dark Reset Now!"
 vendor: "Dark-Reset"
 product_type: "E-books"
-price: 39.58
+price: 39.61
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 26.29
+earnings_per_sale: 26.3
 cart_conversion_pct: 16
 cancel_rate_pct: 15.11
 categories: ["Survival"]
 listed_since: "2025-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://dark-reset.com/index_dg24?aff=adminstore#aff=adminstore"
 sales_page: "https://dark-reset.com/index_dg24"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Dark Reset Now!
 
 > Product ID `53850` · Digistore24 productId `633510` · [HTML profile page](../../reviews/promote-dark-reset-now-53850.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $39.58 (Single payment) |
+| Price | $39.61 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $26.29 |
+| Earnings/sale* | $26.30 |
 | Cart conversion* | 16% |
 | Cancel rate* | 15.11% |
 | Vendor | Dark-Reset |
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Dark-Reset, listed since 2025-09-03
-- How much? — 39.58074 USD
+- How much? — 39.60552 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote Dark Reset Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/633510
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633510/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20Dark%20Reset%20Now!
 
 ## 4. Editorial notes

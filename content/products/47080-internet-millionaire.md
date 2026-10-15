@@ -4,16 +4,16 @@ digistore24_product_id: 526858
 title: "Internet Millionaire"
 vendor: "internets"
 product_type: "Member area and video courses"
-price: 2236.16
+price: 2237.56
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 1118.08
+earnings_per_sale: 1118.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Finances"]
 listed_since: "2023-11-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.internetmillionaire.com/training?aff=adminstore#aff=adminstore"
 sales_page: "https://www.internetmillionaire.com/training"
@@ -22,16 +22,16 @@ language: "en"
 # Internet Millionaire
 
 > Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $2236.16 (Single payment, Installment) |
+| Price | $2237.56 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $1118.08 |
+| Earnings/sale* | $1118.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | internets |
@@ -116,14 +116,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: internets, listed since 2023-11-24
-- How much? — 2236.1552760000004 USD
+- How much? — 2237.555248 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Internet Millionaire alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/526858
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/526858/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Internet%20Millionaire
 
 ## 4. Editorial notes

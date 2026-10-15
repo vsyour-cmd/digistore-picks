@@ -10,19 +10,19 @@ affiliate_commission_pct: 30
 earnings_per_sale: 20.97
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dancing & Music","Dating, Relationships & Romance","Sport"]
+categories: ["Dating, Relationships & Romance","Dancing & Music","Sport"]
 listed_since: "2024-04-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/49599/adminstore/"
+promo_link: "https://www.digistore24.com/redir/549763/adminstore"
 sales_page: "https://lets-dance.net/en-US/premium-sales?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]"
 language: "en"
 ---
 # Lets-Dance - Partner Program
 
 > Product ID `49599` · Digistore24 productId `549763` · [HTML profile page](../../reviews/lets-dance-partner-program-49599.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Laphosio |
 | Listed since | 2024-04-25 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Dancing & Music, Dating, Relationships & Romance, Sport |
+| Categories | Dating, Relationships & Romance, Dancing & Music, Sport |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49599/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/redir/549763/adminstore
 - Sales page: https://lets-dance.net/en-US/premium-sales?aff=[AFFILIATE]&cam=[CAMPAIGNKEY]
 - Vendor affiliate support: https://lets-dance.net/en-US/partner-programs/materials
 - Canonical redirect: https://www.digistore24.com/redir/549763/adminstore
@@ -66,7 +66,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lets-Dance - Partner Program alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/549763
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/549763/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lets-Dance%20-%20Partner%20Program
 
 ## 4. Editorial notes

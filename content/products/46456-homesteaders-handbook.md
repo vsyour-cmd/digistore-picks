@@ -4,16 +4,16 @@ digistore24_product_id: 516929
 title: "Homesteaders Handbook"
 vendor: "csmxripple"
 product_type: "Book (printed)"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.03
+earnings_per_sale: 31.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Survival"]
 listed_since: "2023-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://digi.homesteadingbook.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://digi.homesteadingbook.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Homesteaders Handbook
 
 > Product ID `46456` · Digistore24 productId `516929` · [HTML profile page](../../reviews/homesteaders-handbook-46456.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.03 |
+| Earnings/sale* | $31.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | csmxripple |
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: csmxripple, listed since 2023-09-18
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Homesteaders Handbook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/516929
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/516929/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Homesteaders%20Handbook
 
 ## 4. Editorial notes

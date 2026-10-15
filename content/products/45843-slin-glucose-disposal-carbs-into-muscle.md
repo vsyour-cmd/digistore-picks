@@ -4,34 +4,34 @@ digistore24_product_id: 510243
 title: "Slin Glucose Disposal - \"Carbs into Muscle\""
 vendor: "enhancedlabs"
 product_type: "Supplements - health"
-price: 123.75
+price: 123.83
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 74.25
+earnings_per_sale: 74.3
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-08-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/45843/adminstore/"
+promo_link: "https://www.digistore24.com/product/510243?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/510243"
 language: "en"
 ---
 # Slin Glucose Disposal - "Carbs into Muscle"
 
 > Product ID `45843` · Digistore24 productId `510243` · [HTML profile page](../../reviews/slin-glucose-disposal-carbs-into-muscle-45843.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $123.75 (Single payment) |
+| Price | $123.83 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $74.25 |
+| Earnings/sale* | $74.30 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | enhancedlabs |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/45843/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/510243?aff=adminstore
 - Sales page: https://www.digistore24.com/product/510243
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/enhanced-labs
 - Canonical redirect: https://www.digistore24.com/redir/510243/adminstore
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: enhancedlabs, listed since 2023-08-04
-- How much? — 123.75130800000002 USD
+- How much? — 123.82878400000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Slin Glucose Disposal - "Carbs into Muscle" alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/510243
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/510243/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Slin%20Glucose%20Disposal%20-%20%22Carbs%20into%20Muscle%22
 
 ## 4. Editorial notes

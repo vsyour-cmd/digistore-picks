@@ -4,16 +4,16 @@ digistore24_product_id: 604596
 title: "Ultimate Dynamic Personal Budget in Google Sheets"
 vendor: "FinSavvyDesigns"
 product_type: "Downloads"
-price: 41.31
+price: 41.34
 currency: "USD"
 affiliate_commission_pct: 90
-earnings_per_sale: 27.05
+earnings_per_sale: 27.06
 cart_conversion_pct: 14
 cancel_rate_pct: 16.89
 categories: ["Business & Investment","Finances"]
 listed_since: "2025-03-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.digital-planning-studio.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.digital-planning-studio.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Ultimate Dynamic Personal Budget in Google Sheets
 
 > Product ID `52066` · Digistore24 productId `604596` · [HTML profile page](../../reviews/ultimate-dynamic-personal-budget-in-google-sheets-52066.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.31 (Single payment) |
+| Price | $41.34 (Single payment) |
 | Affiliate commission | 90% |
-| Earnings/sale* | $27.05 |
+| Earnings/sale* | $27.06 |
 | Cart conversion* | 14% |
 | Cancel rate* | 16.89% |
 | Vendor | FinSavvyDesigns |
@@ -77,14 +77,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: FinSavvyDesigns, listed since 2025-03-30
-- How much? — 41.313795000000006 USD
+- How much? — 41.33966 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ultimate Dynamic Personal Budget in Google Sheets alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/604596
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/604596/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ultimate%20Dynamic%20Personal%20Budget%20in%20Google%20Sheets
 
 ## 4. Editorial notes

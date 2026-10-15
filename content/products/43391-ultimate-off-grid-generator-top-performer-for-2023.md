@@ -4,34 +4,34 @@ digistore24_product_id: 491275
 title: "Ultimate OFF-GRID Generator - Top Performer for 2023"
 vendor: "infiniteensys"
 product_type: "E-books"
-price: 54.79
+price: 54.82
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 41.09
+earnings_per_sale: 41.12
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2023-03-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/43391/adminstore/"
+promo_link: "https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html?aff=adminstore#aff=adminstore"
 sales_page: "https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html"
 language: "en"
 ---
 # Ultimate OFF-GRID Generator - Top Performer for 2023
 
 > Product ID `43391` · Digistore24 productId `491275` · [HTML profile page](../../reviews/ultimate-off-grid-generator-top-performer-for-2023-43391.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $54.79 (Single payment) |
+| Price | $54.82 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $41.09 |
+| Earnings/sale* | $41.12 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | infiniteensys |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43391/adminstore/
+- **Promo link (affiliate):** https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html?aff=adminstore#aff=adminstore
 - Sales page: https://ultimateenergyfreedom.com/dg/index_ultimate_auto.html
 - Vendor affiliate support: https://www.epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/491275/adminstore
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: infiniteensys, listed since 2023-03-28
-- How much? — 54.7869 USD
+- How much? — 54.8212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ultimate OFF-GRID Generator - Top Performer for 2023 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/491275
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/491275/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ultimate%20OFF-GRID%20Generator%20-%20Top%20Performer%20for%202023
 
 ## 4. Editorial notes

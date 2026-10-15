@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "http://feelbetter-today.com?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: Genius Brain Energizer - Absolute Conversions Monster!
 
 > Product ID `58472` · Digistore24 productId `723490` · [HTML profile page](../../reviews/new-genius-brain-energizer-absolute-conversions-monster-58472.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -86,7 +86,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Genius Brain Energizer - Absolute Conversions Monster! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/723490
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/723490/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Genius%20Brain%20Energizer%20-%20Absolute%20Conversions%20Monster!
 
 ## 4. Editorial notes

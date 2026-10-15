@@ -4,16 +4,16 @@ digistore24_product_id: 550119
 title: "The Wealth Signal"
 vendor: "thewealthsignal"
 product_type: "Downloads"
-price: 49.83
+price: 49.86
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 36.18
+earnings_per_sale: 36.2
 cart_conversion_pct: 15
 cancel_rate_pct: 10.69
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2024-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://wealthsignaloriginal.com/DS/vsl/?aff=adminstore#aff=adminstore"
 sales_page: "https://wealthsignaloriginal.com/DS/vsl/"
@@ -22,16 +22,16 @@ language: "en"
 # The Wealth Signal
 
 > Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](../../reviews/the-wealth-signal-48030.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $49.83 (Single payment) |
+| Price | $49.86 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $36.18 |
+| Earnings/sale* | $36.20 |
 | Cart conversion* | 15% |
 | Cancel rate* | 10.69% |
 | Vendor | thewealthsignal |
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: thewealthsignal, listed since 2024-04-28
-- How much? — 49.83371700000001 USD
+- How much? — 49.864916 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Wealth Signal alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/550119
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/550119/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Wealth%20Signal
 
 ## 4. Editorial notes

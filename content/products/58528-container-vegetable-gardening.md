@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 12.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Survival"]
 listed_since: "2026-08-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725086?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/725086"
@@ -22,7 +22,7 @@ language: "en"
 # Container Vegetable Gardening
 
 > Product ID `58528` · Digistore24 productId `725086` · [HTML profile page](../../reviews/container-vegetable-gardening-58528.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Book2Book |
 | Listed since | 2026-08-23 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Survival |
+| Categories | Home & Garden, Green Products & Environmental Protection, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Container Vegetable Gardening alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/725086
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725086/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Container%20Vegetable%20Gardening
 
 ## 4. Editorial notes

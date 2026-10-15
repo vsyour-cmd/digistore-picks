@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 2.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development"]
+categories: ["Personal Development","Education"]
 listed_since: "2024-05-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49227/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/554491?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/554491"
 language: "en"
 ---
 # Overcoming Fear
 
 > Product ID `49227` · Digistore24 productId `554491` · [HTML profile page](../../reviews/overcoming-fear-49227.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Santttos |
 | Listed since | 2024-05-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development |
+| Categories | Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49227/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/554491?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/554491
 - Canonical redirect: https://www.digistore24.com/redir/554491/adminstore
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Santttos, listed since 2024-05-29
-- How much? — 5.5905000000000005 USD
+- How much? — 5.594 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Overcoming Fear alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/554491
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/554491/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Overcoming%20Fear
 
 ## 4. Editorial notes

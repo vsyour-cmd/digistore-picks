@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-08-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/714876?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/714876"
@@ -22,7 +22,7 @@ language: "en"
 # High-Converting Relationship Offer
 
 > Product ID `58280` · Digistore24 productId `714876` · [HTML profile page](../../reviews/high-converting-relationship-offer-58280.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High-Converting Relationship Offer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/714876
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714876/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=High-Converting%20Relationship%20Offer
 
 ## 4. Editorial notes

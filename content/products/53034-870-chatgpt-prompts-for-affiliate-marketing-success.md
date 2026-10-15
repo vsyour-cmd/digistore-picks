@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 1.95
 cart_conversion_pct: 16
 cancel_rate_pct: 7.63
-categories: ["Email Marketing","Online Marketing & E-Business"]
+categories: ["Online Marketing & E-Business","Email Marketing"]
 listed_since: "2025-06-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/870-chatgpt-prompts-for-affiliate-marketing-2"
@@ -22,7 +22,7 @@ language: "en"
 # 870 ChatGPT Prompts for Affiliate Marketing Success
 
 > Product ID `53034` · Digistore24 productId `619826` · [HTML profile page](../../reviews/870-chatgpt-prompts-for-affiliate-marketing-success-53034.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | HeikoBoos |
 | Listed since | 2025-06-20 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business |
+| Categories | Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: HeikoBoos, listed since 2025-06-20
-- How much? — 1.7330550000000002 USD
+- How much? — 1.73414 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 870 ChatGPT Prompts for Affiliate Marketing Success alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/619826
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/619826/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=870%20ChatGPT%20Prompts%20for%20Affiliate%20Marketing%20Success
 
 ## 4. Editorial notes

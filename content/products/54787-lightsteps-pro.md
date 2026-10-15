@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://body-soul-center.com/produkt/schamanische-heilmethoden/#aff=adminstore"
+promo_link: "http://lightstepspro24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://lightstepspro24.com/text.php"
 language: "en"
 ---
 # LightSteps Pro
 
 > Product ID `54787` · Digistore24 productId `651394` · [HTML profile page](../../reviews/lightsteps-pro-54787.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://body-soul-center.com/produkt/schamanische-heilmethoden/#aff=adminstore
+- **Promo link (affiliate):** http://lightstepspro24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://lightstepspro24.com/text.php
 - Vendor affiliate support: https://lightstepspro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/651394/adminstore
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: LightSteps Pro alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/651394
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651394/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=LightSteps%20Pro
 
 ## 4. Editorial notes

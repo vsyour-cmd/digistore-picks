@@ -4,34 +4,34 @@ digistore24_product_id: 639576
 title: "The AI Side Hustle System | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 171.07
+price: 171.18
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 128.3
+earnings_per_sale: 128.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54271/adminstore/"
+promo_link: "http://www.betterdailyguide.site/ds24/the-ai-side-hustle?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/the-ai-side-hustle"
 language: "en"
 ---
 # The AI Side Hustle System | Earn 75% Commissions
 
 > Product ID `54271` · Digistore24 productId `639576` · [HTML profile page](../../reviews/the-ai-side-hustle-system-earn-75-commissions-54271.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $171.07 (Single payment) |
+| Price | $171.18 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $128.30 |
+| Earnings/sale* | $128.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54271/adminstore/
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-ai-side-hustle?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/the-ai-side-hustle
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/the-ai-side-hustle-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639576/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
-- How much? — 171.06930000000003 USD
+- How much? — 171.1764 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The AI Side Hustle System | Earn 75% Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639576
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639576/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20AI%20Side%20Hustle%20System%20%7C%20Earn%2075%25%20Commissions
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ const path = require("path");
 const dry = process.argv.includes("--dry");
 
 const SITES = [
-  { root: "G:/Digistore24/site", anchor: ["index.html", "changelog.html", "404.html"], dirs: ["reviews", "alternatives", "best-of", "vendors", "category"], md: "content/products", ds: "data/dataset.json" },
-  { root: "G:/Digistore24/site-de", anchor: ["index.html", "changelog.html", "404.html"], dirs: ["produkte", "alternativen", "empfehlungen", "hersteller", "kategorie"], md: "content/products", ds: "data/dataset.json" },
+  { root: "G:/Digistore24/site", anchor: ["index.html", "changelog.html", "404.html"], dirs: ["reviews", "alternatives", "best-of", "vendors", "category", "faq"], md: "content/products", ds: "data/dataset.json" },
+  { root: "G:/Digistore24/site-de", anchor: ["index.html", "changelog.html", "404.html"], dirs: ["produkte", "alternativen", "empfehlungen", "hersteller", "kategorie", "faq"], md: "content/products", ds: "data/dataset.json" },
 ];
 
 // blog/ 与根目录手写文件不参与清理;MD 按数据集 ID 成员资格判定,更精确

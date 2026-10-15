@@ -4,34 +4,34 @@ digistore24_product_id: 333733
 title: "Perpetual Income 365"
 vendor: "Perpincome"
 product_type: "Member area and video courses"
-price: 52.55
+price: 52.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.28
+earnings_per_sale: 26.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Email Marketing"]
 listed_since: "2020-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/34077/adminstore/"
+promo_link: "https://www.perpetualincome365.vip/go/d/watch/index.php?aff=adminstore#aff=adminstore"
 sales_page: "https://www.perpetualincome365.vip/go/d/watch/index.php"
 language: "en"
 ---
 # Perpetual Income 365
 
 > Product ID `34077` · Digistore24 productId `333733` · [HTML profile page](../../reviews/perpetual-income-365-34077.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $52.55 (Subscription) |
+| Price | $52.58 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.28 |
+| Earnings/sale* | $26.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Perpincome |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/34077/adminstore/
+- **Promo link (affiliate):** https://www.perpetualincome365.vip/go/d/watch/index.php?aff=adminstore#aff=adminstore
 - Sales page: https://www.perpetualincome365.vip/go/d/watch/index.php
 - Vendor affiliate support: https://www.perpetualincome365.vip/jv/index-digi24.php
 - Canonical redirect: https://www.digistore24.com/redir/333733/adminstore
@@ -86,14 +86,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Perpincome, listed since 2020-06-27
-- How much? — 52.550700000000006 USD
+- How much? — 52.583600000000004 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Perpetual Income 365 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/333733
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/333733/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Perpetual%20Income%20365
 
 ## 4. Editorial notes

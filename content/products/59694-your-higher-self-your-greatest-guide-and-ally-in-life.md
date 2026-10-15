@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 62
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2026-09-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://evolvewithgcg.coachy.net/lp/your-higher-self-your-greatest-guide-and-ally-in-life/?aff=adminstore#aff=adminstore"
 sales_page: "https://evolvewithgcg.coachy.net/lp/your-higher-self-your-greatest-guide-and-ally-in-life/"
@@ -22,7 +22,7 @@ language: "en"
 # Your Higher Self: Your Greatest Guide and Ally in Life
 
 > Product ID `59694` · Digistore24 productId `728741` · [HTML profile page](../../reviews/your-higher-self-your-greatest-guide-and-ally-in-life-59694.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | safeid |
 | Listed since | 2026-09-25 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,7 +90,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Your Higher Self: Your Greatest Guide and Ally in Life alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/728741
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728741/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Your%20Higher%20Self%3A%20Your%20Greatest%20Guide%20and%20Ally%20in%20Life
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 20
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Hobby & Craft"]
+categories: ["Health & Fitness","Education","Hobby & Craft"]
 listed_since: "2026-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/734686?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/734686"
@@ -22,7 +22,7 @@ language: "en"
 # Fruits
 
 > Product ID `59346` · Digistore24 productId `734686` · [HTML profile page](../../reviews/fruits-59346.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | team24-jwintberg |
 | Listed since | 2026-09-18 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Hobby & Craft |
+| Categories | Health & Fitness, Education, Hobby & Craft |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fruits alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/734686
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734686/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fruits
 
 ## 4. Editorial notes

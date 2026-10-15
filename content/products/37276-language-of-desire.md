@@ -4,16 +4,16 @@ digistore24_product_id: 391642
 title: "Language of Desire"
 vendor: "digitalromance"
 product_type: "Member area and video courses"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 31.03
+earnings_per_sale: 31.05
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2021-05-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://desirelanguage.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://desirelanguage.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Language of Desire
 
 > Product ID `37276` · Digistore24 productId `391642` · [HTML profile page](../../reviews/language-of-desire-37276.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $31.03 |
+| Earnings/sale* | $31.05 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | digitalromance |
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: digitalromance, listed since 2021-05-26
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Language of Desire alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/391642
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/391642/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Language%20of%20Desire
 
 ## 4. Editorial notes

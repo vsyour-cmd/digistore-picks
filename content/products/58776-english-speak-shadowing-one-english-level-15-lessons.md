@@ -4,16 +4,16 @@ digistore24_product_id: 727603
 title: "English Speak Shadowing — One English Level (15 Lessons)"
 vendor: "alexscheglov2016d530"
 product_type: "Member area and video courses"
-price: 43.61
+price: 43.63
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 17.44
+earnings_per_sale: 17.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages"]
 listed_since: "2026-08-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://englishspeakshadowing.pl/course?aff=adminstore#aff=adminstore"
 sales_page: "https://englishspeakshadowing.pl/course"
@@ -22,16 +22,16 @@ language: "en"
 # English Speak Shadowing — One English Level (15 Lessons)
 
 > Product ID `58776` · Digistore24 productId `727603` · [HTML profile page](../../reviews/english-speak-shadowing-one-english-level-15-lessons-58776.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $43.61 (Single payment) |
+| Price | $43.63 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $17.44 |
+| Earnings/sale* | $17.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | alexscheglov2016d530 |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: alexscheglov2016d530, listed since 2026-08-30
-- How much? — 43.605900000000005 USD
+- How much? — 43.6332 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: English Speak Shadowing — One English Level (15 Lessons) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727603
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727603/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=English%20Speak%20Shadowing%20%E2%80%94%20One%20English%20Level%20(15%20Lessons)
 
 ## 4. Editorial notes

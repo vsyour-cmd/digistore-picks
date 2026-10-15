@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59395/adminstore/"
+promo_link: "https://selfplus-care.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://selfplus-care.com/"
 language: "en"
 ---
 # SelfPlus AGE+ – Premium Healthy Aging Supplement
 
 > Product ID `59395` · Digistore24 productId `728647` · [HTML profile page](../../reviews/selfplus-age-premium-healthy-aging-supplement-59395.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59395/adminstore/
+- **Promo link (affiliate):** https://selfplus-care.com/?aff=adminstore#aff=adminstore
 - Sales page: https://selfplus-care.com/
 - Vendor affiliate support: https://selfplus-care.com/affiliate-support-page
 - Canonical redirect: https://www.digistore24.com/redir/728647/adminstore
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SelfPlus AGE+ – Premium Healthy Aging Supplement alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/728647
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/728647/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SelfPlus%20AGE%2B%20%E2%80%93%20Premium%20Healthy%20Aging%20Supplement
 
 ## 4. Editorial notes

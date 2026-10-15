@@ -4,16 +4,16 @@ digistore24_product_id: 640293
 title: "SPARTAMAX Male Enhancement Gummies | High EPC and Commission"
 vendor: "midasman88"
 product_type: "Deliverable"
-price: 184.46
+price: 184.58
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 141.54
+earnings_per_sale: 141.63
 cart_conversion_pct: 4
 cancel_rate_pct: 7.44
 categories: ["Food Supplements"]
 listed_since: "2025-10-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://getspartamax.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://getspartamax.com/"
@@ -22,16 +22,16 @@ language: "en"
 # SPARTAMAX Male Enhancement Gummies | High EPC and Commission
 
 > Product ID `54716` · Digistore24 productId `640293` · [HTML profile page](../../reviews/spartamax-male-enhancement-gummies-high-epc-and-commission-54716.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $184.46 (Single payment) |
+| Price | $184.58 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $141.54 |
+| Earnings/sale* | $141.63 |
 | Cart conversion* | 4% |
 | Cancel rate* | 7.44% |
 | Vendor | midasman88 |
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: midasman88, listed since 2025-10-08
-- How much? — 184.464138 USD
+- How much? — 184.579624 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: SPARTAMAX Male Enhancement Gummies | High EPC and Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/640293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/640293/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=SPARTAMAX%20Male%20Enhancement%20Gummies%20%7C%20High%20EPC%20and%20Commission
 
 ## 4. Editorial notes

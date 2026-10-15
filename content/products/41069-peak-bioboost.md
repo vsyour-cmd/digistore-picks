@@ -4,34 +4,34 @@ digistore24_product_id: 451650
 title: "Peak BioBoost"
 vendor: "peakbiome"
 product_type: "Supplements - health"
-price: 151.23
+price: 151.33
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 71.8
+earnings_per_sale: 71.85
 cart_conversion_pct: 12
 cancel_rate_pct: 6.91
 categories: ["Food Supplements"]
 listed_since: "2022-07-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/41069/adminstore/"
+promo_link: "https://www.mypeakbiome.com/w/prebio-lp-dg?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mypeakbiome.com/w/prebio-lp-dg"
 language: "en"
 ---
 # Peak BioBoost
 
 > Product ID `41069` · Digistore24 productId `451650` · [HTML profile page](../../reviews/peak-bioboost-41069.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $151.23 (Single payment) |
+| Price | $151.33 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $71.80 |
+| Earnings/sale* | $71.85 |
 | Cart conversion* | 12% |
 | Cancel rate* | 6.91% |
 | Vendor | peakbiome |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/41069/adminstore/
+- **Promo link (affiliate):** https://www.mypeakbiome.com/w/prebio-lp-dg?aff=adminstore#aff=adminstore
 - Sales page: https://www.mypeakbiome.com/w/prebio-lp-dg
 - Vendor affiliate support: https://digistore24-affiliate.coachannel.com/peak-bioboost
 - Canonical redirect: https://www.digistore24.com/redir/451650/adminstore
@@ -99,14 +99,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: peakbiome, listed since 2022-07-18
-- How much? — 151.234206 USD
+- How much? — 151.328888 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Peak BioBoost alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/451650
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/451650/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Peak%20BioBoost
 
 ## 4. Editorial notes

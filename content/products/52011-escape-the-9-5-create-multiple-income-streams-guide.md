@@ -4,40 +4,40 @@ digistore24_product_id: 606481
 title: "Escape the 9-5- Create Multiple Income Streams Guide"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 52.55
+price: 52.58
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 26.28
+earnings_per_sale: 26.29
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Online Marketing & E-Business","Personal Development"]
+categories: ["Personal Development","Business & Investment","Online Marketing & E-Business"]
 listed_since: "2025-04-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52011/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/606481?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/606481"
 language: "en"
 ---
 # Escape the 9-5- Create Multiple Income Streams Guide
 
 > Product ID `52011` · Digistore24 productId `606481` · [HTML profile page](../../reviews/escape-the-9-5-create-multiple-income-streams-guide-52011.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $52.55 (Single payment) |
+| Price | $52.58 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $26.28 |
+| Earnings/sale* | $26.29 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
 | Listed since | 2025-04-09 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Online Marketing & E-Business, Personal Development |
+| Categories | Personal Development, Business & Investment, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52011/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/606481?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/606481
 - Canonical redirect: https://www.digistore24.com/redir/606481/adminstore
 
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-04-09
-- How much? — 52.550700000000006 USD
+- How much? — 52.583600000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Escape the 9-5- Create Multiple Income Streams Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/606481
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/606481/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Escape%20the%209-5-%20Create%20Multiple%20Income%20Streams%20Guide
 
 ## 4. Editorial notes

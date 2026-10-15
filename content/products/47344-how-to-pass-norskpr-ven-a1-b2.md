@@ -4,16 +4,16 @@ digistore24_product_id: 530046
 title: "How to pass Norskprøven (A1-B2)"
 vendor: "Skapago"
 product_type: "Member area and video courses"
-price: 110.69
+price: 110.76
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 33.21
+earnings_per_sale: 33.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Languages"]
 listed_since: "2023-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://courses.skapago.eu/lp/norskproven/?aff=adminstore#aff=adminstore"
 sales_page: "https://courses.skapago.eu/lp/norskproven/"
@@ -22,16 +22,16 @@ language: "en"
 # How to pass Norskprøven (A1-B2)
 
 > Product ID `47344` · Digistore24 productId `530046` · [HTML profile page](../../reviews/how-to-pass-norskpr-ven-a1-b2-47344.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $110.69 (Single payment) |
+| Price | $110.76 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $33.21 |
+| Earnings/sale* | $33.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Skapago |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Skapago, listed since 2023-12-15
-- How much? — 110.6919 USD
+- How much? — 110.7612 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: How to pass Norskprøven (A1-B2) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/530046
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/530046/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=How%20to%20pass%20Norskpr%C3%B8ven%20(A1-B2)
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food & Drink"]
 listed_since: "2026-09-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59083/adminstore/"
+promo_link: "https://10ingredientpartybar.com/get-now/?aff=adminstore#aff=adminstore"
 sales_page: "https://10ingredientpartybar.com/get-now/"
 language: "en"
 ---
 # Earn 60% Promoting the 10-Ingredient Party Bar
 
 > Product ID `59083` · Digistore24 productId `726602` · [HTML profile page](../../reviews/earn-60-promoting-the-10-ingredient-party-bar-59083.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59083/adminstore/
+- **Promo link (affiliate):** https://10ingredientpartybar.com/get-now/?aff=adminstore#aff=adminstore
 - Sales page: https://10ingredientpartybar.com/get-now/
 - Vendor affiliate support: https://10ingredientpartybar.com/become-an-affiliate.html
 - Canonical redirect: https://www.digistore24.com/redir/726602/adminstore
@@ -99,7 +99,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 60% Promoting the 10-Ingredient Party Bar alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726602
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726602/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2060%25%20Promoting%20the%2010-Ingredient%20Party%20Bar
 
 ## 4. Editorial notes

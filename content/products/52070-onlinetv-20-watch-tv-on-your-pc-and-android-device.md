@@ -4,16 +4,16 @@ digistore24_product_id: 600405
 title: "OnlineTV 20 – Watch TV on Your PC and Android Device"
 vendor: "engelmann-software"
 product_type: "Software"
-price: 28.18
+price: 28.19
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 14.09
+earnings_per_sale: 14.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Photography & Film","Software"]
+categories: ["Software","Computer & Internet","Photography & Film"]
 listed_since: "2025-03-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/600405?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/600405"
@@ -22,22 +22,22 @@ language: "en"
 # OnlineTV 20 – Watch TV on Your PC and Android Device
 
 > Product ID `52070` · Digistore24 productId `600405` · [HTML profile page](../../reviews/onlinetv-20-watch-tv-on-your-pc-and-android-device-52070.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $28.18 (Single payment) |
+| Price | $28.19 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $14.09 |
+| Earnings/sale* | $14.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | engelmann-software |
 | Listed since | 2025-03-07 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Photography & Film, Software |
+| Categories | Software, Computer & Internet, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: engelmann-software, listed since 2025-03-07
-- How much? — 28.17612 USD
+- How much? — 28.19376 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: OnlineTV 20 – Watch TV on Your PC and Android Device alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/600405
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/600405/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=OnlineTV%2020%20%E2%80%93%20Watch%20TV%20on%20Your%20PC%20and%20Android%20Device
 
 ## 4. Editorial notes

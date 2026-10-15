@@ -4,40 +4,40 @@ digistore24_product_id: 675076
 title: "Earn 50% Commission | Cooking eBook | Brand New"
 vendor: "Obedsco"
 product_type: "E-books"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 54.23
+earnings_per_sale: 54.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Food & Drink","Personal Development"]
+categories: ["Personal Development","Education","Food & Drink"]
 listed_since: "2026-03-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55901/adminstore/"
+promo_link: "https://www.obedsco.com/cookingbetter?aff=adminstore#aff=adminstore"
 sales_page: "https://www.obedsco.com/cookingbetter"
 language: "en"
 ---
 # Earn 50% Commission | Cooking eBook | Brand New
 
 > Product ID `55901` · Digistore24 productId `675076` · [HTML profile page](../../reviews/earn-50-commission-cooking-ebook-brand-new-55901.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $108.46 (Single payment) |
+| Price | $108.52 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $54.23 |
+| Earnings/sale* | $54.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Obedsco |
 | Listed since | 2026-03-10 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Food & Drink, Personal Development |
+| Categories | Personal Development, Education, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55901/adminstore/
+- **Promo link (affiliate):** https://www.obedsco.com/cookingbetter?aff=adminstore#aff=adminstore
 - Sales page: https://www.obedsco.com/cookingbetter
 - Canonical redirect: https://www.digistore24.com/redir/675076/adminstore
 
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Obedsco, listed since 2026-03-10
-- How much? — 108.45570000000001 USD
+- How much? — 108.5236 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 50% Commission | Cooking eBook | Brand New alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/675076
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/675076/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2050%25%20Commission%20%7C%20Cooking%20eBook%20%7C%20Brand%20New
 
 ## 4. Editorial notes

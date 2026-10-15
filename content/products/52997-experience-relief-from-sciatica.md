@@ -4,34 +4,34 @@ digistore24_product_id: 620947
 title: "Experience Relief from Sciatica"
 vendor: "BookMuffin"
 product_type: "E-books"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 20.68
+earnings_per_sale: 20.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Sport"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52997/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/620947?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/620947"
 language: "en"
 ---
 # Experience Relief from Sciatica
 
 > Product ID `52997` · Digistore24 productId `620947` · [HTML profile page](../../reviews/experience-relief-from-sciatica-52997.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $20.68 |
+| Earnings/sale* | $20.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BookMuffin |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52997/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/620947?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/620947
 - Vendor affiliate support: https://greenbubz.com.au/sciatica-affiliate-program-support-page-for-digistore24/
 - Canonical redirect: https://www.digistore24.com/redir/620947/adminstore
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BookMuffin, listed since 2025-06-27
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Experience Relief from Sciatica alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/620947
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/620947/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Experience%20Relief%20from%20Sciatica
 
 ## 4. Editorial notes

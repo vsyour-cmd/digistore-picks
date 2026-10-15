@@ -4,16 +4,16 @@ digistore24_product_id: 639587
 title: "The First-Time Chicken Keeper's  | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 164.36
+price: 164.46
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 123.27
+earnings_per_sale: 123.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/the-first-time-chicken-keepers-checklist"
@@ -22,16 +22,16 @@ language: "en"
 # The First-Time Chicken Keeper's  | Earn 75% Commissions
 
 > Product ID `54272` · Digistore24 productId `639587` · [HTML profile page](../../reviews/the-first-time-chicken-keeper-s-earn-75-commissions-54272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $164.36 (Single payment) |
+| Price | $164.46 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $123.27 |
+| Earnings/sale* | $123.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
-- How much? — 164.3607 USD
+- How much? — 164.4636 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The First-Time Chicken Keeper's  | Earn 75% Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639587
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639587/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20First-Time%20Chicken%20Keeper's%20%20%7C%20Earn%2075%25%20Commissions
 
 ## 4. Editorial notes

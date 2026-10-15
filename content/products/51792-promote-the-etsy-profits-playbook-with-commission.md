@@ -4,16 +4,16 @@ digistore24_product_id: 602787
 title: "Promote the Etsy Profits Playbook with Commission"
 vendor: "moneywithangie"
 product_type: "E-books"
-price: 16.77
+price: 16.78
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 8.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development","Social Media"]
+categories: ["Personal Development","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-03-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/602787?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/602787"
@@ -22,14 +22,14 @@ language: "en"
 # Promote the Etsy Profits Playbook with Commission
 
 > Product ID `51792` · Digistore24 productId `602787` · [HTML profile page](../../reviews/promote-the-etsy-profits-playbook-with-commission-51792.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.77 (Single payment) |
+| Price | $16.78 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $8.39 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | moneywithangie |
 | Listed since | 2025-03-20 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development, Social Media |
+| Categories | Personal Development, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: moneywithangie, listed since 2025-03-20
-- How much? — 16.771500000000003 USD
+- How much? — 16.782 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote the Etsy Profits Playbook with Commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/602787
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/602787/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20the%20Etsy%20Profits%20Playbook%20with%20Commission
 
 ## 4. Editorial notes

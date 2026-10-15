@@ -4,32 +4,32 @@ digistore24_product_id: 714245
 title: "Mediterranean Diet for Beginners - 7 Day Meal Plan"
 vendor: "NickiWieland"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 30
 earnings_per_sale: 9.06
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58296/adminstore/"
+promo_link: "https://www.digistore24.com/product/714245?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/714245"
 language: "en"
 ---
 # Mediterranean Diet for Beginners - 7 Day Meal Plan
 
 > Product ID `58296` · Digistore24 productId `714245` · [HTML profile page](../../reviews/mediterranean-diet-for-beginners-7-day-meal-plan-58296.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 30% |
 | Earnings/sale* | $9.06 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | NickiWieland |
 | Listed since | 2026-08-12 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58296/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/714245?aff=adminstore
 - Sales page: https://www.digistore24.com/product/714245
 - Vendor affiliate support: https://drive.google.com/drive/folders/1Y1eiUw1KFJP63VJRP0CDRfMziEFrL-NV?usp=share_link
 - Canonical redirect: https://www.digistore24.com/redir/714245/adminstore
@@ -77,14 +77,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: NickiWieland, listed since 2026-08-12
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Mediterranean Diet for Beginners - 7 Day Meal Plan alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/714245
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/714245/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Mediterranean%20Diet%20for%20Beginners%20-%207%20Day%20Meal%20Plan
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Survival"]
 listed_since: "2026-05-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/?aff=adminstore#aff=adminstore"
 sales_page: "https://emergencypantrymeals.com/emergency-pantry-meals-system-dg24/"
@@ -22,7 +22,7 @@ language: "en"
 # Emergency Pantry Meals System - 180+ Shelf-Stable Meal Ideas
 
 > Product ID `56726` · Digistore24 productId `696111` · [HTML profile page](../../reviews/emergency-pantry-meals-system-180-shelf-stable-meal-ideas-56726.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,7 +74,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Emergency Pantry Meals System - 180+ Shelf-Stable Meal Ideas alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/696111
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696111/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Emergency%20Pantry%20Meals%20System%20-%20180%2B%20Shelf-Stable%20Meal%20Ideas
 
 ## 4. Editorial notes

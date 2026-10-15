@@ -4,16 +4,16 @@ digistore24_product_id: 419540
 title: "Glucotrust: New Killer Blood Sugar Supplement"
 vendor: "edelixir"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 57.86
+earnings_per_sale: 57.9
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2021-12-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://getglucotrust.co/?aff=adminstore#aff=adminstore"
 sales_page: "https://getglucotrust.co/"
@@ -22,16 +22,16 @@ language: "en"
 # Glucotrust: New Killer Blood Sugar Supplement
 
 > Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](../../reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $57.86 |
+| Earnings/sale* | $57.90 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | edelixir |
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: edelixir, listed since 2021-12-06
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Glucotrust: New Killer Blood Sugar Supplement alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/419540
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/419540/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Glucotrust%3A%20New%20Killer%20Blood%20Sugar%20Supplement
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-10-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://pages.fitlifesolutions.site/sales/?id=641039&aff=adminstore#aff=adminstore"
 sales_page: "https://pages.fitlifesolutions.site/sales/?id=641039"
@@ -22,7 +22,7 @@ language: "en"
 # The Busy Person's Blueprint to Natural Weight Loss
 
 > Product ID `54370` · Digistore24 productId `641039` · [HTML profile page](../../reviews/the-busy-person-s-blueprint-to-natural-weight-loss-54370.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Busy Person's Blueprint to Natural Weight Loss alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/641039
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/641039/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Busy%20Person's%20Blueprint%20to%20Natural%20Weight%20Loss
 
 ## 4. Editorial notes

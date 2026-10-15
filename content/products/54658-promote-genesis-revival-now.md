@@ -4,16 +4,16 @@ digistore24_product_id: 647913
 title: "Promote Genesis Revival Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 154.3
+price: 154.39
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 100.29
+earnings_per_sale: 100.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-11-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://genesisrevival.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://genesisrevival.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Genesis Revival Now!
 
 > Product ID `54658` · Digistore24 productId `647913` · [HTML profile page](../../reviews/promote-genesis-revival-now-54658.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $154.30 (Single payment) |
+| Price | $154.39 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $100.29 |
+| Earnings/sale* | $100.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | zenmavibe |
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2025-11-12
-- How much? — 154.29780000000002 USD
+- How much? — 154.3944 USD
 - Guarantee? — 365
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote Genesis Revival Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/647913
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/647913/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20Genesis%20Revival%20Now!
 
 ## 4. Editorial notes

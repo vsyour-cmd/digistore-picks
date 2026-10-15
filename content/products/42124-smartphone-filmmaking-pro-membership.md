@@ -4,16 +4,16 @@ digistore24_product_id: 455348
 title: "Smartphone Filmmaking Pro - Membership"
 vendor: "SFP-Media1121"
 product_type: "Member area and video courses"
-price: 164.36
+price: 164.46
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 82.18
+earnings_per_sale: 82.23
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Photography & Film"]
 listed_since: "2022-08-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://go.smartphonefilmmakingpro.com/premium-affiliate?aff=adminstore#aff=adminstore"
 sales_page: "https://go.smartphonefilmmakingpro.com/premium-affiliate"
@@ -22,16 +22,16 @@ language: "en"
 # Smartphone Filmmaking Pro - Membership
 
 > Product ID `42124` · Digistore24 productId `455348` · [HTML profile page](../../reviews/smartphone-filmmaking-pro-membership-42124.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $164.36 (Single payment) |
+| Price | $164.46 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $82.18 |
+| Earnings/sale* | $82.23 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SFP-Media1121 |
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: SFP-Media1121, listed since 2022-08-12
-- How much? — 164.3607 USD
+- How much? — 164.4636 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Smartphone Filmmaking Pro - Membership alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/455348
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/455348/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Smartphone%20Filmmaking%20Pro%20-%20Membership
 
 ## 4. Editorial notes

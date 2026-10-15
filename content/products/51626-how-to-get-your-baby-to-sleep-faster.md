@@ -10,10 +10,10 @@ affiliate_commission_pct: 30
 earnings_per_sale: 5.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Family & Children"]
 listed_since: "2025-01-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/593349?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/593349"
@@ -22,7 +22,7 @@ language: "en"
 # How to get your baby to sleep faster
 
 > Product ID `51626` · Digistore24 productId `593349` · [HTML profile page](../../reviews/how-to-get-your-baby-to-sleep-faster-51626.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | tatyinvest |
 | Listed since | 2025-01-30 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: How to get your baby to sleep faster alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/593349
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/593349/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=How%20to%20get%20your%20baby%20to%20sleep%20faster
 
 ## 4. Editorial notes

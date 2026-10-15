@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 30
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Profession & Job","Personal Development"]
+categories: ["Personal Development","Business & Investment","Profession & Job"]
 listed_since: "2026-08-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/725048?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/725048"
@@ -22,7 +22,7 @@ language: "en"
 # 50% Comm | High-Converting Business Ebook!
 
 > Product ID `58346` · Digistore24 productId `725048` · [HTML profile page](../../reviews/50-comm-high-converting-business-ebook-58346.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | infocbbc |
 | Listed since | 2026-08-14 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Profession & Job, Personal Development |
+| Categories | Personal Development, Business & Investment, Profession & Job |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -89,7 +89,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50% Comm | High-Converting Business Ebook! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/725048
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/725048/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=50%25%20Comm%20%7C%20High-Converting%20Business%20Ebook!
 
 ## 4. Editorial notes

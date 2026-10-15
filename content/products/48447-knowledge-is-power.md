@@ -4,7 +4,7 @@ digistore24_product_id: 555279
 title: "Knowledge is Power"
 vendor: "RonaldoFraga"
 product_type: "E-books"
-price: 15.65
+price: 15.66
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 10.96
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education"]
 listed_since: "2024-06-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/48447/adminstore/"
+promo_link: "https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore"
 sales_page: "https://masterprods.com/knowledge-is-power/"
 language: "en"
 ---
 # Knowledge is Power
 
 > Product ID `48447` · Digistore24 productId `555279` · [HTML profile page](../../reviews/knowledge-is-power-48447.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.65 (Single payment) |
+| Price | $15.66 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $10.96 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48447/adminstore/
+- **Promo link (affiliate):** https://masterprods.com/knowledge-is-power/?aff=adminstore#aff=adminstore
 - Sales page: https://masterprods.com/knowledge-is-power/
 - Canonical redirect: https://www.digistore24.com/redir/555279/adminstore
 
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: RonaldoFraga, listed since 2024-06-03
-- How much? — 15.653400000000001 USD
+- How much? — 15.6632 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Knowledge is Power alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/555279
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/555279/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Knowledge%20is%20Power
 
 ## 4. Editorial notes

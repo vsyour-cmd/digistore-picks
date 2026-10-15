@@ -4,16 +4,16 @@ digistore24_product_id: 618774
 title: "Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes"
 vendor: "plantbasedresource"
 product_type: "E-books"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 11.4
+earnings_per_sale: 11.41
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2025-06-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.plantbasedforkids.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.plantbasedforkids.com/ds/"
@@ -22,22 +22,22 @@ language: "en"
 # Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes
 
 > Product ID `52936` · Digistore24 productId `618774` · [HTML profile page](../../reviews/plant-based-for-kids-cookbook-100-fun-easy-vegan-recipes-52936.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $11.40 |
+| Earnings/sale* | $11.41 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plantbasedresource |
 | Listed since | 2025-06-16 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -99,14 +99,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: plantbasedresource, listed since 2025-06-16
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/618774
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/618774/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Plant-Based%20For%20Kids%20Cookbook%20-%20100%2B%20Fun%2C%20Easy%20Vegan%20Recipes
 
 ## 4. Editorial notes

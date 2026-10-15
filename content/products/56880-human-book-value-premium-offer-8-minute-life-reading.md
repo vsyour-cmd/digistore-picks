@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-06-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://ds.humanbookvalue.com?aff=adminstore#aff=adminstore"
 sales_page: "https://ds.humanbookvalue.com"
@@ -22,7 +22,7 @@ language: "en"
 # Human Book Value™ | Premium Offer | 8-Minute Life Reading
 
 > Product ID `56880` · Digistore24 productId `693098` · [HTML profile page](../../reviews/human-book-value-premium-offer-8-minute-life-reading-56880.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -98,7 +98,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Human Book Value™ | Premium Offer | 8-Minute Life Reading alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693098
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693098/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Human%20Book%20Value%E2%84%A2%20%7C%20Premium%20Offer%20%7C%208-Minute%20Life%20Reading
 
 ## 4. Editorial notes

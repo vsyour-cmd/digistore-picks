@@ -4,34 +4,34 @@ digistore24_product_id: 641817
 title: "ViriFlow"
 vendor: "ViriFlow"
 product_type: "Supplements - health"
-price: 244.91
+price: 245.06
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 156.91
+earnings_per_sale: 157.01
 cart_conversion_pct: 10
 cancel_rate_pct: 14.43
 categories: ["Food Supplements"]
 listed_since: "2025-10-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54413/adminstore/"
+promo_link: "http://viriflow24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://viriflow24.com/text.php"
 language: "en"
 ---
 # ViriFlow
 
 > Product ID `54413` · Digistore24 productId `641817` · [HTML profile page](../../reviews/viriflow-54413.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $244.91 (Single payment) |
+| Price | $245.06 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $156.91 |
+| Earnings/sale* | $157.01 |
 | Cart conversion* | 10% |
 | Cancel rate* | 14.43% |
 | Vendor | ViriFlow |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54413/adminstore/
+- **Promo link (affiliate):** http://viriflow24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://viriflow24.com/text.php
 - Vendor affiliate support: https://viriflow24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/641817/adminstore
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ViriFlow, listed since 2025-10-16
-- How much? — 244.908624 USD
+- How much? — 245.061952 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ViriFlow alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/641817
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/641817/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=ViriFlow
 
 ## 4. Editorial notes

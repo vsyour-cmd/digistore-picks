@@ -4,16 +4,16 @@ digistore24_product_id: 567661
 title: "Promote this new Natural Sleep offer from legendary MD Dr. A"
 vendor: "AlSearsMD"
 product_type: "Supplements - health"
-price: 33.49
+price: 33.51
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 21.77
+earnings_per_sale: 21.78
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-08-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://partners.primalforce.net/sp/neuro-vid/?aff=adminstore#aff=adminstore"
 sales_page: "https://partners.primalforce.net/sp/neuro-vid/"
@@ -22,16 +22,16 @@ language: "en"
 # Promote this new Natural Sleep offer from legendary MD Dr. A
 
 > Product ID `49400` · Digistore24 productId `567661` · [HTML profile page](../../reviews/promote-this-new-natural-sleep-offer-from-legendary-md-dr-a-49400.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $33.49 (Single payment) |
+| Price | $33.51 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $21.77 |
+| Earnings/sale* | $21.78 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | AlSearsMD |
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: AlSearsMD, listed since 2024-08-29
-- How much? — 33.487095000000004 USD
+- How much? — 33.50806 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote this new Natural Sleep offer from legendary MD Dr. A alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/567661
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/567661/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20this%20new%20Natural%20Sleep%20offer%20from%20legendary%20MD%20Dr.%20A
 
 ## 4. Editorial notes

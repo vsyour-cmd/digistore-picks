@@ -4,16 +4,16 @@ digistore24_product_id: 685552
 title: "Very cool product headline"
 vendor: "team24-zahmad"
 product_type: "Deliverable"
-price: 89.45
+price: 89.5
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.72
+earnings_per_sale: 44.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Survival"]
 listed_since: "2026-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://coolcarspoilersalespage-c4s.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://coolcarspoilersalespage-c4s.plannerpack.co"
@@ -22,16 +22,16 @@ language: "en"
 # Very cool product headline
 
 > Product ID `56304` · Digistore24 productId `685552` · [HTML profile page](../../reviews/very-cool-product-headline-56304.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $89.45 (Single payment) |
+| Price | $89.50 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.72 |
+| Earnings/sale* | $44.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | team24-zahmad |
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: team24-zahmad, listed since 2026-04-17
-- How much? — 89.44800000000001 USD
+- How much? — 89.504 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Very cool product headline alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/685552
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/685552/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Very%20cool%20product%20headline
 
 ## 4. Editorial notes

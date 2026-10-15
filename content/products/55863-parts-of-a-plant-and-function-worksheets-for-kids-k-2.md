@@ -4,32 +4,32 @@ digistore24_product_id: 671821
 title: "Parts of a Plant and Function Worksheets for Kids K-2"
 vendor: "BaeMoShop"
 product_type: "E-books"
-price: 14.52
+price: 14.53
 currency: "USD"
 affiliate_commission_pct: 35
 earnings_per_sale: 5.09
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Home & Garden"]
+categories: ["Family & Children","Home & Garden","Education"]
 listed_since: "2026-02-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55863/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/671821?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/671821"
 language: "en"
 ---
 # Parts of a Plant and Function Worksheets for Kids K-2
 
 > Product ID `55863` · Digistore24 productId `671821` · [HTML profile page](../../reviews/parts-of-a-plant-and-function-worksheets-for-kids-k-2-55863.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.52 (Single payment) |
+| Price | $14.53 (Single payment) |
 | Affiliate commission | 35% |
 | Earnings/sale* | $5.09 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | BaeMoShop |
 | Listed since | 2026-02-26 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Home & Garden |
+| Categories | Family & Children, Home & Garden, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55863/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/671821?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/671821
 - Canonical redirect: https://www.digistore24.com/redir/671821/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BaeMoShop, listed since 2026-02-26
-- How much? — 14.524119 USD
+- How much? — 14.533212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Parts of a Plant and Function Worksheets for Kids K-2 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/671821
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/671821/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Parts%20of%20a%20Plant%20and%20Function%20Worksheets%20for%20Kids%20K-2
 
 ## 4. Editorial notes

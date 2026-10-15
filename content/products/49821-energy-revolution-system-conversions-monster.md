@@ -4,34 +4,34 @@ digistore24_product_id: 570685
 title: "Energy Revolution System - Conversions Monster !"
 vendor: "tuenergizer"
 product_type: "E-books"
-price: 43.61
+price: 43.63
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 32.7
+earnings_per_sale: 32.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2024-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49821/adminstore/"
+promo_link: "https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html?aff=adminstore#aff=adminstore"
 sales_page: "https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html"
 language: "en"
 ---
 # Energy Revolution System - Conversions Monster !
 
 > Product ID `49821` · Digistore24 productId `570685` · [HTML profile page](../../reviews/energy-revolution-system-conversions-monster-49821.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $43.61 (Single payment) |
+| Price | $43.63 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $32.70 |
+| Earnings/sale* | $32.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | tuenergizer |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49821/adminstore/
+- **Promo link (affiliate):** https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html?aff=adminstore#aff=adminstore
 - Sales page: https://energyrevolutionsystem.com/index-ers-auto-lead-39-promise-epp-lead-6-v3.html
 - Vendor affiliate support: https://epcworkshop.com/digistore24/offers-digistore24.php
 - Canonical redirect: https://www.digistore24.com/redir/570685/adminstore
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: tuenergizer, listed since 2024-09-16
-- How much? — 43.605900000000005 USD
+- How much? — 43.6332 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Energy Revolution System - Conversions Monster ! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/570685
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/570685/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Energy%20Revolution%20System%20-%20Conversions%20Monster%20!
 
 ## 4. Editorial notes

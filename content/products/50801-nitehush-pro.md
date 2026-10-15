@@ -4,34 +4,34 @@ digistore24_product_id: 586334
 title: "NiteHush Pro"
 vendor: "NiteHushPro"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.15
+earnings_per_sale: 50.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50801/adminstore/"
+promo_link: "http://nitehushpro24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://nitehushpro24.com/text.php"
 language: "en"
 ---
 # NiteHush Pro
 
 > Product ID `50801` · Digistore24 productId `586334` · [HTML profile page](../../reviews/nitehush-pro-50801.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.15 |
+| Earnings/sale* | $50.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NiteHushPro |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50801/adminstore/
+- **Promo link (affiliate):** http://nitehushpro24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://nitehushpro24.com/text.php
 - Vendor affiliate support: https://nitehushpro24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/586334/adminstore
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NiteHushPro, listed since 2024-12-17
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NiteHush Pro alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/586334
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/586334/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NiteHush%20Pro
 
 ## 4. Editorial notes

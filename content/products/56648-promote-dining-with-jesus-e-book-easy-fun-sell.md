@@ -10,10 +10,10 @@ affiliate_commission_pct: 65
 earnings_per_sale: 8.44
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness","Spiri­tua­lity & Esotericism"]
+categories: ["Health & Fitness","Spiri­tua­lity & Esotericism","Food & Drink"]
 listed_since: "2026-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://diningwithjesus.my.canva.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://diningwithjesus.my.canva.site/"
@@ -22,7 +22,7 @@ language: "en"
 # Promote "Dining With Jesus" | E-book | Easy Fun Sell!
 
 > Product ID `56648` · Digistore24 productId `689000` · [HTML profile page](../../reviews/promote-dining-with-jesus-e-book-easy-fun-sell-56648.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | urgencyweightloss7905 |
 | Listed since | 2026-05-22 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Spiri­tua­lity & Esotericism |
+| Categories | Health & Fitness, Spiri­tua­lity & Esotericism, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -76,7 +76,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote "Dining With Jesus" | E-book | Easy Fun Sell! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/689000
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689000/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20%22Dining%20With%20Jesus%22%20%7C%20E-book%20%7C%20Easy%20Fun%20Sell!
 
 ## 4. Editorial notes

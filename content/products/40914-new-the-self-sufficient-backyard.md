@@ -4,16 +4,16 @@ digistore24_product_id: 379127
 title: "NEW: The Self-Sufficient Backyard"
 vendor: "sbackyard"
 product_type: "Book (printed)"
-price: 49.51
+price: 49.54
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 25.97
+earnings_per_sale: 25.99
 cart_conversion_pct: 9
 cancel_rate_pct: 1.28
 categories: ["Home & Garden"]
 listed_since: "2021-03-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://independentbackyard.com/my-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://independentbackyard.com/my-book/"
@@ -22,16 +22,16 @@ language: "en"
 # NEW: The Self-Sufficient Backyard
 
 > Product ID `40914` · Digistore24 productId `379127` · [HTML profile page](../../reviews/new-the-self-sufficient-backyard-40914.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $49.51 (Single payment) |
+| Price | $49.54 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $25.97 |
+| Earnings/sale* | $25.99 |
 | Cart conversion* | 9% |
 | Cancel rate* | 1.28% |
 | Vendor | sbackyard |
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: sbackyard, listed since 2021-03-15
-- How much? — 49.509468000000005 USD
+- How much? — 49.540464 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Self-Sufficient Backyard alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/379127
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/379127/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%20Self-Sufficient%20Backyard
 
 ## 4. Editorial notes

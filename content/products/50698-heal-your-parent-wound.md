@@ -4,16 +4,16 @@ digistore24_product_id: 576752
 title: "Heal Your Parent Wound"
 vendor: "DrGhazalehBailey"
 product_type: "Member area and video courses"
-price: 73.79
+price: 73.84
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 22.14
+earnings_per_sale: 22.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children"]
 listed_since: "2024-10-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://individual-therapy-berlin.de/online-courses/?aff=adminstore#aff=adminstore"
 sales_page: "https://individual-therapy-berlin.de/online-courses/"
@@ -22,22 +22,22 @@ language: "en"
 # Heal Your Parent Wound
 
 > Product ID `50698` · Digistore24 productId `576752` · [HTML profile page](../../reviews/heal-your-parent-wound-50698.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $73.79 (Single payment) |
+| Price | $73.84 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $22.14 |
+| Earnings/sale* | $22.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DrGhazalehBailey |
 | Listed since | 2024-10-23 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: DrGhazalehBailey, listed since 2024-10-23
-- How much? — 73.7946 USD
+- How much? — 73.8408 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Heal Your Parent Wound alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/576752
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576752/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Heal%20Your%20Parent%20Wound
 
 ## 4. Editorial notes

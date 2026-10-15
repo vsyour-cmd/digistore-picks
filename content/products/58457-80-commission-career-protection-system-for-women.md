@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58457/adminstore/"
+promo_link: "https://www.publishmint.site/funnels/perimenopause/career/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.publishmint.site/funnels/perimenopause/career/"
 language: "en"
 ---
 # 80 % Commission ‐ Career Protection System for Women
 
 > Product ID `58457` · Digistore24 productId `717596` · [HTML profile page](../../reviews/80-commission-career-protection-system-for-women-58457.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58457/adminstore/
+- **Promo link (affiliate):** https://www.publishmint.site/funnels/perimenopause/career/?aff=adminstore#aff=adminstore
 - Sales page: https://www.publishmint.site/funnels/perimenopause/career/
 - Vendor affiliate support: https://www.publishmint.site/funnels/perimenopause/jv-page
 - Canonical redirect: https://www.digistore24.com/redir/717596/adminstore
@@ -93,7 +93,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 80 % Commission ‐ Career Protection System for Women alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/717596
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717596/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=80%20%25%20Commission%20%E2%80%90%20Career%20Protection%20System%20for%20Women
 
 ## 4. Editorial notes

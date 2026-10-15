@@ -4,16 +4,16 @@ digistore24_product_id: 572520
 title: "Lymphatic System Support"
 vendor: "SanoLabs"
 product_type: "Supplements - health"
-price: 253.59
+price: 253.74
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 164.83
+earnings_per_sale: 164.93
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://lymphflowsupport.com/presentation-2?aff=adminstore#aff=adminstore"
 sales_page: "https://lymphflowsupport.com/presentation-2"
@@ -22,16 +22,16 @@ language: "en"
 # Lymphatic System Support
 
 > Product ID `50332` · Digistore24 productId `572520` · [HTML profile page](../../reviews/lymphatic-system-support-50332.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $253.59 (Subscription) |
+| Price | $253.74 (Subscription) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $164.83 |
+| Earnings/sale* | $164.93 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SanoLabs |
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: SanoLabs, listed since 2024-09-26
-- How much? — 253.58508000000003 USD
+- How much? — 253.74384 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lymphatic System Support alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/572520
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/572520/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lymphatic%20System%20Support
 
 ## 4. Editorial notes

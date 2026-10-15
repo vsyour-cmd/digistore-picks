@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 16.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Education"]
 listed_since: "2025-09-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/54785/adminstore/"
+promo_link: "https://mentalwarfaresystem.com?aff=adminstore#aff=adminstore"
 sales_page: "https://mentalwarfaresystem.com"
 language: "en"
 ---
 # The Mental Performance System for Athletes ‎
 
 > Product ID `54785` · Digistore24 productId `636498` · [HTML profile page](../../reviews/the-mental-performance-system-for-athletes-54785.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -36,8 +36,8 @@ language: "en"
 | Cancel rate* | — |
 | Vendor | Grace333 |
 | Listed since | 2025-09-18 |
-| Auto-accept affiliates | yes |
-| Categories | Education, Health & Fitness, Personal Development |
+| Auto-accept affiliates | no (approval required) |
+| Categories | Health & Fitness, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/54785/adminstore/
+- **Promo link (affiliate):** https://mentalwarfaresystem.com?aff=adminstore#aff=adminstore
 - Sales page: https://mentalwarfaresystem.com
 - Vendor affiliate support: https://workbook2025.uwu.ai
 - Canonical redirect: https://www.digistore24.com/redir/636498/adminstore
@@ -99,7 +99,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Mental Performance System for Athletes ‎ alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/636498
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/636498/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Mental%20Performance%20System%20for%20Athletes%20%E2%80%8E
 
 ## 4. Editorial notes

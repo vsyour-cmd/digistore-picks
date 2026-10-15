@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Education","Politics & Economy"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59291/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726710?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726710"
 language: "en"
 ---
 # Ebook - The New Architecture of Global Power - Volume VI
 
 > Product ID `59291` · Digistore24 productId `726710` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-vi-59291.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59291/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726710?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726710
 - Canonical redirect: https://www.digistore24.com/redir/726710/adminstore
 
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-09-16
-- How much? — 6.786867000000001 USD
+- How much? — 6.791116000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - The New Architecture of Global Power - Volume VI alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726710
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726710/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20The%20New%20Architecture%20of%20Global%20Power%20-%20Volume%20VI
 
 ## 4. Editorial notes

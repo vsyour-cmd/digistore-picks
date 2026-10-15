@@ -4,16 +4,16 @@ digistore24_product_id: 601972
 title: "21st Century Survival Kit - MAGA 1.0"
 vendor: "Survival777"
 product_type: "Member area and video courses"
-price: 1118.1
+price: 1118.8
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 447.24
+earnings_per_sale: 447.52
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Survival"]
+categories: ["Personal Development","Education","Survival"]
 listed_since: "2025-03-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://survivalkit.maga123.com?aff=adminstore#aff=adminstore"
 sales_page: "http://survivalkit.maga123.com"
@@ -22,22 +22,22 @@ language: "en"
 # 21st Century Survival Kit - MAGA 1.0
 
 > Product ID `51780` · Digistore24 productId `601972` · [HTML profile page](../../reviews/21st-century-survival-kit-maga-1-0-51780.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1118.10 (Single payment, Installment) |
+| Price | $1118.80 (Single payment, Installment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $447.24 |
+| Earnings/sale* | $447.52 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Survival777 |
 | Listed since | 2025-03-16 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Survival |
+| Categories | Personal Development, Education, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Survival777, listed since 2025-03-16
-- How much? — 1118.1000000000001 USD
+- How much? — 1118.8 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 21st Century Survival Kit - MAGA 1.0 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/601972
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601972/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=21st%20Century%20Survival%20Kit%20-%20MAGA%201.0
 
 ## 4. Editorial notes

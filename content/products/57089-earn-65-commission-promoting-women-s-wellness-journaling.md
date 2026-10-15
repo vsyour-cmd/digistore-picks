@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57089/adminstore/"
+promo_link: "https://byzoewomen.com/journal-ds24.html?aff=adminstore#aff=adminstore"
 sales_page: "https://byzoewomen.com/journal-ds24.html"
 language: "en"
 ---
 # Earn 65% Commission Promoting Women's Wellness Journaling
 
 > Product ID `57089` · Digistore24 productId `693472` · [HTML profile page](../../reviews/earn-65-commission-promoting-women-s-wellness-journaling-57089.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57089/adminstore/
+- **Promo link (affiliate):** https://byzoewomen.com/journal-ds24.html?aff=adminstore#aff=adminstore
 - Sales page: https://byzoewomen.com/journal-ds24.html
 - Vendor affiliate support: https://byzoewomen.com/affiliates-journal
 - Canonical redirect: https://www.digistore24.com/redir/693472/adminstore
@@ -98,7 +98,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 65% Commission Promoting Women's Wellness Journaling alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693472
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693472/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2065%25%20Commission%20Promoting%20Women's%20Wellness%20Journaling
 
 ## 4. Editorial notes

@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 7.83
 cart_conversion_pct: 8
 cancel_rate_pct: 5.19
-categories: ["Computer & Internet","Email Marketing","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2024-03-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/1000-prompts-for-affiliate-marketing?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/1000-prompts-for-affiliate-marketing"
@@ -22,7 +22,7 @@ language: "en"
 # The Premium Prompt Library for Smarter Affiliate Execution
 
 > Product ID `47710` · Digistore24 productId `543689` · [HTML profile page](../../reviews/the-premium-prompt-library-for-smarter-affiliate-execution-47710.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | HeikoBoos |
 | Listed since | 2024-03-14 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Email Marketing, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Premium Prompt Library for Smarter Affiliate Execution alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/543689
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/543689/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Premium%20Prompt%20Library%20for%20Smarter%20Affiliate%20Execution
 
 ## 4. Editorial notes

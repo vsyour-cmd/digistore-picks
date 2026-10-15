@@ -4,16 +4,16 @@ digistore24_product_id: 574095
 title: "1000+ ChatGPT Prompts for your Online Marketing"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 33.21
+price: 33.23
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 16.6
+earnings_per_sale: 16.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Profession & Job"]
 listed_since: "2024-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://heikoboos.com/1000-chatgpt-prompts-for-online-marketing/?aff=adminstore#aff=adminstore"
 sales_page: "https://heikoboos.com/1000-chatgpt-prompts-for-online-marketing/"
@@ -22,16 +22,16 @@ language: "en"
 # 1000+ ChatGPT Prompts for your Online Marketing
 
 > Product ID `49960` · Digistore24 productId `574095` · [HTML profile page](../../reviews/1000-chatgpt-prompts-for-your-online-marketing-49960.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $33.21 (Single payment, Installment) |
+| Price | $33.23 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $16.60 |
+| Earnings/sale* | $16.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-07
-- How much? — 33.207570000000004 USD
+- How much? — 33.22836 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1000+ ChatGPT Prompts for your Online Marketing alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/574095
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/574095/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=1000%2B%20ChatGPT%20Prompts%20for%20your%20Online%20Marketing
 
 ## 4. Editorial notes

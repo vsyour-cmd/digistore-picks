@@ -4,16 +4,16 @@ digistore24_product_id: 592999
 title: "Anti-Looter Kit - BRAND NEW!"
 vendor: "antilooterkit"
 product_type: "Deliverable"
-price: 192.35
+price: 192.47
 currency: "USD"
 affiliate_commission_pct: 33
-earnings_per_sale: 50.66
+earnings_per_sale: 50.69
 cart_conversion_pct: 18
 cancel_rate_pct: 3.55
 categories: ["Survival"]
 listed_since: "2025-01-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.antilooter-kit.com/main?aff=adminstore#aff=adminstore"
 sales_page: "https://www.antilooter-kit.com/main"
@@ -22,16 +22,16 @@ language: "en"
 # Anti-Looter Kit - BRAND NEW!
 
 > Product ID `52234` · Digistore24 productId `592999` · [HTML profile page](../../reviews/anti-looter-kit-brand-new-52234.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $192.35 (Single payment) |
+| Price | $192.47 (Single payment) |
 | Affiliate commission | 33% |
-| Earnings/sale* | $50.66 |
+| Earnings/sale* | $50.69 |
 | Cart conversion* | 18% |
 | Cancel rate* | 3.55% |
 | Vendor | antilooterkit |
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: antilooterkit, listed since 2025-01-29
-- How much? — 192.346743 USD
+- How much? — 192.467164 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Anti-Looter Kit - BRAND NEW! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/592999
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/592999/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Anti-Looter%20Kit%20-%20BRAND%20NEW!
 
 ## 4. Editorial notes

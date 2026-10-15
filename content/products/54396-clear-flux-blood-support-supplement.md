@@ -4,16 +4,16 @@ digistore24_product_id: 638043
 title: "Clear Flux Blood Support Supplement"
 vendor: "SuperBoostNutra"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.57
+earnings_per_sale: 38.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-09-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://shop.boostedflow.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://shop.boostedflow.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Clear Flux Blood Support Supplement
 
 > Product ID `54396` · Digistore24 productId `638043` · [HTML profile page](../../reviews/clear-flux-blood-support-supplement-54396.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.57 |
+| Earnings/sale* | $38.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | SuperBoostNutra |
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: SuperBoostNutra, listed since 2025-09-26
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Clear Flux Blood Support Supplement alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/638043
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/638043/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Clear%20Flux%20Blood%20Support%20Supplement
 
 ## 4. Editorial notes

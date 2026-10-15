@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software","Leadership & Management","Project Management"]
 listed_since: "2026-07-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/user-requirements-masterclass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/user-requirements-masterclass/"
@@ -22,7 +22,7 @@ language: "en"
 # User Requirements Mastery
 
 > Product ID `57724` · Digistore24 productId `565409` · [HTML profile page](../../reviews/user-requirements-mastery-57724.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -99,7 +99,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: User Requirements Mastery alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/565409
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/565409/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=User%20Requirements%20Mastery
 
 ## 4. Editorial notes

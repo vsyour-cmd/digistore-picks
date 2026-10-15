@@ -4,16 +4,16 @@ digistore24_product_id: 577404
 title: "Affiliate Marketing School Video Course"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 38.57
+earnings_per_sale: 38.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-10-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://heikoboos.com/the-affiliate-marketing-school?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/the-affiliate-marketing-school"
@@ -22,16 +22,16 @@ language: "en"
 # Affiliate Marketing School Video Course
 
 > Product ID `50250` · Digistore24 productId `577404` · [HTML profile page](../../reviews/affiliate-marketing-school-video-course-50250.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $77.15 (Single payment, Installment) |
+| Price | $77.20 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $38.57 |
+| Earnings/sale* | $38.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-26
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Affiliate Marketing School Video Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/577404
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/577404/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Affiliate%20Marketing%20School%20Video%20Course
 
 ## 4. Editorial notes

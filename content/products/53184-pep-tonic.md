@@ -4,16 +4,16 @@ digistore24_product_id: 623254
 title: "Pep Tonic"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 140.84
+price: 140.92
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 45.7
+earnings_per_sale: 45.73
 cart_conversion_pct: 7
 cancel_rate_pct: 7.31
-categories: ["Food & Drink","Health & Fitness","Food Supplements"]
+categories: ["Health & Fitness","Food & Drink","Food Supplements"]
 listed_since: "2025-07-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Pep-Tonic/First-Anti-Aging-Drink/HD.htm"
@@ -22,22 +22,22 @@ language: "en"
 # Pep Tonic
 
 > Product ID `53184` · Digistore24 productId `623254` · [HTML profile page](../../reviews/pep-tonic-53184.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $140.84 (Single payment) |
+| Price | $140.92 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $45.70 |
+| Earnings/sale* | $45.73 |
 | Cart conversion* | 7% |
 | Cancel rate* | 7.31% |
 | Vendor | soundview |
 | Listed since | 2025-07-09 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness, Food Supplements |
+| Categories | Health & Fitness, Food & Drink, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-07-09
-- How much? — 140.835876 USD
+- How much? — 140.924048 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Pep Tonic alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/623254
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/623254/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Pep%20Tonic
 
 ## 4. Editorial notes

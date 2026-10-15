@@ -4,16 +4,16 @@ digistore24_product_id: 650227
 title: "Promote Keto Journey – Earn up to €20.30 per sale!"
 vendor: "Nancy021"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 21.13
+earnings_per_sale: 21.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-11-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/650227?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/650227"
@@ -22,16 +22,16 @@ language: "en"
 # Promote Keto Journey – Earn up to €20.30 per sale!
 
 > Product ID `54746` · Digistore24 productId `650227` · [HTML profile page](../../reviews/promote-keto-journey-earn-up-to-20-30-per-sale-54746.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $21.13 |
+| Earnings/sale* | $21.15 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Nancy021 |
@@ -85,14 +85,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Nancy021, listed since 2025-11-21
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote Keto Journey – Earn up to €20.30 per sale! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/650227
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650227/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20Keto%20Journey%20%E2%80%93%20Earn%20up%20to%20%E2%82%AC20.30%20per%20sale!
 
 ## 4. Editorial notes

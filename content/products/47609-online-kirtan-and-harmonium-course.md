@@ -4,46 +4,46 @@ digistore24_product_id: 532379
 title: "Online Kirtan and Harmonium Course"
 vendor: "PeaceYogaBerlin"
 product_type: "Member area and video courses"
-price: 112.54
+price: 112.61
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 59.2
+earnings_per_sale: 59.24
 cart_conversion_pct: 8
 cancel_rate_pct: 3.81
-categories: ["Education","Spiri­tua­lity & Esotericism"]
+categories: ["Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2024-01-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/47609/adminstore/"
+promo_link: "https://www.digistore24.com/product/532379?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/532379"
 language: "en"
 ---
 # Online Kirtan and Harmonium Course
 
 > Product ID `47609` · Digistore24 productId `532379` · [HTML profile page](../../reviews/online-kirtan-and-harmonium-course-47609.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $112.54 (Single payment, Installment) |
+| Price | $112.61 (Single payment, Installment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $59.20 |
+| Earnings/sale* | $59.24 |
 | Cart conversion* | 8% |
 | Cancel rate* | 3.81% |
 | Vendor | PeaceYogaBerlin |
 | Listed since | 2024-01-02 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Education, Spiri­tua­lity & Esotericism |
+| Categories | Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47609/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/532379?aff=adminstore
 - Sales page: https://www.digistore24.com/product/532379
 - Canonical redirect: https://www.digistore24.com/redir/532379/adminstore
 
@@ -74,14 +74,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: PeaceYogaBerlin, listed since 2024-01-02
-- How much? — 112.53676500000002 USD
+- How much? — 112.60722000000001 USD
 - Guarantee? — 30
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Online Kirtan and Harmonium Course alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/532379
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/532379/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Online%20Kirtan%20and%20Harmonium%20Course
 
 ## 4. Editorial notes

@@ -12,9 +12,9 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-08-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "rich"
 promo_link: "https://cognifortplus.com/ds/indexts.php?aff=adminstore#aff=adminstore"
 sales_page: "https://cognifortplus.com/ds/indexts.php"
 language: "en"
@@ -22,7 +22,7 @@ language: "en"
 # NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+
 
 > Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](../../reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -52,7 +52,32 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** Cognifort+
+- **Meta description:** Cognifort+
+- **Headline (H1):**
+  > CogniFort+™
+- **Section headlines (H2):**
+  - And It's Backed By Breakthrough New Research From Johns Hopkins, Harvard, and Stanford To Boot.
+  - I’ll Show YOU How To Do It At Home, Right Now.
+  - You're The Type of Person Others Have Counted On Your Whole Life.
+  - It's NOT Dementia. It’s NOT Even A Required Part of Aging.
+  - An Extra Split Second Between Hearing It... Thinking it... And Speaking It.
+  - That Same Lag Affects Your Hearing.
+  - Fortifying The Pathways Behind Memory, Hearing, and Much More.
+  - And Powerful Insiders Are Doing Everything To Keep This New Information Hidden.
+  - And Whatever I’ve Achieved… I Owe To Her.
+  - Lost. In A Panic. Made A Desperate U-turn On The Highway.
+- **Price mentions on page:** $1.6, $97.00, $6,000, $72,000, $32,000, $5,300, $7,600, $91,000, $1,000,000, $14,000., $100, $97
+- **Guarantee mention:** "180-day money-back guarantee" (verify on the official page before relying on it)
+- **Opening copy (first paragraphs):**
+  > And in just a moment, you’re going to meet everyday women and men who were struggling with memory slips, brain fog… and in some cases, failing fast.
+  > A 9-second “forbidden fat ritual”… inspired by remote Himalayan villages where memory loss is almost unheard of.
+  > Turns out… your memory cells didn’t disappear. They're just starving. And this is exactly what feeds them.
+  > My biggest fear was becoming a burden to my kids.That worry is just gone now. I’m not stopping mid-sentence like I used to. I’m not walking into rooms and standing there wondering why. No lost keys.
+- **Questions the sales page answers:**
+  - What if this is more than just getting older?
+  - What about the butter?
+- **Page word count:** 7330
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -77,13 +102,13 @@ language: "en"
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2026-08-13
 - How much? — 117 USD
-- Guarantee? — not found in our research, verify on the official page
+- Guarantee? — 180-day money-back guarantee
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+ alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/713233
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/713233/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%20Brain%20Health%20Offer%20%7C%20~%243%20EPC%20%7C%20~4%25%20Conversion%20%7C%2040%2B
 
 ## 4. Editorial notes

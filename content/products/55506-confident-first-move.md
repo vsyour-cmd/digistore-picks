@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Dating, Relationships & Romance"]
 listed_since: "2026-02-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
 promo_link: "https://elevenmarketingdigital.com/confident-first-move?aff=adminstore#aff=adminstore"
 sales_page: "https://elevenmarketingdigital.com/confident-first-move"
@@ -22,7 +22,7 @@ language: "en"
 # Confident First Move
 
 > Product ID `55506` · Digistore24 productId `665648` · [HTML profile page](../../reviews/confident-first-move-55506.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -74,7 +74,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Confident First Move alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/665648
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/665648/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Confident%20First%20Move
 
 ## 4. Editorial notes

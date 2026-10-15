@@ -4,16 +4,16 @@ digistore24_product_id: 668910
 title: "High-Converting Herbal Health Offer Solve 28+ Common Problem"
 vendor: "wellnesswithsher"
 product_type: "E-books"
-price: 21.91
+price: 21.93
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 13.15
+earnings_per_sale: 13.16
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Personal Development"]
 listed_since: "2026-02-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://wellnesswithsher.neocities.org/?aff=adminstore#aff=adminstore"
 sales_page: "https://wellnesswithsher.neocities.org/"
@@ -22,16 +22,16 @@ language: "en"
 # High-Converting Herbal Health Offer Solve 28+ Common Problem
 
 > Product ID `55786` · Digistore24 productId `668910` · [HTML profile page](../../reviews/high-converting-herbal-health-offer-solve-28-common-problem-55786.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.91 (Single payment) |
+| Price | $21.93 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $13.15 |
+| Earnings/sale* | $13.16 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | wellnesswithsher |
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: wellnesswithsher, listed since 2026-02-15
-- How much? — 21.914760000000005 USD
+- How much? — 21.92848 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: High-Converting Herbal Health Offer Solve 28+ Common Problem alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/668910
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/668910/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=High-Converting%20Herbal%20Health%20Offer%20Solve%2028%2B%20Common%20Problem
 
 ## 4. Editorial notes

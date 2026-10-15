@@ -4,34 +4,34 @@ digistore24_product_id: 726129
 title: "package_4_language_guides_en"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58679/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726129?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726129"
 language: "en"
 ---
 # package_4_language_guides_en
 
 > Product ID `58679` · Digistore24 productId `726129` · [HTML profile page](../../reviews/package-4-language-guides-en-58679.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58679/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726129?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726129
 - Canonical redirect: https://www.digistore24.com/redir/726129/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-26
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: package_4_language_guides_en alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726129
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726129/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=package_4_language_guides_en
 
 ## 4. Editorial notes

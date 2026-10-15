@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-06-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/57107/adminstore/"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "thin"
+promo_link: "https://advancedlivingstrategies.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://advancedlivingstrategies.com/"
 language: "en"
 ---
 # The Super Mind Evolution System
 
 > Product ID `57107` · Digistore24 productId `690000` · [HTML profile page](../../reviews/the-super-mind-evolution-system-57107.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,14 +45,20 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57107/adminstore/
+- **Promo link (affiliate):** https://advancedlivingstrategies.com/?aff=adminstore#aff=adminstore
 - Sales page: https://advancedlivingstrategies.com/
 - Vendor affiliate support: https://advancedlivingstrategies.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/690000/adminstore
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** 请稍候…
+- **Headline (H1):**
+  > advancedlivingstrategies.com
+- **Section headlines (H2):**
+  - 正在进行安全验证
+  - 验证成功。正在等待 advancedlivingstrategies.com 响应
+- **Page word count:** 10
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -74,7 +80,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Super Mind Evolution System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/690000
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/690000/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Super%20Mind%20Evolution%20System
 
 ## 4. Editorial notes

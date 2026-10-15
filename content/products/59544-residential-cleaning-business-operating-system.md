@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Leadership & Management"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://pawopsstudio.com/residential-cleaning-business-operating-system/?aff=adminstore#aff=adminstore"
 sales_page: "https://pawopsstudio.com/residential-cleaning-business-operating-system/"
@@ -22,7 +22,7 @@ language: "en"
 # Residential Cleaning Business Operating System
 
 > Product ID `59544` · Digistore24 productId `732139` · [HTML profile page](../../reviews/residential-cleaning-business-operating-system-59544.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -92,7 +92,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Residential Cleaning Business Operating System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/732139
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732139/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Residential%20Cleaning%20Business%20Operating%20System
 
 ## 4. Editorial notes

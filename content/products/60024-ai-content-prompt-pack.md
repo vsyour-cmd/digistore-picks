@@ -4,16 +4,16 @@ digistore24_product_id: 737756
 title: "AI Content Prompt Pack"
 vendor: "xarutacom"
 product_type: "E-books"
-price: 25.72
+price: 25.73
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 7.71
+earnings_per_sale: 7.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Email Marketing","Online Marketing & E-Business","Marketing Services"]
+categories: ["Online Marketing & E-Business","Email Marketing","Marketing Services"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://xaruta4.wordpress.com/ai-content-prompt-pack/?aff=adminstore#aff=adminstore"
 sales_page: "https://xaruta4.wordpress.com/ai-content-prompt-pack/"
@@ -22,22 +22,22 @@ language: "en"
 # AI Content Prompt Pack
 
 > Product ID `60024` · Digistore24 productId `737756` · [HTML profile page](../../reviews/ai-content-prompt-pack-60024.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $25.72 (Single payment) |
+| Price | $25.73 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $7.71 |
+| Earnings/sale* | $7.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | xarutacom |
 | Listed since | 2026-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Email Marketing, Online Marketing & E-Business, Marketing Services |
+| Categories | Online Marketing & E-Business, Email Marketing, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: xarutacom, listed since 2026-09-29
-- How much? — 25.716300000000004 USD
+- How much? — 25.732400000000002 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Content Prompt Pack alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/737756
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737756/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Content%20Prompt%20Pack
 
 ## 4. Editorial notes

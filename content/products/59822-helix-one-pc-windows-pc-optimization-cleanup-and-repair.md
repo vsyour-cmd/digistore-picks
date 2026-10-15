@@ -10,10 +10,10 @@ affiliate_commission_pct: 30
 earnings_per_sale: 27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Software","Computer & Internet"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://helixonepc.com/digistore24.html?aff=adminstore#aff=adminstore"
 sales_page: "https://helixonepc.com/digistore24.html"
@@ -22,7 +22,7 @@ language: "en"
 # Helix One PC - Windows PC Optimization, Cleanup and Repair
 
 > Product ID `59822` · Digistore24 productId `737995` · [HTML profile page](../../reviews/helix-one-pc-windows-pc-optimization-cleanup-and-repair-59822.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | supportb13e |
 | Listed since | 2026-09-27 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Helix One PC - Windows PC Optimization, Cleanup and Repair alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/737995
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/737995/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Helix%20One%20PC%20-%20Windows%20PC%20Optimization%2C%20Cleanup%20and%20Repair
 
 ## 4. Editorial notes

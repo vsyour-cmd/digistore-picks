@@ -4,16 +4,16 @@ digistore24_product_id: 569406
 title: "Millionaire Partner System"
 vendor: "impassive"
 product_type: "Member area and video courses"
-price: 1081.02
+price: 1081.7
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 790.84
+earnings_per_sale: 791.34
 cart_conversion_pct: 3
 cancel_rate_pct: 15.64
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2024-09-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://millionairepartnership.com/webclass-d24?aff=adminstore#aff=adminstore"
 sales_page: "https://millionairepartnership.com/webclass-d24"
@@ -22,16 +22,16 @@ language: "en"
 # Millionaire Partner System
 
 > Product ID `48578` · Digistore24 productId `569406` · [HTML profile page](../../reviews/millionaire-partner-system-48578.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $1081.02 (Single payment) |
+| Price | $1081.70 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $790.84 |
+| Earnings/sale* | $791.34 |
 | Cart conversion* | 3% |
 | Cancel rate* | 15.64% |
 | Vendor | impassive |
@@ -111,14 +111,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: impassive, listed since 2024-09-09
-- How much? — 1081.0238040000002 USD
+- How much? — 1081.7005920000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Millionaire Partner System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/569406
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/569406/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Millionaire%20Partner%20System
 
 ## 4. Editorial notes

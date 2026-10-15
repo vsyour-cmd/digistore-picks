@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://exceltemplates.tennetinfotech.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://exceltemplates.tennetinfotech.com/"
@@ -22,7 +22,7 @@ language: "en"
 # 1000+ Excel Templates Bundle | Budget, Finance, Business, HR
 
 > Product ID `59272` · Digistore24 productId `719715` · [HTML profile page](../../reviews/1000-excel-templates-bundle-budget-finance-business-hr-59272.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -102,7 +102,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1000+ Excel Templates Bundle | Budget, Finance, Business, HR alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/719715
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719715/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=1000%2B%20Excel%20Templates%20Bundle%20%7C%20Budget%2C%20Finance%2C%20Business%2C%20HR
 
 ## 4. Editorial notes

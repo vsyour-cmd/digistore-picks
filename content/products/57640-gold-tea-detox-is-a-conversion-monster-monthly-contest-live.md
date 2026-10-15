@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-07-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://goldteadetox.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://goldteadetox.com/"
@@ -22,7 +22,7 @@ language: "en"
 # Gold Tea Detox Is A Conversion Monster! Monthly Contest Live
 
 > Product ID `57640` · Digistore24 productId `691501` · [HTML profile page](../../reviews/gold-tea-detox-is-a-conversion-monster-monthly-contest-live-57640.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Gold Tea Detox Is A Conversion Monster! Monthly Contest Live alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/691501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691501/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Gold%20Tea%20Detox%20Is%20A%20Conversion%20Monster!%20Monthly%20Contest%20Live
 
 ## 4. Editorial notes

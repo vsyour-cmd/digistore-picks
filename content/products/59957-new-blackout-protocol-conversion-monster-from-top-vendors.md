@@ -10,19 +10,19 @@ affiliate_commission_pct: 85
 earnings_per_sale: 33.15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Green Products & Environmental Protection","Home & Garden","Survival"]
+categories: ["Home & Garden","Green Products & Environmental Protection","Survival"]
 listed_since: "2026-09-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59957/adminstore/"
+promo_link: "http://feelbetter-today.com/blackout?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/blackout"
 language: "en"
 ---
 # NEW: Blackout Protocol - Conversion Monster From Top Vendors
 
 > Product ID `59957` · Digistore24 productId `738067` · [HTML profile page](../../reviews/new-blackout-protocol-conversion-monster-from-top-vendors-59957.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | energy4oren |
 | Listed since | 2026-09-27 |
 | Auto-accept affiliates | yes |
-| Categories | Green Products & Environmental Protection, Home & Garden, Survival |
+| Categories | Home & Garden, Green Products & Environmental Protection, Survival |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59957/adminstore/
+- **Promo link (affiliate):** http://feelbetter-today.com/blackout?aff=adminstore#aff=adminstore
 - Sales page: http://feelbetter-today.com/blackout
 - Vendor affiliate support: https://www.digistore24-app.com/account/partnerarea/5844463/en
 - Canonical redirect: https://www.digistore24.com/redir/738067/adminstore
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Blackout Protocol - Conversion Monster From Top Vendors alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738067
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738067/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Blackout%20Protocol%20-%20Conversion%20Monster%20From%20Top%20Vendors
 
 ## 4. Editorial notes

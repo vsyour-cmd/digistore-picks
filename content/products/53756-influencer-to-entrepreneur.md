@@ -4,16 +4,16 @@ digistore24_product_id: 633267
 title: "Influencer To Entrepreneur"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.09
+earnings_per_sale: 16.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Personal Development","Social Media"]
+categories: ["Personal Development","Business & Investment","Social Media"]
 listed_since: "2025-09-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/633267?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/633267"
@@ -22,22 +22,22 @@ language: "en"
 # Influencer To Entrepreneur
 
 > Product ID `53756` · Digistore24 productId `633267` · [HTML profile page](../../reviews/influencer-to-entrepreneur-53756.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.09 |
+| Earnings/sale* | $16.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
 | Listed since | 2025-09-02 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Personal Development, Social Media |
+| Categories | Personal Development, Business & Investment, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-02
-- How much? — 20.114619 USD
+- How much? — 20.127212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Influencer To Entrepreneur alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/633267
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633267/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Influencer%20To%20Entrepreneur
 
 ## 4. Editorial notes

@@ -4,17 +4,17 @@ digistore24_product_id: 501717
 title: "spryfuel® membership"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 318.66
+price: 318.86
 currency: "USD"
 affiliate_commission_pct: 35
-earnings_per_sale: 111.53
+earnings_per_sale: 111.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
-research_quality: "none"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
+research_quality: "rich"
 promo_link: "https://www.spryfuel.com/en/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.spryfuel.com/en/"
 language: "en"
@@ -22,16 +22,16 @@ language: "en"
 # spryfuel® membership
 
 > Product ID `45200` · Digistore24 productId `501717` · [HTML profile page](../../reviews/spryfuel-membership-45200.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $318.66 (Subscription) |
+| Price | $318.86 (Subscription) |
 | Affiliate commission | 35% |
-| Earnings/sale* | $111.53 |
+| Earnings/sale* | $111.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -52,7 +52,33 @@ language: "en"
 
 ## 3. Sales-page research (vendor claims, not verified by us)
 
-> Sales page not yet researched. This section will be filled by the next research run.
+- **Page title:** spryfuel
+- **Headline (H1):**
+  > Fuel for body and mind
+- **Section headlines (H2):**
+  - Heal deficiencies in all areas at the touch of a button
+  - Works within a few minutes
+  - Largest platform
+  - Just 10 minutes a day can lead to lasting changes
+  - Optimise all states with spryfuel®:
+  - Scientifically proven
+  - What makes spryfuel® unique?
+  - Our members report great positive changes
+  - For a short time, you will also receive these bonus gifts
+  - FAQ
+- **Opening copy (first paragraphs):**
+  > spryfuel® was founded to heal through sound waves and relax through music. We have developed a powerful range of frequency-based therapeutic music that is clinically proven to improve sleep, reduce stress, calm, energize you for the day and support your health and well-being.
+  > spryfuel® is the largest platform for frequency therapy programs. We also have a large portion of frequency programs to support a variety of specific diseases.
+  > Many scientific studies show that psychoacoustic frequencies help in various areas of life. They are excellent for prevention, stress reduction, deep relaxation, creativity and improving your cognitive abilities, such as your memory and concentration.
+  > Our frequency music can also help with acute illnesses such as depression, migraines, tinnitus or anxiety.
+- **Questions the sales page answers:**
+  - What is included in my subscription?
+  - How does spryfuel® frequency medicine work?
+  - How long is my probationary period?
+  - Will I get future music for free?
+  - Which devices can I use to listen?
+  - What are healing frequencies?
+- **Page word count:** 1414
 
 > ⚠️ Everything in section 3 is extracted from the vendor's own sales page and reflects the vendor's marketing claims. We do not verify outcomes, testimonials or income claims.
 
@@ -67,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Insider-Media, listed since 2023-06-04
-- How much? — 318.6585 USD
+- How much? — 318.858 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: spryfuel® membership alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/501717
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/501717/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=spryfuel%C2%AE%20membership
 
 ## 4. Editorial notes

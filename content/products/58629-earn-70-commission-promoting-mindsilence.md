@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2026-08-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58629/adminstore/"
+promo_link: "https://getmindsilence.com/ds/indexts.php?aff=adminstore#aff=adminstore"
 sales_page: "https://getmindsilence.com/ds/indexts.php"
 language: "en"
 ---
 # Earn 70% commission promoting MindSilence!
 
 > Product ID `58629` · Digistore24 productId `719005` · [HTML profile page](../../reviews/earn-70-commission-promoting-mindsilence-58629.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58629/adminstore/
+- **Promo link (affiliate):** https://getmindsilence.com/ds/indexts.php?aff=adminstore#aff=adminstore
 - Sales page: https://getmindsilence.com/ds/indexts.php
 - Vendor affiliate support: https://getmindsilence.com/ds/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/719005/adminstore
@@ -103,7 +103,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 70% commission promoting MindSilence! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/719005
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/719005/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2070%25%20commission%20promoting%20MindSilence!
 
 ## 4. Editorial notes

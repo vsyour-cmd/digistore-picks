@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 16.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness"]
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60479/adminstore/"
+promo_link: "https://healthsecrets.com/products/home-blood-pressure-tracking-kit?aff=adminstore#aff=adminstore"
 sales_page: "https://healthsecrets.com/products/home-blood-pressure-tracking-kit"
 language: "en"
 ---
 # Home Blood Pressure Tracking Kit
 
 > Product ID `60479` · Digistore24 productId `733169` · [HTML profile page](../../reviews/home-blood-pressure-tracking-kit-60479.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | healthsecretscom |
 | Listed since | 2026-10-09 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60479/adminstore/
+- **Promo link (affiliate):** https://healthsecrets.com/products/home-blood-pressure-tracking-kit?aff=adminstore#aff=adminstore
 - Sales page: https://healthsecrets.com/products/home-blood-pressure-tracking-kit
 - Vendor affiliate support: https://healthsecrets.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/733169/adminstore
@@ -112,7 +112,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Blood Pressure Tracking Kit alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/733169
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733169/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Blood%20Pressure%20Tracking%20Kit
 
 ## 4. Editorial notes

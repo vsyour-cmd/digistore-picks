@@ -4,34 +4,34 @@ digistore24_product_id: 364765
 title: "1x1 Guru: Learn multiplication tables with innovative method"
 vendor: "Insider-Media"
 product_type: "Member area and video courses"
-price: 334.31
+price: 334.52
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 167.16
+earnings_per_sale: 167.26
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2020-12-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/35563/adminstore/"
+promo_link: "https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore"
 sales_page: "https://www.1x1.guru/?lang=en"
 language: "en"
 ---
 # 1x1 Guru: Learn multiplication tables with innovative method
 
 > Product ID `35563` · Digistore24 productId `364765` · [HTML profile page](../../reviews/1x1-guru-learn-multiplication-tables-with-innovative-method-35563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $334.31 (Subscription) |
+| Price | $334.52 (Subscription) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $167.16 |
+| Earnings/sale* | $167.26 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Insider-Media |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/35563/adminstore/
+- **Promo link (affiliate):** https://www.1x1.guru/?lang=en&aff=adminstore#aff=adminstore
 - Sales page: https://www.1x1.guru/?lang=en
 - Canonical redirect: https://www.digistore24.com/redir/364765/adminstore
 
@@ -66,14 +66,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Insider-Media, listed since 2020-12-28
-- How much? — 334.31190000000004 USD
+- How much? — 334.5212 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1x1 Guru: Learn multiplication tables with innovative method alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/364765
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/364765/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=1x1%20Guru%3A%20Learn%20multiplication%20tables%20with%20innovative%20method
 
 ## 4. Editorial notes

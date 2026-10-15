@@ -4,7 +4,7 @@ digistore24_product_id: 656092
 title: "Restore Hormonal Balance Naturally"
 vendor: "TheHealthyLivingHub"
 product_type: "E-books"
-price: 15.64
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 70
 earnings_per_sale: 10.95
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2025-12-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/55093/adminstore/"
+promo_link: "https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore"
 sales_page: "https://thehealthyliving.lovable.app"
 language: "en"
 ---
 # Restore Hormonal Balance Naturally
 
 > Product ID `55093` · Digistore24 productId `656092` · [HTML profile page](../../reviews/restore-hormonal-balance-naturally-55093.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $15.64 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 70% |
 | Earnings/sale* | $10.95 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55093/adminstore/
+- **Promo link (affiliate):** https://thehealthyliving.lovable.app?aff=adminstore#aff=adminstore
 - Sales page: https://thehealthyliving.lovable.app
 - Vendor affiliate support: https://sites.google.com/view/healthy-living-hub-affiliate/home
 - Canonical redirect: https://www.digistore24.com/redir/656092/adminstore
@@ -71,14 +71,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TheHealthyLivingHub, listed since 2025-12-17
-- How much? — 15.642219 USD
+- How much? — 15.652012000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Restore Hormonal Balance Naturally alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/656092
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/656092/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Restore%20Hormonal%20Balance%20Naturally
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 1
 cancel_rate_pct: 21.41
 categories: ["Software"]
 listed_since: "2025-06-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://viddeos.ai/start/?aff=adminstore#aff=adminstore"
 sales_page: "https://viddeos.ai/start/"
@@ -22,7 +22,7 @@ language: "en"
 # Traffic Genius | 50% Commissions | $997 Offer
 
 > Product ID `53066` · Digistore24 productId `616827` · [HTML profile page](../../reviews/traffic-genius-50-commissions-997-offer-53066.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Traffic Genius | 50% Commissions | $997 Offer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/616827
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/616827/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Traffic%20Genius%20%7C%2050%25%20Commissions%20%7C%20%24997%20Offer
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57829/adminstore/"
+promo_link: "https://thevacationchecklist-5td.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://thevacationchecklist-5td.plannerpack.co"
 language: "en"
 ---
 # The Vacation Checklist
 
 > Product ID `57829` · Digistore24 productId `717472` · [HTML profile page](../../reviews/the-vacation-checklist-57829.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57829/adminstore/
+- **Promo link (affiliate):** https://thevacationchecklist-5td.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://thevacationchecklist-5td.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/717472/adminstore
 
@@ -77,7 +77,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Vacation Checklist alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/717472
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717472/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Vacation%20Checklist
 
 ## 4. Editorial notes

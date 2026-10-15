@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-09-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://shamespiraltoselfworth-1ja.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://shamespiraltoselfworth-1ja.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Shame Spiral To Self Worth
 
 > Product ID `59482` · Digistore24 productId `735768` · [HTML profile page](../../reviews/shame-spiral-to-self-worth-59482.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Shame Spiral To Self Worth alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735768
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735768/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Shame%20Spiral%20To%20Self%20Worth
 
 ## 4. Editorial notes

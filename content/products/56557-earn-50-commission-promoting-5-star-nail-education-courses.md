@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 156
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fashion","Health & Fitness","Home & Garden"]
+categories: ["Health & Fitness","Home & Garden","Fashion"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56557/adminstore/"
+promo_link: "https://vel.academy/course-bundle-d24?aff=adminstore#aff=adminstore"
 sales_page: "https://vel.academy/course-bundle-d24"
 language: "en"
 ---
 # Earn 50% Commission Promoting 5-Star Nail Education Courses
 
 > Product ID `56557` · Digistore24 productId `691507` · [HTML profile page](../../reviews/earn-50-commission-promoting-5-star-nail-education-courses-56557.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | info5a25 |
 | Listed since | 2026-05-18 |
 | Auto-accept affiliates | yes |
-| Categories | Fashion, Health & Fitness, Home & Garden |
+| Categories | Health & Fitness, Home & Garden, Fashion |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56557/adminstore/
+- **Promo link (affiliate):** https://vel.academy/course-bundle-d24?aff=adminstore#aff=adminstore
 - Sales page: https://vel.academy/course-bundle-d24
 - Vendor affiliate support: https://vel.academy/affiliate-help
 - Canonical redirect: https://www.digistore24.com/redir/691507/adminstore
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 50% Commission Promoting 5-Star Nail Education Courses alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/691507
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691507/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2050%25%20Commission%20Promoting%205-Star%20Nail%20Education%20Courses
 
 ## 4. Editorial notes

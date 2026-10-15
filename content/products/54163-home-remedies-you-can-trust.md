@@ -4,40 +4,40 @@ digistore24_product_id: 637574
 title: "Home Remedies You Can Trust"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.09
+earnings_per_sale: 16.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Green Products & Environmental Protection","Health & Fitness"]
+categories: ["Health & Fitness","Family & Children","Green Products & Environmental Protection"]
 listed_since: "2025-09-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54163/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/637574?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/637574"
 language: "en"
 ---
 # Home Remedies You Can Trust
 
 > Product ID `54163` · Digistore24 productId `637574` · [HTML profile page](../../reviews/home-remedies-you-can-trust-54163.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.09 |
+| Earnings/sale* | $16.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
 | Listed since | 2025-09-24 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Green Products & Environmental Protection, Health & Fitness |
+| Categories | Health & Fitness, Family & Children, Green Products & Environmental Protection |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54163/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/637574?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/637574
 - Vendor affiliate support: https://ghulambooksaffiliatesupport.blogspot.com/2026/03/home-remedies-you-can-trust-ebook.html
 - Canonical redirect: https://www.digistore24.com/redir/637574/adminstore
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-24
-- How much? — 20.114619 USD
+- How much? — 20.127212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Remedies You Can Trust alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/637574
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/637574/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Remedies%20You%20Can%20Trust
 
 ## 4. Editorial notes

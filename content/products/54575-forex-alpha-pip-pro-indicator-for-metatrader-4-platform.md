@@ -4,34 +4,34 @@ digistore24_product_id: 646608
 title: "Forex Alpha Pip PRO Indicator For MetaTrader 4 Platform"
 vendor: "forexobroker"
 product_type: "Software"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Software"]
 listed_since: "2025-11-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54575/adminstore/"
+promo_link: "https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/?aff=adminstore#aff=adminstore"
 sales_page: "https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/"
 language: "en"
 ---
 # Forex Alpha Pip PRO Indicator For MetaTrader 4 Platform
 
 > Product ID `54575` · Digistore24 productId `646608` · [HTML profile page](../../reviews/forex-alpha-pip-pro-indicator-for-metatrader-4-platform-54575.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | forexobroker |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54575/adminstore/
+- **Promo link (affiliate):** https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/?aff=adminstore#aff=adminstore
 - Sales page: https://forexprofitkeeper.com/forex-alpha-pip-pro-indicator-dg/
 - Vendor affiliate support: https://forexprofitkeeper.com/alpha-pip-pro-affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/646608/adminstore
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: forexobroker, listed since 2025-11-06
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Forex Alpha Pip PRO Indicator For MetaTrader 4 Platform alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/646608
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/646608/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Forex%20Alpha%20Pip%20PRO%20Indicator%20For%20MetaTrader%204%20Platform
 
 ## 4. Editorial notes

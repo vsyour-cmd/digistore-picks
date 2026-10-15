@@ -4,34 +4,34 @@ digistore24_product_id: 598501
 title: "The Instagram Growth Blueprint + The Pathway to Profits"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 25.72
+price: 25.73
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.86
+earnings_per_sale: 12.87
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media","Online Marketing"]
 listed_since: "2025-02-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51493/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/598501?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/598501"
 language: "en"
 ---
 # The Instagram Growth Blueprint + The Pathway to Profits
 
 > Product ID `51493` · Digistore24 productId `598501` · [HTML profile page](../../reviews/the-instagram-growth-blueprint-the-pathway-to-profits-51493.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $25.72 (Single payment) |
+| Price | $25.73 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.86 |
+| Earnings/sale* | $12.87 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | moneywithangie |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51493/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/598501?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/598501
 - Canonical redirect: https://www.digistore24.com/redir/598501/adminstore
 
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2025-02-25
-- How much? — 25.716300000000004 USD
+- How much? — 25.732400000000002 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Instagram Growth Blueprint + The Pathway to Profits alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/598501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/598501/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Instagram%20Growth%20Blueprint%20%2B%20The%20Pathway%20to%20Profits
 
 ## 4. Editorial notes

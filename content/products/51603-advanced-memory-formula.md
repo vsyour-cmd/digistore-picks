@@ -4,34 +4,34 @@ digistore24_product_id: 599473
 title: "Advanced Memory Formula"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 141.12
+price: 141.2
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 87.39
+earnings_per_sale: 87.45
 cart_conversion_pct: 7
 cancel_rate_pct: 6.53
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-03-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51603/adminstore/"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm"
 language: "en"
 ---
 # Advanced Memory Formula
 
 > Product ID `51603` · Digistore24 productId `599473` · [HTML profile page](../../reviews/advanced-memory-formula-51603.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $141.12 (Single payment) |
+| Price | $141.20 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $87.39 |
+| Earnings/sale* | $87.45 |
 | Cart conversion* | 7% |
 | Cancel rate* | 6.53% |
 | Vendor | soundview |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51603/adminstore/
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Advanced-Memory/Nobel-Prize-Winning-Memory-Breakthroughs/HD.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/advanced-memory-formula-16
 - Canonical redirect: https://www.digistore24.com/redir/599473/adminstore
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-03-03
-- How much? — 141.115401 USD
+- How much? — 141.203748 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Memory Formula alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/599473
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/599473/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Memory%20Formula
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 638771
 title: "THE LAST BOTTLE by Gulshan Ulduz PDF"
 vendor: "DECLARATIONPLUS"
 product_type: "E-books"
-price: 13.42
+price: 13.43
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 2.68
+earnings_per_sale: 2.69
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2025-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54299/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/638771?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/638771"
 language: "en"
 ---
 # THE LAST BOTTLE by Gulshan Ulduz PDF
 
 > Product ID `54299` · Digistore24 productId `638771` · [HTML profile page](../../reviews/the-last-bottle-by-gulshan-ulduz-pdf-54299.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $13.42 (Single payment) |
+| Price | $13.43 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $2.68 |
+| Earnings/sale* | $2.69 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DECLARATIONPLUS |
 | Listed since | 2025-09-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54299/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/638771?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/638771
 - Vendor affiliate support: https://docs.google.com/document/d/e/2PACX-1vRkGzyNi8kWpiLt20ZA9aC3j8A-tfANGSo006F1tOaFi4jD2FORoKPrpVD9SX613xiB-Wva52_qO2uz/pub
 - Canonical redirect: https://www.digistore24.com/redir/638771/adminstore
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DECLARATIONPLUS, listed since 2025-09-30
-- How much? — 13.417200000000001 USD
+- How much? — 13.4256 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: THE LAST BOTTLE by Gulshan Ulduz PDF alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/638771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/638771/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=THE%20LAST%20BOTTLE%20by%20Gulshan%20Ulduz%20PDF
 
 ## 4. Editorial notes

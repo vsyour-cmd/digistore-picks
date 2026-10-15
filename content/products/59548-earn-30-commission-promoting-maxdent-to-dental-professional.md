@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Software","Office Organization"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.maxdentsystem.com/digistore?aff=adminstore#aff=adminstore"
 sales_page: "https://www.maxdentsystem.com/digistore"
@@ -22,7 +22,7 @@ language: "en"
 # Earn 30% commission promoting MaxDent to dental professional
 
 > Product ID `59548` · Digistore24 productId `732542` · [HTML profile page](../../reviews/earn-30-commission-promoting-maxdent-to-dental-professional-59548.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Earn 30% commission promoting MaxDent to dental professional alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/732542
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/732542/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Earn%2030%25%20commission%20promoting%20MaxDent%20to%20dental%20professional
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 621680
 title: "AI + Profit Masterclass"
 vendor: "izipayments"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 16.55
+earnings_per_sale: 16.56
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2025-07-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/621680?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/621680"
@@ -22,16 +22,16 @@ language: "en"
 # AI + Profit Masterclass
 
 > Product ID `53050` · Digistore24 productId `621680` · [HTML profile page](../../reviews/ai-profit-masterclass-53050.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $16.55 |
+| Earnings/sale* | $16.56 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | izipayments |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: izipayments, listed since 2025-07-01
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI + Profit Masterclass alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/621680
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621680/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20%2B%20Profit%20Masterclass
 
 ## 4. Editorial notes

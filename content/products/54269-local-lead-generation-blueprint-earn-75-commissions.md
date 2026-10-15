@@ -4,34 +4,34 @@ digistore24_product_id: 639579
 title: "Local Lead Generation Blueprint | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 168.83
+price: 168.94
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 126.62
+earnings_per_sale: 126.7
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment"]
 listed_since: "2025-10-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54269/adminstore/"
+promo_link: "http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint"
 language: "en"
 ---
 # Local Lead Generation Blueprint | Earn 75% Commissions
 
 > Product ID `54269` · Digistore24 productId `639579` · [HTML profile page](../../reviews/local-lead-generation-blueprint-earn-75-commissions-54269.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $168.83 (Single payment) |
+| Price | $168.94 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $126.62 |
+| Earnings/sale* | $126.70 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54269/adminstore/
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/the-local-lead-generation-blueprint-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639579/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-05
-- How much? — 168.8331 USD
+- How much? — 168.93880000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Local Lead Generation Blueprint | Earn 75% Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639579
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639579/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Local%20Lead%20Generation%20Blueprint%20%7C%20Earn%2075%25%20Commissions
 
 ## 4. Editorial notes

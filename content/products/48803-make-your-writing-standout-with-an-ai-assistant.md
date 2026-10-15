@@ -4,32 +4,32 @@ digistore24_product_id: 564237
 title: "Make your writing standout with an AI Assistant"
 vendor: "team24-hnagarajan"
 product_type: "Online coaching"
-price: 55.91
+price: 55.94
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Betting Systems","Software","Online Marketing"]
+categories: ["Software","Betting Systems","Online Marketing"]
 listed_since: "2024-08-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/48803/adminstore/"
+promo_link: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore"
 sales_page: "https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching"
 language: "en"
 ---
 # Make your writing standout with an AI Assistant
 
 > Product ID `48803` · Digistore24 productId `564237` · [HTML profile page](../../reviews/make-your-writing-standout-with-an-ai-assistant-48803.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Online coaching |
-| Price | $55.91 (Subscription) |
+| Price | $55.94 (Subscription) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | team24-hnagarajan |
 | Listed since | 2024-08-06 |
 | Auto-accept affiliates | yes |
-| Categories | Betting Systems, Software, Online Marketing |
+| Categories | Software, Betting Systems, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/48803/adminstore/
+- **Promo link (affiliate):** https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching?aff=adminstore#aff=adminstore
 - Sales page: https://coachingbyharish.mydigibiz24.com/product-upsell-30-minute-coaching
 - Canonical redirect: https://www.digistore24.com/redir/564237/adminstore
 
@@ -66,14 +66,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Online coaching, vendor: team24-hnagarajan, listed since 2024-08-06
-- How much? — 55.905 USD
+- How much? — 55.94 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Make your writing standout with an AI Assistant alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/564237
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/564237/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Make%20your%20writing%20standout%20with%20an%20AI%20Assistant
 
 ## 4. Editorial notes

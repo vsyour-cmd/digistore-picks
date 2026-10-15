@@ -4,16 +4,16 @@ digistore24_product_id: 630882
 title: "Boost Your Freelance Productivity – All-in-One Action Kit"
 vendor: "fkcproject"
 product_type: "Downloads"
-price: 27.95
+price: 27.97
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 22.36
+earnings_per_sale: 22.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Personal Development","Marketing Services"]
+categories: ["Personal Development","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2025-08-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/630882?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/630882"
@@ -22,22 +22,22 @@ language: "en"
 # Boost Your Freelance Productivity – All-in-One Action Kit
 
 > Product ID `53556` · Digistore24 productId `630882` · [HTML profile page](../../reviews/boost-your-freelance-productivity-all-in-one-action-kit-53556.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $27.95 (Single payment) |
+| Price | $27.97 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $22.36 |
+| Earnings/sale* | $22.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | fkcproject |
 | Listed since | 2025-08-21 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Personal Development, Marketing Services |
+| Categories | Personal Development, Online Marketing & E-Business, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: fkcproject, listed since 2025-08-21
-- How much? — 27.9525 USD
+- How much? — 27.97 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Boost Your Freelance Productivity – All-in-One Action Kit alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/630882
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630882/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Boost%20Your%20Freelance%20Productivity%20%E2%80%93%20All-in-One%20Action%20Kit
 
 ## 4. Editorial notes

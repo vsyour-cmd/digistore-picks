@@ -4,16 +4,16 @@ digistore24_product_id: 642261
 title: "The 21-Day Wealth Attraction Protocol | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "Member area and video courses"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 22.64
+earnings_per_sale: 22.66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/21-day-wealth-attraction-protocol-vsl"
@@ -22,16 +22,16 @@ language: "en"
 # The 21-Day Wealth Attraction Protocol | Earn 75% Commissions
 
 > Product ID `54446` · Digistore24 productId `642261` · [HTML profile page](../../reviews/the-21-day-wealth-attraction-protocol-earn-75-commissions-54446.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $22.64 |
+| Earnings/sale* | $22.66 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: darrelltee, listed since 2025-10-18
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 21-Day Wealth Attraction Protocol | Earn 75% Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/642261
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/642261/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%2021-Day%20Wealth%20Attraction%20Protocol%20%7C%20Earn%2075%25%20Commissions
 
 ## 4. Editorial notes

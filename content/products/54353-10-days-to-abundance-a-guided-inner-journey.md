@@ -4,34 +4,34 @@ digistore24_product_id: 640611
 title: "10 Days to Abundance — A Guided Inner Journey"
 vendor: "BlissPortal"
 product_type: "E-books"
-price: 36.9
+price: 36.92
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 18.45
+earnings_per_sale: 18.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2025-10-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/54353/adminstore/"
+promo_link: "https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore"
 sales_page: "https://wellnessworld.ee/10daysabundance"
 language: "en"
 ---
 # 10 Days to Abundance — A Guided Inner Journey
 
 > Product ID `54353` · Digistore24 productId `640611` · [HTML profile page](../../reviews/10-days-to-abundance-a-guided-inner-journey-54353.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $36.90 (Single payment) |
+| Price | $36.92 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $18.45 |
+| Earnings/sale* | $18.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | BlissPortal |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54353/adminstore/
+- **Promo link (affiliate):** https://wellnessworld.ee/10daysabundance?aff=adminstore#aff=adminstore
 - Sales page: https://wellnessworld.ee/10daysabundance
 - Canonical redirect: https://www.digistore24.com/redir/640611/adminstore
 
@@ -66,14 +66,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: BlissPortal, listed since 2025-10-10
-- How much? — 36.8973 USD
+- How much? — 36.9204 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10 Days to Abundance — A Guided Inner Journey alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/640611
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/640611/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=10%20Days%20to%20Abundance%20%E2%80%94%20A%20Guided%20Inner%20Journey
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 653322
 title: "DYNVERA Diary 3 | Overcoming Comfort Zones"
 vendor: "Dynvera"
 product_type: "E-books"
-price: 11.74
+price: 11.75
 currency: "USD"
 affiliate_commission_pct: 20
 earnings_per_sale: 2.35
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-12-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.dynvera.com/diaries?aff=adminstore#aff=adminstore"
 sales_page: "https://www.dynvera.com/diaries"
@@ -22,14 +22,14 @@ language: "en"
 # DYNVERA Diary 3 | Overcoming Comfort Zones
 
 > Product ID `55608` · Digistore24 productId `653322` · [HTML profile page](../../reviews/dynvera-diary-3-overcoming-comfort-zones-55608.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.74 (Single payment) |
+| Price | $11.75 (Single payment) |
 | Affiliate commission | 20% |
 | Earnings/sale* | $2.35 |
 | Cart conversion* | — |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Dynvera, listed since 2025-12-05
-- How much? — 11.74005 USD
+- How much? — 11.7474 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DYNVERA Diary 3 | Overcoming Comfort Zones alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/653322
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/653322/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=DYNVERA%20Diary%203%20%7C%20Overcoming%20Comfort%20Zones
 
 ## 4. Editorial notes

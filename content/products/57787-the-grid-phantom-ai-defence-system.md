@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Survival"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57787/adminstore/"
+promo_link: "https://www.grid-phantom.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.grid-phantom.com/"
 language: "en"
 ---
 # The Grid Phantom: AI Defence System
 
 > Product ID `57787` · Digistore24 productId `692950` · [HTML profile page](../../reviews/the-grid-phantom-ai-defence-system-57787.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57787/adminstore/
+- **Promo link (affiliate):** https://www.grid-phantom.com/?aff=adminstore#aff=adminstore
 - Sales page: https://www.grid-phantom.com/
 - Vendor affiliate support: https://affiliates.grid-phantom.com/
 - Canonical redirect: https://www.digistore24.com/redir/692950/adminstore
@@ -87,7 +87,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Grid Phantom: AI Defence System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/692950
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/692950/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Grid%20Phantom%3A%20AI%20Defence%20System
 
 ## 4. Editorial notes

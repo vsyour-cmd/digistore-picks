@@ -4,7 +4,7 @@ digistore24_product_id: 292685
 title: "Keto After 50 - High Converting Keto Offer"
 vendor: "raposo1"
 product_type: "Book (printed)"
-price: 10.06
+price: 10.07
 currency: "USD"
 affiliate_commission_pct: 75
 earnings_per_sale: 7.55
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2019-10-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/31477/adminstore/"
+promo_link: "https://ketoafter50.com/digi/?aff=adminstore#aff=adminstore"
 sales_page: "https://ketoafter50.com/digi/"
 language: "en"
 ---
 # Keto After 50 - High Converting Keto Offer
 
 > Product ID `31477` · Digistore24 productId `292685` · [HTML profile page](../../reviews/keto-after-50-high-converting-keto-offer-31477.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $10.06 (Single payment) |
+| Price | $10.07 (Single payment) |
 | Affiliate commission | 75% |
 | Earnings/sale* | $7.55 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/31477/adminstore/
+- **Promo link (affiliate):** https://ketoafter50.com/digi/?aff=adminstore#aff=adminstore
 - Sales page: https://ketoafter50.com/digi/
 - Canonical redirect: https://www.digistore24.com/redir/292685/adminstore
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: raposo1, listed since 2019-10-29
-- How much? — 10.0629 USD
+- How much? — 10.0692 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Keto After 50 - High Converting Keto Offer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/292685
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/292685/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Keto%20After%2050%20-%20High%20Converting%20Keto%20Offer
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-06-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57315/adminstore/"
+promo_link: "https://alpha40fit.com/energy-protocol/?aff=adminstore#aff=adminstore"
 sales_page: "https://alpha40fit.com/energy-protocol/"
 language: "en"
 ---
 # The Personal Energy Protocol — A Custom Plan for Men 40–65
 
 > Product ID `57315` · Digistore24 productId `705028` · [HTML profile page](../../reviews/the-personal-energy-protocol-a-custom-plan-for-men-40-65-57315.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57315/adminstore/
+- **Promo link (affiliate):** https://alpha40fit.com/energy-protocol/?aff=adminstore#aff=adminstore
 - Sales page: https://alpha40fit.com/energy-protocol/
 - Canonical redirect: https://www.digistore24.com/redir/705028/adminstore
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Personal Energy Protocol — A Custom Plan for Men 40–65 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/705028
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/705028/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Personal%20Energy%20Protocol%20%E2%80%94%20A%20Custom%20Plan%20for%20Men%2040%E2%80%9365
 
 ## 4. Editorial notes

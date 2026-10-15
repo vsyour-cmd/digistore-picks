@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59381/adminstore/"
+promo_link: "https://www.digistore24.com/product/735007?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735007"
 language: "en"
 ---
 # 50 Pinterest Niche Ideas – Your Niche Compass (English)
 
 > Product ID `59381` · Digistore24 productId `735007` · [HTML profile page](../../reviews/50-pinterest-niche-ideas-your-niche-compass-english-59381.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59381/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735007?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735007
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735007/
 - Canonical redirect: https://www.digistore24.com/redir/735007/adminstore
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 50 Pinterest Niche Ideas – Your Niche Compass (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735007
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735007/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=50%20Pinterest%20Niche%20Ideas%20%E2%80%93%20Your%20Niche%20Compass%20(English)
 
 ## 4. Editorial notes

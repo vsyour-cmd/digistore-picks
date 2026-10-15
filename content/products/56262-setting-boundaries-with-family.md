@@ -4,16 +4,16 @@ digistore24_product_id: 684563
 title: "Setting Boundaries with Family"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Family & Children","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Family & Children"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/684563?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684563"
@@ -22,22 +22,22 @@ language: "en"
 # Setting Boundaries with Family
 
 > Product ID `56262` · Digistore24 productId `684563` · [HTML profile page](../../reviews/setting-boundaries-with-family-56262.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
 | Listed since | 2026-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Family & Children, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Family & Children |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Setting Boundaries with Family alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/684563
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684563/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Setting%20Boundaries%20with%20Family
 
 ## 4. Editorial notes

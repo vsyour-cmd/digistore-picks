@@ -4,40 +4,40 @@ digistore24_product_id: 645055
 title: "Building Your Legal Journey to the USA"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 32.42
+price: 32.45
 currency: "USD"
 affiliate_commission_pct: 34.5
-earnings_per_sale: 11.19
+earnings_per_sale: 11.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Finances"]
+categories: ["Personal Development","Education","Finances"]
 listed_since: "2025-10-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54577/adminstore/"
+promo_link: "https://immigrationebook.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://immigrationebook.netlify.app/"
 language: "en"
 ---
 # Building Your Legal Journey to the USA
 
 > Product ID `54577` · Digistore24 productId `645055` · [HTML profile page](../../reviews/building-your-legal-journey-to-the-usa-54577.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $32.42 (Single payment) |
+| Price | $32.45 (Single payment) |
 | Affiliate commission | 34.5% |
-| Earnings/sale* | $11.19 |
+| Earnings/sale* | $11.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2025-10-29 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Finances |
+| Categories | Personal Development, Education, Finances |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54577/adminstore/
+- **Promo link (affiliate):** https://immigrationebook.netlify.app/?aff=adminstore#aff=adminstore
 - Sales page: https://immigrationebook.netlify.app/
 - Vendor affiliate support: https://dreamy-liger-90f9ad.netlify.app/
 - Canonical redirect: https://www.digistore24.com/redir/645055/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-10-29
-- How much? — 32.4249 USD
+- How much? — 32.4452 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Building Your Legal Journey to the USA alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/645055
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/645055/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Building%20Your%20Legal%20Journey%20to%20the%20USA
 
 ## 4. Editorial notes

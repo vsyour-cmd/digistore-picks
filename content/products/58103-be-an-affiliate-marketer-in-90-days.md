@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58103/adminstore/"
+promo_link: "https://90dayaffiliate-vz8.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://90dayaffiliate-vz8.plannerpack.co"
 language: "en"
 ---
 # Be an Affiliate Marketer in 90 Days
 
 > Product ID `58103` · Digistore24 productId `718165` · [HTML profile page](../../reviews/be-an-affiliate-marketer-in-90-days-58103.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -43,7 +43,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58103/adminstore/
+- **Promo link (affiliate):** https://90dayaffiliate-vz8.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://90dayaffiliate-vz8.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/718165/adminstore
 
@@ -104,7 +104,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Be an Affiliate Marketer in 90 Days alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/718165
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/718165/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Be%20an%20Affiliate%20Marketer%20in%2090%20Days
 
 ## 4. Editorial notes

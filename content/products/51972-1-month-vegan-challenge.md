@@ -4,16 +4,16 @@ digistore24_product_id: 605910
 title: "1 Month Vegan Challenge"
 vendor: "plantbasedresource"
 product_type: "E-books"
-price: 19.01
+price: 19.02
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 9.5
+earnings_per_sale: 9.51
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Green Products & Environmental Protection","Health & Fitness"]
+categories: ["Health & Fitness","Green Products & Environmental Protection","Food & Drink"]
 listed_since: "2025-04-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.1monthvegan.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.1monthvegan.com/ds/"
@@ -22,22 +22,22 @@ language: "en"
 # 1 Month Vegan Challenge
 
 > Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](../../reviews/1-month-vegan-challenge-51972.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $19.01 (Single payment) |
+| Price | $19.02 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $9.50 |
+| Earnings/sale* | $9.51 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | plantbasedresource |
 | Listed since | 2025-04-07 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Green Products & Environmental Protection, Health & Fitness |
+| Categories | Health & Fitness, Green Products & Environmental Protection, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -101,14 +101,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: plantbasedresource, listed since 2025-04-07
-- How much? — 19.0077 USD
+- How much? — 19.0196 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 1 Month Vegan Challenge alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/605910
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/605910/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=1%20Month%20Vegan%20Challenge
 
 ## 4. Editorial notes

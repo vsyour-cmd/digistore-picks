@@ -10,19 +10,19 @@ affiliate_commission_pct: 60
 earnings_per_sale: 22.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness"]
 listed_since: "2026-10-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60473/adminstore/"
+promo_link: "https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner?aff=adminstore#aff=adminstore"
 sales_page: "https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner"
 language: "en"
 ---
 # The 14-Day Gut-Friendly Meal Planning System
 
 > Product ID `60473` · Digistore24 productId `733146` · [HTML profile page](../../reviews/the-14-day-gut-friendly-meal-planning-system-60473.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | healthsecretscom |
 | Listed since | 2026-10-09 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60473/adminstore/
+- **Promo link (affiliate):** https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner?aff=adminstore#aff=adminstore
 - Sales page: https://healthsecrets.com/products/the-14-day-gut-friendly-meal-planner
 - Vendor affiliate support: https://healthsecrets.com/affiliates
 - Canonical redirect: https://www.digistore24.com/redir/733146/adminstore
@@ -110,7 +110,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The 14-Day Gut-Friendly Meal Planning System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/733146
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/733146/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%2014-Day%20Gut-Friendly%20Meal%20Planning%20System
 
 ## 4. Editorial notes

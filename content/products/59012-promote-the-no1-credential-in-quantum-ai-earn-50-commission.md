@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.mayaness.org/shop/cqi-foundation-certification/digistore?aff=adminstore#aff=adminstore"
 sales_page: "https://www.mayaness.org/shop/cqi-foundation-certification/digistore"
@@ -22,7 +22,7 @@ language: "en"
 # Promote the No1 Credential in Quantum AI-Earn 50% commission
 
 > Product ID `59012` · Digistore24 productId `727617` · [HTML profile page](../../reviews/promote-the-no1-credential-in-quantum-ai-earn-50-commission-59012.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -101,7 +101,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote the No1 Credential in Quantum AI-Earn 50% commission alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727617
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727617/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20the%20No1%20Credential%20in%20Quantum%20AI-Earn%2050%25%20commission
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-10-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60397/adminstore/"
+promo_link: "https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/?aff=adminstore#aff=adminstore"
 sales_page: "https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/"
 language: "en"
 ---
 # 85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book
 
 > Product ID `60397` · Digistore24 productId `734044` · [HTML profile page](../../reviews/85-commission-the-21-day-clean-eating-challenge-e-book-60397.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60397/adminstore/
+- **Promo link (affiliate):** https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/?aff=adminstore#aff=adminstore
 - Sales page: https://thewellnesslabs.store/the-21-day-clean-eating-challenge-e-book/
 - Vendor affiliate support: https://thewellnesslabs.store/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/734044/adminstore
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/734044
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734044/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=85%25%20COMMISSION%20%E2%80%93%20The%2021-Day%20Clean%20Eating%20Challenge!%20%7C%20E-book
 
 ## 4. Editorial notes

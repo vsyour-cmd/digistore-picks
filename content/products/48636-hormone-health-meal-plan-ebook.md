@@ -4,7 +4,7 @@ digistore24_product_id: 553516
 title: "Hormone Health Meal Plan eBook"
 vendor: "GHWellness"
 product_type: "E-books"
-price: 12.29
+price: 12.3
 currency: "USD"
 affiliate_commission_pct: 10
 earnings_per_sale: 1.23
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2024-05-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/553516?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/553516"
@@ -22,14 +22,14 @@ language: "en"
 # Hormone Health Meal Plan eBook
 
 > Product ID `48636` · Digistore24 productId `553516` · [HTML profile page](../../reviews/hormone-health-meal-plan-ebook-48636.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $12.29 (Single payment) |
+| Price | $12.30 (Single payment) |
 | Affiliate commission | 10% |
 | Earnings/sale* | $1.23 |
 | Cart conversion* | — |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GHWellness, listed since 2024-05-22
-- How much? — 12.287919 USD
+- How much? — 12.295612 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Hormone Health Meal Plan eBook alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/553516
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/553516/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Hormone%20Health%20Meal%20Plan%20eBook
 
 ## 4. Editorial notes

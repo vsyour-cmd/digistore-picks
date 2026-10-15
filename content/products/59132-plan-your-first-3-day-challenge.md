@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 12.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Social Media","Trading Products"]
+categories: ["Trading Products","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/plan-your-first-3-day-challenge/"
@@ -22,7 +22,7 @@ language: "en"
 # Plan Your First 3-Day Challenge
 
 > Product ID `59132` · Digistore24 productId `731793` · [HTML profile page](../../reviews/plan-your-first-3-day-challenge-59132.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | TopCourseCreator |
 | Listed since | 2026-09-11 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Trading Products |
+| Categories | Trading Products, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -99,7 +99,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Plan Your First 3-Day Challenge alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/731793
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/731793/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Plan%20Your%20First%203-Day%20Challenge
 
 ## 4. Editorial notes

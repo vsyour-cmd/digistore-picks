@@ -10,19 +10,19 @@ affiliate_commission_pct: 70
 earnings_per_sale: 21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Personal Development"]
+categories: ["Personal Development","Personal Development","Education"]
 listed_since: "2026-04-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "http://ruediger-dahlke.net/webinare-2015-2#aff=adminstore"
+promo_link: "https://www.alm3rfa.xyz/journal-voice/sale?aff=adminstore#aff=adminstore"
 sales_page: "https://www.alm3rfa.xyz/journal-voice/sale"
 language: "en"
 ---
 # 30-Day Self‑Growth Audio Series
 
 > Product ID `56493` · Digistore24 productId `688501` · [HTML profile page](../../reviews/30-day-self-growth-audio-series-56493.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | tom_cruise |
 | Listed since | 2026-04-28 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Personal Development |
+| Categories | Personal Development, Personal Development, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** http://ruediger-dahlke.net/webinare-2015-2#aff=adminstore
+- **Promo link (affiliate):** https://www.alm3rfa.xyz/journal-voice/sale?aff=adminstore#aff=adminstore
 - Sales page: https://www.alm3rfa.xyz/journal-voice/sale
 - Canonical redirect: https://www.digistore24.com/redir/688501/adminstore
 
@@ -76,7 +76,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30-Day Self‑Growth Audio Series alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/688501
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/688501/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=30-Day%20Self%E2%80%91Growth%20Audio%20Series
 
 ## 4. Editorial notes

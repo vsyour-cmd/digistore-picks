@@ -4,34 +4,34 @@ digistore24_product_id: 643090
 title: "NEW Grounding Sheets and more!"
 vendor: "Abundancegrounding"
 product_type: "Deliverable"
-price: 221.38
+price: 221.52
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 88.55
+earnings_per_sale: 88.61
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Home & Garden","Skin Care"]
 listed_since: "2025-10-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54731/adminstore/"
+promo_link: "https://abundancegrounding.com/vsl1-pillowcase/landing?aff=adminstore#aff=adminstore"
 sales_page: "https://abundancegrounding.com/vsl1-pillowcase/landing"
 language: "en"
 ---
 # NEW Grounding Sheets and more!
 
 > Product ID `54731` · Digistore24 productId `643090` · [HTML profile page](../../reviews/new-grounding-sheets-and-more-54731.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $221.38 (Single payment) |
+| Price | $221.52 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $88.55 |
+| Earnings/sale* | $88.61 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Abundancegrounding |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54731/adminstore/
+- **Promo link (affiliate):** https://abundancegrounding.com/vsl1-pillowcase/landing?aff=adminstore#aff=adminstore
 - Sales page: https://abundancegrounding.com/vsl1-pillowcase/landing
 - Vendor affiliate support: https://digistore24-affiliate.mydigibiz24.com/grounding-sheets
 - Canonical redirect: https://www.digistore24.com/redir/643090/adminstore
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: Abundancegrounding, listed since 2025-10-22
-- How much? — 221.3838 USD
+- How much? — 221.5224 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW Grounding Sheets and more! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/643090
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/643090/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%20Grounding%20Sheets%20and%20more!
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-31"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/58781/adminstore/"
+promo_link: "https://digitalproductplan-j3y.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://digitalproductplan-j3y.plannerpack.co"
 language: "en"
 ---
 # Digital Product Business Plan
 
 > Product ID `58781` · Digistore24 productId `727951` · [HTML profile page](../../reviews/digital-product-business-plan-58781.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58781/adminstore/
+- **Promo link (affiliate):** https://digitalproductplan-j3y.plannerpack.co?aff=adminstore#aff=adminstore
 - Sales page: https://digitalproductplan-j3y.plannerpack.co
 - Canonical redirect: https://www.digistore24.com/redir/727951/adminstore
 
@@ -79,7 +79,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Digital Product Business Plan alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727951
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727951/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Digital%20Product%20Business%20Plan
 
 ## 4. Editorial notes

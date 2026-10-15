@@ -4,16 +4,16 @@ digistore24_product_id: 685592
 title: "Amazing Pet Food"
 vendor: "team24-paratan"
 product_type: "Deliverable"
-price: 33.54
+price: 33.56
 currency: "USD"
 affiliate_commission_pct: 10
-earnings_per_sale: 3.35
+earnings_per_sale: 3.36
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Animals & Pets"]
 listed_since: "2026-04-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/685592?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/685592"
@@ -22,16 +22,16 @@ language: "en"
 # Amazing Pet Food
 
 > Product ID `56306` · Digistore24 productId `685592` · [HTML profile page](../../reviews/amazing-pet-food-56306.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Deliverable |
-| Price | $33.54 (Single payment) |
+| Price | $33.56 (Single payment) |
 | Affiliate commission | 10% |
-| Earnings/sale* | $3.35 |
+| Earnings/sale* | $3.36 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | team24-paratan |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Deliverable, vendor: team24-paratan, listed since 2026-04-17
-- How much? — 33.543000000000006 USD
+- How much? — 33.564 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Amazing Pet Food alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/685592
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/685592/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Amazing%20Pet%20Food
 
 ## 4. Editorial notes

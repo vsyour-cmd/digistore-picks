@@ -4,34 +4,34 @@ digistore24_product_id: 669266
 title: "NEW: Health and Fitness 101 / Download"
 vendor: "Livemanuals"
 product_type: "E-books"
-price: 40.24
+price: 40.27
 currency: "USD"
 affiliate_commission_pct: 72
-earnings_per_sale: 28.97
+earnings_per_sale: 28.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-02-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55949/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/669266?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/669266"
 language: "en"
 ---
 # NEW: Health and Fitness 101 / Download
 
 > Product ID `55949` · Digistore24 productId `669266` · [HTML profile page](../../reviews/new-health-and-fitness-101-download-55949.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $40.24 (Single payment) |
+| Price | $40.27 (Single payment) |
 | Affiliate commission | 72% |
-| Earnings/sale* | $28.97 |
+| Earnings/sale* | $28.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Livemanuals |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55949/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/669266?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/669266
 - Canonical redirect: https://www.digistore24.com/redir/669266/adminstore
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: Livemanuals, listed since 2026-02-17
-- How much? — 40.240419 USD
+- How much? — 40.265612000000004 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: Health and Fitness 101 / Download alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/669266
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669266/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20Health%20and%20Fitness%20101%20%2F%20Download
 
 ## 4. Editorial notes

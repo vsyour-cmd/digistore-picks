@@ -4,34 +4,34 @@ digistore24_product_id: 579518
 title: "Join Our Affiliate Program on Digistore24 and Earn Big!"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 23.48
+price: 23.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.74
+earnings_per_sale: 11.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business"]
 listed_since: "2024-11-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50425/adminstore/"
+promo_link: "http://heikoboos.com/how-to-generate-100000-dollars-in-a-year?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/how-to-generate-100000-dollars-in-a-year"
 language: "en"
 ---
 # Join Our Affiliate Program on Digistore24 and Earn Big!
 
 > Product ID `50425` · Digistore24 productId `579518` · [HTML profile page](../../reviews/join-our-affiliate-program-on-digistore24-and-earn-big-50425.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $23.48 (Single payment, Installment) |
+| Price | $23.49 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.74 |
+| Earnings/sale* | $11.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50425/adminstore/
+- **Promo link (affiliate):** http://heikoboos.com/how-to-generate-100000-dollars-in-a-year?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/how-to-generate-100000-dollars-in-a-year
 - Vendor affiliate support: https://heikoboos.com/partnerprogram/
 - Canonical redirect: https://www.digistore24.com/redir/579518/adminstore
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-11-08
-- How much? — 23.4801 USD
+- How much? — 23.4948 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Join Our Affiliate Program on Digistore24 and Earn Big! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/579518
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/579518/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Join%20Our%20Affiliate%20Program%20on%20Digistore24%20and%20Earn%20Big!
 
 ## 4. Editorial notes

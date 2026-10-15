@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 9.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58849/adminstore/"
+promo_link: "https://www.noa.rs.ba/teach-forward/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/teach-forward/"
 language: "en"
 ---
 # Teach Forward (For classroom and online teachers)
 
 > Product ID `58849` · Digistore24 productId `546789` · [HTML profile page](../../reviews/teach-forward-for-classroom-and-online-teachers-58849.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | TopCourseCreator |
 | Listed since | 2026-09-01 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58849/adminstore/
+- **Promo link (affiliate):** https://www.noa.rs.ba/teach-forward/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/teach-forward/
 - Vendor affiliate support: https://www.majkic.net/novosti/zivot-i-stil/1514-become-a-teach-forward-affiliate
 - Canonical redirect: https://www.digistore24.com/redir/546789/adminstore
@@ -100,7 +100,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Teach Forward (For classroom and online teachers) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/546789
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/546789/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Teach%20Forward%20(For%20classroom%20and%20online%20teachers)
 
 ## 4. Editorial notes

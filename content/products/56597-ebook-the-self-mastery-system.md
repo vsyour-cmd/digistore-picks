@@ -4,34 +4,34 @@ digistore24_product_id: 693964
 title: "Ebook - The Self-Mastery System"
 vendor: "joebgesbuchverleger39ac"
 product_type: "E-books"
-price: 24.03
+price: 24.04
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 12.02
+earnings_per_sale: 12.03
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job"]
 listed_since: "2026-05-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56597/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/693964?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/693964"
 language: "en"
 ---
 # Ebook - The Self-Mastery System
 
 > Product ID `56597` · Digistore24 productId `693964` · [HTML profile page](../../reviews/ebook-the-self-mastery-system-56597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $24.03 (Single payment) |
+| Price | $24.04 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $12.02 |
+| Earnings/sale* | $12.03 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | joebgesbuchverleger39ac |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56597/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/693964?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/693964
 - Canonical redirect: https://www.digistore24.com/redir/693964/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: joebgesbuchverleger39ac, listed since 2026-05-19
-- How much? — 24.027969 USD
+- How much? — 24.043011999999997 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Ebook - The Self-Mastery System alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693964
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693964/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Ebook%20-%20The%20Self-Mastery%20System
 
 ## 4. Editorial notes

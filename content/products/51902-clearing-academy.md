@@ -4,16 +4,16 @@ digistore24_product_id: 580186
 title: "Clearing Academy"
 vendor: "Statbrook"
 product_type: "Member area and video courses"
-price: 52.39
+price: 52.43
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 28.4
+earnings_per_sale: 28.42
 cart_conversion_pct: 5
 cancel_rate_pct: 6.94
 categories: ["Personal Development"]
 listed_since: "2024-11-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.clearingacademy.com/ds24-ritual?aff=adminstore#aff=adminstore"
 sales_page: "https://www.clearingacademy.com/ds24-ritual"
@@ -22,16 +22,16 @@ language: "en"
 # Clearing Academy
 
 > Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](../../reviews/clearing-academy-51902.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $52.39 (Single payment) |
+| Price | $52.43 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $28.40 |
+| Earnings/sale* | $28.42 |
 | Cart conversion* | 5% |
 | Cancel rate* | 6.94% |
 | Vendor | Statbrook |
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Statbrook, listed since 2024-11-12
-- How much? — 52.394166000000006 USD
+- How much? — 52.426968 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Clearing Academy alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/580186
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/580186/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Clearing%20Academy
 
 ## 4. Editorial notes

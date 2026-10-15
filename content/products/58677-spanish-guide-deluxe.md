@@ -4,34 +4,34 @@ digistore24_product_id: 726225
 title: "Spanish Guide Deluxe"
 vendor: "mlangbein51cce0"
 product_type: "E-books"
-price: 11.07
+price: 11.08
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 5.53
+earnings_per_sale: 5.54
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education","Languages","Leadership & Management"]
 listed_since: "2026-08-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58677/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726225?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726225"
 language: "en"
 ---
 # Spanish Guide Deluxe
 
 > Product ID `58677` · Digistore24 productId `726225` · [HTML profile page](../../reviews/spanish-guide-deluxe-58677.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.07 (Single payment) |
+| Price | $11.08 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $5.53 |
+| Earnings/sale* | $5.54 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | mlangbein51cce0 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58677/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726225?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726225
 - Canonical redirect: https://www.digistore24.com/redir/726225/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: mlangbein51cce0, listed since 2026-08-26
-- How much? — 11.06919 USD
+- How much? — 11.076120000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Spanish Guide Deluxe alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726225
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726225/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Spanish%20Guide%20Deluxe
 
 ## 4. Editorial notes

@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2026-07-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://secure.nailrefresh.com/index-bp-ds?aff=adminstore#aff=adminstore"
 sales_page: "https://secure.nailrefresh.com/index-bp-ds"
@@ -22,7 +22,7 @@ language: "en"
 # Nail Refresh
 
 > Product ID `57560` · Digistore24 productId `708127` · [HTML profile page](../../reviews/nail-refresh-57560.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Nail Refresh alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/708127
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708127/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Nail%20Refresh
 
 ## 4. Editorial notes

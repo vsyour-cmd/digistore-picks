@@ -10,10 +10,10 @@ affiliate_commission_pct: 40
 earnings_per_sale: 39.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Software","Marketing Services"]
+categories: ["Software","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-09-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://dealbotai.com/ds/?aff=adminstore#aff=adminstore"
 sales_page: "https://dealbotai.com/ds/"
@@ -22,7 +22,7 @@ language: "en"
 # DealBot AI: answers every message and books the appointment
 
 > Product ID `58842` · Digistore24 productId `724771` · [HTML profile page](../../reviews/dealbot-ai-answers-every-message-and-books-the-appointment-58842.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | eagerdragonpublishin22b2 |
 | Listed since | 2026-09-01 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software, Marketing Services |
+| Categories | Software, Online Marketing & E-Business, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -98,7 +98,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: DealBot AI: answers every message and books the appointment alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/724771
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724771/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=DealBot%20AI%3A%20answers%20every%20message%20and%20books%20the%20appointment
 
 ## 4. Editorial notes

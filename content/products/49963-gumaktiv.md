@@ -4,34 +4,34 @@ digistore24_product_id: 573314
 title: "GumAktiv"
 vendor: "GumAktiv"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 50.15
+earnings_per_sale: 50.18
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/49963/adminstore/"
+promo_link: "http://mygumaktiv24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://mygumaktiv24.com/text.php"
 language: "en"
 ---
 # GumAktiv
 
 > Product ID `49963` · Digistore24 productId `573314` · [HTML profile page](../../reviews/gumaktiv-49963.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $50.15 |
+| Earnings/sale* | $50.18 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GumAktiv |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/49963/adminstore/
+- **Promo link (affiliate):** http://mygumaktiv24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://mygumaktiv24.com/text.php
 - Vendor affiliate support: https://gumaktiv24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/573314/adminstore
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: GumAktiv, listed since 2024-10-02
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: GumAktiv alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/573314
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/573314/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=GumAktiv
 
 ## 4. Editorial notes

@@ -4,40 +4,40 @@ digistore24_product_id: 625471
 title: "81 % Commission on US Immigration Survival PRO Bundle"
 vendor: "IsMaria"
 product_type: "Downloads"
-price: 48.56
+price: 48.59
 currency: "USD"
 affiliate_commission_pct: 81
-earnings_per_sale: 31.42
+earnings_per_sale: 31.44
 cart_conversion_pct: 13
 cancel_rate_pct: 4.76
-categories: ["Education","Law & Justice","Online Marketing & E-Business"]
+categories: ["Law & Justice","Online Marketing & E-Business","Education"]
 listed_since: "2025-07-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/53539/adminstore/"
+promo_link: "http://sales-page-4d8.pages.dev?aff=adminstore#aff=adminstore"
 sales_page: "http://sales-page-4d8.pages.dev"
 language: "en"
 ---
 # 81 % Commission on US Immigration Survival PRO Bundle
 
 > Product ID `53539` · Digistore24 productId `625471` · [HTML profile page](../../reviews/81-commission-on-us-immigration-survival-pro-bundle-53539.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $48.56 (Single payment) |
+| Price | $48.59 (Single payment) |
 | Affiliate commission | 81% |
-| Earnings/sale* | $31.42 |
+| Earnings/sale* | $31.44 |
 | Cart conversion* | 13% |
 | Cancel rate* | 4.76% |
 | Vendor | IsMaria |
 | Listed since | 2025-07-22 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Law & Justice, Online Marketing & E-Business |
+| Categories | Law & Justice, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53539/adminstore/
+- **Promo link (affiliate):** http://sales-page-4d8.pages.dev?aff=adminstore#aff=adminstore
 - Sales page: http://sales-page-4d8.pages.dev
 - Vendor affiliate support: https://myaffiliates.onrender.com/
 - Canonical redirect: https://www.digistore24.com/redir/625471/adminstore
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: IsMaria, listed since 2025-07-22
-- How much? — 48.559083 USD
+- How much? — 48.589484 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 81 % Commission on US Immigration Survival PRO Bundle alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/625471
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/625471/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=81%20%25%20Commission%20on%20US%20Immigration%20Survival%20PRO%20Bundle
 
 ## 4. Editorial notes

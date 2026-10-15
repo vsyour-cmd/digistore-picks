@@ -4,16 +4,16 @@ digistore24_product_id: 654493
 title: "Fundamentals of industrial hygiene"
 vendor: "WirtschaftspraxisJuergens"
 product_type: "Member area and video courses"
-price: 99.51
+price: 99.57
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 49.76
+earnings_per_sale: 49.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2025-12-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch?aff=adminstore#aff=adminstore"
 sales_page: "https://i-b-h.mydigibiz24.com/landing-page-bhm-englisch"
@@ -22,16 +22,16 @@ language: "en"
 # Fundamentals of industrial hygiene
 
 > Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](../../reviews/fundamentals-of-industrial-hygiene-55120.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $99.51 (Single payment) |
+| Price | $99.57 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $49.76 |
+| Earnings/sale* | $49.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | WirtschaftspraxisJuergens |
@@ -94,14 +94,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: WirtschaftspraxisJuergens, listed since 2025-12-10
-- How much? — 99.5109 USD
+- How much? — 99.5732 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fundamentals of industrial hygiene alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/654493
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654493/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fundamentals%20of%20industrial%20hygiene
 
 ## 4. Editorial notes

@@ -4,32 +4,32 @@ digistore24_product_id: 634368
 title: "AI-Generated Aesthetic Masterpieces"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 7.51
+price: 7.52
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 3.76
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Photography & Film","Social Media"]
+categories: ["Online Marketing & E-Business","Social Media","Photography & Film"]
 listed_since: "2025-09-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/53905/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/634368?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/634368"
 language: "en"
 ---
 # AI-Generated Aesthetic Masterpieces
 
 > Product ID `53905` · Digistore24 productId `634368` · [HTML profile page](../../reviews/ai-generated-aesthetic-masterpieces-53905.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $7.51 (Single payment) |
+| Price | $7.52 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $3.76 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | moneywithangie |
 | Listed since | 2025-09-08 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Photography & Film, Social Media |
+| Categories | Online Marketing & E-Business, Social Media, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/53905/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/634368?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/634368
 - Canonical redirect: https://www.digistore24.com/redir/634368/adminstore
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2025-09-08
-- How much? — 7.513632 USD
+- How much? — 7.518336 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI-Generated Aesthetic Masterpieces alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/634368
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/634368/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI-Generated%20Aesthetic%20Masterpieces
 
 ## 4. Editorial notes

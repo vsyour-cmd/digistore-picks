@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-07-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://wellnesshabitsimplified-n5l.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://wellnesshabitsimplified-n5l.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Wellness Habit Simplified
 
 > Product ID `57756` · Digistore24 productId `715604` · [HTML profile page](../../reviews/wellness-habit-simplified-57756.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Wellness Habit Simplified alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/715604
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/715604/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Wellness%20Habit%20Simplified
 
 ## 4. Editorial notes

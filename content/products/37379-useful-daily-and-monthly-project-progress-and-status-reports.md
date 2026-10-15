@@ -4,34 +4,34 @@ digistore24_product_id: 401565
 title: "Useful Daily and Monthly Project Progress and Status Reports"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2021-08-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/37379/adminstore/"
+promo_link: "https://worldofpm.com/recommended-project-reports/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/recommended-project-reports/"
 language: "en"
 ---
 # Useful Daily and Monthly Project Progress and Status Reports
 
 > Product ID `37379` · Digistore24 productId `401565` · [HTML profile page](../../reviews/useful-daily-and-monthly-project-progress-and-status-reports-37379.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/37379/adminstore/
+- **Promo link (affiliate):** https://worldofpm.com/recommended-project-reports/?aff=adminstore#aff=adminstore
 - Sales page: https://worldofpm.com/recommended-project-reports/
 - Vendor affiliate support: https://worldofpm.com/become-affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/401565/adminstore
@@ -93,14 +93,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2021-08-09
-- How much? — 22.350819 USD
+- How much? — 22.364811999999997 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Useful Daily and Monthly Project Progress and Status Reports alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/401565
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/401565/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Useful%20Daily%20and%20Monthly%20Project%20Progress%20and%20Status%20Reports
 
 ## 4. Editorial notes

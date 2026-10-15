@@ -4,34 +4,34 @@ digistore24_product_id: 527515
 title: "Agent X"
 vendor: "remixable"
 product_type: "Software"
-price: 531.1
+price: 531.43
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 265.55
+earnings_per_sale: 265.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Software"]
 listed_since: "2023-11-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46511/adminstore/"
+promo_link: "https://getagentx.com/order?aff=adminstore#aff=adminstore"
 sales_page: "https://getagentx.com/order"
 language: "en"
 ---
 # Agent X
 
 > Product ID `46511` · Digistore24 productId `527515` · [HTML profile page](../../reviews/agent-x-46511.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $531.10 (Single payment) |
+| Price | $531.43 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $265.55 |
+| Earnings/sale* | $265.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | remixable |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46511/adminstore/
+- **Promo link (affiliate):** https://getagentx.com/order?aff=adminstore#aff=adminstore
 - Sales page: https://getagentx.com/order
 - Vendor affiliate support: https://getagentx.com/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/527515/adminstore
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: remixable, listed since 2023-11-29
-- How much? — 531.0975000000001 USD
+- How much? — 531.4300000000001 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Agent X alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/527515
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/527515/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Agent%20X
 
 ## 4. Editorial notes

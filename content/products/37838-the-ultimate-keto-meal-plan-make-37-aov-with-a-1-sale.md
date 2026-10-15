@@ -4,16 +4,16 @@ digistore24_product_id: 283755
 title: "⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale"
 vendor: "durchstartenonline"
 product_type: "Downloads"
-price: 440.15
+price: 440.43
 currency: "USD"
 affiliate_commission_pct: 85
-earnings_per_sale: 121.65
+earnings_per_sale: 121.73
 cart_conversion_pct: 2
 cancel_rate_pct: 14.13
 categories: ["Health & Fitness"]
 listed_since: "2019-08-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control&aff=adminstore#aff=adminstore"
 sales_page: "https://www.claudiacaldwell.com/oto-uf61a?el=splittest-1214-bradflow-control"
@@ -22,16 +22,16 @@ language: "en"
 # ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale
 
 > Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](../../reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $440.15 (Single payment) |
+| Price | $440.43 (Single payment) |
 | Affiliate commission | 85% |
-| Earnings/sale* | $121.65 |
+| Earnings/sale* | $121.73 |
 | Cart conversion* | 2% |
 | Cancel rate* | 14.13% |
 | Vendor | durchstartenonline |
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: durchstartenonline, listed since 2019-08-22
-- How much? — 440.15124600000007 USD
+- How much? — 440.42680800000005 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/283755
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/283755/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=%E2%9A%A1%EF%B8%8FThe%20Ultimate%20Keto%20Meal%20Plan%E2%9A%A1%EF%B8%8F%20Make%20%2437%20AOV%20With%20A%20%241%20Sale
 
 ## 4. Editorial notes

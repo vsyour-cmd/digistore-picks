@@ -4,34 +4,34 @@ digistore24_product_id: 685341
 title: "The Official Smoothie Diet™ 21-Day Weight Loss Program"
 vendor: "smoothdiet"
 product_type: "E-books"
-price: 27.38
+price: 27.4
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 18
+earnings_per_sale: 18.01
 cart_conversion_pct: 16
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-04-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56345/adminstore/"
+promo_link: "https://official.smoothiediet.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://official.smoothiediet.com/"
 language: "en"
 ---
 # The Official Smoothie Diet™ 21-Day Weight Loss Program
 
 > Product ID `56345` · Digistore24 productId `685341` · [HTML profile page](../../reviews/the-official-smoothie-diet-21-day-weight-loss-program-56345.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $27.38 (Single payment) |
+| Price | $27.40 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $18.00 |
+| Earnings/sale* | $18.01 |
 | Cart conversion* | 16% |
 | Cancel rate* | 0% |
 | Vendor | smoothdiet |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56345/adminstore/
+- **Promo link (affiliate):** https://official.smoothiediet.com/?aff=adminstore#aff=adminstore
 - Sales page: https://official.smoothiediet.com/
 - Vendor affiliate support: https://official.smoothiediet.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/685341/adminstore
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: smoothdiet, listed since 2026-04-16
-- How much? — 27.382269 USD
+- How much? — 27.399411999999998 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Official Smoothie Diet™ 21-Day Weight Loss Program alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/685341
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/685341/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Official%20Smoothie%20Diet%E2%84%A2%2021-Day%20Weight%20Loss%20Program
 
 ## 4. Editorial notes

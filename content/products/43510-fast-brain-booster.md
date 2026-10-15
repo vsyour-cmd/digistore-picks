@@ -4,16 +4,16 @@ digistore24_product_id: 493435
 title: "Fast Brain Booster"
 vendor: "pegrom"
 product_type: "Supplements - health"
-price: 77.15
+price: 77.2
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 54
+earnings_per_sale: 54.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2023-04-10"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://fastbrainbooster.com/index_24/?aff=adminstore#aff=adminstore"
 sales_page: "https://fastbrainbooster.com/index_24/"
@@ -22,16 +22,16 @@ language: "en"
 # Fast Brain Booster
 
 > Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](../../reviews/fast-brain-booster-43510.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $77.15 (Single payment) |
+| Price | $77.20 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $54.00 |
+| Earnings/sale* | $54.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | pegrom |
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: pegrom, listed since 2023-04-10
-- How much? — 77.14890000000001 USD
+- How much? — 77.1972 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Fast Brain Booster alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/493435
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/493435/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Fast%20Brain%20Booster
 
 ## 4. Editorial notes

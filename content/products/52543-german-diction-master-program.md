@@ -4,40 +4,40 @@ digistore24_product_id: 612441
 title: "German Diction Master Program"
 vendor: "RobertSawilla"
 product_type: "Member area and video courses"
-price: 560.17
+price: 560.52
 currency: "USD"
 affiliate_commission_pct: 0
-earnings_per_sale: 22.36
+earnings_per_sale: 22.38
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dancing & Music","Health & Fitness"]
+categories: ["Health & Fitness","Dancing & Music"]
 listed_since: "2025-05-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/52543/adminstore/"
+promo_link: "https://naturalpowerbodyprograms.com/german-diction-masterprogram/?aff=adminstore#aff=adminstore"
 sales_page: "https://naturalpowerbodyprograms.com/german-diction-masterprogram/"
 language: "en"
 ---
 # German Diction Master Program
 
 > Product ID `52543` · Digistore24 productId `612441` · [HTML profile page](../../reviews/german-diction-master-program-52543.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $560.17 (Single payment, Installment) |
+| Price | $560.52 (Single payment, Installment) |
 | Affiliate commission | 0% |
-| Earnings/sale* | $22.36 |
+| Earnings/sale* | $22.38 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | RobertSawilla |
 | Listed since | 2025-05-13 |
 | Auto-accept affiliates | yes |
-| Categories | Dancing & Music, Health & Fitness |
+| Categories | Health & Fitness, Dancing & Music |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/52543/adminstore/
+- **Promo link (affiliate):** https://naturalpowerbodyprograms.com/german-diction-masterprogram/?aff=adminstore#aff=adminstore
 - Sales page: https://naturalpowerbodyprograms.com/german-diction-masterprogram/
 - Vendor affiliate support: https://naturalpowerbodyprograms.com/german-diction-master-program/affiliate/
 - Canonical redirect: https://www.digistore24.com/redir/612441/adminstore
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: RobertSawilla, listed since 2025-05-13
-- How much? — 560.1681000000001 USD
+- How much? — 560.5188 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: German Diction Master Program alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/612441
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/612441/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=German%20Diction%20Master%20Program
 
 ## 4. Editorial notes

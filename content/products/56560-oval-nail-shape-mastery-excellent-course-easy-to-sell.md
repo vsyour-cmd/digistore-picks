@@ -10,10 +10,10 @@ affiliate_commission_pct: 70
 earnings_per_sale: 41.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Fashion","Health & Fitness"]
+categories: ["Health & Fitness","Education","Fashion"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://vel.academy/oval-shape-d24?aff=adminstore#aff=adminstore"
 sales_page: "https://vel.academy/oval-shape-d24"
@@ -22,7 +22,7 @@ language: "en"
 # Oval Nail Shape Mastery [Excellent course, easy to sell]
 
 > Product ID `56560` · Digistore24 productId `687485` · [HTML profile page](../../reviews/oval-nail-shape-mastery-excellent-course-easy-to-sell-56560.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | info5a25 |
 | Listed since | 2026-05-18 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Fashion, Health & Fitness |
+| Categories | Health & Fitness, Education, Fashion |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -97,7 +97,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Oval Nail Shape Mastery [Excellent course, easy to sell] alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/687485
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/687485/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Oval%20Nail%20Shape%20Mastery%20%5BExcellent%20course%2C%20easy%20to%20sell%5D
 
 ## 4. Editorial notes

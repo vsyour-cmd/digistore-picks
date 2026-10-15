@@ -4,34 +4,34 @@ digistore24_product_id: 603764
 title: "Advanced Joint Support"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 78.21
+price: 78.26
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 46.93
+earnings_per_sale: 46.96
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2025-03-25"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51881/adminstore/"
+promo_link: "https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm"
 language: "en"
 ---
 # Advanced Joint Support
 
 > Product ID `51881` · Digistore24 productId `603764` · [HTML profile page](../../reviews/advanced-joint-support-51881.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $78.21 (Single payment) |
+| Price | $78.26 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $46.93 |
+| Earnings/sale* | $46.96 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | soundview |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51881/adminstore/
+- **Promo link (affiliate):** https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm?aff=adminstore#aff=adminstore
 - Sales page: https://www.advancedbionutritionals.com/DS24/Advanced-Joint/Beat-Joint-Pain-With-Cucumbers.htm
 - Vendor affiliate support: https://digistore24.advancedbionutritionals.com/advanced-joint-support-19
 - Canonical redirect: https://www.digistore24.com/redir/603764/adminstore
@@ -99,14 +99,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-03-25
-- How much? — 78.21109500000001 USD
+- How much? — 78.26006000000001 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Advanced Joint Support alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/603764
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/603764/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Advanced%20Joint%20Support
 
 ## 4. Editorial notes

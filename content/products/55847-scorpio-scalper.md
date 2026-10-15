@@ -4,34 +4,34 @@ digistore24_product_id: 670693
 title: "Scorpio Scalper"
 vendor: "altrasoftware"
 product_type: "Software"
-price: 110.39
+price: 110.46
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 58.85
+earnings_per_sale: 58.88
 cart_conversion_pct: 7
 cancel_rate_pct: 5.92
 categories: ["Business & Investment"]
 listed_since: "2026-02-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/55847/adminstore/"
+promo_link: "https://scorpioscalper.site/?aff=adminstore#aff=adminstore"
 sales_page: "https://scorpioscalper.site/"
 language: "en"
 ---
 # Scorpio Scalper
 
 > Product ID `55847` · Digistore24 productId `670693` · [HTML profile page](../../reviews/scorpio-scalper-55847.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $110.39 (Subscription) |
+| Price | $110.46 (Subscription) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $58.85 |
+| Earnings/sale* | $58.88 |
 | Cart conversion* | 7% |
 | Cancel rate* | 5.92% |
 | Vendor | altrasoftware |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55847/adminstore/
+- **Promo link (affiliate):** https://scorpioscalper.site/?aff=adminstore#aff=adminstore
 - Sales page: https://scorpioscalper.site/
 - Canonical redirect: https://www.digistore24.com/redir/670693/adminstore
 
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: altrasoftware, listed since 2026-02-22
-- How much? — 110.39001300000001 USD
+- How much? — 110.459124 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Scorpio Scalper alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/670693
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/670693/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Scorpio%20Scalper
 
 ## 4. Editorial notes

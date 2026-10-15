@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism","Travel & Culture"]
 listed_since: "2026-07-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://when-and-where.com?aff=adminstore#aff=adminstore"
 sales_page: "https://when-and-where.com"
@@ -22,7 +22,7 @@ language: "en"
 # Personal Astro Travel Reading — $65 PDF Dossier, 10% Commiss
 
 > Product ID `57794` · Digistore24 productId `708855` · [HTML profile page](../../reviews/personal-astro-travel-reading-65-pdf-dossier-10-commiss-57794.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -91,7 +91,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Personal Astro Travel Reading — $65 PDF Dossier, 10% Commiss alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/708855
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708855/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Personal%20Astro%20Travel%20Reading%20%E2%80%94%20%2465%20PDF%20Dossier%2C%2010%25%20Commiss
 
 ## 4. Editorial notes

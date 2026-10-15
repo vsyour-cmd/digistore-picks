@@ -10,19 +10,19 @@ affiliate_commission_pct: 30
 earnings_per_sale: 25.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Personal Development","Education","Languages"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/60027/adminstore/"
+promo_link: "https://jessicabusinesskorean.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://jessicabusinesskorean.com/"
 language: "en"
 ---
 # Business Korean for SUCCESS: Real Korean for the Korean Work
 
 > Product ID `60027` · Digistore24 productId `738726` · [HTML profile page](../../reviews/business-korean-for-success-real-korean-for-the-korean-work-60027.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | jessicaenglish |
 | Listed since | 2026-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Personal Development, Education, Languages |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/60027/adminstore/
+- **Promo link (affiliate):** https://jessicabusinesskorean.com/?aff=adminstore#aff=adminstore
 - Sales page: https://jessicabusinesskorean.com/
 - Vendor affiliate support: https://jessicabusinesskorean.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/738726/adminstore
@@ -100,7 +100,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Business Korean for SUCCESS: Real Korean for the Korean Work alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738726
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738726/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Business%20Korean%20for%20SUCCESS%3A%20Real%20Korean%20for%20the%20Korean%20Work
 
 ## 4. Editorial notes

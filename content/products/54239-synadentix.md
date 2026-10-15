@@ -4,34 +4,34 @@ digistore24_product_id: 639064
 title: "Synadentix"
 vendor: "Synadentix"
 product_type: "Supplements - health"
-price: 259.99
+price: 260.15
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 128.42
+earnings_per_sale: 128.51
 cart_conversion_pct: 4
 cancel_rate_pct: 16.81
 categories: ["Food Supplements"]
 listed_since: "2025-10-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54239/adminstore/"
+promo_link: "https://synadentix24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "https://synadentix24.com/text.php"
 language: "en"
 ---
 # Synadentix
 
 > Product ID `54239` · Digistore24 productId `639064` · [HTML profile page](../../reviews/synadentix-54239.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $259.99 (Single payment) |
+| Price | $260.15 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $128.42 |
+| Earnings/sale* | $128.51 |
 | Cart conversion* | 4% |
 | Cancel rate* | 16.81% |
 | Vendor | Synadentix |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54239/adminstore/
+- **Promo link (affiliate):** https://synadentix24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: https://synadentix24.com/text.php
 - Vendor affiliate support: https://synadentix24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/639064/adminstore
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Synadentix, listed since 2025-10-01
-- How much? — 259.99179300000003 USD
+- How much? — 260.154564 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Synadentix alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639064
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639064/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Synadentix
 
 ## 4. Editorial notes

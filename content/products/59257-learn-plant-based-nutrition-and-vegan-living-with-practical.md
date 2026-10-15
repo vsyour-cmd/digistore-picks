@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-09-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59257/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726391?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726391"
 language: "en"
 ---
 # Learn Plant-Based Nutrition and Vegan Living with Practical
 
 > Product ID `59257` · Digistore24 productId `726391` · [HTML profile page](../../reviews/learn-plant-based-nutrition-and-vegan-living-with-practical-59257.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59257/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726391?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726391
 - Canonical redirect: https://www.digistore24.com/redir/726391/adminstore
 
@@ -86,7 +86,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Learn Plant-Based Nutrition and Vegan Living with Practical alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726391
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726391/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Learn%20Plant-Based%20Nutrition%20and%20Vegan%20Living%20with%20Practical
 
 ## 4. Editorial notes

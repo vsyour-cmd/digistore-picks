@@ -4,16 +4,16 @@ digistore24_product_id: 644676
 title: "NewEra Protect"
 vendor: "NewEraDGS"
 product_type: "Supplements - health"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 77
-earnings_per_sale: 253.12
+earnings_per_sale: 253.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Skin Care","Food Supplements"]
 listed_since: "2025-10-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://neweraprotect.com/dgs?aff=adminstore#aff=adminstore"
 sales_page: "https://neweraprotect.com/dgs"
@@ -22,16 +22,16 @@ language: "en"
 # NewEra Protect
 
 > Product ID `54774` · Digistore24 productId `644676` · [HTML profile page](../../reviews/newera-protect-54774.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 77% |
-| Earnings/sale* | $253.12 |
+| Earnings/sale* | $253.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NewEraDGS |
@@ -98,14 +98,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NewEraDGS, listed since 2025-10-28
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NewEra Protect alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/644676
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/644676/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NewEra%20Protect
 
 ## 4. Editorial notes

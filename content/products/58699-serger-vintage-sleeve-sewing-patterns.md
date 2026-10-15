@@ -10,19 +10,19 @@ affiliate_commission_pct: 70
 earnings_per_sale: 12.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Fashion","Hobby & Craft"]
+categories: ["Hobby & Craft","Fashion"]
 listed_since: "2026-08-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58699/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/726662?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/726662"
 language: "en"
 ---
 # Serger| Vintage Sleeve Sewing Patterns
 
 > Product ID `58699` · Digistore24 productId `726662` · [HTML profile page](../../reviews/serger-vintage-sleeve-sewing-patterns-58699.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Book2Book |
 | Listed since | 2026-08-27 |
 | Auto-accept affiliates | yes |
-| Categories | Fashion, Hobby & Craft |
+| Categories | Hobby & Craft, Fashion |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58699/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/726662?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/726662
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/vintage-sleeve-sewing-patterns.html
 - Canonical redirect: https://www.digistore24.com/redir/726662/adminstore
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Serger| Vintage Sleeve Sewing Patterns alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/726662
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/726662/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Serger%7C%20Vintage%20Sleeve%20Sewing%20Patterns
 
 ## 4. Editorial notes

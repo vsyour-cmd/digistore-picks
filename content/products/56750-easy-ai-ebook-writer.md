@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 15
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Online Marketing & E-Business","Software"]
+categories: ["Business & Investment","Software","Online Marketing & E-Business"]
 listed_since: "2026-05-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/Easy-AI-Ebook-Writer/Sales-page.html"
@@ -22,7 +22,7 @@ language: "en"
 # Easy AI eBook Writer
 
 > Product ID `56750` · Digistore24 productId `696560` · [HTML profile page](../../reviews/easy-ai-ebook-writer-56750.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | oraclefx |
 | Listed since | 2026-05-29 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Online Marketing & E-Business, Software |
+| Categories | Business & Investment, Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,7 +92,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Easy AI eBook Writer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/696560
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/696560/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Easy%20AI%20eBook%20Writer
 
 ## 4. Editorial notes

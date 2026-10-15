@@ -4,16 +4,16 @@ digistore24_product_id: 512623
 title: "Harmony Within Navigating Stress with Resilience and Faith"
 vendor: "DanielButogwa"
 product_type: "E-books"
-price: 14.52
+price: 14.53
 currency: "USD"
 affiliate_commission_pct: 55
-earnings_per_sale: 7.98
+earnings_per_sale: 7.99
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2023-08-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/512623?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/512623"
@@ -22,16 +22,16 @@ language: "en"
 # Harmony Within Navigating Stress with Resilience and Faith
 
 > Product ID `45068` · Digistore24 productId `512623` · [HTML profile page](../../reviews/harmony-within-navigating-stress-with-resilience-and-faith-45068.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $14.52 (Single payment) |
+| Price | $14.53 (Single payment) |
 | Affiliate commission | 55% |
-| Earnings/sale* | $7.98 |
+| Earnings/sale* | $7.99 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DanielButogwa |
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DanielButogwa, listed since 2023-08-19
-- How much? — 14.524119 USD
+- How much? — 14.533212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Harmony Within Navigating Stress with Resilience and Faith alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/512623
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/512623/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Harmony%20Within%20Navigating%20Stress%20with%20Resilience%20and%20Faith
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 633409
 title: "Little Leaks That Keep Ordinary People Under 40 Poor"
 vendor: "TopCourseCreator"
 product_type: "E-books"
-price: 11.18
+price: 11.19
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.59
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Education","Personal Development"]
+categories: ["Personal Development","Business & Investment","Education"]
 listed_since: "2025-09-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/little-leaks-that-keep-ordinary-people-under-40-poor/"
@@ -22,14 +22,14 @@ language: "en"
 # Little Leaks That Keep Ordinary People Under 40 Poor
 
 > Product ID `53884` · Digistore24 productId `633409` · [HTML profile page](../../reviews/little-leaks-that-keep-ordinary-people-under-40-poor-53884.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.18 (Single payment) |
+| Price | $11.19 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | TopCourseCreator |
 | Listed since | 2025-09-03 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Education, Personal Development |
+| Categories | Personal Development, Business & Investment, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -91,14 +91,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: TopCourseCreator, listed since 2025-09-03
-- How much? — 11.181000000000001 USD
+- How much? — 11.188 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Little Leaks That Keep Ordinary People Under 40 Poor alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/633409
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/633409/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Little%20Leaks%20That%20Keep%20Ordinary%20People%20Under%2040%20Poor
 
 ## 4. Editorial notes

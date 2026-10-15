@@ -10,19 +10,19 @@ affiliate_commission_pct: 55
 earnings_per_sale: 66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Computer & Internet","Education","Online Marketing & E-Business"]
+categories: ["Computer & Internet","Online Marketing & E-Business","Education"]
 listed_since: "2026-05-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56611/adminstore/"
+promo_link: "https://oraclefx.org/courses/advanced-liquidity-trading-strategy/?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/courses/advanced-liquidity-trading-strategy/"
 language: "en"
 ---
 # Premium Course - Advanced Liquidity and Smart Money Trading
 
 > Product ID `56611` · Digistore24 productId `693482` · [HTML profile page](../../reviews/premium-course-advanced-liquidity-and-smart-money-trading-56611.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | oraclefx |
 | Listed since | 2026-05-20 |
 | Auto-accept affiliates | yes |
-| Categories | Computer & Internet, Education, Online Marketing & E-Business |
+| Categories | Computer & Internet, Online Marketing & E-Business, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56611/adminstore/
+- **Promo link (affiliate):** https://oraclefx.org/courses/advanced-liquidity-trading-strategy/?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/courses/advanced-liquidity-trading-strategy/
 - Canonical redirect: https://www.digistore24.com/redir/693482/adminstore
 
@@ -106,7 +106,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Premium Course - Advanced Liquidity and Smart Money Trading alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/693482
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/693482/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Premium%20Course%20-%20Advanced%20Liquidity%20and%20Smart%20Money%20Trading
 
 ## 4. Editorial notes

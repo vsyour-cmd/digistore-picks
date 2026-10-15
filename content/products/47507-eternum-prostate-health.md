@@ -4,34 +4,34 @@ digistore24_product_id: 541623
 title: "Eternum Prostate Health"
 vendor: "eternumbrands"
 product_type: "Supplements - health"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 164.36
+earnings_per_sale: 164.46
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2024-03-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/47507/adminstore/"
+promo_link: "https://www.prostatehealth.pro/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.prostatehealth.pro/"
 language: "en"
 ---
 # Eternum Prostate Health
 
 > Product ID `47507` · Digistore24 productId `541623` · [HTML profile page](../../reviews/eternum-prostate-health-47507.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $164.36 |
+| Earnings/sale* | $164.46 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | eternumbrands |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/47507/adminstore/
+- **Promo link (affiliate):** https://www.prostatehealth.pro/?aff=adminstore#aff=adminstore
 - Sales page: https://www.prostatehealth.pro/
 - Canonical redirect: https://www.digistore24.com/redir/541623/adminstore
 
@@ -66,14 +66,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: eternumbrands, listed since 2024-03-01
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Eternum Prostate Health alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/541623
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/541623/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Eternum%20Prostate%20Health
 
 ## 4. Editorial notes

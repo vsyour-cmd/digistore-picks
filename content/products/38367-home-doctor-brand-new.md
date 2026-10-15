@@ -4,34 +4,34 @@ digistore24_product_id: 394659
 title: "Home Doctor – BRAND NEW!"
 vendor: "homedoctor"
 product_type: "Book (printed)"
-price: 47.45
+price: 47.48
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 25.64
+earnings_per_sale: 25.65
 cart_conversion_pct: 12
 cancel_rate_pct: 2.81
 categories: ["Survival"]
 listed_since: "2021-06-17"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/38367/adminstore/"
+promo_link: "https://homedoctorbook.com/book/?aff=adminstore#aff=adminstore"
 sales_page: "https://homedoctorbook.com/book/"
 language: "en"
 ---
 # Home Doctor – BRAND NEW!
 
 > Product ID `38367` · Digistore24 productId `394659` · [HTML profile page](../../reviews/home-doctor-brand-new-38367.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $47.45 (Single payment) |
+| Price | $47.48 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $25.64 |
+| Earnings/sale* | $25.65 |
 | Cart conversion* | 12% |
 | Cancel rate* | 2.81% |
 | Vendor | homedoctor |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/38367/adminstore/
+- **Promo link (affiliate):** https://homedoctorbook.com/book/?aff=adminstore#aff=adminstore
 - Sales page: https://homedoctorbook.com/book/
 - Vendor affiliate support: https://homedoctorbook.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/394659/adminstore
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: homedoctor, listed since 2021-06-17
-- How much? — 47.452164 USD
+- How much? — 47.481871999999996 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Home Doctor – BRAND NEW! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/394659
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/394659/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Home%20Doctor%20%E2%80%93%20BRAND%20NEW!
 
 ## 4. Editorial notes

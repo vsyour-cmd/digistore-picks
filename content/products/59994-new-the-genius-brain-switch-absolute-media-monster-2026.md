@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://feelbetter-today.com/brain-power?aff=adminstore#aff=adminstore"
 sales_page: "http://feelbetter-today.com/brain-power"
@@ -22,7 +22,7 @@ language: "en"
 # NEW: The Genius Brain Switch - Absolute Media Monster 2026
 
 > Product ID `59994` · Digistore24 productId `738142` · [HTML profile page](../../reviews/new-the-genius-brain-switch-absolute-media-monster-2026-59994.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Genius Brain Switch - Absolute Media Monster 2026 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738142
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738142/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%20Genius%20Brain%20Switch%20-%20Absolute%20Media%20Monster%202026
 
 ## 4. Editorial notes

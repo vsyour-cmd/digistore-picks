@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness"]
 listed_since: "2026-08-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58483/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/724312?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/724312"
 language: "en"
 ---
 # Full Body Stretching Exercises
 
 > Product ID `58483` · Digistore24 productId `724312` · [HTML profile page](../../reviews/full-body-stretching-exercises-58483.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58483/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/724312?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/724312
 - Vendor affiliate support: https://book2bookaffiliatesupport.blogspot.com/2026/08/stretching-exercises.html
 - Canonical redirect: https://www.digistore24.com/redir/724312/adminstore
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Full Body Stretching Exercises alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/724312
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/724312/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Full%20Body%20Stretching%20Exercises
 
 ## 4. Editorial notes

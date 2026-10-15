@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 66
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Fashion","Health & Fitness"]
+categories: ["Health & Fitness","Education","Fashion"]
 listed_since: "2026-05-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56563/adminstore/"
+promo_link: "https://vel.academy/course-problem-nails-d24?aff=adminstore#aff=adminstore"
 sales_page: "https://vel.academy/course-problem-nails-d24"
 language: "en"
 ---
 # Problem Nails Masterclass
 
 > Product ID `56563` · Digistore24 productId `691670` · [HTML profile page](../../reviews/problem-nails-masterclass-56563.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | info5a25 |
 | Listed since | 2026-05-18 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Fashion, Health & Fitness |
+| Categories | Health & Fitness, Education, Fashion |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56563/adminstore/
+- **Promo link (affiliate):** https://vel.academy/course-problem-nails-d24?aff=adminstore#aff=adminstore
 - Sales page: https://vel.academy/course-problem-nails-d24
 - Vendor affiliate support: https://vel.academy/affiliate-help
 - Canonical redirect: https://www.digistore24.com/redir/691670/adminstore
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Problem Nails Masterclass alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/691670
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/691670/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Problem%20Nails%20Masterclass
 
 ## 4. Editorial notes

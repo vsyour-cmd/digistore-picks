@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-08-21"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/58507/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/717852?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/717852"
 language: "en"
 ---
 # 6 Simple Habits to Beat Procrastination and Build Lasting Co
 
 > Product ID `58507` · Digistore24 productId `717852` · [HTML profile page](../../reviews/6-simple-habits-to-beat-procrastination-and-build-lasting-co-58507.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/58507/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/717852?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/717852
 - Canonical redirect: https://www.digistore24.com/redir/717852/adminstore
 
@@ -82,7 +82,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 6 Simple Habits to Beat Procrastination and Build Lasting Co alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/717852
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717852/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=6%20Simple%20Habits%20to%20Beat%20Procrastination%20and%20Build%20Lasting%20Co
 
 ## 4. Editorial notes

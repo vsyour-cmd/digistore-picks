@@ -4,16 +4,16 @@ digistore24_product_id: 631625
 title: "David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales"
 vendor: "blackoutusa"
 product_type: "Book (printed)"
-price: 79.54
+price: 79.59
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 42.73
+earnings_per_sale: 42.76
 cart_conversion_pct: 20
 cancel_rate_pct: 9.89
 categories: ["Survival"]
 listed_since: "2025-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://thedavidsshield.com/d/daff/?aff=adminstore#aff=adminstore"
 sales_page: "https://thedavidsshield.com/d/daff/"
@@ -22,16 +22,16 @@ language: "en"
 # David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales
 
 > Product ID `54688` · Digistore24 productId `631625` · [HTML profile page](../../reviews/david-s-shield-new-high-conv-vsl-2x-cvr-5m-in-sales-54688.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Book (printed) |
-| Price | $79.54 (Single payment) |
+| Price | $79.59 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $42.73 |
+| Earnings/sale* | $42.76 |
 | Cart conversion* | 20% |
 | Cancel rate* | 9.89% |
 | Vendor | blackoutusa |
@@ -88,14 +88,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Book (printed), vendor: blackoutusa, listed since 2025-09-19
-- How much? — 79.541634 USD
+- How much? — 79.591432 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/631625
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/631625/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=David%E2%80%99s%20Shield%20%E2%80%93%20New%20High-Conv%20VSL%20(2X%20CVR!)%20%7C%20%245M%2B%20In%20Sales
 
 ## 4. Editorial notes

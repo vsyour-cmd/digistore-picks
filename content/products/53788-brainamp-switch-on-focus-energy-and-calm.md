@@ -4,16 +4,16 @@ digistore24_product_id: 630380
 title: "BrainAMP - Switch On Focus, Energy, and Calm"
 vendor: "soundview"
 product_type: "Supplements - health"
-price: 99.14
+price: 99.2
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 25.21
+earnings_per_sale: 25.23
 cart_conversion_pct: 6
 cancel_rate_pct: 45.96
 categories: ["Animals & Pets","Food & Drink","Food Supplements"]
 listed_since: "2025-08-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm?aff=adminstore#aff=adminstore"
 sales_page: "https://www.advancedbionutritionals.com/DS24/BrainAMP/Brain-Just-Switched-On/HD.htm"
@@ -22,16 +22,16 @@ language: "en"
 # BrainAMP - Switch On Focus, Energy, and Calm
 
 > Product ID `53788` · Digistore24 productId `630380` · [HTML profile page](../../reviews/brainamp-switch-on-focus-energy-and-calm-53788.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $99.14 (Single payment) |
+| Price | $99.20 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $25.21 |
+| Earnings/sale* | $25.23 |
 | Cart conversion* | 6% |
 | Cancel rate* | 45.96% |
 | Vendor | soundview |
@@ -97,14 +97,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: soundview, listed since 2025-08-18
-- How much? — 99.14192700000001 USD
+- How much? — 99.203996 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: BrainAMP - Switch On Focus, Energy, and Calm alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/630380
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/630380/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=BrainAMP%20-%20Switch%20On%20Focus%2C%20Energy%2C%20and%20Calm
 
 ## 4. Editorial notes

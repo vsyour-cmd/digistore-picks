@@ -4,16 +4,16 @@ digistore24_product_id: 507221
 title: "Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond"
 vendor: "kineticps"
 product_type: "E-books"
-price: 43.61
+price: 43.63
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 32.7
+earnings_per_sale: 32.72
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Green Products & Environmental Protection"]
 listed_since: "2023-07-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html?aff=adminstore#aff=adminstore"
 sales_page: "https://thesolarinnovator.com/index-solar-innovator-proof-new-auto.html"
@@ -22,16 +22,16 @@ language: "en"
 # Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond
 
 > Product ID `45898` · Digistore24 productId `507221` · [HTML profile page](../../reviews/solar-innovator-massive-offer-will-shine-like-a-diamond-45898.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $43.61 (Single payment) |
+| Price | $43.63 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $32.70 |
+| Earnings/sale* | $32.72 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | kineticps |
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: kineticps, listed since 2023-07-12
-- How much? — 43.605900000000005 USD
+- How much? — 43.6332 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Solar Innovator – MASSIVE OFFER Will Shine Like a Diamond alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/507221
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/507221/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Solar%20Innovator%20%E2%80%93%20MASSIVE%20OFFER%20Will%20Shine%20Like%20a%20Diamond
 
 ## 4. Editorial notes

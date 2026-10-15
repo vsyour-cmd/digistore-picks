@@ -4,40 +4,40 @@ digistore24_product_id: 531919
 title: "X Profits - Brand New Bizopp Offer for 2024!"
 vendor: "xprofitsai"
 product_type: "Member area and video courses"
-price: 59.49
+price: 59.53
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 22.26
+earnings_per_sale: 22.28
 cart_conversion_pct: 7
 cancel_rate_pct: 27.99
-categories: ["Online Marketing & E-Business","Software"]
+categories: ["Software","Online Marketing & E-Business"]
 listed_since: "2023-12-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "none"
-promo_link: "https://www.digistore24.com/redir/46789/adminstore/"
+promo_link: "https://yourxprofits.com/index1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://yourxprofits.com/index1.html"
 language: "en"
 ---
 # X Profits - Brand New Bizopp Offer for 2024!
 
 > Product ID `46789` · Digistore24 productId `531919` · [HTML profile page](../../reviews/x-profits-brand-new-bizopp-offer-for-2024-46789.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **not retrieved**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $59.49 (Single payment) |
+| Price | $59.53 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $22.26 |
+| Earnings/sale* | $22.28 |
 | Cart conversion* | 7% |
 | Cancel rate* | 27.99% |
 | Vendor | xprofitsai |
 | Listed since | 2023-12-29 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Software |
+| Categories | Software, Online Marketing & E-Business |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46789/adminstore/
+- **Promo link (affiliate):** https://yourxprofits.com/index1.html?aff=adminstore#aff=adminstore
 - Sales page: https://yourxprofits.com/index1.html
 - Vendor affiliate support: https://yourxprofits.com/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/531919/adminstore
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: xprofitsai, listed since 2023-12-29
-- How much? — 59.49410100000001 USD
+- How much? — 59.531348 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: X Profits - Brand New Bizopp Offer for 2024! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/531919
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/531919/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=X%20Profits%20-%20Brand%20New%20Bizopp%20Offer%20for%202024!
 
 ## 4. Editorial notes

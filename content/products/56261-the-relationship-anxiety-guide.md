@@ -4,40 +4,40 @@ digistore24_product_id: 684554
 title: "The Relationship Anxiety Guide"
 vendor: "solvehera"
 product_type: "Downloads"
-price: 41.37
+price: 41.4
 currency: "USD"
 affiliate_commission_pct: 60
-earnings_per_sale: 24.82
+earnings_per_sale: 24.84
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Dating, Relationships & Romance","Health & Fitness","Personal Development"]
+categories: ["Health & Fitness","Personal Development","Dating, Relationships & Romance"]
 listed_since: "2026-04-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/56261/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/684554?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/684554"
 language: "en"
 ---
 # The Relationship Anxiety Guide
 
 > Product ID `56261` · Digistore24 productId `684554` · [HTML profile page](../../reviews/the-relationship-anxiety-guide-56261.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $41.37 (Single payment) |
+| Price | $41.40 (Single payment) |
 | Affiliate commission | 60% |
-| Earnings/sale* | $24.82 |
+| Earnings/sale* | $24.84 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | solvehera |
 | Listed since | 2026-04-14 |
 | Auto-accept affiliates | yes |
-| Categories | Dating, Relationships & Romance, Health & Fitness, Personal Development |
+| Categories | Health & Fitness, Personal Development, Dating, Relationships & Romance |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/56261/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/684554?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/684554
 - Canonical redirect: https://www.digistore24.com/redir/684554/adminstore
 
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: solvehera, listed since 2026-04-14
-- How much? — 41.3697 USD
+- How much? — 41.3956 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Relationship Anxiety Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/684554
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/684554/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Relationship%20Anxiety%20Guide
 
 ## 4. Editorial notes

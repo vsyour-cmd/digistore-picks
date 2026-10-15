@@ -4,34 +4,34 @@ digistore24_product_id: 433480
 title: "Lottery Increaser"
 vendor: "lotteryincreaser"
 product_type: "Member area and video courses"
-price: 108.46
+price: 108.52
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 81.34
+earnings_per_sale: 81.39
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Betting Systems"]
 listed_since: "2022-03-09"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/39597/adminstore/"
+promo_link: "http://lotteryincreaser.com/special?aff=adminstore#aff=adminstore"
 sales_page: "http://lotteryincreaser.com/special"
 language: "en"
 ---
 # Lottery Increaser
 
 > Product ID `39597` · Digistore24 productId `433480` · [HTML profile page](../../reviews/lottery-increaser-39597.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $108.46 (Single payment) |
+| Price | $108.52 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $81.34 |
+| Earnings/sale* | $81.39 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | lotteryincreaser |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/39597/adminstore/
+- **Promo link (affiliate):** http://lotteryincreaser.com/special?aff=adminstore#aff=adminstore
 - Sales page: http://lotteryincreaser.com/special
 - Vendor affiliate support: https://lotteryincreaser.com/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/433480/adminstore
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: lotteryincreaser, listed since 2022-03-09
-- How much? — 108.45570000000001 USD
+- How much? — 108.5236 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Lottery Increaser alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/433480
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/433480/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Lottery%20Increaser
 
 ## 4. Editorial notes

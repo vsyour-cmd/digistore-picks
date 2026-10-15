@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-08-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://empowermentstrategybook-km4.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://empowermentstrategybook-km4.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # Empowerment Strategy Book
 
 > Product ID `57832` · Digistore24 productId `717555` · [HTML profile page](../../reviews/empowerment-strategy-book-57832.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -77,7 +77,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Empowerment Strategy Book alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/717555
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/717555/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Empowerment%20Strategy%20Book
 
 ## 4. Editorial notes

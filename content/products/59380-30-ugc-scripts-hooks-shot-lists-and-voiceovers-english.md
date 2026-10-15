@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Online Marketing & E-Business","Social Media"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/735006?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735006"
@@ -22,7 +22,7 @@ language: "en"
 # 30 UGC Scripts – Hooks, Shot Lists and Voiceovers (English)
 
 > Product ID `59380` · Digistore24 productId `735006` · [HTML profile page](../../reviews/30-ugc-scripts-hooks-shot-lists-and-voiceovers-english-59380.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 30 UGC Scripts – Hooks, Shot Lists and Voiceovers (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735006
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735006/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=30%20UGC%20Scripts%20%E2%80%93%20Hooks%2C%20Shot%20Lists%20and%20Voiceovers%20(English)
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 433852
 title: "Easy 8 Scroll Saw Patterns"
 vendor: "rmyrchak"
 product_type: "Downloads"
-price: 22.35
+price: 22.36
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 11.18
+earnings_per_sale: 11.19
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2022-03-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns?aff=adminstore#aff=adminstore"
 sales_page: "https://www.easyscrollsawpatterns.com/easy-8-scroll-saw-patterns"
@@ -22,16 +22,16 @@ language: "en"
 # Easy 8 Scroll Saw Patterns
 
 > Product ID `39452` · Digistore24 productId `433852` · [HTML profile page](../../reviews/easy-8-scroll-saw-patterns-39452.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $22.35 (Single payment) |
+| Price | $22.36 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $11.18 |
+| Earnings/sale* | $11.19 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | rmyrchak |
@@ -74,14 +74,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: rmyrchak, listed since 2022-03-12
-- How much? — 22.350819 USD
+- How much? — 22.364811999999997 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Easy 8 Scroll Saw Patterns alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/433852
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/433852/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Easy%208%20Scroll%20Saw%20Patterns
 
 ## 4. Editorial notes

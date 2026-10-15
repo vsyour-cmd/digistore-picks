@@ -4,16 +4,16 @@ digistore24_product_id: 734663
 title: "Top 10 High Protein Meals (E-Book)"
 vendor: "worldxpb"
 product_type: "E-books"
-price: 16.76
+price: 16.77
 currency: "USD"
 affiliate_commission_pct: 25
-earnings_per_sale: 4.19
+earnings_per_sale: 4.2
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Food & Drink","Health & Fitness"]
+categories: ["Health & Fitness","Food & Drink"]
 listed_since: "2026-09-29"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/734663?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/734663"
@@ -22,22 +22,22 @@ language: "en"
 # Top 10 High Protein Meals (E-Book)
 
 > Product ID `60044` · Digistore24 productId `734663` · [HTML profile page](../../reviews/top-10-high-protein-meals-e-book-60044.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.76 (Single payment) |
+| Price | $16.77 (Single payment) |
 | Affiliate commission | 25% |
-| Earnings/sale* | $4.19 |
+| Earnings/sale* | $4.20 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | worldxpb |
 | Listed since | 2026-09-29 |
 | Auto-accept affiliates | yes |
-| Categories | Food & Drink, Health & Fitness |
+| Categories | Health & Fitness, Food & Drink |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: worldxpb, listed since 2026-09-29
-- How much? — 16.760319000000003 USD
+- How much? — 16.770812 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Top 10 High Protein Meals (E-Book) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/734663
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/734663/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Top%2010%20High%20Protein%20Meals%20(E-Book)
 
 ## 4. Editorial notes

@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development","Spiri­tua­lity & Esotericism"]
 listed_since: "2026-09-28"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/59993/adminstore/"
+promo_link: "http://puredaily-health.com/better-memory?aff=adminstore#aff=adminstore"
 sales_page: "http://puredaily-health.com/better-memory"
 language: "en"
 ---
 # NEW: The Memory Wave - Insane CVR's and EPC's - 90% Comms
 
 > Product ID `59993` · Digistore24 productId `738157` · [HTML profile page](../../reviews/new-the-memory-wave-insane-cvr-s-and-epc-s-90-comms-59993.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59993/adminstore/
+- **Promo link (affiliate):** http://puredaily-health.com/better-memory?aff=adminstore#aff=adminstore
 - Sales page: http://puredaily-health.com/better-memory
 - Vendor affiliate support: https://forms.gle/t6rQanFK4FuECc7p9
 - Canonical redirect: https://www.digistore24.com/redir/738157/adminstore
@@ -83,7 +83,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: NEW: The Memory Wave - Insane CVR's and EPC's - 90% Comms alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/738157
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/738157/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=NEW%3A%20The%20Memory%20Wave%20-%20Insane%20CVR's%20and%20EPC's%20-%2090%25%20Comms
 
 ## 4. Editorial notes

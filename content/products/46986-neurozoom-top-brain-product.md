@@ -4,16 +4,16 @@ digistore24_product_id: 535779
 title: "Neurozoom Top Brain Product"
 vendor: "NeuroZoom"
 product_type: "Supplements - health"
-price: 88.33
+price: 88.39
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 57.41
+earnings_per_sale: 57.45
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: []
+categories: ["Health & Fitness","Food Supplements"]
 listed_since: "2024-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://getneurozoom.cc/welcome?aff=adminstore#aff=adminstore"
 sales_page: "https://getneurozoom.cc/welcome"
@@ -22,22 +22,22 @@ language: "en"
 # Neurozoom Top Brain Product
 
 > Product ID `46986` · Digistore24 productId `535779` · [HTML profile page](../../reviews/neurozoom-top-brain-product-46986.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $88.33 (Single payment) |
+| Price | $88.39 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $57.41 |
+| Earnings/sale* | $57.45 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | NeuroZoom |
 | Listed since | 2024-01-24 |
 | Auto-accept affiliates | yes |
-| Categories | Uncategorized |
+| Categories | Health & Fitness, Food Supplements |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -99,14 +99,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: NeuroZoom, listed since 2024-01-24
-- How much? — 88.32990000000001 USD
+- How much? — 88.3852 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Neurozoom Top Brain Product alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/535779
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/535779/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Neurozoom%20Top%20Brain%20Product
 
 ## 4. Editorial notes

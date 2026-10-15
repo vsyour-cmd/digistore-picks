@@ -4,34 +4,34 @@ digistore24_product_id: 352181
 title: "eBook - Epoxy Resin for Arts and Crafts"
 vendor: "acrylgiessen"
 product_type: "E-books"
-price: 16.72
+price: 16.73
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 3.34
+earnings_per_sale: 3.35
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2020-10-14"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/40643/adminstore/"
+promo_link: "https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/?aff=adminstore#aff=adminstore"
 sales_page: "https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/"
 language: "en"
 ---
 # eBook - Epoxy Resin for Arts and Crafts
 
 > Product ID `40643` · Digistore24 productId `352181` · [HTML profile page](../../reviews/ebook-epoxy-resin-for-arts-and-crafts-40643.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $16.72 (Single payment) |
+| Price | $16.73 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $3.34 |
+| Earnings/sale* | $3.35 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | acrylgiessen |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/40643/adminstore/
+- **Promo link (affiliate):** https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/?aff=adminstore#aff=adminstore
 - Sales page: https://acrylgiessen.com/en/ebook-epoxy-resin-for-arts-and-crafts/
 - Canonical redirect: https://www.digistore24.com/redir/352181/adminstore
 
@@ -84,14 +84,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: acrylgiessen, listed since 2020-10-14
-- How much? — 16.715595 USD
+- How much? — 16.72606 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: eBook - Epoxy Resin for Arts and Crafts alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/352181
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/352181/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=eBook%20-%20Epoxy%20Resin%20for%20Arts%20and%20Crafts
 
 ## 4. Editorial notes

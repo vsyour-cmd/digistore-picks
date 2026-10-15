@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2023-11-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/46059/adminstore/"
+promo_link: "https://www.digistore24.com/product/525965?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/525965"
 language: "en"
 ---
 # Reducing Stress with Meditation and Mindfulness
 
 > Product ID `46059` · Digistore24 productId `525965` · [HTML profile page](../../reviews/reducing-stress-with-meditation-and-mindfulness-46059.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/46059/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/525965?aff=adminstore
 - Sales page: https://www.digistore24.com/product/525965
 - Canonical redirect: https://www.digistore24.com/redir/525965/adminstore
 
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: ykarabacak, listed since 2023-11-19
-- How much? — 4.461219000000001 USD
+- How much? — 4.464012 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Reducing Stress with Meditation and Mindfulness alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/525965
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/525965/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Reducing%20Stress%20with%20Meditation%20and%20Mindfulness
 
 ## 4. Editorial notes

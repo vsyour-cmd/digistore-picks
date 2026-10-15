@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: []
 listed_since: "2026-10-02"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://mindsilenceapp-1b2.plannerpack.co?aff=adminstore#aff=adminstore"
 sales_page: "https://mindsilenceapp-1b2.plannerpack.co"
@@ -22,7 +22,7 @@ language: "en"
 # MindSilence mental wellness app
 
 > Product ID `60126` · Digistore24 productId `740626` · [HTML profile page](../../reviews/mindsilence-mental-wellness-app-60126.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: MindSilence mental wellness app alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/740626
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/740626/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=MindSilence%20mental%20wellness%20app
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 583054
 title: "PrimeBiome"
 vendor: "PrimeBiome"
 product_type: "Supplements - health"
-price: 249.88
+price: 250.04
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 154.55
+earnings_per_sale: 154.65
 cart_conversion_pct: 1
 cancel_rate_pct: 19.36
 categories: ["Food Supplements"]
 listed_since: "2024-11-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50539/adminstore/"
+promo_link: "http://primebiome24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://primebiome24.com/text.php"
 language: "en"
 ---
 # PrimeBiome
 
 > Product ID `50539` · Digistore24 productId `583054` · [HTML profile page](../../reviews/primebiome-50539.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $249.88 (Single payment) |
+| Price | $250.04 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $154.55 |
+| Earnings/sale* | $154.65 |
 | Cart conversion* | 1% |
 | Cancel rate* | 19.36% |
 | Vendor | PrimeBiome |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50539/adminstore/
+- **Promo link (affiliate):** http://primebiome24.com/text.php?aff=adminstore#aff=adminstore
 - Sales page: http://primebiome24.com/text.php
 - Vendor affiliate support: https://primebiome24.com/help/affiliates.php
 - Canonical redirect: https://www.digistore24.com/redir/583054/adminstore
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: PrimeBiome, listed since 2024-11-27
-- How much? — 249.88416900000004 USD
+- How much? — 250.040612 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: PrimeBiome alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/583054
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/583054/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=PrimeBiome
 
 ## 4. Editorial notes

@@ -4,16 +4,16 @@ digistore24_product_id: 621048
 title: "Synaptigen"
 vendor: "Synaptigen"
 product_type: "Supplements - health"
-price: 246
+price: 246.16
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 190.84
+earnings_per_sale: 190.96
 cart_conversion_pct: 5
 cancel_rate_pct: 13
 categories: ["Food Supplements"]
 listed_since: "2025-06-27"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "http://synaptigen24.com/text.php?aff=adminstore#aff=adminstore"
 sales_page: "http://synaptigen24.com/text.php"
@@ -22,16 +22,16 @@ language: "en"
 # Synaptigen
 
 > Product ID `53030` · Digistore24 productId `621048` · [HTML profile page](../../reviews/synaptigen-53030.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $246.00 (Single payment) |
+| Price | $246.16 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $190.84 |
+| Earnings/sale* | $190.96 |
 | Cart conversion* | 5% |
 | Cancel rate* | 13% |
 | Vendor | Synaptigen |
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: Synaptigen, listed since 2025-06-27
-- How much? — 246.00436200000004 USD
+- How much? — 246.158376 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Synaptigen alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/621048
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/621048/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Synaptigen
 
 ## 4. Editorial notes

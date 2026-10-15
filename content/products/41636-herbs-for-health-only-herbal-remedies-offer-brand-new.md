@@ -4,7 +4,7 @@ digistore24_product_id: 466293
 title: "Herbs for Health- Only Herbal Remedies Offer! (Brand New)"
 vendor: "homeprepper"
 product_type: "E-books"
-price: 21.41
+price: 21.43
 currency: "USD"
 affiliate_commission_pct: 75
 earnings_per_sale: 11.8
@@ -12,8 +12,8 @@ cart_conversion_pct: 4
 cancel_rate_pct: 3.16
 categories: ["Health & Fitness"]
 listed_since: "2022-10-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.thehomeprepper.com/book?aff=adminstore#aff=adminstore"
 sales_page: "https://www.thehomeprepper.com/book"
@@ -22,14 +22,14 @@ language: "en"
 # Herbs for Health- Only Herbal Remedies Offer! (Brand New)
 
 > Product ID `41636` · Digistore24 productId `466293` · [HTML profile page](../../reviews/herbs-for-health-only-herbal-remedies-offer-brand-new-41636.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $21.41 (Single payment) |
+| Price | $21.43 (Single payment) |
 | Affiliate commission | 75% |
 | Earnings/sale* | $11.80 |
 | Cart conversion* | 4% |
@@ -99,14 +99,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: homeprepper, listed since 2022-10-24
-- How much? — 21.411615 USD
+- How much? — 21.42502 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Herbs for Health- Only Herbal Remedies Offer! (Brand New) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/466293
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/466293/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Herbs%20for%20Health-%20Only%20Herbal%20Remedies%20Offer!%20(Brand%20New)
 
 ## 4. Editorial notes

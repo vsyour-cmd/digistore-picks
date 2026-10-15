@@ -4,16 +4,16 @@ digistore24_product_id: 676823
 title: "Rank in ChatGPT – Earn $200+/Sale (75%)"
 vendor: "Rafa1217"
 product_type: "Software"
-price: 332.08
+price: 332.28
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 249.06
+earnings_per_sale: 249.21
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Computer & Internet","Software"]
+categories: ["Business & Investment","Software","Computer & Internet"]
 listed_since: "2026-03-16"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://fastseohub.com/digistore24?aff=adminstore#aff=adminstore"
 sales_page: "https://fastseohub.com/digistore24"
@@ -22,22 +22,22 @@ language: "en"
 # Rank in ChatGPT – Earn $200+/Sale (75%)
 
 > Product ID `55976` · Digistore24 productId `676823` · [HTML profile page](../../reviews/rank-in-chatgpt-earn-200-sale-75-55976.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $332.08 (Single payment) |
+| Price | $332.28 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $249.06 |
+| Earnings/sale* | $249.21 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Rafa1217 |
 | Listed since | 2026-03-16 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Computer & Internet, Software |
+| Categories | Business & Investment, Software, Computer & Internet |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -86,14 +86,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: Rafa1217, listed since 2026-03-16
-- How much? — 332.07570000000004 USD
+- How much? — 332.2836 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Rank in ChatGPT – Earn $200+/Sale (75%) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/676823
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/676823/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Rank%20in%20ChatGPT%20%E2%80%93%20Earn%20%24200%2B%2FSale%20(75%25)
 
 ## 4. Editorial notes

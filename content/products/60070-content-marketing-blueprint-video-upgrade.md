@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2026-09-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/735838?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/735838"
@@ -22,7 +22,7 @@ language: "en"
 # Content Marketing Blueprint Video Upgrade
 
 > Product ID `60070` · Digistore24 productId `735838` · [HTML profile page](../../reviews/content-marketing-blueprint-video-upgrade-60070.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Content Marketing Blueprint Video Upgrade alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735838
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735838/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Content%20Marketing%20Blueprint%20Video%20Upgrade
 
 ## 4. Editorial notes

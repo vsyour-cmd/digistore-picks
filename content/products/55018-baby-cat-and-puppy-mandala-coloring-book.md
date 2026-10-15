@@ -4,16 +4,16 @@ digistore24_product_id: 654839
 title: "Baby Cat and Puppy Mandala Coloring Book"
 vendor: "manuelcosta"
 product_type: "E-books"
-price: 10.05
+price: 10.06
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 7.03
+earnings_per_sale: 7.04
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children","Personal Development"]
+categories: ["Personal Development","Family & Children","Education"]
 listed_since: "2025-12-11"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://mandalaebook.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://mandalaebook.netlify.app/"
@@ -22,22 +22,22 @@ language: "en"
 # Baby Cat and Puppy Mandala Coloring Book
 
 > Product ID `55018` · Digistore24 productId `654839` · [HTML profile page](../../reviews/baby-cat-and-puppy-mandala-coloring-book-55018.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $10.05 (Single payment) |
+| Price | $10.06 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $7.03 |
+| Earnings/sale* | $7.04 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2025-12-11 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children, Personal Development |
+| Categories | Personal Development, Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -80,14 +80,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: manuelcosta, listed since 2025-12-11
-- How much? — 10.051719 USD
+- How much? — 10.058012 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Baby Cat and Puppy Mandala Coloring Book alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/654839
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/654839/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Baby%20Cat%20and%20Puppy%20Mandala%20Coloring%20Book
 
 ## 4. Editorial notes

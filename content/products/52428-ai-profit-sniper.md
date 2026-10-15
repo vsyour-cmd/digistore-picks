@@ -4,16 +4,16 @@ digistore24_product_id: 610341
 title: "AI Profit Sniper"
 vendor: "aiprofitsniper"
 product_type: "Software"
-price: 62.31
+price: 62.35
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 26.14
+earnings_per_sale: 26.16
 cart_conversion_pct: 14
 cancel_rate_pct: 27.21
-categories: ["Online Marketing & E-Business","Social Media","Software"]
+categories: ["Software","Online Marketing & E-Business","Social Media"]
 listed_since: "2025-05-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://www.aiprofitsniper.com/dindex1.html?aff=adminstore#aff=adminstore"
 sales_page: "https://www.aiprofitsniper.com/dindex1.html"
@@ -22,22 +22,22 @@ language: "en"
 # AI Profit Sniper
 
 > Product ID `52428` · Digistore24 productId `610341` · [HTML profile page](../../reviews/ai-profit-sniper-52428.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $62.31 (Single payment) |
+| Price | $62.35 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $26.14 |
+| Earnings/sale* | $26.16 |
 | Cart conversion* | 14% |
 | Cancel rate* | 27.21% |
 | Vendor | aiprofitsniper |
 | Listed since | 2025-05-01 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Social Media, Software |
+| Categories | Software, Online Marketing & E-Business, Social Media |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: aiprofitsniper, listed since 2025-05-01
-- How much? — 62.311713000000005 USD
+- How much? — 62.350724 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Profit Sniper alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/610341
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/610341/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Profit%20Sniper
 
 ## 4. Editorial notes

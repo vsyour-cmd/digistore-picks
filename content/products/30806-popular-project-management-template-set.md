@@ -4,16 +4,16 @@ digistore24_product_id: 299617
 title: "Popular Project Management Template Set"
 vendor: "arneckem"
 product_type: "Downloads"
-price: 89.44
+price: 89.49
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 44.72
+earnings_per_sale: 44.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Services"]
 listed_since: "2019-12-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://worldofpm.com/recommended-project-management-profi-templates/?aff=adminstore#aff=adminstore"
 sales_page: "https://worldofpm.com/recommended-project-management-profi-templates/"
@@ -22,16 +22,16 @@ language: "en"
 # Popular Project Management Template Set
 
 > Product ID `30806` · Digistore24 productId `299617` · [HTML profile page](../../reviews/popular-project-management-template-set-30806.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $89.44 (Single payment) |
+| Price | $89.49 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $44.72 |
+| Earnings/sale* | $44.75 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | arneckem |
@@ -92,14 +92,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: arneckem, listed since 2019-12-13
-- How much? — 89.436819 USD
+- How much? — 89.492812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Popular Project Management Template Set alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/299617
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/299617/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Popular%20Project%20Management%20Template%20Set
 
 ## 4. Editorial notes

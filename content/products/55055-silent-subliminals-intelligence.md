@@ -4,40 +4,40 @@ digistore24_product_id: 658078
 title: "Silent Subliminals – Intelligence"
 vendor: "frequencies8888"
 product_type: "Downloads"
-price: 36.9
+price: 36.92
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 14.76
+earnings_per_sale: 14.77
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Spiri­tua­lity & Esotericism"]
+categories: ["Personal Development","Spiri­tua­lity & Esotericism","Education"]
 listed_since: "2025-12-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/55055/adminstore/"
+promo_link: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9?aff=adminstore#aff=adminstore"
 sales_page: "https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9"
 language: "en"
 ---
 # Silent Subliminals – Intelligence
 
 > Product ID `55055` · Digistore24 productId `658078` · [HTML profile page](../../reviews/silent-subliminals-intelligence-55055.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $36.90 (Single payment) |
+| Price | $36.92 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $14.76 |
+| Earnings/sale* | $14.77 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | frequencies8888 |
 | Listed since | 2025-12-30 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Spiri­tua­lity & Esotericism |
+| Categories | Personal Development, Spiri­tua­lity & Esotericism, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/55055/adminstore/
+- **Promo link (affiliate):** https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9?aff=adminstore#aff=adminstore
 - Sales page: https://frequencies8888.systeme.io/8eba5ea0-46a1cc62-5e347453-1cbe68a9
 - Vendor affiliate support: https://frequencies8888.systeme.io/2ae21186-4c762aeb-0d200997-e20f68b5
 - Canonical redirect: https://www.digistore24.com/redir/658078/adminstore
@@ -82,14 +82,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: frequencies8888, listed since 2025-12-30
-- How much? — 36.8973 USD
+- How much? — 36.9204 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Silent Subliminals – Intelligence alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/658078
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/658078/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Silent%20Subliminals%20%E2%80%93%20Intelligence
 
 ## 4. Editorial notes

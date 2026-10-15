@@ -4,16 +4,16 @@ digistore24_product_id: 19083
 title: "POWER-Learning-Kit German Grammar"
 vendor: "easydaf"
 product_type: "E-books"
-price: 41.48
+price: 41.51
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 16.59
+earnings_per_sale: 16.6
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Education"]
 listed_since: "2014-01-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.learn-german-smarter.com/learn-german-grammar-with-mnemonics/"
@@ -22,16 +22,16 @@ language: "en"
 # POWER-Learning-Kit German Grammar
 
 > Product ID `3449` · Digistore24 productId `19083` · [HTML profile page](../../reviews/power-learning-kit-german-grammar-3449.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $41.48 (Single payment) |
+| Price | $41.51 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $16.59 |
+| Earnings/sale* | $16.60 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | easydaf |
@@ -101,14 +101,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: easydaf, listed since 2014-01-08
-- How much? — 41.48151000000001 USD
+- How much? — 41.50748 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: POWER-Learning-Kit German Grammar alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/19083
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/19083/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=POWER-Learning-Kit%20German%20Grammar
 
 ## 4. Editorial notes

@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 32.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Photography & Film","Social Media","Software"]
+categories: ["Software","Social Media","Photography & Film"]
 listed_since: "2026-09-22"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/59559/adminstore/"
+promo_link: "https://reelforge.esr.mobi?aff=adminstore#aff=adminstore"
 sales_page: "https://reelforge.esr.mobi"
 language: "en"
 ---
 # ReelForge Studio - Faceless Videos on Autopilot (Windows App
 
 > Product ID `59559` · Digistore24 productId `735866` · [HTML profile page](../../reviews/reelforge-studio-faceless-videos-on-autopilot-windows-app-59559.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | ramib6566a327 |
 | Listed since | 2026-09-22 |
 | Auto-accept affiliates | yes |
-| Categories | Photography & Film, Social Media, Software |
+| Categories | Software, Social Media, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/59559/adminstore/
+- **Promo link (affiliate):** https://reelforge.esr.mobi?aff=adminstore#aff=adminstore
 - Sales page: https://reelforge.esr.mobi
 - Vendor affiliate support: https://reelforge.esr.mobi/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/735866/adminstore
@@ -106,7 +106,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: ReelForge Studio - Faceless Videos on Autopilot (Windows App alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735866
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735866/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=ReelForge%20Studio%20-%20Faceless%20Videos%20on%20Autopilot%20(Windows%20App
 
 ## 4. Editorial notes

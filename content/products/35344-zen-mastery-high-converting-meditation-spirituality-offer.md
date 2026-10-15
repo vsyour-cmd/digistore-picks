@@ -4,7 +4,7 @@ digistore24_product_id: 367270
 title: "Zen Mastery - High Converting Meditation/Spirituality Offer"
 vendor: "livingspirit"
 product_type: "Downloads"
-price: 14.52
+price: 14.53
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.27
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Spiri­tua­lity & Esotericism"]
 listed_since: "2021-01-12"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://living.groovepages.com/zen/index?aff=adminstore#aff=adminstore"
 sales_page: "https://living.groovepages.com/zen/index"
@@ -22,14 +22,14 @@ language: "en"
 # Zen Mastery - High Converting Meditation/Spirituality Offer
 
 > Product ID `35344` · Digistore24 productId `367270` · [HTML profile page](../../reviews/zen-mastery-high-converting-meditation-spirituality-offer-35344.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $14.52 (Subscription) |
+| Price | $14.53 (Subscription) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.27 |
 | Cart conversion* | — |
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: livingspirit, listed since 2021-01-12
-- How much? — 14.524119 USD
+- How much? — 14.533212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Zen Mastery - High Converting Meditation/Spirituality Offer alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/367270
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/367270/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Zen%20Mastery%20-%20High%20Converting%20Meditation%2FSpirituality%20Offer
 
 ## 4. Editorial notes

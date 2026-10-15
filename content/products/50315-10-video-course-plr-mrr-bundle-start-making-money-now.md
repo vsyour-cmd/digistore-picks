@@ -4,34 +4,34 @@ digistore24_product_id: 576866
 title: "10-Video Course PLR + MRR Bundle - Start Making Money NOW!"
 vendor: "HeikoBoos"
 product_type: "Downloads"
-price: 206.4
+price: 206.53
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 103.2
+earnings_per_sale: 103.27
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business","Social Media"]
 listed_since: "2024-10-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/50315/adminstore/"
+promo_link: "http://heikoboos.com/10-mega-plr-video-courses?aff=adminstore#aff=adminstore"
 sales_page: "http://heikoboos.com/10-mega-plr-video-courses"
 language: "en"
 ---
 # 10-Video Course PLR + MRR Bundle - Start Making Money NOW!
 
 > Product ID `50315` · Digistore24 productId `576866` · [HTML profile page](../../reviews/10-video-course-plr-mrr-bundle-start-making-money-now-50315.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $206.40 (Single payment, Installment) |
+| Price | $206.53 (Single payment, Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $103.20 |
+| Earnings/sale* | $103.27 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | HeikoBoos |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/50315/adminstore/
+- **Promo link (affiliate):** http://heikoboos.com/10-mega-plr-video-courses?aff=adminstore#aff=adminstore
 - Sales page: http://heikoboos.com/10-mega-plr-video-courses
 - Vendor affiliate support: https://heikoboos.com/affiliate-support-10-plr-video-courses
 - Canonical redirect: https://www.digistore24.com/redir/576866/adminstore
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: HeikoBoos, listed since 2024-10-23
-- How much? — 206.40126 USD
+- How much? — 206.53047999999998 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 10-Video Course PLR + MRR Bundle - Start Making Money NOW! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/576866
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/576866/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=10-Video%20Course%20PLR%20%2B%20MRR%20Bundle%20-%20Start%20Making%20Money%20NOW!
 
 ## 4. Editorial notes

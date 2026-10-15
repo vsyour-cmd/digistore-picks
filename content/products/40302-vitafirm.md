@@ -4,16 +4,16 @@ digistore24_product_id: 443930
 title: "VitaFirm"
 vendor: "freedomhealthllc"
 product_type: "Supplements - health"
-price: 328.72
+price: 328.93
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 213.67
+earnings_per_sale: 213.8
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2022-05-23"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://vitafirmsecret.com/special-digi/index.html?aff=adminstore#aff=adminstore"
 sales_page: "https://vitafirmsecret.com/special-digi/index.html"
@@ -22,16 +22,16 @@ language: "en"
 # VitaFirm
 
 > Product ID `40302` · Digistore24 productId `443930` · [HTML profile page](../../reviews/vitafirm-40302.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin (browser-rendered)**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $328.72 (Single payment) |
+| Price | $328.93 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $213.67 |
+| Earnings/sale* | $213.80 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | freedomhealthllc |
@@ -69,14 +69,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: freedomhealthllc, listed since 2022-05-23
-- How much? — 328.7214 USD
+- How much? — 328.9272 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: VitaFirm alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/443930
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/443930/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=VitaFirm
 
 ## 4. Editorial notes

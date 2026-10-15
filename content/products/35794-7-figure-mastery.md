@@ -4,16 +4,16 @@ digistore24_product_id: 373677
 title: "7 Figure Mastery"
 vendor: "masterycourses"
 product_type: "E-books"
-price: 167.65
+price: 167.75
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 83.82
+earnings_per_sale: 83.88
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Online Marketing & E-Business"]
 listed_since: "2021-02-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://legacy.groovepages.com/7-figure-mastery/index?aff=adminstore#aff=adminstore"
 sales_page: "https://legacy.groovepages.com/7-figure-mastery/index"
@@ -22,16 +22,16 @@ language: "en"
 # 7 Figure Mastery
 
 > Product ID `35794` · Digistore24 productId `373677` · [HTML profile page](../../reviews/7-figure-mastery-35794.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $167.65 (Installment) |
+| Price | $167.75 (Installment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $83.82 |
+| Earnings/sale* | $83.88 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | masterycourses |
@@ -78,14 +78,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: masterycourses, listed since 2021-02-13
-- How much? — 167.64791400000001 USD
+- How much? — 167.752872 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 7 Figure Mastery alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/373677
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/373677/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=7%20Figure%20Mastery
 
 ## 4. Editorial notes

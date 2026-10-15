@@ -4,34 +4,34 @@ digistore24_product_id: 639544
 title: "The Complete Social Confidence System | Earn 75% Commissions"
 vendor: "darrelltee"
 product_type: "E-books"
-price: 155.42
+price: 155.51
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 116.56
+earnings_per_sale: 116.63
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2025-10-04"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/54275/adminstore/"
+promo_link: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick?aff=adminstore#aff=adminstore"
 sales_page: "http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick"
 language: "en"
 ---
 # The Complete Social Confidence System | Earn 75% Commissions
 
 > Product ID `54275` · Digistore24 productId `639544` · [HTML profile page](../../reviews/the-complete-social-confidence-system-earn-75-commissions-54275.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $155.42 (Single payment) |
+| Price | $155.51 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $116.56 |
+| Earnings/sale* | $116.63 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | darrelltee |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/54275/adminstore/
+- **Promo link (affiliate):** http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick?aff=adminstore#aff=adminstore
 - Sales page: http://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-trick
 - Vendor affiliate support: https://www.betterdailyguide.site/ds24/the-10-minute-social-confidence-affiliates
 - Canonical redirect: https://www.digistore24.com/redir/639544/adminstore
@@ -90,14 +90,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: darrelltee, listed since 2025-10-04
-- How much? — 155.41590000000002 USD
+- How much? — 155.5132 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Complete Social Confidence System | Earn 75% Commissions alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/639544
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/639544/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Complete%20Social%20Confidence%20System%20%7C%20Earn%2075%25%20Commissions
 
 ## 4. Editorial notes

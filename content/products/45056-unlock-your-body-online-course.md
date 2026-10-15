@@ -4,16 +4,16 @@ digistore24_product_id: 510562
 title: "Unlock Your Body [Online Course]"
 vendor: "timboettner"
 product_type: "Member area and video courses"
-price: 99.51
+price: 99.57
 currency: "USD"
 affiliate_commission_pct: 20
-earnings_per_sale: 19.9
+earnings_per_sale: 19.91
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Spiri­tua­lity & Esotericism"]
 listed_since: "2023-08-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.digistore24.com/product/510562?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/510562"
@@ -22,16 +22,16 @@ language: "en"
 # Unlock Your Body [Online Course]
 
 > Product ID `45056` · Digistore24 productId `510562` · [HTML profile page](../../reviews/unlock-your-body-online-course-45056.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $99.51 (Single payment) |
+| Price | $99.57 (Single payment) |
 | Affiliate commission | 20% |
-| Earnings/sale* | $19.90 |
+| Earnings/sale* | $19.91 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | timboettner |
@@ -81,14 +81,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: timboettner, listed since 2023-08-07
-- How much? — 99.5109 USD
+- How much? — 99.5732 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Unlock Your Body [Online Course] alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/510562
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/510562/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Unlock%20Your%20Body%20%5BOnline%20Course%5D
 
 ## 4. Editorial notes

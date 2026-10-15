@@ -4,16 +4,16 @@ digistore24_product_id: 666971
 title: "2026 Manifestation Mood Board Printable Vision Kit Dream"
 vendor: "moneywithangie"
 product_type: "Downloads"
-price: 15.64
+price: 15.65
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 7.83
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Online Marketing & E-Business","Spiri­tua­lity & Esotericism","Marketing Services"]
+categories: ["Spiri­tua­lity & Esotericism","Online Marketing & E-Business","Marketing Services"]
 listed_since: "2026-02-06"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/666971?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/666971"
@@ -22,14 +22,14 @@ language: "en"
 # 2026 Manifestation Mood Board Printable Vision Kit Dream
 
 > Product ID `55486` · Digistore24 productId `666971` · [HTML profile page](../../reviews/2026-manifestation-mood-board-printable-vision-kit-dream-55486.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $15.64 (Single payment) |
+| Price | $15.65 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $7.83 |
 | Cart conversion* | — |
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | moneywithangie |
 | Listed since | 2026-02-06 |
 | Auto-accept affiliates | yes |
-| Categories | Online Marketing & E-Business, Spiri­tua­lity & Esotericism, Marketing Services |
+| Categories | Spiri­tua­lity & Esotericism, Online Marketing & E-Business, Marketing Services |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: moneywithangie, listed since 2026-02-06
-- How much? — 15.642219 USD
+- How much? — 15.652012000000001 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 2026 Manifestation Mood Board Printable Vision Kit Dream alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/666971
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/666971/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=2026%20Manifestation%20Mood%20Board%20Printable%20Vision%20Kit%20Dream
 
 ## 4. Editorial notes

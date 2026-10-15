@@ -4,34 +4,34 @@ digistore24_product_id: 487519
 title: "Learn Guitar For Beginners - Guitar Course For Adults"
 vendor: "Guitarschool24"
 product_type: "Member area and video courses"
-price: 107.34
+price: 107.4
 currency: "USD"
 affiliate_commission_pct: 30
-earnings_per_sale: 32.2
+earnings_per_sale: 32.22
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Hobby & Craft"]
 listed_since: "2023-03-05"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/43295/adminstore/"
+promo_link: "https://www.guitarschool24.com/learn-guitar-for-beginners/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.guitarschool24.com/learn-guitar-for-beginners/"
 language: "en"
 ---
 # Learn Guitar For Beginners - Guitar Course For Adults
 
 > Product ID `43295` · Digistore24 productId `487519` · [HTML profile page](../../reviews/learn-guitar-for-beginners-guitar-course-for-adults-43295.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Member area and video courses |
-| Price | $107.34 (Single payment) |
+| Price | $107.40 (Single payment) |
 | Affiliate commission | 30% |
-| Earnings/sale* | $32.20 |
+| Earnings/sale* | $32.22 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | Guitarschool24 |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/43295/adminstore/
+- **Promo link (affiliate):** https://www.guitarschool24.com/learn-guitar-for-beginners/?aff=adminstore#aff=adminstore
 - Sales page: https://www.guitarschool24.com/learn-guitar-for-beginners/
 - Canonical redirect: https://www.digistore24.com/redir/487519/adminstore
 
@@ -89,14 +89,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Member area and video courses, vendor: Guitarschool24, listed since 2023-03-05
-- How much? — 107.33760000000001 USD
+- How much? — 107.4048 USD
 - Guarantee? — 14
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Learn Guitar For Beginners - Guitar Course For Adults alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/487519
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/487519/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Learn%20Guitar%20For%20Beginners%20-%20Guitar%20Course%20For%20Adults
 
 ## 4. Editorial notes

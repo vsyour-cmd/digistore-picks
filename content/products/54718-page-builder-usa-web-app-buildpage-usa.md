@@ -4,16 +4,16 @@ digistore24_product_id: 650003
 title: "Page Builder – Usa [Web app – buildpage-usa]"
 vendor: "manuelcosta"
 product_type: "Software"
-price: 31.31
+price: 31.33
 currency: "USD"
 affiliate_commission_pct: 75
-earnings_per_sale: 23.48
+earnings_per_sale: 23.49
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Social Media","Software","Online Marketing"]
+categories: ["Software","Social Media","Online Marketing"]
 listed_since: "2025-11-20"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
 promo_link: "https://pagebuilder-usa.netlify.app/?aff=adminstore#aff=adminstore"
 sales_page: "https://pagebuilder-usa.netlify.app/"
@@ -22,22 +22,22 @@ language: "en"
 # Page Builder – Usa [Web app – buildpage-usa]
 
 > Product ID `54718` · Digistore24 productId `650003` · [HTML profile page](../../reviews/page-builder-usa-web-app-buildpage-usa-54718.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Software |
-| Price | $31.31 (Single payment) |
+| Price | $31.33 (Single payment) |
 | Affiliate commission | 75% |
-| Earnings/sale* | $23.48 |
+| Earnings/sale* | $23.49 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | manuelcosta |
 | Listed since | 2025-11-20 |
 | Auto-accept affiliates | yes |
-| Categories | Social Media, Software, Online Marketing |
+| Categories | Software, Social Media, Online Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -67,14 +67,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Software, vendor: manuelcosta, listed since 2025-11-20
-- How much? — 31.306800000000003 USD
+- How much? — 31.3264 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Page Builder – Usa [Web app – buildpage-usa] alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/650003
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/650003/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Page%20Builder%20%E2%80%93%20Usa%20%5BWeb%20app%20%E2%80%93%20buildpage-usa%5D
 
 ## 4. Editorial notes

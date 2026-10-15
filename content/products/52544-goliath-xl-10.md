@@ -4,16 +4,16 @@ digistore24_product_id: 592274
 title: "Goliath XL 10"
 vendor: "KoalaAdvertising"
 product_type: "Supplements - health"
-price: 149.55
+price: 149.64
 currency: "USD"
 affiliate_commission_pct: 65
-earnings_per_sale: 116.71
+earnings_per_sale: 116.78
 cart_conversion_pct: 7
 cancel_rate_pct: 8.15
 categories: ["Food Supplements"]
 listed_since: "2025-01-24"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://getgoliathxl10.com/read?aff=adminstore#aff=adminstore"
 sales_page: "https://getgoliathxl10.com/read"
@@ -22,16 +22,16 @@ language: "en"
 # Goliath XL 10
 
 > Product ID `52544` · Digistore24 productId `592274` · [HTML profile page](../../reviews/goliath-xl-10-52544.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $149.55 (Single payment) |
+| Price | $149.64 (Single payment) |
 | Affiliate commission | 65% |
-| Earnings/sale* | $116.71 |
+| Earnings/sale* | $116.78 |
 | Cart conversion* | 7% |
 | Cancel rate* | 8.15% |
 | Vendor | KoalaAdvertising |
@@ -73,14 +73,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: KoalaAdvertising, listed since 2025-01-24
-- How much? — 149.54587500000002 USD
+- How much? — 149.6395 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Goliath XL 10 alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/592274
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/592274/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Goliath%20XL%2010
 
 ## 4. Editorial notes

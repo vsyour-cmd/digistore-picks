@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development","Profession & Job","Project Management"]
 listed_since: "2026-07-30"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/57807/adminstore/"
+promo_link: "https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.noa.rs.ba/scrum-career-compass/"
 language: "en"
 ---
 # Career Compass for Scrum
 
 > Product ID `57807` · Digistore24 productId `601268` · [HTML profile page](../../reviews/career-compass-for-scrum-57807.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57807/adminstore/
+- **Promo link (affiliate):** https://www.noa.rs.ba/scrum-career-compass/?aff=adminstore#aff=adminstore
 - Sales page: https://www.noa.rs.ba/scrum-career-compass/
 - Canonical redirect: https://www.digistore24.com/redir/601268/adminstore
 
@@ -96,7 +96,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Career Compass for Scrum alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/601268
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/601268/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Career%20Compass%20for%20Scrum
 
 ## 4. Editorial notes

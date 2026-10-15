@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Business & Investment","Email Marketing","Online Marketing & E-Business"]
+categories: ["Business & Investment","Online Marketing & E-Business","Email Marketing"]
 listed_since: "2026-09-19"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59403/adminstore/"
+promo_link: "https://www.digistore24.com/product/735110?aff=adminstore"
 sales_page: "https://www.digistore24.com/product/735110"
 language: "en"
 ---
 # Email Copy Library - 30 Subject Lines and 8 Templates (English)
 
 > Product ID `59403` · Digistore24 productId `735110` · [HTML profile page](../../reviews/email-copy-library-30-subject-lines-and-8-templates-english-59403.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | einfachmitmatze |
 | Listed since | 2026-09-19 |
 | Auto-accept affiliates | yes |
-| Categories | Business & Investment, Email Marketing, Online Marketing & E-Business |
+| Categories | Business & Investment, Online Marketing & E-Business, Email Marketing |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59403/adminstore/
+- **Promo link (affiliate):** https://www.digistore24.com/product/735110?aff=adminstore
 - Sales page: https://www.digistore24.com/product/735110
 - Vendor affiliate support: https://einfachmitmatze.de/partner-735110/
 - Canonical redirect: https://www.digistore24.com/redir/735110/adminstore
@@ -88,7 +88,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Email Copy Library - 30 Subject Lines and 8 Templates (English) alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/735110
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/735110/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Email%20Copy%20Library%20-%2030%20Subject%20Lines%20and%208%20Templates%20(English)
 
 ## 4. Editorial notes

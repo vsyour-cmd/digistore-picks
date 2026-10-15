@@ -10,10 +10,10 @@ affiliate_commission_pct: 50
 earnings_per_sale: 12.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/Positive-Parenting-in-a-Fast-Changing-World/Sales-page.html"
@@ -22,7 +22,7 @@ language: "en"
 # Positive Parenting in a Fast-Changing World
 
 > Product ID `57384` · Digistore24 productId `708122` · [HTML profile page](../../reviews/positive-parenting-in-a-fast-changing-world-57384.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | oraclefx |
 | Listed since | 2026-07-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -92,7 +92,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Positive Parenting in a Fast-Changing World alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/708122
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708122/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Positive%20Parenting%20in%20a%20Fast-Changing%20World
 
 ## 4. Editorial notes

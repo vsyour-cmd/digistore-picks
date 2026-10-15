@@ -4,7 +4,7 @@ digistore24_product_id: 651267
 title: "100 Million+ Digital Products -MRR"
 vendor: "jabbusiness"
 product_type: "Downloads"
-price: 12.21
+price: 12.22
 currency: "USD"
 affiliate_commission_pct: 40
 earnings_per_sale: 4.89
@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Social Media","Marketing Services"]
 listed_since: "2025-11-26"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://www.checkout-ds24.com/product/651267?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/651267"
@@ -22,14 +22,14 @@ language: "en"
 # 100 Million+ Digital Products -MRR
 
 > Product ID `54816` · Digistore24 productId `651267` · [HTML profile page](../../reviews/100-million-digital-products-mrr-54816.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Downloads |
-| Price | $12.21 (Single payment) |
+| Price | $12.22 (Single payment) |
 | Affiliate commission | 40% |
 | Earnings/sale* | $4.89 |
 | Cart conversion* | — |
@@ -75,14 +75,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Downloads, vendor: jabbusiness, listed since 2025-11-26
-- How much? — 12.209652 USD
+- How much? — 12.217296 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 100 Million+ Digital Products -MRR alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/651267
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/651267/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=100%20Million%2B%20Digital%20Products%20-MRR
 
 ## 4. Editorial notes

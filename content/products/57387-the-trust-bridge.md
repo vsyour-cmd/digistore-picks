@@ -10,19 +10,19 @@ affiliate_commission_pct: 50
 earnings_per_sale: 12.5
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Family & Children"]
+categories: ["Family & Children","Education"]
 listed_since: "2026-07-03"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
-promo_link: "https://www.digistore24.com/redir/57387/adminstore/"
+promo_link: "https://oraclefx.org/The-Trust-Bridge/Sales-page.html?aff=adminstore#aff=adminstore"
 sales_page: "https://oraclefx.org/The-Trust-Bridge/Sales-page.html"
 language: "en"
 ---
 # The Trust Bridge
 
 > Product ID `57387` · Digistore24 productId `708126` · [HTML profile page](../../reviews/the-trust-bridge-57387.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | oraclefx |
 | Listed since | 2026-07-03 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Family & Children |
+| Categories | Family & Children, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57387/adminstore/
+- **Promo link (affiliate):** https://oraclefx.org/The-Trust-Bridge/Sales-page.html?aff=adminstore#aff=adminstore
 - Sales page: https://oraclefx.org/The-Trust-Bridge/Sales-page.html
 - Vendor affiliate support: https://oraclefx.org/The-Trust-Bridge/affiliates.html
 - Canonical redirect: https://www.digistore24.com/redir/708126/adminstore
@@ -92,7 +92,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: The Trust Bridge alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/708126
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/708126/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=The%20Trust%20Bridge
 
 ## 4. Editorial notes

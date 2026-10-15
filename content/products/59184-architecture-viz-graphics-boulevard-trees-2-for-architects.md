@@ -10,10 +10,10 @@ affiliate_commission_pct: 25
 earnings_per_sale: 39.75
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Home & Garden","Photography & Film","Profession & Job"]
+categories: ["Home & Garden","Profession & Job","Photography & Film"]
 listed_since: "2026-09-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/?aff=adminstore#aff=adminstore"
 sales_page: "https://www.tonytextures.com/boulevard-trees-v02-cutout-tree-graphics/"
@@ -22,7 +22,7 @@ language: "en"
 # Architecture VIZ Graphics – Boulevard Trees 2 for Architects
 
 > Product ID `59184` · Digistore24 productId `593591` · [HTML profile page](../../reviews/architecture-viz-graphics-boulevard-trees-2-for-architects-59184.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -37,7 +37,7 @@ language: "en"
 | Vendor | Tonytextures |
 | Listed since | 2026-09-13 |
 | Auto-accept affiliates | no (approval required) |
-| Categories | Home & Garden, Photography & Film, Profession & Job |
+| Categories | Home & Garden, Profession & Job, Photography & Film |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -95,7 +95,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Architecture VIZ Graphics – Boulevard Trees 2 for Architects alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/593591
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/593591/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Architecture%20VIZ%20Graphics%20%E2%80%93%20Boulevard%20Trees%202%20for%20Architects
 
 ## 4. Editorial notes

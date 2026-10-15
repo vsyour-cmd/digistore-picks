@@ -4,16 +4,16 @@ digistore24_product_id: 669662
 title: "Promote MemoryFuel Now!"
 vendor: "zenmavibe"
 product_type: "Supplements - health"
-price: 147.87
+price: 147.96
 currency: "USD"
 affiliate_commission_pct: 70
-earnings_per_sale: 73.24
+earnings_per_sale: 73.28
 cart_conversion_pct: 7
 cancel_rate_pct: 39.96
 categories: ["Food Supplements"]
 listed_since: "2026-02-18"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://thememoryfuel.com/ds/go/indexvs.php?aff=adminstore#aff=adminstore"
 sales_page: "https://thememoryfuel.com/ds/go/indexvs.php"
@@ -22,16 +22,16 @@ language: "en"
 # Promote MemoryFuel Now!
 
 > Product ID `55658` · Digistore24 productId `669662` · [HTML profile page](../../reviews/promote-memoryfuel-now-55658.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $147.87 (Single payment) |
+| Price | $147.96 (Single payment) |
 | Affiliate commission | 70% |
-| Earnings/sale* | $73.24 |
+| Earnings/sale* | $73.28 |
 | Cart conversion* | 7% |
 | Cancel rate* | 39.96% |
 | Vendor | zenmavibe |
@@ -96,14 +96,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: zenmavibe, listed since 2026-02-18
-- How much? — 147.868725 USD
+- How much? — 147.9613 USD
 - Guarantee? — 90
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Promote MemoryFuel Now! alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/669662
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/669662/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Promote%20MemoryFuel%20Now!
 
 ## 4. Editorial notes

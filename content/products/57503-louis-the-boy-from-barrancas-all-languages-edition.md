@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Personal Development"]
 listed_since: "2026-07-13"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "thin"
-promo_link: "https://www.digistore24.com/redir/57503/adminstore/"
+promo_link: "https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore"
 sales_page: "https://theboyfrombarrancas.com/digistore24"
 language: "en"
 ---
 # Louis: the boy from barrancas - All languages edition
 
 > Product ID `57503` · Digistore24 productId `702447` · [HTML profile page](../../reviews/louis-the-boy-from-barrancas-all-languages-edition-57503.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **thin**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/57503/adminstore/
+- **Promo link (affiliate):** https://theboyfrombarrancas.com/digistore24?aff=adminstore#aff=adminstore
 - Sales page: https://theboyfrombarrancas.com/digistore24
 - Vendor affiliate support: https://barrancas-story-hub.lovable.app/
 - Canonical redirect: https://www.digistore24.com/redir/702447/adminstore
@@ -77,7 +77,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Louis: the boy from barrancas - All languages edition alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/702447
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/702447/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Louis%3A%20the%20boy%20from%20barrancas%20-%20All%20languages%20edition
 
 ## 4. Editorial notes

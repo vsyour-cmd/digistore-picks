@@ -12,17 +12,17 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Computer & Internet","Education","Marketing Services"]
 listed_since: "2026-09-07"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/59009/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/727211?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/727211"
 language: "en"
 ---
 # Quick and Smart Canva Essentials - Illustrated PDF Guide
 
 > Product ID `59009` · Digistore24 productId `727211` · [HTML profile page](../../reviews/quick-and-smart-canva-essentials-illustrated-pdf-guide-59009.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/59009/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/727211?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/727211
 - Canonical redirect: https://www.digistore24.com/redir/727211/adminstore
 
@@ -85,7 +85,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Quick and Smart Canva Essentials - Illustrated PDF Guide alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/727211
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/727211/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Quick%20and%20Smart%20Canva%20Essentials%20-%20Illustrated%20PDF%20Guide
 
 ## 4. Editorial notes

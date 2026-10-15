@@ -4,16 +4,16 @@ digistore24_product_id: 635718
 title: "Focus Without Burnout"
 vendor: "GhulamBooks"
 product_type: "E-books"
-price: 20.11
+price: 20.13
 currency: "USD"
 affiliate_commission_pct: 80
-earnings_per_sale: 16.09
+earnings_per_sale: 16.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
-categories: ["Education","Personal Development","Profession & Job"]
+categories: ["Personal Development","Profession & Job","Education"]
 listed_since: "2025-09-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/635718?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/635718"
@@ -22,22 +22,22 @@ language: "en"
 # Focus Without Burnout
 
 > Product ID `54012` · Digistore24 productId `635718` · [HTML profile page](../../reviews/focus-without-burnout-54012.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $20.11 (Single payment) |
+| Price | $20.13 (Single payment) |
 | Affiliate commission | 80% |
-| Earnings/sale* | $16.09 |
+| Earnings/sale* | $16.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | GhulamBooks |
 | Listed since | 2025-09-15 |
 | Auto-accept affiliates | yes |
-| Categories | Education, Personal Development, Profession & Job |
+| Categories | Personal Development, Profession & Job, Education |
 
 *Vendor-side marketplace statistics; depend on traffic quality, not a forecast.
 
@@ -87,14 +87,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: GhulamBooks, listed since 2025-09-15
-- How much? — 20.114619 USD
+- How much? — 20.127212 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Focus Without Burnout alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/635718
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/635718/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Focus%20Without%20Burnout
 
 ## 4. Editorial notes

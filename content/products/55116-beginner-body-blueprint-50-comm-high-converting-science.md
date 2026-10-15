@@ -4,16 +4,16 @@ digistore24_product_id: 655678
 title: "Beginner Body Blueprint | 50% Comm | High-Converting Science"
 vendor: "DIGJITL"
 product_type: "E-books"
-price: 30.19
+price: 30.21
 currency: "USD"
 affiliate_commission_pct: 50
-earnings_per_sale: 15.09
+earnings_per_sale: 15.1
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Health & Fitness","Personal Development"]
 listed_since: "2025-12-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "medium"
 promo_link: "https://fitstartformula.com/?aff=adminstore#aff=adminstore"
 sales_page: "https://fitstartformula.com/"
@@ -22,16 +22,16 @@ language: "en"
 # Beginner Body Blueprint | 50% Comm | High-Converting Science
 
 > Product ID `55116` · Digistore24 productId `655678` · [HTML profile page](../../reviews/beginner-body-blueprint-50-comm-high-converting-science-55116.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **medium**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $30.19 (Single payment) |
+| Price | $30.21 (Single payment) |
 | Affiliate commission | 50% |
-| Earnings/sale* | $15.09 |
+| Earnings/sale* | $15.10 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | DIGJITL |
@@ -83,14 +83,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: DIGJITL, listed since 2025-12-15
-- How much? — 30.188700000000004 USD
+- How much? — 30.2076 USD
 - Guarantee? — not found in our research, verify on the official page
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Beginner Body Blueprint | 50% Comm | High-Converting Science alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/655678
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/655678/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Beginner%20Body%20Blueprint%20%7C%2050%25%20Comm%20%7C%20High-Converting%20Science
 
 ## 4. Editorial notes

@@ -4,7 +4,7 @@ digistore24_product_id: 628615
 title: "AI Side Hustles 2025 – Step-by-Step Guide to Earning with AI"
 vendor: "roketkazanc"
 product_type: "E-books"
-price: 11.17
+price: 11.18
 currency: "USD"
 affiliate_commission_pct: 50
 earnings_per_sale: 5.59
@@ -12,24 +12,24 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Education"]
 listed_since: "2025-08-08"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.checkout-ds24.com/redir/53585/adminstore/"
+promo_link: "https://www.checkout-ds24.com/product/628615?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/628615"
 language: "en"
 ---
 # AI Side Hustles 2025 – Step-by-Step Guide to Earning with AI
 
 > Product ID `53585` · Digistore24 productId `628615` · [HTML profile page](../../reviews/ai-side-hustles-2025-step-by-step-guide-to-earning-with-ai-53585.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | E-books |
-| Price | $11.17 (Single payment) |
+| Price | $11.18 (Single payment) |
 | Affiliate commission | 50% |
 | Earnings/sale* | $5.59 |
 | Cart conversion* | — |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.checkout-ds24.com/redir/53585/adminstore/
+- **Promo link (affiliate):** https://www.checkout-ds24.com/product/628615?aff=adminstore
 - Sales page: https://www.checkout-ds24.com/product/628615
 - Vendor affiliate support: http://ai-affiliatepage.netlify.app
 - Canonical redirect: https://www.digistore24.com/redir/628615/adminstore
@@ -76,14 +76,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: E-books, vendor: roketkazanc, listed since 2025-08-08
-- How much? — 11.169819 USD
+- How much? — 11.176812 USD
 - Guarantee? — 60
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: AI Side Hustles 2025 – Step-by-Step Guide to Earning with AI alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/628615
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/628615/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=AI%20Side%20Hustles%202025%20%E2%80%93%20Step-by-Step%20Guide%20to%20Earning%20with%20AI
 
 ## 4. Editorial notes

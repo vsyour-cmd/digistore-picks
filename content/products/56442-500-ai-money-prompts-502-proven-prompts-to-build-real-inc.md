@@ -12,8 +12,8 @@ cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Business & Investment","Computer & Internet","Online Marketing & E-Business"]
 listed_since: "2026-05-01"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
 promo_link: "https://www.checkout-ds24.com/product/689417?aff=adminstore"
 sales_page: "https://www.checkout-ds24.com/product/689417"
@@ -22,7 +22,7 @@ language: "en"
 # 500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc
 
 > Product ID `56442` · Digistore24 productId `689417` · [HTML profile page](../../reviews/500-ai-money-prompts-502-proven-prompts-to-build-real-inc-56442.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
@@ -94,7 +94,7 @@ language: "en"
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: 500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/689417
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/689417/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=500%2B%20AI%20Money%20Prompts%20%7C%20502%20Proven%20Prompts%20to%20Build%20Real%20Inc
 
 ## 4. Editorial notes

@@ -4,34 +4,34 @@ digistore24_product_id: 590554
 title: "Perform like a STUD"
 vendor: "ClubhouseStud"
 product_type: "Supplements - health"
-price: 164.36
+price: 164.46
 currency: "USD"
 affiliate_commission_pct: 40
-earnings_per_sale: 65.74
+earnings_per_sale: 65.79
 cart_conversion_pct: 0
 cancel_rate_pct: 0
 categories: ["Food Supplements"]
 listed_since: "2025-01-15"
-marketplace_data_date: "2026-10-13"
-research_date: "2026-10-13"
+marketplace_data_date: "2026-10-14"
+research_date: "2026-10-14"
 research_quality: "rich"
-promo_link: "https://www.digistore24.com/redir/51183/adminstore/"
+promo_link: "https://studperformance.com/d/?aff=adminstore#aff=adminstore"
 sales_page: "https://studperformance.com/d/"
 language: "en"
 ---
 # Perform like a STUD
 
 > Product ID `51183` · Digistore24 productId `590554` · [HTML profile page](../../reviews/perform-like-a-stud-51183.html)
-> Marketplace data: 2026-10-13 · Sales-page research: 2026-10-13 · Research quality: **rich**
+> Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)
 
 | Field | Value |
 |---|---|
 | Product type | Supplements - health |
-| Price | $164.36 (Single payment) |
+| Price | $164.46 (Single payment) |
 | Affiliate commission | 40% |
-| Earnings/sale* | $65.74 |
+| Earnings/sale* | $65.79 |
 | Cart conversion* | — |
 | Cancel rate* | — |
 | Vendor | ClubhouseStud |
@@ -45,7 +45,7 @@ language: "en"
 
 ## 2. Links
 
-- **Promo link (affiliate):** https://www.digistore24.com/redir/51183/adminstore/
+- **Promo link (affiliate):** https://studperformance.com/d/?aff=adminstore#aff=adminstore
 - Sales page: https://studperformance.com/d/
 - Vendor affiliate support: https://studperformance.com/d/affiliates/
 - Canonical redirect: https://www.digistore24.com/redir/590554/adminstore
@@ -95,14 +95,14 @@ language: "en"
 ### 3f. FAQ (answers from official marketplace data / vendor claims)
 
 - What is it? — Type: Supplements - health, vendor: ClubhouseStud, listed since 2025-01-15
-- How much? — 164.3607 USD
+- How much? — 164.4636 USD
 - Guarantee? — 180
 - Alternatives? — see the comparison table on the profile / alternatives page
 
 ### 3e. Related links & interaction
 
 - Related searches on the profile page: Perform like a STUD alternatives · price & data · review & research
-- Public Digistore24 product page: https://www.digistore24.com/product/590554
+- Public Digistore24 product page: https://www.checkout-ds24.com/product/590554/
 - Discussion / own experience: https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=Perform%20like%20a%20STUD
 
 ## 4. Editorial notes
