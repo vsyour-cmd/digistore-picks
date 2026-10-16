@@ -144,4 +144,5 @@ node build/ping-indexnow.js       # 德语目录名版(kategorie/empfehlungen/al
 - 问题库: research-notes/reddit-questions-{en|de-market}.md(每产品20问:认知/对比/决策×身份×场景)
 - 每日任务第9步: dayOfYear % 14 取今日条目 → 结合近期数据变化起草 标题/内容/sub链接/关联产品
 - 发帖三规则: 读sub规则(常见9:1) → 如实披露affiliate身份 → 价值优先不发广告帖
+- 链接策略(2026-10-15): 帖子正文零链接(实测发链接即被筛/封);价值自包含;漏斗=个人简介;链接只在被直接问到的评论区且版规允许
 - 红线: 不冒充用户发假问题;AI模拟内容如实标注

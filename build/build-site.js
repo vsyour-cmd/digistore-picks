@@ -732,7 +732,8 @@ ${alts.map(row).join("\n")}
 <li><b>Lowest price:</b> ${esc([p, ...alts].sort((a, b) => (a.price || 1e9) - (b.price || 1e9))[0].label)} (${money(Math.min(...[p, ...alts].map((x) => x.price || 1e9)), p.currency)}).</li>
 </ul>
 <p>Every product links to a full profile with verbatim sales-page research. Always confirm price and guarantee on the official page before buying.</p>
-<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. Evidence &amp; verification conditions: all statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); comparisons are computed from that snapshot and re-computed on every daily rebuild.</p>`;
+<p class="sub">How we evaluate: <a href="../blog/digistore24-numbers-checklist.html">6-point numbers check</a> · <a href="../about.html">research standards</a>. Evidence &amp; verification conditions: all statistics from the official Digistore24 marketplace API (snapshot ${datemark(DATA.scrapedAt)}); comparisons are computed from that snapshot and re-computed on every daily rebuild.</p>
+<p><a href="index.html">← All alternatives &amp; comparisons</a> — browse the full comparison directory.</p>`;
     const jsonLd = [{
       "@context": "https://schema.org",
       "@type": "ItemList",
