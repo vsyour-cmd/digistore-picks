@@ -21,7 +21,7 @@ language: "en"
 ---
 # Execution Lock System – Offline Execution and Productivity
 
-> Product ID `55603` · Digistore24 productId `663908` · [HTML profile page](../../reviews/execution-lock-system-offline-execution-and-productivity-55603.html)
+> Product ID `55603` · Digistore24 productId `663908` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/execution-lock-system-offline-execution-and-productivity-55603.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

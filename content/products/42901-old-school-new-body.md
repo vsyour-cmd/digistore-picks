@@ -21,7 +21,7 @@ language: "en"
 ---
 # Old School New Body
 
-> Product ID `42901` · Digistore24 productId `460804` · [HTML profile page](../../reviews/old-school-new-body-42901.html)
+> Product ID `42901` · Digistore24 productId `460804` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/old-school-new-body-42901.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

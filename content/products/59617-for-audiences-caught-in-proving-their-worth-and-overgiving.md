@@ -21,7 +21,7 @@ language: "en"
 ---
 # For audiences caught in proving their worth and overgiving
 
-> Product ID `59617` · Digistore24 productId `735128` · [HTML profile page](../../reviews/for-audiences-caught-in-proving-their-worth-and-overgiving-59617.html)
+> Product ID `59617` · Digistore24 productId `735128` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/for-audiences-caught-in-proving-their-worth-and-overgiving-59617.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

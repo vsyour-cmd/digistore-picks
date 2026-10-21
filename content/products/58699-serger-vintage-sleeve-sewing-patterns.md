@@ -21,7 +21,7 @@ language: "en"
 ---
 # Serger| Vintage Sleeve Sewing Patterns
 
-> Product ID `58699` · Digistore24 productId `726662` · [HTML profile page](../../reviews/serger-vintage-sleeve-sewing-patterns-58699.html)
+> Product ID `58699` · Digistore24 productId `726662` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/serger-vintage-sleeve-sewing-patterns-58699.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

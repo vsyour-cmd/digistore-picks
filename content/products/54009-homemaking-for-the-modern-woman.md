@@ -21,7 +21,7 @@ language: "en"
 ---
 # Homemaking for the Modern Woman
 
-> Product ID `54009` · Digistore24 productId `635721` · [HTML profile page](../../reviews/homemaking-for-the-modern-woman-54009.html)
+> Product ID `54009` · Digistore24 productId `635721` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/homemaking-for-the-modern-woman-54009.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

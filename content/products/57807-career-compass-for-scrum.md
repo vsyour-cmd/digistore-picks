@@ -21,7 +21,7 @@ language: "en"
 ---
 # Career Compass for Scrum
 
-> Product ID `57807` · Digistore24 productId `601268` · [HTML profile page](../../reviews/career-compass-for-scrum-57807.html)
+> Product ID `57807` · Digistore24 productId `601268` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/career-compass-for-scrum-57807.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

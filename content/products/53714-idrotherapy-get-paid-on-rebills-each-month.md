@@ -21,7 +21,7 @@ language: "en"
 ---
 # Idrotherapy *GET PAID ON REBILLS EACH MONTH*
 
-> Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](../../reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)
+> Product ID `53714` · Digistore24 productId `629810` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/idrotherapy-get-paid-on-rebills-each-month-53714.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

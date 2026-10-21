@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Comfort Attachment Guide
 
-> Product ID `57386` · Digistore24 productId `708124` · [HTML profile page](../../reviews/the-comfort-attachment-guide-57386.html)
+> Product ID `57386` · Digistore24 productId `708124` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-comfort-attachment-guide-57386.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # No Grid Survival Projects – BRAND NEW!
 
-> Product ID `41823` · Digistore24 productId `471054` · [HTML profile page](../../reviews/no-grid-survival-projects-brand-new-41823.html)
+> Product ID `41823` · Digistore24 productId `471054` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/no-grid-survival-projects-brand-new-41823.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

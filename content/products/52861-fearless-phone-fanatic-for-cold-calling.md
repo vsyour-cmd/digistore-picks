@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fearless Phone Fanatic (For Cold Calling)
 
-> Product ID `52861` · Digistore24 productId `615548` · [HTML profile page](../../reviews/fearless-phone-fanatic-for-cold-calling-52861.html)
+> Product ID `52861` · Digistore24 productId `615548` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fearless-phone-fanatic-for-cold-calling-52861.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

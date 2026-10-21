@@ -21,7 +21,7 @@ language: "en"
 ---
 # Gardening kit for medicinal plants
 
-> Product ID `57721` · Digistore24 productId `714974` · [HTML profile page](../../reviews/gardening-kit-for-medicinal-plants-57721.html)
+> Product ID `57721` · Digistore24 productId `714974` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/gardening-kit-for-medicinal-plants-57721.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

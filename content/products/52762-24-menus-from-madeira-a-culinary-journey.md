@@ -21,7 +21,7 @@ language: "en"
 ---
 # 24 Menus from Madeira - A Culinary Journey
 
-> Product ID `52762` · Digistore24 productId `616627` · [HTML profile page](../../reviews/24-menus-from-madeira-a-culinary-journey-52762.html)
+> Product ID `52762` · Digistore24 productId `616627` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/24-menus-from-madeira-a-culinary-journey-52762.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

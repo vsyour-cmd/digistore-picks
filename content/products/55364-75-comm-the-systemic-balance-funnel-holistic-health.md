@@ -21,7 +21,7 @@ language: "en"
 ---
 # 75% Comm | The "Systemic Balance" Funnel | Holistic Health |
 
-> Product ID `55364` · Digistore24 productId `661305` · [HTML profile page](../../reviews/75-comm-the-systemic-balance-funnel-holistic-health-55364.html)
+> Product ID `55364` · Digistore24 productId `661305` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/75-comm-the-systemic-balance-funnel-holistic-health-55364.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

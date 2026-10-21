@@ -21,7 +21,7 @@ language: "en"
 ---
 # Stop Procrastinating Now – 100 Powerful Tips
 
-> Product ID `51683` · Digistore24 productId `600748` · [HTML profile page](../../reviews/stop-procrastinating-now-100-powerful-tips-51683.html)
+> Product ID `51683` · Digistore24 productId `600748` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/stop-procrastinating-now-100-powerful-tips-51683.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

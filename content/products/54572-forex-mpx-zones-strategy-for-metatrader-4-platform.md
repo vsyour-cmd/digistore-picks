@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forex MPX Zones Strategy For MetaTrader 4 Platform
 
-> Product ID `54572` · Digistore24 productId `646160` · [HTML profile page](../../reviews/forex-mpx-zones-strategy-for-metatrader-4-platform-54572.html)
+> Product ID `54572` · Digistore24 productId `646160` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forex-mpx-zones-strategy-for-metatrader-4-platform-54572.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

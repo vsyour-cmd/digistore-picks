@@ -21,7 +21,7 @@ language: "en"
 ---
 # MASTERCLASS MASTERY
 
-> Product ID `58212` · Digistore24 productId `497855` · [HTML profile page](../../reviews/masterclass-mastery-58212.html)
+> Product ID `58212` · Digistore24 productId `497855` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/masterclass-mastery-58212.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Course to Results
 
-> Product ID `59409` · Digistore24 productId `735171` · [HTML profile page](../../reviews/course-to-results-59409.html)
+> Product ID `59409` · Digistore24 productId `735171` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/course-to-results-59409.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

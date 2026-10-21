@@ -21,7 +21,7 @@ language: "en"
 ---
 # AlphaXtra Boost
 
-> Product ID `49050` · Digistore24 productId `565535` · [HTML profile page](../../reviews/alphaxtra-boost-49050.html)
+> Product ID `49050` · Digistore24 productId `565535` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/alphaxtra-boost-49050.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

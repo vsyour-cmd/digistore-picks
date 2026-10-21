@@ -21,7 +21,7 @@ language: "en"
 ---
 # Silent Subliminals – Intelligence
 
-> Product ID `55055` · Digistore24 productId `658078` · [HTML profile page](../../reviews/silent-subliminals-intelligence-55055.html)
+> Product ID `55055` · Digistore24 productId `658078` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/silent-subliminals-intelligence-55055.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Quantum Heart
 
-> Product ID `60241` · Digistore24 productId `740076` · [HTML profile page](../../reviews/quantum-heart-60241.html)
+> Product ID `60241` · Digistore24 productId `740076` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/quantum-heart-60241.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

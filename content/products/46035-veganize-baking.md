@@ -21,7 +21,7 @@ language: "en"
 ---
 # Veganize Baking
 
-> Product ID `46035` · Digistore24 productId `525847` · [HTML profile page](../../reviews/veganize-baking-46035.html)
+> Product ID `46035` · Digistore24 productId `525847` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/veganize-baking-46035.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

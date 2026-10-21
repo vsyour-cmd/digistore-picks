@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Complete Food Clarity System
 
-> Product ID `52362` · Digistore24 productId `611284` · [HTML profile page](../../reviews/the-complete-food-clarity-system-52362.html)
+> Product ID `52362` · Digistore24 productId `611284` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-complete-food-clarity-system-52362.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

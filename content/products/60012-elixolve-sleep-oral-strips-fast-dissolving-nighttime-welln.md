@@ -21,7 +21,7 @@ language: "en"
 ---
 # Elixolve Sleep Oral Strips – Fast-Dissolving Nighttime Welln
 
-> Product ID `60012` · Digistore24 productId `719349` · [HTML profile page](../../reviews/elixolve-sleep-oral-strips-fast-dissolving-nighttime-welln-60012.html)
+> Product ID `60012` · Digistore24 productId `719349` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/elixolve-sleep-oral-strips-fast-dissolving-nighttime-welln-60012.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

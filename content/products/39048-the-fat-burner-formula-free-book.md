@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Fat Burner Formula Free Book
 
-> Product ID `39048` · Digistore24 productId `428288` · [HTML profile page](../../reviews/the-fat-burner-formula-free-book-39048.html)
+> Product ID `39048` · Digistore24 productId `428288` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-fat-burner-formula-free-book-39048.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

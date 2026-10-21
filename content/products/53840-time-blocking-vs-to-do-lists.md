@@ -21,7 +21,7 @@ language: "en"
 ---
 # Time Blocking vs. To-Do Lists
 
-> Product ID `53840` · Digistore24 productId `633819` · [HTML profile page](../../reviews/time-blocking-vs-to-do-lists-53840.html)
+> Product ID `53840` · Digistore24 productId `633819` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/time-blocking-vs-to-do-lists-53840.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

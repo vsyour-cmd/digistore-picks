@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Hardness Code
 
-> Product ID `56332` · Digistore24 productId `679799` · [HTML profile page](../../reviews/the-hardness-code-56332.html)
+> Product ID `56332` · Digistore24 productId `679799` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-hardness-code-56332.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

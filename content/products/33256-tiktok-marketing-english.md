@@ -21,7 +21,7 @@ language: "en"
 ---
 # TikTok Marketing (english)
 
-> Product ID `33256` · Digistore24 productId `332846` · [HTML profile page](../../reviews/tiktok-marketing-english-33256.html)
+> Product ID `33256` · Digistore24 productId `332846` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tiktok-marketing-english-33256.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

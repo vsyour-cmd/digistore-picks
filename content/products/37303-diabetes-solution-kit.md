@@ -21,7 +21,7 @@ language: "en"
 ---
 # DIABETES SOLUTION KIT
 
-> Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](../../reviews/diabetes-solution-kit-37303.html)
+> Product ID `37303` · Digistore24 productId `386253` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/diabetes-solution-kit-37303.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

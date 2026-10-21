@@ -21,7 +21,7 @@ language: "en"
 ---
 # Personal Astro Travel Reading — $65 PDF Dossier, 10% Commiss
 
-> Product ID `57794` · Digistore24 productId `708855` · [HTML profile page](../../reviews/personal-astro-travel-reading-65-pdf-dossier-10-commiss-57794.html)
+> Product ID `57794` · Digistore24 productId `708855` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/personal-astro-travel-reading-65-pdf-dossier-10-commiss-57794.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

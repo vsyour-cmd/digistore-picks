@@ -21,7 +21,7 @@ language: "en"
 ---
 # 50% Commission – Pet Owners PAY for This 24h Dog Food Label
 
-> Product ID `55588` · Digistore24 productId `667057` · [HTML profile page](../../reviews/50-commission-pet-owners-pay-for-this-24h-dog-food-label-55588.html)
+> Product ID `55588` · Digistore24 productId `667057` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/50-commission-pet-owners-pay-for-this-24h-dog-food-label-55588.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

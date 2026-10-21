@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Render Backdrops 2D 3D Designs
 
-> Product ID `59190` · Digistore24 productId `593602` · [HTML profile page](../../reviews/architecture-viz-graphics-render-backdrops-2d-3d-designs-59190.html)
+> Product ID `59190` · Digistore24 productId `593602` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-render-backdrops-2d-3d-designs-59190.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

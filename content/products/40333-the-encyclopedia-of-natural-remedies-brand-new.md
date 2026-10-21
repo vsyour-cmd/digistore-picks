@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Encyclopedia of Natural Remedies- Brand New 
 
-> Product ID `40333` · Digistore24 productId `446313` · [HTML profile page](../../reviews/the-encyclopedia-of-natural-remedies-brand-new-40333.html)
+> Product ID `40333` · Digistore24 productId `446313` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-encyclopedia-of-natural-remedies-brand-new-40333.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

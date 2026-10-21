@@ -21,7 +21,7 @@ language: "en"
 ---
 # LADY FORTUNA
 
-> Product ID `47512` · Digistore24 productId `541170` · [HTML profile page](../../reviews/lady-fortuna-47512.html)
+> Product ID `47512` · Digistore24 productId `541170` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lady-fortuna-47512.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

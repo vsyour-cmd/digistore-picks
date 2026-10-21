@@ -21,7 +21,7 @@ language: "en"
 ---
 # Holistic Health Habits
 
-> Product ID `53978` · Digistore24 productId `635591` · [HTML profile page](../../reviews/holistic-health-habits-53978.html)
+> Product ID `53978` · Digistore24 productId `635591` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/holistic-health-habits-53978.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

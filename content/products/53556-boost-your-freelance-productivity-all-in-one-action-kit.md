@@ -21,7 +21,7 @@ language: "en"
 ---
 # Boost Your Freelance Productivity – All-in-One Action Kit
 
-> Product ID `53556` · Digistore24 productId `630882` · [HTML profile page](../../reviews/boost-your-freelance-productivity-all-in-one-action-kit-53556.html)
+> Product ID `53556` · Digistore24 productId `630882` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/boost-your-freelance-productivity-all-in-one-action-kit-53556.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

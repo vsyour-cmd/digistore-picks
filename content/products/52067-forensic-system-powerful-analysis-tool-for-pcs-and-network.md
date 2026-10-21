@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forensic System – Powerful Analysis Tool for PCs and Network
 
-> Product ID `52067` · Digistore24 productId `518672` · [HTML profile page](../../reviews/forensic-system-powerful-analysis-tool-for-pcs-and-network-52067.html)
+> Product ID `52067` · Digistore24 productId `518672` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forensic-system-powerful-analysis-tool-for-pcs-and-network-52067.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

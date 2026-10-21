@@ -21,7 +21,7 @@ language: "en"
 ---
 # this is a test
 
-> Product ID `56803` · Digistore24 productId `698248` · [HTML profile page](../../reviews/this-is-a-test-56803.html)
+> Product ID `56803` · Digistore24 productId `698248` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/this-is-a-test-56803.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Childhood Wellness
 
-> Product ID `57417` · Digistore24 productId `708473` · [HTML profile page](../../reviews/childhood-wellness-57417.html)
+> Product ID `57417` · Digistore24 productId `708473` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/childhood-wellness-57417.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

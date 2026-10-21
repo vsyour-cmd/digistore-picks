@@ -21,7 +21,7 @@ language: "en"
 ---
 # NanoDefense Pro
 
-> Product ID `47421` · Digistore24 productId `541800` · [HTML profile page](../../reviews/nanodefense-pro-47421.html)
+> Product ID `47421` · Digistore24 productId `541800` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/nanodefense-pro-47421.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

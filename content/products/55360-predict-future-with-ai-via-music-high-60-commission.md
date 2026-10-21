@@ -21,7 +21,7 @@ language: "en"
 ---
 # Predict Future with AI via Music | High 60% Commission
 
-> Product ID `55360` · Digistore24 productId `661564` · [HTML profile page](../../reviews/predict-future-with-ai-via-music-high-60-commission-55360.html)
+> Product ID `55360` · Digistore24 productId `661564` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/predict-future-with-ai-via-music-high-60-commission-55360.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

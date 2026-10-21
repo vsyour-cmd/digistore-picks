@@ -21,7 +21,7 @@ language: "en"
 ---
 # Simple Mindfulness Techniques to Reduce Stress
 
-> Product ID `55097` · Digistore24 productId `656081` · [HTML profile page](../../reviews/simple-mindfulness-techniques-to-reduce-stress-55097.html)
+> Product ID `55097` · Digistore24 productId `656081` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/simple-mindfulness-techniques-to-reduce-stress-55097.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

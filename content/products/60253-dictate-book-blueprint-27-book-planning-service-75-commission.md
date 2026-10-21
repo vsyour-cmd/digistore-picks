@@ -21,7 +21,7 @@ language: "en"
 ---
 # Dictate Book Blueprint — $27 Book-Planning Service | 75% Commission
 
-> Product ID `60253` · Digistore24 productId `736154` · [HTML profile page](../../reviews/dictate-book-blueprint-27-book-planning-service-75-commission-60253.html)
+> Product ID `60253` · Digistore24 productId `736154` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dictate-book-blueprint-27-book-planning-service-75-commission-60253.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

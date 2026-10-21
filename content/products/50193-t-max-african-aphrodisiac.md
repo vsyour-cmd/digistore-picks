@@ -21,7 +21,7 @@ language: "en"
 ---
 # T-Max - African Aphrodisiac
 
-> Product ID `50193` · Digistore24 productId `577057` · [HTML profile page](../../reviews/t-max-african-aphrodisiac-50193.html)
+> Product ID `50193` · Digistore24 productId `577057` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/t-max-african-aphrodisiac-50193.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

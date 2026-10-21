@@ -21,7 +21,7 @@ language: "en"
 ---
 # Dealing With Drugs
 
-> Product ID `57419` · Digistore24 productId `708475` · [HTML profile page](../../reviews/dealing-with-drugs-57419.html)
+> Product ID `57419` · Digistore24 productId `708475` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dealing-with-drugs-57419.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

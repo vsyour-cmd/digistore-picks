@@ -21,7 +21,7 @@ language: "en"
 ---
 # Eat Big, Stay Lean
 
-> Product ID `58307` · Digistore24 productId `720590` · [HTML profile page](../../reviews/eat-big-stay-lean-58307.html)
+> Product ID `58307` · Digistore24 productId `720590` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/eat-big-stay-lean-58307.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Games and Puzzles for Creatives - Activity eBook
 
-> Product ID `57588` · Digistore24 productId `712937` · [HTML profile page](../../reviews/games-and-puzzles-for-creatives-activity-ebook-57588.html)
+> Product ID `57588` · Digistore24 productId `712937` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/games-and-puzzles-for-creatives-activity-ebook-57588.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

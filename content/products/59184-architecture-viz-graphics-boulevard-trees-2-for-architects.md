@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Boulevard Trees 2 for Architects
 
-> Product ID `59184` · Digistore24 productId `593591` · [HTML profile page](../../reviews/architecture-viz-graphics-boulevard-trees-2-for-architects-59184.html)
+> Product ID `59184` · Digistore24 productId `593591` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-boulevard-trees-2-for-architects-59184.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Empaths explained
 
-> Product ID `60178` · Digistore24 productId `741758` · [HTML profile page](../../reviews/empaths-explained-60178.html)
+> Product ID `60178` · Digistore24 productId `741758` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/empaths-explained-60178.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

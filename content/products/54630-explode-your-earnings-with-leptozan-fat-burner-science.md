@@ -21,7 +21,7 @@ language: "en"
 ---
 # Explode Your Earnings with Leptozan • Fat Burner Science
 
-> Product ID `54630` · Digistore24 productId `644659` · [HTML profile page](../../reviews/explode-your-earnings-with-leptozan-fat-burner-science-54630.html)
+> Product ID `54630` · Digistore24 productId `644659` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/explode-your-earnings-with-leptozan-fat-burner-science-54630.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – MEGA BUNDLE for $395, 17+ GB
 
-> Product ID `59162` · Digistore24 productId `593605` · [HTML profile page](../../reviews/architecture-viz-graphics-mega-bundle-for-395-17-gb-59162.html)
+> Product ID `59162` · Digistore24 productId `593605` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-mega-bundle-for-395-17-gb-59162.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The 48-Hour Declutter: Transform Your Home into a Sanctuary
 
-> Product ID `55681` · Digistore24 productId `670467` · [HTML profile page](../../reviews/the-48-hour-declutter-transform-your-home-into-a-sanctuary-55681.html)
+> Product ID `55681` · Digistore24 productId `670467` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-48-hour-declutter-transform-your-home-into-a-sanctuary-55681.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

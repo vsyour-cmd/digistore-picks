@@ -21,7 +21,7 @@ language: "en"
 ---
 # Job Burnout – Your Way Out
 
-> Product ID `58143` · Digistore24 productId `718157` · [HTML profile page](../../reviews/job-burnout-your-way-out-58143.html)
+> Product ID `58143` · Digistore24 productId `718157` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/job-burnout-your-way-out-58143.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

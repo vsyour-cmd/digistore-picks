@@ -21,7 +21,7 @@ language: "en"
 ---
 # Faceless YouTube Automation
 
-> Product ID `56877` · Digistore24 productId `700751` · [HTML profile page](../../reviews/faceless-youtube-automation-56877.html)
+> Product ID `56877` · Digistore24 productId `700751` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/faceless-youtube-automation-56877.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

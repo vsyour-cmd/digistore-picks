@@ -21,7 +21,7 @@ language: "en"
 ---
 # 870 ChatGPT Prompts for Affiliate Marketing Success
 
-> Product ID `53034` · Digistore24 productId `619826` · [HTML profile page](../../reviews/870-chatgpt-prompts-for-affiliate-marketing-success-53034.html)
+> Product ID `53034` · Digistore24 productId `619826` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/870-chatgpt-prompts-for-affiliate-marketing-success-53034.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

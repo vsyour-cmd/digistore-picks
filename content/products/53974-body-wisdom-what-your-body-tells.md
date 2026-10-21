@@ -21,7 +21,7 @@ language: "en"
 ---
 # Body Wisdom_What Your Body Tells
 
-> Product ID `53974` · Digistore24 productId `635595` · [HTML profile page](../../reviews/body-wisdom-what-your-body-tells-53974.html)
+> Product ID `53974` · Digistore24 productId `635595` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/body-wisdom-what-your-body-tells-53974.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

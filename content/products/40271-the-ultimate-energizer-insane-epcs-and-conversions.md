@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Ultimate Energizer - Insane EPCs and Conversions !
 
-> Product ID `40271` · Digistore24 productId `446475` · [HTML profile page](../../reviews/the-ultimate-energizer-insane-epcs-and-conversions-40271.html)
+> Product ID `40271` · Digistore24 productId `446475` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ultimate-energizer-insane-epcs-and-conversions-40271.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

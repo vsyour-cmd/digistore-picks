@@ -21,7 +21,7 @@ language: "en"
 ---
 # No-Waste Kitchen Guide
 
-> Product ID `54173` · Digistore24 productId `637564` · [HTML profile page](../../reviews/no-waste-kitchen-guide-54173.html)
+> Product ID `54173` · Digistore24 productId `637564` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/no-waste-kitchen-guide-54173.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

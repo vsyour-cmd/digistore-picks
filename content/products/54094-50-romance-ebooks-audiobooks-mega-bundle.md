@@ -21,7 +21,7 @@ language: "en"
 ---
 # 50 Romance eBooks + Audiobooks Mega Bundle
 
-> Product ID `54094` · Digistore24 productId `630712` · [HTML profile page](../../reviews/50-romance-ebooks-audiobooks-mega-bundle-54094.html)
+> Product ID `54094` · Digistore24 productId `630712` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/50-romance-ebooks-audiobooks-mega-bundle-54094.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

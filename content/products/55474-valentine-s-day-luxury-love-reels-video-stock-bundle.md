@@ -21,7 +21,7 @@ language: "en"
 ---
 # Valentine's Day Luxury Love Reels Video Stock Bundle
 
-> Product ID `55474` · Digistore24 productId `666947` · [HTML profile page](../../reviews/valentine-s-day-luxury-love-reels-video-stock-bundle-55474.html)
+> Product ID `55474` · Digistore24 productId `666947` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/valentine-s-day-luxury-love-reels-video-stock-bundle-55474.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

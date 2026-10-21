@@ -21,7 +21,7 @@ language: "en"
 ---
 # 7X| Bundle Undiscovered Secrets of Coaching Business Success
 
-> Product ID `45915` · Digistore24 productId `523814` · [HTML profile page](../../reviews/7x-bundle-undiscovered-secrets-of-coaching-business-success-45915.html)
+> Product ID `45915` · Digistore24 productId `523814` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/7x-bundle-undiscovered-secrets-of-coaching-business-success-45915.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

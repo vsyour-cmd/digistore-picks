@@ -21,7 +21,7 @@ language: "en"
 ---
 # Emotional Resilience in the Age of AI
 
-> Product ID `57777` · Digistore24 productId `711839` · [HTML profile page](../../reviews/emotional-resilience-in-the-age-of-ai-57777.html)
+> Product ID `57777` · Digistore24 productId `711839` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/emotional-resilience-in-the-age-of-ai-57777.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

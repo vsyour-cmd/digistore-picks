@@ -21,7 +21,7 @@ language: "en"
 ---
 # Clearing Academy
 
-> Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](../../reviews/clearing-academy-51902.html)
+> Product ID `51902` · Digistore24 productId `580186` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/clearing-academy-51902.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

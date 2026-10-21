@@ -21,7 +21,7 @@ language: "en"
 ---
 # ClaimReady Home Loss Organizer – Windows Software
 
-> Product ID `56667` · Digistore24 productId `690896` · [HTML profile page](../../reviews/claimready-home-loss-organizer-windows-software-56667.html)
+> Product ID `56667` · Digistore24 productId `690896` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/claimready-home-loss-organizer-windows-software-56667.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

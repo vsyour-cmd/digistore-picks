@@ -1729,11 +1729,12 @@ ${vendorHub ? `<ul>${vendorHub}</ul>` : ""}
     const wc = wordCount(body);
     wcLog.push(wc);
     const crumb = [{ label: "Home", href: rel + "/index.html" }, ...(catObj ? [{ label: catObj.label, href: rel + "/category/" + catObj.file + ".html" }] : []), { label: p.label, href: "../" + p.slug + ".html" }, { label: "Buying guide", href: "guide.html" }];
+    const mdLinkHtml = `<p class="sub">Machine-readable research file: <a href="https://github.com/vsyour-cmd/digistore-picks/blob/main/content/products/${p.id}-${slug(p.label)}.md" rel="noopener">content/products/${p.id}-${slug(p.label)}.md (MD)</a></p>`;
     fs.mkdirSync(path.join(dir, p.slug), { recursive: true });
     fs.writeFileSync(path.join(dir, p.slug, "guide.html"), layout({
       title: `${p.label} buying guide: price, refund risk & fit`,
       desc: `Data-driven buying guide for ${p.label}: ${money(p.price, p.currency)}, cancel rate ${pct(p.cancelRate)}, guarantee "${r.guaranteeMention || "see sales page"}", who it fits. Updated ${datemark(DATA.scrapedAt)}.`,
-      body, rel, path: `reviews/${p.slug}/guide.html`,
+      body: body + mdLinkHtml, rel, path: `reviews/${p.slug}/guide.html`,
       jsonLd: [{
         "@context": "https://schema.org",
         "@type": "Article",

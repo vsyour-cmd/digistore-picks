@@ -21,7 +21,7 @@ language: "en"
 ---
 # Sales Page Ready Just Fill In and Publish
 
-> Product ID `54892` · Digistore24 productId `650825` · [HTML profile page](../../reviews/sales-page-ready-just-fill-in-and-publish-54892.html)
+> Product ID `54892` · Digistore24 productId `650825` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/sales-page-ready-just-fill-in-and-publish-54892.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

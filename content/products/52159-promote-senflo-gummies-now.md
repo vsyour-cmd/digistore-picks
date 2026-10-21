@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote  SenFlo Gummies Now!
 
-> Product ID `52159` · Digistore24 productId `605513` · [HTML profile page](../../reviews/promote-senflo-gummies-now-52159.html)
+> Product ID `52159` · Digistore24 productId `605513` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-senflo-gummies-now-52159.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

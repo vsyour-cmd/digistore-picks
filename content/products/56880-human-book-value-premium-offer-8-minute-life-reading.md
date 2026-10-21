@@ -21,7 +21,7 @@ language: "en"
 ---
 # Human Book Value™ | Premium Offer | 8-Minute Life Reading
 
-> Product ID `56880` · Digistore24 productId `693098` · [HTML profile page](../../reviews/human-book-value-premium-offer-8-minute-life-reading-56880.html)
+> Product ID `56880` · Digistore24 productId `693098` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/human-book-value-premium-offer-8-minute-life-reading-56880.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Nail Stamping Secrets: From Polka Dots to Chrome
 
-> Product ID `56558` · Digistore24 productId `691672` · [HTML profile page](../../reviews/nail-stamping-secrets-from-polka-dots-to-chrome-56558.html)
+> Product ID `56558` · Digistore24 productId `691672` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/nail-stamping-secrets-from-polka-dots-to-chrome-56558.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

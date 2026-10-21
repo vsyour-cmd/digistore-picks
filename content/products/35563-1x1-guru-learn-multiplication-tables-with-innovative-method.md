@@ -21,7 +21,7 @@ language: "en"
 ---
 # 1x1 Guru: Learn multiplication tables with innovative method
 
-> Product ID `35563` · Digistore24 productId `364765` · [HTML profile page](../../reviews/1x1-guru-learn-multiplication-tables-with-innovative-method-35563.html)
+> Product ID `35563` · Digistore24 productId `364765` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/1x1-guru-learn-multiplication-tables-with-innovative-method-35563.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

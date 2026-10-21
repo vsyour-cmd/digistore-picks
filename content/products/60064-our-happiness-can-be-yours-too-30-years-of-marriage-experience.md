@@ -21,7 +21,7 @@ language: "en"
 ---
 # Our Happiness Can Be Yours Too | 30 Years of Marriage Experience
 
-> Product ID `60064` · Digistore24 productId `732430` · [HTML profile page](../../reviews/our-happiness-can-be-yours-too-30-years-of-marriage-experience-60064.html)
+> Product ID `60064` · Digistore24 productId `732430` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/our-happiness-can-be-yours-too-30-years-of-marriage-experience-60064.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

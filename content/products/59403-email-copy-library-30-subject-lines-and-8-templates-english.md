@@ -21,7 +21,7 @@ language: "en"
 ---
 # Email Copy Library - 30 Subject Lines and 8 Templates (English)
 
-> Product ID `59403` · Digistore24 productId `735110` · [HTML profile page](../../reviews/email-copy-library-30-subject-lines-and-8-templates-english-59403.html)
+> Product ID `59403` · Digistore24 productId `735110` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/email-copy-library-30-subject-lines-and-8-templates-english-59403.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

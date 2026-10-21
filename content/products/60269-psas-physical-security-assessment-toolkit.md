@@ -21,7 +21,7 @@ language: "en"
 ---
 # PSAS – Physical Security Assessment Toolkit
 
-> Product ID `60269` · Digistore24 productId `735301` · [HTML profile page](../../reviews/psas-physical-security-assessment-toolkit-60269.html)
+> Product ID `60269` · Digistore24 productId `735301` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/psas-physical-security-assessment-toolkit-60269.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

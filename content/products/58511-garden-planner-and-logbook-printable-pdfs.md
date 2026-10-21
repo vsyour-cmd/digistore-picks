@@ -21,7 +21,7 @@ language: "en"
 ---
 # Garden Planner and Logbook (Printable PDFs)
 
-> Product ID `58511` · Digistore24 productId `724875` · [HTML profile page](../../reviews/garden-planner-and-logbook-printable-pdfs-58511.html)
+> Product ID `58511` · Digistore24 productId `724875` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/garden-planner-and-logbook-printable-pdfs-58511.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

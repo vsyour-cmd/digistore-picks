@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Automation Mastery – Work Smarter, Not Harder
 
-> Product ID `53573` · Digistore24 productId `630181` · [HTML profile page](../../reviews/ai-automation-mastery-work-smarter-not-harder-53573.html)
+> Product ID `53573` · Digistore24 productId `630181` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-automation-mastery-work-smarter-not-harder-53573.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

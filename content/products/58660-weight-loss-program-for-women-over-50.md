@@ -21,7 +21,7 @@ language: "en"
 ---
 # Weight loss program for women over 50
 
-> Product ID `58660` · Digistore24 productId `725933` · [HTML profile page](../../reviews/weight-loss-program-for-women-over-50-58660.html)
+> Product ID `58660` · Digistore24 productId `725933` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/weight-loss-program-for-women-over-50-58660.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

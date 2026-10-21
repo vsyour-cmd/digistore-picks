@@ -21,7 +21,7 @@ language: "en"
 ---
 # Modern survival Manual apk.android
 
-> Product ID `54479` · Digistore24 productId `637049` · [HTML profile page](../../reviews/modern-survival-manual-apk-android-54479.html)
+> Product ID `54479` · Digistore24 productId `637049` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/modern-survival-manual-apk-android-54479.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

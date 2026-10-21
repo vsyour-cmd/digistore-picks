@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Stone + Wall Textures 3D Render
 
-> Product ID `59197` · Digistore24 productId `593592` · [HTML profile page](../../reviews/architecture-viz-graphics-stone-wall-textures-3d-render-59197.html)
+> Product ID `59197` · Digistore24 productId `593592` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-stone-wall-textures-3d-render-59197.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

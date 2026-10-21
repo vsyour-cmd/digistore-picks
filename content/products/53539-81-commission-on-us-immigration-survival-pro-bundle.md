@@ -21,7 +21,7 @@ language: "en"
 ---
 # 81 % Commission on US Immigration Survival PRO Bundle
 
-> Product ID `53539` · Digistore24 productId `625471` · [HTML profile page](../../reviews/81-commission-on-us-immigration-survival-pro-bundle-53539.html)
+> Product ID `53539` · Digistore24 productId `625471` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/81-commission-on-us-immigration-survival-pro-bundle-53539.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

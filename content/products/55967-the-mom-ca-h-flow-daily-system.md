@@ -21,7 +21,7 @@ language: "en"
 ---
 # the Mom Ca$h Flow Daily System
 
-> Product ID `55967` · Digistore24 productId `676538` · [HTML profile page](../../reviews/the-mom-ca-h-flow-daily-system-55967.html)
+> Product ID `55967` · Digistore24 productId `676538` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-mom-ca-h-flow-daily-system-55967.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

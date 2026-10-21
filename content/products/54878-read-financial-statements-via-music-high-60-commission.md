@@ -21,7 +21,7 @@ language: "en"
 ---
 # Read Financial Statements via Music | High 60% Commission
 
-> Product ID `54878` · Digistore24 productId `653016` · [HTML profile page](../../reviews/read-financial-statements-via-music-high-60-commission-54878.html)
+> Product ID `54878` · Digistore24 productId `653016` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/read-financial-statements-via-music-high-60-commission-54878.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

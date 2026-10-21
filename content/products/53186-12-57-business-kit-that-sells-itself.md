@@ -21,7 +21,7 @@ language: "en"
 ---
 # “$12.57 Business Kit That Sells Itself”
 
-> Product ID `53186` · Digistore24 productId `623017` · [HTML profile page](../../reviews/12-57-business-kit-that-sells-itself-53186.html)
+> Product ID `53186` · Digistore24 productId `623017` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/12-57-business-kit-that-sells-itself-53186.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

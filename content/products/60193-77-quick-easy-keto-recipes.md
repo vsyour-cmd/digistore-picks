@@ -21,7 +21,7 @@ language: "en"
 ---
 # 77 Quick Easy Keto Recipes
 
-> Product ID `60193` · Digistore24 productId `741979` · [HTML profile page](../../reviews/77-quick-easy-keto-recipes-60193.html)
+> Product ID `60193` · Digistore24 productId `741979` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/77-quick-easy-keto-recipes-60193.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

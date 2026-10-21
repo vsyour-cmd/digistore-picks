@@ -21,7 +21,7 @@ language: "en"
 ---
 # Bad B Rebirth - eBook
 
-> Product ID `51513` · Digistore24 productId `599006` · [HTML profile page](../../reviews/bad-b-rebirth-ebook-51513.html)
+> Product ID `51513` · Digistore24 productId `599006` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/bad-b-rebirth-ebook-51513.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pinterest Strategy for Entrepreneurs - Brand new
 
-> Product ID `53280` · Digistore24 productId `623072` · [HTML profile page](../../reviews/pinterest-strategy-for-entrepreneurs-brand-new-53280.html)
+> Product ID `53280` · Digistore24 productId `623072` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pinterest-strategy-for-entrepreneurs-brand-new-53280.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

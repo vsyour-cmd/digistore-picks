@@ -21,7 +21,7 @@ language: "en"
 ---
 # BrainAMP - Switch On Focus, Energy, and Calm
 
-> Product ID `53788` · Digistore24 productId `630380` · [HTML profile page](../../reviews/brainamp-switch-on-focus-energy-and-calm-53788.html)
+> Product ID `53788` · Digistore24 productId `630380` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/brainamp-switch-on-focus-energy-and-calm-53788.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

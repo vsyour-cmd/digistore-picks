@@ -21,7 +21,7 @@ language: "en"
 ---
 # SecuPerts Rescue Stick – Your Digital Emergency Assistant
 
-> Product ID `52073` · Digistore24 productId `518675` · [HTML profile page](../../reviews/secuperts-rescue-stick-your-digital-emergency-assistant-52073.html)
+> Product ID `52073` · Digistore24 productId `518675` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/secuperts-rescue-stick-your-digital-emergency-assistant-52073.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

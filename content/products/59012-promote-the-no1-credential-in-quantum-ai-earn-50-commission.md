@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote the No1 Credential in Quantum AI-Earn 50% commission
 
-> Product ID `59012` · Digistore24 productId `727617` · [HTML profile page](../../reviews/promote-the-no1-credential-in-quantum-ai-earn-50-commission-59012.html)
+> Product ID `59012` · Digistore24 productId `727617` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-the-no1-credential-in-quantum-ai-earn-50-commission-59012.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

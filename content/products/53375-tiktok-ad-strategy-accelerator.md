@@ -21,7 +21,7 @@ language: "en"
 ---
 # TikTok Ad Strategy Accelerator
 
-> Product ID `53375` · Digistore24 productId `626995` · [HTML profile page](../../reviews/tiktok-ad-strategy-accelerator-53375.html)
+> Product ID `53375` · Digistore24 productId `626995` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tiktok-ad-strategy-accelerator-53375.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Wealth Academy: Top Trending Offer of 2025!
 
-> Product ID `50476` · Digistore24 productId `581314` · [HTML profile page](../../reviews/digital-wealth-academy-top-trending-offer-of-2025-50476.html)
+> Product ID `50476` · Digistore24 productId `581314` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-wealth-academy-top-trending-offer-of-2025-50476.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Daily Routines of Successful People
 
-> Product ID `53768` · Digistore24 productId `633282` · [HTML profile page](../../reviews/daily-routines-of-successful-people-53768.html)
+> Product ID `53768` · Digistore24 productId `633282` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/daily-routines-of-successful-people-53768.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

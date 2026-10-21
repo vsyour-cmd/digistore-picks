@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lets-Dance - Partner Program
 
-> Product ID `49599` · Digistore24 productId `549763` · [HTML profile page](../../reviews/lets-dance-partner-program-49599.html)
+> Product ID `49599` · Digistore24 productId `549763` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lets-dance-partner-program-49599.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

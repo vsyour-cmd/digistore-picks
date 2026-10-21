@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Detox for Kids - eBook
 
-> Product ID `51783` · Digistore24 productId `602583` · [HTML profile page](../../reviews/digital-detox-for-kids-ebook-51783.html)
+> Product ID `51783` · Digistore24 productId `602583` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-detox-for-kids-ebook-51783.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

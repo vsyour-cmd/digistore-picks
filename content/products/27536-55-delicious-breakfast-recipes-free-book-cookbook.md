@@ -21,7 +21,7 @@ language: "en"
 ---
 # 55 Delicious Breakfast Recipes Free Book Cookbook
 
-> Product ID `27536` · Digistore24 productId `428276` · [HTML profile page](../../reviews/55-delicious-breakfast-recipes-free-book-cookbook-27536.html)
+> Product ID `27536` · Digistore24 productId `428276` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/55-delicious-breakfast-recipes-free-book-cookbook-27536.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The SUPP UP. Complete Nutrition and Fitness Travel System
 
-> Product ID `33678` · Digistore24 productId `338690` · [HTML profile page](../../reviews/the-supp-up-complete-nutrition-and-fitness-travel-system-33678.html)
+> Product ID `33678` · Digistore24 productId `338690` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-supp-up-complete-nutrition-and-fitness-travel-system-33678.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

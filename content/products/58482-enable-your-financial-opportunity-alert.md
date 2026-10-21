@@ -21,7 +21,7 @@ language: "en"
 ---
 # Enable your financial opportunity alert
 
-> Product ID `58482` · Digistore24 productId `724348` · [HTML profile page](../../reviews/enable-your-financial-opportunity-alert-58482.html)
+> Product ID `58482` · Digistore24 productId `724348` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/enable-your-financial-opportunity-alert-58482.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

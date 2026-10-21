@@ -21,7 +21,7 @@ language: "en"
 ---
 # Illuderma
 
-> Product ID `47212` · Digistore24 productId `538129` · [HTML profile page](../../reviews/illuderma-47212.html)
+> Product ID `47212` · Digistore24 productId `538129` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/illuderma-47212.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

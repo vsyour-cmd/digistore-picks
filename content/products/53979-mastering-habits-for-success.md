@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastering Habits for Success
 
-> Product ID `53979` · Digistore24 productId `635590` · [HTML profile page](../../reviews/mastering-habits-for-success-53979.html)
+> Product ID `53979` · Digistore24 productId `635590` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastering-habits-for-success-53979.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

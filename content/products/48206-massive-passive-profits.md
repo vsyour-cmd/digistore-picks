@@ -21,7 +21,7 @@ language: "en"
 ---
 # Massive Passive Profits
 
-> Product ID `48206` · Digistore24 productId `553248` · [HTML profile page](../../reviews/massive-passive-profits-48206.html)
+> Product ID `48206` · Digistore24 productId `553248` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/massive-passive-profits-48206.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

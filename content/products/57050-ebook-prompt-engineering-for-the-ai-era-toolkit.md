@@ -21,7 +21,7 @@ language: "en"
 ---
 # EBOOK Prompt Engineering for the AI Era + Toolkit
 
-> Product ID `57050` · Digistore24 productId `701082` · [HTML profile page](../../reviews/ebook-prompt-engineering-for-the-ai-era-toolkit-57050.html)
+> Product ID `57050` · Digistore24 productId `701082` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-prompt-engineering-for-the-ai-era-toolkit-57050.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

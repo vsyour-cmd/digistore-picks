@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Power of Self-Talk
 
-> Product ID `54102` · Digistore24 productId `636863` · [HTML profile page](../../reviews/the-power-of-self-talk-54102.html)
+> Product ID `54102` · Digistore24 productId `636863` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-power-of-self-talk-54102.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

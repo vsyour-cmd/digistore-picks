@@ -21,7 +21,7 @@ language: "en"
 ---
 # Flip the Car-Rental Script with the Turo Business Guide
 
-> Product ID `49739` · Digistore24 productId `571197` · [HTML profile page](../../reviews/flip-the-car-rental-script-with-the-turo-business-guide-49739.html)
+> Product ID `49739` · Digistore24 productId `571197` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/flip-the-car-rental-script-with-the-turo-business-guide-49739.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

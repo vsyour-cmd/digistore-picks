@@ -21,7 +21,7 @@ language: "en"
 ---
 # The 5 Foot Farm: 80% Commissions and Recurring Upsell
 
-> Product ID `55948` · Digistore24 productId `584032` · [HTML profile page](../../reviews/the-5-foot-farm-80-commissions-and-recurring-upsell-55948.html)
+> Product ID `55948` · Digistore24 productId `584032` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-5-foot-farm-80-commissions-and-recurring-upsell-55948.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

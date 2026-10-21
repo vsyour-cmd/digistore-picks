@@ -21,7 +21,7 @@ language: "en"
 ---
 # Home Workout Bible - Dominate Home Fitness - Huge $$$$$
 
-> Product ID `48136` · Digistore24 productId `551528` · [HTML profile page](../../reviews/home-workout-bible-dominate-home-fitness-huge-48136.html)
+> Product ID `48136` · Digistore24 productId `551528` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/home-workout-bible-dominate-home-fitness-huge-48136.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

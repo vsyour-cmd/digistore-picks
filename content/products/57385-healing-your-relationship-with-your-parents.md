@@ -21,7 +21,7 @@ language: "en"
 ---
 # Healing Your Relationship With Your Parents
 
-> Product ID `57385` · Digistore24 productId `708123` · [HTML profile page](../../reviews/healing-your-relationship-with-your-parents-57385.html)
+> Product ID `57385` · Digistore24 productId `708123` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/healing-your-relationship-with-your-parents-57385.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

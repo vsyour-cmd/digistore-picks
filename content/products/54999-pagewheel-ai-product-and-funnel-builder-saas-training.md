@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pagewheel: AI Product and Funnel Builder | SAAS + Training
 
-> Product ID `54999` · Digistore24 productId `653506` · [HTML profile page](../../reviews/pagewheel-ai-product-and-funnel-builder-saas-training-54999.html)
+> Product ID `54999` · Digistore24 productId `653506` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pagewheel-ai-product-and-funnel-builder-saas-training-54999.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

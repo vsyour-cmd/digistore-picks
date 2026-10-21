@@ -21,7 +21,7 @@ language: "en"
 ---
 # 50 Ways to use ChatGPT in Business
 
-> Product ID `50015` · Digistore24 productId `574811` · [HTML profile page](../../reviews/50-ways-to-use-chatgpt-in-business-50015.html)
+> Product ID `50015` · Digistore24 productId `574811` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/50-ways-to-use-chatgpt-in-business-50015.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

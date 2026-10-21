@@ -21,7 +21,7 @@ language: "en"
 ---
 # Quick to Make and High in Protein Vegan Recipes
 
-> Product ID `44302` · Digistore24 productId `499722` · [HTML profile page](../../reviews/quick-to-make-and-high-in-protein-vegan-recipes-44302.html)
+> Product ID `44302` · Digistore24 productId `499722` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/quick-to-make-and-high-in-protein-vegan-recipes-44302.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 #  100 Million+ PLR Products Mega Bundle- Make it Yours Now!
 
-> Product ID `54764` · Digistore24 productId `651003` · [HTML profile page](../../reviews/100-million-plr-products-mega-bundle-make-it-yours-now-54764.html)
+> Product ID `54764` · Digistore24 productId `651003` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/100-million-plr-products-mega-bundle-make-it-yours-now-54764.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

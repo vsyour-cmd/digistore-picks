@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 65% Commission Promoting Women's Fitness Hormone Health
 
-> Product ID `57090` · Digistore24 productId `692123` · [HTML profile page](../../reviews/earn-65-commission-promoting-women-s-fitness-hormone-health-57090.html)
+> Product ID `57090` · Digistore24 productId `692123` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-65-commission-promoting-women-s-fitness-hormone-health-57090.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

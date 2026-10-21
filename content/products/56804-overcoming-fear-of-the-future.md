@@ -21,7 +21,7 @@ language: "en"
 ---
 # Overcoming Fear of the Future
 
-> Product ID `56804` · Digistore24 productId `697560` · [HTML profile page](../../reviews/overcoming-fear-of-the-future-56804.html)
+> Product ID `56804` · Digistore24 productId `697560` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/overcoming-fear-of-the-future-56804.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

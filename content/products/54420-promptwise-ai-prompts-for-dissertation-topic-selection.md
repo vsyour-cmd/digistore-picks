@@ -21,7 +21,7 @@ language: "en"
 ---
 # PromptWise - AI Prompts for Dissertation Topic Selection
 
-> Product ID `54420` · Digistore24 productId `641921` · [HTML profile page](../../reviews/promptwise-ai-prompts-for-dissertation-topic-selection-54420.html)
+> Product ID `54420` · Digistore24 productId `641921` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promptwise-ai-prompts-for-dissertation-topic-selection-54420.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

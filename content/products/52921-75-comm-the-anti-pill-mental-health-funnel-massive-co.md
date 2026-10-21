@@ -21,7 +21,7 @@ language: "en"
 ---
 # 75% Comm | The "Anti-Pill" Mental Health Funnel | Massive Co
 
-> Product ID `52921` · Digistore24 productId `617915` · [HTML profile page](../../reviews/75-comm-the-anti-pill-mental-health-funnel-massive-co-52921.html)
+> Product ID `52921` · Digistore24 productId `617915` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/75-comm-the-anti-pill-mental-health-funnel-massive-co-52921.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

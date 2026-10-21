@@ -21,7 +21,7 @@ language: "en"
 ---
 # Nerve Soothe
 
-> Product ID `55736` · Digistore24 productId `651685` · [HTML profile page](../../reviews/nerve-soothe-55736.html)
+> Product ID `55736` · Digistore24 productId `651685` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/nerve-soothe-55736.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

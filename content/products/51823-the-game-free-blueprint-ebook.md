@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Game-Free Blueprint - eBook
 
-> Product ID `51823` · Digistore24 productId `603009` · [HTML profile page](../../reviews/the-game-free-blueprint-ebook-51823.html)
+> Product ID `51823` · Digistore24 productId `603009` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-game-free-blueprint-ebook-51823.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

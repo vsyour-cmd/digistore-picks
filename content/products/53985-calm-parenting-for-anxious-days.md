@@ -21,7 +21,7 @@ language: "en"
 ---
 # Calm Parenting for Anxious Days
 
-> Product ID `53985` · Digistore24 productId `635584` · [HTML profile page](../../reviews/calm-parenting-for-anxious-days-53985.html)
+> Product ID `53985` · Digistore24 productId `635584` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/calm-parenting-for-anxious-days-53985.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # TikTok Shop Affiliate for Beginners – Matze Course
 
-> Product ID `59587` · Digistore24 productId `736414` · [HTML profile page](../../reviews/tiktok-shop-affiliate-for-beginners-matze-course-59587.html)
+> Product ID `59587` · Digistore24 productId `736414` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tiktok-shop-affiliate-for-beginners-matze-course-59587.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

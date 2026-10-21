@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forex TP PRO Trend Strategy For MetaTrader 4 Platform
 
-> Product ID `54563` · Digistore24 productId `646146` · [HTML profile page](../../reviews/forex-tp-pro-trend-strategy-for-metatrader-4-platform-54563.html)
+> Product ID `54563` · Digistore24 productId `646146` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forex-tp-pro-trend-strategy-for-metatrader-4-platform-54563.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

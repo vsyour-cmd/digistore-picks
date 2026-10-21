@@ -21,7 +21,7 @@ language: "en"
 ---
 # Journeyman lineman
 
-> Product ID `58222` · Digistore24 productId `719949` · [HTML profile page](../../reviews/journeyman-lineman-58222.html)
+> Product ID `58222` · Digistore24 productId `719949` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/journeyman-lineman-58222.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

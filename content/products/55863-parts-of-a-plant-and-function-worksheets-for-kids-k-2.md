@@ -21,7 +21,7 @@ language: "en"
 ---
 # Parts of a Plant and Function Worksheets for Kids K-2
 
-> Product ID `55863` · Digistore24 productId `671821` · [HTML profile page](../../reviews/parts-of-a-plant-and-function-worksheets-for-kids-k-2-55863.html)
+> Product ID `55863` · Digistore24 productId `671821` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/parts-of-a-plant-and-function-worksheets-for-kids-k-2-55863.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

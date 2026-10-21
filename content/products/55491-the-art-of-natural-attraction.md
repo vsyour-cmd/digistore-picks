@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Art Of Natural Attraction
 
-> Product ID `55491` · Digistore24 productId `665237` · [HTML profile page](../../reviews/the-art-of-natural-attraction-55491.html)
+> Product ID `55491` · Digistore24 productId `665237` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-art-of-natural-attraction-55491.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Small Business AI and Automation Toolkit for Business Owners
 
-> Product ID `58693` · Digistore24 productId `724554` · [HTML profile page](../../reviews/small-business-ai-and-automation-toolkit-for-business-owners-58693.html)
+> Product ID `58693` · Digistore24 productId `724554` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/small-business-ai-and-automation-toolkit-for-business-owners-58693.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Brand Professional Service
 
-> Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](../../reviews/brand-professional-service-60405.html)
+> Product ID `60405` · Digistore24 productId `743400` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/brand-professional-service-60405.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

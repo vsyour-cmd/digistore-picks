@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Nomad Guide
 
-> Product ID `54004` · Digistore24 productId `635726` · [HTML profile page](../../reviews/digital-nomad-guide-54004.html)
+> Product ID `54004` · Digistore24 productId `635726` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-nomad-guide-54004.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

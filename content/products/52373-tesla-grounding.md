@@ -21,7 +21,7 @@ language: "en"
 ---
 # Tesla Grounding
 
-> Product ID `52373` · Digistore24 productId `609184` · [HTML profile page](../../reviews/tesla-grounding-52373.html)
+> Product ID `52373` · Digistore24 productId `609184` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tesla-grounding-52373.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

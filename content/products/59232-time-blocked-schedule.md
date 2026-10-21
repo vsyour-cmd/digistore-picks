@@ -21,7 +21,7 @@ language: "en"
 ---
 # Time Blocked Schedule
 
-> Product ID `59232` · Digistore24 productId `733440` · [HTML profile page](../../reviews/time-blocked-schedule-59232.html)
+> Product ID `59232` · Digistore24 productId `733440` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/time-blocked-schedule-59232.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

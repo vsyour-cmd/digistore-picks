@@ -21,7 +21,7 @@ language: "en"
 ---
 # Recognizing developmental delays in toddlers
 
-> Product ID `55091` · Digistore24 productId `656071` · [HTML profile page](../../reviews/recognizing-developmental-delays-in-toddlers-55091.html)
+> Product ID `55091` · Digistore24 productId `656071` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/recognizing-developmental-delays-in-toddlers-55091.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

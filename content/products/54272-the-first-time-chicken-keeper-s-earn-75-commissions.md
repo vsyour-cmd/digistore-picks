@@ -21,7 +21,7 @@ language: "en"
 ---
 # The First-Time Chicken Keeper's  | Earn 75% Commissions
 
-> Product ID `54272` · Digistore24 productId `639587` · [HTML profile page](../../reviews/the-first-time-chicken-keeper-s-earn-75-commissions-54272.html)
+> Product ID `54272` · Digistore24 productId `639587` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-first-time-chicken-keeper-s-earn-75-commissions-54272.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

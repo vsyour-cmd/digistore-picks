@@ -21,7 +21,7 @@ language: "en"
 ---
 # Keto Desserts - High Converting Keto Desserts Offer
 
-> Product ID `31478` · Digistore24 productId `292043` · [HTML profile page](../../reviews/keto-desserts-high-converting-keto-desserts-offer-31478.html)
+> Product ID `31478` · Digistore24 productId `292043` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/keto-desserts-high-converting-keto-desserts-offer-31478.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 70% Commissions Promote Moringa - Best Selling Product
 
-> Product ID `58452` · Digistore24 productId `692712` · [HTML profile page](../../reviews/earn-70-commissions-promote-moringa-best-selling-product-58452.html)
+> Product ID `58452` · Digistore24 productId `692712` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-70-commissions-promote-moringa-best-selling-product-58452.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

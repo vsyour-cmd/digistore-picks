@@ -21,7 +21,7 @@ language: "en"
 ---
 # An Institutional-grade geoeconomic Market intelligence
 
-> Product ID `60020` · Digistore24 productId `738502` · [HTML profile page](../../reviews/an-institutional-grade-geoeconomic-market-intelligence-60020.html)
+> Product ID `60020` · Digistore24 productId `738502` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/an-institutional-grade-geoeconomic-market-intelligence-60020.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

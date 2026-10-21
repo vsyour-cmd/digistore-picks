@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Confidence Toolkit
 
-> Product ID `54099` · Digistore24 productId `636862` · [HTML profile page](../../reviews/the-confidence-toolkit-54099.html)
+> Product ID `54099` · Digistore24 productId `636862` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-confidence-toolkit-54099.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # 140 Trading Patterns in One Practical Visual Field Manual
 
-> Product ID `58865` · Digistore24 productId `728302` · [HTML profile page](../../reviews/140-trading-patterns-in-one-practical-visual-field-manual-58865.html)
+> Product ID `58865` · Digistore24 productId `728302` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/140-trading-patterns-in-one-practical-visual-field-manual-58865.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

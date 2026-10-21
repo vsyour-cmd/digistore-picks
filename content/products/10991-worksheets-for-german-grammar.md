@@ -21,7 +21,7 @@ language: "en"
 ---
 # Worksheets for German grammar
 
-> Product ID `10991` · Digistore24 productId `19087` · [HTML profile page](../../reviews/worksheets-for-german-grammar-10991.html)
+> Product ID `10991` · Digistore24 productId `19087` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/worksheets-for-german-grammar-10991.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

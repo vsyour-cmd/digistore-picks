@@ -21,7 +21,7 @@ language: "en"
 ---
 # ux/ui courses
 
-> Product ID `57706` · Digistore24 productId `714709` · [HTML profile page](../../reviews/ux-ui-courses-57706.html)
+> Product ID `57706` · Digistore24 productId `714709` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ux-ui-courses-57706.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

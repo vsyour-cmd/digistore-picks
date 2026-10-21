@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Architecture of American Power Vol III
 
-> Product ID `58700` · Digistore24 productId `726687` · [HTML profile page](../../reviews/ebook-the-architecture-of-american-power-vol-iii-58700.html)
+> Product ID `58700` · Digistore24 productId `726687` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-architecture-of-american-power-vol-iii-58700.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

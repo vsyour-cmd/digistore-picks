@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 50% Commission Promoting Beginner's Health and Fitness
 
-> Product ID `60482` · Digistore24 productId `745378` · [HTML profile page](../../reviews/earn-50-commission-promoting-beginner-s-health-and-fitness-60482.html)
+> Product ID `60482` · Digistore24 productId `745378` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-50-commission-promoting-beginner-s-health-and-fitness-60482.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

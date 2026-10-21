@@ -21,7 +21,7 @@ language: "en"
 ---
 # Plant-Based For Kids Cookbook - 100+ Fun, Easy Vegan Recipes
 
-> Product ID `52936` · Digistore24 productId `618774` · [HTML profile page](../../reviews/plant-based-for-kids-cookbook-100-fun-easy-vegan-recipes-52936.html)
+> Product ID `52936` · Digistore24 productId `618774` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/plant-based-for-kids-cookbook-100-fun-easy-vegan-recipes-52936.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

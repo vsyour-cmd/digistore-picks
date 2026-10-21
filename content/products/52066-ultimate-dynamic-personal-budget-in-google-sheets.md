@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ultimate Dynamic Personal Budget in Google Sheets
 
-> Product ID `52066` · Digistore24 productId `604596` · [HTML profile page](../../reviews/ultimate-dynamic-personal-budget-in-google-sheets-52066.html)
+> Product ID `52066` · Digistore24 productId `604596` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ultimate-dynamic-personal-budget-in-google-sheets-52066.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Good Boy Guide — 14-Day Dog Training Plan + 24/7 AI Dog
 
-> Product ID `57742` · Digistore24 productId `714780` · [HTML profile page](../../reviews/the-good-boy-guide-14-day-dog-training-plan-24-7-ai-dog-57742.html)
+> Product ID `57742` · Digistore24 productId `714780` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-good-boy-guide-14-day-dog-training-plan-24-7-ai-dog-57742.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

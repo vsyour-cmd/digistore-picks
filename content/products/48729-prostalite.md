@@ -21,7 +21,7 @@ language: "en"
 ---
 # ProstaLite
 
-> Product ID `48729` · Digistore24 productId `561306` · [HTML profile page](../../reviews/prostalite-48729.html)
+> Product ID `48729` · Digistore24 productId `561306` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/prostalite-48729.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

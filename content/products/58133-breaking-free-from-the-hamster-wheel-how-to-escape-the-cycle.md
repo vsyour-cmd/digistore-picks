@@ -21,7 +21,7 @@ language: "en"
 ---
 # Breaking Free from the Hamster Wheel How to Escape the Cycle
 
-> Product ID `58133` · Digistore24 productId `718034` · [HTML profile page](../../reviews/breaking-free-from-the-hamster-wheel-how-to-escape-the-cycle-58133.html)
+> Product ID `58133` · Digistore24 productId `718034` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/breaking-free-from-the-hamster-wheel-how-to-escape-the-cycle-58133.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

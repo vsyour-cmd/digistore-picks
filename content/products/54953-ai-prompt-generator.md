@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Prompt Generator
 
-> Product ID `54953` · Digistore24 productId `656128` · [HTML profile page](../../reviews/ai-prompt-generator-54953.html)
+> Product ID `54953` · Digistore24 productId `656128` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-prompt-generator-54953.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

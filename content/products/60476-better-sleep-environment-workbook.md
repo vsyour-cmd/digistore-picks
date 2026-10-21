@@ -21,7 +21,7 @@ language: "en"
 ---
 # Better Sleep Environment Workbook
 
-> Product ID `60476` · Digistore24 productId `733195` · [HTML profile page](../../reviews/better-sleep-environment-workbook-60476.html)
+> Product ID `60476` · Digistore24 productId `733195` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/better-sleep-environment-workbook-60476.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

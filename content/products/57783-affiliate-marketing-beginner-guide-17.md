@@ -21,7 +21,7 @@ language: "en"
 ---
 # Affiliate marketing beginner guide $17
 
-> Product ID `57783` · Digistore24 productId `716359` · [HTML profile page](../../reviews/affiliate-marketing-beginner-guide-17-57783.html)
+> Product ID `57783` · Digistore24 productId `716359` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/affiliate-marketing-beginner-guide-17-57783.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

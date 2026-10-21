@@ -21,7 +21,7 @@ language: "en"
 ---
 # Overcoming Anxiety Naturally
 
-> Product ID `54165` · Digistore24 productId `637572` · [HTML profile page](../../reviews/overcoming-anxiety-naturally-54165.html)
+> Product ID `54165` · Digistore24 productId `637572` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/overcoming-anxiety-naturally-54165.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

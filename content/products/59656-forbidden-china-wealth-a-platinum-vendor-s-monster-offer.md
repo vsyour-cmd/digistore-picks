@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forbidden China Wealth - A Platinum Vendor's Monster Offer
 
-> Product ID `59656` · Digistore24 productId `733740` · [HTML profile page](../../reviews/forbidden-china-wealth-a-platinum-vendor-s-monster-offer-59656.html)
+> Product ID `59656` · Digistore24 productId `733740` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forbidden-china-wealth-a-platinum-vendor-s-monster-offer-59656.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

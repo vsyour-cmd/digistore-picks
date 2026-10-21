@@ -21,7 +21,7 @@ language: "en"
 ---
 # 85% COMMISSION – The 21-Day Clean Eating Challenge! | E-book
 
-> Product ID `60397` · Digistore24 productId `734044` · [HTML profile page](../../reviews/85-commission-the-21-day-clean-eating-challenge-e-book-60397.html)
+> Product ID `60397` · Digistore24 productId `734044` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/85-commission-the-21-day-clean-eating-challenge-e-book-60397.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

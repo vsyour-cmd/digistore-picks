@@ -21,7 +21,7 @@ language: "en"
 ---
 # ChatGPT Articles ready to resell! PLR
 
-> Product ID `50159` · Digistore24 productId `576436` · [HTML profile page](../../reviews/chatgpt-articles-ready-to-resell-plr-50159.html)
+> Product ID `50159` · Digistore24 productId `576436` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/chatgpt-articles-ready-to-resell-plr-50159.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Progressing Backward and Rising to the Bottom | 40% Affiliat
 
-> Product ID `58967` · Digistore24 productId `715707` · [HTML profile page](../../reviews/progressing-backward-and-rising-to-the-bottom-40-affiliat-58967.html)
+> Product ID `58967` · Digistore24 productId `715707` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/progressing-backward-and-rising-to-the-bottom-40-affiliat-58967.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

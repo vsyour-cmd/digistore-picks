@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Wealth Signal
 
-> Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](../../reviews/the-wealth-signal-48030.html)
+> Product ID `48030` · Digistore24 productId `550119` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-wealth-signal-48030.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

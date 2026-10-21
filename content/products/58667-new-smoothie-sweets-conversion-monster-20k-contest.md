@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: Smoothie Sweets - Conversion Monster! $20K Contest!
 
-> Product ID `58667` · Digistore24 productId `723590` · [HTML profile page](../../reviews/new-smoothie-sweets-conversion-monster-20k-contest-58667.html)
+> Product ID `58667` · Digistore24 productId `723590` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-smoothie-sweets-conversion-monster-20k-contest-58667.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

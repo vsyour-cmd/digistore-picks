@@ -21,7 +21,7 @@ language: "en"
 ---
 # Zen Mastery - High Converting Meditation/Spirituality Offer
 
-> Product ID `35344` · Digistore24 productId `367270` · [HTML profile page](../../reviews/zen-mastery-high-converting-meditation-spirituality-offer-35344.html)
+> Product ID `35344` · Digistore24 productId `367270` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/zen-mastery-high-converting-meditation-spirituality-offer-35344.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

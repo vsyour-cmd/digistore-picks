@@ -21,7 +21,7 @@ language: "en"
 ---
 # Parents Guide To Sex Education
 
-> Product ID `57423` · Digistore24 productId `708480` · [HTML profile page](../../reviews/parents-guide-to-sex-education-57423.html)
+> Product ID `57423` · Digistore24 productId `708480` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/parents-guide-to-sex-education-57423.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

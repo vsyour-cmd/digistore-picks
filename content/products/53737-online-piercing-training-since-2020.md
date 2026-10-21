@@ -21,7 +21,7 @@ language: "en"
 ---
 # Online Piercing Training since 2020
 
-> Product ID `53737` · Digistore24 productId `607649` · [HTML profile page](../../reviews/online-piercing-training-since-2020-53737.html)
+> Product ID `53737` · Digistore24 productId `607649` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/online-piercing-training-since-2020-53737.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

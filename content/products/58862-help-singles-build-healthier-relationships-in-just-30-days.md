@@ -21,7 +21,7 @@ language: "en"
 ---
 # Help Singles Build Healthier Relationships in Just 30 Days
 
-> Product ID `58862` · Digistore24 productId `728264` · [HTML profile page](../../reviews/help-singles-build-healthier-relationships-in-just-30-days-58862.html)
+> Product ID `58862` · Digistore24 productId `728264` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/help-singles-build-healthier-relationships-in-just-30-days-58862.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

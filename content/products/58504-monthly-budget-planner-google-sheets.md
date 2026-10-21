@@ -21,7 +21,7 @@ language: "en"
 ---
 # Monthly Budget Planner (Google Sheets)
 
-> Product ID `58504` · Digistore24 productId `724693` · [HTML profile page](../../reviews/monthly-budget-planner-google-sheets-58504.html)
+> Product ID `58504` · Digistore24 productId `724693` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/monthly-budget-planner-google-sheets-58504.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

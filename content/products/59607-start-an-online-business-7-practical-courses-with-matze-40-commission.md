@@ -21,7 +21,7 @@ language: "en"
 ---
 # Start an Online Business – 7 Practical Courses with Matze | 40% Commission
 
-> Product ID `59607` · Digistore24 productId `736587` · [HTML profile page](../../reviews/start-an-online-business-7-practical-courses-with-matze-40-commission-59607.html)
+> Product ID `59607` · Digistore24 productId `736587` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/start-an-online-business-7-practical-courses-with-matze-40-commission-59607.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

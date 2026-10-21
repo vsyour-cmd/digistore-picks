@@ -21,7 +21,7 @@ language: "en"
 ---
 # Everyday Athlete
 
-> Product ID `53975` · Digistore24 productId `635594` · [HTML profile page](../../reviews/everyday-athlete-53975.html)
+> Product ID `53975` · Digistore24 productId `635594` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/everyday-athlete-53975.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

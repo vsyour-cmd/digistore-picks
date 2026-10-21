@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lose Your Belly Fat in 30 Days or Less – The Complete Guide
 
-> Product ID `54737` · Digistore24 productId `650092` · [HTML profile page](../../reviews/lose-your-belly-fat-in-30-days-or-less-the-complete-guide-54737.html)
+> Product ID `54737` · Digistore24 productId `650092` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lose-your-belly-fat-in-30-days-or-less-the-complete-guide-54737.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

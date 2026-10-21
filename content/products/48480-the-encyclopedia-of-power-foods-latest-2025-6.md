@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Encyclopedia of Power Foods- Latest 2025/6!
 
-> Product ID `48480` · Digistore24 productId `557828` · [HTML profile page](../../reviews/the-encyclopedia-of-power-foods-latest-2025-6-48480.html)
+> Product ID `48480` · Digistore24 productId `557828` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-encyclopedia-of-power-foods-latest-2025-6-48480.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

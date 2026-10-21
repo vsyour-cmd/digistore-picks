@@ -21,7 +21,7 @@ language: "en"
 ---
 # 100% FRONT-END COMMISSION — The Frequency Shift Protocol
 
-> Product ID `57452` · Digistore24 productId `709632` · [HTML profile page](../../reviews/100-front-end-commission-the-frequency-shift-protocol-57452.html)
+> Product ID `57452` · Digistore24 productId `709632` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/100-front-end-commission-the-frequency-shift-protocol-57452.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

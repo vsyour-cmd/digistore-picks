@@ -21,7 +21,7 @@ language: "en"
 ---
 # High-Ticket B2B Commissions in the Untapped "GeoEconomics"
 
-> Product ID `60447` · Digistore24 productId `740710` · [HTML profile page](../../reviews/high-ticket-b2b-commissions-in-the-untapped-geoeconomics-60447.html)
+> Product ID `60447` · Digistore24 productId `740710` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/high-ticket-b2b-commissions-in-the-untapped-geoeconomics-60447.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

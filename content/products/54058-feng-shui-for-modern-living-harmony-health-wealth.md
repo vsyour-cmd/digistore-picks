@@ -21,7 +21,7 @@ language: "en"
 ---
 # Feng Shui for Modern Living – Harmony, Health, Wealth
 
-> Product ID `54058` · Digistore24 productId `635891` · [HTML profile page](../../reviews/feng-shui-for-modern-living-harmony-health-wealth-54058.html)
+> Product ID `54058` · Digistore24 productId `635891` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/feng-shui-for-modern-living-harmony-health-wealth-54058.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

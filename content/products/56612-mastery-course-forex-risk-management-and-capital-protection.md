@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course-Forex Risk Management and Capital Protection
 
-> Product ID `56612` · Digistore24 productId `693493` · [HTML profile page](../../reviews/mastery-course-forex-risk-management-and-capital-protection-56612.html)
+> Product ID `56612` · Digistore24 productId `693493` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-forex-risk-management-and-capital-protection-56612.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

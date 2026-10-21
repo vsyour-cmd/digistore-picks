@@ -21,7 +21,7 @@ language: "en"
 ---
 # Frugal Freedom | Earn 75% Commissions
 
-> Product ID `54270` · Digistore24 productId `639581` · [HTML profile page](../../reviews/frugal-freedom-earn-75-commissions-54270.html)
+> Product ID `54270` · Digistore24 productId `639581` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/frugal-freedom-earn-75-commissions-54270.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

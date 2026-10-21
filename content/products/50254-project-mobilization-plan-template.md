@@ -21,7 +21,7 @@ language: "en"
 ---
 # Project Mobilization Plan Template
 
-> Product ID `50254` · Digistore24 productId `489398` · [HTML profile page](../../reviews/project-mobilization-plan-template-50254.html)
+> Product ID `50254` · Digistore24 productId `489398` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/project-mobilization-plan-template-50254.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

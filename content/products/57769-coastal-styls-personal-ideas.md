@@ -21,7 +21,7 @@ language: "en"
 ---
 # Coastal styls Personal ideas
 
-> Product ID `57769` · Digistore24 productId `714281` · [HTML profile page](../../reviews/coastal-styls-personal-ideas-57769.html)
+> Product ID `57769` · Digistore24 productId `714281` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/coastal-styls-personal-ideas-57769.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

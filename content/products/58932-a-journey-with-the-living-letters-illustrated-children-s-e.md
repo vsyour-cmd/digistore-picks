@@ -21,7 +21,7 @@ language: "en"
 ---
 # A Journey with the Living Letters – Illustrated Children’s e
 
-> Product ID `58932` · Digistore24 productId `720098` · [HTML profile page](../../reviews/a-journey-with-the-living-letters-illustrated-children-s-e-58932.html)
+> Product ID `58932` · Digistore24 productId `720098` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/a-journey-with-the-living-letters-illustrated-children-s-e-58932.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

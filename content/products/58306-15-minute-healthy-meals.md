@@ -21,7 +21,7 @@ language: "en"
 ---
 # 15 Minute Healthy Meals
 
-> Product ID `58306` · Digistore24 productId `720524` · [HTML profile page](../../reviews/15-minute-healthy-meals-58306.html)
+> Product ID `58306` · Digistore24 productId `720524` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/15-minute-healthy-meals-58306.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

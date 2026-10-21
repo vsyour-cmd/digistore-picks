@@ -21,7 +21,7 @@ language: "en"
 ---
 # Home Doctor – BRAND NEW!
 
-> Product ID `38367` · Digistore24 productId `394659` · [HTML profile page](../../reviews/home-doctor-brand-new-38367.html)
+> Product ID `38367` · Digistore24 productId `394659` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/home-doctor-brand-new-38367.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

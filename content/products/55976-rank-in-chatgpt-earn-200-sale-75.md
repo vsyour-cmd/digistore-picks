@@ -21,7 +21,7 @@ language: "en"
 ---
 # Rank in ChatGPT – Earn $200+/Sale (75%)
 
-> Product ID `55976` · Digistore24 productId `676823` · [HTML profile page](../../reviews/rank-in-chatgpt-earn-200-sale-75-55976.html)
+> Product ID `55976` · Digistore24 productId `676823` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/rank-in-chatgpt-earn-200-sale-75-55976.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

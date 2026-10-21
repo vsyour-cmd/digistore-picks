@@ -21,7 +21,7 @@ language: "en"
 ---
 # NewEra Protect
 
-> Product ID `54774` · Digistore24 productId `644676` · [HTML profile page](../../reviews/newera-protect-54774.html)
+> Product ID `54774` · Digistore24 productId `644676` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/newera-protect-54774.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

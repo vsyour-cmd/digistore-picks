@@ -21,7 +21,7 @@ language: "en"
 ---
 # Art of Saying No_Life Boundaries
 
-> Product ID `53987` · Digistore24 productId `635578` · [HTML profile page](../../reviews/art-of-saying-no-life-boundaries-53987.html)
+> Product ID `53987` · Digistore24 productId `635578` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/art-of-saying-no-life-boundaries-53987.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

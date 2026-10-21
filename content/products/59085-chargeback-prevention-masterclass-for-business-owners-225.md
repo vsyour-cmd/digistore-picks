@@ -21,7 +21,7 @@ language: "en"
 ---
 # Chargeback Prevention Masterclass for Business Owners | $225
 
-> Product ID `59085` · Digistore24 productId `726450` · [HTML profile page](../../reviews/chargeback-prevention-masterclass-for-business-owners-225-59085.html)
+> Product ID `59085` · Digistore24 productId `726450` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/chargeback-prevention-masterclass-for-business-owners-225-59085.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

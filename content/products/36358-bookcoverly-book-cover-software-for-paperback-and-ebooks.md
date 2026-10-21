@@ -21,7 +21,7 @@ language: "en"
 ---
 # BookCoverly Book Cover Software for Paperback and Ebooks
 
-> Product ID `36358` · Digistore24 productId `383879` · [HTML profile page](../../reviews/bookcoverly-book-cover-software-for-paperback-and-ebooks-36358.html)
+> Product ID `36358` · Digistore24 productId `383879` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/bookcoverly-book-cover-software-for-paperback-and-ebooks-36358.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Grid Phantom: AI Defence System
 
-> Product ID `57787` · Digistore24 productId `692950` · [HTML profile page](../../reviews/the-grid-phantom-ai-defence-system-57787.html)
+> Product ID `57787` · Digistore24 productId `692950` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-grid-phantom-ai-defence-system-57787.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

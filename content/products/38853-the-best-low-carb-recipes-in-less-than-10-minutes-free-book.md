@@ -21,7 +21,7 @@ language: "en"
 ---
 # The best Low Carb Recipes in less than 10 minutes free book
 
-> Product ID `38853` · Digistore24 productId `424858` · [HTML profile page](../../reviews/the-best-low-carb-recipes-in-less-than-10-minutes-free-book-38853.html)
+> Product ID `38853` · Digistore24 productId `424858` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-best-low-carb-recipes-in-less-than-10-minutes-free-book-38853.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

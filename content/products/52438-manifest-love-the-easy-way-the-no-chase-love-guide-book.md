@@ -21,7 +21,7 @@ language: "en"
 ---
 # Manifest Love The Easy Way - The No Chase Love Guide Book
 
-> Product ID `52438` · Digistore24 productId `612585` · [HTML profile page](../../reviews/manifest-love-the-easy-way-the-no-chase-love-guide-book-52438.html)
+> Product ID `52438` · Digistore24 productId `612585` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/manifest-love-the-easy-way-the-no-chase-love-guide-book-52438.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

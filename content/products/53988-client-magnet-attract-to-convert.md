@@ -21,7 +21,7 @@ language: "en"
 ---
 # Client Magnet–Attract to Convert
 
-> Product ID `53988` · Digistore24 productId `635579` · [HTML profile page](../../reviews/client-magnet-attract-to-convert-53988.html)
+> Product ID `53988` · Digistore24 productId `635579` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/client-magnet-attract-to-convert-53988.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Boost Your Immune System Naturally
 
-> Product ID `50965` · Digistore24 productId `589747` · [HTML profile page](../../reviews/boost-your-immune-system-naturally-50965.html)
+> Product ID `50965` · Digistore24 productId `589747` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/boost-your-immune-system-naturally-50965.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

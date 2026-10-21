@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 60% Commission Promoting Advanced Mitochondrial Formula
 
-> Product ID `50163` · Digistore24 productId `576637` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-mitochondrial-formula-50163.html)
+> Product ID `50163` · Digistore24 productId `576637` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-60-commission-promoting-advanced-mitochondrial-formula-50163.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

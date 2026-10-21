@@ -21,7 +21,7 @@ language: "en"
 ---
 # Affirmation | Guided Meditation and Mindset Upgrade
 
-> Product ID `54831` · Digistore24 productId `643699` · [HTML profile page](../../reviews/affirmation-guided-meditation-and-mindset-upgrade-54831.html)
+> Product ID `54831` · Digistore24 productId `643699` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/affirmation-guided-meditation-and-mindset-upgrade-54831.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

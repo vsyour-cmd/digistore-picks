@@ -21,7 +21,7 @@ language: "en"
 ---
 # ⚡⚡ All Day Slimming Tea - Over $100 Per Sale + Low Refunds
 
-> Product ID `38750` · Digistore24 productId `420539` · [HTML profile page](../../reviews/all-day-slimming-tea-over-100-per-sale-low-refunds-38750.html)
+> Product ID `38750` · Digistore24 productId `420539` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/all-day-slimming-tea-over-100-per-sale-low-refunds-38750.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

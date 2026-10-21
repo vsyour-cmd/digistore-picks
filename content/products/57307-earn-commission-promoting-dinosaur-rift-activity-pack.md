@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn Commission Promoting Dinosaur Rift Activity Pack
 
-> Product ID `57307` · Digistore24 productId `706782` · [HTML profile page](../../reviews/earn-commission-promoting-dinosaur-rift-activity-pack-57307.html)
+> Product ID `57307` · Digistore24 productId `706782` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-commission-promoting-dinosaur-rift-activity-pack-57307.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

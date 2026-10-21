@@ -21,7 +21,7 @@ language: "en"
 ---
 # Children and Strangers Security
 
-> Product ID `57418` · Digistore24 productId `708474` · [HTML profile page](../../reviews/children-and-strangers-security-57418.html)
+> Product ID `57418` · Digistore24 productId `708474` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/children-and-strangers-security-57418.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

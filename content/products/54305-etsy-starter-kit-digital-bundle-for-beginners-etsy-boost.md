@@ -21,7 +21,7 @@ language: "en"
 ---
 # Etsy Starter Kit | Digital Bundle for Beginners | Etsy Boost
 
-> Product ID `54305` · Digistore24 productId `639632` · [HTML profile page](../../reviews/etsy-starter-kit-digital-bundle-for-beginners-etsy-boost-54305.html)
+> Product ID `54305` · Digistore24 productId `639632` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/etsy-starter-kit-digital-bundle-for-beginners-etsy-boost-54305.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

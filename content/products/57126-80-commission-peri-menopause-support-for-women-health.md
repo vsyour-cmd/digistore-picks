@@ -21,7 +21,7 @@ language: "en"
 ---
 # 80% COMMISSION – Peri-menopause Support for Women Health
 
-> Product ID `57126` · Digistore24 productId `692610` · [HTML profile page](../../reviews/80-commission-peri-menopause-support-for-women-health-57126.html)
+> Product ID `57126` · Digistore24 productId `692610` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/80-commission-peri-menopause-support-for-women-health-57126.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

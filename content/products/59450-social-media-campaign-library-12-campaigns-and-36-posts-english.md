@@ -21,7 +21,7 @@ language: "en"
 ---
 # Social Media Campaign Library - 12 Campaigns and 36 Posts (English)
 
-> Product ID `59450` · Digistore24 productId `735469` · [HTML profile page](../../reviews/social-media-campaign-library-12-campaigns-and-36-posts-english-59450.html)
+> Product ID `59450` · Digistore24 productId `735469` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/social-media-campaign-library-12-campaigns-and-36-posts-english-59450.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

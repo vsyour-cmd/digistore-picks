@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Premium Prompt Library for Smarter Affiliate Execution
 
-> Product ID `47710` · Digistore24 productId `543689` · [HTML profile page](../../reviews/the-premium-prompt-library-for-smarter-affiliate-execution-47710.html)
+> Product ID `47710` · Digistore24 productId `543689` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-premium-prompt-library-for-smarter-affiliate-execution-47710.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

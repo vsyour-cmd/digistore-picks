@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course - The Candlestick Patterns and Price Action
 
-> Product ID `56620` · Digistore24 productId `693496` · [HTML profile page](../../reviews/mastery-course-the-candlestick-patterns-and-price-action-56620.html)
+> Product ID `56620` · Digistore24 productId `693496` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-the-candlestick-patterns-and-price-action-56620.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

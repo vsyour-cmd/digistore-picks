@@ -21,7 +21,7 @@ language: "en"
 ---
 # Empowering The Child
 
-> Product ID `57420` · Digistore24 productId `708476` · [HTML profile page](../../reviews/empowering-the-child-57420.html)
+> Product ID `57420` · Digistore24 productId `708476` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/empowering-the-child-57420.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

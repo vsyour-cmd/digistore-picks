@@ -21,7 +21,7 @@ language: "en"
 ---
 # Cozy Fall  Winter Life Planner - High Converting Printable
 
-> Product ID `60216` · Digistore24 productId `740956` · [HTML profile page](../../reviews/cozy-fall-winter-life-planner-high-converting-printable-60216.html)
+> Product ID `60216` · Digistore24 productId `740956` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/cozy-fall-winter-life-planner-high-converting-printable-60216.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

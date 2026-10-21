@@ -21,7 +21,7 @@ language: "en"
 ---
 # Traffic Genius | 50% Commissions | $997 Offer
 
-> Product ID `53066` · Digistore24 productId `616827` · [HTML profile page](../../reviews/traffic-genius-50-commissions-997-offer-53066.html)
+> Product ID `53066` · Digistore24 productId `616827` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/traffic-genius-50-commissions-997-offer-53066.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

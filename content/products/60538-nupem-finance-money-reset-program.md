@@ -21,7 +21,7 @@ language: "en"
 ---
 # Nupem.finance Money Reset Program
 
-> Product ID `60538` · Digistore24 productId `735975` · [HTML profile page](../../reviews/nupem-finance-money-reset-program-60538.html)
+> Product ID `60538` · Digistore24 productId `735975` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/nupem-finance-money-reset-program-60538.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

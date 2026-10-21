@@ -21,7 +21,7 @@ language: "en"
 ---
 # Medicinal Garden Kit – BRAND NEW!
 
-> Product ID `41805` · Digistore24 productId `379812` · [HTML profile page](../../reviews/medicinal-garden-kit-brand-new-41805.html)
+> Product ID `41805` · Digistore24 productId `379812` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/medicinal-garden-kit-brand-new-41805.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

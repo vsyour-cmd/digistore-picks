@@ -21,7 +21,7 @@ language: "en"
 ---
 # 100,000+ Reels Templates for TikTok & Instagram
 
-> Product ID `53536` · Digistore24 productId `630066` · [HTML profile page](../../reviews/100-000-reels-templates-for-tiktok-instagram-53536.html)
+> Product ID `53536` · Digistore24 productId `630066` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/100-000-reels-templates-for-tiktok-instagram-53536.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

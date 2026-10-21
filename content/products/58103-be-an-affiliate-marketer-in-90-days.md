@@ -21,7 +21,7 @@ language: "en"
 ---
 # Be an Affiliate Marketer in 90 Days
 
-> Product ID `58103` · Digistore24 productId `718165` · [HTML profile page](../../reviews/be-an-affiliate-marketer-in-90-days-58103.html)
+> Product ID `58103` · Digistore24 productId `718165` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/be-an-affiliate-marketer-in-90-days-58103.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

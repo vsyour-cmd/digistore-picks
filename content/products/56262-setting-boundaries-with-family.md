@@ -21,7 +21,7 @@ language: "en"
 ---
 # Setting Boundaries with Family
 
-> Product ID `56262` · Digistore24 productId `684563` · [HTML profile page](../../reviews/setting-boundaries-with-family-56262.html)
+> Product ID `56262` · Digistore24 productId `684563` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/setting-boundaries-with-family-56262.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The narsasist vs the empath
 
-> Product ID `60177` · Digistore24 productId `741666` · [HTML profile page](../../reviews/the-narsasist-vs-the-empath-60177.html)
+> Product ID `60177` · Digistore24 productId `741666` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-narsasist-vs-the-empath-60177.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

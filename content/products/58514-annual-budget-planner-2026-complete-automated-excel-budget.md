@@ -21,7 +21,7 @@ language: "en"
 ---
 # Annual Budget Planner 2026 – Complete Automated Excel Budget
 
-> Product ID `58514` · Digistore24 productId `720119` · [HTML profile page](../../reviews/annual-budget-planner-2026-complete-automated-excel-budget-58514.html)
+> Product ID `58514` · Digistore24 productId `720119` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/annual-budget-planner-2026-complete-automated-excel-budget-58514.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

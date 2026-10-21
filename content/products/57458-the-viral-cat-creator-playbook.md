@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Viral Cat Creator Playbook
 
-> Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](../../reviews/the-viral-cat-creator-playbook-57458.html)
+> Product ID `57458` · Digistore24 productId `708884` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-viral-cat-creator-playbook-57458.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

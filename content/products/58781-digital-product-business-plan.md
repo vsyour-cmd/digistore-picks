@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Product Business Plan
 
-> Product ID `58781` · Digistore24 productId `727951` · [HTML profile page](../../reviews/digital-product-business-plan-58781.html)
+> Product ID `58781` · Digistore24 productId `727951` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-product-business-plan-58781.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

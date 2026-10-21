@@ -21,7 +21,7 @@ language: "en"
 ---
 # Heal Your Parent Wound
 
-> Product ID `50698` · Digistore24 productId `576752` · [HTML profile page](../../reviews/heal-your-parent-wound-50698.html)
+> Product ID `50698` · Digistore24 productId `576752` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/heal-your-parent-wound-50698.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

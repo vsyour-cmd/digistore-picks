@@ -21,7 +21,7 @@ language: "en"
 ---
 # Make Him Worship You - Women's Relationship Monster
 
-> Product ID `30484` · Digistore24 productId `275723` · [HTML profile page](../../reviews/make-him-worship-you-women-s-relationship-monster-30484.html)
+> Product ID `30484` · Digistore24 productId `275723` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/make-him-worship-you-women-s-relationship-monster-30484.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

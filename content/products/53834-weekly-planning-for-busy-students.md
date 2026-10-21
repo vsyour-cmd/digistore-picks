@@ -21,7 +21,7 @@ language: "en"
 ---
 # Weekly Planning for Busy Students
 
-> Product ID `53834` · Digistore24 productId `633823` · [HTML profile page](../../reviews/weekly-planning-for-busy-students-53834.html)
+> Product ID `53834` · Digistore24 productId `633823` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/weekly-planning-for-busy-students-53834.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

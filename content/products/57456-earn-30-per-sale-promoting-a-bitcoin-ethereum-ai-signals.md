@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn $30 Per Sale Promoting a Bitcoin / Ethereum AI Signals
 
-> Product ID `57456` · Digistore24 productId `709524` · [HTML profile page](../../reviews/earn-30-per-sale-promoting-a-bitcoin-ethereum-ai-signals-57456.html)
+> Product ID `57456` · Digistore24 productId `709524` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-30-per-sale-promoting-a-bitcoin-ethereum-ai-signals-57456.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

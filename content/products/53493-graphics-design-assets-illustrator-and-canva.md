@@ -21,7 +21,7 @@ language: "en"
 ---
 # Graphics Design Assets - Illustrator and Canva
 
-> Product ID `53493` · Digistore24 productId `627583` · [HTML profile page](../../reviews/graphics-design-assets-illustrator-and-canva-53493.html)
+> Product ID `53493` · Digistore24 productId `627583` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/graphics-design-assets-illustrator-and-canva-53493.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

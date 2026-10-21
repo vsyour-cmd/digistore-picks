@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Career Clarity Guide
 
-> Product ID `56260` · Digistore24 productId `684544` · [HTML profile page](../../reviews/the-career-clarity-guide-56260.html)
+> Product ID `56260` · Digistore24 productId `684544` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-career-clarity-guide-56260.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

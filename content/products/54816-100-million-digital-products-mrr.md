@@ -21,7 +21,7 @@ language: "en"
 ---
 # 100 Million+ Digital Products -MRR
 
-> Product ID `54816` · Digistore24 productId `651267` · [HTML profile page](../../reviews/100-million-digital-products-mrr-54816.html)
+> Product ID `54816` · Digistore24 productId `651267` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/100-million-digital-products-mrr-54816.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

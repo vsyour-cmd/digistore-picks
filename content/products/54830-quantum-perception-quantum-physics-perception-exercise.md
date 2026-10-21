@@ -21,7 +21,7 @@ language: "en"
 ---
 # Quantum Perception | Quantum Physics Perception Exercise
 
-> Product ID `54830` · Digistore24 productId `651061` · [HTML profile page](../../reviews/quantum-perception-quantum-physics-perception-exercise-54830.html)
+> Product ID `54830` · Digistore24 productId `651061` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/quantum-perception-quantum-physics-perception-exercise-54830.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

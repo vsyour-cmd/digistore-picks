@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Customer Service Workflow (English)
 
-> Product ID `59457` · Digistore24 productId `735499` · [HTML profile page](../../reviews/ai-customer-service-workflow-english-59457.html)
+> Product ID `59457` · Digistore24 productId `735499` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-customer-service-workflow-english-59457.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

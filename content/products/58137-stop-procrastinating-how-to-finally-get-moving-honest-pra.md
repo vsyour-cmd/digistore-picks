@@ -21,7 +21,7 @@ language: "en"
 ---
 # Stop Procrastinating How to Finally Get Moving – Honest, Pra
 
-> Product ID `58137` · Digistore24 productId `718317` · [HTML profile page](../../reviews/stop-procrastinating-how-to-finally-get-moving-honest-pra-58137.html)
+> Product ID `58137` · Digistore24 productId `718317` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/stop-procrastinating-how-to-finally-get-moving-honest-pra-58137.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

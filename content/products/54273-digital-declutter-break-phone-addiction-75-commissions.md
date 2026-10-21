@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Declutter: Break Phone Addiction | 75% Commissions
 
-> Product ID `54273` · Digistore24 productId `639557` · [HTML profile page](../../reviews/digital-declutter-break-phone-addiction-75-commissions-54273.html)
+> Product ID `54273` · Digistore24 productId `639557` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-declutter-break-phone-addiction-75-commissions-54273.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # 1000+ ChatGPT Prompts for your Online Marketing
 
-> Product ID `49960` · Digistore24 productId `574095` · [HTML profile page](../../reviews/1000-chatgpt-prompts-for-your-online-marketing-49960.html)
+> Product ID `49960` · Digistore24 productId `574095` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/1000-chatgpt-prompts-for-your-online-marketing-49960.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Gold Tea Detox Is A Conversion Monster! Monthly Contest Live
 
-> Product ID `57640` · Digistore24 productId `691501` · [HTML profile page](../../reviews/gold-tea-detox-is-a-conversion-monster-monthly-contest-live-57640.html)
+> Product ID `57640` · Digistore24 productId `691501` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/gold-tea-detox-is-a-conversion-monster-monthly-contest-live-57640.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Louis: the boy from barrancas - All languages edition
 
-> Product ID `57503` · Digistore24 productId `702447` · [HTML profile page](../../reviews/louis-the-boy-from-barrancas-all-languages-edition-57503.html)
+> Product ID `57503` · Digistore24 productId `702447` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/louis-the-boy-from-barrancas-all-languages-edition-57503.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

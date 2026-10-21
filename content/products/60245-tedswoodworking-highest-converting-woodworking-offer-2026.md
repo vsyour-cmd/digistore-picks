@@ -21,7 +21,7 @@ language: "en"
 ---
 # TedsWoodworking - Highest Converting Woodworking Offer 2026
 
-> Product ID `60245` · Digistore24 productId `742711` · [HTML profile page](../../reviews/tedswoodworking-highest-converting-woodworking-offer-2026-60245.html)
+> Product ID `60245` · Digistore24 productId `742711` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tedswoodworking-highest-converting-woodworking-offer-2026-60245.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

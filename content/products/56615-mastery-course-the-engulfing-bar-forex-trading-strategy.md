@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course - The Engulfing Bar Forex Trading Strategy
 
-> Product ID `56615` · Digistore24 productId `693490` · [HTML profile page](../../reviews/mastery-course-the-engulfing-bar-forex-trading-strategy-56615.html)
+> Product ID `56615` · Digistore24 productId `693490` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-the-engulfing-bar-forex-trading-strategy-56615.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

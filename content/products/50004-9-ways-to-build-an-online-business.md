@@ -21,7 +21,7 @@ language: "en"
 ---
 # 9 Ways to build an Online Business
 
-> Product ID `50004` · Digistore24 productId `543164` · [HTML profile page](../../reviews/9-ways-to-build-an-online-business-50004.html)
+> Product ID `50004` · Digistore24 productId `543164` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/9-ways-to-build-an-online-business-50004.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

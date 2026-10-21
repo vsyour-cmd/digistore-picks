@@ -21,7 +21,7 @@ language: "en"
 ---
 # Automotive and Motorsport Gear Engineering – Volumе 1
 
-> Product ID `58219` · Digistore24 productId `718955` · [HTML profile page](../../reviews/automotive-and-motorsport-gear-engineering-volum-1-58219.html)
+> Product ID `58219` · Digistore24 productId `718955` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/automotive-and-motorsport-gear-engineering-volum-1-58219.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

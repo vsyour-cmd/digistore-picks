@@ -21,7 +21,7 @@ language: "en"
 ---
 # The 14-Day Gut-Friendly Meal Planning System
 
-> Product ID `60473` · Digistore24 productId `733146` · [HTML profile page](../../reviews/the-14-day-gut-friendly-meal-planning-system-60473.html)
+> Product ID `60473` · Digistore24 productId `733146` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-14-day-gut-friendly-meal-planning-system-60473.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # T-shirt Typography Printing Designs
 
-> Product ID `53421` · Digistore24 productId `626667` · [HTML profile page](../../reviews/t-shirt-typography-printing-designs-53421.html)
+> Product ID `53421` · Digistore24 productId `626667` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/t-shirt-typography-printing-designs-53421.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # 2026 Manifestation Mood Board Printable Vision Kit Dream
 
-> Product ID `55486` · Digistore24 productId `666971` · [HTML profile page](../../reviews/2026-manifestation-mood-board-printable-vision-kit-dream-55486.html)
+> Product ID `55486` · Digistore24 productId `666971` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/2026-manifestation-mood-board-printable-vision-kit-dream-55486.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

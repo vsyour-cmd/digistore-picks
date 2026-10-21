@@ -21,7 +21,7 @@ language: "en"
 ---
 # How to Dream Intuitively (E-Book)
 
-> Product ID `44267` · Digistore24 productId `487392` · [HTML profile page](../../reviews/how-to-dream-intuitively-e-book-44267.html)
+> Product ID `44267` · Digistore24 productId `487392` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/how-to-dream-intuitively-e-book-44267.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

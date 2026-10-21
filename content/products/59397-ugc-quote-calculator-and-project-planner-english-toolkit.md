@@ -21,7 +21,7 @@ language: "en"
 ---
 # UGC Quote Calculator and Project Planner – English Toolkit
 
-> Product ID `59397` · Digistore24 productId `735091` · [HTML profile page](../../reviews/ugc-quote-calculator-and-project-planner-english-toolkit-59397.html)
+> Product ID `59397` · Digistore24 productId `735091` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ugc-quote-calculator-and-project-planner-english-toolkit-59397.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

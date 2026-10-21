@@ -21,7 +21,7 @@ language: "en"
 ---
 # High Converting Weight Loss Meal Plan (55% Commission)
 
-> Product ID `58318` · Digistore24 productId `711407` · [HTML profile page](../../reviews/high-converting-weight-loss-meal-plan-55-commission-58318.html)
+> Product ID `58318` · Digistore24 productId `711407` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/high-converting-weight-loss-meal-plan-55-commission-58318.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

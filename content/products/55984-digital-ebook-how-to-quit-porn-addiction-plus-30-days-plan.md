@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Ebook how to quit porn addiction plus 30 days plan
 
-> Product ID `55984` · Digistore24 productId `675871` · [HTML profile page](../../reviews/digital-ebook-how-to-quit-porn-addiction-plus-30-days-plan-55984.html)
+> Product ID `55984` · Digistore24 productId `675871` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-ebook-how-to-quit-porn-addiction-plus-30-days-plan-55984.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

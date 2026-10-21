@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Conformity System
 
-> Product ID `57164` · Digistore24 productId `706732` · [HTML profile page](../../reviews/ebook-the-conformity-system-57164.html)
+> Product ID `57164` · Digistore24 productId `706732` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-conformity-system-57164.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

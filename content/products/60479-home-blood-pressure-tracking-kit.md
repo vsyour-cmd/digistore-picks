@@ -21,7 +21,7 @@ language: "en"
 ---
 # Home Blood Pressure Tracking Kit
 
-> Product ID `60479` · Digistore24 productId `733169` · [HTML profile page](../../reviews/home-blood-pressure-tracking-kit-60479.html)
+> Product ID `60479` · Digistore24 productId `733169` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/home-blood-pressure-tracking-kit-60479.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

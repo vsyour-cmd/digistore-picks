@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Simple Slim Kitchen
 
-> Product ID `56783` · Digistore24 productId `697066` · [HTML profile page](../../reviews/the-simple-slim-kitchen-56783.html)
+> Product ID `56783` · Digistore24 productId `697066` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-simple-slim-kitchen-56783.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Learn Plant-Based Nutrition and Vegan Living with Practical
 
-> Product ID `59257` · Digistore24 productId `726391` · [HTML profile page](../../reviews/learn-plant-based-nutrition-and-vegan-living-with-practical-59257.html)
+> Product ID `59257` · Digistore24 productId `726391` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/learn-plant-based-nutrition-and-vegan-living-with-practical-59257.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

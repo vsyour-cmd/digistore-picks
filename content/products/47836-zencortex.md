@@ -21,7 +21,7 @@ language: "en"
 ---
 # ZenCortex
 
-> Product ID `47836` · Digistore24 productId `546853` · [HTML profile page](../../reviews/zencortex-47836.html)
+> Product ID `47836` · Digistore24 productId `546853` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/zencortex-47836.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

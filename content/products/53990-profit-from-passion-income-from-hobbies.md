@@ -21,7 +21,7 @@ language: "en"
 ---
 # Profit from Passion_Income from Hobbies
 
-> Product ID `53990` · Digistore24 productId `635581` · [HTML profile page](../../reviews/profit-from-passion-income-from-hobbies-53990.html)
+> Product ID `53990` · Digistore24 productId `635581` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/profit-from-passion-income-from-hobbies-53990.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

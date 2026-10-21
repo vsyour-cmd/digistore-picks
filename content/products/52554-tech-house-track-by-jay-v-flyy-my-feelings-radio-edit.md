@@ -21,7 +21,7 @@ language: "en"
 ---
 # Tech House Track by Jay V Flyy | My Feelings (Radio Edit)
 
-> Product ID `52554` · Digistore24 productId `613374` · [HTML profile page](../../reviews/tech-house-track-by-jay-v-flyy-my-feelings-radio-edit-52554.html)
+> Product ID `52554` · Digistore24 productId `613374` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tech-house-track-by-jay-v-flyy-my-feelings-radio-edit-52554.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

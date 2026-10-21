@@ -21,7 +21,7 @@ language: "en"
 ---
 # AdaptoGen
 
-> Product ID `55041` · Digistore24 productId `646969` · [HTML profile page](../../reviews/adaptogen-55041.html)
+> Product ID `55041` · Digistore24 productId `646969` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/adaptogen-55041.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

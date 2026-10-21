@@ -21,7 +21,7 @@ language: "en"
 ---
 # Dog Trainer Bible (The Ultimate eBook collection)
 
-> Product ID `48527` · Digistore24 productId `557533` · [HTML profile page](../../reviews/dog-trainer-bible-the-ultimate-ebook-collection-48527.html)
+> Product ID `48527` · Digistore24 productId `557533` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dog-trainer-bible-the-ultimate-ebook-collection-48527.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Etsy Digital Products Practical Course (English)
 
-> Product ID `59453` · Digistore24 productId `735495` · [HTML profile page](../../reviews/etsy-digital-products-practical-course-english-59453.html)
+> Product ID `59453` · Digistore24 productId `735495` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/etsy-digital-products-practical-course-english-59453.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

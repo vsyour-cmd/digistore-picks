@@ -21,7 +21,7 @@ language: "en"
 ---
 # Sleep Architecture — 65% Commission!
 
-> Product ID `60409` · Digistore24 productId `718175` · [HTML profile page](../../reviews/sleep-architecture-65-commission-60409.html)
+> Product ID `60409` · Digistore24 productId `718175` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/sleep-architecture-65-commission-60409.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

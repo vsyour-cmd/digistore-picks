@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pinterest Mastery: Unlock the Secrets to Passive Income
 
-> Product ID `51883` · Digistore24 productId `604288` · [HTML profile page](../../reviews/pinterest-mastery-unlock-the-secrets-to-passive-income-51883.html)
+> Product ID `51883` · Digistore24 productId `604288` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pinterest-mastery-unlock-the-secrets-to-passive-income-51883.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

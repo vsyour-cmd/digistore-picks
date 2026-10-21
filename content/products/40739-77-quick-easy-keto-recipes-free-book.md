@@ -21,7 +21,7 @@ language: "en"
 ---
 # 77 Quick & Easy Keto Recipes free book
 
-> Product ID `40739` · Digistore24 productId `452961` · [HTML profile page](../../reviews/77-quick-easy-keto-recipes-free-book-40739.html)
+> Product ID `40739` · Digistore24 productId `452961` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/77-quick-easy-keto-recipes-free-book-40739.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

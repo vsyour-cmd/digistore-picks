@@ -21,7 +21,7 @@ language: "en"
 ---
 # Instagram Marketing Mastery – The Ultimate PLR Bundle!
 
-> Product ID `50317` · Digistore24 productId `578541` · [HTML profile page](../../reviews/instagram-marketing-mastery-the-ultimate-plr-bundle-50317.html)
+> Product ID `50317` · Digistore24 productId `578541` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/instagram-marketing-mastery-the-ultimate-plr-bundle-50317.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

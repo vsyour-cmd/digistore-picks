@@ -21,7 +21,7 @@ language: "en"
 ---
 # Premium Course - The Smart Money Concepts for Forex Trading
 
-> Product ID `56613` · Digistore24 productId `693485` · [HTML profile page](../../reviews/premium-course-the-smart-money-concepts-for-forex-trading-56613.html)
+> Product ID `56613` · Digistore24 productId `693485` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/premium-course-the-smart-money-concepts-for-forex-trading-56613.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

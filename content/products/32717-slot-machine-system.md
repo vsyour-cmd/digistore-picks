@@ -21,7 +21,7 @@ language: "en"
 ---
 # Slot Machine System
 
-> Product ID `32717` · Digistore24 productId `319147` · [HTML profile page](../../reviews/slot-machine-system-32717.html)
+> Product ID `32717` · Digistore24 productId `319147` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/slot-machine-system-32717.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

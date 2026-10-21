@@ -21,7 +21,7 @@ language: "en"
 ---
 # Teacher Hub: All-in-One Teacher Planner App
 
-> Product ID `60063` · Digistore24 productId `736454` · [HTML profile page](../../reviews/teacher-hub-all-in-one-teacher-planner-app-60063.html)
+> Product ID `60063` · Digistore24 productId `736454` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/teacher-hub-all-in-one-teacher-planner-app-60063.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

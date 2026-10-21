@@ -21,7 +21,7 @@ language: "en"
 ---
 # myKidPrenuers : The StartUp Generation
 
-> Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](../../reviews/mykidprenuers-the-startup-generation-35283.html)
+> Product ID `35283` · Digistore24 productId `365629` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mykidprenuers-the-startup-generation-35283.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

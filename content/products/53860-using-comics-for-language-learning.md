@@ -21,7 +21,7 @@ language: "en"
 ---
 # Using Comics for Language Learning
 
-> Product ID `53860` · Digistore24 productId `634092` · [HTML profile page](../../reviews/using-comics-for-language-learning-53860.html)
+> Product ID `53860` · Digistore24 productId `634092` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/using-comics-for-language-learning-53860.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

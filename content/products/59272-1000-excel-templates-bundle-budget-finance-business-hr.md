@@ -21,7 +21,7 @@ language: "en"
 ---
 # 1000+ Excel Templates Bundle | Budget, Finance, Business, HR
 
-> Product ID `59272` · Digistore24 productId `719715` · [HTML profile page](../../reviews/1000-excel-templates-bundle-budget-finance-business-hr-59272.html)
+> Product ID `59272` · Digistore24 productId `719715` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/1000-excel-templates-bundle-budget-finance-business-hr-59272.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

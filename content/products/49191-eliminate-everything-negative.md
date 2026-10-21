@@ -21,7 +21,7 @@ language: "en"
 ---
 # Eliminate Everything Negative
 
-> Product ID `49191` · Digistore24 productId `552204` · [HTML profile page](../../reviews/eliminate-everything-negative-49191.html)
+> Product ID `49191` · Digistore24 productId `552204` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/eliminate-everything-negative-49191.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

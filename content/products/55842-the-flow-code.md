@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Flow Code
 
-> Product ID `55842` · Digistore24 productId `674182` · [HTML profile page](../../reviews/the-flow-code-55842.html)
+> Product ID `55842` · Digistore24 productId `674182` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-flow-code-55842.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Vacation Checklist
 
-> Product ID `57829` · Digistore24 productId `717472` · [HTML profile page](../../reviews/the-vacation-checklist-57829.html)
+> Product ID `57829` · Digistore24 productId `717472` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-vacation-checklist-57829.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

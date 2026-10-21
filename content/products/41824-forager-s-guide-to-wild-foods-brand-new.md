@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forager's Guide to Wild Foods – BRAND NEW!
 
-> Product ID `41824` · Digistore24 productId `391226` · [HTML profile page](../../reviews/forager-s-guide-to-wild-foods-brand-new-41824.html)
+> Product ID `41824` · Digistore24 productId `391226` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forager-s-guide-to-wild-foods-brand-new-41824.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

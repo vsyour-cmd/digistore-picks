@@ -21,7 +21,7 @@ language: "en"
 ---
 # Helix One PC - Windows PC Optimization, Cleanup and Repair
 
-> Product ID `59822` · Digistore24 productId `737995` · [HTML profile page](../../reviews/helix-one-pc-windows-pc-optimization-cleanup-and-repair-59822.html)
+> Product ID `59822` · Digistore24 productId `737995` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/helix-one-pc-windows-pc-optimization-cleanup-and-repair-59822.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

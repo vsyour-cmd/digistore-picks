@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Beginner's Guide to Woodworking with Hand Tools
 
-> Product ID `54274` · Digistore24 productId `639592` · [HTML profile page](../../reviews/the-beginner-s-guide-to-woodworking-with-hand-tools-54274.html)
+> Product ID `54274` · Digistore24 productId `639592` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-beginner-s-guide-to-woodworking-with-hand-tools-54274.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

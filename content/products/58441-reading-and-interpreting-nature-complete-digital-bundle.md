@@ -21,7 +21,7 @@ language: "en"
 ---
 # Reading and Interpreting Nature Complete Digital Bundle
 
-> Product ID `58441` · Digistore24 productId `711572` · [HTML profile page](../../reviews/reading-and-interpreting-nature-complete-digital-bundle-58441.html)
+> Product ID `58441` · Digistore24 productId `711572` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/reading-and-interpreting-nature-complete-digital-bundle-58441.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

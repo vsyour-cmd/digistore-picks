@@ -21,7 +21,7 @@ language: "en"
 ---
 # Understanding Artificial Intelligence A Clear Introduction f
 
-> Product ID `58132` · Digistore24 productId `718028` · [HTML profile page](../../reviews/understanding-artificial-intelligence-a-clear-introduction-f-58132.html)
+> Product ID `58132` · Digistore24 productId `718028` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/understanding-artificial-intelligence-a-clear-introduction-f-58132.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 60% Promoting the 10-Ingredient Party Bar
 
-> Product ID `59083` · Digistore24 productId `726602` · [HTML profile page](../../reviews/earn-60-promoting-the-10-ingredient-party-bar-59083.html)
+> Product ID `59083` · Digistore24 productId `726602` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-60-promoting-the-10-ingredient-party-bar-59083.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Escape the 9-5- Create Multiple Income Streams Guide
 
-> Product ID `52011` · Digistore24 productId `606481` · [HTML profile page](../../reviews/escape-the-9-5-create-multiple-income-streams-guide-52011.html)
+> Product ID `52011` · Digistore24 productId `606481` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/escape-the-9-5-create-multiple-income-streams-guide-52011.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Start Affiliate Marketing like a Pro
 
-> Product ID `47713` · Digistore24 productId `540559` · [HTML profile page](../../reviews/start-affiliate-marketing-like-a-pro-47713.html)
+> Product ID `47713` · Digistore24 productId `540559` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/start-affiliate-marketing-like-a-pro-47713.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

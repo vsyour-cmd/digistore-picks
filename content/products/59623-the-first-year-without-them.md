@@ -21,7 +21,7 @@ language: "en"
 ---
 # The First Year Without Them
 
-> Product ID `59623` · Digistore24 productId `736745` · [HTML profile page](../../reviews/the-first-year-without-them-59623.html)
+> Product ID `59623` · Digistore24 productId `736745` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-first-year-without-them-59623.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

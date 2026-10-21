@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Trust Bridge
 
-> Product ID `57387` · Digistore24 productId `708126` · [HTML profile page](../../reviews/the-trust-bridge-57387.html)
+> Product ID `57387` · Digistore24 productId `708126` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-trust-bridge-57387.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

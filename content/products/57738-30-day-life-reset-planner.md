@@ -21,7 +21,7 @@ language: "en"
 ---
 # 30 Day Life Reset Planner
 
-> Product ID `57738` · Digistore24 productId `715206` · [HTML profile page](../../reviews/30-day-life-reset-planner-57738.html)
+> Product ID `57738` · Digistore24 productId `715206` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/30-day-life-reset-planner-57738.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

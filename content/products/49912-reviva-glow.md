@@ -21,7 +21,7 @@ language: "en"
 ---
 # Reviva Glow
 
-> Product ID `49912` · Digistore24 productId `573302` · [HTML profile page](../../reviews/reviva-glow-49912.html)
+> Product ID `49912` · Digistore24 productId `573302` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/reviva-glow-49912.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

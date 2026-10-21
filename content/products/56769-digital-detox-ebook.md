@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Detox Ebook
 
-> Product ID `56769` · Digistore24 productId `695909` · [HTML profile page](../../reviews/digital-detox-ebook-56769.html)
+> Product ID `56769` · Digistore24 productId `695909` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-detox-ebook-56769.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

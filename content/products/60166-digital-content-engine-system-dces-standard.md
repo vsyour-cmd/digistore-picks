@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Content Engine System (DCES)™ – Standard
 
-> Product ID `60166` · Digistore24 productId `741537` · [HTML profile page](../../reviews/digital-content-engine-system-dces-standard-60166.html)
+> Product ID `60166` · Digistore24 productId `741537` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-content-engine-system-dces-standard-60166.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

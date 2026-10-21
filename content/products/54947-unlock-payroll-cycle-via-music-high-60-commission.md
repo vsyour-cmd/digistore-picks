@@ -21,7 +21,7 @@ language: "en"
 ---
 # Unlock Payroll Cycle via Music | High 60% Commission
 
-> Product ID `54947` · Digistore24 productId `654944` · [HTML profile page](../../reviews/unlock-payroll-cycle-via-music-high-60-commission-54947.html)
+> Product ID `54947` · Digistore24 productId `654944` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/unlock-payroll-cycle-via-music-high-60-commission-54947.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

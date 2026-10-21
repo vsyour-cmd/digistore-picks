@@ -21,7 +21,7 @@ language: "en"
 ---
 # Smooth & Juicy - recipes to look great and feel amazing
 
-> Product ID `9547` · Digistore24 productId `42495` · [HTML profile page](../../reviews/smooth-juicy-recipes-to-look-great-and-feel-amazing-9547.html)
+> Product ID `9547` · Digistore24 productId `42495` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/smooth-juicy-recipes-to-look-great-and-feel-amazing-9547.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

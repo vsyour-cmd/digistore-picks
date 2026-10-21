@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 80% Slow Fitness Revolution: Build Strength naturally
 
-> Product ID `56101` · Digistore24 productId `680238` · [HTML profile page](../../reviews/earn-80-slow-fitness-revolution-build-strength-naturally-56101.html)
+> Product ID `56101` · Digistore24 productId `680238` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-80-slow-fitness-revolution-build-strength-naturally-56101.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

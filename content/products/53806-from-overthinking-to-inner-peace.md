@@ -21,7 +21,7 @@ language: "en"
 ---
 # From Overthinking to Inner Peace
 
-> Product ID `53806` · Digistore24 productId `633485` · [HTML profile page](../../reviews/from-overthinking-to-inner-peace-53806.html)
+> Product ID `53806` · Digistore24 productId `633485` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/from-overthinking-to-inner-peace-53806.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

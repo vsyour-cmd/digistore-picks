@@ -21,7 +21,7 @@ language: "en"
 ---
 # Unlock Earnings! Promote PinealXT!
 
-> Product ID `45830` · Digistore24 productId `520212` · [HTML profile page](../../reviews/unlock-earnings-promote-pinealxt-45830.html)
+> Product ID `45830` · Digistore24 productId `520212` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/unlock-earnings-promote-pinealxt-45830.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

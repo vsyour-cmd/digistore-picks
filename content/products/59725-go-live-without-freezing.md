@@ -21,7 +21,7 @@ language: "en"
 ---
 # Go Live Without Freezing
 
-> Product ID `59725` · Digistore24 productId `723623` · [HTML profile page](../../reviews/go-live-without-freezing-59725.html)
+> Product ID `59725` · Digistore24 productId `723623` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/go-live-without-freezing-59725.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

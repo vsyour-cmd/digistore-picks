@@ -21,7 +21,7 @@ language: "en"
 ---
 # Funny Adult eBook with Sarcastic Stock Market Humor
 
-> Product ID `57660` · Digistore24 productId `713983` · [HTML profile page](../../reviews/funny-adult-ebook-with-sarcastic-stock-market-humor-57660.html)
+> Product ID `57660` · Digistore24 productId `713983` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/funny-adult-ebook-with-sarcastic-stock-market-humor-57660.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

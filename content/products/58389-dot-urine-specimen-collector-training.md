@@ -21,7 +21,7 @@ language: "en"
 ---
 # DOT URINE SPECIMEN COLLECTOR TRAINING
 
-> Product ID `58389` · Digistore24 productId `722800` · [HTML profile page](../../reviews/dot-urine-specimen-collector-training-58389.html)
+> Product ID `58389` · Digistore24 productId `722800` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dot-urine-specimen-collector-training-58389.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

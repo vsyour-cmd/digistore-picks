@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Overthinking Reset Guide
 
-> Product ID `56258` · Digistore24 productId `684515` · [HTML profile page](../../reviews/the-overthinking-reset-guide-56258.html)
+> Product ID `56258` · Digistore24 productId `684515` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-overthinking-reset-guide-56258.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

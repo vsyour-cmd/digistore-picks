@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Ultimate Keto Dessert Recipe Book
 
-> Product ID `54792` · Digistore24 productId `647453` · [HTML profile page](../../reviews/the-ultimate-keto-dessert-recipe-book-54792.html)
+> Product ID `54792` · Digistore24 productId `647453` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ultimate-keto-dessert-recipe-book-54792.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

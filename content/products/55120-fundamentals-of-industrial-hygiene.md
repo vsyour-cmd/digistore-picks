@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fundamentals of industrial hygiene
 
-> Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](../../reviews/fundamentals-of-industrial-hygiene-55120.html)
+> Product ID `55120` · Digistore24 productId `654493` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fundamentals-of-industrial-hygiene-55120.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

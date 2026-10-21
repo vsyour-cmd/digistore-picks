@@ -21,7 +21,7 @@ language: "en"
 ---
 # English In 8 Weeks (A2-B1 Levels) | e-Book 46 pages
 
-> Product ID `56052` · Digistore24 productId `676043` · [HTML profile page](../../reviews/english-in-8-weeks-a2-b1-levels-e-book-46-pages-56052.html)
+> Product ID `56052` · Digistore24 productId `676043` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/english-in-8-weeks-a2-b1-levels-e-book-46-pages-56052.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

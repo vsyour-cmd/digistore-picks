@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Money Wave
 
-> Product ID `48700` · Digistore24 productId `560807` · [HTML profile page](../../reviews/the-money-wave-48700.html)
+> Product ID `48700` · Digistore24 productId `560807` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-money-wave-48700.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

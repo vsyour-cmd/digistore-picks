@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote BillMatik – 30% Recurring Commission
 
-> Product ID `56824` · Digistore24 productId `698975` · [HTML profile page](../../reviews/promote-billmatik-30-recurring-commission-56824.html)
+> Product ID `56824` · Digistore24 productId `698975` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-billmatik-30-recurring-commission-56824.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 20% Commission on Our 15-Video Vacation-Rental Package
 
-> Product ID `59154` · Digistore24 productId `732625` · [HTML profile page](../../reviews/earn-20-commission-on-our-15-video-vacation-rental-package-59154.html)
+> Product ID `59154` · Digistore24 productId `732625` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-20-commission-on-our-15-video-vacation-rental-package-59154.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

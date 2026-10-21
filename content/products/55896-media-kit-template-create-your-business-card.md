@@ -21,7 +21,7 @@ language: "en"
 ---
 # Media Kit Template - Create Your Business Card!
 
-> Product ID `55896` · Digistore24 productId `658176` · [HTML profile page](../../reviews/media-kit-template-create-your-business-card-55896.html)
+> Product ID `55896` · Digistore24 productId `658176` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/media-kit-template-create-your-business-card-55896.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

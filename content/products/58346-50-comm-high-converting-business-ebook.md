@@ -21,7 +21,7 @@ language: "en"
 ---
 # 50% Comm | High-Converting Business Ebook!
 
-> Product ID `58346` · Digistore24 productId `725048` · [HTML profile page](../../reviews/50-comm-high-converting-business-ebook-58346.html)
+> Product ID `58346` · Digistore24 productId `725048` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/50-comm-high-converting-business-ebook-58346.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

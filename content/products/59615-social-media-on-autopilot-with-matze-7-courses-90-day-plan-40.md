@@ -21,7 +21,7 @@ language: "en"
 ---
 # Social Media on Autopilot with Matze – 7 Courses + 90-Day Plan | 40%
 
-> Product ID `59615` · Digistore24 productId `736681` · [HTML profile page](../../reviews/social-media-on-autopilot-with-matze-7-courses-90-day-plan-40-59615.html)
+> Product ID `59615` · Digistore24 productId `736681` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/social-media-on-autopilot-with-matze-7-courses-90-day-plan-40-59615.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

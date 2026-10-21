@@ -21,7 +21,7 @@ language: "en"
 ---
 # Food Analysis Tool – AI Nutrition Scanner with High Funnel
 
-> Product ID `53930` · Digistore24 productId `632164` · [HTML profile page](../../reviews/food-analysis-tool-ai-nutrition-scanner-with-high-funnel-53930.html)
+> Product ID `53930` · Digistore24 productId `632164` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/food-analysis-tool-ai-nutrition-scanner-with-high-funnel-53930.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Empowered Parenting: Boosting School Engagement
 
-> Product ID `46812` · Digistore24 productId `530683` · [HTML profile page](../../reviews/empowered-parenting-boosting-school-engagement-46812.html)
+> Product ID `46812` · Digistore24 productId `530683` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/empowered-parenting-boosting-school-engagement-46812.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

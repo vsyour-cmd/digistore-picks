@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forex MT5 Viper Strategy For MetaTrader 5 Platform
 
-> Product ID `54560` · Digistore24 productId `646154` · [HTML profile page](../../reviews/forex-mt5-viper-strategy-for-metatrader-5-platform-54560.html)
+> Product ID `54560` · Digistore24 productId `646154` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forex-mt5-viper-strategy-for-metatrader-5-platform-54560.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Heart Harmonics
 
-> Product ID `51625` · Digistore24 productId `598530` · [HTML profile page](../../reviews/heart-harmonics-51625.html)
+> Product ID `51625` · Digistore24 productId `598530` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/heart-harmonics-51625.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

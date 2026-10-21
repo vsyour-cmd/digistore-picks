@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fitness for Busy Moms
 
-> Product ID `53941` · Digistore24 productId `635405` · [HTML profile page](../../reviews/fitness-for-busy-moms-53941.html)
+> Product ID `53941` · Digistore24 productId `635405` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fitness-for-busy-moms-53941.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

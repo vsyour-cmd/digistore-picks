@@ -21,7 +21,7 @@ language: "en"
 ---
 # 5 Year Time Capsule Experience for Families with Children 13+
 
-> Product ID `58761` · Digistore24 productId `727355` · [HTML profile page](../../reviews/5-year-time-capsule-experience-for-families-with-children-13-58761.html)
+> Product ID `58761` · Digistore24 productId `727355` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/5-year-time-capsule-experience-for-families-with-children-13-58761.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

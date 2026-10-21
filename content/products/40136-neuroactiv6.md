@@ -21,7 +21,7 @@ language: "en"
 ---
 # NeuroActiv6
 
-> Product ID `40136` · Digistore24 productId `442614` · [HTML profile page](../../reviews/neuroactiv6-40136.html)
+> Product ID `40136` · Digistore24 productId `442614` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/neuroactiv6-40136.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI-Generated Aesthetic Masterpieces
 
-> Product ID `53905` · Digistore24 productId `634368` · [HTML profile page](../../reviews/ai-generated-aesthetic-masterpieces-53905.html)
+> Product ID `53905` · Digistore24 productId `634368` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-generated-aesthetic-masterpieces-53905.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Turn Your Idea into a 5-Figure Online Business
 
-> Product ID `47712` · Digistore24 productId `542324` · [HTML profile page](../../reviews/turn-your-idea-into-a-5-figure-online-business-47712.html)
+> Product ID `47712` · Digistore24 productId `542324` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/turn-your-idea-into-a-5-figure-online-business-47712.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

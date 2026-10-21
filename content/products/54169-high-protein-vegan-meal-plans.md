@@ -21,7 +21,7 @@ language: "en"
 ---
 # High-Protein Vegan Meal Plans
 
-> Product ID `54169` · Digistore24 productId `637568` · [HTML profile page](../../reviews/high-protein-vegan-meal-plans-54169.html)
+> Product ID `54169` · Digistore24 productId `637568` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/high-protein-vegan-meal-plans-54169.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

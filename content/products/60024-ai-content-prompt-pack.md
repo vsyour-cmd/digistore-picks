@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Content Prompt Pack
 
-> Product ID `60024` · Digistore24 productId `737756` · [HTML profile page](../../reviews/ai-content-prompt-pack-60024.html)
+> Product ID `60024` · Digistore24 productId `737756` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-content-prompt-pack-60024.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

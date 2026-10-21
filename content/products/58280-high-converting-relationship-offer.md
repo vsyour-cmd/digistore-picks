@@ -21,7 +21,7 @@ language: "en"
 ---
 # High-Converting Relationship Offer
 
-> Product ID `58280` · Digistore24 productId `714876` · [HTML profile page](../../reviews/high-converting-relationship-offer-58280.html)
+> Product ID `58280` · Digistore24 productId `714876` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/high-converting-relationship-offer-58280.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Coping Strategies Handbook
 
-> Product ID `57585` · Digistore24 productId `712815` · [HTML profile page](../../reviews/coping-strategies-handbook-57585.html)
+> Product ID `57585` · Digistore24 productId `712815` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/coping-strategies-handbook-57585.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

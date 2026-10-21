@@ -21,7 +21,7 @@ language: "en"
 ---
 # Complete Feasibility Study Template
 
-> Product ID `37380` · Digistore24 productId `348804` · [HTML profile page](../../reviews/complete-feasibility-study-template-37380.html)
+> Product ID `37380` · Digistore24 productId `348804` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/complete-feasibility-study-template-37380.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

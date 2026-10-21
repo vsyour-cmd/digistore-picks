@@ -21,7 +21,7 @@ language: "en"
 ---
 # Cognitive OS — Stop Overthinking. Decide Fast. - Notion
 
-> Product ID `55113` · Digistore24 productId `658074` · [HTML profile page](../../reviews/cognitive-os-stop-overthinking-decide-fast-notion-55113.html)
+> Product ID `55113` · Digistore24 productId `658074` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/cognitive-os-stop-overthinking-decide-fast-notion-55113.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

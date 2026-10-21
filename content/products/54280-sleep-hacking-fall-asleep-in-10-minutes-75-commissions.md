@@ -21,7 +21,7 @@ language: "en"
 ---
 # Sleep Hacking: Fall Asleep in 10 Minutes | 75% Commissions
 
-> Product ID `54280` · Digistore24 productId `639607` · [HTML profile page](../../reviews/sleep-hacking-fall-asleep-in-10-minutes-75-commissions-54280.html)
+> Product ID `54280` · Digistore24 productId `639607` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/sleep-hacking-fall-asleep-in-10-minutes-75-commissions-54280.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

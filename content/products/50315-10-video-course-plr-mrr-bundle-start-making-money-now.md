@@ -21,7 +21,7 @@ language: "en"
 ---
 # 10-Video Course PLR + MRR Bundle - Start Making Money NOW!
 
-> Product ID `50315` · Digistore24 productId `576866` · [HTML profile page](../../reviews/10-video-course-plr-mrr-bundle-start-making-money-now-50315.html)
+> Product ID `50315` · Digistore24 productId `576866` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/10-video-course-plr-mrr-bundle-start-making-money-now-50315.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

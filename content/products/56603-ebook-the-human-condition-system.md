@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Human Condition System
 
-> Product ID `56603` · Digistore24 productId `693998` · [HTML profile page](../../reviews/ebook-the-human-condition-system-56603.html)
+> Product ID `56603` · Digistore24 productId `693998` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-human-condition-system-56603.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # ProstaPure 24
 
-> Product ID `48346` · Digistore24 productId `553211` · [HTML profile page](../../reviews/prostapure-24-48346.html)
+> Product ID `48346` · Digistore24 productId `553211` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/prostapure-24-48346.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

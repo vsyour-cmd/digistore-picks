@@ -21,7 +21,7 @@ language: "en"
 ---
 # Shopify Launch Made Simple-50% Affiliate Commission
 
-> Product ID `56536` · Digistore24 productId `691719` · [HTML profile page](../../reviews/shopify-launch-made-simple-50-affiliate-commission-56536.html)
+> Product ID `56536` · Digistore24 productId `691719` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/shopify-launch-made-simple-50-affiliate-commission-56536.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

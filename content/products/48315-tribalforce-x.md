@@ -21,7 +21,7 @@ language: "en"
 ---
 # TribalForce X
 
-> Product ID `48315` · Digistore24 productId `552629` · [HTML profile page](../../reviews/tribalforce-x-48315.html)
+> Product ID `48315` · Digistore24 productId `552629` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tribalforce-x-48315.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

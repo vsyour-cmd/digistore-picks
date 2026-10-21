@@ -21,7 +21,7 @@ language: "en"
 ---
 # ⚡️The Ultimate Keto Meal Plan⚡️ Make $37 AOV With A $1 Sale
 
-> Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](../../reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)
+> Product ID `37838` · Digistore24 productId `283755` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ultimate-keto-meal-plan-make-37-aov-with-a-1-sale-37838.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

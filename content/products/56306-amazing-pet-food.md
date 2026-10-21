@@ -21,7 +21,7 @@ language: "en"
 ---
 # Amazing Pet Food
 
-> Product ID `56306` · Digistore24 productId `685592` · [HTML profile page](../../reviews/amazing-pet-food-56306.html)
+> Product ID `56306` · Digistore24 productId `685592` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/amazing-pet-food-56306.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

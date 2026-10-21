@@ -21,7 +21,7 @@ language: "en"
 ---
 # How to deal with autism
 
-> Product ID `60626` · Digistore24 productId `748282` · [HTML profile page](../../reviews/how-to-deal-with-autism-60626.html)
+> Product ID `60626` · Digistore24 productId `748282` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/how-to-deal-with-autism-60626.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

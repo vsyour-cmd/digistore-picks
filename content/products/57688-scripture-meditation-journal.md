@@ -21,7 +21,7 @@ language: "en"
 ---
 # Scripture Meditation Journal
 
-> Product ID `57688` · Digistore24 productId `714377` · [HTML profile page](../../reviews/scripture-meditation-journal-57688.html)
+> Product ID `57688` · Digistore24 productId `714377` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/scripture-meditation-journal-57688.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

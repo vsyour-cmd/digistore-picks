@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lightroom Presets - Optimize Your Content!
 
-> Product ID `55898` · Digistore24 productId `658180` · [HTML profile page](../../reviews/lightroom-presets-optimize-your-content-55898.html)
+> Product ID `55898` · Digistore24 productId `658180` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lightroom-presets-optimize-your-content-55898.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

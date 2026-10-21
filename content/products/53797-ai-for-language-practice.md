@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI for Language Practice
 
-> Product ID `53797` · Digistore24 productId `633495` · [HTML profile page](../../reviews/ai-for-language-practice-53797.html)
+> Product ID `53797` · Digistore24 productId `633495` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-for-language-practice-53797.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

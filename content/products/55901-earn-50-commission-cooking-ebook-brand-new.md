@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 50% Commission | Cooking eBook | Brand New
 
-> Product ID `55901` · Digistore24 productId `675076` · [HTML profile page](../../reviews/earn-50-commission-cooking-ebook-brand-new-55901.html)
+> Product ID `55901` · Digistore24 productId `675076` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-50-commission-cooking-ebook-brand-new-55901.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

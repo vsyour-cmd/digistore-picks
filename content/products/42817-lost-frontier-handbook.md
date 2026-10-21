@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lost Frontier Handbook
 
-> Product ID `42817` · Digistore24 productId `382793` · [HTML profile page](../../reviews/lost-frontier-handbook-42817.html)
+> Product ID `42817` · Digistore24 productId `382793` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lost-frontier-handbook-42817.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

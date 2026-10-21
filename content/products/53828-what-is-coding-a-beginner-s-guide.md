@@ -21,7 +21,7 @@ language: "en"
 ---
 # What is Coding_A Beginner’s Guide
 
-> Product ID `53828` · Digistore24 productId `633829` · [HTML profile page](../../reviews/what-is-coding-a-beginner-s-guide-53828.html)
+> Product ID `53828` · Digistore24 productId `633829` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/what-is-coding-a-beginner-s-guide-53828.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

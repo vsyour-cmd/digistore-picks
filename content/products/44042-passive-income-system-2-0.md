@@ -21,7 +21,7 @@ language: "en"
 ---
 # Passive Income System 2.0
 
-> Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](../../reviews/passive-income-system-2-0-44042.html)
+> Product ID `44042` · Digistore24 productId `361682` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/passive-income-system-2-0-44042.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

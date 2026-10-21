@@ -21,7 +21,7 @@ language: "en"
 ---
 # Small Business Customer Growth Toolkit for Local Businesses
 
-> Product ID `58694` · Digistore24 productId `724574` · [HTML profile page](../../reviews/small-business-customer-growth-toolkit-for-local-businesses-58694.html)
+> Product ID `58694` · Digistore24 productId `724574` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/small-business-customer-growth-toolkit-for-local-businesses-58694.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

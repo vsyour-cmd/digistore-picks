@@ -21,7 +21,7 @@ language: "en"
 ---
 # Complaint Handling for Small Online Shops (English)
 
-> Product ID `59459` · Digistore24 productId `735501` · [HTML profile page](../../reviews/complaint-handling-for-small-online-shops-english-59459.html)
+> Product ID `59459` · Digistore24 productId `735501` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/complaint-handling-for-small-online-shops-english-59459.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

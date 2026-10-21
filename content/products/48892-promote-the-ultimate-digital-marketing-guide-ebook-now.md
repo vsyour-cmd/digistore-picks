@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote the Ultimate Digital Marketing Guide eBook now!
 
-> Product ID `48892` · Digistore24 productId `561883` · [HTML profile page](../../reviews/promote-the-ultimate-digital-marketing-guide-ebook-now-48892.html)
+> Product ID `48892` · Digistore24 productId `561883` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-the-ultimate-digital-marketing-guide-ebook-now-48892.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

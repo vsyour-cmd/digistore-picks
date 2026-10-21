@@ -21,7 +21,7 @@ language: "en"
 ---
 # 600+ Fall Halloween Content Bundle- Your MUST HAVE
 
-> Product ID `54054` · Digistore24 productId `635878` · [HTML profile page](../../reviews/600-fall-halloween-content-bundle-your-must-have-54054.html)
+> Product ID `54054` · Digistore24 productId `635878` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/600-fall-halloween-content-bundle-your-must-have-54054.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

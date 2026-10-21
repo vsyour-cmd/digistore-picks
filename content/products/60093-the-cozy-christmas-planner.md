@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Cozy Christmas Planner
 
-> Product ID `60093` · Digistore24 productId `739892` · [HTML profile page](../../reviews/the-cozy-christmas-planner-60093.html)
+> Product ID `60093` · Digistore24 productId `739892` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-cozy-christmas-planner-60093.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

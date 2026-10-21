@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Creative Entrepreneur
 
-> Product ID `53760` · Digistore24 productId `633279` · [HTML profile page](../../reviews/the-creative-entrepreneur-53760.html)
+> Product ID `53760` · Digistore24 productId `633279` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-creative-entrepreneur-53760.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

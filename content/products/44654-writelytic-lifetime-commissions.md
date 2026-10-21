@@ -21,7 +21,7 @@ language: "en"
 ---
 # Writelytic - Lifetime Commissions
 
-> Product ID `44654` · Digistore24 productId `497626` · [HTML profile page](../../reviews/writelytic-lifetime-commissions-44654.html)
+> Product ID `44654` · Digistore24 productId `497626` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/writelytic-lifetime-commissions-44654.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # UGC Creator for Beginners  Practical Course (English)
 
-> Product ID `59454` · Digistore24 productId `735496` · [HTML profile page](../../reviews/ugc-creator-for-beginners-practical-course-english-59454.html)
+> Product ID `59454` · Digistore24 productId `735496` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ugc-creator-for-beginners-practical-course-english-59454.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

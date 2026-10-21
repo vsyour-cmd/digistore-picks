@@ -21,7 +21,7 @@ language: "en"
 ---
 # Detachment Without Disappearing
 
-> Product ID `55399` · Digistore24 productId `665305` · [HTML profile page](../../reviews/detachment-without-disappearing-55399.html)
+> Product ID `55399` · Digistore24 productId `665305` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/detachment-without-disappearing-55399.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

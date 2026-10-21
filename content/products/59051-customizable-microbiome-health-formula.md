@@ -21,7 +21,7 @@ language: "en"
 ---
 # Customizable microbiome health formula
 
-> Product ID `59051` · Digistore24 productId `731580` · [HTML profile page](../../reviews/customizable-microbiome-health-formula-59051.html)
+> Product ID `59051` · Digistore24 productId `731580` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/customizable-microbiome-health-formula-59051.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

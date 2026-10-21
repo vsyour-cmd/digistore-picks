@@ -21,7 +21,7 @@ language: "en"
 ---
 # Complete Muscle-Building System for Beginners and Intermedia
 
-> Product ID `57569` · Digistore24 productId `711187` · [HTML profile page](../../reviews/complete-muscle-building-system-for-beginners-and-intermedia-57569.html)
+> Product ID `57569` · Digistore24 productId `711187` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/complete-muscle-building-system-for-beginners-and-intermedia-57569.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

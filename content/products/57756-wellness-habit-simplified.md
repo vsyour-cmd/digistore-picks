@@ -21,7 +21,7 @@ language: "en"
 ---
 # Wellness Habit Simplified
 
-> Product ID `57756` · Digistore24 productId `715604` · [HTML profile page](../../reviews/wellness-habit-simplified-57756.html)
+> Product ID `57756` · Digistore24 productId `715604` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/wellness-habit-simplified-57756.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

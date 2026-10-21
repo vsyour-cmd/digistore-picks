@@ -21,7 +21,7 @@ language: "en"
 ---
 # Faith and Finances: A Christian Financial Planner
 
-> Product ID `58823` · Digistore24 productId `728374` · [HTML profile page](../../reviews/faith-and-finances-a-christian-financial-planner-58823.html)
+> Product ID `58823` · Digistore24 productId `728374` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/faith-and-finances-a-christian-financial-planner-58823.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

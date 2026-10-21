@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI FOR DUMMIES ORIGINAL
 
-> Product ID `57439` · Digistore24 productId `701222` · [HTML profile page](../../reviews/ai-for-dummies-original-57439.html)
+> Product ID `57439` · Digistore24 productId `701222` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-for-dummies-original-57439.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

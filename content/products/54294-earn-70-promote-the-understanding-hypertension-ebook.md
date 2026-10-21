@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 70%  Promote the Understanding Hypertension Ebook
 
-> Product ID `54294` · Digistore24 productId `639953` · [HTML profile page](../../reviews/earn-70-promote-the-understanding-hypertension-ebook-54294.html)
+> Product ID `54294` · Digistore24 productId `639953` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-70-promote-the-understanding-hypertension-ebook-54294.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

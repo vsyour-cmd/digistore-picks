@@ -21,7 +21,7 @@ language: "en"
 ---
 # Strike: Digital Bundle (6 Videos + 6 Audios + 6 PDF)
 
-> Product ID `55837` · Digistore24 productId `671787` · [HTML profile page](../../reviews/strike-digital-bundle-6-videos-6-audios-6-pdf-55837.html)
+> Product ID `55837` · Digistore24 productId `671787` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/strike-digital-bundle-6-videos-6-audios-6-pdf-55837.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

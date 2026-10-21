@@ -21,7 +21,7 @@ language: "en"
 ---
 # Listimo – AI Amazon listing from 1 photo | up to €150 commission
 
-> Product ID `58933` · Digistore24 productId `730167` · [HTML profile page](../../reviews/listimo-ai-amazon-listing-from-1-photo-up-to-150-commission-58933.html)
+> Product ID `58933` · Digistore24 productId `730167` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/listimo-ai-amazon-listing-from-1-photo-up-to-150-commission-58933.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # 30-Day Keto Revolution (4-in-1 Master Bundle) | High Convert
 
-> Product ID `58220` · Digistore24 productId `693684` · [HTML profile page](../../reviews/30-day-keto-revolution-4-in-1-master-bundle-high-convert-58220.html)
+> Product ID `58220` · Digistore24 productId `693684` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/30-day-keto-revolution-4-in-1-master-bundle-high-convert-58220.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

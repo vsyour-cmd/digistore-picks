@@ -21,7 +21,7 @@ language: "en"
 ---
 # 21st Century Survival Kit - MAGA 1.0
 
-> Product ID `51780` · Digistore24 productId `601972` · [HTML profile page](../../reviews/21st-century-survival-kit-maga-1-0-51780.html)
+> Product ID `51780` · Digistore24 productId `601972` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/21st-century-survival-kit-maga-1-0-51780.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Find Weird "Goldmine" Domains In Seconds
 
-> Product ID `39260` · Digistore24 productId `412895` · [HTML profile page](../../reviews/find-weird-goldmine-domains-in-seconds-39260.html)
+> Product ID `39260` · Digistore24 productId `412895` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/find-weird-goldmine-domains-in-seconds-39260.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

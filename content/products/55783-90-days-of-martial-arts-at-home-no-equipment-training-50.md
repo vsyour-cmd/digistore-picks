@@ -21,7 +21,7 @@ language: "en"
 ---
 # 90 Days of Martial Arts at Home —  No Equipment Training 50%
 
-> Product ID `55783` · Digistore24 productId `672537` · [HTML profile page](../../reviews/90-days-of-martial-arts-at-home-no-equipment-training-50-55783.html)
+> Product ID `55783` · Digistore24 productId `672537` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/90-days-of-martial-arts-at-home-no-equipment-training-50-55783.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

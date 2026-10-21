@@ -21,7 +21,7 @@ language: "en"
 ---
 # Build Self-Esteem and Confidence
 
-> Product ID `53835` · Digistore24 productId `633822` · [HTML profile page](../../reviews/build-self-esteem-and-confidence-53835.html)
+> Product ID `53835` · Digistore24 productId `633822` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/build-self-esteem-and-confidence-53835.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

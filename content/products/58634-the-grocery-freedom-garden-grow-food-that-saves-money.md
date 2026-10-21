@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Grocery Freedom Garden: Grow Food That Saves Money
 
-> Product ID `58634` · Digistore24 productId `722515` · [HTML profile page](../../reviews/the-grocery-freedom-garden-grow-food-that-saves-money-58634.html)
+> Product ID `58634` · Digistore24 productId `722515` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-grocery-freedom-garden-grow-food-that-saves-money-58634.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

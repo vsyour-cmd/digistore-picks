@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Essentials Playbook
 
-> Product ID `59531` · Digistore24 productId `735955` · [HTML profile page](../../reviews/ai-essentials-playbook-59531.html)
+> Product ID `59531` · Digistore24 productId `735955` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-essentials-playbook-59531.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

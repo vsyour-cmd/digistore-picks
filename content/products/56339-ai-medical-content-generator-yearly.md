@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Medical Content Generator – Yearly
 
-> Product ID `56339` · Digistore24 productId `677266` · [HTML profile page](../../reviews/ai-medical-content-generator-yearly-56339.html)
+> Product ID `56339` · Digistore24 productId `677266` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-medical-content-generator-yearly-56339.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

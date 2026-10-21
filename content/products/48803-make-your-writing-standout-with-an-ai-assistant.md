@@ -21,7 +21,7 @@ language: "en"
 ---
 # Make your writing standout with an AI Assistant
 
-> Product ID `48803` · Digistore24 productId `564237` · [HTML profile page](../../reviews/make-your-writing-standout-with-an-ai-assistant-48803.html)
+> Product ID `48803` · Digistore24 productId `564237` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/make-your-writing-standout-with-an-ai-assistant-48803.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

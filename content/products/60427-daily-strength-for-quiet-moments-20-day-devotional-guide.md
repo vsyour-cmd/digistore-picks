@@ -21,7 +21,7 @@ language: "en"
 ---
 # Daily Strength for Quiet Moments  20 Day Devotional Guide
 
-> Product ID `60427` · Digistore24 productId `728931` · [HTML profile page](../../reviews/daily-strength-for-quiet-moments-20-day-devotional-guide-60427.html)
+> Product ID `60427` · Digistore24 productId `728931` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/daily-strength-for-quiet-moments-20-day-devotional-guide-60427.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

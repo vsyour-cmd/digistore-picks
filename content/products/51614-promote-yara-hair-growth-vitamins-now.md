@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote Yara Hair Growth Vitamins Now!
 
-> Product ID `51614` · Digistore24 productId `599088` · [HTML profile page](../../reviews/promote-yara-hair-growth-vitamins-now-51614.html)
+> Product ID `51614` · Digistore24 productId `599088` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-yara-hair-growth-vitamins-now-51614.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

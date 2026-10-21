@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Consistent Wellness Playbook
 
-> Product ID `60496` · Digistore24 productId `741696` · [HTML profile page](../../reviews/the-consistent-wellness-playbook-60496.html)
+> Product ID `60496` · Digistore24 productId `741696` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-consistent-wellness-playbook-60496.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # High-Converting Herbal Health Offer Solve 28+ Common Problem
 
-> Product ID `55786` · Digistore24 productId `668910` · [HTML profile page](../../reviews/high-converting-herbal-health-offer-solve-28-common-problem-55786.html)
+> Product ID `55786` · Digistore24 productId `668910` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/high-converting-herbal-health-offer-solve-28-common-problem-55786.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pinterest Passive Income
 
-> Product ID `57397` · Digistore24 productId `708570` · [HTML profile page](../../reviews/pinterest-passive-income-57397.html)
+> Product ID `57397` · Digistore24 productId `708570` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pinterest-passive-income-57397.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

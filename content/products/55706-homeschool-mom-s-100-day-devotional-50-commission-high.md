@@ -21,7 +21,7 @@ language: "en"
 ---
 # Homeschool Mom’s 100-Day Devotional - 50% Commission - High-
 
-> Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](../../reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)
+> Product ID `55706` · Digistore24 productId `669825` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/homeschool-mom-s-100-day-devotional-50-commission-high-55706.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

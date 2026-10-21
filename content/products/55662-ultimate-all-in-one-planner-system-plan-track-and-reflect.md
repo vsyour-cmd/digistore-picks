@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ultimate All-in-One Planner System – Plan, Track and Reflect
 
-> Product ID `55662` · Digistore24 productId `666132` · [HTML profile page](../../reviews/ultimate-all-in-one-planner-system-plan-track-and-reflect-55662.html)
+> Product ID `55662` · Digistore24 productId `666132` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ultimate-all-in-one-planner-system-plan-track-and-reflect-55662.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

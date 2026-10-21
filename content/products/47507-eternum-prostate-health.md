@@ -21,7 +21,7 @@ language: "en"
 ---
 # Eternum Prostate Health
 
-> Product ID `47507` · Digistore24 productId `541623` · [HTML profile page](../../reviews/eternum-prostate-health-47507.html)
+> Product ID `47507` · Digistore24 productId `541623` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/eternum-prostate-health-47507.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

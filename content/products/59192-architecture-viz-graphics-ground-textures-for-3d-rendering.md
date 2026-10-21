@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Ground Textures for 3D Rendering
 
-> Product ID `59192` · Digistore24 productId `593593` · [HTML profile page](../../reviews/architecture-viz-graphics-ground-textures-for-3d-rendering-59192.html)
+> Product ID `59192` · Digistore24 productId `593593` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-ground-textures-for-3d-rendering-59192.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

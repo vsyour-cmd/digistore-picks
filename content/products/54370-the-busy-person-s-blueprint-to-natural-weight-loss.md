@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Busy Person's Blueprint to Natural Weight Loss
 
-> Product ID `54370` · Digistore24 productId `641039` · [HTML profile page](../../reviews/the-busy-person-s-blueprint-to-natural-weight-loss-54370.html)
+> Product ID `54370` · Digistore24 productId `641039` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-busy-person-s-blueprint-to-natural-weight-loss-54370.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

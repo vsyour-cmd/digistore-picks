@@ -21,7 +21,7 @@ language: "en"
 ---
 # Raspberry Pi for Beginners (Mac+PC)
 
-> Product ID `30133` · Digistore24 productId `271198` · [HTML profile page](../../reviews/raspberry-pi-for-beginners-mac-pc-30133.html)
+> Product ID `30133` · Digistore24 productId `271198` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/raspberry-pi-for-beginners-mac-pc-30133.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

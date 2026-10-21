@@ -21,7 +21,7 @@ language: "en"
 ---
 # Keskara
 
-> Product ID `48893` · Digistore24 productId `544733` · [HTML profile page](../../reviews/keskara-48893.html)
+> Product ID `48893` · Digistore24 productId `544733` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/keskara-48893.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

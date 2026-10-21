@@ -21,7 +21,7 @@ language: "en"
 ---
 # Gluco Ally
 
-> Product ID `50336` · Digistore24 productId `576400` · [HTML profile page](../../reviews/gluco-ally-50336.html)
+> Product ID `50336` · Digistore24 productId `576400` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/gluco-ally-50336.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

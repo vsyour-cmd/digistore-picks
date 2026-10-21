@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Quiet Money Methode
 
-> Product ID `58900` · Digistore24 productId `729520` · [HTML profile page](../../reviews/the-quiet-money-methode-58900.html)
+> Product ID `58900` · Digistore24 productId `729520` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-quiet-money-methode-58900.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

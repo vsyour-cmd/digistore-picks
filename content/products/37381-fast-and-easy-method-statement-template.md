@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fast and Easy Method Statement Template
 
-> Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](../../reviews/fast-and-easy-method-statement-template-37381.html)
+> Product ID `37381` · Digistore24 productId `385202` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fast-and-easy-method-statement-template-37381.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

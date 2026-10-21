@@ -21,7 +21,7 @@ language: "en"
 ---
 # Leptozan
 
-> Product ID `56051` · Digistore24 productId `644649` · [HTML profile page](../../reviews/leptozan-56051.html)
+> Product ID `56051` · Digistore24 productId `644649` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/leptozan-56051.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

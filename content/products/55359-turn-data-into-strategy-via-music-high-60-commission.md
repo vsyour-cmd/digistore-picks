@@ -21,7 +21,7 @@ language: "en"
 ---
 # Turn Data Into Strategy via Music | High 60% Commission
 
-> Product ID `55359` · Digistore24 productId `661247` · [HTML profile page](../../reviews/turn-data-into-strategy-via-music-high-60-commission-55359.html)
+> Product ID `55359` · Digistore24 productId `661247` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/turn-data-into-strategy-via-music-high-60-commission-55359.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Real Fitness for Busy Women
 
-> Product ID `53943` · Digistore24 productId `635403` · [HTML profile page](../../reviews/real-fitness-for-busy-women-53943.html)
+> Product ID `53943` · Digistore24 productId `635403` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/real-fitness-for-busy-women-53943.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Start Promoting NeuroVera Today!
 
-> Product ID `55653` · Digistore24 productId `669703` · [HTML profile page](../../reviews/start-promoting-neurovera-today-55653.html)
+> Product ID `55653` · Digistore24 productId `669703` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/start-promoting-neurovera-today-55653.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

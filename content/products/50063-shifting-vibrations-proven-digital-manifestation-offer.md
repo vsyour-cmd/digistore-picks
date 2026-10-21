@@ -21,7 +21,7 @@ language: "en"
 ---
 # Shifting Vibrations - Proven Digital Manifestation Offer
 
-> Product ID `50063` · Digistore24 productId `574669` · [HTML profile page](../../reviews/shifting-vibrations-proven-digital-manifestation-offer-50063.html)
+> Product ID `50063` · Digistore24 productId `574669` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/shifting-vibrations-proven-digital-manifestation-offer-50063.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

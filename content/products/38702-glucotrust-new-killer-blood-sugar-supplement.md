@@ -21,7 +21,7 @@ language: "en"
 ---
 # Glucotrust: New Killer Blood Sugar Supplement
 
-> Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](../../reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)
+> Product ID `38702` · Digistore24 productId `419540` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/glucotrust-new-killer-blood-sugar-supplement-38702.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

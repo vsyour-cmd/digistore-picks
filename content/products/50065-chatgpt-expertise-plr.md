@@ -21,7 +21,7 @@ language: "en"
 ---
 # ChatGPT-Expertise-PLR
 
-> Product ID `50065` · Digistore24 productId `575043` · [HTML profile page](../../reviews/chatgpt-expertise-plr-50065.html)
+> Product ID `50065` · Digistore24 productId `575043` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/chatgpt-expertise-plr-50065.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

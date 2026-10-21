@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Authentic Self System
 
-> Product ID `56816` · Digistore24 productId `698862` · [HTML profile page](../../reviews/ebook-the-authentic-self-system-56816.html)
+> Product ID `56816` · Digistore24 productId `698862` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-authentic-self-system-56816.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

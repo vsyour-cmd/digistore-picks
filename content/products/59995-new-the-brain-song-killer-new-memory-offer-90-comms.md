@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: The Brain Song - Killer NEW Memory Offer - 90% Comms
 
-> Product ID `59995` · Digistore24 productId `738155` · [HTML profile page](../../reviews/new-the-brain-song-killer-new-memory-offer-90-comms-59995.html)
+> Product ID `59995` · Digistore24 productId `738155` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-the-brain-song-killer-new-memory-offer-90-comms-59995.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

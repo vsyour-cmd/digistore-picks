@@ -21,7 +21,7 @@ language: "en"
 ---
 # Grief And Meaning Finding Purpose And Spiritual Renewal After L
 
-> Product ID `59620` · Digistore24 productId `736738` · [HTML profile page](../../reviews/grief-and-meaning-finding-purpose-and-spiritual-renewal-after-l-59620.html)
+> Product ID `59620` · Digistore24 productId `736738` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/grief-and-meaning-finding-purpose-and-spiritual-renewal-after-l-59620.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # ⚡️NEW: 2 Week Smoothie Diet⚡️ –Top Affs Making $40K+ Monthly
 
-> Product ID `58481` · Digistore24 productId `724261` · [HTML profile page](../../reviews/new-2-week-smoothie-diet-top-affs-making-40k-monthly-58481.html)
+> Product ID `58481` · Digistore24 productId `724261` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-2-week-smoothie-diet-top-affs-making-40k-monthly-58481.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

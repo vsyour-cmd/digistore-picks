@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Pure Art of Serrada Escrima SerCuerdas English
 
-> Product ID `22975` · Digistore24 productId `203487` · [HTML profile page](../../reviews/the-pure-art-of-serrada-escrima-sercuerdas-english-22975.html)
+> Product ID `22975` · Digistore24 productId `203487` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-pure-art-of-serrada-escrima-sercuerdas-english-22975.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

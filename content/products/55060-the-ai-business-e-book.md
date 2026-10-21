@@ -21,7 +21,7 @@ language: "en"
 ---
 # The AI Business E-book
 
-> Product ID `55060` · Digistore24 productId `658074` · [HTML profile page](../../reviews/the-ai-business-e-book-55060.html)
+> Product ID `55060` · Digistore24 productId `658074` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ai-business-e-book-55060.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote this new Natural Sleep offer from legendary MD Dr. A
 
-> Product ID `49400` · Digistore24 productId `567661` · [HTML profile page](../../reviews/promote-this-new-natural-sleep-offer-from-legendary-md-dr-a-49400.html)
+> Product ID `49400` · Digistore24 productId `567661` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-this-new-natural-sleep-offer-from-legendary-md-dr-a-49400.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

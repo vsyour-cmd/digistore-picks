@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Super Mind Evolution System
 
-> Product ID `57107` · Digistore24 productId `690000` · [HTML profile page](../../reviews/the-super-mind-evolution-system-57107.html)
+> Product ID `57107` · Digistore24 productId `690000` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-super-mind-evolution-system-57107.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

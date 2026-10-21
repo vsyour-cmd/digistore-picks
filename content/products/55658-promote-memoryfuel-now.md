@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote MemoryFuel Now!
 
-> Product ID `55658` · Digistore24 productId `669662` · [HTML profile page](../../reviews/promote-memoryfuel-now-55658.html)
+> Product ID `55658` · Digistore24 productId `669662` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-memoryfuel-now-55658.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

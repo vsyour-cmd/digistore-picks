@@ -21,7 +21,7 @@ language: "en"
 ---
 # Restore Hormonal Balance Naturally
 
-> Product ID `55093` · Digistore24 productId `656092` · [HTML profile page](../../reviews/restore-hormonal-balance-naturally-55093.html)
+> Product ID `55093` · Digistore24 productId `656092` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/restore-hormonal-balance-naturally-55093.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

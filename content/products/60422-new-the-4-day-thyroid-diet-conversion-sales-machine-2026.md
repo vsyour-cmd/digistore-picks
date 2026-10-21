@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: The 4 Day Thyroid Diet - Conversion Sales Machine 2026!
 
-> Product ID `60422` · Digistore24 productId `723499` · [HTML profile page](../../reviews/new-the-4-day-thyroid-diet-conversion-sales-machine-2026-60422.html)
+> Product ID `60422` · Digistore24 productId `723499` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-the-4-day-thyroid-diet-conversion-sales-machine-2026-60422.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

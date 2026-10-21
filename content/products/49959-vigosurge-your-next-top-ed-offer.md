@@ -21,7 +21,7 @@ language: "en"
 ---
 # VigoSurge - Your Next Top ED Offer
 
-> Product ID `49959` · Digistore24 productId `571050` · [HTML profile page](../../reviews/vigosurge-your-next-top-ed-offer-49959.html)
+> Product ID `49959` · Digistore24 productId `571050` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/vigosurge-your-next-top-ed-offer-49959.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

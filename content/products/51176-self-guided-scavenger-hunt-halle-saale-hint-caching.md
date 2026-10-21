@@ -21,7 +21,7 @@ language: "en"
 ---
 # Self-guided scavenger hunt Halle/Saale | Hint-Caching
 
-> Product ID `51176` · Digistore24 productId `586423` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-halle-saale-hint-caching-51176.html)
+> Product ID `51176` · Digistore24 productId `586423` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/self-guided-scavenger-hunt-halle-saale-hint-caching-51176.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

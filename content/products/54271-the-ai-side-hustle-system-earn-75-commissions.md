@@ -21,7 +21,7 @@ language: "en"
 ---
 # The AI Side Hustle System | Earn 75% Commissions
 
-> Product ID `54271` · Digistore24 productId `639576` · [HTML profile page](../../reviews/the-ai-side-hustle-system-earn-75-commissions-54271.html)
+> Product ID `54271` · Digistore24 productId `639576` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ai-side-hustle-system-earn-75-commissions-54271.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

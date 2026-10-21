@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Fitness System | 5-Product Funnel | 50% Commission
 
-> Product ID `56030` · Digistore24 productId `676273` · [HTML profile page](../../reviews/ai-fitness-system-5-product-funnel-50-commission-56030.html)
+> Product ID `56030` · Digistore24 productId `676273` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-fitness-system-5-product-funnel-50-commission-56030.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

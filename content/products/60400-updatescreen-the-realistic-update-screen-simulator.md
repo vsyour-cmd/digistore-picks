@@ -21,7 +21,7 @@ language: "en"
 ---
 # UpdateScreen – The Realistic Update Screen Simulator
 
-> Product ID `60400` · Digistore24 productId `741384` · [HTML profile page](../../reviews/updatescreen-the-realistic-update-screen-simulator-60400.html)
+> Product ID `60400` · Digistore24 productId `741384` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/updatescreen-the-realistic-update-screen-simulator-60400.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

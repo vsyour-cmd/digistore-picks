@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forex 4D Trader Strategy For MetaTrader 4 Platform
 
-> Product ID `54566` · Digistore24 productId `646119` · [HTML profile page](../../reviews/forex-4d-trader-strategy-for-metatrader-4-platform-54566.html)
+> Product ID `54566` · Digistore24 productId `646119` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forex-4d-trader-strategy-for-metatrader-4-platform-54566.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

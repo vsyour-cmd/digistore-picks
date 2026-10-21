@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Sleep Reset: 14 Nights to Rebooting Your Rest
 
-> Product ID `47506` · Digistore24 productId `544084` · [HTML profile page](../../reviews/the-sleep-reset-14-nights-to-rebooting-your-rest-47506.html)
+> Product ID `47506` · Digistore24 productId `544084` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-sleep-reset-14-nights-to-rebooting-your-rest-47506.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

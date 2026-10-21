@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Complete Plant Based Recipe Cookbook - 200+ Vegan Recipe
 
-> Product ID `48043` · Digistore24 productId `550988` · [HTML profile page](../../reviews/the-complete-plant-based-recipe-cookbook-200-vegan-recipe-48043.html)
+> Product ID `48043` · Digistore24 productId `550988` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-complete-plant-based-recipe-cookbook-200-vegan-recipe-48043.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

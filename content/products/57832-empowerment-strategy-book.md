@@ -21,7 +21,7 @@ language: "en"
 ---
 # Empowerment Strategy Book
 
-> Product ID `57832` · Digistore24 productId `717555` · [HTML profile page](../../reviews/empowerment-strategy-book-57832.html)
+> Product ID `57832` · Digistore24 productId `717555` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/empowerment-strategy-book-57832.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

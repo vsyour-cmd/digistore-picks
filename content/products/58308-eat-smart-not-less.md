@@ -21,7 +21,7 @@ language: "en"
 ---
 # Eat Smart Not Less
 
-> Product ID `58308` · Digistore24 productId `720473` · [HTML profile page](../../reviews/eat-smart-not-less-58308.html)
+> Product ID `58308` · Digistore24 productId `720473` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/eat-smart-not-less-58308.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

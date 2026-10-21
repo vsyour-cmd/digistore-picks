@@ -21,7 +21,7 @@ language: "en"
 ---
 # MADEIRA BY BUS - Interactive Travel Guide For Madeira
 
-> Product ID `50900` · Digistore24 productId `570969` · [HTML profile page](../../reviews/madeira-by-bus-interactive-travel-guide-for-madeira-50900.html)
+> Product ID `50900` · Digistore24 productId `570969` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/madeira-by-bus-interactive-travel-guide-for-madeira-50900.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

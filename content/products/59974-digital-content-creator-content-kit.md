@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Content - Creator Content Kit
 
-> Product ID `59974` · Digistore24 productId `737973` · [HTML profile page](../../reviews/digital-content-creator-content-kit-59974.html)
+> Product ID `59974` · Digistore24 productId `737973` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-content-creator-content-kit-59974.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

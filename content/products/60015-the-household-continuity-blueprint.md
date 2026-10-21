@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Household Continuity Blueprint
 
-> Product ID `60015` · Digistore24 productId `732112` · [HTML profile page](../../reviews/the-household-continuity-blueprint-60015.html)
+> Product ID `60015` · Digistore24 productId `732112` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-household-continuity-blueprint-60015.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

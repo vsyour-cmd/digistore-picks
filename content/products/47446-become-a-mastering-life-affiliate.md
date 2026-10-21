@@ -21,7 +21,7 @@ language: "en"
 ---
 # Become a "Mastering Life" Affiliate!
 
-> Product ID `47446` · Digistore24 productId `542547` · [HTML profile page](../../reviews/become-a-mastering-life-affiliate-47446.html)
+> Product ID `47446` · Digistore24 productId `542547` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/become-a-mastering-life-affiliate-47446.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

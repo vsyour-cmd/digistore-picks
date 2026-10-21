@@ -21,7 +21,7 @@ language: "en"
 ---
 # Parents Guide to Drug Abuse Talks
 
-> Product ID `57422` · Digistore24 productId `708478` · [HTML profile page](../../reviews/parents-guide-to-drug-abuse-talks-57422.html)
+> Product ID `57422` · Digistore24 productId `708478` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/parents-guide-to-drug-abuse-talks-57422.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

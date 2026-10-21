@@ -21,7 +21,7 @@ language: "en"
 ---
 # Sustainable Weight Loss Through Mindfulness — No Fad Diets
 
-> Product ID `55098` · Digistore24 productId `656043` · [HTML profile page](../../reviews/sustainable-weight-loss-through-mindfulness-no-fad-diets-55098.html)
+> Product ID `55098` · Digistore24 productId `656043` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/sustainable-weight-loss-through-mindfulness-no-fad-diets-55098.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

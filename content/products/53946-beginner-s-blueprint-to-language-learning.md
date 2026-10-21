@@ -21,7 +21,7 @@ language: "en"
 ---
 # Beginner’s Blueprint to Language Learning
 
-> Product ID `53946` · Digistore24 productId `635400` · [HTML profile page](../../reviews/beginner-s-blueprint-to-language-learning-53946.html)
+> Product ID `53946` · Digistore24 productId `635400` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/beginner-s-blueprint-to-language-learning-53946.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # 10,000 PowerPoint Templates and 20,000 Vector Icons Bundle
 
-> Product ID `59689` · Digistore24 productId `731786` · [HTML profile page](../../reviews/10-000-powerpoint-templates-and-20-000-vector-icons-bundle-59689.html)
+> Product ID `59689` · Digistore24 productId `731786` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/10-000-powerpoint-templates-and-20-000-vector-icons-bundle-59689.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

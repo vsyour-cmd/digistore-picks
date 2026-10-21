@@ -21,7 +21,7 @@ language: "en"
 ---
 # Self-guided scavenger hunt Munich | Hint-Caching
 
-> Product ID `51179` · Digistore24 productId `490011` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-munich-hint-caching-51179.html)
+> Product ID `51179` · Digistore24 productId `490011` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/self-guided-scavenger-hunt-munich-hint-caching-51179.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

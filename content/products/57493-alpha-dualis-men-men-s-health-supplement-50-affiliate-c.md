@@ -21,7 +21,7 @@ language: "en"
 ---
 # Alpha Dualis Men - Men's Health Supplement - 50% Affiliate C
 
-> Product ID `57493` · Digistore24 productId `709652` · [HTML profile page](../../reviews/alpha-dualis-men-men-s-health-supplement-50-affiliate-c-57493.html)
+> Product ID `57493` · Digistore24 productId `709652` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/alpha-dualis-men-men-s-health-supplement-50-affiliate-c-57493.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

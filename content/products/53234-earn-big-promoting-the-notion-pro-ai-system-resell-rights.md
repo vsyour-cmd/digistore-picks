@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn Big Promoting the Notion Pro AI System – Resell Rights
 
-> Product ID `53234` · Digistore24 productId `624660` · [HTML profile page](../../reviews/earn-big-promoting-the-notion-pro-ai-system-resell-rights-53234.html)
+> Product ID `53234` · Digistore24 productId `624660` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-big-promoting-the-notion-pro-ai-system-resell-rights-53234.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

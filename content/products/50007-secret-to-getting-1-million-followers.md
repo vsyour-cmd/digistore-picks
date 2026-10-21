@@ -21,7 +21,7 @@ language: "en"
 ---
 # Secret to getting 1 Million Followers
 
-> Product ID `50007` · Digistore24 productId `574766` · [HTML profile page](../../reviews/secret-to-getting-1-million-followers-50007.html)
+> Product ID `50007` · Digistore24 productId `574766` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/secret-to-getting-1-million-followers-50007.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

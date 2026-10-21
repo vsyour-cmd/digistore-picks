@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Deception Series
 
-> Product ID `56600` · Digistore24 productId `693991` · [HTML profile page](../../reviews/ebook-the-deception-series-56600.html)
+> Product ID `56600` · Digistore24 productId `693991` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-deception-series-56600.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

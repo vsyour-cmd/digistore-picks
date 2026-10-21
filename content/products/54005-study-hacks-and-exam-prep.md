@@ -21,7 +21,7 @@ language: "en"
 ---
 # Study Hacks and Exam Prep
 
-> Product ID `54005` · Digistore24 productId `635725` · [HTML profile page](../../reviews/study-hacks-and-exam-prep-54005.html)
+> Product ID `54005` · Digistore24 productId `635725` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/study-hacks-and-exam-prep-54005.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

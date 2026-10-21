@@ -21,7 +21,7 @@ language: "en"
 ---
 # David’s Shield – New High-Conv VSL (2X CVR!) | $5M+ In Sales
 
-> Product ID `54688` · Digistore24 productId `631625` · [HTML profile page](../../reviews/david-s-shield-new-high-conv-vsl-2x-cvr-5m-in-sales-54688.html)
+> Product ID `54688` · Digistore24 productId `631625` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/david-s-shield-new-high-conv-vsl-2x-cvr-5m-in-sales-54688.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

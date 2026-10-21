@@ -21,7 +21,7 @@ language: "en"
 ---
 # Gut Health 101
 
-> Product ID `54007` · Digistore24 productId `635723` · [HTML profile page](../../reviews/gut-health-101-54007.html)
+> Product ID `54007` · Digistore24 productId `635723` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/gut-health-101-54007.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

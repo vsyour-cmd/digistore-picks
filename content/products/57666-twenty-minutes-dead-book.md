@@ -21,7 +21,7 @@ language: "en"
 ---
 # Twenty Minutes Dead Book
 
-> Product ID `57666` · Digistore24 productId `713216` · [HTML profile page](../../reviews/twenty-minutes-dead-book-57666.html)
+> Product ID `57666` · Digistore24 productId `713216` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/twenty-minutes-dead-book-57666.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

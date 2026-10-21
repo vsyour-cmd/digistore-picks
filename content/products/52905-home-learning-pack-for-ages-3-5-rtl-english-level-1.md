@@ -21,7 +21,7 @@ language: "en"
 ---
 # Home Learning Pack for ages 3-5 | RTL English Level 1
 
-> Product ID `52905` · Digistore24 productId `615878` · [HTML profile page](../../reviews/home-learning-pack-for-ages-3-5-rtl-english-level-1-52905.html)
+> Product ID `52905` · Digistore24 productId `615878` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/home-learning-pack-for-ages-3-5-rtl-english-level-1-52905.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

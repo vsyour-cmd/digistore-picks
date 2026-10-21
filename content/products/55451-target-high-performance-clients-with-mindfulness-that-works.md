@@ -21,7 +21,7 @@ language: "en"
 ---
 # Target High-Performance Clients with Mindfulness that Works
 
-> Product ID `55451` · Digistore24 productId `663737` · [HTML profile page](../../reviews/target-high-performance-clients-with-mindfulness-that-works-55451.html)
+> Product ID `55451` · Digistore24 productId `663737` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/target-high-performance-clients-with-mindfulness-that-works-55451.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

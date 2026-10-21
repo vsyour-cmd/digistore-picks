@@ -21,7 +21,7 @@ language: "en"
 ---
 # Chair Yoga Exercise for Beginners Bundle
 
-> Product ID `51303` · Digistore24 productId `595485` · [HTML profile page](../../reviews/chair-yoga-exercise-for-beginners-bundle-51303.html)
+> Product ID `51303` · Digistore24 productId `595485` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/chair-yoga-exercise-for-beginners-bundle-51303.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

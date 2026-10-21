@@ -21,7 +21,7 @@ language: "en"
 ---
 # Nerve Fresh
 
-> Product ID `50226` · Digistore24 productId `575363` · [HTML profile page](../../reviews/nerve-fresh-50226.html)
+> Product ID `50226` · Digistore24 productId `575363` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/nerve-fresh-50226.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

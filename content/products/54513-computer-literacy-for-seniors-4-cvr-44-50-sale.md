@@ -21,7 +21,7 @@ language: "en"
 ---
 # Computer Literacy for Seniors | 4% CVR | $44.50/Sale
 
-> Product ID `54513` · Digistore24 productId `642084` · [HTML profile page](../../reviews/computer-literacy-for-seniors-4-cvr-44-50-sale-54513.html)
+> Product ID `54513` · Digistore24 productId `642084` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/computer-literacy-for-seniors-4-cvr-44-50-sale-54513.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Business Korean for SUCCESS: Real Korean for the Korean Work
 
-> Product ID `60027` · Digistore24 productId `738726` · [HTML profile page](../../reviews/business-korean-for-success-real-korean-for-the-korean-work-60027.html)
+> Product ID `60027` · Digistore24 productId `738726` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/business-korean-for-success-real-korean-for-the-korean-work-60027.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

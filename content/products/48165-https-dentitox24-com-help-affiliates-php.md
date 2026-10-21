@@ -21,7 +21,7 @@ language: "en"
 ---
 # https://dentitox24.com/help/affiliates.php
 
-> Product ID `48165` · Digistore24 productId `552603` · [HTML profile page](../../reviews/https-dentitox24-com-help-affiliates-php-48165.html)
+> Product ID `48165` · Digistore24 productId `552603` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/https-dentitox24-com-help-affiliates-php-48165.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

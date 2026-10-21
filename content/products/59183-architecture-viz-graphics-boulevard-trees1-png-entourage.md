@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Boulevard Trees1 - PNG Entourage
 
-> Product ID `59183` · Digistore24 productId `593590` · [HTML profile page](../../reviews/architecture-viz-graphics-boulevard-trees1-png-entourage-59183.html)
+> Product ID `59183` · Digistore24 productId `593590` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-boulevard-trees1-png-entourage-59183.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

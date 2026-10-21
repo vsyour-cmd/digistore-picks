@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Personal Energy Protocol — A Custom Plan for Men 40–65
 
-> Product ID `57315` · Digistore24 productId `705028` · [HTML profile page](../../reviews/the-personal-energy-protocol-a-custom-plan-for-men-40-65-57315.html)
+> Product ID `57315` · Digistore24 productId `705028` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-personal-energy-protocol-a-custom-plan-for-men-40-65-57315.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

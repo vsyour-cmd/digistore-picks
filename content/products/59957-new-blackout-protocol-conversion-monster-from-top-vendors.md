@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: Blackout Protocol - Conversion Monster From Top Vendors
 
-> Product ID `59957` · Digistore24 productId `738067` · [HTML profile page](../../reviews/new-blackout-protocol-conversion-monster-from-top-vendors-59957.html)
+> Product ID `59957` · Digistore24 productId `738067` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-blackout-protocol-conversion-monster-from-top-vendors-59957.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

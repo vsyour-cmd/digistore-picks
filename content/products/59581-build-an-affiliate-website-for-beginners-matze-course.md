@@ -21,7 +21,7 @@ language: "en"
 ---
 # Build an Affiliate Website for Beginners – Matze Course
 
-> Product ID `59581` · Digistore24 productId `736406` · [HTML profile page](../../reviews/build-an-affiliate-website-for-beginners-matze-course-59581.html)
+> Product ID `59581` · Digistore24 productId `736406` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/build-an-affiliate-website-for-beginners-matze-course-59581.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

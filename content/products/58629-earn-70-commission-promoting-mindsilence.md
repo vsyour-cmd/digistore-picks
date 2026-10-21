@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 70% commission promoting MindSilence!
 
-> Product ID `58629` · Digistore24 productId `719005` · [HTML profile page](../../reviews/earn-70-commission-promoting-mindsilence-58629.html)
+> Product ID `58629` · Digistore24 productId `719005` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-70-commission-promoting-mindsilence-58629.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

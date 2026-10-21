@@ -21,7 +21,7 @@ language: "en"
 ---
 # 5 Year Time Capsule Experience for Faith-Based Families Familie
 
-> Product ID `58760` · Digistore24 productId `727353` · [HTML profile page](../../reviews/5-year-time-capsule-experience-for-faith-based-families-familie-58760.html)
+> Product ID `58760` · Digistore24 productId `727353` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/5-year-time-capsule-experience-for-faith-based-families-familie-58760.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

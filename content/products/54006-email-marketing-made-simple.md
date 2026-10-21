@@ -21,7 +21,7 @@ language: "en"
 ---
 # Email Marketing Made Simple
 
-> Product ID `54006` · Digistore24 productId `635724` · [HTML profile page](../../reviews/email-marketing-made-simple-54006.html)
+> Product ID `54006` · Digistore24 productId `635724` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/email-marketing-made-simple-54006.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

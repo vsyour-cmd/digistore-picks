@@ -21,7 +21,7 @@ language: "en"
 ---
 # Customer Service Reply Toolkit - 20 Practice Scenarios (English)
 
-> Product ID `59451` · Digistore24 productId `735470` · [HTML profile page](../../reviews/customer-service-reply-toolkit-20-practice-scenarios-english-59451.html)
+> Product ID `59451` · Digistore24 productId `735470` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/customer-service-reply-toolkit-20-practice-scenarios-english-59451.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

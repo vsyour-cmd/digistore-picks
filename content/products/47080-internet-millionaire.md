@@ -21,7 +21,7 @@ language: "en"
 ---
 # Internet Millionaire
 
-> Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](../../reviews/internet-millionaire-47080.html)
+> Product ID `47080` · Digistore24 productId `526858` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/internet-millionaire-47080.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

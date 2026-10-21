@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Content and Social Growth Toolkit for Small Businesses an
 
-> Product ID `58690` · Digistore24 productId `724941` · [HTML profile page](../../reviews/ai-content-and-social-growth-toolkit-for-small-businesses-an-58690.html)
+> Product ID `58690` · Digistore24 productId `724941` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-content-and-social-growth-toolkit-for-small-businesses-an-58690.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

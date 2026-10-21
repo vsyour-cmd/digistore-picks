@@ -21,7 +21,7 @@ language: "en"
 ---
 # Local Lead Generation Blueprint | Earn 75% Commissions
 
-> Product ID `54269` · Digistore24 productId `639579` · [HTML profile page](../../reviews/local-lead-generation-blueprint-earn-75-commissions-54269.html)
+> Product ID `54269` · Digistore24 productId `639579` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/local-lead-generation-blueprint-earn-75-commissions-54269.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Rise of the Multipolar World - Volume VI
 
-> Product ID `58712` · Digistore24 productId `726723` · [HTML profile page](../../reviews/ebook-the-rise-of-the-multipolar-world-volume-vi-58712.html)
+> Product ID `58712` · Digistore24 productId `726723` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-rise-of-the-multipolar-world-volume-vi-58712.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

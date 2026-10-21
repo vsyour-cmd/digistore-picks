@@ -21,7 +21,7 @@ language: "en"
 ---
 # Cute Halloween Ghost Clipart Bundle - High Quality PNG Graph
 
-> Product ID `60217` · Digistore24 productId `740429` · [HTML profile page](../../reviews/cute-halloween-ghost-clipart-bundle-high-quality-png-graph-60217.html)
+> Product ID `60217` · Digistore24 productId `740429` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/cute-halloween-ghost-clipart-bundle-high-quality-png-graph-60217.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

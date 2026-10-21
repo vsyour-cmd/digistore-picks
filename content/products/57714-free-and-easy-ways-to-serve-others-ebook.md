@@ -21,7 +21,7 @@ language: "en"
 ---
 # Free and Easy Ways to Serve Others - eBook
 
-> Product ID `57714` · Digistore24 productId `714883` · [HTML profile page](../../reviews/free-and-easy-ways-to-serve-others-ebook-57714.html)
+> Product ID `57714` · Digistore24 productId `714883` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/free-and-easy-ways-to-serve-others-ebook-57714.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

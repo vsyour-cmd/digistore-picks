@@ -21,7 +21,7 @@ language: "en"
 ---
 # MyFormatConverter – Your All-in-One Solution for Media Files
 
-> Product ID `52069` · Digistore24 productId `605870` · [HTML profile page](../../reviews/myformatconverter-your-all-in-one-solution-for-media-files-52069.html)
+> Product ID `52069` · Digistore24 productId `605870` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/myformatconverter-your-all-in-one-solution-for-media-files-52069.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

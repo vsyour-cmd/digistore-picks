@@ -21,7 +21,7 @@ language: "en"
 ---
 # Preparing Your Child to Be a Latchkey Kid
 
-> Product ID `57425` · Digistore24 productId `708484` · [HTML profile page](../../reviews/preparing-your-child-to-be-a-latchkey-kid-57425.html)
+> Product ID `57425` · Digistore24 productId `708484` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/preparing-your-child-to-be-a-latchkey-kid-57425.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

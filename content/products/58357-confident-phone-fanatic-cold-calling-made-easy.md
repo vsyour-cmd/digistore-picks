@@ -21,7 +21,7 @@ language: "en"
 ---
 # Confident Phone Fanatic (Cold Calling Made Easy)
 
-> Product ID `58357` · Digistore24 productId `724847` · [HTML profile page](../../reviews/confident-phone-fanatic-cold-calling-made-easy-58357.html)
+> Product ID `58357` · Digistore24 productId `724847` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/confident-phone-fanatic-cold-calling-made-easy-58357.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

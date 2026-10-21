@@ -21,7 +21,7 @@ language: "en"
 ---
 # Understanding, Not Judgment – Navigating Adult Life With ADH
 
-> Product ID `58140` · Digistore24 productId `718427` · [HTML profile page](../../reviews/understanding-not-judgment-navigating-adult-life-with-adh-58140.html)
+> Product ID `58140` · Digistore24 productId `718427` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/understanding-not-judgment-navigating-adult-life-with-adh-58140.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

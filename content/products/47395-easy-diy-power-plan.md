@@ -21,7 +21,7 @@ language: "en"
 ---
 # Easy DIY Power Plan
 
-> Product ID `47395` · Digistore24 productId `542607` · [HTML profile page](../../reviews/easy-diy-power-plan-47395.html)
+> Product ID `47395` · Digistore24 productId `542607` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/easy-diy-power-plan-47395.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

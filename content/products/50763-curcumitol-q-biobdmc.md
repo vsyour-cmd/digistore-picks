@@ -21,7 +21,7 @@ language: "en"
 ---
 # Curcumitol-Q BioBDMC
 
-> Product ID `50763` · Digistore24 productId `580375` · [HTML profile page](../../reviews/curcumitol-q-biobdmc-50763.html)
+> Product ID `50763` · Digistore24 productId `580375` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/curcumitol-q-biobdmc-50763.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

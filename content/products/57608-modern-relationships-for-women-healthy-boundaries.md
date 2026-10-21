@@ -21,7 +21,7 @@ language: "en"
 ---
 # Modern Relationships for Women - Healthy Boundaries
 
-> Product ID `57608` · Digistore24 productId `710881` · [HTML profile page](../../reviews/modern-relationships-for-women-healthy-boundaries-57608.html)
+> Product ID `57608` · Digistore24 productId `710881` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/modern-relationships-for-women-healthy-boundaries-57608.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

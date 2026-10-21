@@ -21,7 +21,7 @@ language: "en"
 ---
 # English Speak Shadowing | A1–C2 Course | 30% Commission
 
-> Product ID `58777` · Digistore24 productId `727591` · [HTML profile page](../../reviews/english-speak-shadowing-a1-c2-course-30-commission-58777.html)
+> Product ID `58777` · Digistore24 productId `727591` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/english-speak-shadowing-a1-c2-course-30-commission-58777.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

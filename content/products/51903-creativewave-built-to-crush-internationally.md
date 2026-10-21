@@ -21,7 +21,7 @@ language: "en"
 ---
 # CreativeWave – Built to CRUSH Internationally!
 
-> Product ID `51903` · Digistore24 productId `595983` · [HTML profile page](../../reviews/creativewave-built-to-crush-internationally-51903.html)
+> Product ID `51903` · Digistore24 productId `595983` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/creativewave-built-to-crush-internationally-51903.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

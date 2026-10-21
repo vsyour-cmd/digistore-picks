@@ -21,7 +21,7 @@ language: "en"
 ---
 # Home Owners Insurance Guide for Living in Tornado areas
 
-> Product ID `57455` · Digistore24 productId `709876` · [HTML profile page](../../reviews/home-owners-insurance-guide-for-living-in-tornado-areas-57455.html)
+> Product ID `57455` · Digistore24 productId `709876` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/home-owners-insurance-guide-for-living-in-tornado-areas-57455.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

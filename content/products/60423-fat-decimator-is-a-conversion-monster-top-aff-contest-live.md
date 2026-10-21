@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fat Decimator Is A Conversion Monster -Top Aff Contest Live!
 
-> Product ID `60423` · Digistore24 productId `725222` · [HTML profile page](../../reviews/fat-decimator-is-a-conversion-monster-top-aff-contest-live-60423.html)
+> Product ID `60423` · Digistore24 productId `725222` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fat-decimator-is-a-conversion-monster-top-aff-contest-live-60423.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

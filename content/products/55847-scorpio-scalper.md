@@ -21,7 +21,7 @@ language: "en"
 ---
 # Scorpio Scalper
 
-> Product ID `55847` · Digistore24 productId `670693` · [HTML profile page](../../reviews/scorpio-scalper-55847.html)
+> Product ID `55847` · Digistore24 productId `670693` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/scorpio-scalper-55847.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

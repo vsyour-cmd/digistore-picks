@@ -21,7 +21,7 @@ language: "en"
 ---
 # OnlineTV 20 – Watch TV on Your PC and Android Device
 
-> Product ID `52070` · Digistore24 productId `600405` · [HTML profile page](../../reviews/onlinetv-20-watch-tv-on-your-pc-and-android-device-52070.html)
+> Product ID `52070` · Digistore24 productId `600405` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/onlinetv-20-watch-tv-on-your-pc-and-android-device-52070.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

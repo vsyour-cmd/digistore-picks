@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Young Achiever's Blueprint - eBook
 
-> Product ID `51831` · Digistore24 productId `602748` · [HTML profile page](../../reviews/the-young-achiever-s-blueprint-ebook-51831.html)
+> Product ID `51831` · Digistore24 productId `602748` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-young-achiever-s-blueprint-ebook-51831.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

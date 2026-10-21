@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Profit Sniper
 
-> Product ID `52428` · Digistore24 productId `610341` · [HTML profile page](../../reviews/ai-profit-sniper-52428.html)
+> Product ID `52428` · Digistore24 productId `610341` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-profit-sniper-52428.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

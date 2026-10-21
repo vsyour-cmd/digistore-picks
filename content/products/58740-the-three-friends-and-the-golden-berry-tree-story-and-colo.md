@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Three Friends and the Golden Berry Tree – Story and Colo
 
-> Product ID `58740` · Digistore24 productId `725666` · [HTML profile page](../../reviews/the-three-friends-and-the-golden-berry-tree-story-and-colo-58740.html)
+> Product ID `58740` · Digistore24 productId `725666` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-three-friends-and-the-golden-berry-tree-story-and-colo-58740.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

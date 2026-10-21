@@ -21,7 +21,7 @@ language: "en"
 ---
 # Premium Course - Supply and Demand Forex Trading Strategy
 
-> Product ID `56614` · Digistore24 productId `693495` · [HTML profile page](../../reviews/premium-course-supply-and-demand-forex-trading-strategy-56614.html)
+> Product ID `56614` · Digistore24 productId `693495` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/premium-course-supply-and-demand-forex-trading-strategy-56614.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # EZNaturals Moringa Leaf Complex | 70% Affiliate Commission
 
-> Product ID `58386` · Digistore24 productId `692713` · [HTML profile page](../../reviews/eznaturals-moringa-leaf-complex-70-affiliate-commission-58386.html)
+> Product ID `58386` · Digistore24 productId `692713` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/eznaturals-moringa-leaf-complex-70-affiliate-commission-58386.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

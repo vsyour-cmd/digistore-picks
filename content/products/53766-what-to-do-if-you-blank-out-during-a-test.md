@@ -21,7 +21,7 @@ language: "en"
 ---
 # What To Do If You Blank Out During A Test
 
-> Product ID `53766` · Digistore24 productId `633278` · [HTML profile page](../../reviews/what-to-do-if-you-blank-out-during-a-test-53766.html)
+> Product ID `53766` · Digistore24 productId `633278` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/what-to-do-if-you-blank-out-during-a-test-53766.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

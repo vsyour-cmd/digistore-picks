@@ -21,7 +21,7 @@ language: "en"
 ---
 # 5-in- 1 MEGA PLR BESTSELLER: the Social Media Bundle+ BONUS
 
-> Product ID `51330` · Digistore24 productId `595434` · [HTML profile page](../../reviews/5-in-1-mega-plr-bestseller-the-social-media-bundle-bonus-51330.html)
+> Product ID `51330` · Digistore24 productId `595434` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/5-in-1-mega-plr-bestseller-the-social-media-bundle-bonus-51330.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # MRR License The 48 Hour Declutter (Business in a Box)
 
-> Product ID `56871` · Digistore24 productId `700217` · [HTML profile page](../../reviews/mrr-license-the-48-hour-declutter-business-in-a-box-56871.html)
+> Product ID `56871` · Digistore24 productId `700217` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mrr-license-the-48-hour-declutter-business-in-a-box-56871.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

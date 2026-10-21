@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fitness After 40
 
-> Product ID `53940` · Digistore24 productId `635406` · [HTML profile page](../../reviews/fitness-after-40-53940.html)
+> Product ID `53940` · Digistore24 productId `635406` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fitness-after-40-53940.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

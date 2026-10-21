@@ -21,7 +21,7 @@ language: "en"
 ---
 # LungExpand Pro
 
-> Product ID `51592` · Digistore24 productId `598412` · [HTML profile page](../../reviews/lungexpand-pro-51592.html)
+> Product ID `51592` · Digistore24 productId `598412` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lungexpand-pro-51592.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

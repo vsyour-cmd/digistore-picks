@@ -21,7 +21,7 @@ language: "en"
 ---
 # THE LAST BOTTLE by Gulshan Ulduz PDF
 
-> Product ID `54299` · Digistore24 productId `638771` · [HTML profile page](../../reviews/the-last-bottle-by-gulshan-ulduz-pdf-54299.html)
+> Product ID `54299` · Digistore24 productId `638771` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-last-bottle-by-gulshan-ulduz-pdf-54299.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

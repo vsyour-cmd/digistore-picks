@@ -21,7 +21,7 @@ language: "en"
 ---
 # Learn Guitar For Beginners - Guitar Course For Adults
 
-> Product ID `43295` · Digistore24 productId `487519` · [HTML profile page](../../reviews/learn-guitar-for-beginners-guitar-course-for-adults-43295.html)
+> Product ID `43295` · Digistore24 productId `487519` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/learn-guitar-for-beginners-guitar-course-for-adults-43295.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

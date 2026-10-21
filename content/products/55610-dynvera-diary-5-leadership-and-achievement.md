@@ -21,7 +21,7 @@ language: "en"
 ---
 # DYNVERA Diary 5 | Leadership and Achievement
 
-> Product ID `55610` · Digistore24 productId `653325` · [HTML profile page](../../reviews/dynvera-diary-5-leadership-and-achievement-55610.html)
+> Product ID `55610` · Digistore24 productId `653325` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dynvera-diary-5-leadership-and-achievement-55610.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

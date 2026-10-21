@@ -21,7 +21,7 @@ language: "en"
 ---
 # Your Higher Self: Your Greatest Guide and Ally in Life
 
-> Product ID `59694` · Digistore24 productId `728741` · [HTML profile page](../../reviews/your-higher-self-your-greatest-guide-and-ally-in-life-59694.html)
+> Product ID `59694` · Digistore24 productId `728741` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/your-higher-self-your-greatest-guide-and-ally-in-life-59694.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

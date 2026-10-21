@@ -21,7 +21,7 @@ language: "en"
 ---
 # ebook- Olive Branches Don't Grow on Trees
 
-> Product ID `59721` · Digistore24 productId `737175` · [HTML profile page](../../reviews/ebook-olive-branches-don-t-grow-on-trees-59721.html)
+> Product ID `59721` · Digistore24 productId `737175` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-olive-branches-don-t-grow-on-trees-59721.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

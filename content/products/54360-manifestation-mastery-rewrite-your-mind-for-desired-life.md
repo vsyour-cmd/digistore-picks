@@ -21,7 +21,7 @@ language: "en"
 ---
 # Manifestation Mastery - Rewrite your mind for desired life
 
-> Product ID `54360` · Digistore24 productId `640866` · [HTML profile page](../../reviews/manifestation-mastery-rewrite-your-mind-for-desired-life-54360.html)
+> Product ID `54360` · Digistore24 productId `640866` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/manifestation-mastery-rewrite-your-mind-for-desired-life-54360.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

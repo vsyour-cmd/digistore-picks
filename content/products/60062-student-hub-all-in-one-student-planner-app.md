@@ -21,7 +21,7 @@ language: "en"
 ---
 # Student Hub: All-in-One Student Planner App
 
-> Product ID `60062` · Digistore24 productId `736480` · [HTML profile page](../../reviews/student-hub-all-in-one-student-planner-app-60062.html)
+> Product ID `60062` · Digistore24 productId `736480` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/student-hub-all-in-one-student-planner-app-60062.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

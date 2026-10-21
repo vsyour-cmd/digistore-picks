@@ -21,7 +21,7 @@ language: "en"
 ---
 # E.D. Elixir: The Natural Erectile Dysfunction Fix
 
-> Product ID `33241` · Digistore24 productId `323364` · [HTML profile page](../../reviews/e-d-elixir-the-natural-erectile-dysfunction-fix-33241.html)
+> Product ID `33241` · Digistore24 productId `323364` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/e-d-elixir-the-natural-erectile-dysfunction-fix-33241.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

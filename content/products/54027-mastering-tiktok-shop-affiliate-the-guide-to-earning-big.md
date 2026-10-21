@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastering TikTok Shop Affiliate – The Guide to Earning Big
 
-> Product ID `54027` · Digistore24 productId `635074` · [HTML profile page](../../reviews/mastering-tiktok-shop-affiliate-the-guide-to-earning-big-54027.html)
+> Product ID `54027` · Digistore24 productId `635074` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastering-tiktok-shop-affiliate-the-guide-to-earning-big-54027.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

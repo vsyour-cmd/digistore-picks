@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: The Genius Brain Switch - Absolute Media Monster 2026
 
-> Product ID `59994` · Digistore24 productId `738142` · [HTML profile page](../../reviews/new-the-genius-brain-switch-absolute-media-monster-2026-59994.html)
+> Product ID `59994` · Digistore24 productId `738142` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-the-genius-brain-switch-absolute-media-monster-2026-59994.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

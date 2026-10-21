@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pet Parenting Keepsake Book For Your New Puppy
 
-> Product ID `57658` · Digistore24 productId `713980` · [HTML profile page](../../reviews/pet-parenting-keepsake-book-for-your-new-puppy-57658.html)
+> Product ID `57658` · Digistore24 productId `713980` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pet-parenting-keepsake-book-for-your-new-puppy-57658.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

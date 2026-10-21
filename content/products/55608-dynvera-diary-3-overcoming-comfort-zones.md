@@ -21,7 +21,7 @@ language: "en"
 ---
 # DYNVERA Diary 3 | Overcoming Comfort Zones
 
-> Product ID `55608` · Digistore24 productId `653322` · [HTML profile page](../../reviews/dynvera-diary-3-overcoming-comfort-zones-55608.html)
+> Product ID `55608` · Digistore24 productId `653322` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dynvera-diary-3-overcoming-comfort-zones-55608.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

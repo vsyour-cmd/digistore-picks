@@ -21,7 +21,7 @@ language: "en"
 ---
 # Benable Affiliate Bestie Guide-Earn Commissions on Benable
 
-> Product ID `54801` · Digistore24 productId `650998` · [HTML profile page](../../reviews/benable-affiliate-bestie-guide-earn-commissions-on-benable-54801.html)
+> Product ID `54801` · Digistore24 productId `650998` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/benable-affiliate-bestie-guide-earn-commissions-on-benable-54801.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Tell Me What You Eat and I Will Tell You Who You Are
 
-> Product ID `49232` · Digistore24 productId `554497` · [HTML profile page](../../reviews/tell-me-what-you-eat-and-i-will-tell-you-who-you-are-49232.html)
+> Product ID `49232` · Digistore24 productId `554497` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tell-me-what-you-eat-and-i-will-tell-you-who-you-are-49232.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

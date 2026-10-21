@@ -21,7 +21,7 @@ language: "en"
 ---
 # 101 Easy Scroll Saw Patterns
 
-> Product ID `39395` · Digistore24 productId `432604` · [HTML profile page](../../reviews/101-easy-scroll-saw-patterns-39395.html)
+> Product ID `39395` · Digistore24 productId `432604` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/101-easy-scroll-saw-patterns-39395.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

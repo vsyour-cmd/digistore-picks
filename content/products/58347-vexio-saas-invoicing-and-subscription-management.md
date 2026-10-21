@@ -21,7 +21,7 @@ language: "en"
 ---
 # Vexio SaaS Invoicing and Subscription Management
 
-> Product ID `58347` · Digistore24 productId `719526` · [HTML profile page](../../reviews/vexio-saas-invoicing-and-subscription-management-58347.html)
+> Product ID `58347` · Digistore24 productId `719526` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/vexio-saas-invoicing-and-subscription-management-58347.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

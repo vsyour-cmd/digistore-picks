@@ -21,7 +21,7 @@ language: "en"
 ---
 # Prostadine
 
-> Product ID `44131` · Digistore24 productId `500416` · [HTML profile page](../../reviews/prostadine-44131.html)
+> Product ID `44131` · Digistore24 productId `500416` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/prostadine-44131.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

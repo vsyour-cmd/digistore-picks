@@ -21,7 +21,7 @@ language: "en"
 ---
 # Island of Morality – Thought-Provoking eBook | 40% Affiliate
 
-> Product ID `58965` · Digistore24 productId `719791` · [HTML profile page](../../reviews/island-of-morality-thought-provoking-ebook-40-affiliate-58965.html)
+> Product ID `58965` · Digistore24 productId `719791` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/island-of-morality-thought-provoking-ebook-40-affiliate-58965.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Legion Of One: Jack Varga Lucius Valerius Adapta Aut Morere
 
-> Product ID `60402` · Digistore24 productId `743394` · [HTML profile page](../../reviews/legion-of-one-jack-varga-lucius-valerius-adapta-aut-morere-60402.html)
+> Product ID `60402` · Digistore24 productId `743394` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/legion-of-one-jack-varga-lucius-valerius-adapta-aut-morere-60402.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

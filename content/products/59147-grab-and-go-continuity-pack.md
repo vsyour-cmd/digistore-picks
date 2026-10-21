@@ -21,7 +21,7 @@ language: "en"
 ---
 # Grab-and-Go Continuity Pack
 
-> Product ID `59147` · Digistore24 productId `732720` · [HTML profile page](../../reviews/grab-and-go-continuity-pack-59147.html)
+> Product ID `59147` · Digistore24 productId `732720` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/grab-and-go-continuity-pack-59147.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

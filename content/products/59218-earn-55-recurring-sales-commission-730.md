@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 55% Recurring Sales Commission. ($730+)
 
-> Product ID `59218` · Digistore24 productId `564751` · [HTML profile page](../../reviews/earn-55-recurring-sales-commission-730-59218.html)
+> Product ID `59218` · Digistore24 productId `564751` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-55-recurring-sales-commission-730-59218.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

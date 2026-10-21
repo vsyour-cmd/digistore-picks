@@ -21,7 +21,7 @@ language: "en"
 ---
 # Islam in ta Biblical Context – Abraham is the true key figur
 
-> Product ID `57405` · Digistore24 productId `704976` · [HTML profile page](../../reviews/islam-in-ta-biblical-context-abraham-is-the-true-key-figur-57405.html)
+> Product ID `57405` · Digistore24 productId `704976` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/islam-in-ta-biblical-context-abraham-is-the-true-key-figur-57405.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

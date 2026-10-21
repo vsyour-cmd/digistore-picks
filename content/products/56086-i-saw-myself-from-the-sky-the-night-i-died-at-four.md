@@ -21,7 +21,7 @@ language: "en"
 ---
 # I Saw Myself from the Sky The Night I Died at Four
 
-> Product ID `56086` · Digistore24 productId `680242` · [HTML profile page](../../reviews/i-saw-myself-from-the-sky-the-night-i-died-at-four-56086.html)
+> Product ID `56086` · Digistore24 productId `680242` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/i-saw-myself-from-the-sky-the-night-i-died-at-four-56086.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

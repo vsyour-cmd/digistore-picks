@@ -21,7 +21,7 @@ language: "en"
 ---
 # Test smilling headline
 
-> Product ID `56647` · Digistore24 productId `688062` · [HTML profile page](../../reviews/test-smilling-headline-56647.html)
+> Product ID `56647` · Digistore24 productId `688062` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/test-smilling-headline-56647.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

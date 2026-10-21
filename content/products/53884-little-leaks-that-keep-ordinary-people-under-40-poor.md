@@ -21,7 +21,7 @@ language: "en"
 ---
 # Little Leaks That Keep Ordinary People Under 40 Poor
 
-> Product ID `53884` · Digistore24 productId `633409` · [HTML profile page](../../reviews/little-leaks-that-keep-ordinary-people-under-40-poor-53884.html)
+> Product ID `53884` · Digistore24 productId `633409` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/little-leaks-that-keep-ordinary-people-under-40-poor-53884.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

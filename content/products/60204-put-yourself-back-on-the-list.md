@@ -21,7 +21,7 @@ language: "en"
 ---
 # Put Yourself Back On The List
 
-> Product ID `60204` · Digistore24 productId `738544` · [HTML profile page](../../reviews/put-yourself-back-on-the-list-60204.html)
+> Product ID `60204` · Digistore24 productId `738544` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/put-yourself-back-on-the-list-60204.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

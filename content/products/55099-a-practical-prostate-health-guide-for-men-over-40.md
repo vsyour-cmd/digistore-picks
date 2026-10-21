@@ -21,7 +21,7 @@ language: "en"
 ---
 # A Practical Prostate Health Guide for Men Over 40
 
-> Product ID `55099` · Digistore24 productId `656037` · [HTML profile page](../../reviews/a-practical-prostate-health-guide-for-men-over-40-55099.html)
+> Product ID `55099` · Digistore24 productId `656037` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/a-practical-prostate-health-guide-for-men-over-40-55099.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

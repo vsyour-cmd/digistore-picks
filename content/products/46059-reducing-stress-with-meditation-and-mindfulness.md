@@ -21,7 +21,7 @@ language: "en"
 ---
 # Reducing Stress with Meditation and Mindfulness
 
-> Product ID `46059` · Digistore24 productId `525965` · [HTML profile page](../../reviews/reducing-stress-with-meditation-and-mindfulness-46059.html)
+> Product ID `46059` · Digistore24 productId `525965` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/reducing-stress-with-meditation-and-mindfulness-46059.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

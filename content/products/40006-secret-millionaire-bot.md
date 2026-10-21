@@ -21,7 +21,7 @@ language: "en"
 ---
 # Secret Millionaire Bot
 
-> Product ID `40006` · Digistore24 productId `438236` · [HTML profile page](../../reviews/secret-millionaire-bot-40006.html)
+> Product ID `40006` · Digistore24 productId `438236` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/secret-millionaire-bot-40006.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI4ALL.tools – 49+ AI-Tools for Marketing and Business
 
-> Product ID `58203` · Digistore24 productId `719588` · [HTML profile page](../../reviews/ai4all-tools-49-ai-tools-for-marketing-and-business-58203.html)
+> Product ID `58203` · Digistore24 productId `719588` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai4all-tools-49-ai-tools-for-marketing-and-business-58203.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

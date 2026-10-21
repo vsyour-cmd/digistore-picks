@@ -21,7 +21,7 @@ language: "en"
 ---
 # Unlock Online Success With Freedom Affiliate Formula
 
-> Product ID `54083` · Digistore24 productId `620652` · [HTML profile page](../../reviews/unlock-online-success-with-freedom-affiliate-formula-54083.html)
+> Product ID `54083` · Digistore24 productId `620652` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/unlock-online-success-with-freedom-affiliate-formula-54083.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Bonivade: Buyer Resistance Diagnostic System v1.1
 
-> Product ID `58348` · Digistore24 productId `707692` · [HTML profile page](../../reviews/bonivade-buyer-resistance-diagnostic-system-v1-1-58348.html)
+> Product ID `58348` · Digistore24 productId `707692` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/bonivade-buyer-resistance-diagnostic-system-v1-1-58348.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

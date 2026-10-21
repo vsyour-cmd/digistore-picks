@@ -21,7 +21,7 @@ language: "en"
 ---
 # Self-Compassion in Hard Times
 
-> Product ID `54170` · Digistore24 productId `637567` · [HTML profile page](../../reviews/self-compassion-in-hard-times-54170.html)
+> Product ID `54170` · Digistore24 productId `637567` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/self-compassion-in-hard-times-54170.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

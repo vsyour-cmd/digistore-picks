@@ -21,7 +21,7 @@ language: "en"
 ---
 # Guide för neurodivergenta familjer
 
-> Product ID `59719` · Digistore24 productId `737382` · [HTML profile page](../../reviews/guide-f-r-neurodivergenta-familjer-59719.html)
+> Product ID `59719` · Digistore24 productId `737382` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/guide-f-r-neurodivergenta-familjer-59719.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

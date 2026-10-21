@@ -21,7 +21,7 @@ language: "en"
 ---
 # Crypto Breakout Predictor
 
-> Product ID `54886` · Digistore24 productId `654316` · [HTML profile page](../../reviews/crypto-breakout-predictor-54886.html)
+> Product ID `54886` · Digistore24 productId `654316` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/crypto-breakout-predictor-54886.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

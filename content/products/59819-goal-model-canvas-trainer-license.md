@@ -21,7 +21,7 @@ language: "en"
 ---
 # Goal Model Canvas™ Trainer License
 
-> Product ID `59819` · Digistore24 productId `738002` · [HTML profile page](../../reviews/goal-model-canvas-trainer-license-59819.html)
+> Product ID `59819` · Digistore24 productId `738002` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/goal-model-canvas-trainer-license-59819.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

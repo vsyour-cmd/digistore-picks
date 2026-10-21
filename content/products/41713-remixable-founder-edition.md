@@ -21,7 +21,7 @@ language: "en"
 ---
 # Remixable - Founder Edition
 
-> Product ID `41713` · Digistore24 productId `467549` · [HTML profile page](../../reviews/remixable-founder-edition-41713.html)
+> Product ID `41713` · Digistore24 productId `467549` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/remixable-founder-edition-41713.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

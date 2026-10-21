@@ -21,7 +21,7 @@ language: "en"
 ---
 # 50 Pinterest Niche Ideas – Your Niche Compass (English)
 
-> Product ID `59381` · Digistore24 productId `735007` · [HTML profile page](../../reviews/50-pinterest-niche-ideas-your-niche-compass-english-59381.html)
+> Product ID `59381` · Digistore24 productId `735007` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/50-pinterest-niche-ideas-your-niche-compass-english-59381.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

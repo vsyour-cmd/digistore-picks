@@ -21,7 +21,7 @@ language: "en"
 ---
 # Apply Accounting Fundamentals via Music, High 60% Commission
 
-> Product ID `55130` · Digistore24 productId `657454` · [HTML profile page](../../reviews/apply-accounting-fundamentals-via-music-high-60-commission-55130.html)
+> Product ID `55130` · Digistore24 productId `657454` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/apply-accounting-fundamentals-via-music-high-60-commission-55130.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

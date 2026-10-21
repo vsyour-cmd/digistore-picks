@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Unlived Live Series
 
-> Product ID `56777` · Digistore24 productId `697389` · [HTML profile page](../../reviews/ebook-the-unlived-live-series-56777.html)
+> Product ID `56777` · Digistore24 productId `697389` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-unlived-live-series-56777.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

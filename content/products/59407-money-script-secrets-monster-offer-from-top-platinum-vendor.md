@@ -21,7 +21,7 @@ language: "en"
 ---
 # Money Script Secrets -Monster Offer From Top Platinum Vendor
 
-> Product ID `59407` · Digistore24 productId `735102` · [HTML profile page](../../reviews/money-script-secrets-monster-offer-from-top-platinum-vendor-59407.html)
+> Product ID `59407` · Digistore24 productId `735102` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/money-script-secrets-monster-offer-from-top-platinum-vendor-59407.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

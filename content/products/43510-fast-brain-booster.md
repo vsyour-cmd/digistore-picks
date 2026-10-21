@@ -21,7 +21,7 @@ language: "en"
 ---
 # Fast Brain Booster
 
-> Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](../../reviews/fast-brain-booster-43510.html)
+> Product ID `43510` · Digistore24 productId `493435` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/fast-brain-booster-43510.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

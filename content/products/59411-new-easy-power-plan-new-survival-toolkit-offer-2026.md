@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: Easy Power Plan : New Survival Toolkit Offer 2026!!
 
-> Product ID `59411` · Digistore24 productId `735108` · [HTML profile page](../../reviews/new-easy-power-plan-new-survival-toolkit-offer-2026-59411.html)
+> Product ID `59411` · Digistore24 productId `735108` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-easy-power-plan-new-survival-toolkit-offer-2026-59411.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

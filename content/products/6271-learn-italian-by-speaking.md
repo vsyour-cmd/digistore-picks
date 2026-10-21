@@ -21,7 +21,7 @@ language: "en"
 ---
 # Learn Italian by speaking!
 
-> Product ID `6271` · Digistore24 productId `39541` · [HTML profile page](../../reviews/learn-italian-by-speaking-6271.html)
+> Product ID `6271` · Digistore24 productId `39541` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/learn-italian-by-speaking-6271.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Black Ox - Hardcore Test Enhancer
 
-> Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](../../reviews/black-ox-hardcore-test-enhancer-44566.html)
+> Product ID `44566` · Digistore24 productId `502452` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/black-ox-hardcore-test-enhancer-44566.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

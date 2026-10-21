@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Products Blueprint - Guide
 
-> Product ID `53488` · Digistore24 productId `627594` · [HTML profile page](../../reviews/digital-products-blueprint-guide-53488.html)
+> Product ID `53488` · Digistore24 productId `627594` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-products-blueprint-guide-53488.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Time Hacks for Entrepreneurs
 
-> Product ID `53954` · Digistore24 productId `635392` · [HTML profile page](../../reviews/time-hacks-for-entrepreneurs-53954.html)
+> Product ID `53954` · Digistore24 productId `635392` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/time-hacks-for-entrepreneurs-53954.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

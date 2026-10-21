@@ -21,7 +21,7 @@ language: "en"
 ---
 # We give you a sales page and help you promote it
 
-> Product ID `57544` · Digistore24 productId `711994` · [HTML profile page](../../reviews/we-give-you-a-sales-page-and-help-you-promote-it-57544.html)
+> Product ID `57544` · Digistore24 productId `711994` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/we-give-you-a-sales-page-and-help-you-promote-it-57544.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

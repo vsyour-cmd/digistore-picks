@@ -21,7 +21,7 @@ language: "en"
 ---
 # American Sign Language 4
 
-> Product ID `57558` · Digistore24 productId `712360` · [HTML profile page](../../reviews/american-sign-language-4-57558.html)
+> Product ID `57558` · Digistore24 productId `712360` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/american-sign-language-4-57558.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

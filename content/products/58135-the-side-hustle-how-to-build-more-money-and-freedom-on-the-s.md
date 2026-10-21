@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Side Hustle How to Build More Money and Freedom on the S
 
-> Product ID `58135` · Digistore24 productId `718120` · [HTML profile page](../../reviews/the-side-hustle-how-to-build-more-money-and-freedom-on-the-s-58135.html)
+> Product ID `58135` · Digistore24 productId `718120` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-side-hustle-how-to-build-more-money-and-freedom-on-the-s-58135.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

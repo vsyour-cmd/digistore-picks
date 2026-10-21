@@ -21,7 +21,7 @@ language: "en"
 ---
 # X Profits - Brand New Bizopp Offer for 2024!
 
-> Product ID `46789` · Digistore24 productId `531919` · [HTML profile page](../../reviews/x-profits-brand-new-bizopp-offer-for-2024-46789.html)
+> Product ID `46789` · Digistore24 productId `531919` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/x-profits-brand-new-bizopp-offer-for-2024-46789.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Farm Hub: All-in-One Farm Management App
 
-> Product ID `60170` · Digistore24 productId `741600` · [HTML profile page](../../reviews/farm-hub-all-in-one-farm-management-app-60170.html)
+> Product ID `60170` · Digistore24 productId `741600` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/farm-hub-all-in-one-farm-management-app-60170.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

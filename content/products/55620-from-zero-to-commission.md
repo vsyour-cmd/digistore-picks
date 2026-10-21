@@ -21,7 +21,7 @@ language: "en"
 ---
 # From Zero to Commission
 
-> Product ID `55620` · Digistore24 productId `667922` · [HTML profile page](../../reviews/from-zero-to-commission-55620.html)
+> Product ID `55620` · Digistore24 productId `667922` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/from-zero-to-commission-55620.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

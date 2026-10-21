@@ -21,7 +21,7 @@ language: "en"
 ---
 # Garden Hub: All-in-One Garden Management App
 
-> Product ID `60171` · Digistore24 productId `741614` · [HTML profile page](../../reviews/garden-hub-all-in-one-garden-management-app-60171.html)
+> Product ID `60171` · Digistore24 productId `741614` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/garden-hub-all-in-one-garden-management-app-60171.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

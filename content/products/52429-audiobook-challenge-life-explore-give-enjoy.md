@@ -21,7 +21,7 @@ language: "en"
 ---
 # Audiobook: Challenge - Life - Explore - Give - Enjoy
 
-> Product ID `52429` · Digistore24 productId `609597` · [HTML profile page](../../reviews/audiobook-challenge-life-explore-give-enjoy-52429.html)
+> Product ID `52429` · Digistore24 productId `609597` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/audiobook-challenge-life-explore-give-enjoy-52429.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

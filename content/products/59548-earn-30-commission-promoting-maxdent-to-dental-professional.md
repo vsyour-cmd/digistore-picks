@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 30% commission promoting MaxDent to dental professional
 
-> Product ID `59548` · Digistore24 productId `732542` · [HTML profile page](../../reviews/earn-30-commission-promoting-maxdent-to-dental-professional-59548.html)
+> Product ID `59548` · Digistore24 productId `732542` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-30-commission-promoting-maxdent-to-dental-professional-59548.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

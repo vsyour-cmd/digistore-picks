@@ -21,7 +21,7 @@ language: "en"
 ---
 # Self-Coaching for Beginners
 
-> Product ID `54101` · Digistore24 productId `636865` · [HTML profile page](../../reviews/self-coaching-for-beginners-54101.html)
+> Product ID `54101` · Digistore24 productId `636865` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/self-coaching-for-beginners-54101.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

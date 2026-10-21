@@ -21,7 +21,7 @@ language: "en"
 ---
 # Flexibility exercises promote long-term health
 
-> Product ID `59999` · Digistore24 productId `724107` · [HTML profile page](../../reviews/flexibility-exercises-promote-long-term-health-59999.html)
+> Product ID `59999` · Digistore24 productId `724107` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/flexibility-exercises-promote-long-term-health-59999.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

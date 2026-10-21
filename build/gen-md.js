@@ -50,7 +50,7 @@ for (const p of DATA.products) {
   lines.push("---");
   lines.push(`# ${p.label}`);
   lines.push("");
-  lines.push(`> Product ID \`${p.id}\` · Digistore24 productId \`${p.productId}\` · [HTML profile page](../../reviews/${slug(p.label)}-${p.id}.html)`);
+  lines.push(`> Product ID \`${p.id}\` · Digistore24 productId \`${p.productId}\` · [Live HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/${slug(p.label)}-${p.id}.html)`);
   lines.push(`> Marketplace data: ${datemark(DATA.scrapedAt)} · Sales-page research: ${datemark(DATA.researchedAt) || "—"} · Research quality: **${r ? r.quality + (r.method === "browser-render" ? " (browser-rendered)" : "") : r === null && p.research === undefined ? "not retrieved" : "unreachable"}**`);
   lines.push("");
   lines.push("## 1. Marketplace record (official Digistore24 data)");

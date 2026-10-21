@@ -21,7 +21,7 @@ language: "en"
 ---
 # MovieJack – Video Downloader for YouTube and Other Platforms
 
-> Product ID `52068` · Digistore24 productId `516334` · [HTML profile page](../../reviews/moviejack-video-downloader-for-youtube-and-other-platforms-52068.html)
+> Product ID `52068` · Digistore24 productId `516334` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/moviejack-video-downloader-for-youtube-and-other-platforms-52068.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

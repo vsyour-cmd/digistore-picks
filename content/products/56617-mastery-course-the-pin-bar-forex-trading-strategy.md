@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course - The Pin Bar Forex Trading Strategy
 
-> Product ID `56617` · Digistore24 productId `693488` · [HTML profile page](../../reviews/mastery-course-the-pin-bar-forex-trading-strategy-56617.html)
+> Product ID `56617` · Digistore24 productId `693488` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-the-pin-bar-forex-trading-strategy-56617.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

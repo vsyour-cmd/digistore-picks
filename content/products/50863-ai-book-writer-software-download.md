@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Book Writer - Software Download
 
-> Product ID `50863` · Digistore24 productId `588740` · [HTML profile page](../../reviews/ai-book-writer-software-download-50863.html)
+> Product ID `50863` · Digistore24 productId `588740` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-book-writer-software-download-50863.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

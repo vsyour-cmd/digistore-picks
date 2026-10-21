@@ -21,7 +21,7 @@ language: "en"
 ---
 # Meeting Planner
 
-> Product ID `59070` · Digistore24 productId `731633` · [HTML profile page](../../reviews/meeting-planner-59070.html)
+> Product ID `59070` · Digistore24 productId `731633` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/meeting-planner-59070.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

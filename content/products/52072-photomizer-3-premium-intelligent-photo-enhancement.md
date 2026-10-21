@@ -21,7 +21,7 @@ language: "en"
 ---
 # Photomizer 3 Premium – Intelligent Photo Enhancement
 
-> Product ID `52072` · Digistore24 productId `518666` · [HTML profile page](../../reviews/photomizer-3-premium-intelligent-photo-enhancement-52072.html)
+> Product ID `52072` · Digistore24 productId `518666` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/photomizer-3-premium-intelligent-photo-enhancement-52072.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

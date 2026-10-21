@@ -21,7 +21,7 @@ language: "en"
 ---
 # Email Marketing Success
 
-> Product ID `36323` · Digistore24 productId `382722` · [HTML profile page](../../reviews/email-marketing-success-36323.html)
+> Product ID `36323` · Digistore24 productId `382722` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/email-marketing-success-36323.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Balance School, Work, and Life
 
-> Product ID `53799` · Digistore24 productId `633493` · [HTML profile page](../../reviews/balance-school-work-and-life-53799.html)
+> Product ID `53799` · Digistore24 productId `633493` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/balance-school-work-and-life-53799.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

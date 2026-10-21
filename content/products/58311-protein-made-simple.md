@@ -21,7 +21,7 @@ language: "en"
 ---
 # Protein Made Simple
 
-> Product ID `58311` · Digistore24 productId `720581` · [HTML profile page](../../reviews/protein-made-simple-58311.html)
+> Product ID `58311` · Digistore24 productId `720581` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/protein-made-simple-58311.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

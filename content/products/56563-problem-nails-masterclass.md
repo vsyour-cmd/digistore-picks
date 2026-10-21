@@ -21,7 +21,7 @@ language: "en"
 ---
 # Problem Nails Masterclass
 
-> Product ID `56563` · Digistore24 productId `691670` · [HTML profile page](../../reviews/problem-nails-masterclass-56563.html)
+> Product ID `56563` · Digistore24 productId `691670` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/problem-nails-masterclass-56563.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

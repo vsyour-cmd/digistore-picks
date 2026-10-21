@@ -21,7 +21,7 @@ language: "en"
 ---
 # 10 Guides in 1 Bundle: 270€ Value, Now for 47€
 
-> Product ID `58262` · Digistore24 productId `720523` · [HTML profile page](../../reviews/10-guides-in-1-bundle-270-value-now-for-47-58262.html)
+> Product ID `58262` · Digistore24 productId `720523` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/10-guides-in-1-bundle-270-value-now-for-47-58262.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

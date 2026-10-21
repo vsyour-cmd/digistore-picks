@@ -21,7 +21,7 @@ language: "en"
 ---
 # Turn AI Tools Into a Structured 60-Day Business System
 
-> Product ID `58864` · Digistore24 productId `728290` · [HTML profile page](../../reviews/turn-ai-tools-into-a-structured-60-day-business-system-58864.html)
+> Product ID `58864` · Digistore24 productId `728290` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/turn-ai-tools-into-a-structured-60-day-business-system-58864.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

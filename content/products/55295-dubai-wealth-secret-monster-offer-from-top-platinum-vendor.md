@@ -21,7 +21,7 @@ language: "en"
 ---
 # Dubai Wealth Secret - Monster Offer From Top Platinum Vendor
 
-> Product ID `55295` · Digistore24 productId `662877` · [HTML profile page](../../reviews/dubai-wealth-secret-monster-offer-from-top-platinum-vendor-55295.html)
+> Product ID `55295` · Digistore24 productId `662877` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dubai-wealth-secret-monster-offer-from-top-platinum-vendor-55295.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

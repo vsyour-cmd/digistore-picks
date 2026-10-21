@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Definitive Guide to Raising Successful Children
 
-> Product ID `49213` · Digistore24 productId `553978` · [HTML profile page](../../reviews/the-definitive-guide-to-raising-successful-children-49213.html)
+> Product ID `49213` · Digistore24 productId `553978` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-definitive-guide-to-raising-successful-children-49213.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

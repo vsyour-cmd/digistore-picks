@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote Liposomal Hair Renewal Now!
 
-> Product ID `52948` · Digistore24 productId `611728` · [HTML profile page](../../reviews/promote-liposomal-hair-renewal-now-52948.html)
+> Product ID `52948` · Digistore24 productId `611728` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-liposomal-hair-renewal-now-52948.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

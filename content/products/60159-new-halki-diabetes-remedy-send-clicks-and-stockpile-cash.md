@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: Halki Diabetes Remedy -  Send Clicks And Stockpile Cash
 
-> Product ID `60159` · Digistore24 productId `727541` · [HTML profile page](../../reviews/new-halki-diabetes-remedy-send-clicks-and-stockpile-cash-60159.html)
+> Product ID `60159` · Digistore24 productId `727541` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-halki-diabetes-remedy-send-clicks-and-stockpile-cash-60159.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

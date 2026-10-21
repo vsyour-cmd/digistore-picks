@@ -21,7 +21,7 @@ language: "en"
 ---
 # Cat Body Language
 
-> Product ID `50128` · Digistore24 productId `571905` · [HTML profile page](../../reviews/cat-body-language-50128.html)
+> Product ID `50128` · Digistore24 productId `571905` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/cat-body-language-50128.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Avoiding The Baby Battles
 
-> Product ID `57408` · Digistore24 productId `708468` · [HTML profile page](../../reviews/avoiding-the-baby-battles-57408.html)
+> Product ID `57408` · Digistore24 productId `708468` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/avoiding-the-baby-battles-57408.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

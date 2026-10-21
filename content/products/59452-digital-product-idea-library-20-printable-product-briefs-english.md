@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Product Idea Library - 20 Printable Product Briefs (English)
 
-> Product ID `59452` · Digistore24 productId `735481` · [HTML profile page](../../reviews/digital-product-idea-library-20-printable-product-briefs-english-59452.html)
+> Product ID `59452` · Digistore24 productId `735481` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-product-idea-library-20-printable-product-briefs-english-59452.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

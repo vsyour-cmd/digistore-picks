@@ -21,7 +21,7 @@ language: "en"
 ---
 # Self-guided scavenger hunt Würzburg | Hint-Caching
 
-> Product ID `51182` · Digistore24 productId `555846` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-w-rzburg-hint-caching-51182.html)
+> Product ID `51182` · Digistore24 productId `555846` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/self-guided-scavenger-hunt-w-rzburg-hint-caching-51182.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

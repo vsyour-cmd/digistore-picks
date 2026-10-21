@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 60% Commission Promoting CircO2 Nitric Oxide Booster
 
-> Product ID `47238` · Digistore24 productId `538695` · [HTML profile page](../../reviews/earn-60-commission-promoting-circo2-nitric-oxide-booster-47238.html)
+> Product ID `47238` · Digistore24 productId `538695` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-60-commission-promoting-circo2-nitric-oxide-booster-47238.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

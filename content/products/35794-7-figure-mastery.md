@@ -21,7 +21,7 @@ language: "en"
 ---
 # 7 Figure Mastery
 
-> Product ID `35794` · Digistore24 productId `373677` · [HTML profile page](../../reviews/7-figure-mastery-35794.html)
+> Product ID `35794` · Digistore24 productId `373677` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/7-figure-mastery-35794.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # How to Analyze Past Papers
 
-> Product ID `53796` · Digistore24 productId `633496` · [HTML profile page](../../reviews/how-to-analyze-past-papers-53796.html)
+> Product ID `53796` · Digistore24 productId `633496` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/how-to-analyze-past-papers-53796.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Complete Social Confidence System | Earn 75% Commissions
 
-> Product ID `54275` · Digistore24 productId `639544` · [HTML profile page](../../reviews/the-complete-social-confidence-system-earn-75-commissions-54275.html)
+> Product ID `54275` · Digistore24 productId `639544` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-complete-social-confidence-system-earn-75-commissions-54275.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

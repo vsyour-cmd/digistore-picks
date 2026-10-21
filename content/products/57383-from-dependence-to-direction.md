@@ -21,7 +21,7 @@ language: "en"
 ---
 # From Dependence to Direction
 
-> Product ID `57383` · Digistore24 productId `708121` · [HTML profile page](../../reviews/from-dependence-to-direction-57383.html)
+> Product ID `57383` · Digistore24 productId `708121` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/from-dependence-to-direction-57383.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

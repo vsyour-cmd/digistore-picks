@@ -21,7 +21,7 @@ language: "en"
 ---
 # Understanding Childhood Friendships
 
-> Product ID `57427` · Digistore24 productId `708488` · [HTML profile page](../../reviews/understanding-childhood-friendships-57427.html)
+> Product ID `57427` · Digistore24 productId `708488` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/understanding-childhood-friendships-57427.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

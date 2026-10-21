@@ -21,7 +21,7 @@ language: "en"
 ---
 # Home Alarm System Buyer’s Guide and Workbook, 50% Commission
 
-> Product ID `59664` · Digistore24 productId `736187` · [HTML profile page](../../reviews/home-alarm-system-buyer-s-guide-and-workbook-50-commission-59664.html)
+> Product ID `59664` · Digistore24 productId `736187` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/home-alarm-system-buyer-s-guide-and-workbook-50-commission-59664.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

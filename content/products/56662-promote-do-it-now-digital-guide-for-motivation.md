@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote "Do It Now" Digital Guide for Motivation
 
-> Product ID `56662` · Digistore24 productId `688600` · [HTML profile page](../../reviews/promote-do-it-now-digital-guide-for-motivation-56662.html)
+> Product ID `56662` · Digistore24 productId `688600` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-do-it-now-digital-guide-for-motivation-56662.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # German Diction Master Program
 
-> Product ID `52543` · Digistore24 productId `612441` · [HTML profile page](../../reviews/german-diction-master-program-52543.html)
+> Product ID `52543` · Digistore24 productId `612441` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/german-diction-master-program-52543.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

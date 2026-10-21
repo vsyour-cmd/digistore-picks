@@ -21,7 +21,7 @@ language: "en"
 ---
 # Navigating the storms within.
 
-> Product ID `58217` · Digistore24 productId `661559` · [HTML profile page](../../reviews/navigating-the-storms-within-58217.html)
+> Product ID `58217` · Digistore24 productId `661559` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/navigating-the-storms-within-58217.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

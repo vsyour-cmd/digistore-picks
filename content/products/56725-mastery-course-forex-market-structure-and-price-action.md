@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course - Forex Market Structure and Price Action
 
-> Product ID `56725` · Digistore24 productId `694679` · [HTML profile page](../../reviews/mastery-course-forex-market-structure-and-price-action-56725.html)
+> Product ID `56725` · Digistore24 productId `694679` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-forex-market-structure-and-price-action-56725.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Tradbook AI Automated Facebook DM, Lead Extraction Deskto
 
-> Product ID `57818` · Digistore24 productId `716468` · [HTML profile page](../../reviews/tradbook-ai-automated-facebook-dm-lead-extraction-deskto-57818.html)
+> Product ID `57818` · Digistore24 productId `716468` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tradbook-ai-automated-facebook-dm-lead-extraction-deskto-57818.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

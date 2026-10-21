@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course - Inside Bar Forex Trading Strategy
 
-> Product ID `56616` · Digistore24 productId `693487` · [HTML profile page](../../reviews/mastery-course-inside-bar-forex-trading-strategy-56616.html)
+> Product ID `56616` · Digistore24 productId `693487` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-inside-bar-forex-trading-strategy-56616.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

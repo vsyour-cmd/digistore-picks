@@ -21,7 +21,7 @@ language: "en"
 ---
 # Join Our Affiliate Program on Digistore24 and Earn Big!
 
-> Product ID `50425` · Digistore24 productId `579518` · [HTML profile page](../../reviews/join-our-affiliate-program-on-digistore24-and-earn-big-50425.html)
+> Product ID `50425` · Digistore24 productId `579518` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/join-our-affiliate-program-on-digistore24-and-earn-big-50425.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Your Gateway to the Crypto World – Cryptocurrency Secrets!
 
-> Product ID `50316` · Digistore24 productId `578528` · [HTML profile page](../../reviews/your-gateway-to-the-crypto-world-cryptocurrency-secrets-50316.html)
+> Product ID `50316` · Digistore24 productId `578528` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/your-gateway-to-the-crypto-world-cryptocurrency-secrets-50316.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

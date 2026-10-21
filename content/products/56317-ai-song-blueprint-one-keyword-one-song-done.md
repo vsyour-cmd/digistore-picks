@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Song Blueprint – One Keyword. One Song. Done.
 
-> Product ID `56317` · Digistore24 productId `683970` · [HTML profile page](../../reviews/ai-song-blueprint-one-keyword-one-song-done-56317.html)
+> Product ID `56317` · Digistore24 productId `683970` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-song-blueprint-one-keyword-one-song-done-56317.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

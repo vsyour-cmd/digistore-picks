@@ -21,7 +21,7 @@ language: "en"
 ---
 # MyRankFlow: white-label SEO agency panel, $47 one-off, 50% commission
 
-> Product ID `58854` · Digistore24 productId `725875` · [HTML profile page](../../reviews/myrankflow-white-label-seo-agency-panel-47-one-off-50-commission-58854.html)
+> Product ID `58854` · Digistore24 productId `725875` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/myrankflow-white-label-seo-agency-panel-47-one-off-50-commission-58854.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

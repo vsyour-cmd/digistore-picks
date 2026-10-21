@@ -21,7 +21,7 @@ language: "en"
 ---
 # DigestiStart
 
-> Product ID `52958` · Digistore24 productId `620151` · [HTML profile page](../../reviews/digestistart-52958.html)
+> Product ID `52958` · Digistore24 productId `620151` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digestistart-52958.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

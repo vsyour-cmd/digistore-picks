@@ -21,7 +21,7 @@ language: "en"
 ---
 # Freelance Freedom Formula
 
-> Product ID `56895` · Digistore24 productId `701735` · [HTML profile page](../../reviews/freelance-freedom-formula-56895.html)
+> Product ID `56895` · Digistore24 productId `701735` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/freelance-freedom-formula-56895.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

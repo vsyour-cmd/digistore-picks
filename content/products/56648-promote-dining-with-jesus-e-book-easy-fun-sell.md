@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote "Dining With Jesus" | E-book | Easy Fun Sell!
 
-> Product ID `56648` · Digistore24 productId `689000` · [HTML profile page](../../reviews/promote-dining-with-jesus-e-book-easy-fun-sell-56648.html)
+> Product ID `56648` · Digistore24 productId `689000` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-dining-with-jesus-e-book-easy-fun-sell-56648.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

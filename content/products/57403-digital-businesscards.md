@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Businesscards
 
-> Product ID `57403` · Digistore24 productId `708499` · [HTML profile page](../../reviews/digital-businesscards-57403.html)
+> Product ID `57403` · Digistore24 productId `708499` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-businesscards-57403.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

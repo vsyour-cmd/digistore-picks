@@ -21,7 +21,7 @@ language: "en"
 ---
 # Real Estate Hub: All-in-One Real Estate Agent App
 
-> Product ID `59479` · Digistore24 productId `732702` · [HTML profile page](../../reviews/real-estate-hub-all-in-one-real-estate-agent-app-59479.html)
+> Product ID `59479` · Digistore24 productId `732702` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/real-estate-hub-all-in-one-real-estate-agent-app-59479.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

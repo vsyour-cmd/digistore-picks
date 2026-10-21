@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Tools Money Blueprint
 
-> Product ID `57144` · Digistore24 productId `706208` · [HTML profile page](../../reviews/ai-tools-money-blueprint-57144.html)
+> Product ID `57144` · Digistore24 productId `706208` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-tools-money-blueprint-57144.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mental Health  Wellness eBook 60%Commission High-Converting
 
-> Product ID `55950` · Digistore24 productId `676503` · [HTML profile page](../../reviews/mental-health-wellness-ebook-60-commission-high-converting-55950.html)
+> Product ID `55950` · Digistore24 productId `676503` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mental-health-wellness-ebook-60-commission-high-converting-55950.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

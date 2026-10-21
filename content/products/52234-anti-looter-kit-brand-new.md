@@ -21,7 +21,7 @@ language: "en"
 ---
 # Anti-Looter Kit - BRAND NEW!
 
-> Product ID `52234` · Digistore24 productId `592999` · [HTML profile page](../../reviews/anti-looter-kit-brand-new-52234.html)
+> Product ID `52234` · Digistore24 productId `592999` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/anti-looter-kit-brand-new-52234.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Moringa Magic
 
-> Product ID `48731` · Digistore24 productId `562310` · [HTML profile page](../../reviews/moringa-magic-48731.html)
+> Product ID `48731` · Digistore24 productId `562310` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/moringa-magic-48731.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

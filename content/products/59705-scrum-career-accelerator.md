@@ -21,7 +21,7 @@ language: "en"
 ---
 # Scrum Career Accelerator
 
-> Product ID `59705` · Digistore24 productId `736035` · [HTML profile page](../../reviews/scrum-career-accelerator-59705.html)
+> Product ID `59705` · Digistore24 productId `736035` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/scrum-career-accelerator-59705.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

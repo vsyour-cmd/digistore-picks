@@ -21,7 +21,7 @@ language: "en"
 ---
 # Bitcoin ve Kripto paraları ile trading eğitimi
 
-> Product ID `21751` · Digistore24 productId `176307` · [HTML profile page](../../reviews/bitcoin-ve-kripto-paralar-ile-trading-e-itimi-21751.html)
+> Product ID `21751` · Digistore24 productId `176307` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/bitcoin-ve-kripto-paralar-ile-trading-e-itimi-21751.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

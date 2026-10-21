@@ -21,7 +21,7 @@ language: "en"
 ---
 # Smoothie Mastery: 101 Recipes to Energize Your Life - DIGITA
 
-> Product ID `54585` · Digistore24 productId `644621` · [HTML profile page](../../reviews/smoothie-mastery-101-recipes-to-energize-your-life-digita-54585.html)
+> Product ID `54585` · Digistore24 productId `644621` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/smoothie-mastery-101-recipes-to-energize-your-life-digita-54585.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

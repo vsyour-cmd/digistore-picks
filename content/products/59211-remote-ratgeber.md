@@ -21,7 +21,7 @@ language: "en"
 ---
 # Remote Ratgeber
 
-> Product ID `59211` · Digistore24 productId `733077` · [HTML profile page](../../reviews/remote-ratgeber-59211.html)
+> Product ID `59211` · Digistore24 productId `733077` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/remote-ratgeber-59211.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

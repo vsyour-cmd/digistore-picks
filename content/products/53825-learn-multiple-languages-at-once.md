@@ -21,7 +21,7 @@ language: "en"
 ---
 # Learn Multiple Languages at Once
 
-> Product ID `53825` · Digistore24 productId `633832` · [HTML profile page](../../reviews/learn-multiple-languages-at-once-53825.html)
+> Product ID `53825` · Digistore24 productId `633832` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/learn-multiple-languages-at-once-53825.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

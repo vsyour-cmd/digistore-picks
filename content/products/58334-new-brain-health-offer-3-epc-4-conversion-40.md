@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW Brain Health Offer | ~$3 EPC | ~4% Conversion | 40+
 
-> Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](../../reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)
+> Product ID `58334` · Digistore24 productId `713233` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-brain-health-offer-3-epc-4-conversion-40-58334.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

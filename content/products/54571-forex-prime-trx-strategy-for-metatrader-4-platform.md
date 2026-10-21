@@ -21,7 +21,7 @@ language: "en"
 ---
 # Forex Prime TRX Strategy For MetaTrader 4 Platform
 
-> Product ID `54571` · Digistore24 productId `646163` · [HTML profile page](../../reviews/forex-prime-trx-strategy-for-metatrader-4-platform-54571.html)
+> Product ID `54571` · Digistore24 productId `646163` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/forex-prime-trx-strategy-for-metatrader-4-platform-54571.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

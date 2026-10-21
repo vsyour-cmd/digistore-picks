@@ -21,7 +21,7 @@ language: "en"
 ---
 # Freelancing Hacks - Complete Guide (High Converting eBook)
 
-> Product ID `60188` · Digistore24 productId `741809` · [HTML profile page](../../reviews/freelancing-hacks-complete-guide-high-converting-ebook-60188.html)
+> Product ID `60188` · Digistore24 productId `741809` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/freelancing-hacks-complete-guide-high-converting-ebook-60188.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

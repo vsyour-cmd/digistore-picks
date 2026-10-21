@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: Aqua Tower - Blockbuster Offer From Top Diamond Vendors
 
-> Product ID `59277` · Digistore24 productId `732876` · [HTML profile page](../../reviews/new-aqua-tower-blockbuster-offer-from-top-diamond-vendors-59277.html)
+> Product ID `59277` · Digistore24 productId `732876` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-aqua-tower-blockbuster-offer-from-top-diamond-vendors-59277.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Official Smoothie Diet™ 21-Day Weight Loss Program
 
-> Product ID `56345` · Digistore24 productId `685341` · [HTML profile page](../../reviews/the-official-smoothie-diet-21-day-weight-loss-program-56345.html)
+> Product ID `56345` · Digistore24 productId `685341` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-official-smoothie-diet-21-day-weight-loss-program-56345.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Your Guide to Affiliate Marketing
 
-> Product ID `50160` · Digistore24 productId `576191` · [HTML profile page](../../reviews/your-guide-to-affiliate-marketing-50160.html)
+> Product ID `50160` · Digistore24 productId `576191` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/your-guide-to-affiliate-marketing-50160.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

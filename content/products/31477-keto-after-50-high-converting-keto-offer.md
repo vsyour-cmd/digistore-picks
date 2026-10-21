@@ -21,7 +21,7 @@ language: "en"
 ---
 # Keto After 50 - High Converting Keto Offer
 
-> Product ID `31477` · Digistore24 productId `292685` · [HTML profile page](../../reviews/keto-after-50-high-converting-keto-offer-31477.html)
+> Product ID `31477` · Digistore24 productId `292685` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/keto-after-50-high-converting-keto-offer-31477.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # MindSilence mental wellness app
 
-> Product ID `60126` · Digistore24 productId `740626` · [HTML profile page](../../reviews/mindsilence-mental-wellness-app-60126.html)
+> Product ID `60126` · Digistore24 productId `740626` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mindsilence-mental-wellness-app-60126.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

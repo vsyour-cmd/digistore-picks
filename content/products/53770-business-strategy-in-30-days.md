@@ -21,7 +21,7 @@ language: "en"
 ---
 # Business Strategy in 30 Days
 
-> Product ID `53770` · Digistore24 productId `633262` · [HTML profile page](../../reviews/business-strategy-in-30-days-53770.html)
+> Product ID `53770` · Digistore24 productId `633262` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/business-strategy-in-30-days-53770.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

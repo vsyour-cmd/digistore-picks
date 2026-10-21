@@ -21,7 +21,7 @@ language: "en"
 ---
 # ⚡️+90 Mega CV Resume Templates Bundle for Just $7⚡️
 
-> Product ID `49352` · Digistore24 productId `569531` · [HTML profile page](../../reviews/90-mega-cv-resume-templates-bundle-for-just-7-49352.html)
+> Product ID `49352` · Digistore24 productId `569531` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/90-mega-cv-resume-templates-bundle-for-just-7-49352.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

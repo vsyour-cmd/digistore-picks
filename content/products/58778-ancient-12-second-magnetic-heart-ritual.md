@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ancient 12-Second Magnetic Heart Ritual
 
-> Product ID `58778` · Digistore24 productId `727720` · [HTML profile page](../../reviews/ancient-12-second-magnetic-heart-ritual-58778.html)
+> Product ID `58778` · Digistore24 productId `727720` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ancient-12-second-magnetic-heart-ritual-58778.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 50% Commission Promoting The Prehistoric Time Portal
 
-> Product ID `56830` · Digistore24 productId `699315` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-prehistoric-time-portal-56830.html)
+> Product ID `56830` · Digistore24 productId `699315` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-50-commission-promoting-the-prehistoric-time-portal-56830.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

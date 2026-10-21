@@ -21,7 +21,7 @@ language: "en"
 ---
 # Teach Forward (For classroom and online teachers)
 
-> Product ID `58849` · Digistore24 productId `546789` · [HTML profile page](../../reviews/teach-forward-for-classroom-and-online-teachers-58849.html)
+> Product ID `58849` · Digistore24 productId `546789` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/teach-forward-for-classroom-and-online-teachers-58849.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

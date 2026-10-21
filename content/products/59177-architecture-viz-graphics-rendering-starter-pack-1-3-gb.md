@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Rendering Starter Pack 1.3 GB
 
-> Product ID `59177` · Digistore24 productId `592710` · [HTML profile page](../../reviews/architecture-viz-graphics-rendering-starter-pack-1-3-gb-59177.html)
+> Product ID `59177` · Digistore24 productId `592710` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-rendering-starter-pack-1-3-gb-59177.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lanta Flat Belly Shake
 
-> Product ID `41905` · Digistore24 productId `466836` · [HTML profile page](../../reviews/lanta-flat-belly-shake-41905.html)
+> Product ID `41905` · Digistore24 productId `466836` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lanta-flat-belly-shake-41905.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

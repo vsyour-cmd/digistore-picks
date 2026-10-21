@@ -21,7 +21,7 @@ language: "en"
 ---
 # From Zero To Off-Grid Hero
 
-> Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](../../reviews/from-zero-to-off-grid-hero-45104.html)
+> Product ID `45104` · Digistore24 productId `510033` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/from-zero-to-off-grid-hero-45104.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

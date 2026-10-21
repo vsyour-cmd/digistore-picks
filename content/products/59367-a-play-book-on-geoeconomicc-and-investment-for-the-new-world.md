@@ -21,7 +21,7 @@ language: "en"
 ---
 # A Play Book on GeoEconomicc and Investment for the New World
 
-> Product ID `59367` · Digistore24 productId `726006` · [HTML profile page](../../reviews/a-play-book-on-geoeconomicc-and-investment-for-the-new-world-59367.html)
+> Product ID `59367` · Digistore24 productId `726006` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/a-play-book-on-geoeconomicc-and-investment-for-the-new-world-59367.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pinterest for Beginners – Practical Course (English)
 
-> Product ID `59382` · Digistore24 productId `735008` · [HTML profile page](../../reviews/pinterest-for-beginners-practical-course-english-59382.html)
+> Product ID `59382` · Digistore24 productId `735008` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pinterest-for-beginners-practical-course-english-59382.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

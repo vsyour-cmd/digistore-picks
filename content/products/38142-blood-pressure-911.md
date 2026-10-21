@@ -21,7 +21,7 @@ language: "en"
 ---
 # Blood Pressure 911
 
-> Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](../../reviews/blood-pressure-911-38142.html)
+> Product ID `38142` · Digistore24 productId `365097` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/blood-pressure-911-38142.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

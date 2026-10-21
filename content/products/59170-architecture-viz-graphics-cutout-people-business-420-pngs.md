@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Cutout People Business 420+ PNGs
 
-> Product ID `59170` · Digistore24 productId `727737` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-people-business-420-pngs-59170.html)
+> Product ID `59170` · Digistore24 productId `727737` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-cutout-people-business-420-pngs-59170.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

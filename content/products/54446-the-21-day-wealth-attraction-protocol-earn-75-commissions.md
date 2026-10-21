@@ -21,7 +21,7 @@ language: "en"
 ---
 # The 21-Day Wealth Attraction Protocol | Earn 75% Commissions
 
-> Product ID `54446` · Digistore24 productId `642261` · [HTML profile page](../../reviews/the-21-day-wealth-attraction-protocol-earn-75-commissions-54446.html)
+> Product ID `54446` · Digistore24 productId `642261` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-21-day-wealth-attraction-protocol-earn-75-commissions-54446.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

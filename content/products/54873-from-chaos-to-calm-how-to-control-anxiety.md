@@ -21,7 +21,7 @@ language: "en"
 ---
 # From Chaos to Calm: How to Control Anxiety.
 
-> Product ID `54873` · Digistore24 productId `652730` · [HTML profile page](../../reviews/from-chaos-to-calm-how-to-control-anxiety-54873.html)
+> Product ID `54873` · Digistore24 productId `652730` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/from-chaos-to-calm-how-to-control-anxiety-54873.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Number 1 Serger and Overlocker Online Sewing Course
 
-> Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](../../reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)
+> Product ID `51280` · Digistore24 productId `561361` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-number-1-serger-and-overlocker-online-sewing-course-51280.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

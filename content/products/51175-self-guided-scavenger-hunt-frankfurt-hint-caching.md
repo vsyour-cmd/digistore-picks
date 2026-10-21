@@ -21,7 +21,7 @@ language: "en"
 ---
 # Self-guided scavenger hunt Frankfurt | Hint-Caching
 
-> Product ID `51175` · Digistore24 productId `541156` · [HTML profile page](../../reviews/self-guided-scavenger-hunt-frankfurt-hint-caching-51175.html)
+> Product ID `51175` · Digistore24 productId `541156` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/self-guided-scavenger-hunt-frankfurt-hint-caching-51175.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Hormone Health Meal Plan eBook
 
-> Product ID `48636` · Digistore24 productId `553516` · [HTML profile page](../../reviews/hormone-health-meal-plan-ebook-48636.html)
+> Product ID `48636` · Digistore24 productId `553516` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/hormone-health-meal-plan-ebook-48636.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

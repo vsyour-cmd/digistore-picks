@@ -21,7 +21,7 @@ language: "en"
 ---
 # New Water Offer: SmartWaterBox - 10%+ New VSL Killing It!!
 
-> Product ID `59227` · Digistore24 productId `723787` · [HTML profile page](../../reviews/new-water-offer-smartwaterbox-10-new-vsl-killing-it-59227.html)
+> Product ID `59227` · Digistore24 productId `723787` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-water-offer-smartwaterbox-10-new-vsl-killing-it-59227.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Herbs for Health- Only Herbal Remedies Offer! (Brand New)
 
-> Product ID `41636` · Digistore24 productId `466293` · [HTML profile page](../../reviews/herbs-for-health-only-herbal-remedies-offer-brand-new-41636.html)
+> Product ID `41636` · Digistore24 productId `466293` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/herbs-for-health-only-herbal-remedies-offer-brand-new-41636.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

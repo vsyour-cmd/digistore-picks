@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lettering Generator Plus
 
-> Product ID `46724` · Digistore24 productId `359713` · [HTML profile page](../../reviews/lettering-generator-plus-46724.html)
+> Product ID `46724` · Digistore24 productId `359713` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lettering-generator-plus-46724.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

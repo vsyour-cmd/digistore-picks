@@ -21,7 +21,7 @@ language: "en"
 ---
 # Online Business Complete Library – All 16 Matze Courses | 40% Commission
 
-> Product ID `59608` · Digistore24 productId `736588` · [HTML profile page](../../reviews/online-business-complete-library-all-16-matze-courses-40-commission-59608.html)
+> Product ID `59608` · Digistore24 productId `736588` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/online-business-complete-library-all-16-matze-courses-40-commission-59608.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

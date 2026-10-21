@@ -21,7 +21,7 @@ language: "en"
 ---
 # Integrative Digestive Formula
 
-> Product ID `51586` · Digistore24 productId `599474` · [HTML profile page](../../reviews/integrative-digestive-formula-51586.html)
+> Product ID `51586` · Digistore24 productId `599474` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/integrative-digestive-formula-51586.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Holiday Bliss: Your Ultimate Guide to a Joyful, Stress-Free Sea
 
-> Product ID `58461` · Digistore24 productId `723869` · [HTML profile page](../../reviews/holiday-bliss-your-ultimate-guide-to-a-joyful-stress-free-sea-58461.html)
+> Product ID `58461` · Digistore24 productId `723869` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/holiday-bliss-your-ultimate-guide-to-a-joyful-stress-free-sea-58461.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

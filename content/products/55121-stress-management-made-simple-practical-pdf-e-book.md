@@ -21,7 +21,7 @@ language: "en"
 ---
 # Stress Management Made Simple – Practical PDF E-Book
 
-> Product ID `55121` · Digistore24 productId `659032` · [HTML profile page](../../reviews/stress-management-made-simple-practical-pdf-e-book-55121.html)
+> Product ID `55121` · Digistore24 productId `659032` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/stress-management-made-simple-practical-pdf-e-book-55121.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

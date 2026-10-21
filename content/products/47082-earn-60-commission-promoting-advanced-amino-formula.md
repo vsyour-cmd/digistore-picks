@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 60% Commission Promoting Advanced Amino Formula
 
-> Product ID `47082` · Digistore24 productId `472943` · [HTML profile page](../../reviews/earn-60-commission-promoting-advanced-amino-formula-47082.html)
+> Product ID `47082` · Digistore24 productId `472943` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-60-commission-promoting-advanced-amino-formula-47082.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

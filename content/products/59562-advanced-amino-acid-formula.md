@@ -21,7 +21,7 @@ language: "en"
 ---
 # Advanced Amino Acid Formula
 
-> Product ID `59562` · Digistore24 productId `736302` · [HTML profile page](../../reviews/advanced-amino-acid-formula-59562.html)
+> Product ID `59562` · Digistore24 productId `736302` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/advanced-amino-acid-formula-59562.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

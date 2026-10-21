@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote Keto Journey – Earn up to €20.30 per sale!
 
-> Product ID `54746` · Digistore24 productId `650227` · [HTML profile page](../../reviews/promote-keto-journey-earn-up-to-20-30-per-sale-54746.html)
+> Product ID `54746` · Digistore24 productId `650227` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-keto-journey-earn-up-to-20-30-per-sale-54746.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

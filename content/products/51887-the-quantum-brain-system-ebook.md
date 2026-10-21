@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Quantum Brain System - eBook
 
-> Product ID `51887` · Digistore24 productId `603909` · [HTML profile page](../../reviews/the-quantum-brain-system-ebook-51887.html)
+> Product ID `51887` · Digistore24 productId `603909` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-quantum-brain-system-ebook-51887.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

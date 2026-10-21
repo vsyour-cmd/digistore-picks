@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Ultimate Kids Mega Bundle: 3 Stories + 3 Coloring Books
 
-> Product ID `58855` · Digistore24 productId `727639` · [HTML profile page](../../reviews/the-ultimate-kids-mega-bundle-3-stories-3-coloring-books-58855.html)
+> Product ID `58855` · Digistore24 productId `727639` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ultimate-kids-mega-bundle-3-stories-3-coloring-books-58855.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

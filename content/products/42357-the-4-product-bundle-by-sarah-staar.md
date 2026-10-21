@@ -21,7 +21,7 @@ language: "en"
 ---
 # The 4 Product Bundle By Sarah Staar
 
-> Product ID `42357` · Digistore24 productId `462082` · [HTML profile page](../../reviews/the-4-product-bundle-by-sarah-staar-42357.html)
+> Product ID `42357` · Digistore24 productId `462082` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-4-product-bundle-by-sarah-staar-42357.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

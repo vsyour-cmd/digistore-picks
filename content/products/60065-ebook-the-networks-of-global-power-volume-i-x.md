@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Networks of Global Power - Volume I-X
 
-> Product ID `60065` · Digistore24 productId `739502` · [HTML profile page](../../reviews/ebook-the-networks-of-global-power-volume-i-x-60065.html)
+> Product ID `60065` · Digistore24 productId `739502` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-networks-of-global-power-volume-i-x-60065.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

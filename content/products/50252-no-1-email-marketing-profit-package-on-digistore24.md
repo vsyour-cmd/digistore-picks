@@ -21,7 +21,7 @@ language: "en"
 ---
 # No. 1 Email Marketing Profit Package on Digistore24
 
-> Product ID `50252` · Digistore24 productId `577442` · [HTML profile page](../../reviews/no-1-email-marketing-profit-package-on-digistore24-50252.html)
+> Product ID `50252` · Digistore24 productId `577442` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/no-1-email-marketing-profit-package-on-digistore24-50252.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

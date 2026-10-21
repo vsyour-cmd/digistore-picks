@@ -21,7 +21,7 @@ language: "en"
 ---
 # Community to Cash - Build a scalable online business
 
-> Product ID `56003` · Digistore24 productId `678080` · [HTML profile page](../../reviews/community-to-cash-build-a-scalable-online-business-56003.html)
+> Product ID `56003` · Digistore24 productId `678080` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/community-to-cash-build-a-scalable-online-business-56003.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Parenting in the Digital Age - Raising Smart and Healthy Kid
 
-> Product ID `54445` · Digistore24 productId `642406` · [HTML profile page](../../reviews/parenting-in-the-digital-age-raising-smart-and-healthy-kid-54445.html)
+> Product ID `54445` · Digistore24 productId `642406` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/parenting-in-the-digital-age-raising-smart-and-healthy-kid-54445.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

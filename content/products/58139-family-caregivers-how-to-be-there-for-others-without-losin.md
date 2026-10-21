@@ -21,7 +21,7 @@ language: "en"
 ---
 # Family Caregivers – How to Be There for Others Without Losin
 
-> Product ID `58139` · Digistore24 productId `718326` · [HTML profile page](../../reviews/family-caregivers-how-to-be-there-for-others-without-losin-58139.html)
+> Product ID `58139` · Digistore24 productId `718326` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/family-caregivers-how-to-be-there-for-others-without-losin-58139.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

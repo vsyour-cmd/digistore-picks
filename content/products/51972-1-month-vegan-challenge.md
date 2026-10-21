@@ -21,7 +21,7 @@ language: "en"
 ---
 # 1 Month Vegan Challenge
 
-> Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](../../reviews/1-month-vegan-challenge-51972.html)
+> Product ID `51972` · Digistore24 productId `605910` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/1-month-vegan-challenge-51972.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

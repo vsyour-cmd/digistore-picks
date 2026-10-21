@@ -21,7 +21,7 @@ language: "en"
 ---
 # UK Foraging For Beginners
 
-> Product ID `58662` · Digistore24 productId `725802` · [HTML profile page](../../reviews/uk-foraging-for-beginners-58662.html)
+> Product ID `58662` · Digistore24 productId `725802` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/uk-foraging-for-beginners-58662.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

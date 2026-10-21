@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 50% Commission Promoting 5-Star Nail Education Courses
 
-> Product ID `56557` · Digistore24 productId `691507` · [HTML profile page](../../reviews/earn-50-commission-promoting-5-star-nail-education-courses-56557.html)
+> Product ID `56557` · Digistore24 productId `691507` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-50-commission-promoting-5-star-nail-education-courses-56557.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # PotentStream
 
-> Product ID `47858` · Digistore24 productId `548672` · [HTML profile page](../../reviews/potentstream-47858.html)
+> Product ID `47858` · Digistore24 productId `548672` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/potentstream-47858.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

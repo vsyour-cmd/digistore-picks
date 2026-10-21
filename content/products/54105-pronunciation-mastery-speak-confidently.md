@@ -21,7 +21,7 @@ language: "en"
 ---
 # Pronunciation Mastery_Speak Confidently
 
-> Product ID `54105` · Digistore24 productId `636857` · [HTML profile page](../../reviews/pronunciation-mastery-speak-confidently-54105.html)
+> Product ID `54105` · Digistore24 productId `636857` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/pronunciation-mastery-speak-confidently-54105.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

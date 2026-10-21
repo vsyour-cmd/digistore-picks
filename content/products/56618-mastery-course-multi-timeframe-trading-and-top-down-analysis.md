@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastery Course-Multi-Timeframe Trading and Top-Down Analysis
 
-> Product ID `56618` · Digistore24 productId `693489` · [HTML profile page](../../reviews/mastery-course-multi-timeframe-trading-and-top-down-analysis-56618.html)
+> Product ID `56618` · Digistore24 productId `693489` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastery-course-multi-timeframe-trading-and-top-down-analysis-56618.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Clear Flux Blood Support Supplement
 
-> Product ID `54396` · Digistore24 productId `638043` · [HTML profile page](../../reviews/clear-flux-blood-support-supplement-54396.html)
+> Product ID `54396` · Digistore24 productId `638043` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/clear-flux-blood-support-supplement-54396.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

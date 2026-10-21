@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ultimate OFF-GRID Generator - Top Performer for 2023
 
-> Product ID `43391` · Digistore24 productId `491275` · [HTML profile page](../../reviews/ultimate-off-grid-generator-top-performer-for-2023-43391.html)
+> Product ID `43391` · Digistore24 productId `491275` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ultimate-off-grid-generator-top-performer-for-2023-43391.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Ground Views for 2D Illustration
 
-> Product ID `59189` · Digistore24 productId `593603` · [HTML profile page](../../reviews/architecture-viz-graphics-ground-views-for-2d-illustration-59189.html)
+> Product ID `59189` · Digistore24 productId `593603` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-ground-views-for-2d-illustration-59189.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

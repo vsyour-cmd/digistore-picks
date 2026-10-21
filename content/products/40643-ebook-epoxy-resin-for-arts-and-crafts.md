@@ -21,7 +21,7 @@ language: "en"
 ---
 # eBook - Epoxy Resin for Arts and Crafts
 
-> Product ID `40643` · Digistore24 productId `352181` · [HTML profile page](../../reviews/ebook-epoxy-resin-for-arts-and-crafts-40643.html)
+> Product ID `40643` · Digistore24 productId `352181` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-epoxy-resin-for-arts-and-crafts-40643.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

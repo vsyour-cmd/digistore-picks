@@ -21,7 +21,7 @@ language: "en"
 ---
 # Quantum Wealth Frequencies
 
-> Product ID `54512` · Digistore24 productId `644547` · [HTML profile page](../../reviews/quantum-wealth-frequencies-54512.html)
+> Product ID `54512` · Digistore24 productId `644547` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/quantum-wealth-frequencies-54512.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

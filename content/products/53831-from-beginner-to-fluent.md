@@ -21,7 +21,7 @@ language: "en"
 ---
 # From Beginner to Fluent
 
-> Product ID `53831` · Digistore24 productId `633826` · [HTML profile page](../../reviews/from-beginner-to-fluent-53831.html)
+> Product ID `53831` · Digistore24 productId `633826` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/from-beginner-to-fluent-53831.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

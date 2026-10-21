@@ -21,7 +21,7 @@ language: "en"
 ---
 # Stop Overthinking Guide with a Simple 4-Step System
 
-> Product ID `56855` · Digistore24 productId `672992` · [HTML profile page](../../reviews/stop-overthinking-guide-with-a-simple-4-step-system-56855.html)
+> Product ID `56855` · Digistore24 productId `672992` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/stop-overthinking-guide-with-a-simple-4-step-system-56855.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

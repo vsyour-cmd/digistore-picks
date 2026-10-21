@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Cutout PNG Trees1 for Architects
 
-> Product ID `59180` · Digistore24 productId `593560` · [HTML profile page](../../reviews/architecture-viz-graphics-cutout-png-trees1-for-architects-59180.html)
+> Product ID `59180` · Digistore24 productId `593560` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-cutout-png-trees1-for-architects-59180.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

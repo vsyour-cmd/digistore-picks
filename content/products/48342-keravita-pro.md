@@ -21,7 +21,7 @@ language: "en"
 ---
 # Keravita Pro
 
-> Product ID `48342` · Digistore24 productId `554211` · [HTML profile page](../../reviews/keravita-pro-48342.html)
+> Product ID `48342` · Digistore24 productId `554211` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/keravita-pro-48342.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

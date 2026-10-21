@@ -21,7 +21,7 @@ language: "en"
 ---
 # Top 10 High Protein Meals (E-Book)
 
-> Product ID `60044` · Digistore24 productId `734663` · [HTML profile page](../../reviews/top-10-high-protein-meals-e-book-60044.html)
+> Product ID `60044` · Digistore24 productId `734663` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/top-10-high-protein-meals-e-book-60044.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

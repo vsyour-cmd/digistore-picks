@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Comfort Series
 
-> Product ID `56594` · Digistore24 productId `693948` · [HTML profile page](../../reviews/ebook-the-comfort-series-56594.html)
+> Product ID `56594` · Digistore24 productId `693948` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-comfort-series-56594.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

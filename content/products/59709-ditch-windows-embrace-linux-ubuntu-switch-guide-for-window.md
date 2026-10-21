@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ditch Windows, Embrace Linux: Ubuntu Switch Guide for Window
 
-> Product ID `59709` · Digistore24 productId `701228` · [HTML profile page](../../reviews/ditch-windows-embrace-linux-ubuntu-switch-guide-for-window-59709.html)
+> Product ID `59709` · Digistore24 productId `701228` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ditch-windows-embrace-linux-ubuntu-switch-guide-for-window-59709.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Holistic Healing for Beginners
 
-> Product ID `53984` · Digistore24 productId `635585` · [HTML profile page](../../reviews/holistic-healing-for-beginners-53984.html)
+> Product ID `53984` · Digistore24 productId `635585` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/holistic-healing-for-beginners-53984.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

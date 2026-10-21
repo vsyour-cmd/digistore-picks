@@ -21,7 +21,7 @@ language: "en"
 ---
 # Herbal Remedies for Everyday Ailments
 
-> Product ID `45146` · Digistore24 productId `513927` · [HTML profile page](../../reviews/herbal-remedies-for-everyday-ailments-45146.html)
+> Product ID `45146` · Digistore24 productId `513927` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/herbal-remedies-for-everyday-ailments-45146.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

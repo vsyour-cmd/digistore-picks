@@ -21,7 +21,7 @@ language: "en"
 ---
 # VitaFirm
 
-> Product ID `40302` · Digistore24 productId `443930` · [HTML profile page](../../reviews/vitafirm-40302.html)
+> Product ID `40302` · Digistore24 productId `443930` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/vitafirm-40302.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

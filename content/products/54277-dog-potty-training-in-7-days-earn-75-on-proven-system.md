@@ -21,7 +21,7 @@ language: "en"
 ---
 # Dog Potty Training in 7 Days | Earn 75% on Proven System
 
-> Product ID `54277` · Digistore24 productId `639529` · [HTML profile page](../../reviews/dog-potty-training-in-7-days-earn-75-on-proven-system-54277.html)
+> Product ID `54277` · Digistore24 productId `639529` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dog-potty-training-in-7-days-earn-75-on-proven-system-54277.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

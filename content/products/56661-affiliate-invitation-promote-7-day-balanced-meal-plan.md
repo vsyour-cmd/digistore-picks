@@ -21,7 +21,7 @@ language: "en"
 ---
 # Affiliate Invitation – Promote 7‑Day Balanced Meal Plan
 
-> Product ID `56661` · Digistore24 productId `694934` · [HTML profile page](../../reviews/affiliate-invitation-promote-7-day-balanced-meal-plan-56661.html)
+> Product ID `56661` · Digistore24 productId `694934` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/affiliate-invitation-promote-7-day-balanced-meal-plan-56661.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

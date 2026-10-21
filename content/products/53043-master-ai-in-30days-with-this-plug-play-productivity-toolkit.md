@@ -21,7 +21,7 @@ language: "en"
 ---
 # Master AI in 30Days with This Plug-Play Productivity Toolkit
 
-> Product ID `53043` · Digistore24 productId `619963` · [HTML profile page](../../reviews/master-ai-in-30days-with-this-plug-play-productivity-toolkit-53043.html)
+> Product ID `53043` · Digistore24 productId `619963` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/master-ai-in-30days-with-this-plug-play-productivity-toolkit-53043.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

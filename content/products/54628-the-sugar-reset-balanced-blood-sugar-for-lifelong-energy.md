@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Sugar Reset: Balanced Blood Sugar for Lifelong Energy
 
-> Product ID `54628` · Digistore24 productId `646770` · [HTML profile page](../../reviews/the-sugar-reset-balanced-blood-sugar-for-lifelong-energy-54628.html)
+> Product ID `54628` · Digistore24 productId `646770` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-sugar-reset-balanced-blood-sugar-for-lifelong-energy-54628.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Goliath XL 10
 
-> Product ID `52544` · Digistore24 productId `592274` · [HTML profile page](../../reviews/goliath-xl-10-52544.html)
+> Product ID `52544` · Digistore24 productId `592274` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/goliath-xl-10-52544.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Baby Cat and Puppy Mandala Coloring Book
 
-> Product ID `55018` · Digistore24 productId `654839` · [HTML profile page](../../reviews/baby-cat-and-puppy-mandala-coloring-book-55018.html)
+> Product ID `55018` · Digistore24 productId `654839` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/baby-cat-and-puppy-mandala-coloring-book-55018.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

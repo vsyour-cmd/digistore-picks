@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Action System
 
-> Product ID `56815` · Digistore24 productId `698859` · [HTML profile page](../../reviews/ebook-the-action-system-56815.html)
+> Product ID `56815` · Digistore24 productId `698859` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-action-system-56815.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

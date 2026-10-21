@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW! 100 Easy Keto Carbs Hardcopy Cookbook (Free+Shipping)
 
-> Product ID `45697` · Digistore24 productId `449971` · [HTML profile page](../../reviews/new-100-easy-keto-carbs-hardcopy-cookbook-free-shipping-45697.html)
+> Product ID `45697` · Digistore24 productId `449971` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-100-easy-keto-carbs-hardcopy-cookbook-free-shipping-45697.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

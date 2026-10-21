@@ -21,7 +21,7 @@ language: "en"
 ---
 # 10 Days to Abundance — A Guided Inner Journey
 
-> Product ID `54353` · Digistore24 productId `640611` · [HTML profile page](../../reviews/10-days-to-abundance-a-guided-inner-journey-54353.html)
+> Product ID `54353` · Digistore24 productId `640611` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/10-days-to-abundance-a-guided-inner-journey-54353.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

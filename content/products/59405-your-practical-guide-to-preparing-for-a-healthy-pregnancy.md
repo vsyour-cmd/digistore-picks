@@ -21,7 +21,7 @@ language: "en"
 ---
 # Your Practical Guide to Preparing for a Healthy Pregnancy
 
-> Product ID `59405` · Digistore24 productId `726543` · [HTML profile page](../../reviews/your-practical-guide-to-preparing-for-a-healthy-pregnancy-59405.html)
+> Product ID `59405` · Digistore24 productId `726543` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/your-practical-guide-to-preparing-for-a-healthy-pregnancy-59405.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

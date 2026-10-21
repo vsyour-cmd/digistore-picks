@@ -21,7 +21,7 @@ language: "en"
 ---
 # KeraFirm Pro
 
-> Product ID `58850` · Digistore24 productId `728008` · [HTML profile page](../../reviews/kerafirm-pro-58850.html)
+> Product ID `58850` · Digistore24 productId `728008` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/kerafirm-pro-58850.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

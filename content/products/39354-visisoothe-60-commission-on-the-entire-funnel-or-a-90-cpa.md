@@ -21,7 +21,7 @@ language: "en"
 ---
 # VisiSoothe-60% commission on the entire funnel or a $90 CPA
 
-> Product ID `39354` · Digistore24 productId `432238` · [HTML profile page](../../reviews/visisoothe-60-commission-on-the-entire-funnel-or-a-90-cpa-39354.html)
+> Product ID `39354` · Digistore24 productId `432238` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/visisoothe-60-commission-on-the-entire-funnel-or-a-90-cpa-39354.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

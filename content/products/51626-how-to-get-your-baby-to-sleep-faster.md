@@ -21,7 +21,7 @@ language: "en"
 ---
 # How to get your baby to sleep faster
 
-> Product ID `51626` · Digistore24 productId `593349` · [HTML profile page](../../reviews/how-to-get-your-baby-to-sleep-faster-51626.html)
+> Product ID `51626` · Digistore24 productId `593349` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/how-to-get-your-baby-to-sleep-faster-51626.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

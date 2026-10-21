@@ -21,7 +21,7 @@ language: "en"
 ---
 # Influencer To Entrepreneur
 
-> Product ID `53756` · Digistore24 productId `633267` · [HTML profile page](../../reviews/influencer-to-entrepreneur-53756.html)
+> Product ID `53756` · Digistore24 productId `633267` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/influencer-to-entrepreneur-53756.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

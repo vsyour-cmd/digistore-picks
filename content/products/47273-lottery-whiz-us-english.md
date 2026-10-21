@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lottery Whiz /US /English
 
-> Product ID `47273` · Digistore24 productId `540224` · [HTML profile page](../../reviews/lottery-whiz-us-english-47273.html)
+> Product ID `47273` · Digistore24 productId `540224` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lottery-whiz-us-english-47273.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

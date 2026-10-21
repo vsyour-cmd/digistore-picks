@@ -21,7 +21,7 @@ language: "en"
 ---
 # Dog Sitting Success Guide – PLR - 50% Commission
 
-> Product ID `51305` · Digistore24 productId `595221` · [HTML profile page](../../reviews/dog-sitting-success-guide-plr-50-commission-51305.html)
+> Product ID `51305` · Digistore24 productId `595221` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dog-sitting-success-guide-plr-50-commission-51305.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

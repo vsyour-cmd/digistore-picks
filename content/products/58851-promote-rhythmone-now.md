@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote RhythmONE Now!
 
-> Product ID `58851` · Digistore24 productId `678482` · [HTML profile page](../../reviews/promote-rhythmone-now-58851.html)
+> Product ID `58851` · Digistore24 productId `678482` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-rhythmone-now-58851.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

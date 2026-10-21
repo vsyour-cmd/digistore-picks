@@ -21,7 +21,7 @@ language: "en"
 ---
 # Child Care Provider Plan
 
-> Product ID `57414` · Digistore24 productId `708470` · [HTML profile page](../../reviews/child-care-provider-plan-57414.html)
+> Product ID `57414` · Digistore24 productId `708470` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/child-care-provider-plan-57414.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

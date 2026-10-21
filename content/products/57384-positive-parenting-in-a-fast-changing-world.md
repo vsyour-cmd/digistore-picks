@@ -21,7 +21,7 @@ language: "en"
 ---
 # Positive Parenting in a Fast-Changing World
 
-> Product ID `57384` · Digistore24 productId `708122` · [HTML profile page](../../reviews/positive-parenting-in-a-fast-changing-world-57384.html)
+> Product ID `57384` · Digistore24 productId `708122` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/positive-parenting-in-a-fast-changing-world-57384.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Power of Focus
 
-> Product ID `54048` · Digistore24 productId `636024` · [HTML profile page](../../reviews/the-power-of-focus-54048.html)
+> Product ID `54048` · Digistore24 productId `636024` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-power-of-focus-54048.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

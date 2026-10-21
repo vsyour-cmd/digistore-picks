@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Science of Happiness
 
-> Product ID `54043` · Digistore24 productId `636019` · [HTML profile page](../../reviews/the-science-of-happiness-54043.html)
+> Product ID `54043` · Digistore24 productId `636019` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-science-of-happiness-54043.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

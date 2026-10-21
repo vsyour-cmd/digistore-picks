@@ -21,7 +21,7 @@ language: "en"
 ---
 # Learning to Say No Without Guilt or Remorse
 
-> Product ID `49195` · Digistore24 productId `553182` · [HTML profile page](../../reviews/learning-to-say-no-without-guilt-or-remorse-49195.html)
+> Product ID `49195` · Digistore24 productId `553182` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/learning-to-say-no-without-guilt-or-remorse-49195.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

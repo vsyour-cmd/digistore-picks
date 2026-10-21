@@ -21,7 +21,7 @@ language: "en"
 ---
 # Bitcoin Breakthrough System
 
-> Product ID `35820` · Digistore24 productId `372937` · [HTML profile page](../../reviews/bitcoin-breakthrough-system-35820.html)
+> Product ID `35820` · Digistore24 productId `372937` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/bitcoin-breakthrough-system-35820.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

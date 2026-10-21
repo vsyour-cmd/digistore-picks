@@ -21,7 +21,7 @@ language: "en"
 ---
 # SLIDE THE SEAL AND TIL by Gulshan Ulduz and her Father PDF
 
-> Product ID `54295` · Digistore24 productId `638889` · [HTML profile page](../../reviews/slide-the-seal-and-til-by-gulshan-ulduz-and-her-father-pdf-54295.html)
+> Product ID `54295` · Digistore24 productId `638889` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/slide-the-seal-and-til-by-gulshan-ulduz-and-her-father-pdf-54295.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

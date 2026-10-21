@@ -21,7 +21,7 @@ language: "en"
 ---
 # Métabo-Cycle 45 — Carb Rotation Method for Women 45+
 
-> Product ID `56539` · Digistore24 productId `689253` · [HTML profile page](../../reviews/m-tabo-cycle-45-carb-rotation-method-for-women-45-56539.html)
+> Product ID `56539` · Digistore24 productId `689253` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/m-tabo-cycle-45-carb-rotation-method-for-women-45-56539.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

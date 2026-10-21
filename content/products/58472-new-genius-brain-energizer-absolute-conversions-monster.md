@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: Genius Brain Energizer - Absolute Conversions Monster!
 
-> Product ID `58472` · Digistore24 productId `723490` · [HTML profile page](../../reviews/new-genius-brain-energizer-absolute-conversions-monster-58472.html)
+> Product ID `58472` · Digistore24 productId `723490` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-genius-brain-energizer-absolute-conversions-monster-58472.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

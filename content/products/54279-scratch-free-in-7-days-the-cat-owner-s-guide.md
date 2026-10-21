@@ -21,7 +21,7 @@ language: "en"
 ---
 # Scratch-Free in 7 Days: The Cat Owner's Guide
 
-> Product ID `54279` · Digistore24 productId `639524` · [HTML profile page](../../reviews/scratch-free-in-7-days-the-cat-owner-s-guide-54279.html)
+> Product ID `54279` · Digistore24 productId `639524` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/scratch-free-in-7-days-the-cat-owner-s-guide-54279.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Unchosen Encounter – English eBook | 40% Affiliate Commissio
 
-> Product ID `58966` · Digistore24 productId `716124` · [HTML profile page](../../reviews/unchosen-encounter-english-ebook-40-affiliate-commissio-58966.html)
+> Product ID `58966` · Digistore24 productId `716124` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/unchosen-encounter-english-ebook-40-affiliate-commissio-58966.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

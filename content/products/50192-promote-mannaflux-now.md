@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote MannaFlux Now!
 
-> Product ID `50192` · Digistore24 productId `576802` · [HTML profile page](../../reviews/promote-mannaflux-now-50192.html)
+> Product ID `50192` · Digistore24 productId `576802` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-mannaflux-now-50192.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # DYNVERA Diary 6 | Ethical Wisdom and Integrity
 
-> Product ID `55611` · Digistore24 productId `653326` · [HTML profile page](../../reviews/dynvera-diary-6-ethical-wisdom-and-integrity-55611.html)
+> Product ID `55611` · Digistore24 productId `653326` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/dynvera-diary-6-ethical-wisdom-and-integrity-55611.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote the Etsy Profits Playbook with Commission
 
-> Product ID `51792` · Digistore24 productId `602787` · [HTML profile page](../../reviews/promote-the-etsy-profits-playbook-with-commission-51792.html)
+> Product ID `51792` · Digistore24 productId `602787` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-the-etsy-profits-playbook-with-commission-51792.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

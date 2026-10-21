@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The Responsibility System
 
-> Product ID `57165` · Digistore24 productId `706736` · [HTML profile page](../../reviews/ebook-the-responsibility-system-57165.html)
+> Product ID `57165` · Digistore24 productId `706736` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-responsibility-system-57165.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

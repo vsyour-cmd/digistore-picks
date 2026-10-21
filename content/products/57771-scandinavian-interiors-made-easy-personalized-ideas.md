@@ -21,7 +21,7 @@ language: "en"
 ---
 # Scandinavian Interiors made easy Personalized Ideas
 
-> Product ID `57771` · Digistore24 productId `713119` · [HTML profile page](../../reviews/scandinavian-interiors-made-easy-personalized-ideas-57771.html)
+> Product ID `57771` · Digistore24 productId `713119` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/scandinavian-interiors-made-easy-personalized-ideas-57771.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

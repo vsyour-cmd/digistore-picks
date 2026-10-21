@@ -21,7 +21,7 @@ language: "en"
 ---
 # English Speak Shadowing — One English Level (15 Lessons)
 
-> Product ID `58776` · Digistore24 productId `727603` · [HTML profile page](../../reviews/english-speak-shadowing-one-english-level-15-lessons-58776.html)
+> Product ID `58776` · Digistore24 productId `727603` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/english-speak-shadowing-one-english-level-15-lessons-58776.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

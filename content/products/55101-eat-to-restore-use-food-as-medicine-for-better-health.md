@@ -21,7 +21,7 @@ language: "en"
 ---
 # Eat to Restore: Use Food as Medicine for Better Health
 
-> Product ID `55101` · Digistore24 productId `656122` · [HTML profile page](../../reviews/eat-to-restore-use-food-as-medicine-for-better-health-55101.html)
+> Product ID `55101` · Digistore24 productId `656122` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/eat-to-restore-use-food-as-medicine-for-better-health-55101.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

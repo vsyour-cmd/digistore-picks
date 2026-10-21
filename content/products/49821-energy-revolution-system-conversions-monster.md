@@ -21,7 +21,7 @@ language: "en"
 ---
 # Energy Revolution System - Conversions Monster !
 
-> Product ID `49821` · Digistore24 productId `570685` · [HTML profile page](../../reviews/energy-revolution-system-conversions-monster-49821.html)
+> Product ID `49821` · Digistore24 productId `570685` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/energy-revolution-system-conversions-monster-49821.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

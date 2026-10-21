@@ -21,7 +21,7 @@ language: "en"
 ---
 # Emergency Pantry Meals System - 180+ Shelf-Stable Meal Ideas
 
-> Product ID `56726` · Digistore24 productId `696111` · [HTML profile page](../../reviews/emergency-pantry-meals-system-180-shelf-stable-meal-ideas-56726.html)
+> Product ID `56726` · Digistore24 productId `696111` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/emergency-pantry-meals-system-180-shelf-stable-meal-ideas-56726.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

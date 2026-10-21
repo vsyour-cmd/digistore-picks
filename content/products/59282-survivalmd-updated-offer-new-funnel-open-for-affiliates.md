@@ -21,7 +21,7 @@ language: "en"
 ---
 # SURVIVALMD - UPDATED OFFER + NEW FUNNEL|OPEN FOR AFFILIATES
 
-> Product ID `59282` · Digistore24 productId `492636` · [HTML profile page](../../reviews/survivalmd-updated-offer-new-funnel-open-for-affiliates-59282.html)
+> Product ID `59282` · Digistore24 productId `492636` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/survivalmd-updated-offer-new-funnel-open-for-affiliates-59282.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

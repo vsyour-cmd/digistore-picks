@@ -21,7 +21,7 @@ language: "en"
 ---
 # Quietum Plus
 
-> Product ID `47990` · Digistore24 productId `549735` · [HTML profile page](../../reviews/quietum-plus-47990.html)
+> Product ID `47990` · Digistore24 productId `549735` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/quietum-plus-47990.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

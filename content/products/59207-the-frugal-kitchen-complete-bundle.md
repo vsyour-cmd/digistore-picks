@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Frugal Kitchen Complete Bundle
 
-> Product ID `59207` · Digistore24 productId `732973` · [HTML profile page](../../reviews/the-frugal-kitchen-complete-bundle-59207.html)
+> Product ID `59207` · Digistore24 productId `732973` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-frugal-kitchen-complete-bundle-59207.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

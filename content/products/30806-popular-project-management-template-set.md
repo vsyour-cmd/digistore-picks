@@ -21,7 +21,7 @@ language: "en"
 ---
 # Popular Project Management Template Set
 
-> Product ID `30806` · Digistore24 productId `299617` · [HTML profile page](../../reviews/popular-project-management-template-set-30806.html)
+> Product ID `30806` · Digistore24 productId `299617` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/popular-project-management-template-set-30806.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

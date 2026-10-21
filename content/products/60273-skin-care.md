@@ -21,7 +21,7 @@ language: "en"
 ---
 # Skin care
 
-> Product ID `60273` · Digistore24 productId `742863` · [HTML profile page](../../reviews/skin-care-60273.html)
+> Product ID `60273` · Digistore24 productId `742863` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/skin-care-60273.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

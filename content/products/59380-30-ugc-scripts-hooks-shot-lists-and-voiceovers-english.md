@@ -21,7 +21,7 @@ language: "en"
 ---
 # 30 UGC Scripts – Hooks, Shot Lists and Voiceovers (English)
 
-> Product ID `59380` · Digistore24 productId `735006` · [HTML profile page](../../reviews/30-ugc-scripts-hooks-shot-lists-and-voiceovers-english-59380.html)
+> Product ID `59380` · Digistore24 productId `735006` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/30-ugc-scripts-hooks-shot-lists-and-voiceovers-english-59380.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

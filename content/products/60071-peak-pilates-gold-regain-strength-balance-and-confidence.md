@@ -21,7 +21,7 @@ language: "en"
 ---
 # Peak Pilates Gold : Regain Strength, Balance, and Confidence
 
-> Product ID `60071` · Digistore24 productId `736517` · [HTML profile page](../../reviews/peak-pilates-gold-regain-strength-balance-and-confidence-60071.html)
+> Product ID `60071` · Digistore24 productId `736517` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/peak-pilates-gold-regain-strength-balance-and-confidence-60071.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

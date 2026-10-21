@@ -21,7 +21,7 @@ language: "en"
 ---
 # Slin Glucose Disposal - "Carbs into Muscle"
 
-> Product ID `45843` · Digistore24 productId `510243` · [HTML profile page](../../reviews/slin-glucose-disposal-carbs-into-muscle-45843.html)
+> Product ID `45843` · Digistore24 productId `510243` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/slin-glucose-disposal-carbs-into-muscle-45843.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

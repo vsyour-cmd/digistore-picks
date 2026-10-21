@@ -21,7 +21,7 @@ language: "en"
 ---
 # Lottery Increaser
 
-> Product ID `39597` · Digistore24 productId `433480` · [HTML profile page](../../reviews/lottery-increaser-39597.html)
+> Product ID `39597` · Digistore24 productId `433480` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/lottery-increaser-39597.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

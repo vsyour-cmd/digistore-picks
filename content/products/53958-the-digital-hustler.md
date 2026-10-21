@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Digital Hustler
 
-> Product ID `53958` · Digistore24 productId `635388` · [HTML profile page](../../reviews/the-digital-hustler-53958.html)
+> Product ID `53958` · Digistore24 productId `635388` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-digital-hustler-53958.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

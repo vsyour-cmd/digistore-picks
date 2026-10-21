@@ -21,7 +21,7 @@ language: "en"
 ---
 # 50% for Selling Health and Safety Dashboard (EN-AR)
 
-> Product ID `56337` · Digistore24 productId `684403` · [HTML profile page](../../reviews/50-for-selling-health-and-safety-dashboard-en-ar-56337.html)
+> Product ID `56337` · Digistore24 productId `684403` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/50-for-selling-health-and-safety-dashboard-en-ar-56337.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Master the Basics_Verbs/Sentences
 
-> Product ID `54041` · Digistore24 productId `636016` · [HTML profile page](../../reviews/master-the-basics-verbs-sentences-54041.html)
+> Product ID `54041` · Digistore24 productId `636016` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/master-the-basics-verbs-sentences-54041.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

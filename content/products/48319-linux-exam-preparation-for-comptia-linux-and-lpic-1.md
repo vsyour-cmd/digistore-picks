@@ -21,7 +21,7 @@ language: "en"
 ---
 # Linux exam preparation for CompTIA Linux+ and LPIC-1
 
-> Product ID `48319` · Digistore24 productId `551005` · [HTML profile page](../../reviews/linux-exam-preparation-for-comptia-linux-and-lpic-1-48319.html)
+> Product ID `48319` · Digistore24 productId `551005` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/linux-exam-preparation-for-comptia-linux-and-lpic-1-48319.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

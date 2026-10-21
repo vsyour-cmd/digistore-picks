@@ -21,7 +21,7 @@ language: "en"
 ---
 # Heart Journey | Guided Meditation and Perception Excercise
 
-> Product ID `54829` · Digistore24 productId `651678` · [HTML profile page](../../reviews/heart-journey-guided-meditation-and-perception-excercise-54829.html)
+> Product ID `54829` · Digistore24 productId `651678` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/heart-journey-guided-meditation-and-perception-excercise-54829.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

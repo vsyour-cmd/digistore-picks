@@ -21,7 +21,7 @@ language: "en"
 ---
 # Amazon FBA for Beginners – Costs and Risks with Matze
 
-> Product ID `59589` · Digistore24 productId `736416` · [HTML profile page](../../reviews/amazon-fba-for-beginners-costs-and-risks-with-matze-59589.html)
+> Product ID `59589` · Digistore24 productId `736416` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/amazon-fba-for-beginners-costs-and-risks-with-matze-59589.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

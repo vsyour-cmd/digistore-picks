@@ -21,7 +21,7 @@ language: "en"
 ---
 # Healthy Heart Solution Kit
 
-> Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](../../reviews/healthy-heart-solution-kit-42273.html)
+> Product ID `42273` · Digistore24 productId `464233` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/healthy-heart-solution-kit-42273.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich (browser-rendered)**
 
 ## 1. Marketplace record (official Digistore24 data)

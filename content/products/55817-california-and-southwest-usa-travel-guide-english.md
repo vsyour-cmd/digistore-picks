@@ -21,7 +21,7 @@ language: "en"
 ---
 # California and Southwest USA Travel Guide (English)
 
-> Product ID `55817` · Digistore24 productId `658149` · [HTML profile page](../../reviews/california-and-southwest-usa-travel-guide-english-55817.html)
+> Product ID `55817` · Digistore24 productId `658149` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/california-and-southwest-usa-travel-guide-english-55817.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Quick and Smart Canva Essentials - Illustrated PDF Guide
 
-> Product ID `59009` · Digistore24 productId `727211` · [HTML profile page](../../reviews/quick-and-smart-canva-essentials-illustrated-pdf-guide-59009.html)
+> Product ID `59009` · Digistore24 productId `727211` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/quick-and-smart-canva-essentials-illustrated-pdf-guide-59009.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

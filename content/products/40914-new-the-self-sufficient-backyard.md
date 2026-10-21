@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: The Self-Sufficient Backyard
 
-> Product ID `40914` · Digistore24 productId `379127` · [HTML profile page](../../reviews/new-the-self-sufficient-backyard-40914.html)
+> Product ID `40914` · Digistore24 productId `379127` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-the-self-sufficient-backyard-40914.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

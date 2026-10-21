@@ -21,7 +21,7 @@ language: "en"
 ---
 # Ebook - The New Architecture of Global Power - Volume I-VI
 
-> Product ID `59262` · Digistore24 productId `733892` · [HTML profile page](../../reviews/ebook-the-new-architecture-of-global-power-volume-i-vi-59262.html)
+> Product ID `59262` · Digistore24 productId `733892` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ebook-the-new-architecture-of-global-power-volume-i-vi-59262.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

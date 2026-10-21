@@ -21,7 +21,7 @@ language: "en"
 ---
 # Online Kirtan and Harmonium Course
 
-> Product ID `47609` · Digistore24 productId `532379` · [HTML profile page](../../reviews/online-kirtan-and-harmonium-course-47609.html)
+> Product ID `47609` · Digistore24 productId `532379` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/online-kirtan-and-harmonium-course-47609.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

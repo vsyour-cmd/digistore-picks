@@ -21,7 +21,7 @@ language: "en"
 ---
 # 30-Day Walking and Mobility Planner
 
-> Product ID `60559` · Digistore24 productId `733197` · [HTML profile page](../../reviews/30-day-walking-and-mobility-planner-60559.html)
+> Product ID `60559` · Digistore24 productId `733197` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/30-day-walking-and-mobility-planner-60559.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

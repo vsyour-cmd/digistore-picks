@@ -21,7 +21,7 @@ language: "en"
 ---
 # Decode Relationship Signals With a Practical 90-Day System
 
-> Product ID `58866` · Digistore24 productId `728308` · [HTML profile page](../../reviews/decode-relationship-signals-with-a-practical-90-day-system-58866.html)
+> Product ID `58866` · Digistore24 productId `728308` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/decode-relationship-signals-with-a-practical-90-day-system-58866.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

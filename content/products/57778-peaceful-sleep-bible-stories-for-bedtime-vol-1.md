@@ -21,7 +21,7 @@ language: "en"
 ---
 # Peaceful Sleep: Bible Stories for Bedtime - Vol.1
 
-> Product ID `57778` · Digistore24 productId `712276` · [HTML profile page](../../reviews/peaceful-sleep-bible-stories-for-bedtime-vol-1-57778.html)
+> Product ID `57778` · Digistore24 productId `712276` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/peaceful-sleep-bible-stories-for-bedtime-vol-1-57778.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

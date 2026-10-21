@@ -21,7 +21,7 @@ language: "en"
 ---
 # Free and Paid Platforms to Learn Coding
 
-> Product ID `53826` · Digistore24 productId `633831` · [HTML profile page](../../reviews/free-and-paid-platforms-to-learn-coding-53826.html)
+> Product ID `53826` · Digistore24 productId `633831` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/free-and-paid-platforms-to-learn-coding-53826.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

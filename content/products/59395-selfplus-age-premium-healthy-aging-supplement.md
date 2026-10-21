@@ -21,7 +21,7 @@ language: "en"
 ---
 # SelfPlus AGE+ – Premium Healthy Aging Supplement
 
-> Product ID `59395` · Digistore24 productId `728647` · [HTML profile page](../../reviews/selfplus-age-premium-healthy-aging-supplement-59395.html)
+> Product ID `59395` · Digistore24 productId `728647` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/selfplus-age-premium-healthy-aging-supplement-59395.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

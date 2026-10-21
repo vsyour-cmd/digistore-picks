@@ -21,7 +21,7 @@ language: "en"
 ---
 # Unlock Healthcare Automation with n8n
 
-> Product ID `55508` · Digistore24 productId `667670` · [HTML profile page](../../reviews/unlock-healthcare-automation-with-n8n-55508.html)
+> Product ID `55508` · Digistore24 productId `667670` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/unlock-healthcare-automation-with-n8n-55508.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

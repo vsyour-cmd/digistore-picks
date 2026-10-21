@@ -21,7 +21,7 @@ language: "en"
 ---
 # Financial Freedom for Beginners - High Converting E-book
 
-> Product ID `57157` · Digistore24 productId `666642` · [HTML profile page](../../reviews/financial-freedom-for-beginners-high-converting-e-book-57157.html)
+> Product ID `57157` · Digistore24 productId `666642` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/financial-freedom-for-beginners-high-converting-e-book-57157.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

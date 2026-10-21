@@ -21,7 +21,7 @@ language: "en"
 ---
 # Mastering SEO
 
-> Product ID `50401` · Digistore24 productId `580395` · [HTML profile page](../../reviews/mastering-seo-50401.html)
+> Product ID `50401` · Digistore24 productId `580395` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/mastering-seo-50401.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

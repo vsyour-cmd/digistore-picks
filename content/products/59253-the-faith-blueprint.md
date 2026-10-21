@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Faith Blueprint
 
-> Product ID `59253` · Digistore24 productId `733747` · [HTML profile page](../../reviews/the-faith-blueprint-59253.html)
+> Product ID `59253` · Digistore24 productId `733747` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-faith-blueprint-59253.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

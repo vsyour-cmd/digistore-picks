@@ -21,7 +21,7 @@ language: "en"
 ---
 # “Enjoy 60% launch commissions through January 2026! All plan
 
-> Product ID `54525` · Digistore24 productId `644279` · [HTML profile page](../../reviews/enjoy-60-launch-commissions-through-january-2026-all-plan-54525.html)
+> Product ID `54525` · Digistore24 productId `644279` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/enjoy-60-launch-commissions-through-january-2026-all-plan-54525.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Customer Service Team Leader Starter Kit (English)
 
-> Product ID `59461` · Digistore24 productId `735503` · [HTML profile page](../../reviews/customer-service-team-leader-starter-kit-english-59461.html)
+> Product ID `59461` · Digistore24 productId `735503` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/customer-service-team-leader-starter-kit-english-59461.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

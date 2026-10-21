@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: The Gamma Game - Killer NEW Memory Offer - 90% Comms
 
-> Product ID `60210` · Digistore24 productId `738151` · [HTML profile page](../../reviews/new-the-gamma-game-killer-new-memory-offer-90-comms-60210.html)
+> Product ID `60210` · Digistore24 productId `738151` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-the-gamma-game-killer-new-memory-offer-90-comms-60210.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

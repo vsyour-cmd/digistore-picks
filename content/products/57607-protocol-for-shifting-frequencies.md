@@ -21,7 +21,7 @@ language: "en"
 ---
 # Protocol for shifting frequencies.
 
-> Product ID `57607` · Digistore24 productId `713190` · [HTML profile page](../../reviews/protocol-for-shifting-frequencies-57607.html)
+> Product ID `57607` · Digistore24 productId `713190` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/protocol-for-shifting-frequencies-57607.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

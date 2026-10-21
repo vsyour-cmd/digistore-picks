@@ -21,7 +21,7 @@ language: "en"
 ---
 # DentiCore
 
-> Product ID `47137` · Digistore24 productId `539181` · [HTML profile page](../../reviews/denticore-47137.html)
+> Product ID `47137` · Digistore24 productId `539181` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/denticore-47137.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

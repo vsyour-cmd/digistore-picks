@@ -21,7 +21,7 @@ language: "en"
 ---
 # Medical Appointment Prep System
 
-> Product ID `60555` · Digistore24 productId `733201` · [HTML profile page](../../reviews/medical-appointment-prep-system-60555.html)
+> Product ID `60555` · Digistore24 productId `733201` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/medical-appointment-prep-system-60555.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

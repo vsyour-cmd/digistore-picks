@@ -21,7 +21,7 @@ language: "en"
 ---
 # Neuro Fortis PRO helps enhance memory, boost mental clarity,
 
-> Product ID `51905` · Digistore24 productId `602881` · [HTML profile page](../../reviews/neuro-fortis-pro-helps-enhance-memory-boost-mental-clarity-51905.html)
+> Product ID `51905` · Digistore24 productId `602881` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/neuro-fortis-pro-helps-enhance-memory-boost-mental-clarity-51905.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # The Ultimate Gradient Map Collection
 
-> Product ID `58149` · Digistore24 productId `711472` · [HTML profile page](../../reviews/the-ultimate-gradient-map-collection-58149.html)
+> Product ID `58149` · Digistore24 productId `711472` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-ultimate-gradient-map-collection-58149.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

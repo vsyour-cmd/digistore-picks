@@ -21,7 +21,7 @@ language: "en"
 ---
 # Build Your Email List
 
-> Product ID `47711` · Digistore24 productId `542334` · [HTML profile page](../../reviews/build-your-email-list-47711.html)
+> Product ID `47711` · Digistore24 productId `542334` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/build-your-email-list-47711.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

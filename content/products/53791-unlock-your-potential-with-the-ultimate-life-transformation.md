@@ -21,7 +21,7 @@ language: "en"
 ---
 # Unlock Your Potential with The Ultimate Life Transformation
 
-> Product ID `53791` · Digistore24 productId `631236` · [HTML profile page](../../reviews/unlock-your-potential-with-the-ultimate-life-transformation-53791.html)
+> Product ID `53791` · Digistore24 productId `631236` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/unlock-your-potential-with-the-ultimate-life-transformation-53791.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # NEW: 14 Day Rapid Soup Diet -Highest Converting Sales Page!
 
-> Product ID `60503` · Digistore24 productId `732611` · [HTML profile page](../../reviews/new-14-day-rapid-soup-diet-highest-converting-sales-page-60503.html)
+> Product ID `60503` · Digistore24 productId `732611` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/new-14-day-rapid-soup-diet-highest-converting-sales-page-60503.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

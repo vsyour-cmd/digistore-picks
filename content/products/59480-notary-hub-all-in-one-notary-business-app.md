@@ -21,7 +21,7 @@ language: "en"
 ---
 # Notary Hub: All-in-One Notary Business App
 
-> Product ID `59480` · Digistore24 productId `733871` · [HTML profile page](../../reviews/notary-hub-all-in-one-notary-business-app-59480.html)
+> Product ID `59480` · Digistore24 productId `733871` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/notary-hub-all-in-one-notary-business-app-59480.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

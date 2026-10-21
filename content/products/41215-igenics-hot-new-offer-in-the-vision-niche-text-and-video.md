@@ -21,7 +21,7 @@ language: "en"
 ---
 # iGenics - Hot New Offer in the Vision Niche!(Text and Video)
 
-> Product ID `41215` · Digistore24 productId `454003` · [HTML profile page](../../reviews/igenics-hot-new-offer-in-the-vision-niche-text-and-video-41215.html)
+> Product ID `41215` · Digistore24 productId `454003` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/igenics-hot-new-offer-in-the-vision-niche-text-and-video-41215.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

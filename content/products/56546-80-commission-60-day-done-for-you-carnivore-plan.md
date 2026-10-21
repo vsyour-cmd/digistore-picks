@@ -21,7 +21,7 @@ language: "en"
 ---
 # 80% Commission · 60-Day Done-For-You Carnivore Plan
 
-> Product ID `56546` · Digistore24 productId `693519` · [HTML profile page](../../reviews/80-commission-60-day-done-for-you-carnivore-plan-56546.html)
+> Product ID `56546` · Digistore24 productId `693519` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/80-commission-60-day-done-for-you-carnivore-plan-56546.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

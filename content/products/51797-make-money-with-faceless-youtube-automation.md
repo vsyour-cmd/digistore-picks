@@ -21,7 +21,7 @@ language: "en"
 ---
 # Make Money with Faceless YouTube- Automation
 
-> Product ID `51797` · Digistore24 productId `603007` · [HTML profile page](../../reviews/make-money-with-faceless-youtube-automation-51797.html)
+> Product ID `51797` · Digistore24 productId `603007` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/make-money-with-faceless-youtube-automation-51797.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

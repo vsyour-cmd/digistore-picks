@@ -21,7 +21,7 @@ language: "en"
 ---
 # Journal For Peace
 
-> Product ID `59614` · Digistore24 productId `736678` · [HTML profile page](../../reviews/journal-for-peace-59614.html)
+> Product ID `59614` · Digistore24 productId `736678` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/journal-for-peace-59614.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

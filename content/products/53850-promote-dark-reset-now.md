@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote Dark Reset Now!
 
-> Product ID `53850` · Digistore24 productId `633510` · [HTML profile page](../../reviews/promote-dark-reset-now-53850.html)
+> Product ID `53850` · Digistore24 productId `633510` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-dark-reset-now-53850.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

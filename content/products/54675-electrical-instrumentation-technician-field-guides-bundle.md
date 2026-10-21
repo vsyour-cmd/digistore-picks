@@ -21,7 +21,7 @@ language: "en"
 ---
 # Electrical Instrumentation Technician Field Guides Bundle.
 
-> Product ID `54675` · Digistore24 productId `644122` · [HTML profile page](../../reviews/electrical-instrumentation-technician-field-guides-bundle-54675.html)
+> Product ID `54675` · Digistore24 productId `644122` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/electrical-instrumentation-technician-field-guides-bundle-54675.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

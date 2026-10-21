@@ -21,7 +21,7 @@ language: "en"
 ---
 # Earn 50% Commission Promoting The Lost Dino Egg
 
-> Product ID `56829` · Digistore24 productId `699308` · [HTML profile page](../../reviews/earn-50-commission-promoting-the-lost-dino-egg-56829.html)
+> Product ID `56829` · Digistore24 productId `699308` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/earn-50-commission-promoting-the-lost-dino-egg-56829.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **not retrieved**
 
 ## 1. Marketplace record (official Digistore24 data)

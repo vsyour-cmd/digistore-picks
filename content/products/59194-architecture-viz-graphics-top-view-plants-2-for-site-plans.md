@@ -21,7 +21,7 @@ language: "en"
 ---
 # Architecture VIZ Graphics – Top View Plants 2 for site plans
 
-> Product ID `59194` · Digistore24 productId `593597` · [HTML profile page](../../reviews/architecture-viz-graphics-top-view-plants-2-for-site-plans-59194.html)
+> Product ID `59194` · Digistore24 productId `593597` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/architecture-viz-graphics-top-view-plants-2-for-site-plans-59194.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

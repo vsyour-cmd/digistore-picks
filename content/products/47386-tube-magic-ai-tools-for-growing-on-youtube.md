@@ -21,7 +21,7 @@ language: "en"
 ---
 # Tube Magic - AI Tools For Growing on YouTube
 
-> Product ID `47386` · Digistore24 productId `540531` · [HTML profile page](../../reviews/tube-magic-ai-tools-for-growing-on-youtube-47386.html)
+> Product ID `47386` · Digistore24 productId `540531` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/tube-magic-ai-tools-for-growing-on-youtube-47386.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

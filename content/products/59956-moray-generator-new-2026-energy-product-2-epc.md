@@ -21,7 +21,7 @@ language: "en"
 ---
 # Moray Generator - NEW 2026 ENERGY PRODUCT $2+ EPC
 
-> Product ID `59956` · Digistore24 productId `738063` · [HTML profile page](../../reviews/moray-generator-new-2026-energy-product-2-epc-59956.html)
+> Product ID `59956` · Digistore24 productId `738063` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/moray-generator-new-2026-energy-product-2-epc-59956.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

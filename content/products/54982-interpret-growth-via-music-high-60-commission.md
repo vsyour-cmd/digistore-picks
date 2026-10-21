@@ -21,7 +21,7 @@ language: "en"
 ---
 # Interpret Growth via Music | High 60% Commission
 
-> Product ID `54982` · Digistore24 productId `656248` · [HTML profile page](../../reviews/interpret-growth-via-music-high-60-commission-54982.html)
+> Product ID `54982` · Digistore24 productId `656248` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/interpret-growth-via-music-high-60-commission-54982.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # 500+ AI Money Prompts | 502 Proven Prompts to Build Real Inc
 
-> Product ID `56442` · Digistore24 productId `689417` · [HTML profile page](../../reviews/500-ai-money-prompts-502-proven-prompts-to-build-real-inc-56442.html)
+> Product ID `56442` · Digistore24 productId `689417` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/500-ai-money-prompts-502-proven-prompts-to-build-real-inc-56442.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

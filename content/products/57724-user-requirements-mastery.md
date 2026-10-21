@@ -21,7 +21,7 @@ language: "en"
 ---
 # User Requirements Mastery
 
-> Product ID `57724` · Digistore24 productId `565409` · [HTML profile page](../../reviews/user-requirements-mastery-57724.html)
+> Product ID `57724` · Digistore24 productId `565409` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/user-requirements-mastery-57724.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

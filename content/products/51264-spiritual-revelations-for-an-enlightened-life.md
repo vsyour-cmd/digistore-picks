@@ -21,7 +21,7 @@ language: "en"
 ---
 # Spiritual Revelations for an Enlightened Life
 
-> Product ID `51264` · Digistore24 productId `594948` · [HTML profile page](../../reviews/spiritual-revelations-for-an-enlightened-life-51264.html)
+> Product ID `51264` · Digistore24 productId `594948` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/spiritual-revelations-for-an-enlightened-life-51264.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

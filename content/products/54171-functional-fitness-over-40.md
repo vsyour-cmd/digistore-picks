@@ -21,7 +21,7 @@ language: "en"
 ---
 # Functional Fitness Over 40
 
-> Product ID `54171` · Digistore24 productId `637566` · [HTML profile page](../../reviews/functional-fitness-over-40-54171.html)
+> Product ID `54171` · Digistore24 productId `637566` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/functional-fitness-over-40-54171.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

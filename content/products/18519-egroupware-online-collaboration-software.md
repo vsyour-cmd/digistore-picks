@@ -21,7 +21,7 @@ language: "en"
 ---
 # EGroupware - Online Collaboration Software
 
-> Product ID `18519` · Digistore24 productId `58103` · [HTML profile page](../../reviews/egroupware-online-collaboration-software-18519.html)
+> Product ID `18519` · Digistore24 productId `58103` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/egroupware-online-collaboration-software-18519.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

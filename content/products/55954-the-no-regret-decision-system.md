@@ -21,7 +21,7 @@ language: "en"
 ---
 # The No-Regret Decision System™
 
-> Product ID `55954` · Digistore24 productId `674411` · [HTML profile page](../../reviews/the-no-regret-decision-system-55954.html)
+> Product ID `55954` · Digistore24 productId `674411` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/the-no-regret-decision-system-55954.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Power Grid Generator - New Conversion Blockbuster Offer 2026
 
-> Product ID `59406` · Digistore24 productId `734900` · [HTML profile page](../../reviews/power-grid-generator-new-conversion-blockbuster-offer-2026-59406.html)
+> Product ID `59406` · Digistore24 productId `734900` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/power-grid-generator-new-conversion-blockbuster-offer-2026-59406.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

@@ -21,7 +21,7 @@ language: "en"
 ---
 # Learn French by speaking!
 
-> Product ID `12431` · Digistore24 productId `88793` · [HTML profile page](../../reviews/learn-french-by-speaking-12431.html)
+> Product ID `12431` · Digistore24 productId `88793` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/learn-french-by-speaking-12431.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)

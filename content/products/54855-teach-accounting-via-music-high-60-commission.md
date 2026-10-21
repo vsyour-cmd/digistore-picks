@@ -21,7 +21,7 @@ language: "en"
 ---
 # Teach Accounting via Music | High 60% Commission
 
-> Product ID `54855` · Digistore24 productId `652033` · [HTML profile page](../../reviews/teach-accounting-via-music-high-60-commission-54855.html)
+> Product ID `54855` · Digistore24 productId `652033` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/teach-accounting-via-music-high-60-commission-54855.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

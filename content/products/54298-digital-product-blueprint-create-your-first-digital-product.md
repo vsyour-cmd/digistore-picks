@@ -21,7 +21,7 @@ language: "en"
 ---
 # Digital Product Blueprint: Create Your First Digital Product
 
-> Product ID `54298` · Digistore24 productId `639860` · [HTML profile page](../../reviews/digital-product-blueprint-create-your-first-digital-product-54298.html)
+> Product ID `54298` · Digistore24 productId `639860` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/digital-product-blueprint-create-your-first-digital-product-54298.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

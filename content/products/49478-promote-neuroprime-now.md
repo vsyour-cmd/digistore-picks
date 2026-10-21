@@ -21,7 +21,7 @@ language: "en"
 ---
 # Promote NeuroPrime Now!
 
-> Product ID `49478` · Digistore24 productId `570703` · [HTML profile page](../../reviews/promote-neuroprime-now-49478.html)
+> Product ID `49478` · Digistore24 productId `570703` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/promote-neuroprime-now-49478.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

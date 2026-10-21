@@ -21,7 +21,7 @@ language: "en"
 ---
 # 15 Delicious Keto Meal Plans to Simplify Your Weight Loss
 
-> Product ID `55937` · Digistore24 productId `630880` · [HTML profile page](../../reviews/15-delicious-keto-meal-plans-to-simplify-your-weight-loss-55937.html)
+> Product ID `55937` · Digistore24 productId `630880` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/15-delicious-keto-meal-plans-to-simplify-your-weight-loss-55937.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

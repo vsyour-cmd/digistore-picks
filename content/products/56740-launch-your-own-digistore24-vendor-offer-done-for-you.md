@@ -21,7 +21,7 @@ language: "en"
 ---
 # Launch Your Own Digistore24 Vendor Offer — Done For You.
 
-> Product ID `56740` · Digistore24 productId `696321` · [HTML profile page](../../reviews/launch-your-own-digistore24-vendor-offer-done-for-you-56740.html)
+> Product ID `56740` · Digistore24 productId `696321` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/launch-your-own-digistore24-vendor-offer-done-for-you-56740.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

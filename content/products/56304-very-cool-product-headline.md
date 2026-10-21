@@ -21,7 +21,7 @@ language: "en"
 ---
 # Very cool product headline
 
-> Product ID `56304` · Digistore24 productId `685552` · [HTML profile page](../../reviews/very-cool-product-headline-56304.html)
+> Product ID `56304` · Digistore24 productId `685552` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/very-cool-product-headline-56304.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

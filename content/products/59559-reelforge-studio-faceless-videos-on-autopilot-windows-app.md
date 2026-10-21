@@ -21,7 +21,7 @@ language: "en"
 ---
 # ReelForge Studio - Faceless Videos on Autopilot (Windows App
 
-> Product ID `59559` · Digistore24 productId `735866` · [HTML profile page](../../reviews/reelforge-studio-faceless-videos-on-autopilot-windows-app-59559.html)
+> Product ID `59559` · Digistore24 productId `735866` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/reelforge-studio-faceless-videos-on-autopilot-windows-app-59559.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

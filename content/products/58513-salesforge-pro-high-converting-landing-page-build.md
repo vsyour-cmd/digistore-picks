@@ -21,7 +21,7 @@ language: "en"
 ---
 # SalesForge Pro – High-Converting Landing Page Build
 
-> Product ID `58513` · Digistore24 productId `723073` · [HTML profile page](../../reviews/salesforge-pro-high-converting-landing-page-build-58513.html)
+> Product ID `58513` · Digistore24 productId `723073` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/salesforge-pro-high-converting-landing-page-build-58513.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

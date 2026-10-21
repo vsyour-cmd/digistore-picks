@@ -21,7 +21,7 @@ language: "en"
 ---
 # AI Tools for Everyday Life
 
-> Product ID `53944` · Digistore24 productId `635402` · [HTML profile page](../../reviews/ai-tools-for-everyday-life-53944.html)
+> Product ID `53944` · Digistore24 productId `635402` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/ai-tools-for-everyday-life-53944.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

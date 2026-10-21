@@ -21,7 +21,7 @@ language: "en"
 ---
 # Restore Your Gut Health for better Digestion and Immunity
 
-> Product ID `55100` · Digistore24 productId `656114` · [HTML profile page](../../reviews/restore-your-gut-health-for-better-digestion-and-immunity-55100.html)
+> Product ID `55100` · Digistore24 productId `656114` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/restore-your-gut-health-for-better-digestion-and-immunity-55100.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **thin**
 
 ## 1. Marketplace record (official Digistore24 data)

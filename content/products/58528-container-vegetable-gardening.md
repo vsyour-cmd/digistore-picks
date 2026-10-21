@@ -21,7 +21,7 @@ language: "en"
 ---
 # Container Vegetable Gardening
 
-> Product ID `58528` · Digistore24 productId `725086` · [HTML profile page](../../reviews/container-vegetable-gardening-58528.html)
+> Product ID `58528` · Digistore24 productId `725086` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/container-vegetable-gardening-58528.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **rich**
 
 ## 1. Marketplace record (official Digistore24 data)

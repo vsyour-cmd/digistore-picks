@@ -21,7 +21,7 @@ language: "en"
 ---
 # Beginner Body Blueprint | 50% Comm | High-Converting Science
 
-> Product ID `55116` · Digistore24 productId `655678` · [HTML profile page](../../reviews/beginner-body-blueprint-50-comm-high-converting-science-55116.html)
+> Product ID `55116` · Digistore24 productId `655678` · [HTML profile page](https://vsyour-cmd.github.io/digistore-picks/reviews/beginner-body-blueprint-50-comm-high-converting-science-55116.html)
 > Marketplace data: 2026-10-14 · Sales-page research: 2026-10-14 · Research quality: **medium**
 
 ## 1. Marketplace record (official Digistore24 data)
