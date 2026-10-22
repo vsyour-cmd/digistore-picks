@@ -2,6 +2,16 @@
   "site": "en",
   "entries": [
     {
+      "date": "2026-10-16",
+      "summary": "Product pages redesigned as buyer-facing landing pages: the affiliate commission and marketplace statistics blocks are gone (they were affiliate-facing data), replaced by eight new buyer-oriented sections per product — what the product is, pricing details, refund policy, who it suits, legitimacy verification steps, access after purchase, how to research reviews, and safe-buying steps. Every product also links its full Markdown research archive. The underlying marketplace record is unchanged and stays available in each product's data archive.",
+      "changes": [
+        "removed: affiliate commission row, marketplace stats row (cart conversion/cancel rate/earnings per sale) from the product record table, TL;DR block and product cards",
+        "added: 8 long-tail buyer sections per product page (What is / Pricing / Refund policy / Who is it for / Is it legit / Access after buying / Reviews research / Safe buying) — every figure backed by the marketplace record or labeled vendor claims",
+        "added: per-product link to the full Markdown research archive (content/products/{id}-{slug}.md)",
+        "product cards now show vendor, listing date and price (buyer fields) instead of affiliate fields"
+      ]
+    },
+    {
       "date": "2026-10-15",
       "summary": "Sitemap integrity hardening: FAQ hub pages are now discovered by directory scan instead of the per-category list — the uncategorized-group FAQ page was missing from the sitemap, and 3 stale offer pages (2 delisted offers, 1 retitled listing) were pruned. Daily articles and all tables refreshed from the 2026-10-14 snapshot; the marketplace scrape itself runs in the companion tooling session.",
       "changes": [
