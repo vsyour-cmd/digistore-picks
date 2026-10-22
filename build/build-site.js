@@ -1881,7 +1881,7 @@ function longTailContent(p) {
 <li>Save the order confirmation email; note the refund deadline in your calendar.</li>
 <li>Evaluate promptly. Digistore24 buyer support can help if the vendor is unresponsive.</li>
 </ol>`);
-  secs.push(`<p class="sub">Full research archive for this product (Markdown: complete marketplace record + verbatim sales-page extracts): <a href="../content/products/${mdFile}">${esc(p.label)} — data archive (.md)</a>.</p>`);
+  secs.push(`<p class="sub">Full research archive for this product (Markdown: complete marketplace record + verbatim sales-page extracts): <a href="../content/products/${mdFile}" download="${mdFile}">${esc(p.label)} — full data archive (Markdown file: ${mdFile})</a>.</p>`);
   return secs.join("\n");
 }
 
