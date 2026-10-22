@@ -195,14 +195,8 @@ function productCard(p, rel = ".") {
   ${imgRel(p, rel, `style="width:100%;height:130px;object-fit:contain"`)}
   <div class="title"><a href="${rel}/reviews/${p.slug}.html">${esc(p.label)}</a></div>
   <div class="meta">
-    <span>${esc(p.type)}</span>
-    <span>Price <b>${money(p.price, p.currency)}</b></span>
-    <span>Commission <b>${pct(p.commission)}</b></span>
-  </div>
-  <div class="meta">
-    <span>Earnings/sale <b>${money(p.earningsPerSale, p.currency)}</b>*</span>
-    <span>Cart conv. <b>${pct(p.conversionRate)}</b>*</span>
     <span>Vendor <b>${esc(p.vendorName)}</b></span>
+    <span>Listed <b>${datemark(p.createdAt)}</b></span>
   </div>
   ${p.description ? `<p class="desc">${esc(p.description).slice(0, 160)}</p>` : ""}
   <div class="links">
@@ -251,8 +245,8 @@ function tldr(p) {
 <b>At a glance</b> (marketplace data as of ${datemark(DATA.scrapedAt)}):
 <ul>
 <li>${esc(p.label)} is a ${esc(p.type.toLowerCase())}${cats} sold through the Digistore24 marketplace by vendor <b>${esc(p.vendorName)}</b>, listed since <b>${datemark(p.createdAt)}</b>.</li>
-<li>List price <b>${money(p.price, p.currency)}</b>; Digistore24 reports a <b>${pct(p.commission)}</b> affiliate commission, <b>${pct(p.conversionRate)}</b> cart conversion and a <b>${pct(p.cancelRate)}</b> cancel rate for this offer.</li>
-<li>Affiliate earnings per sale: <b>${money(p.earningsPerSale, p.currency)}</b> (vendor-side statistic, not a forecast).${g}${dead}</li>
+<li>List price <b>${money(p.price, p.currency)}</b>${(p.billingTypes || []).length ? " (" + esc(p.billingTypes.join(", ").toLowerCase()) + ")" : ""} — checkout, delivery and refunds are handled by Digistore24 itself, not the vendor.</li>
+<li>Buyer protection: ${g ? "the sales page advertises a money-back guarantee — confirm the exact window at checkout" : "no standardized guarantee wording detected — locate the refund terms on the official page before paying"}.${dead}</li>
 </ul>
 </div>`;
 }
@@ -553,12 +547,9 @@ ${imgTag}
 <table class="specs">
 <tr><th>Product type</th><td>${esc(p.type)}</td></tr>
 <tr><th>Price</th><td>${money(p.price, p.currency)} (${esc((p.billingTypes || []).join(", ")) || "see sales page"})</td></tr>
-<tr><th>Affiliate commission</th><td>${pct(p.commission)}</td></tr>
 <tr><th>Refund window</th><td>Per the vendor's sales page — check the official page before buying</td></tr>
 <tr><th>Vendor</th><td>${esc(p.vendorName)} (listed since ${datemark(p.createdAt)})</td></tr>
-<tr><th>Marketplace stats*</th><td>Cart conversion ${pct(p.conversionRate)} · cancel rate ${pct(p.cancelRate)} · affiliate earnings/sale ${money(p.earningsPerSale, p.currency)}</td></tr>
 </table>
-<p class="sub">* Vendor-side marketplace statistics reported by Digistore24; they depend on traffic quality and are not a forecast.</p>
 ${p.description ? `<h2>Vendor's marketplace description</h2><p>${esc(p.description)}</p>` : ""}
 
 ${researchSection(p)}
@@ -568,6 +559,8 @@ ${usageSection(p)}
 ${galleryBlock(p)}
 
 ${cautionSection(p)}
+
+${longTailContent(p)}
 
 ${evidenceBox(p)}
 
@@ -986,7 +979,7 @@ function evidenceBox(p) {
   const method = res && p.research.method === "browser-render" ? "browser-rendered" : "raw HTML";
   return `<div class="tldr"><b>Evidence base & verification conditions</b>
 <ul>
-<li><b>Marketplace figures</b> (price, commission, conversion, cancel rate) — source: official Digistore24 marketplace API, affiliate view, snapshot <b>${datemark(DATA.scrapedAt)}</b>. Re-check: marketplace search for product ID ${p.productId}.</li>
+<li><b>Listed price & billing</b> — source: official Digistore24 marketplace API, snapshot <b>${datemark(DATA.scrapedAt)}</b>. The checkout page is always the binding source for the current price.</li>
 <li><b>Sales-page quotes & headline</b> — source: ${esc(srcPage || "official sales page")}, fetched <b>${datemark(DATA.researchedAt) || "—"}</b> (method: ${method}). Verify: open the official page.</li>
 <li><b>Guarantee / refund</b> — set by the vendor; confirm on the sales page at purchase time.</li>
 <li><b>Not verified by us:</b> product quality, outcomes, testimonials — no hands-on test has been performed for this listing.</li>
@@ -1040,7 +1033,7 @@ function faqData(p, altData) {
   });
   qas.push({
     q: `Is ${p.label} legit?`,
-    a: `We don't rate legitimacy — we publish verifiable data instead: vendor <b>${p.vendorName}</b> (listed on Digistore24 since ${datemark(p.createdAt)}), cart conversion ${pct(p.conversionRate)}, cancel rate ${pct(p.cancelRate)}, affiliate earnings/sale ${money(p.earningsPerSale, p.currency)} (all vendor-side marketplace statistics). Read our <a href="../blog/digistore24-numbers-checklist.html">6-point evaluation method</a> and judge with the numbers — or <a href="https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=${q}" rel="noopener">join the discussion about ${esc(p.label)}</a>.`,
+    a: `We don't rate legitimacy — we publish verifiable data instead: vendor <b>${p.vendorName}</b> (listed on Digistore24 since ${datemark(p.createdAt)}), listed on the marketplace since <b>${datemark(p.createdAt)}</b>, with its complete sales-page research archived on this page (vendor claims labeled as such). Read our <a href="../blog/digistore24-numbers-checklist.html">6-point evaluation method</a> and judge with the facts — or <a href="https://github.com/vsyour-cmd/digistore-picks/discussions?discussions_q=${q}" rel="noopener">join the discussion about ${esc(p.label)}</a>.`,
   });
   if (altData && altData.length >= 3) {
     qas.push({
@@ -1854,6 +1847,44 @@ ${picks.length ? `<h2>Editor picks</h2>
   }));
   console.log(`amazon-picks: ${picks.length} storefront picks, ${DATA.categories.filter((c) => c.count >= 10).length} category shortcuts`);
 }
+
+// ---------- 买家导向长尾内容区(改进项:landing 优化) ----------
+// 全部由产品真实数据/厂商原文支撑;不引入联盟侧统计,保持销售落地页语境
+function longTailContent(p) {
+  const r = (p.research && !p.research.error) ? p.research : null;
+  const cat = DATA.categories.find((c) => String(c.catId) === String((p.categoryIds || [])[0]));
+  const catLabel = cat ? esc(cat.label) : "digital products";
+  const mdFile = p.id + "-" + slug(p.label || ("product-" + p.id)) + ".md";
+  const billing = (p.billingTypes || []).join(", ").toLowerCase() || "see the sales page";
+  const delivery = TYPE_USAGE_EN[p.type] ? esc(TYPE_USAGE_EN[p.type]).replace(/\.$/, "") : "delivery details arrive by email and in your Digistore24 customer account";
+  const secs = [];
+  secs.push(`<h2>What is ${esc(p.label)}?</h2>
+<p>${esc(p.label)} is a ${esc(p.type.toLowerCase())} in the ${catLabel} category of the Digistore24 marketplace, published by vendor <b>${esc(p.vendorName)}</b> and on sale since <b>${datemark(p.createdAt)}</b>.${p.description ? " The vendor describes it as follows: &quot;<i>" + esc(p.description.slice(0, 260)) + "</i>&quot; (vendor's marketplace description, lightly truncated)." : ""}</p>`);
+  secs.push(`<h2>${esc(p.label)} pricing: what you will pay</h2>
+<p>The marketplace lists ${esc(p.label)} at <b>${money(p.price, p.currency)}</b> (${esc(billing)}). Digistore24 adds any tax your country requires at checkout, where you see the final amount before paying.${r && r.priceMentions && r.priceMentions.length ? " The sales page itself mentions: " + r.priceMentions.slice(0, 4).map((x) => "<b>" + esc(x) + "</b>").join(", ") + " (vendor claims — the checkout total is the binding one)." : ""} There is no separate marketplace-side fee; vendors may offer their own upsells after checkout.</p>`);
+  secs.push(`<h2>${esc(p.label)} refund policy and money-back guarantee</h2>
+<p>${r && r.guaranteeMention ? "The sales page advertises: <b>&quot;" + esc(r.guaranteeMention) + "&quot;</b> (vendor claim). " : "We did not find standardized guarantee wording on the sales page. "}Refunds for Digistore24 purchases are processed through the platform: request via the support link in your order email, within the vendor's guarantee window shown at checkout. Practical advice: decide inside the window — if the product underdelivers, refund it rather than letting it ride.</p>
+<p>Details and mechanics: <a href="../digistore24-refunds.html">how Digistore24 refunds work</a>.</p>`);
+  secs.push(`<h2>Who is ${esc(p.label)} for?</h2>
+<p>Based on its ${catLabel} classification${(p.billingTypes || []).length ? " and " + esc(billing) + " pricing" : ""}, ${esc(p.label)} targets buyers looking for ${catLabel.toLowerCase()} solutions${p.price >= 100 ? " who have budgeted for a premium, high-ticket purchase" : p.price >= 30 ? " at a mid-range price point" : " at an entry-level price"}. The honest test is not the category but your own situation: will you realistically use it within the refund window? If yes, the price is an investment; if not, it is clutter — regardless of quality.</p>`);
+  secs.push(`<h2>Is ${esc(p.label)} legit? What to verify before buying</h2>
+<p>We do not rate legitimacy — nobody can, without using the product. What you can verify, all on this page: the vendor's marketplace history (listed since ${datemark(p.createdAt)}), the verbatim sales-page extracts below (labeled <i>vendor claims</i> — their marketing, not our endorsement), the guarantee terms at checkout, and the delivery method. Red flags to check on any offer: pressure countdowns paired with vague refund terms, testimonials without dates, and vendor sites that hide pricing until checkout.</p>`);
+  secs.push(`<h2>How do you access ${esc(p.label)} after buying?</h2>
+<p>Checkout runs on Digistore24. After payment: ${delivery}. Keep your order email — it is your key to the ${esc(p.type.toLowerCase())}, your refund requests and Digistore24 buyer support.</p>`);
+  secs.push(`<h2>${esc(p.label)} reviews: how to research it properly</h2>
+<p>Third-party "reviews" of marketplace products are mostly affiliate content — including pages like this one, which earns a commission on purchases. Treat every review (ours included) as a starting point, then verify against primary sources: the vendor's own sales page, the Digistore24 refund policy, and — for ${catLabel.toLowerCase()} — independent communities outside the affiliate ecosystem. On this page the sales-page extracts below are quoted verbatim, so you can judge the vendor's claims without clicking away.</p>`);
+  secs.push(`<h2>How to buy ${esc(p.label)} safely</h2>
+<ol>
+<li>Open the <a href="${esc(p.promoLink)}" rel="nofollow sponsored noopener" target="_blank">official sales page</a> and read the full offer.</li>
+<li>Confirm the final price and the refund window on the Digistore24 checkout page — that page is binding, not any review.</li>
+<li>Pay inside the Digistore24 checkout (never by bank transfer or off-platform links).</li>
+<li>Save the order confirmation email; note the refund deadline in your calendar.</li>
+<li>Evaluate promptly. Digistore24 buyer support can help if the vendor is unresponsive.</li>
+</ol>`);
+  secs.push(`<p class="sub">Full research archive for this product (Markdown: complete marketplace record + verbatim sales-page extracts): <a href="../content/products/${mdFile}">${esc(p.label)} — data archive (.md)</a>.</p>`);
+  return secs.join("\n");
+}
+
 
 const altSlugs = computeAltSlugs();
 homePage();
